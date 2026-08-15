@@ -1,0 +1,2471 @@
+{
+  "programme_id": "B_S_Sc_in_Global_Studies__Faculty_of_Social_Science",
+  "academic_program": "B.S.Sc. in Global Studies",
+  "faculty": "Faculty of Social Science",
+  "academic_year": 2024,
+  "admission_cohort": "2024-25",
+  "requirement_summary": {
+    "minimum_units_as_printed": "a minimum of 60 units",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Faculty Package",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "GLSD1001",
+            "prefix_inferred": false,
+            "evidence": "GLSD1001 and any two courses, offered by two different Programmes/Departments/Schools, chosen from the following:"
+          },
+          {
+            "course_code": "ARCH1001",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "ARCH1002",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "ARCH1003",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "COMM1110",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "COMM1120",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "COMM1150",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "COMM1500",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "DSPS1001",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "DSPS1003",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "DSPS1004",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "ECON1210",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "ECON1220",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "ECON2011",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "GPAD1020",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "GPAD1076",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "GPAD1077",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "GRMD1302",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "GRMD1401",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "GRMD1402",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "PSYC1000",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "PSYC1630",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "SOCI1001",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "SOCI1201",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "SOSC1001",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "SOSC1002",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "SOSC1003",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "SOWK1001",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "SOWK1113",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "SOWK1114",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "URSP1001",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "URSP1002",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          }
+        ],
+        "raw_text": "9\nGLSD1001 and any two courses, offered by two different Programmes/Departments/Schools, chosen from the following:\nARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+      },
+      {
+        "number": 2,
+        "title": "Required Courses",
+        "units_as_printed": "6",
+        "course_mentions": [
+          {
+            "course_code": "GLSD1003",
+            "prefix_inferred": false,
+            "evidence": "GLSD1003, 2001"
+          },
+          {
+            "course_code": "GLSD2001",
+            "prefix_inferred": true,
+            "evidence": "GLSD1003, 2001"
+          },
+          {
+            "course_code": "GLSD4001",
+            "prefix_inferred": false,
+            "evidence": "(GLSD4001 and 4002) or (GLSD4003 and 4004)"
+          },
+          {
+            "course_code": "GLSD4002",
+            "prefix_inferred": true,
+            "evidence": "(GLSD4001 and 4002) or (GLSD4003 and 4004)"
+          },
+          {
+            "course_code": "GLSD4003",
+            "prefix_inferred": false,
+            "evidence": "(GLSD4001 and 4002) or (GLSD4003 and 4004)"
+          },
+          {
+            "course_code": "GLSD4004",
+            "prefix_inferred": true,
+            "evidence": "(GLSD4001 and 4002) or (GLSD4003 and 4004)"
+          }
+        ],
+        "raw_text": "(a)\nGLSD1003, 2001\n6\n(b)\nResident Study Overseas:\n9\nStudents are required to study overseas for one academic term in a partner institution via an exchange programme administered by the Office of Academic Links or the Colleges, and complete at least 9 units of courses related to Global Studies approved by the Programme Director. Grades obtained in these courses are not included in the calculation of GPA. Students who are unable to obtain the required units from partner institutions must make up the shortfall by completing appropriate courses at CUHK, subject to the approval of the Programme Director.\n(c)\nLanguage Courses:\n6\nStudents are required to take 6 units of language courses other than those on Chinese (Cantonese/Putonghua) or English. Non-local students whose native language is not Chinese or English must take courses on a language that is approved by the Programme Director.\n(d)\nCapstone Courses:\n6\nChoose one of the following:\n(GLSD4001 and 4002) or (GLSD4003 and 4004)"
+      },
+      {
+        "number": 3,
+        "title": "Elective Courses[a]",
+        "units_as_printed": "21",
+        "course_mentions": [
+          {
+            "course_code": "COMM2100",
+            "prefix_inferred": false,
+            "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+          },
+          {
+            "course_code": "COMM2590",
+            "prefix_inferred": true,
+            "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+          },
+          {
+            "course_code": "COMM2922",
+            "prefix_inferred": true,
+            "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+          },
+          {
+            "course_code": "COMM2930",
+            "prefix_inferred": true,
+            "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+          },
+          {
+            "course_code": "COMM4191",
+            "prefix_inferred": true,
+            "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+          },
+          {
+            "course_code": "GDRS2002",
+            "prefix_inferred": false,
+            "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+          },
+          {
+            "course_code": "GDRS3021",
+            "prefix_inferred": true,
+            "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+          },
+          {
+            "course_code": "GLSD2101",
+            "prefix_inferred": false,
+            "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+          },
+          {
+            "course_code": "GLSD2201",
+            "prefix_inferred": true,
+            "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+          },
+          {
+            "course_code": "GLSD3101",
+            "prefix_inferred": true,
+            "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+          },
+          {
+            "course_code": "GLSD3102",
+            "prefix_inferred": true,
+            "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+          },
+          {
+            "course_code": "GLSD3201",
+            "prefix_inferred": true,
+            "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+          },
+          {
+            "course_code": "GLSD3303",
+            "prefix_inferred": true,
+            "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+          },
+          {
+            "course_code": "URSP2030",
+            "prefix_inferred": false,
+            "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+          },
+          {
+            "course_code": "URSP2050",
+            "prefix_inferred": true,
+            "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+          },
+          {
+            "course_code": "ECON3320",
+            "prefix_inferred": false,
+            "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3801, 3511, 4102"
+          },
+          {
+            "course_code": "ECON3350",
+            "prefix_inferred": true,
+            "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3801, 3511, 4102"
+          },
+          {
+            "course_code": "ECON3570",
+            "prefix_inferred": true,
+            "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3801, 3511, 4102"
+          },
+          {
+            "course_code": "GLEF3020",
+            "prefix_inferred": false,
+            "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3801, 3511, 4102"
+          },
+          {
+            "course_code": "GLEF3030",
+            "prefix_inferred": true,
+            "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3801, 3511, 4102"
+          },
+          {
+            "course_code": "GLEF3040",
+            "prefix_inferred": true,
+            "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3801, 3511, 4102"
+          },
+          {
+            "course_code": "GLEF4020",
+            "prefix_inferred": true,
+            "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3801, 3511, 4102"
+          },
+          {
+            "course_code": "GLSD2501",
+            "prefix_inferred": false,
+            "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3801, 3511, 4102"
+          },
+          {
+            "course_code": "GLSD3501",
+            "prefix_inferred": true,
+            "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3801, 3511, 4102"
+          },
+          {
+            "course_code": "GLSD3801",
+            "prefix_inferred": true,
+            "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3801, 3511, 4102"
+          },
+          {
+            "course_code": "GLSD3511",
+            "prefix_inferred": true,
+            "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3801, 3511, 4102"
+          },
+          {
+            "course_code": "GLSD4102",
+            "prefix_inferred": true,
+            "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3801, 3511, 4102"
+          },
+          {
+            "course_code": "DSPS3310",
+            "prefix_inferred": false,
+            "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+          },
+          {
+            "course_code": "GLSD2301",
+            "prefix_inferred": false,
+            "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+          },
+          {
+            "course_code": "GLSD3106",
+            "prefix_inferred": true,
+            "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+          },
+          {
+            "course_code": "GLSD3301",
+            "prefix_inferred": true,
+            "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+          },
+          {
+            "course_code": "GLSD3302",
+            "prefix_inferred": true,
+            "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+          },
+          {
+            "course_code": "GLSD3311",
+            "prefix_inferred": true,
+            "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+          },
+          {
+            "course_code": "GLSD3402",
+            "prefix_inferred": true,
+            "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+          },
+          {
+            "course_code": "GLSD3403",
+            "prefix_inferred": true,
+            "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+          },
+          {
+            "course_code": "GLSD3404",
+            "prefix_inferred": true,
+            "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+          },
+          {
+            "course_code": "GLSD3405",
+            "prefix_inferred": true,
+            "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+          },
+          {
+            "course_code": "GLSD3411",
+            "prefix_inferred": true,
+            "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+          },
+          {
+            "course_code": "GLSD4401",
+            "prefix_inferred": true,
+            "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+          },
+          {
+            "course_code": "GLSD4402",
+            "prefix_inferred": true,
+            "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+          },
+          {
+            "course_code": "GPAD2185",
+            "prefix_inferred": false,
+            "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+          },
+          {
+            "course_code": "GPAD2300",
+            "prefix_inferred": true,
+            "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+          },
+          {
+            "course_code": "GPAD2370",
+            "prefix_inferred": true,
+            "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+          },
+          {
+            "course_code": "GPAD2375",
+            "prefix_inferred": true,
+            "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+          },
+          {
+            "course_code": "GPAD3360",
+            "prefix_inferred": true,
+            "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+          },
+          {
+            "course_code": "GPAD3451",
+            "prefix_inferred": true,
+            "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+          },
+          {
+            "course_code": "DSPS3803",
+            "prefix_inferred": false,
+            "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+          },
+          {
+            "course_code": "GLSD2401",
+            "prefix_inferred": false,
+            "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+          },
+          {
+            "course_code": "GLSD3401",
+            "prefix_inferred": true,
+            "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+          },
+          {
+            "course_code": "GLSD3801",
+            "prefix_inferred": true,
+            "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+          },
+          {
+            "course_code": "GPAD3360",
+            "prefix_inferred": false,
+            "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+          },
+          {
+            "course_code": "GRMD2402",
+            "prefix_inferred": false,
+            "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+          },
+          {
+            "course_code": "GRMD2404",
+            "prefix_inferred": true,
+            "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+          },
+          {
+            "course_code": "GRMD2501",
+            "prefix_inferred": true,
+            "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+          },
+          {
+            "course_code": "GRMD3202",
+            "prefix_inferred": true,
+            "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+          },
+          {
+            "course_code": "GRMD3304",
+            "prefix_inferred": true,
+            "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+          },
+          {
+            "course_code": "GRMD4203",
+            "prefix_inferred": true,
+            "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+          },
+          {
+            "course_code": "GRMD4503",
+            "prefix_inferred": true,
+            "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+          },
+          {
+            "course_code": "PSYC3450",
+            "prefix_inferred": false,
+            "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+          },
+          {
+            "course_code": "PSYC3660",
+            "prefix_inferred": true,
+            "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+          },
+          {
+            "course_code": "PSYC3720",
+            "prefix_inferred": true,
+            "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+          },
+          {
+            "course_code": "URSP2200",
+            "prefix_inferred": false,
+            "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+          },
+          {
+            "course_code": "URSP2800",
+            "prefix_inferred": true,
+            "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+          },
+          {
+            "course_code": "DSPS3190",
+            "prefix_inferred": false,
+            "evidence": "DSPS3190#, ECON3140#, GPAD2196#"
+          },
+          {
+            "course_code": "ECON3140",
+            "prefix_inferred": false,
+            "evidence": "DSPS3190#, ECON3140#, GPAD2196#"
+          },
+          {
+            "course_code": "GPAD2196",
+            "prefix_inferred": false,
+            "evidence": "DSPS3190#, ECON3140#, GPAD2196#"
+          }
+        ],
+        "raw_text": "21\n(a)\nGlobal Media and Popular Culture\nCOMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#\n(b)\nGlobal Economy\nECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3801, 3511, 4102\n(c)\nWorld Politics\nDSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#\n(d)\nPlanetary Health\nDSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#\n(e)\nQuantitative Methods in Global Studies\nDSPS3190#, ECON3140#, GPAD2196#"
+      },
+      {
+        "number": 4,
+        "title": "Internship",
+        "units_as_printed": "3",
+        "course_mentions": [
+          {
+            "course_code": "GLSD3601",
+            "prefix_inferred": false,
+            "evidence": "GLSD3601"
+          }
+        ],
+        "raw_text": "3\nGLSD3601\nTotal:\n60\nExplanatory Notes:"
+      },
+      {
+        "number": 1,
+        "title": "Required Courses",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "GLSD1001",
+            "prefix_inferred": false,
+            "evidence": "GLSD1001, 1003, 2001"
+          },
+          {
+            "course_code": "GLSD1003",
+            "prefix_inferred": true,
+            "evidence": "GLSD1001, 1003, 2001"
+          },
+          {
+            "course_code": "GLSD2001",
+            "prefix_inferred": true,
+            "evidence": "GLSD1001, 1003, 2001"
+          },
+          {
+            "course_code": "GLSD4001",
+            "prefix_inferred": false,
+            "evidence": "(GLSD4001 and 4002) or (GLSD4003 and 4004)"
+          },
+          {
+            "course_code": "GLSD4002",
+            "prefix_inferred": true,
+            "evidence": "(GLSD4001 and 4002) or (GLSD4003 and 4004)"
+          },
+          {
+            "course_code": "GLSD4003",
+            "prefix_inferred": false,
+            "evidence": "(GLSD4001 and 4002) or (GLSD4003 and 4004)"
+          },
+          {
+            "course_code": "GLSD4004",
+            "prefix_inferred": true,
+            "evidence": "(GLSD4001 and 4002) or (GLSD4003 and 4004)"
+          }
+        ],
+        "raw_text": "(a)\nGLSD1001, 1003, 2001\n9\n(b)\nLanguage Courses:\n6\nStudents are required to take 6 units of language courses other than those on Chinese (Cantonese/Putonghua) or English. Non-local students whose native language is not Chinese or English must take courses on a language that is approved by the Programme Director.\n(c)\nCapstone Courses:\n6\nChoose one of the following:\n(GLSD4001 and 4002) or (GLSD4003 and 4004)"
+      },
+      {
+        "number": 2,
+        "title": "Elective Courses[a]",
+        "units_as_printed": "30",
+        "course_mentions": [
+          {
+            "course_code": "COMM2100",
+            "prefix_inferred": false,
+            "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+          },
+          {
+            "course_code": "COMM2590",
+            "prefix_inferred": true,
+            "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+          },
+          {
+            "course_code": "COMM2922",
+            "prefix_inferred": true,
+            "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+          },
+          {
+            "course_code": "COMM2930",
+            "prefix_inferred": true,
+            "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+          },
+          {
+            "course_code": "COMM4191",
+            "prefix_inferred": true,
+            "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+          },
+          {
+            "course_code": "GDRS2002",
+            "prefix_inferred": false,
+            "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+          },
+          {
+            "course_code": "GDRS3021",
+            "prefix_inferred": true,
+            "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+          },
+          {
+            "course_code": "GLSD2101",
+            "prefix_inferred": false,
+            "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+          },
+          {
+            "course_code": "GLSD2201",
+            "prefix_inferred": true,
+            "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+          },
+          {
+            "course_code": "GLSD3101",
+            "prefix_inferred": true,
+            "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+          },
+          {
+            "course_code": "GLSD3102",
+            "prefix_inferred": true,
+            "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+          },
+          {
+            "course_code": "GLSD3201",
+            "prefix_inferred": true,
+            "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+          },
+          {
+            "course_code": "GLSD3303",
+            "prefix_inferred": true,
+            "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+          },
+          {
+            "course_code": "URSP2030",
+            "prefix_inferred": false,
+            "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+          },
+          {
+            "course_code": "URSP2050",
+            "prefix_inferred": true,
+            "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+          },
+          {
+            "course_code": "ECON3320",
+            "prefix_inferred": false,
+            "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3511, 3801, 4102"
+          },
+          {
+            "course_code": "ECON3350",
+            "prefix_inferred": true,
+            "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3511, 3801, 4102"
+          },
+          {
+            "course_code": "ECON3570",
+            "prefix_inferred": true,
+            "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3511, 3801, 4102"
+          },
+          {
+            "course_code": "GLEF3020",
+            "prefix_inferred": false,
+            "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3511, 3801, 4102"
+          },
+          {
+            "course_code": "GLEF3030",
+            "prefix_inferred": true,
+            "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3511, 3801, 4102"
+          },
+          {
+            "course_code": "GLEF3040",
+            "prefix_inferred": true,
+            "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3511, 3801, 4102"
+          },
+          {
+            "course_code": "GLEF4020",
+            "prefix_inferred": true,
+            "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3511, 3801, 4102"
+          },
+          {
+            "course_code": "GLSD2501",
+            "prefix_inferred": false,
+            "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3511, 3801, 4102"
+          },
+          {
+            "course_code": "GLSD3501",
+            "prefix_inferred": true,
+            "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3511, 3801, 4102"
+          },
+          {
+            "course_code": "GLSD3511",
+            "prefix_inferred": true,
+            "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3511, 3801, 4102"
+          },
+          {
+            "course_code": "GLSD3801",
+            "prefix_inferred": true,
+            "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3511, 3801, 4102"
+          },
+          {
+            "course_code": "GLSD4102",
+            "prefix_inferred": true,
+            "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3511, 3801, 4102"
+          },
+          {
+            "course_code": "DSPS3310",
+            "prefix_inferred": false,
+            "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+          },
+          {
+            "course_code": "GLSD2301",
+            "prefix_inferred": false,
+            "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+          },
+          {
+            "course_code": "GLSD3106",
+            "prefix_inferred": true,
+            "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+          },
+          {
+            "course_code": "GLSD3301",
+            "prefix_inferred": true,
+            "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+          },
+          {
+            "course_code": "GLSD3302",
+            "prefix_inferred": true,
+            "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+          },
+          {
+            "course_code": "GLSD3311",
+            "prefix_inferred": true,
+            "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+          },
+          {
+            "course_code": "GLSD3402",
+            "prefix_inferred": true,
+            "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+          },
+          {
+            "course_code": "GLSD3403",
+            "prefix_inferred": true,
+            "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+          },
+          {
+            "course_code": "GLSD3404",
+            "prefix_inferred": true,
+            "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+          },
+          {
+            "course_code": "GLSD3405",
+            "prefix_inferred": true,
+            "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+          },
+          {
+            "course_code": "GLSD3411",
+            "prefix_inferred": true,
+            "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+          },
+          {
+            "course_code": "GLSD4401",
+            "prefix_inferred": true,
+            "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+          },
+          {
+            "course_code": "GLSD4402",
+            "prefix_inferred": true,
+            "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+          },
+          {
+            "course_code": "GPAD2185",
+            "prefix_inferred": false,
+            "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+          },
+          {
+            "course_code": "GPAD2300",
+            "prefix_inferred": true,
+            "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+          },
+          {
+            "course_code": "GPAD2370",
+            "prefix_inferred": true,
+            "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+          },
+          {
+            "course_code": "GPAD2375",
+            "prefix_inferred": true,
+            "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+          },
+          {
+            "course_code": "GPAD3360",
+            "prefix_inferred": true,
+            "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+          },
+          {
+            "course_code": "GPAD3451",
+            "prefix_inferred": true,
+            "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+          },
+          {
+            "course_code": "DSPS3803",
+            "prefix_inferred": false,
+            "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+          },
+          {
+            "course_code": "GLSD2401",
+            "prefix_inferred": false,
+            "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+          },
+          {
+            "course_code": "GLSD3401",
+            "prefix_inferred": true,
+            "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+          },
+          {
+            "course_code": "GLSD3801",
+            "prefix_inferred": true,
+            "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+          },
+          {
+            "course_code": "GPAD3360",
+            "prefix_inferred": false,
+            "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+          },
+          {
+            "course_code": "GRMD2402",
+            "prefix_inferred": false,
+            "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+          },
+          {
+            "course_code": "GRMD2404",
+            "prefix_inferred": true,
+            "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+          },
+          {
+            "course_code": "GRMD2501",
+            "prefix_inferred": true,
+            "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+          },
+          {
+            "course_code": "GRMD3202",
+            "prefix_inferred": true,
+            "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+          },
+          {
+            "course_code": "GRMD3304",
+            "prefix_inferred": true,
+            "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+          },
+          {
+            "course_code": "GRMD4203",
+            "prefix_inferred": true,
+            "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+          },
+          {
+            "course_code": "GRMD4503",
+            "prefix_inferred": true,
+            "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+          },
+          {
+            "course_code": "PSYC3450",
+            "prefix_inferred": false,
+            "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+          },
+          {
+            "course_code": "PSYC3660",
+            "prefix_inferred": true,
+            "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+          },
+          {
+            "course_code": "PSYC3720",
+            "prefix_inferred": true,
+            "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+          },
+          {
+            "course_code": "URSP2200",
+            "prefix_inferred": false,
+            "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+          },
+          {
+            "course_code": "URSP2800",
+            "prefix_inferred": true,
+            "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+          },
+          {
+            "course_code": "DSPS3190",
+            "prefix_inferred": false,
+            "evidence": "DSPS3190#, ECON3140#, GPAD2196#"
+          },
+          {
+            "course_code": "ECON3140",
+            "prefix_inferred": false,
+            "evidence": "DSPS3190#, ECON3140#, GPAD2196#"
+          },
+          {
+            "course_code": "GPAD2196",
+            "prefix_inferred": false,
+            "evidence": "DSPS3190#, ECON3140#, GPAD2196#"
+          }
+        ],
+        "raw_text": "30\n(a)\nGlobal Media and Popular Culture\nCOMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#\n(b)\nGlobal Economy\nECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3511, 3801, 4102\n(c)\nWorld Politics\nDSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#\n(d)\nPlanetary Health\nDSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#\n(e)\nQuantitative Methods in Global Studies\nDSPS3190#, ECON3140#, GPAD2196#\nTotal:\n51\nExplanatory Notes:"
+      },
+      {
+        "number": 1,
+        "title": "Elective Courses",
+        "units_as_printed": "6",
+        "course_mentions": [
+          {
+            "course_code": "GLSD1001",
+            "prefix_inferred": false,
+            "evidence": "GLSD1001, 2001, 2101, 2201, 2301, 2401, 2501"
+          },
+          {
+            "course_code": "GLSD2001",
+            "prefix_inferred": true,
+            "evidence": "GLSD1001, 2001, 2101, 2201, 2301, 2401, 2501"
+          },
+          {
+            "course_code": "GLSD2101",
+            "prefix_inferred": true,
+            "evidence": "GLSD1001, 2001, 2101, 2201, 2301, 2401, 2501"
+          },
+          {
+            "course_code": "GLSD2201",
+            "prefix_inferred": true,
+            "evidence": "GLSD1001, 2001, 2101, 2201, 2301, 2401, 2501"
+          },
+          {
+            "course_code": "GLSD2301",
+            "prefix_inferred": true,
+            "evidence": "GLSD1001, 2001, 2101, 2201, 2301, 2401, 2501"
+          },
+          {
+            "course_code": "GLSD2401",
+            "prefix_inferred": true,
+            "evidence": "GLSD1001, 2001, 2101, 2201, 2301, 2401, 2501"
+          },
+          {
+            "course_code": "GLSD2501",
+            "prefix_inferred": true,
+            "evidence": "GLSD1001, 2001, 2101, 2201, 2301, 2401, 2501"
+          },
+          {
+            "course_code": "ARCH3424",
+            "prefix_inferred": false,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "ARCH4721",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "COMM3941",
+            "prefix_inferred": false,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "COMM4191",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "ECON3320",
+            "prefix_inferred": false,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "ECON3350",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "ECON3370",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "GDRS2002",
+            "prefix_inferred": false,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "GDRS3005",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "GDRS3012",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "GDRS4011",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "GLSD2701",
+            "prefix_inferred": false,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "GLSD3101",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "GLSD3102",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "GLSD3105",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "GLSD3106",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "GLSD3111",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "GLSD3201",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "GLSD3211",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "GLSD3301",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "GLSD3302",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "GLSD3303",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "GLSD3311",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "GLSD3401",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "GLSD3402",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "GLSD3403",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "GLSD3404",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "GLSD3405",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "GLSD3411",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "GLSD3501",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "GLSD3511",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "GLSD3701",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "GLSD3801",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "GLSD4102",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "GLSD4104",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "GLSD4401",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "GLSD4402",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "GPAD2185",
+            "prefix_inferred": false,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "GPAD3365",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "GPAD4225",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "GRMD2321",
+            "prefix_inferred": false,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "GRMD3202",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "GRMD3203",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "GRMD3224",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "GRMD3404",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "GRMD4402",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "PSYC3610",
+            "prefix_inferred": false,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "SOWK3340",
+            "prefix_inferred": false,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "SOWK4550",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "URSP2100",
+            "prefix_inferred": false,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "URSP2200",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "URSP2400",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          },
+          {
+            "course_code": "URSP3300",
+            "prefix_inferred": true,
+            "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+          }
+        ],
+        "raw_text": "(a)\nAny two courses from the following:\n6\nGLSD1001, 2001, 2101, 2201, 2301, 2401, 2501\n(b)\nAny four courses selected from the following, with at least two GLSD courses at 3000 or above level:\n12\nARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300\nTotal:\n18\nExplanatory Notes:"
+      },
+      {
+        "number": 1,
+        "title": "Students are advised not to take courses at 3000 or above level in their first year of attendance.",
+        "units_as_printed": null,
+        "course_mentions": [],
+        "raw_text": ""
+      }
+    ]
+  },
+  "all_course_mentions": [
+    {
+      "course_code": "GLSD1001",
+      "prefix_inferred": false,
+      "evidence": "GLSD1001 and any two courses, offered by two different Programmes/Departments/Schools, chosen from the following:"
+    },
+    {
+      "course_code": "ARCH1001",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "ARCH1002",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "ARCH1003",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "COMM1110",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "COMM1120",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "COMM1150",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "COMM1500",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "DSPS1001",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "DSPS1003",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "DSPS1004",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "ECON1210",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "ECON1220",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "ECON2011",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "GPAD1020",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "GPAD1076",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "GPAD1077",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "GRMD1302",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "GRMD1401",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "GRMD1402",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "PSYC1000",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "PSYC1630",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "SOCI1001",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "SOCI1201",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "SOSC1001",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "SOSC1002",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "SOSC1003",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "SOWK1001",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "SOWK1113",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "SOWK1114",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "URSP1001",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "URSP1002",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "GLSD1003",
+      "prefix_inferred": false,
+      "evidence": "GLSD1003, 2001"
+    },
+    {
+      "course_code": "GLSD2001",
+      "prefix_inferred": true,
+      "evidence": "GLSD1003, 2001"
+    },
+    {
+      "course_code": "GLSD4001",
+      "prefix_inferred": false,
+      "evidence": "(GLSD4001 and 4002) or (GLSD4003 and 4004)"
+    },
+    {
+      "course_code": "GLSD4002",
+      "prefix_inferred": true,
+      "evidence": "(GLSD4001 and 4002) or (GLSD4003 and 4004)"
+    },
+    {
+      "course_code": "GLSD4003",
+      "prefix_inferred": false,
+      "evidence": "(GLSD4001 and 4002) or (GLSD4003 and 4004)"
+    },
+    {
+      "course_code": "GLSD4004",
+      "prefix_inferred": true,
+      "evidence": "(GLSD4001 and 4002) or (GLSD4003 and 4004)"
+    },
+    {
+      "course_code": "COMM2100",
+      "prefix_inferred": false,
+      "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+    },
+    {
+      "course_code": "COMM2590",
+      "prefix_inferred": true,
+      "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+    },
+    {
+      "course_code": "COMM2922",
+      "prefix_inferred": true,
+      "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+    },
+    {
+      "course_code": "COMM2930",
+      "prefix_inferred": true,
+      "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+    },
+    {
+      "course_code": "COMM4191",
+      "prefix_inferred": true,
+      "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+    },
+    {
+      "course_code": "GDRS2002",
+      "prefix_inferred": false,
+      "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+    },
+    {
+      "course_code": "GDRS3021",
+      "prefix_inferred": true,
+      "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+    },
+    {
+      "course_code": "GLSD2101",
+      "prefix_inferred": false,
+      "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+    },
+    {
+      "course_code": "GLSD2201",
+      "prefix_inferred": true,
+      "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+    },
+    {
+      "course_code": "GLSD3101",
+      "prefix_inferred": true,
+      "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+    },
+    {
+      "course_code": "GLSD3102",
+      "prefix_inferred": true,
+      "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+    },
+    {
+      "course_code": "GLSD3201",
+      "prefix_inferred": true,
+      "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+    },
+    {
+      "course_code": "GLSD3303",
+      "prefix_inferred": true,
+      "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+    },
+    {
+      "course_code": "URSP2030",
+      "prefix_inferred": false,
+      "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+    },
+    {
+      "course_code": "URSP2050",
+      "prefix_inferred": true,
+      "evidence": "COMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#"
+    },
+    {
+      "course_code": "ECON3320",
+      "prefix_inferred": false,
+      "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3801, 3511, 4102"
+    },
+    {
+      "course_code": "ECON3350",
+      "prefix_inferred": true,
+      "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3801, 3511, 4102"
+    },
+    {
+      "course_code": "ECON3570",
+      "prefix_inferred": true,
+      "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3801, 3511, 4102"
+    },
+    {
+      "course_code": "GLEF3020",
+      "prefix_inferred": false,
+      "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3801, 3511, 4102"
+    },
+    {
+      "course_code": "GLEF3030",
+      "prefix_inferred": true,
+      "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3801, 3511, 4102"
+    },
+    {
+      "course_code": "GLEF3040",
+      "prefix_inferred": true,
+      "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3801, 3511, 4102"
+    },
+    {
+      "course_code": "GLEF4020",
+      "prefix_inferred": true,
+      "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3801, 3511, 4102"
+    },
+    {
+      "course_code": "GLSD2501",
+      "prefix_inferred": false,
+      "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3801, 3511, 4102"
+    },
+    {
+      "course_code": "GLSD3501",
+      "prefix_inferred": true,
+      "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3801, 3511, 4102"
+    },
+    {
+      "course_code": "GLSD3801",
+      "prefix_inferred": true,
+      "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3801, 3511, 4102"
+    },
+    {
+      "course_code": "GLSD3511",
+      "prefix_inferred": true,
+      "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3801, 3511, 4102"
+    },
+    {
+      "course_code": "GLSD4102",
+      "prefix_inferred": true,
+      "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3801, 3511, 4102"
+    },
+    {
+      "course_code": "DSPS3310",
+      "prefix_inferred": false,
+      "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+    },
+    {
+      "course_code": "GLSD2301",
+      "prefix_inferred": false,
+      "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+    },
+    {
+      "course_code": "GLSD3106",
+      "prefix_inferred": true,
+      "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+    },
+    {
+      "course_code": "GLSD3301",
+      "prefix_inferred": true,
+      "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+    },
+    {
+      "course_code": "GLSD3302",
+      "prefix_inferred": true,
+      "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+    },
+    {
+      "course_code": "GLSD3311",
+      "prefix_inferred": true,
+      "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+    },
+    {
+      "course_code": "GLSD3402",
+      "prefix_inferred": true,
+      "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+    },
+    {
+      "course_code": "GLSD3403",
+      "prefix_inferred": true,
+      "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+    },
+    {
+      "course_code": "GLSD3404",
+      "prefix_inferred": true,
+      "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+    },
+    {
+      "course_code": "GLSD3405",
+      "prefix_inferred": true,
+      "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+    },
+    {
+      "course_code": "GLSD3411",
+      "prefix_inferred": true,
+      "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+    },
+    {
+      "course_code": "GLSD4401",
+      "prefix_inferred": true,
+      "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+    },
+    {
+      "course_code": "GLSD4402",
+      "prefix_inferred": true,
+      "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+    },
+    {
+      "course_code": "GPAD2185",
+      "prefix_inferred": false,
+      "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+    },
+    {
+      "course_code": "GPAD2300",
+      "prefix_inferred": true,
+      "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+    },
+    {
+      "course_code": "GPAD2370",
+      "prefix_inferred": true,
+      "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+    },
+    {
+      "course_code": "GPAD2375",
+      "prefix_inferred": true,
+      "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+    },
+    {
+      "course_code": "GPAD3360",
+      "prefix_inferred": true,
+      "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+    },
+    {
+      "course_code": "GPAD3451",
+      "prefix_inferred": true,
+      "evidence": "DSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#"
+    },
+    {
+      "course_code": "DSPS3803",
+      "prefix_inferred": false,
+      "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+    },
+    {
+      "course_code": "GLSD2401",
+      "prefix_inferred": false,
+      "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+    },
+    {
+      "course_code": "GLSD3401",
+      "prefix_inferred": true,
+      "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+    },
+    {
+      "course_code": "GLSD3801",
+      "prefix_inferred": true,
+      "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+    },
+    {
+      "course_code": "GPAD3360",
+      "prefix_inferred": false,
+      "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+    },
+    {
+      "course_code": "GRMD2402",
+      "prefix_inferred": false,
+      "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+    },
+    {
+      "course_code": "GRMD2404",
+      "prefix_inferred": true,
+      "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+    },
+    {
+      "course_code": "GRMD2501",
+      "prefix_inferred": true,
+      "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+    },
+    {
+      "course_code": "GRMD3202",
+      "prefix_inferred": true,
+      "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+    },
+    {
+      "course_code": "GRMD3304",
+      "prefix_inferred": true,
+      "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+    },
+    {
+      "course_code": "GRMD4203",
+      "prefix_inferred": true,
+      "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+    },
+    {
+      "course_code": "GRMD4503",
+      "prefix_inferred": true,
+      "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+    },
+    {
+      "course_code": "PSYC3450",
+      "prefix_inferred": false,
+      "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+    },
+    {
+      "course_code": "PSYC3660",
+      "prefix_inferred": true,
+      "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+    },
+    {
+      "course_code": "PSYC3720",
+      "prefix_inferred": true,
+      "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+    },
+    {
+      "course_code": "URSP2200",
+      "prefix_inferred": false,
+      "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+    },
+    {
+      "course_code": "URSP2800",
+      "prefix_inferred": true,
+      "evidence": "DSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#"
+    },
+    {
+      "course_code": "DSPS3190",
+      "prefix_inferred": false,
+      "evidence": "DSPS3190#, ECON3140#, GPAD2196#"
+    },
+    {
+      "course_code": "ECON3140",
+      "prefix_inferred": false,
+      "evidence": "DSPS3190#, ECON3140#, GPAD2196#"
+    },
+    {
+      "course_code": "GPAD2196",
+      "prefix_inferred": false,
+      "evidence": "DSPS3190#, ECON3140#, GPAD2196#"
+    },
+    {
+      "course_code": "GLSD3601",
+      "prefix_inferred": false,
+      "evidence": "GLSD3601"
+    },
+    {
+      "course_code": "GLSD1001",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: GLSD1001, 1 Faculty Package course"
+    },
+    {
+      "course_code": "GLSD1003",
+      "prefix_inferred": false,
+      "evidence": "Major Required: GLSD1003, 1 Language course"
+    },
+    {
+      "course_code": "GLSD2001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: GLSD2001"
+    },
+    {
+      "course_code": "GLSD3601",
+      "prefix_inferred": false,
+      "evidence": "Major Required: GLSD3601"
+    },
+    {
+      "course_code": "GLSD4001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: GLSD4001 or 4003"
+    },
+    {
+      "course_code": "GLSD4003",
+      "prefix_inferred": true,
+      "evidence": "Major Required: GLSD4001 or 4003"
+    },
+    {
+      "course_code": "GLSD4002",
+      "prefix_inferred": false,
+      "evidence": "Major Required: GLSD4002 or 4004"
+    },
+    {
+      "course_code": "GLSD4004",
+      "prefix_inferred": true,
+      "evidence": "Major Required: GLSD4002 or 4004"
+    },
+    {
+      "course_code": "ELTU1001",
+      "prefix_inferred": false,
+      "evidence": "University Core Requirements: ELTU1001, College GE, PE,"
+    },
+    {
+      "course_code": "CHLT1001",
+      "prefix_inferred": false,
+      "evidence": "CHLT1001, 1 UGFH or UGFN course, Digital Literacy and Computational Thinking"
+    },
+    {
+      "course_code": "GLSD2001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: GLSD2001, 1 Language course"
+    },
+    {
+      "course_code": "ELTU2020",
+      "prefix_inferred": false,
+      "evidence": "University Core Requirements: ELTU2020"
+    },
+    {
+      "course_code": "CHLT1002",
+      "prefix_inferred": false,
+      "evidence": "University Core Requirements: CHLT1002"
+    },
+    {
+      "course_code": "GLSD4001",
+      "prefix_inferred": false,
+      "evidence": "GLSD4001 and 4002; or GLSD4003 and 4004"
+    },
+    {
+      "course_code": "GLSD4002",
+      "prefix_inferred": true,
+      "evidence": "GLSD4001 and 4002; or GLSD4003 and 4004"
+    },
+    {
+      "course_code": "GLSD4003",
+      "prefix_inferred": false,
+      "evidence": "GLSD4001 and 4002; or GLSD4003 and 4004"
+    },
+    {
+      "course_code": "GLSD4004",
+      "prefix_inferred": true,
+      "evidence": "GLSD4001 and 4002; or GLSD4003 and 4004"
+    },
+    {
+      "course_code": "GLSD1001",
+      "prefix_inferred": false,
+      "evidence": "GLSD1001, 1003, 2001"
+    },
+    {
+      "course_code": "GLSD1003",
+      "prefix_inferred": true,
+      "evidence": "GLSD1001, 1003, 2001"
+    },
+    {
+      "course_code": "GLSD2001",
+      "prefix_inferred": true,
+      "evidence": "GLSD1001, 1003, 2001"
+    },
+    {
+      "course_code": "ECON3320",
+      "prefix_inferred": false,
+      "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3511, 3801, 4102"
+    },
+    {
+      "course_code": "ECON3350",
+      "prefix_inferred": true,
+      "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3511, 3801, 4102"
+    },
+    {
+      "course_code": "ECON3570",
+      "prefix_inferred": true,
+      "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3511, 3801, 4102"
+    },
+    {
+      "course_code": "GLEF3020",
+      "prefix_inferred": false,
+      "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3511, 3801, 4102"
+    },
+    {
+      "course_code": "GLEF3030",
+      "prefix_inferred": true,
+      "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3511, 3801, 4102"
+    },
+    {
+      "course_code": "GLEF3040",
+      "prefix_inferred": true,
+      "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3511, 3801, 4102"
+    },
+    {
+      "course_code": "GLEF4020",
+      "prefix_inferred": true,
+      "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3511, 3801, 4102"
+    },
+    {
+      "course_code": "GLSD2501",
+      "prefix_inferred": false,
+      "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3511, 3801, 4102"
+    },
+    {
+      "course_code": "GLSD3501",
+      "prefix_inferred": true,
+      "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3511, 3801, 4102"
+    },
+    {
+      "course_code": "GLSD3511",
+      "prefix_inferred": true,
+      "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3511, 3801, 4102"
+    },
+    {
+      "course_code": "GLSD3801",
+      "prefix_inferred": true,
+      "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3511, 3801, 4102"
+    },
+    {
+      "course_code": "GLSD4102",
+      "prefix_inferred": true,
+      "evidence": "ECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3511, 3801, 4102"
+    },
+    {
+      "course_code": "GLSD1001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: GLSD1001, 2001, 1 Language course"
+    },
+    {
+      "course_code": "GLSD2001",
+      "prefix_inferred": true,
+      "evidence": "Major Required: GLSD1001, 2001, 1 Language course"
+    },
+    {
+      "course_code": "ELTU2020",
+      "prefix_inferred": false,
+      "evidence": "University Core Requirements: ELTU2020[a], Understanding China and/or Hong Kong in the Wider Constitutional Order"
+    },
+    {
+      "course_code": "ELTU3020",
+      "prefix_inferred": false,
+      "evidence": "University Core Requirements: ELTU3020, College GE"
+    },
+    {
+      "course_code": "GLSD1001",
+      "prefix_inferred": false,
+      "evidence": "GLSD1001, 2001, 2101, 2201, 2301, 2401, 2501"
+    },
+    {
+      "course_code": "GLSD2001",
+      "prefix_inferred": true,
+      "evidence": "GLSD1001, 2001, 2101, 2201, 2301, 2401, 2501"
+    },
+    {
+      "course_code": "GLSD2101",
+      "prefix_inferred": true,
+      "evidence": "GLSD1001, 2001, 2101, 2201, 2301, 2401, 2501"
+    },
+    {
+      "course_code": "GLSD2201",
+      "prefix_inferred": true,
+      "evidence": "GLSD1001, 2001, 2101, 2201, 2301, 2401, 2501"
+    },
+    {
+      "course_code": "GLSD2301",
+      "prefix_inferred": true,
+      "evidence": "GLSD1001, 2001, 2101, 2201, 2301, 2401, 2501"
+    },
+    {
+      "course_code": "GLSD2401",
+      "prefix_inferred": true,
+      "evidence": "GLSD1001, 2001, 2101, 2201, 2301, 2401, 2501"
+    },
+    {
+      "course_code": "GLSD2501",
+      "prefix_inferred": true,
+      "evidence": "GLSD1001, 2001, 2101, 2201, 2301, 2401, 2501"
+    },
+    {
+      "course_code": "ARCH3424",
+      "prefix_inferred": false,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "ARCH4721",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "COMM3941",
+      "prefix_inferred": false,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "COMM4191",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "ECON3320",
+      "prefix_inferred": false,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "ECON3350",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "ECON3370",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GDRS2002",
+      "prefix_inferred": false,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GDRS3005",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GDRS3012",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GDRS4011",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GLSD2701",
+      "prefix_inferred": false,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GLSD3101",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GLSD3102",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GLSD3105",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GLSD3106",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GLSD3111",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GLSD3201",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GLSD3211",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GLSD3301",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GLSD3302",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GLSD3303",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GLSD3311",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GLSD3401",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GLSD3402",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GLSD3403",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GLSD3404",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GLSD3405",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GLSD3411",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GLSD3501",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GLSD3511",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GLSD3701",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GLSD3801",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GLSD4102",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GLSD4104",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GLSD4401",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GLSD4402",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GPAD2185",
+      "prefix_inferred": false,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GPAD3365",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GPAD4225",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GRMD2321",
+      "prefix_inferred": false,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GRMD3202",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GRMD3203",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GRMD3224",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GRMD3404",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GRMD4402",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "PSYC3610",
+      "prefix_inferred": false,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "SOWK3340",
+      "prefix_inferred": false,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "SOWK4550",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "URSP2100",
+      "prefix_inferred": false,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "URSP2200",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "URSP2400",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "URSP3300",
+      "prefix_inferred": true,
+      "evidence": "ARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300"
+    },
+    {
+      "course_code": "GLSD1001",
+      "prefix_inferred": false,
+      "evidence": "GLSD1001"
+    },
+    {
+      "course_code": "GLSD1003",
+      "prefix_inferred": false,
+      "evidence": "GLSD1003"
+    },
+    {
+      "course_code": "GLSD2001",
+      "prefix_inferred": false,
+      "evidence": "GLSD2001"
+    },
+    {
+      "course_code": "GLSD2101",
+      "prefix_inferred": false,
+      "evidence": "GLSD2101"
+    },
+    {
+      "course_code": "GLSD2201",
+      "prefix_inferred": false,
+      "evidence": "GLSD2201"
+    },
+    {
+      "course_code": "GLSD2301",
+      "prefix_inferred": false,
+      "evidence": "GLSD2301"
+    },
+    {
+      "course_code": "GLSD2401",
+      "prefix_inferred": false,
+      "evidence": "GLSD2401"
+    },
+    {
+      "course_code": "GLSD2501",
+      "prefix_inferred": false,
+      "evidence": "GLSD2501"
+    },
+    {
+      "course_code": "GLSD2701",
+      "prefix_inferred": false,
+      "evidence": "GLSD2701"
+    },
+    {
+      "course_code": "GLSD3101",
+      "prefix_inferred": false,
+      "evidence": "GLSD3101"
+    },
+    {
+      "course_code": "GLSD3102",
+      "prefix_inferred": false,
+      "evidence": "GLSD3102"
+    },
+    {
+      "course_code": "GLSD3105",
+      "prefix_inferred": false,
+      "evidence": "GLSD3105"
+    },
+    {
+      "course_code": "GLSD3106",
+      "prefix_inferred": false,
+      "evidence": "GLSD3106"
+    },
+    {
+      "course_code": "GLSD3111",
+      "prefix_inferred": false,
+      "evidence": "GLSD3111"
+    },
+    {
+      "course_code": "GLSD3201",
+      "prefix_inferred": false,
+      "evidence": "GLSD3201"
+    },
+    {
+      "course_code": "GLSD3211",
+      "prefix_inferred": false,
+      "evidence": "GLSD3211"
+    },
+    {
+      "course_code": "GLSD3301",
+      "prefix_inferred": false,
+      "evidence": "GLSD3301"
+    },
+    {
+      "course_code": "GLSD3302",
+      "prefix_inferred": false,
+      "evidence": "GLSD3302"
+    },
+    {
+      "course_code": "GLSD3303",
+      "prefix_inferred": false,
+      "evidence": "GLSD3303"
+    },
+    {
+      "course_code": "GLSD3311",
+      "prefix_inferred": false,
+      "evidence": "GLSD3311"
+    },
+    {
+      "course_code": "GLSD3401",
+      "prefix_inferred": false,
+      "evidence": "GLSD3401"
+    },
+    {
+      "course_code": "GLSD3402",
+      "prefix_inferred": false,
+      "evidence": "GLSD3402"
+    },
+    {
+      "course_code": "GLSD3403",
+      "prefix_inferred": false,
+      "evidence": "GLSD3403"
+    },
+    {
+      "course_code": "GLSD3404",
+      "prefix_inferred": false,
+      "evidence": "GLSD3404"
+    },
+    {
+      "course_code": "GLSD3405",
+      "prefix_inferred": false,
+      "evidence": "GLSD3405"
+    },
+    {
+      "course_code": "GLSD3411",
+      "prefix_inferred": false,
+      "evidence": "GLSD3411"
+    },
+    {
+      "course_code": "GLSD3501",
+      "prefix_inferred": false,
+      "evidence": "GLSD3501"
+    },
+    {
+      "course_code": "GLSD3511",
+      "prefix_inferred": false,
+      "evidence": "GLSD3511"
+    },
+    {
+      "course_code": "GLSD3701",
+      "prefix_inferred": false,
+      "evidence": "GLSD3701"
+    },
+    {
+      "course_code": "GLSD3801",
+      "prefix_inferred": false,
+      "evidence": "GLSD3801"
+    },
+    {
+      "course_code": "GLSD4001",
+      "prefix_inferred": false,
+      "evidence": "GLSD4001"
+    },
+    {
+      "course_code": "GLSD4002",
+      "prefix_inferred": false,
+      "evidence": "GLSD4002"
+    },
+    {
+      "course_code": "GLSD4003",
+      "prefix_inferred": false,
+      "evidence": "GLSD4003"
+    },
+    {
+      "course_code": "GLSD4004",
+      "prefix_inferred": false,
+      "evidence": "GLSD4004"
+    },
+    {
+      "course_code": "GLSD4102",
+      "prefix_inferred": false,
+      "evidence": "GLSD4102"
+    },
+    {
+      "course_code": "GLSD4104",
+      "prefix_inferred": false,
+      "evidence": "GLSD4104"
+    },
+    {
+      "course_code": "GLSD4401",
+      "prefix_inferred": false,
+      "evidence": "GLSD4401"
+    },
+    {
+      "course_code": "GLSD4402",
+      "prefix_inferred": false,
+      "evidence": "GLSD4402"
+    }
+  ],
+  "course_code_aliases": [],
+  "source": {
+    "system": "CUHK CUSIS Browse Program Information",
+    "url": "https://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/tt_dsp_acad_prog.aspx",
+    "source_text_file": "data/cuhk/2024/programmes/B_S_Sc_in_Global_Studies__Faculty_of_Social_Science.txt",
+    "reused_duplicate_entry": false,
+    "reused_from_faculty": null
+  },
+  "raw_text": "\n\nBrowse Program Information\n\n\n\n\n\n\nAcademic Program:\tB.S.Sc. in Global Studies\nAcademic Year:\t2024\nLanguage:\t\nEnglish\nSimplified Chinese\nTraditional Chinese\n\n\n\nLearning Outcomes\nStudy Scheme\n \n\n\t\n\nGlobal Studies\n\nApplicable to students admitted in 2024-25\n\n\n\n\n \n\n\n\n\n \n\n\t\n\n \n\nMajor Programme Requirement\n\n \n\n\n\n\nStudents are required to complete a minimum of 60 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nFaculty Package:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nGLSD1001 and any two courses, offered by two different Programmes/Departments/Schools, chosen from the following:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nRequired Courses:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nGLSD1003, 2001\n\n\t\n\n6\n\n\n\n\n(b)\n\n\t\n\nResident Study Overseas:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nStudents are required to study overseas for one academic term in a partner institution via an exchange programme administered by the Office of Academic Links or the Colleges, and complete at least 9 units of courses related to Global Studies approved by the Programme Director.  Grades obtained in these courses are not included in the calculation of GPA.  Students who are unable to obtain the required units from partner institutions must make up the shortfall by completing appropriate courses at CUHK, subject to the approval of the Programme Director.\n\n\t\n\n \n\n\n\n\n(c)\n\n\t\n\nLanguage Courses:\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nStudents are required to take 6 units of language courses other than those on Chinese (Cantonese/Putonghua) or English. Non-local students whose native language is not Chinese or English must take courses on a language that is approved by the Programme Director.\n\n\t\n\n \n\n\n\n\n(d)\n\n\t\n\nCapstone Courses:\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nChoose one of the following:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(GLSD4001 and 4002) or (GLSD4003 and 4004)\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nElective Courses[a]:\n\n\t\n\n21\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n(a)\n\n \n\n\t\n\nGlobal Media and Popular Culture\n\nCOMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nGlobal Economy\n\nECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3801, 3511, 4102\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n(c)\n\n\t\n\nWorld Politics\n\nDSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n(d)\n\n\t\n\nPlanetary Health\n\nDSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n(e)\n\n\t\n\nQuantitative Methods in Global Studies\n\nDSPS3190#, ECON3140#, GPAD2196#\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n           \n\n\t\n\n \n\n\n\n\n4.\n\n\t\n\nInternship:\n\n\t\n\n3\n\n\n\n\n \n\n\t\n\nGLSD3601\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n60\n\n\n\n\nExplanatory Notes:\n\n\n\n\n1.\n\n \n\n\t\n\nGLSD courses at 2000 and above level as well as those labeled as # will be included in the calculation of Major GPA for honours classification.\n\n\n\n\n2.\n\n \n\n\t\n\nStudents may be required to participate in activities such as field trips and study tours that foster their learning of global studies.\n\n\n\n\n3.\n\n \n\n\t\n\nStudents who participate in the Dual Undergraduate Degree Programme (DDP) must first complete at least 42 units of courses of Major requirements at CUHK.  Upon completion of their studies at Waseda, students may apply to transfer up to 18 units of courses to fulfill the Major requirements at CUHK, including the 9-unit requirement of Resident Study Overseas and up to 9 units of the remaining Major requirements.\n\n\n\n\n4.\n\n\t\n\nStudents are responsible for the extra costs incurred in relation to the overseas resident study and the participation of the DDP.\n\n\n\n\n[a]\n\n\t\n\nAmong the non-GLSD courses, students can only choose up to three courses under the same subject area.\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\nRecommended Course Pattern\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: GLSD1001, 1 Faculty Package course\n\n\t\n\n6\n\n\n\n\nMajor Required: 1 Language course\n\n\t\n\n3\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nFaculty Package: 1 course\n\n\t\n\n3\n\n\n\n\nMajor Required: GLSD1003, 1 Language course\n\n\t\n\n6\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: GLSD2001\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): 2 courses\n\n\t\n\n6\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required:\n\n\t\n\n \n\n\n\n\nMajor Elective(s): 1 course\n\n\t\n\n3\n\n\n\n\nThird Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nCompulsory resident study overseas\n\n\t\n\n9\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: GLSD3601\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): 2 courses\n\n\t\n\n6\n\n\n\n\nFourth Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: GLSD4001 or 4003\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): 1 course\n\n\t\n\n3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: GLSD4002 or 4004\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): 1 course\n\n\t\n\n3\n\n\n\n\nTotal (including Faculty Package):\n\n\t\n\n60\n\n\n\n\n \n\n\n\n\n \n\n\t\n\nRecommended Course Pattern for CUHK Students in fulfillment of requirements of the DDP with Waseda (BA in International Liberal Studies (ILS), or BA in Social Sciences-Transnational and Interdisciplinary Studies in Social Innovation (TAISI))\n\n\t\n\nUnits\n\n\n\n\nFirst Year of Attendance (Study at CUHK)[a]\n\n\t\n\n1st term\n\nFaculty Package: GLSD1001, 1 Faculty Package course\n\nUniversity Core Requirements: ELTU1001, College GE, PE,\n\n1 UGFH or UGFN course, Understanding China, Hong Kong in the Wider Constitutional Order\n\n\t\n\n \n\n6\n\n11-12\n\n\n\n\n2nd term[a]\n\nFaculty Package: 1 course\n\nMajor Required: GLSD1003, 1 Language course\n\nUniversity Core Requirements: College GE (NA only), PE,\n\nCHLT1001, 1 UGFH or UGFN course, Digital Literacy and Computational Thinking\n\n\t\n\n \n\n3\n\n6\n\n10-12\n\n \n\n\n\n\nSummer Session\n\nUniversity Core Requirements: 1 UGEA course\n\n\t\n\n \n\n2\n\n\n\n\nSecond Year of Attendance\n\n(Study at CUHK)\n\n\t\n\n1st term\n\nMajor Required: GLSD2001, 1 Language course\n\nMajor Elective(s): 2 courses\n\n\t\n\n \n\n6\n\n6\n\n\n\n\nUniversity Core Requirements: ELTU2020\n\n\t\n\n3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Elective(s): 4 courses\n\nUniversity Core Requirements: CHLT1002\n\n\t\n\n12\n\n2\n\n\n\n\nSummer Session\n\nMajor Required: GLSD3601\n\n\t\n\n \n\n3\n\n\n\n\nThird and Fourth Years of Attendance\n\n(Study at Waseda)\n\n\t\n\nTo follow Waseda’s study plans and transfer 20 units from Waseda to CUHK (out of 76 or 80 units of courses taken from the respective programmes). Examples of the corresponding equivalent or closely related courses are listed below.\n\n \n\nMajor Requirements at CUHK\n\n\t\n\nEquivalent or closely related courses at Waseda\n\n\n\n\nResident overseas study\n\n(9 units)\n\n\t\n\nJapanese language courses\n\n\n\n\nCapstone courses\n\nGLSD4001 and 4002; or GLSD4003 and 4004\n\n(6 units)\n\n\t\n\nAdvanced seminar &\n\nDirected Studies for Senior Thesis; or Senior seminar & Capstone Project\n\n\n\n\n1 Elective (3 units)\n\n\t\n\nAny one 4-unit course, subject to approval by the relevant academic units at CUHK\n\n\t\n\n20\n\n\n\n\n \n\nUniversity Core Requirements at CUHK\n\n\t\n\nEquivalent or closely related courses at Waseda\n\n\n\n\nUniversity GE Courses\n\n\t\n\n \n\n\n\n\n§  Area B (2 units)\n\n \n\n\t\n\nILS\n\n§  Behavioral & Experimental Game Theory 01\n\n§  Introduction to Environmental Science\n\nTAISI\n\n§  Evolutionary Anthropology\n\n\n\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\n\n\nUnits taken at CUHK:\n\n\t\n\n71-72\n\n\n\n\nUnits taken at Waseda and recognized by CUHK:\n\n\t\n\n20\n\n\n\n\nTotal:\n\n\t\n\n91-92\n\n\n\n\nExplanatory Notes:\n\n\t\n\n \n\n\n\n\n1.\n\n\t\n\nSubject to approval by the Major Programme concerned, students may opt out of the Dual Degree Programme. The decision to opt out is irrevocable. Students who have opted out are required to complete and fulfill all graduation requirements of the Major Programme at CUHK. Students should be aware that such decision may result in a delay in graduation. Courses and units completed at the Host Institution can be transferred back for fulfillment of CUHK requirements, in accordance with the course mapping table.\n\n\n\n\n[a]\n\n\t\n\nStudents taking a term or a year load exceeding the maximum will need to seek approval from the Registrar.\n\n\n\n\n \n\n\t\n\n \n\n\n\t\t\t\t\n\n\n\n\n \n\nMajor Programme Requirement (for Associate Degree or Higher Diploma holders admitted to senior-year places)\n\n \n\n\n\n\nStudents are required to complete a minimum of 51 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nRequired Courses:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nGLSD1001, 1003, 2001\n\n\t\n\n9\n\n\n\n\n(b)\n\n\t\n\nLanguage Courses:\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nStudents are required to take 6 units of language courses other than those on Chinese (Cantonese/Putonghua) or English.  Non-local students whose native language is not Chinese or English must take courses on a language that is approved by the Programme Director.\n\n\t\n\n \n\n\n\n\n(c)\n\n\t\n\nCapstone Courses:\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nChoose one of the following:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(GLSD4001 and 4002) or (GLSD4003 and 4004)\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nElective Courses[a]:\n\n\t\n\n30\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n(a)\n\n \n\n\t\n\nGlobal Media and Popular Culture\n\nCOMM2100#, 2590#, 2922#, 2930#, 4191#, GDRS2002#, 3021#, GLSD2101, 2201, 3101, 3102, 3201, 3303, URSP2030#, 2050#\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n(b)\n\n \n\n\t\n\nGlobal Economy\n\nECON3320#, 3350#, 3570#, GLEF3020#, 3030#, 3040#, 4020#, GLSD2501, 3501, 3511, 3801, 4102\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n(c)\n\n \n\n\t\n\nWorld Politics\n\nDSPS3310#, GLSD2301, 3106, 3301, 3302, 3311, 3402, 3403, 3404, 3405, 3411, 4401, 4402, GPAD2185#, 2300#, 2370#, 2375#, 3360#, 3451#\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n(d)\n\n \n\n\t\n\nPlanetary Health\n\nDSPS3803#, GLSD2401, 3401, 3801, GPAD3360#, GRMD2402#, 2404#, 2501#, 3202#, 3304#, 4203#, 4503#, PSYC3450#, 3660#, 3720#, URSP2200#, 2800#\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n(e)\n\n\t\n\nQuantitative Methods in Global Studies\n\nDSPS3190#, ECON3140#, GPAD2196#\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n51\n\n\n\n\nExplanatory Notes:\n\n\n\n\n1.\n\n\t\n\nGLSD courses at 2000 and above level as well as those labeled as # will be included in the calculation of Major GPA for honours classification.\n\n\n\n\n2.\n\n\t\n\nStudents may be required to participate in activities such as field trips and study tours that foster their learning of global studies.\n\n\n\n\n[a]\n\n\t\n\nAmong the non-GLSD courses, students can only choose up to three courses under the same subject area.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\n \n\n\n\n\n\n\n \n\n\t\n\nRecommended Course Pattern (for Associate Degree or Higher Diploma holders admitted to senior-year places)\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: GLSD1001, 2001, 1 Language course\n\nMajor Elective(s): 1 course\n\n\t\n\n9\n\n3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: GLSD1003, 1 Language course\n\nMajor Elective(s): 3 courses\n\n\t\n\n6\n\n9\n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: GLSD4001 or 4003\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): 3 courses\n\n\t\n\n9\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: GLSD4002 or 4004\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): 3 courses\n\n\t\n\n9\n\n\n\n\nTotal :\n\n\t\n\n51\n\n\n\n\n \n\n\n\n\n\n\n \n\n\t\n\nRecommended Course Pattern for Waseda students in fulfillment of requirements of the DDP with CUHK (BSSc in Global Studies)\n\n\t\n\nUnits\n\n\n\n\nFirst Year of Attendance (Study at CUHK)\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: GLSD1001, 2001, 1 Language course\n\nMajor Elective(s): 1 course\n\n\t\n\n9\n\n3\n\n\n\n\nUniversity Core Requirements: ELTU2020[a], Understanding China and/or Hong Kong in the Wider Constitutional Order\n\n\t\n\n3-5\n\n\n\n\n2nd term\n\nMajor Required: GLSD1003, 1 Language course\n\nMajor Elective(s): 3 courses\n\n\t\n\n \n\n6\n\n9\n\n\n\n\nUniversity Core Requirements: PE, Understanding China and/or Hong Kong in the Wider Constitutional Order\n\n\t\n\n1-3\n\n\n\n\nSummer Session\n\nUniversity Core Requirements: 1 UGFH or UGFN course, 1 UGEA course\n\n\t\n\n \n\n5\n\n\n\n\nSecond Year of\n\nAttendance\n\n(Study at CUHK)\n\n\t\n\n1st term\n\nMajor Required: GLSD4001 or 4003\n\nMajor Elective(s): 3 courses\n\n\t\n\n \n\n3\n\n9\n\n\n\n\nUniversity Core Requirements: ELTU3020, College GE\n\n\t\n\n4-5\n\n\n\n\n2nd term\n\nMajor Required: GLSD4002 or 4004\n\nMajor Elective(s): 3 courses\n\n\t\n\n \n\n3\n\n9\n\n\n\n\nFree Elective(s)\n\n\t\n\n2-6\n\n\n\n\nUnits taken at CUHK:\n\n\t\n\n69\n\n\n\n\nUnits taken at Waseda and recognized by CUHK:\n\n\t\n\nNA\n\n\n\n\nTotal:\n\n\t\n\n69\n\n\n\n\nExplanatory Note:\n\n\t\n\n \n\n\n\n\n[a]\n\n\t\n\nFor Higher Diploma holders only.\n\n\n\t\t\t\n\n\n\n\n \n\n\n\n\nMinor Programme Title\n\nGlobal Studies\n\n \n\n\n\n\n \n\nMinor Programme Requirement\n\n \n\n\t\n\n \n\n\n\n\nStudents are required to complete a minimum of 18 units of courses as follows:\n\n\n\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nElective Courses:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nAny two courses from the following:\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nGLSD1001, 2001, 2101, 2201, 2301, 2401, 2501\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nAny four courses selected from the following, with at least two GLSD courses at 3000 or above level:\n\n\t\n\n12\n\n \n\n\n\n\n \n\n\t\n\nARCH3424, 4721, COMM3941, 4191, ECON3320, 3350, 3370, GDRS2002, 3005, 3012, 4011, GLSD2701, 3101, 3102, 3105, 3106, 3111, 3201, 3211, 3301, 3302, 3303, 3311, 3401, 3402, 3403, 3404, 3405, 3411, 3501, 3511, 3701, 3801, 4102, 4104, 4401, 4402, GPAD2185, 3365, 4225, GRMD2321, 3202, 3203, 3224, 3404, 4402, PSYC3610, SOWK3340, 4550, URSP2100, 2200, 2400, 3300\n\n\t\n\n \n\n\n\n\nTotal:\n\n\t\n\n18\n\n\n\n\nExplanatory Notes:\n\n\t\n\n \n\n\n\n\n1.\n\n\t\n\nStudents are advised not to take courses at 3000 or above level in their first year of attendance.\n\n\n\n\n2.\n\n\t\n\n12 of the units taken to fulfill the requirement of this Minor Programme should not be used to fulfill the requirements of the students’ Major Programme or other Minor Programmes.\n\n\n\n\n \n\n\t\n\n \n\n\n\t\t\t\t\n\n\n\n\n \n\nCourse List\n\n \n\n\n\n\nCourse Code\n\n\t\n\nCourse Title\n\n\t\n\nUnit(s)\n\n\n\n\nGLSD1001\n\n\t\n\nTheoretical Perspectives on Globalization\n\n\t\n\n3\n\n\n\n\nGLSD1003\n\n\t\n\nGlobalization: Issues and Debates\n\n\t\n\n3\n\n\n\n\nGLSD2001\n\n\t\n\nResearch Methods for Global Studies\n\n\t\n\n3\n\n\n\n\nGLSD2101\n\n\t\n\nGlobal Communication\n\n\t\n\n3\n\n\n\n\nGLSD2201\n\n\t\n\nGlobalization, Cultures, and Societies\n\n\t\n\n3\n\n\n\n\nGLSD2301\n\n\t\n\nGlobal Politics\n\n\t\n\n3\n\n\n\n\nGLSD2401\n\n\t\n\nGlobal Sustainability\n\n\t\n\n3\n\n\n\n\nGLSD2501\n\n\t\n\nWorld Economic Order\n\n\t\n\n3\n\n\n\n\nGLSD2701\n\n\t\n\nField Studies\n\n\t\n\n3\n\n\n\n\nGLSD3101\n\n\t\n\nInternet, Multimedia and Information Society \n\n\t\n\n3\n\n\n\n\nGLSD3102\n\n\t\n\nAnalysis of Global Popular Culture\n\n\t\n\n3\n\n\n\n\nGLSD3105\n\n\t\n\nUnderstanding Global Cities and Urban Space\n\n\t\n\n3\n\n\n\n\nGLSD3106\n\n\t\n\nThe Rise of China in the Global Context I: Diplomacy, Trade and Soft Power\n\n\t\n\n3\n\n\n\n\nGLSD3111\n\n\t\n\nSpecial Topic in Global Media\n\n\t\n\n3\n\n\n\n\nGLSD3201\n\n\t\n\nCultural Psychology and Globalization\n\n\t\n\n3\n\n\n\n\nGLSD3211\n\n\t\n\nSpecial Topic in Cultures and Societies\n\n\t\n\n3\n\n\n\n\nGLSD3301\n\n\t\n\nInternational Relations and International Law \n\n\t\n\n3\n\n\n\n\nGLSD3302\n\n\t\n\nSports and World Politics\n\n\t\n\n3\n\n\n\n\nGLSD3303\n\n\t\n\nUnderstanding Global Issues from Movies\n\n\t\n\n3\n\n\n\n\nGLSD3311\n\n\t\n\nSpecial Topic in World Politics\n\n\t\n\n3\n\n\n\n\nGLSD3401\n\n\t\n\nGlobal Environmental Challenges\n\n\t\n\n3\n\n\n\n\nGLSD3402\n\n\t\n\nKorea and the World: Politics, Economy and Culture\n\n\t\n\n3\n\n\n\n\nGLSD3403\n\n\t\n\nEuropean Union and the World\n\n\t\n\n3\n\n\n\n\nGLSD3404\n\n\t\n\nJapan and Global Political Economy\n\n\t\n\n3\n\n\n\n\nGLSD3405\n\n\t\n\nInternational Relations in Southeast Asia\n\n\t\n\n3\n\n\n\n\nGLSD3411\n\n\t\n\nSpecial Topic in Sustainability and Environment\n\n\t\n\n3\n\n\n\n\nGLSD3501\n\n\t\n\nGlobal Business Organizations\n\n\t\n\n3\n\n\n\n\nGLSD3511\n\n\t\n\nSpecial Topic in Global Economy\n\n\t\n\n3\n\n\n\n\nGLSD3601\n\n\t\n\nInternship\n\n\t\n\n3\n\n\n\n\nGLSD3701\n\n\t\n\nCollaborative Project on Global Issues\n\n\t\n\n3\n\n\n\n\nGLSD3801\n\n\t\n\nSocial Innovation and Sustainable Development\n\n\t\n\n3\n\n\n\n\nGLSD4001\n\n\t\n\nGlobal Studies Capstone Thesis I\n\n\t\n\n3\n\n\n\n\nGLSD4002\n\n\t\n\nGlobal Studies Capstone Thesis II\n\n\t\n\n3\n\n\n\n\nGLSD4003\n\n\t\n\nGlobal Studies Capstone Project I\n\n\t\n\n3\n\n\n\n\nGLSD4004\n\n\t\n\nGlobal Studies Capstone Project II\n\n\t\n\n3\n\n\n\n\nGLSD4102\n\n\t\n\nDevelopmental Study: Poverty, Inequality and Welfare of the World\n\n\t\n\n3\n\n\n\n\nGLSD4104\n\n\t\n\nGlobal Development: Markets, States, Societies and IOs\n\n\t\n\n3\n\n\n\n\nGLSD4401\n\n\t\n\nTraditional Security: Military, War and Peace\n\n\t\n\n3\n\n\n\n\nGLSD4402\n\n\t\n\nNew Security Challenges: Terrorism, Ethnic Conflicts and Human Trafficking\n\n\t\n\n3\n\n \n\n \n\n\n \n\nStudy Scheme\n\n\nLearning Outcomes\n \n\n\t\n\n \n\n1.          Major Programme:\n\n \n\nKnowledge\n\nUpon completion of this Programme, students will have gained:\n\n•  a basic understanding of the economic, cultural, political, and environmental dimensions of globalization;\n\n•  a strong appreciation of the challenges of globalization and the opportunities it presents for the growth and development of countries;\n\n•  a solid grasp of the issues related to governance and conflicts in global contexts, geopolitics and the world in the media;\n\n•  a working knowledge of social science research methods, including qualitative research, surveys, mathematical modeling, computer simulation, and data mining; and\n\n•  specialized knowledge in at least two of the following five concentration areas: Global Media, Cultures and Societies, World Politics, Sustainability and Environment, and Global Economy.\n\n \n\nSkills\n\nStudents of this Programme will have acquired skills in:\n\n•  analytical and creative thinking through its emphasis on interdisciplinary and multicultural studies, and analyzing the complexity of global phenomena from multilateral perspectives;\n\n•  multilingual and multicultural settings through studies in a foreign language and resident study overseas;\n\n•  cross-cultural interactions and managing culturally diverse project teams through mandatory internships in multinational organizations; and\n\n•  interdisciplinary and collaborative research through group research projects supervised by researchers from a wide range of disciplines.\n\n \n\nValues and Attitudes\n\nStudents will have acquired the following values/attitudes:\n\n•  global consciousness and awareness of cultural differences;\n\n•  appreciation of the unique strengths of certain foreign cultures; and\n\n•  the mentality to think globally and act locally.\n\n\n\n\n \n\n\n\n\n2.     Minor Programme:\n\n \n\nUpon the completion of the Minor Programme, students will have demonstrated basic understanding of fundamental issues related to the subject, acquired knowledge of some aspects of the subject with sufficient exposure and at a suitable level to allow further study in this subject or related subjects or to pursue a related career.\n\n \n\n \n\n \n\n \n\n\n"
+}

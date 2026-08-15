@@ -1,0 +1,222 @@
+	Data Language:  
+English
+Simplified Chinese
+Traditional Chinese
+	
+														
+	
+Groupbox
+
+			
+	
+Teaching Timetable
+
+	
+Class Detail
+
+	
+ 
+
+
+	
+
+
+	
+
+	
+ACCT 1111 - B   Foundations in Financial Accounting
+
+
+	
+CUHK | 2026-27 Term 1 | Lecture
+
+	
+
+
+	
+Class Details
+
+				
+	
+								
+	
+
+	
+Status
+
+		
+Open
+
+	
+Class Number
+
+	
+9602
+
+	
+Session
+
+	
+Regular Academic Session
+
+	
+1
+
+	
+Units
+
+	
+3 units
+
+	
+Instruction Mode
+
+	
+In Person
+
+	
+P
+
+		
+Lecture Required
+
+	
+Class Components
+
+	
+<table class="PSTEXT"><tr><td>Lecture Required</td></tr></table>
+		
+				
+	
+Course ID
+
+		
+010848
+
+	
+Offer Nbr
+
+	
+1
+
+	
+Career
+	
+Undergraduate
+
+	
+UG
+
+	
+Dates
+
+	
+2026/8/1 - 2026/12/31
+
+	
+Grading
+	
+Graded
+
+		
+GRD
+
+	
+Campus
+	
+Main Campus
+
+	
+MAIN
+
+
+
+
+	
+Meeting Information
+
+
+Days & Times	Room	Instructor	Meeting Dates
+
+Th 14:30 - 17:15
+	
+Lee Shau Kee Archi Bldg G03
+	
+Dr. WONG Kin Ho
+	
+9/10, 9/17, 9/24
+
+
+Th 14:30 - 17:15
+	
+Lee Shau Kee Archi Bldg G03
+	
+Dr. WONG Kin Ho
+	
+10/8, 10/15, 10/22, 10/29, 11/5, 11/12, 11/19, 11/26, 12/3
+
+
+	
+Enrollment Information
+
+					
+	
+For QFIN or GLEF majors
+Not for students who have taken ACCT2111.
+
+	
+Enrollment Requirements
+
+	
+			
+	
+Class Attributes
+		
+English only
+
+
+
+
+	
+Class Availability
+
+						
+	
+Class Capacity
+	
+77
+	
+Wait List Capacity
+	
+999
+
+	
+Enrollment Total
+	
+4
+	
+Wait List Total
+	
+0
+
+	
+Available Seats
+	
+73
+
+
+	
+Description
+
+	
+	
+This course develops students' conceptual skills and competence in processing, preparing and reporting accounting information in accordance with Generally Accepted Accounting Principles (GAAP).  It introduces the basic concepts and principles of financial accounting including the analysis, recording and reporting of business transactions; preparation and interpretation of financial statements.  Topics include the accounting principles, the recording process, accounting for assets, liabilities, net income and shareholders' equity; and decision making using accounting information.
+
+
+	
+	
+	
+Return to Teaching Timetable
+
+
+

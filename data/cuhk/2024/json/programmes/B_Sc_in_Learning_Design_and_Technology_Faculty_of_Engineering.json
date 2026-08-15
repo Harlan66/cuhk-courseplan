@@ -1,0 +1,805 @@
+{
+  "programme_id": "B_Sc_in_Learning_Design_and_Technology__Faculty_of_Engineering",
+  "academic_program": "B.Sc. in Learning Design and Technology",
+  "faculty": "Faculty of Engineering",
+  "academic_year": 2024,
+  "admission_cohort": "2024-25",
+  "requirement_summary": {
+    "minimum_units_as_printed": "a minimum of 72 units",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Faculty Package",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "CHEM1070",
+            "prefix_inferred": false,
+            "evidence": "CHEM1070 or 1072, ENGG1110, LDTE1300"
+          },
+          {
+            "course_code": "CHEM1072",
+            "prefix_inferred": true,
+            "evidence": "CHEM1070 or 1072, ENGG1110, LDTE1300"
+          },
+          {
+            "course_code": "ENGG1110",
+            "prefix_inferred": false,
+            "evidence": "CHEM1070 or 1072, ENGG1110, LDTE1300"
+          },
+          {
+            "course_code": "LDTE1300",
+            "prefix_inferred": false,
+            "evidence": "CHEM1070 or 1072, ENGG1110, LDTE1300"
+          }
+        ],
+        "raw_text": "9\nCHEM1070 or 1072, ENGG1110, LDTE1300"
+      },
+      {
+        "number": 2,
+        "title": "Foundation Courses",
+        "units_as_printed": "21",
+        "course_mentions": [
+          {
+            "course_code": "CSCI1130",
+            "prefix_inferred": false,
+            "evidence": "CSCI1130, EDUC2120, ENGG2440, LDTE2100, LSCI1012, STAT1011, 2005"
+          },
+          {
+            "course_code": "EDUC2120",
+            "prefix_inferred": false,
+            "evidence": "CSCI1130, EDUC2120, ENGG2440, LDTE2100, LSCI1012, STAT1011, 2005"
+          },
+          {
+            "course_code": "ENGG2440",
+            "prefix_inferred": false,
+            "evidence": "CSCI1130, EDUC2120, ENGG2440, LDTE2100, LSCI1012, STAT1011, 2005"
+          },
+          {
+            "course_code": "LDTE2100",
+            "prefix_inferred": false,
+            "evidence": "CSCI1130, EDUC2120, ENGG2440, LDTE2100, LSCI1012, STAT1011, 2005"
+          },
+          {
+            "course_code": "LSCI1012",
+            "prefix_inferred": false,
+            "evidence": "CSCI1130, EDUC2120, ENGG2440, LDTE2100, LSCI1012, STAT1011, 2005"
+          },
+          {
+            "course_code": "STAT1011",
+            "prefix_inferred": false,
+            "evidence": "CSCI1130, EDUC2120, ENGG2440, LDTE2100, LSCI1012, STAT1011, 2005"
+          },
+          {
+            "course_code": "STAT2005",
+            "prefix_inferred": true,
+            "evidence": "CSCI1130, EDUC2120, ENGG2440, LDTE2100, LSCI1012, STAT1011, 2005"
+          }
+        ],
+        "raw_text": "21\nCSCI1130, EDUC2120, ENGG2440, LDTE2100, LSCI1012, STAT1011, 2005"
+      },
+      {
+        "number": 3,
+        "title": "Required Courses",
+        "units_as_printed": "35",
+        "course_mentions": [
+          {
+            "course_code": "EDUC3200",
+            "prefix_inferred": false,
+            "evidence": "EDUC3200, LDTE3100, 3110"
+          },
+          {
+            "course_code": "LDTE3100",
+            "prefix_inferred": false,
+            "evidence": "EDUC3200, LDTE3100, 3110"
+          },
+          {
+            "course_code": "LDTE3110",
+            "prefix_inferred": true,
+            "evidence": "EDUC3200, LDTE3100, 3110"
+          },
+          {
+            "course_code": "CSCI2040",
+            "prefix_inferred": false,
+            "evidence": "CSCI2040, 2100, ENGG1920"
+          },
+          {
+            "course_code": "CSCI2100",
+            "prefix_inferred": true,
+            "evidence": "CSCI2040, 2100, ENGG1920"
+          },
+          {
+            "course_code": "ENGG1920",
+            "prefix_inferred": false,
+            "evidence": "CSCI2040, 2100, ENGG1920"
+          },
+          {
+            "course_code": "LDTE3120",
+            "prefix_inferred": false,
+            "evidence": "LDTE3120, MAEG1020, PHYS1002 or 1004"
+          },
+          {
+            "course_code": "MAEG1020",
+            "prefix_inferred": false,
+            "evidence": "LDTE3120, MAEG1020, PHYS1002 or 1004"
+          },
+          {
+            "course_code": "PHYS1002",
+            "prefix_inferred": false,
+            "evidence": "LDTE3120, MAEG1020, PHYS1002 or 1004"
+          },
+          {
+            "course_code": "PHYS1004",
+            "prefix_inferred": true,
+            "evidence": "LDTE3120, MAEG1020, PHYS1002 or 1004"
+          },
+          {
+            "course_code": "LDTE3500",
+            "prefix_inferred": false,
+            "evidence": "LDTE3500 (capstone course)"
+          },
+          {
+            "course_code": "LDTE3510",
+            "prefix_inferred": false,
+            "evidence": "LDTE3510 (capstone course), 4500 (capstone course)"
+          },
+          {
+            "course_code": "LDTE4500",
+            "prefix_inferred": true,
+            "evidence": "LDTE3510 (capstone course), 4500 (capstone course)"
+          }
+        ],
+        "raw_text": "35\n(a)\nEducational Knowledge and Design Component\nEDUC3200, LDTE3100, 3110\n(b)\nSoftware Design and Application Component\nCSCI2040, 2100, ENGG1920\n(c)\nSTEM Education and Lab-based Learning Component\nLDTE3120, MAEG1020, PHYS1002 or 1004\n(d)\nInternship\nLDTE3500 (capstone course)\n(e)\nResearch Experience\nLDTE3510 (capstone course), 4500 (capstone course)"
+      },
+      {
+        "number": 4,
+        "title": "Elective Courses",
+        "units_as_printed": "7",
+        "course_mentions": [
+          {
+            "course_code": "AIST2010",
+            "prefix_inferred": false,
+            "evidence": "AIST2010, AIST3510 or SEEM3510, CSCI2720, 3170, 3230, 3310, EDUC3311, ELEG3810, LDTE3200, 4200, 4210, 4300, LSCI2002, MAEG2050, PHYS1712, 2061"
+          },
+          {
+            "course_code": "AIST3510",
+            "prefix_inferred": false,
+            "evidence": "AIST2010, AIST3510 or SEEM3510, CSCI2720, 3170, 3230, 3310, EDUC3311, ELEG3810, LDTE3200, 4200, 4210, 4300, LSCI2002, MAEG2050, PHYS1712, 2061"
+          },
+          {
+            "course_code": "SEEM3510",
+            "prefix_inferred": false,
+            "evidence": "AIST2010, AIST3510 or SEEM3510, CSCI2720, 3170, 3230, 3310, EDUC3311, ELEG3810, LDTE3200, 4200, 4210, 4300, LSCI2002, MAEG2050, PHYS1712, 2061"
+          },
+          {
+            "course_code": "CSCI2720",
+            "prefix_inferred": false,
+            "evidence": "AIST2010, AIST3510 or SEEM3510, CSCI2720, 3170, 3230, 3310, EDUC3311, ELEG3810, LDTE3200, 4200, 4210, 4300, LSCI2002, MAEG2050, PHYS1712, 2061"
+          },
+          {
+            "course_code": "CSCI3170",
+            "prefix_inferred": true,
+            "evidence": "AIST2010, AIST3510 or SEEM3510, CSCI2720, 3170, 3230, 3310, EDUC3311, ELEG3810, LDTE3200, 4200, 4210, 4300, LSCI2002, MAEG2050, PHYS1712, 2061"
+          },
+          {
+            "course_code": "CSCI3230",
+            "prefix_inferred": true,
+            "evidence": "AIST2010, AIST3510 or SEEM3510, CSCI2720, 3170, 3230, 3310, EDUC3311, ELEG3810, LDTE3200, 4200, 4210, 4300, LSCI2002, MAEG2050, PHYS1712, 2061"
+          },
+          {
+            "course_code": "CSCI3310",
+            "prefix_inferred": true,
+            "evidence": "AIST2010, AIST3510 or SEEM3510, CSCI2720, 3170, 3230, 3310, EDUC3311, ELEG3810, LDTE3200, 4200, 4210, 4300, LSCI2002, MAEG2050, PHYS1712, 2061"
+          },
+          {
+            "course_code": "EDUC3311",
+            "prefix_inferred": false,
+            "evidence": "AIST2010, AIST3510 or SEEM3510, CSCI2720, 3170, 3230, 3310, EDUC3311, ELEG3810, LDTE3200, 4200, 4210, 4300, LSCI2002, MAEG2050, PHYS1712, 2061"
+          },
+          {
+            "course_code": "ELEG3810",
+            "prefix_inferred": false,
+            "evidence": "AIST2010, AIST3510 or SEEM3510, CSCI2720, 3170, 3230, 3310, EDUC3311, ELEG3810, LDTE3200, 4200, 4210, 4300, LSCI2002, MAEG2050, PHYS1712, 2061"
+          },
+          {
+            "course_code": "LDTE3200",
+            "prefix_inferred": false,
+            "evidence": "AIST2010, AIST3510 or SEEM3510, CSCI2720, 3170, 3230, 3310, EDUC3311, ELEG3810, LDTE3200, 4200, 4210, 4300, LSCI2002, MAEG2050, PHYS1712, 2061"
+          },
+          {
+            "course_code": "LDTE4200",
+            "prefix_inferred": true,
+            "evidence": "AIST2010, AIST3510 or SEEM3510, CSCI2720, 3170, 3230, 3310, EDUC3311, ELEG3810, LDTE3200, 4200, 4210, 4300, LSCI2002, MAEG2050, PHYS1712, 2061"
+          },
+          {
+            "course_code": "LDTE4210",
+            "prefix_inferred": true,
+            "evidence": "AIST2010, AIST3510 or SEEM3510, CSCI2720, 3170, 3230, 3310, EDUC3311, ELEG3810, LDTE3200, 4200, 4210, 4300, LSCI2002, MAEG2050, PHYS1712, 2061"
+          },
+          {
+            "course_code": "LDTE4300",
+            "prefix_inferred": true,
+            "evidence": "AIST2010, AIST3510 or SEEM3510, CSCI2720, 3170, 3230, 3310, EDUC3311, ELEG3810, LDTE3200, 4200, 4210, 4300, LSCI2002, MAEG2050, PHYS1712, 2061"
+          },
+          {
+            "course_code": "LSCI2002",
+            "prefix_inferred": false,
+            "evidence": "AIST2010, AIST3510 or SEEM3510, CSCI2720, 3170, 3230, 3310, EDUC3311, ELEG3810, LDTE3200, 4200, 4210, 4300, LSCI2002, MAEG2050, PHYS1712, 2061"
+          },
+          {
+            "course_code": "MAEG2050",
+            "prefix_inferred": false,
+            "evidence": "AIST2010, AIST3510 or SEEM3510, CSCI2720, 3170, 3230, 3310, EDUC3311, ELEG3810, LDTE3200, 4200, 4210, 4300, LSCI2002, MAEG2050, PHYS1712, 2061"
+          },
+          {
+            "course_code": "PHYS1712",
+            "prefix_inferred": false,
+            "evidence": "AIST2010, AIST3510 or SEEM3510, CSCI2720, 3170, 3230, 3310, EDUC3311, ELEG3810, LDTE3200, 4200, 4210, 4300, LSCI2002, MAEG2050, PHYS1712, 2061"
+          },
+          {
+            "course_code": "PHYS2061",
+            "prefix_inferred": true,
+            "evidence": "AIST2010, AIST3510 or SEEM3510, CSCI2720, 3170, 3230, 3310, EDUC3311, ELEG3810, LDTE3200, 4200, 4210, 4300, LSCI2002, MAEG2050, PHYS1712, 2061"
+          }
+        ],
+        "raw_text": "7\nAIST2010, AIST3510 or SEEM3510, CSCI2720, 3170, 3230, 3310, EDUC3311, ELEG3810, LDTE3200, 4200, 4210, 4300, LSCI2002, MAEG2050, PHYS1712, 2061\nTotal:\n72\nExplanatory Note:"
+      }
+    ]
+  },
+  "all_course_mentions": [
+    {
+      "course_code": "CHEM1070",
+      "prefix_inferred": false,
+      "evidence": "CHEM1070 or 1072, ENGG1110, LDTE1300"
+    },
+    {
+      "course_code": "CHEM1072",
+      "prefix_inferred": true,
+      "evidence": "CHEM1070 or 1072, ENGG1110, LDTE1300"
+    },
+    {
+      "course_code": "ENGG1110",
+      "prefix_inferred": false,
+      "evidence": "CHEM1070 or 1072, ENGG1110, LDTE1300"
+    },
+    {
+      "course_code": "LDTE1300",
+      "prefix_inferred": false,
+      "evidence": "CHEM1070 or 1072, ENGG1110, LDTE1300"
+    },
+    {
+      "course_code": "CSCI1130",
+      "prefix_inferred": false,
+      "evidence": "CSCI1130, EDUC2120, ENGG2440, LDTE2100, LSCI1012, STAT1011, 2005"
+    },
+    {
+      "course_code": "EDUC2120",
+      "prefix_inferred": false,
+      "evidence": "CSCI1130, EDUC2120, ENGG2440, LDTE2100, LSCI1012, STAT1011, 2005"
+    },
+    {
+      "course_code": "ENGG2440",
+      "prefix_inferred": false,
+      "evidence": "CSCI1130, EDUC2120, ENGG2440, LDTE2100, LSCI1012, STAT1011, 2005"
+    },
+    {
+      "course_code": "LDTE2100",
+      "prefix_inferred": false,
+      "evidence": "CSCI1130, EDUC2120, ENGG2440, LDTE2100, LSCI1012, STAT1011, 2005"
+    },
+    {
+      "course_code": "LSCI1012",
+      "prefix_inferred": false,
+      "evidence": "CSCI1130, EDUC2120, ENGG2440, LDTE2100, LSCI1012, STAT1011, 2005"
+    },
+    {
+      "course_code": "STAT1011",
+      "prefix_inferred": false,
+      "evidence": "CSCI1130, EDUC2120, ENGG2440, LDTE2100, LSCI1012, STAT1011, 2005"
+    },
+    {
+      "course_code": "STAT2005",
+      "prefix_inferred": true,
+      "evidence": "CSCI1130, EDUC2120, ENGG2440, LDTE2100, LSCI1012, STAT1011, 2005"
+    },
+    {
+      "course_code": "EDUC3200",
+      "prefix_inferred": false,
+      "evidence": "EDUC3200, LDTE3100, 3110"
+    },
+    {
+      "course_code": "LDTE3100",
+      "prefix_inferred": false,
+      "evidence": "EDUC3200, LDTE3100, 3110"
+    },
+    {
+      "course_code": "LDTE3110",
+      "prefix_inferred": true,
+      "evidence": "EDUC3200, LDTE3100, 3110"
+    },
+    {
+      "course_code": "CSCI2040",
+      "prefix_inferred": false,
+      "evidence": "CSCI2040, 2100, ENGG1920"
+    },
+    {
+      "course_code": "CSCI2100",
+      "prefix_inferred": true,
+      "evidence": "CSCI2040, 2100, ENGG1920"
+    },
+    {
+      "course_code": "ENGG1920",
+      "prefix_inferred": false,
+      "evidence": "CSCI2040, 2100, ENGG1920"
+    },
+    {
+      "course_code": "LDTE3120",
+      "prefix_inferred": false,
+      "evidence": "LDTE3120, MAEG1020, PHYS1002 or 1004"
+    },
+    {
+      "course_code": "MAEG1020",
+      "prefix_inferred": false,
+      "evidence": "LDTE3120, MAEG1020, PHYS1002 or 1004"
+    },
+    {
+      "course_code": "PHYS1002",
+      "prefix_inferred": false,
+      "evidence": "LDTE3120, MAEG1020, PHYS1002 or 1004"
+    },
+    {
+      "course_code": "PHYS1004",
+      "prefix_inferred": true,
+      "evidence": "LDTE3120, MAEG1020, PHYS1002 or 1004"
+    },
+    {
+      "course_code": "LDTE3500",
+      "prefix_inferred": false,
+      "evidence": "LDTE3500 (capstone course)"
+    },
+    {
+      "course_code": "LDTE3510",
+      "prefix_inferred": false,
+      "evidence": "LDTE3510 (capstone course), 4500 (capstone course)"
+    },
+    {
+      "course_code": "LDTE4500",
+      "prefix_inferred": true,
+      "evidence": "LDTE3510 (capstone course), 4500 (capstone course)"
+    },
+    {
+      "course_code": "AIST2010",
+      "prefix_inferred": false,
+      "evidence": "AIST2010, AIST3510 or SEEM3510, CSCI2720, 3170, 3230, 3310, EDUC3311, ELEG3810, LDTE3200, 4200, 4210, 4300, LSCI2002, MAEG2050, PHYS1712, 2061"
+    },
+    {
+      "course_code": "AIST3510",
+      "prefix_inferred": false,
+      "evidence": "AIST2010, AIST3510 or SEEM3510, CSCI2720, 3170, 3230, 3310, EDUC3311, ELEG3810, LDTE3200, 4200, 4210, 4300, LSCI2002, MAEG2050, PHYS1712, 2061"
+    },
+    {
+      "course_code": "SEEM3510",
+      "prefix_inferred": false,
+      "evidence": "AIST2010, AIST3510 or SEEM3510, CSCI2720, 3170, 3230, 3310, EDUC3311, ELEG3810, LDTE3200, 4200, 4210, 4300, LSCI2002, MAEG2050, PHYS1712, 2061"
+    },
+    {
+      "course_code": "CSCI2720",
+      "prefix_inferred": false,
+      "evidence": "AIST2010, AIST3510 or SEEM3510, CSCI2720, 3170, 3230, 3310, EDUC3311, ELEG3810, LDTE3200, 4200, 4210, 4300, LSCI2002, MAEG2050, PHYS1712, 2061"
+    },
+    {
+      "course_code": "CSCI3170",
+      "prefix_inferred": true,
+      "evidence": "AIST2010, AIST3510 or SEEM3510, CSCI2720, 3170, 3230, 3310, EDUC3311, ELEG3810, LDTE3200, 4200, 4210, 4300, LSCI2002, MAEG2050, PHYS1712, 2061"
+    },
+    {
+      "course_code": "CSCI3230",
+      "prefix_inferred": true,
+      "evidence": "AIST2010, AIST3510 or SEEM3510, CSCI2720, 3170, 3230, 3310, EDUC3311, ELEG3810, LDTE3200, 4200, 4210, 4300, LSCI2002, MAEG2050, PHYS1712, 2061"
+    },
+    {
+      "course_code": "CSCI3310",
+      "prefix_inferred": true,
+      "evidence": "AIST2010, AIST3510 or SEEM3510, CSCI2720, 3170, 3230, 3310, EDUC3311, ELEG3810, LDTE3200, 4200, 4210, 4300, LSCI2002, MAEG2050, PHYS1712, 2061"
+    },
+    {
+      "course_code": "EDUC3311",
+      "prefix_inferred": false,
+      "evidence": "AIST2010, AIST3510 or SEEM3510, CSCI2720, 3170, 3230, 3310, EDUC3311, ELEG3810, LDTE3200, 4200, 4210, 4300, LSCI2002, MAEG2050, PHYS1712, 2061"
+    },
+    {
+      "course_code": "ELEG3810",
+      "prefix_inferred": false,
+      "evidence": "AIST2010, AIST3510 or SEEM3510, CSCI2720, 3170, 3230, 3310, EDUC3311, ELEG3810, LDTE3200, 4200, 4210, 4300, LSCI2002, MAEG2050, PHYS1712, 2061"
+    },
+    {
+      "course_code": "LDTE3200",
+      "prefix_inferred": false,
+      "evidence": "AIST2010, AIST3510 or SEEM3510, CSCI2720, 3170, 3230, 3310, EDUC3311, ELEG3810, LDTE3200, 4200, 4210, 4300, LSCI2002, MAEG2050, PHYS1712, 2061"
+    },
+    {
+      "course_code": "LDTE4200",
+      "prefix_inferred": true,
+      "evidence": "AIST2010, AIST3510 or SEEM3510, CSCI2720, 3170, 3230, 3310, EDUC3311, ELEG3810, LDTE3200, 4200, 4210, 4300, LSCI2002, MAEG2050, PHYS1712, 2061"
+    },
+    {
+      "course_code": "LDTE4210",
+      "prefix_inferred": true,
+      "evidence": "AIST2010, AIST3510 or SEEM3510, CSCI2720, 3170, 3230, 3310, EDUC3311, ELEG3810, LDTE3200, 4200, 4210, 4300, LSCI2002, MAEG2050, PHYS1712, 2061"
+    },
+    {
+      "course_code": "LDTE4300",
+      "prefix_inferred": true,
+      "evidence": "AIST2010, AIST3510 or SEEM3510, CSCI2720, 3170, 3230, 3310, EDUC3311, ELEG3810, LDTE3200, 4200, 4210, 4300, LSCI2002, MAEG2050, PHYS1712, 2061"
+    },
+    {
+      "course_code": "LSCI2002",
+      "prefix_inferred": false,
+      "evidence": "AIST2010, AIST3510 or SEEM3510, CSCI2720, 3170, 3230, 3310, EDUC3311, ELEG3810, LDTE3200, 4200, 4210, 4300, LSCI2002, MAEG2050, PHYS1712, 2061"
+    },
+    {
+      "course_code": "MAEG2050",
+      "prefix_inferred": false,
+      "evidence": "AIST2010, AIST3510 or SEEM3510, CSCI2720, 3170, 3230, 3310, EDUC3311, ELEG3810, LDTE3200, 4200, 4210, 4300, LSCI2002, MAEG2050, PHYS1712, 2061"
+    },
+    {
+      "course_code": "PHYS1712",
+      "prefix_inferred": false,
+      "evidence": "AIST2010, AIST3510 or SEEM3510, CSCI2720, 3170, 3230, 3310, EDUC3311, ELEG3810, LDTE3200, 4200, 4210, 4300, LSCI2002, MAEG2050, PHYS1712, 2061"
+    },
+    {
+      "course_code": "PHYS2061",
+      "prefix_inferred": true,
+      "evidence": "AIST2010, AIST3510 or SEEM3510, CSCI2720, 3170, 3230, 3310, EDUC3311, ELEG3810, LDTE3200, 4200, 4210, 4300, LSCI2002, MAEG2050, PHYS1712, 2061"
+    },
+    {
+      "course_code": "CHEM1070",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: CHEM1070 or 1072, ENGG1110"
+    },
+    {
+      "course_code": "CHEM1072",
+      "prefix_inferred": true,
+      "evidence": "Faculty Package: CHEM1070 or 1072, ENGG1110"
+    },
+    {
+      "course_code": "ENGG1110",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: CHEM1070 or 1072, ENGG1110"
+    },
+    {
+      "course_code": "LDTE2100",
+      "prefix_inferred": false,
+      "evidence": "Major Required: LDTE2100, MAEG1020"
+    },
+    {
+      "course_code": "MAEG1020",
+      "prefix_inferred": false,
+      "evidence": "Major Required: LDTE2100, MAEG1020"
+    },
+    {
+      "course_code": "LDTE1300",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: LDTE1300"
+    },
+    {
+      "course_code": "EDUC2120",
+      "prefix_inferred": false,
+      "evidence": "Major Required: EDUC2120, STAT1011"
+    },
+    {
+      "course_code": "STAT1011",
+      "prefix_inferred": false,
+      "evidence": "Major Required: EDUC2120, STAT1011"
+    },
+    {
+      "course_code": "CSCI1130",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CSCI1130, ENGG2440, PHYS1002, STAT2005"
+    },
+    {
+      "course_code": "ENGG2440",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CSCI1130, ENGG2440, PHYS1002, STAT2005"
+    },
+    {
+      "course_code": "PHYS1002",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CSCI1130, ENGG2440, PHYS1002, STAT2005"
+    },
+    {
+      "course_code": "STAT2005",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CSCI1130, ENGG2440, PHYS1002, STAT2005"
+    },
+    {
+      "course_code": "CSCI2100",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CSCI2100, ENGG1920, LDTE3100, LSCI1012, PHYS1004"
+    },
+    {
+      "course_code": "ENGG1920",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CSCI2100, ENGG1920, LDTE3100, LSCI1012, PHYS1004"
+    },
+    {
+      "course_code": "LDTE3100",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CSCI2100, ENGG1920, LDTE3100, LSCI1012, PHYS1004"
+    },
+    {
+      "course_code": "LSCI1012",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CSCI2100, ENGG1920, LDTE3100, LSCI1012, PHYS1004"
+    },
+    {
+      "course_code": "PHYS1004",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CSCI2100, ENGG1920, LDTE3100, LSCI1012, PHYS1004"
+    },
+    {
+      "course_code": "CSCI2040",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CSCI2040, EDUC3200, LDTE3120"
+    },
+    {
+      "course_code": "EDUC3200",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CSCI2040, EDUC3200, LDTE3120"
+    },
+    {
+      "course_code": "LDTE3120",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CSCI2040, EDUC3200, LDTE3120"
+    },
+    {
+      "course_code": "LDTE3110",
+      "prefix_inferred": false,
+      "evidence": "Major Required: LDTE3110"
+    },
+    {
+      "course_code": "LDTE3500",
+      "prefix_inferred": false,
+      "evidence": "Major Required: LDTE3500, 3510"
+    },
+    {
+      "course_code": "LDTE3510",
+      "prefix_inferred": true,
+      "evidence": "Major Required: LDTE3500, 3510"
+    },
+    {
+      "course_code": "LDTE4500",
+      "prefix_inferred": false,
+      "evidence": "Major Required: LDTE4500"
+    },
+    {
+      "course_code": "AIST2010",
+      "prefix_inferred": false,
+      "evidence": "AIST2010"
+    },
+    {
+      "course_code": "AIST3510",
+      "prefix_inferred": false,
+      "evidence": "AIST3510/"
+    },
+    {
+      "course_code": "SEEM3510",
+      "prefix_inferred": false,
+      "evidence": "SEEM3510"
+    },
+    {
+      "course_code": "CHEM1070",
+      "prefix_inferred": false,
+      "evidence": "CHEM1070*"
+    },
+    {
+      "course_code": "CHEM1072",
+      "prefix_inferred": false,
+      "evidence": "CHEM1072**"
+    },
+    {
+      "course_code": "CSCI1130",
+      "prefix_inferred": false,
+      "evidence": "CSCI1130"
+    },
+    {
+      "course_code": "CSCI2040",
+      "prefix_inferred": false,
+      "evidence": "CSCI2040"
+    },
+    {
+      "course_code": "CSCI2100",
+      "prefix_inferred": false,
+      "evidence": "CSCI2100"
+    },
+    {
+      "course_code": "CSCI2720",
+      "prefix_inferred": false,
+      "evidence": "CSCI2720"
+    },
+    {
+      "course_code": "CSCI3170",
+      "prefix_inferred": false,
+      "evidence": "CSCI3170"
+    },
+    {
+      "course_code": "CSCI3230",
+      "prefix_inferred": false,
+      "evidence": "CSCI3230"
+    },
+    {
+      "course_code": "CSCI3310",
+      "prefix_inferred": false,
+      "evidence": "CSCI3310"
+    },
+    {
+      "course_code": "EDUC2120",
+      "prefix_inferred": false,
+      "evidence": "EDUC2120"
+    },
+    {
+      "course_code": "EDUC3200",
+      "prefix_inferred": false,
+      "evidence": "EDUC3200"
+    },
+    {
+      "course_code": "EDUC3311",
+      "prefix_inferred": false,
+      "evidence": "EDUC3311"
+    },
+    {
+      "course_code": "ELEG3810",
+      "prefix_inferred": false,
+      "evidence": "ELEG3810"
+    },
+    {
+      "course_code": "ENGG1110",
+      "prefix_inferred": false,
+      "evidence": "ENGG1110"
+    },
+    {
+      "course_code": "ENGG1920",
+      "prefix_inferred": false,
+      "evidence": "ENGG1920"
+    },
+    {
+      "course_code": "ENGG2440",
+      "prefix_inferred": false,
+      "evidence": "ENGG2440"
+    },
+    {
+      "course_code": "LDTE1300",
+      "prefix_inferred": false,
+      "evidence": "LDTE1300"
+    },
+    {
+      "course_code": "LDTE2100",
+      "prefix_inferred": false,
+      "evidence": "LDTE2100"
+    },
+    {
+      "course_code": "LDTE3100",
+      "prefix_inferred": false,
+      "evidence": "LDTE3100"
+    },
+    {
+      "course_code": "LDTE3110",
+      "prefix_inferred": false,
+      "evidence": "LDTE3110"
+    },
+    {
+      "course_code": "LDTE3120",
+      "prefix_inferred": false,
+      "evidence": "LDTE3120"
+    },
+    {
+      "course_code": "LDTE3200",
+      "prefix_inferred": false,
+      "evidence": "LDTE3200"
+    },
+    {
+      "course_code": "LDTE3500",
+      "prefix_inferred": false,
+      "evidence": "LDTE3500"
+    },
+    {
+      "course_code": "LDTE3510",
+      "prefix_inferred": false,
+      "evidence": "LDTE3510"
+    },
+    {
+      "course_code": "LDTE4200",
+      "prefix_inferred": false,
+      "evidence": "LDTE4200"
+    },
+    {
+      "course_code": "LDTE4210",
+      "prefix_inferred": false,
+      "evidence": "LDTE4210"
+    },
+    {
+      "course_code": "LDTE4300",
+      "prefix_inferred": false,
+      "evidence": "LDTE4300"
+    },
+    {
+      "course_code": "LDTE4500",
+      "prefix_inferred": false,
+      "evidence": "LDTE4500"
+    },
+    {
+      "course_code": "LSCI1012",
+      "prefix_inferred": false,
+      "evidence": "LSCI1012"
+    },
+    {
+      "course_code": "LSCI2002",
+      "prefix_inferred": false,
+      "evidence": "LSCI2002"
+    },
+    {
+      "course_code": "MAEG1020",
+      "prefix_inferred": false,
+      "evidence": "MAEG1020"
+    },
+    {
+      "course_code": "MAEG2050",
+      "prefix_inferred": false,
+      "evidence": "MAEG2050"
+    },
+    {
+      "course_code": "PHYS1002",
+      "prefix_inferred": false,
+      "evidence": "PHYS1002^"
+    },
+    {
+      "course_code": "PHYS1004",
+      "prefix_inferred": false,
+      "evidence": "PHYS1004"
+    },
+    {
+      "course_code": "PHYS1712",
+      "prefix_inferred": false,
+      "evidence": "PHYS1712"
+    },
+    {
+      "course_code": "PHYS2061",
+      "prefix_inferred": false,
+      "evidence": "PHYS2061"
+    },
+    {
+      "course_code": "STAT1011",
+      "prefix_inferred": false,
+      "evidence": "STAT1011"
+    },
+    {
+      "course_code": "STAT2005",
+      "prefix_inferred": false,
+      "evidence": "STAT2005"
+    },
+    {
+      "course_code": "CHEM1070",
+      "prefix_inferred": false,
+      "evidence": "CHEM1070 – an introductory course suitable for students with a good background of HKDSE Chemistry"
+    },
+    {
+      "course_code": "CHEM1072",
+      "prefix_inferred": false,
+      "evidence": "CHEM1072 – suitable for students majoring in Science and Engineering with no or little background in Chemistry"
+    },
+    {
+      "course_code": "PHYS1002",
+      "prefix_inferred": false,
+      "evidence": "PHYS1002 - a non-calculus-based course suitable for students with HKDSE Combined Science with a Physics component"
+    }
+  ],
+  "course_code_aliases": [],
+  "source": {
+    "system": "CUHK CUSIS Browse Program Information",
+    "url": "https://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/tt_dsp_acad_prog.aspx",
+    "source_text_file": "data/cuhk/2024/programmes/B_Sc_in_Learning_Design_and_Technology__Faculty_of_Engineering.txt",
+    "reused_duplicate_entry": true,
+    "reused_from_faculty": "Faculty of Science"
+  },
+  "raw_text": "\n\nBrowse Program Information\n\n\n\n\n\n\nAcademic Program:\tB.Sc. in Learning Design and Technology\nAcademic Year:\t2024\nLanguage:\t\nEnglish\nSimplified Chinese\nTraditional Chinese\n\n\n\nLearning Outcomes\nStudy Scheme\n \n\n\t\n\nLearning Design and Technology\n\nApplicable to students admitted in 2024-25\n\n\n\n\n \n\n \n\nMajor Programme Requirement\n\n \n\n\t\n\n \n\n\n\n\nStudents are required to complete a minimum of 72 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nFaculty Package:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nCHEM1070 or 1072, ENGG1110, LDTE1300\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nFoundation Courses:\n\n\t\n\n21\n\n\n\n\n \n\n\t\n\nCSCI1130, EDUC2120, ENGG2440, LDTE2100, LSCI1012, STAT1011, 2005\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nRequired Courses:\n\n\t\n\n35\n\n\n\n\n(a)\n\n\t\n\nEducational Knowledge and Design Component\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nEDUC3200, LDTE3100, 3110\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nSoftware Design and Application Component\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nCSCI2040, 2100, ENGG1920\n\n\t\n\n \n\n\n\n\n(c)\n\n\t\n\nSTEM Education and Lab-based Learning Component\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nLDTE3120, MAEG1020, PHYS1002 or 1004\n\n\t\n\n \n\n\n\n\n(d)\n\n\t\n\nInternship\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nLDTE3500 (capstone course)\n\n\t\n\n \n\n\n\n\n(e)\n\n\t\n\nResearch Experience\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nLDTE3510 (capstone course), 4500 (capstone course)\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n4.\n\n\t\n\nElective Courses:\n\n\t\n\n7\n\n\n\n\n \n\n\t\n\nAIST2010, AIST3510 or SEEM3510, CSCI2720, 3170, 3230, 3310, EDUC3311, ELEG3810, LDTE3200, 4200, 4210, 4300, LSCI2002, MAEG2050, PHYS1712, 2061\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n72\n\n\n\n\nExplanatory Note:\n\n\n\n\n1.\n\n\t\n\nAIST, CSCI, EDUC, ELEG, ENGG, LDTE, LSCI, MAEG, PHYS, SEEM and STAT courses at 2000 and above level as included in the Major Programme Requirement will be included in the calculation of Major GPA for honours classification.\n\n\n\n\n \n\n\n\n\n \n\n\t\n\nRecommended Course Pattern\n\n\t\n\nUnits\n\n\n\n\nFirst Year of Attendance\n\n \n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: CHEM1070 or 1072, ENGG1110\n\n\t\n\n6\n\n\n\n\nMajor Required: LDTE2100, MAEG1020\n\n\t\n\n6\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n2nd term\n\n\t\n\n \n\n\n\n\nFaculty Package: LDTE1300\n\n\t\n\n3\n\n\n\n\nMajor Required: EDUC2120, STAT1011\n\n\t\n\n6\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: CSCI1130, ENGG2440, PHYS1002, STAT2005\n\n\t\n\n9-12\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: CSCI2100, ENGG1920, LDTE3100, LSCI1012, PHYS1004\n\n\t\n\n12-15\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nThird Year of Attendance\n\n \n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: CSCI2040, EDUC3200, LDTE3120\n\n\t\n\n8\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: LDTE3110\n\n\t\n\n3\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nFourth Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: LDTE3500, 3510\n\n\t\n\n6\n\n\n\n\nMajor Elective(s): 3 units\n\n\t\n\n3\n\n\n\n\n \n\n\t\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: LDTE4500\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): 4 units\n\n\t\n\n4\n\n\n\n\nTotal (including Faculty Package):\n\n\t\n\n72\n\n\n\n\n \n\n\n\n\nCourse List\n\n \n\n\n\n\nCourse Code\n\n\t\n\nCourse Title\n\n\t\n\nUnit(s)\n\n\n\n\nAIST2010\n\n\t\n\nIntroduction to Computer Music: From Analysis to Algorithmic Music\n\n\t\n\n3\n\n\n\n\nAIST3510/\n\nSEEM3510\n\n\t\n\nHuman-computer Interaction\n\n\t\n\n3\n\n\n\n\nCHEM1070*\n\n\t\n\nPrinciples of Modern Chemistry\n\n\t\n\n3\n\n\n\n\nCHEM1072**\n\n\t\n\nGeneral Chemistry\n\n\t\n\n3\n\n\n\n\nCSCI1130\n\n\t\n\nIntroduction to Computing Using Java\n\n\t\n\n3\n\n\n\n\nCSCI2040\n\n\t\n\nIntroduction to Python\n\n\t\n\n2\n\n\n\n\nCSCI2100\n\n\t\n\nData Structures\n\n\t\n\n3\n\n\n\n\nCSCI2720\n\n\t\n\nBuilding Web Applications\n\n\t\n\n3\n\n\n\n\nCSCI3170\n\n\t\n\nIntroduction to Database Systems\n\n\t\n\n3\n\n\n\n\nCSCI3230\n\n\t\n\nFundamentals of Artificial Intelligence\n\n\t\n\n3\n\n\n\n\nCSCI3310\n\n\t\n\nMobile Computing and Applications Development\n\n\t\n\n3\n\n\n\n\nEDUC2120\n\n\t\n\nPrinciples and Implementation of Curriculum and Instructional Design\n\n\t\n\n3\n\n\n\n\nEDUC3200\n\n\t\n\nDeveloping Intercultural Competence: Experiential Learning\n\n\t\n\n3\n\n\n\n\nEDUC3311\n\n\t\n\nPsychology Applied to Learning and Teaching\n\n\t\n\n3\n\n\n\n\nELEG3810\n\n\t\n\nIntegrated Design of Mobile Applications with Sensors and Actuators\n\n\t\n\n3\n\n\n\n\nENGG1110\n\n\t\n\nProblem Solving By Programming\n\n\t\n\n3\n\n\n\n\nENGG1920\n\n\t\n\nArtificial Intelligence in Action\n\n\t\n\n3\n\n\n\n\nENGG2440\n\n\t\n\nDiscrete Mathematics for Engineers\n\n\t\n\n3\n\n\n\n\nLDTE1300\n\n\t\n\nIntroduction to Learning Sciences\n\n\t\n\n3\n\n\n\n\nLDTE2100\n\n\t\n\nLearning Design in New and Emerging Educational Contexts\n\n\t\n\n3\n\n\n\n\nLDTE3100\n\n\t\n\nDesign Thinking as Scientific Inquiry\n\n\t\n\n3\n\n\n\n\nLDTE3110\n\n\t\n\nDigital Citizenship Education\n\n\t\n\n3\n\n\n\n\nLDTE3120\n\n\t\n\nSustainability of Educational Technology\n\n\t\n\n3\n\n\n\n\nLDTE3200\n\n\t\n\nLeading Innovations in Organizations in the Era of Globalization\n\n\t\n\n3\n\n\n\n\nLDTE3500\n\n\t\n\nInternship\n\n\t\n\n3\n\n\n\n\nLDTE3510\n\n\t\n\nEducational Design Research (Research Method)\n\n\t\n\n3\n\n\n\n\nLDTE4200\n\n\t\n\nEducational Innovation and Society: A Comparative Perspective\n\n\t\n\n3\n\n\n\n\nLDTE4210\n\n\t\n\nEducation, Technology and Human Development\n\n\t\n\n3\n\n\n\n\nLDTE4300\n\n\t\n\nInstructional Design for Students with SEN in Technology-Supported Learning Environments\n\n\t\n\n3\n\n\n\n\nLDTE4500\n\n\t\n\nProject in Learning Design and Technology\n\n\t\n\n3\n\n\n\n\nLSCI1012\n\n\t\n\nIntroduction to Life Forms in the Biosphere\n\n\t\n\n3\n\n\n\n\nLSCI2002\n\n\t\n\nBasic Laboratory Techniques in Life Sciences\n\n\t\n\n2\n\n\n\n\nMAEG1020\n\n\t\n\nComputational Design and Fabrication\n\n\t\n\n3\n\n\n\n\nMAEG2050\n\n\t\n\nRobot Development in Practice: From Design to Prototyping\n\n\t\n\n3\n\n\n\n\nPHYS1002^\n\n\t\n\nGeneral Physics\n\n\t\n\n3\n\n\n\n\nPHYS1004\n\n\t\n\nExploring the Physical World with STEM\n\n\t\n\n3\n\n\n\n\nPHYS1712\n\n\t\n\nPhysics Laboratory I\n\n\t\n\n1\n\n\n\n\nPHYS2061\n\n\t\n\nBasic Computational Physics\n\n\t\n\n3\n\n\n\n\nSTAT1011\n\n\t\n\nIntroduction to Statistics\n\n\t\n\n3\n\n\n\n\nSTAT2005\n\n\t\n\nProgramming Languages for Statistics\n\n\t\n\n3\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n*\n\n\t\n\nCHEM1070 – an introductory course suitable for students with a good background of HKDSE Chemistry\n\n\n\n\n**\n\n\t\n\nCHEM1072 – suitable for students majoring in Science and Engineering with no or little background in Chemistry\n\n\n\n\n^\n\n\t\n\nPHYS1002 - a non-calculus-based course suitable for students with HKDSE Combined Science with a Physics component\n\n\n\t\t\t\n\n \n\n \n\n \n\n\n \n\nStudy Scheme\n\n\nLearning Outcomes\n \n\n\t\n\n 1.     Major Programme:\n\n\n\n\nThe programme aims to equip students with multi-disciplinary knowledge in education, technology and science, as well as essential skills and competencies for a variety of roles in the fast-changing, information- rich world.\n\n\n\n\n \n\n\n\n\nUpon completion of the programme, students will have:\n\n\n\n\n·          \n\n\t\n\nmastered the latest theoretical underpinnings of learning design and the foundational know-how of the cutting-edge learning technology; (K)\n\n\n\n\n·          \n\n\t\n\ngained inspirational insights into design, implementation and evaluation of technology-supported learning;(K/S)\n\n\n\n\n·          \n\n\t\n\ndemonstrated competent technological and pedagogical skills to take on challenges in a rapidly changing world; (S)\n\n\n\n\n·          \n\n\t\n\nacquired a critical and creative mind to approach real-world problems with original and innovative solutions; (K/S)\n\n\n\n\n·          \n\n\t\n\ninvestigated issues from multiple perspectives through engaging in transformative learning opportunities, such as self-directed/collaborative research studies, educational/technological internships, authentic community-based service learning and organizational leaderships; (K/S/V) and\n\n\n\n\n·          \n\n\t\n\ndeveloped the essential mindset and skillset that foster technological innovation and excellence in the field of education or other related areas. (K/S/V)\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nK = Knowledge outcomes\n\n\n\n\nS = Skills outcomes\n\n\n\n\nV = Values and attitude outcomes\n\n \n\n \n\n\n"
+}

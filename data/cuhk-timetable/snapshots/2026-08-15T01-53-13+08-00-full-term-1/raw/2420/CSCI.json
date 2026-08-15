@@ -1,0 +1,1 @@
+{"termValue":"2420","subject":"CSCI","ok":false,"status":"failed","completedAt":"2026-08-14T18:18:13.737Z","error":"Timed out after 3000ms evaluating selector internal:label=\"Term\"s: Playwright selector deadline exceeded","records":[]}

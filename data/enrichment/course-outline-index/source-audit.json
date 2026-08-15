@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "auditedAt": "2026-08-14",
+  "question": "Where can current assessment weights, attendance rules and other offering-specific course information be obtained?",
+  "conclusion": "CUSIS Browse Course Catalog is the primary structured source and exposes assessment types with current percentages in the University's official sample. Detailed attendance, lateness, assignment and section-specific policies are not guaranteed to be present and must be enriched from the current offering's course outline or Blackboard when available.",
+  "sources": [
+    {
+      "id": "cusis-course-catalog",
+      "priority": 1,
+      "coverage": "university-wide structured catalog",
+      "fieldsConfirmedByOfficialTemplateOrSample": [
+        "career",
+        "units",
+        "grading basis",
+        "course components",
+        "campus",
+        "academic group and organization",
+        "course attributes",
+        "add and drop consent",
+        "course description",
+        "grade descriptor",
+        "learning outcomes",
+        "course syllabus",
+        "assessment type",
+        "current assessment percentage",
+        "feedback for evaluation",
+        "required readings",
+        "recommended readings",
+        "offerings",
+        "components",
+        "enrolment requirements",
+        "additional course attribute information"
+      ],
+      "attendanceCapability": "Can identify Attendance/Participation as an assessment type and its percentage when entered, but detailed absence, lateness and mandatory-session rules are not guaranteed.",
+      "status": "must-crawl"
+    },
+    {
+      "id": "clear-course-outline-repository",
+      "priority": 4,
+      "coverage": "department-submitted and incomplete",
+      "probeEvidence": "clear-2026-business-probe.json",
+      "probeResult": {
+        "scope": "All ACCT/DOTE/FINA/FTEC/HTMG/IBBA/MGNT/MKTG offerings present in the local 2026-27 Term 1/2 CUSIS snapshot",
+        "offeringCourseUrls": 244,
+        "http404": 244,
+        "pdfHits": 0
+      },
+      "attendanceCapability": "Rich when a PDF exists, but no current Business School coverage was found through the canonical URL pattern.",
+      "status": "optional-fallback-not-a-business-database"
+    },
+    {
+      "id": "department-course-outline-pages",
+      "priority": 2,
+      "coverage": "varies substantially by department",
+      "observations": [
+        "Some departments publish a term-indexed outline list",
+        "Some publish individual current PDFs with assessment and attendance rules",
+        "Business School public programme pages mainly expose curriculum/course lists rather than current assessment outlines",
+        "Public documents may be provisional and the final outline may be distributed in the first lesson or LMS"
+      ],
+      "status": "crawl-by-department"
+    },
+    {
+      "id": "oal-and-summer-programme-outlines",
+      "priority": 5,
+      "coverage": "selected exchange and summer courses",
+      "observations": [
+        "Often contains assessment, schedule and attendance information",
+        "Usually historical or tied to a special summer/exchange offering",
+        "Must not be applied to a regular current-term section without matching term and instructor"
+      ],
+      "status": "historical-reference-only-unless-exact-offering-match"
+    },
+    {
+      "id": "blackboard-current-offering",
+      "priority": 1,
+      "coverage": "registered or otherwise authorized current classes",
+      "fields": [
+        "final current course outline",
+        "attendance and lateness rules",
+        "assessment details and rubrics",
+        "assignment dates",
+        "AI-use policy",
+        "announcements and changes"
+      ],
+      "status": "authoritative-for-current-teacher-specific-delivery-but-access-controlled"
+    },
+    {
+      "id": "cuhk-course-teaching-evaluation",
+      "priority": null,
+      "coverage": "all standard courses internally",
+      "fields": [
+        "student course and teaching feedback"
+      ],
+      "publicAvailability": false,
+      "reason": "Official policy requires security measures preventing public access to identifiable individual-teacher CTE results; aggregate results may be shared only through controlled governance channels.",
+      "status": "not-a-public-course-rating-source"
+    }
+  ],
+  "recommendedAcquisitionOrder": [
+    "Batch crawl CUSIS Browse Course Catalog for every unique course code",
+    "Use CUSIS assessment type/current percentage as the structured baseline",
+    "Discover current outlines from department indexes and exact course/term/instructor pages",
+    "For authorized enrolled courses, ingest the final outline from Blackboard",
+    "Store historical/summer/exchange outlines separately and never silently apply them to a current offering"
+  ]
+}

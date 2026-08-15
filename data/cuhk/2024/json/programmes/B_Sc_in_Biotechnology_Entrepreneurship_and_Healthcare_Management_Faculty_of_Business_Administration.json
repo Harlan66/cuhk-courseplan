@@ -1,0 +1,1263 @@
+{
+  "programme_id": "B_Sc_in_Biotechnology_Entrepreneurship_and_Healthcare_Management__Faculty_of_Business_Administration",
+  "academic_program": "B.Sc. in Biotechnology, Entrepreneurship and Healthcare Management",
+  "faculty": "Faculty of Business Administration",
+  "academic_year": 2024,
+  "admission_cohort": "2024-25",
+  "requirement_summary": {
+    "minimum_units_as_printed": "a minimum of 65 units",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Faculty Package",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "LSCI1002",
+            "prefix_inferred": false,
+            "evidence": "LSCI1002, MEDF1012, MGNT1020"
+          },
+          {
+            "course_code": "MEDF1012",
+            "prefix_inferred": false,
+            "evidence": "LSCI1002, MEDF1012, MGNT1020"
+          },
+          {
+            "course_code": "MGNT1020",
+            "prefix_inferred": false,
+            "evidence": "LSCI1002, MEDF1012, MGNT1020"
+          }
+        ],
+        "raw_text": "LSCI1002, MEDF1012, MGNT1020\n9"
+      },
+      {
+        "number": 2,
+        "title": "Required Courses",
+        "units_as_printed": "33",
+        "course_mentions": [
+          {
+            "course_code": "ACCT2111",
+            "prefix_inferred": false,
+            "evidence": "ACCT2111, BEHM4000, DOTE1030, 2011#, 2030#, FINA2010#, GRON4411#, MBTE2000#, 3000#, PHPC1001, 1017, 2016#, SBMS2104#"
+          },
+          {
+            "course_code": "BEHM4000",
+            "prefix_inferred": false,
+            "evidence": "ACCT2111, BEHM4000, DOTE1030, 2011#, 2030#, FINA2010#, GRON4411#, MBTE2000#, 3000#, PHPC1001, 1017, 2016#, SBMS2104#"
+          },
+          {
+            "course_code": "DOTE1030",
+            "prefix_inferred": false,
+            "evidence": "ACCT2111, BEHM4000, DOTE1030, 2011#, 2030#, FINA2010#, GRON4411#, MBTE2000#, 3000#, PHPC1001, 1017, 2016#, SBMS2104#"
+          },
+          {
+            "course_code": "DOTE2011",
+            "prefix_inferred": true,
+            "evidence": "ACCT2111, BEHM4000, DOTE1030, 2011#, 2030#, FINA2010#, GRON4411#, MBTE2000#, 3000#, PHPC1001, 1017, 2016#, SBMS2104#"
+          },
+          {
+            "course_code": "DOTE2030",
+            "prefix_inferred": true,
+            "evidence": "ACCT2111, BEHM4000, DOTE1030, 2011#, 2030#, FINA2010#, GRON4411#, MBTE2000#, 3000#, PHPC1001, 1017, 2016#, SBMS2104#"
+          },
+          {
+            "course_code": "FINA2010",
+            "prefix_inferred": false,
+            "evidence": "ACCT2111, BEHM4000, DOTE1030, 2011#, 2030#, FINA2010#, GRON4411#, MBTE2000#, 3000#, PHPC1001, 1017, 2016#, SBMS2104#"
+          },
+          {
+            "course_code": "GRON4411",
+            "prefix_inferred": false,
+            "evidence": "ACCT2111, BEHM4000, DOTE1030, 2011#, 2030#, FINA2010#, GRON4411#, MBTE2000#, 3000#, PHPC1001, 1017, 2016#, SBMS2104#"
+          },
+          {
+            "course_code": "MBTE2000",
+            "prefix_inferred": false,
+            "evidence": "ACCT2111, BEHM4000, DOTE1030, 2011#, 2030#, FINA2010#, GRON4411#, MBTE2000#, 3000#, PHPC1001, 1017, 2016#, SBMS2104#"
+          },
+          {
+            "course_code": "MBTE3000",
+            "prefix_inferred": true,
+            "evidence": "ACCT2111, BEHM4000, DOTE1030, 2011#, 2030#, FINA2010#, GRON4411#, MBTE2000#, 3000#, PHPC1001, 1017, 2016#, SBMS2104#"
+          },
+          {
+            "course_code": "PHPC1001",
+            "prefix_inferred": false,
+            "evidence": "ACCT2111, BEHM4000, DOTE1030, 2011#, 2030#, FINA2010#, GRON4411#, MBTE2000#, 3000#, PHPC1001, 1017, 2016#, SBMS2104#"
+          },
+          {
+            "course_code": "PHPC1017",
+            "prefix_inferred": true,
+            "evidence": "ACCT2111, BEHM4000, DOTE1030, 2011#, 2030#, FINA2010#, GRON4411#, MBTE2000#, 3000#, PHPC1001, 1017, 2016#, SBMS2104#"
+          },
+          {
+            "course_code": "PHPC2016",
+            "prefix_inferred": true,
+            "evidence": "ACCT2111, BEHM4000, DOTE1030, 2011#, 2030#, FINA2010#, GRON4411#, MBTE2000#, 3000#, PHPC1001, 1017, 2016#, SBMS2104#"
+          },
+          {
+            "course_code": "SBMS2104",
+            "prefix_inferred": false,
+            "evidence": "ACCT2111, BEHM4000, DOTE1030, 2011#, 2030#, FINA2010#, GRON4411#, MBTE2000#, 3000#, PHPC1001, 1017, 2016#, SBMS2104#"
+          }
+        ],
+        "raw_text": "ACCT2111, BEHM4000, DOTE1030, 2011#, 2030#, FINA2010#, GRON4411#, MBTE2000#, 3000#, PHPC1001, 1017, 2016#, SBMS2104#\n33"
+      },
+      {
+        "number": 3,
+        "title": "Elective Courses",
+        "units_as_printed": "17",
+        "course_mentions": [
+          {
+            "course_code": "ACCT2151",
+            "prefix_inferred": false,
+            "evidence": "ACCT2151# or 3151# or LAWS2331#, FINA3080#, MGNT4090#"
+          },
+          {
+            "course_code": "ACCT3151",
+            "prefix_inferred": true,
+            "evidence": "ACCT2151# or 3151# or LAWS2331#, FINA3080#, MGNT4090#"
+          },
+          {
+            "course_code": "LAWS2331",
+            "prefix_inferred": false,
+            "evidence": "ACCT2151# or 3151# or LAWS2331#, FINA3080#, MGNT4090#"
+          },
+          {
+            "course_code": "FINA3080",
+            "prefix_inferred": false,
+            "evidence": "ACCT2151# or 3151# or LAWS2331#, FINA3080#, MGNT4090#"
+          },
+          {
+            "course_code": "MGNT4090",
+            "prefix_inferred": false,
+            "evidence": "ACCT2151# or 3151# or LAWS2331#, FINA3080#, MGNT4090#"
+          },
+          {
+            "course_code": "MBTE3510",
+            "prefix_inferred": false,
+            "evidence": "MBTE3510#, 3511#, 3518#, 3521#, 3528#, 3531#, 3550#, 3558#, 3560#, 3568#"
+          },
+          {
+            "course_code": "MBTE3511",
+            "prefix_inferred": true,
+            "evidence": "MBTE3510#, 3511#, 3518#, 3521#, 3528#, 3531#, 3550#, 3558#, 3560#, 3568#"
+          },
+          {
+            "course_code": "MBTE3518",
+            "prefix_inferred": true,
+            "evidence": "MBTE3510#, 3511#, 3518#, 3521#, 3528#, 3531#, 3550#, 3558#, 3560#, 3568#"
+          },
+          {
+            "course_code": "MBTE3521",
+            "prefix_inferred": true,
+            "evidence": "MBTE3510#, 3511#, 3518#, 3521#, 3528#, 3531#, 3550#, 3558#, 3560#, 3568#"
+          },
+          {
+            "course_code": "MBTE3528",
+            "prefix_inferred": true,
+            "evidence": "MBTE3510#, 3511#, 3518#, 3521#, 3528#, 3531#, 3550#, 3558#, 3560#, 3568#"
+          },
+          {
+            "course_code": "MBTE3531",
+            "prefix_inferred": true,
+            "evidence": "MBTE3510#, 3511#, 3518#, 3521#, 3528#, 3531#, 3550#, 3558#, 3560#, 3568#"
+          },
+          {
+            "course_code": "MBTE3550",
+            "prefix_inferred": true,
+            "evidence": "MBTE3510#, 3511#, 3518#, 3521#, 3528#, 3531#, 3550#, 3558#, 3560#, 3568#"
+          },
+          {
+            "course_code": "MBTE3558",
+            "prefix_inferred": true,
+            "evidence": "MBTE3510#, 3511#, 3518#, 3521#, 3528#, 3531#, 3550#, 3558#, 3560#, 3568#"
+          },
+          {
+            "course_code": "MBTE3560",
+            "prefix_inferred": true,
+            "evidence": "MBTE3510#, 3511#, 3518#, 3521#, 3528#, 3531#, 3550#, 3558#, 3560#, 3568#"
+          },
+          {
+            "course_code": "MBTE3568",
+            "prefix_inferred": true,
+            "evidence": "MBTE3510#, 3511#, 3518#, 3521#, 3528#, 3531#, 3550#, 3558#, 3560#, 3568#"
+          },
+          {
+            "course_code": "DOTE2040",
+            "prefix_inferred": false,
+            "evidence": "DOTE2040#, 4260#, PHPC3024#, PHPC4029# or SBMS3216#"
+          },
+          {
+            "course_code": "DOTE4260",
+            "prefix_inferred": true,
+            "evidence": "DOTE2040#, 4260#, PHPC3024#, PHPC4029# or SBMS3216#"
+          },
+          {
+            "course_code": "PHPC3024",
+            "prefix_inferred": false,
+            "evidence": "DOTE2040#, 4260#, PHPC3024#, PHPC4029# or SBMS3216#"
+          },
+          {
+            "course_code": "PHPC4029",
+            "prefix_inferred": false,
+            "evidence": "DOTE2040#, 4260#, PHPC3024#, PHPC4029# or SBMS3216#"
+          },
+          {
+            "course_code": "SBMS3216",
+            "prefix_inferred": false,
+            "evidence": "DOTE2040#, 4260#, PHPC3024#, PHPC4029# or SBMS3216#"
+          },
+          {
+            "course_code": "DOTE4020",
+            "prefix_inferred": false,
+            "evidence": "DOTE4020#, 4110#, 4220#, GRON3412#, MGNT4010#, PHPC2017#, 3034#, 4032#, SBMS3101#, 3202#, 3205#, 3212#, 3215#"
+          },
+          {
+            "course_code": "DOTE4110",
+            "prefix_inferred": true,
+            "evidence": "DOTE4020#, 4110#, 4220#, GRON3412#, MGNT4010#, PHPC2017#, 3034#, 4032#, SBMS3101#, 3202#, 3205#, 3212#, 3215#"
+          },
+          {
+            "course_code": "DOTE4220",
+            "prefix_inferred": true,
+            "evidence": "DOTE4020#, 4110#, 4220#, GRON3412#, MGNT4010#, PHPC2017#, 3034#, 4032#, SBMS3101#, 3202#, 3205#, 3212#, 3215#"
+          },
+          {
+            "course_code": "GRON3412",
+            "prefix_inferred": false,
+            "evidence": "DOTE4020#, 4110#, 4220#, GRON3412#, MGNT4010#, PHPC2017#, 3034#, 4032#, SBMS3101#, 3202#, 3205#, 3212#, 3215#"
+          },
+          {
+            "course_code": "MGNT4010",
+            "prefix_inferred": false,
+            "evidence": "DOTE4020#, 4110#, 4220#, GRON3412#, MGNT4010#, PHPC2017#, 3034#, 4032#, SBMS3101#, 3202#, 3205#, 3212#, 3215#"
+          },
+          {
+            "course_code": "PHPC2017",
+            "prefix_inferred": false,
+            "evidence": "DOTE4020#, 4110#, 4220#, GRON3412#, MGNT4010#, PHPC2017#, 3034#, 4032#, SBMS3101#, 3202#, 3205#, 3212#, 3215#"
+          },
+          {
+            "course_code": "PHPC3034",
+            "prefix_inferred": true,
+            "evidence": "DOTE4020#, 4110#, 4220#, GRON3412#, MGNT4010#, PHPC2017#, 3034#, 4032#, SBMS3101#, 3202#, 3205#, 3212#, 3215#"
+          },
+          {
+            "course_code": "PHPC4032",
+            "prefix_inferred": true,
+            "evidence": "DOTE4020#, 4110#, 4220#, GRON3412#, MGNT4010#, PHPC2017#, 3034#, 4032#, SBMS3101#, 3202#, 3205#, 3212#, 3215#"
+          },
+          {
+            "course_code": "SBMS3101",
+            "prefix_inferred": false,
+            "evidence": "DOTE4020#, 4110#, 4220#, GRON3412#, MGNT4010#, PHPC2017#, 3034#, 4032#, SBMS3101#, 3202#, 3205#, 3212#, 3215#"
+          },
+          {
+            "course_code": "SBMS3202",
+            "prefix_inferred": true,
+            "evidence": "DOTE4020#, 4110#, 4220#, GRON3412#, MGNT4010#, PHPC2017#, 3034#, 4032#, SBMS3101#, 3202#, 3205#, 3212#, 3215#"
+          },
+          {
+            "course_code": "SBMS3205",
+            "prefix_inferred": true,
+            "evidence": "DOTE4020#, 4110#, 4220#, GRON3412#, MGNT4010#, PHPC2017#, 3034#, 4032#, SBMS3101#, 3202#, 3205#, 3212#, 3215#"
+          },
+          {
+            "course_code": "SBMS3212",
+            "prefix_inferred": true,
+            "evidence": "DOTE4020#, 4110#, 4220#, GRON3412#, MGNT4010#, PHPC2017#, 3034#, 4032#, SBMS3101#, 3202#, 3205#, 3212#, 3215#"
+          },
+          {
+            "course_code": "SBMS3215",
+            "prefix_inferred": true,
+            "evidence": "DOTE4020#, 4110#, 4220#, GRON3412#, MGNT4010#, PHPC2017#, 3034#, 4032#, SBMS3101#, 3202#, 3205#, 3212#, 3215#"
+          }
+        ],
+        "raw_text": "17\nStudents must choose at least one concentration area by taking at least 17 units of courses from the following:\n(a)\nBiotechnology Entrepreneurship and Innovation\nRequired Courses: (8-9 units)\nACCT2151# or 3151# or LAWS2331#, FINA3080#, MGNT4090#\nElective Courses:\nChoose 9 units from the following:\nMBTE3510#, 3511#, 3518#, 3521#, 3528#, 3531#, 3550#, 3558#, 3560#, 3568#\n(b)\nHealthcare and Biomedicine Analytics\nRequired Courses: (11-12 units)\nDOTE2040#, 4260#, PHPC3024#, PHPC4029# or SBMS3216#\nElective Courses:\nChoose 6 units from the following:\nDOTE4020#, 4110#, 4220#, GRON3412#, MGNT4010#, PHPC2017#, 3034#, 4032#, SBMS3101#, 3202#, 3205#, 3212#, 3215#"
+      },
+      {
+        "number": 4,
+        "title": "Capstone Courses",
+        "units_as_printed": "6",
+        "course_mentions": [
+          {
+            "course_code": "BEHM4001",
+            "prefix_inferred": false,
+            "evidence": "BEHM4001, 4002"
+          },
+          {
+            "course_code": "BEHM4002",
+            "prefix_inferred": true,
+            "evidence": "BEHM4001, 4002"
+          }
+        ],
+        "raw_text": "BEHM4001, 4002\n6\nTotal:\n65\nExplanatory Notes:"
+      },
+      {
+        "number": 2,
+        "title": "Students are not allowed to declare Minor in (i) Business; (ii) Public Health.",
+        "units_as_printed": "3",
+        "course_mentions": [
+          {
+            "course_code": "LSCI1002",
+            "prefix_inferred": false,
+            "evidence": "Faculty Package: LSCI1002"
+          },
+          {
+            "course_code": "ACCT2111",
+            "prefix_inferred": false,
+            "evidence": "Major Required: ACCT2111, DOTE1030"
+          },
+          {
+            "course_code": "DOTE1030",
+            "prefix_inferred": false,
+            "evidence": "Major Required: ACCT2111, DOTE1030"
+          },
+          {
+            "course_code": "MEDF1012",
+            "prefix_inferred": false,
+            "evidence": "Faculty Package: MEDF1012, MGNT1020"
+          },
+          {
+            "course_code": "MGNT1020",
+            "prefix_inferred": false,
+            "evidence": "Faculty Package: MEDF1012, MGNT1020"
+          },
+          {
+            "course_code": "MBTE2000",
+            "prefix_inferred": false,
+            "evidence": "Major Required: MBTE2000"
+          },
+          {
+            "course_code": "DOTE2011",
+            "prefix_inferred": false,
+            "evidence": "Major Required: DOTE2011, FINA2010, PHPC1001"
+          },
+          {
+            "course_code": "FINA2010",
+            "prefix_inferred": false,
+            "evidence": "Major Required: DOTE2011, FINA2010, PHPC1001"
+          },
+          {
+            "course_code": "PHPC1001",
+            "prefix_inferred": false,
+            "evidence": "Major Required: DOTE2011, FINA2010, PHPC1001"
+          },
+          {
+            "course_code": "DOTE2030",
+            "prefix_inferred": false,
+            "evidence": "Major Required: DOTE2030, PHPC1017"
+          },
+          {
+            "course_code": "PHPC1017",
+            "prefix_inferred": false,
+            "evidence": "Major Required: DOTE2030, PHPC1017"
+          },
+          {
+            "course_code": "MBTE3000",
+            "prefix_inferred": false,
+            "evidence": "Major Required: MBTE3000"
+          },
+          {
+            "course_code": "BEHM4001",
+            "prefix_inferred": false,
+            "evidence": "Major Required: BEHM4001, GRON4411, SBMS2104"
+          },
+          {
+            "course_code": "GRON4411",
+            "prefix_inferred": false,
+            "evidence": "Major Required: BEHM4001, GRON4411, SBMS2104"
+          },
+          {
+            "course_code": "SBMS2104",
+            "prefix_inferred": false,
+            "evidence": "Major Required: BEHM4001, GRON4411, SBMS2104"
+          },
+          {
+            "course_code": "BEHM4000",
+            "prefix_inferred": false,
+            "evidence": "Major Required: BEHM4000, BEHM4002, PHPC2016"
+          },
+          {
+            "course_code": "BEHM4002",
+            "prefix_inferred": false,
+            "evidence": "Major Required: BEHM4000, BEHM4002, PHPC2016"
+          },
+          {
+            "course_code": "PHPC2016",
+            "prefix_inferred": false,
+            "evidence": "Major Required: BEHM4000, BEHM4002, PHPC2016"
+          },
+          {
+            "course_code": "ACCT2111",
+            "prefix_inferred": false,
+            "evidence": "ACCT2111"
+          },
+          {
+            "course_code": "ACCT2151",
+            "prefix_inferred": false,
+            "evidence": "ACCT2151"
+          },
+          {
+            "course_code": "ACCT3151",
+            "prefix_inferred": false,
+            "evidence": "ACCT3151"
+          },
+          {
+            "course_code": "BEHM4000",
+            "prefix_inferred": false,
+            "evidence": "BEHM4000"
+          },
+          {
+            "course_code": "BEHM4001",
+            "prefix_inferred": false,
+            "evidence": "BEHM4001"
+          },
+          {
+            "course_code": "BEHM4002",
+            "prefix_inferred": false,
+            "evidence": "BEHM4002"
+          },
+          {
+            "course_code": "DOTE1030",
+            "prefix_inferred": false,
+            "evidence": "DOTE1030"
+          },
+          {
+            "course_code": "DOTE2011",
+            "prefix_inferred": false,
+            "evidence": "DOTE2011"
+          },
+          {
+            "course_code": "DOTE2030",
+            "prefix_inferred": false,
+            "evidence": "DOTE2030"
+          },
+          {
+            "course_code": "DOTE2040",
+            "prefix_inferred": false,
+            "evidence": "DOTE2040"
+          },
+          {
+            "course_code": "DOTE4020",
+            "prefix_inferred": false,
+            "evidence": "DOTE4020"
+          },
+          {
+            "course_code": "DOTE4110",
+            "prefix_inferred": false,
+            "evidence": "DOTE4110"
+          },
+          {
+            "course_code": "DOTE4220",
+            "prefix_inferred": false,
+            "evidence": "DOTE4220"
+          },
+          {
+            "course_code": "DOTE4260",
+            "prefix_inferred": false,
+            "evidence": "DOTE4260"
+          },
+          {
+            "course_code": "FINA2010",
+            "prefix_inferred": false,
+            "evidence": "FINA2010"
+          },
+          {
+            "course_code": "FINA3080",
+            "prefix_inferred": false,
+            "evidence": "FINA3080"
+          },
+          {
+            "course_code": "GRON3412",
+            "prefix_inferred": false,
+            "evidence": "GRON3412"
+          },
+          {
+            "course_code": "GRON4411",
+            "prefix_inferred": false,
+            "evidence": "GRON4411"
+          },
+          {
+            "course_code": "LAWS2331",
+            "prefix_inferred": false,
+            "evidence": "LAWS2331"
+          },
+          {
+            "course_code": "LSCI1002",
+            "prefix_inferred": false,
+            "evidence": "LSCI1002"
+          },
+          {
+            "course_code": "MBTE2000",
+            "prefix_inferred": false,
+            "evidence": "MBTE2000"
+          },
+          {
+            "course_code": "MBTE3000",
+            "prefix_inferred": false,
+            "evidence": "MBTE3000"
+          },
+          {
+            "course_code": "MBTE3510",
+            "prefix_inferred": false,
+            "evidence": "MBTE3510"
+          },
+          {
+            "course_code": "MBTE3511",
+            "prefix_inferred": false,
+            "evidence": "MBTE3511"
+          },
+          {
+            "course_code": "MBTE3518",
+            "prefix_inferred": false,
+            "evidence": "MBTE3518"
+          },
+          {
+            "course_code": "MBTE3521",
+            "prefix_inferred": false,
+            "evidence": "MBTE3521"
+          },
+          {
+            "course_code": "MBTE3528",
+            "prefix_inferred": false,
+            "evidence": "MBTE3528"
+          },
+          {
+            "course_code": "MBTE3531",
+            "prefix_inferred": false,
+            "evidence": "MBTE3531"
+          },
+          {
+            "course_code": "MBTE3550",
+            "prefix_inferred": false,
+            "evidence": "MBTE3550"
+          },
+          {
+            "course_code": "MBTE3558",
+            "prefix_inferred": false,
+            "evidence": "MBTE3558"
+          },
+          {
+            "course_code": "MBTE3560",
+            "prefix_inferred": false,
+            "evidence": "MBTE3560"
+          },
+          {
+            "course_code": "MBTE3568",
+            "prefix_inferred": false,
+            "evidence": "MBTE3568"
+          },
+          {
+            "course_code": "MEDF1012",
+            "prefix_inferred": false,
+            "evidence": "MEDF1012"
+          },
+          {
+            "course_code": "MGNT1020",
+            "prefix_inferred": false,
+            "evidence": "MGNT1020"
+          },
+          {
+            "course_code": "MGNT4010",
+            "prefix_inferred": false,
+            "evidence": "MGNT4010"
+          },
+          {
+            "course_code": "MGNT4090",
+            "prefix_inferred": false,
+            "evidence": "MGNT4090"
+          },
+          {
+            "course_code": "PHPC1001",
+            "prefix_inferred": false,
+            "evidence": "PHPC1001"
+          },
+          {
+            "course_code": "PHPC1017",
+            "prefix_inferred": false,
+            "evidence": "PHPC1017"
+          },
+          {
+            "course_code": "PHPC2016",
+            "prefix_inferred": false,
+            "evidence": "PHPC2016"
+          },
+          {
+            "course_code": "PHPC2017",
+            "prefix_inferred": false,
+            "evidence": "PHPC2017"
+          },
+          {
+            "course_code": "PHPC3024",
+            "prefix_inferred": false,
+            "evidence": "PHPC3024"
+          },
+          {
+            "course_code": "PHPC3034",
+            "prefix_inferred": false,
+            "evidence": "PHPC3034"
+          },
+          {
+            "course_code": "PHPC4029",
+            "prefix_inferred": false,
+            "evidence": "PHPC4029"
+          },
+          {
+            "course_code": "PHPC4032",
+            "prefix_inferred": false,
+            "evidence": "PHPC4032"
+          },
+          {
+            "course_code": "SBMS2104",
+            "prefix_inferred": false,
+            "evidence": "SBMS2104"
+          },
+          {
+            "course_code": "SBMS3101",
+            "prefix_inferred": false,
+            "evidence": "SBMS3101"
+          },
+          {
+            "course_code": "SBMS3202",
+            "prefix_inferred": false,
+            "evidence": "SBMS3202"
+          },
+          {
+            "course_code": "SBMS3205",
+            "prefix_inferred": false,
+            "evidence": "SBMS3205"
+          },
+          {
+            "course_code": "SBMS3212",
+            "prefix_inferred": false,
+            "evidence": "SBMS3212"
+          },
+          {
+            "course_code": "SBMS3215",
+            "prefix_inferred": false,
+            "evidence": "SBMS3215"
+          },
+          {
+            "course_code": "SBMS3216",
+            "prefix_inferred": false,
+            "evidence": "SBMS3216"
+          }
+        ],
+        "raw_text": "Recommended Course Pattern\nUnits\nFirst Year of Attendance\n1st term\nFaculty Package: LSCI1002\n3\nMajor Required: ACCT2111, DOTE1030\n6\nMajor Elective(s):\n2nd term\nFaculty Package: MEDF1012, MGNT1020\n6\nMajor Required: MBTE2000\n2\nMajor Elective(s):\nSecond Year of Attendance\n1st term\nMajor Required: DOTE2011, FINA2010, PHPC1001\n9\nMajor Elective(s): one course\n3\n2nd term\nMajor Required: DOTE2030, PHPC1017\n4\nMajor Elective(s): one course\n3\nThird Year of Attendance\n1st term\nMajor Required: MBTE3000\n3\nMajor Elective(s): one to three course(s)\n1-9\n2nd term\nMajor Required: BEHM4001, GRON4411, SBMS2104\n8\nMajor Elective(s): one to three course(s)\n1-9\nFourth Year of Attendance\n1st term\nMajor Required: BEHM4000, BEHM4002, PHPC2016\n7\nMajor Elective(s): one to three course(s)\n1-9\n2nd term\nMajor Required:\nMajor Elective(s): one to three course(s)\n1-9\nTotal (including Faculty Package):\n65\nCourse List\nCourse Code\nCourse Title\nUnit(s)\nACCT2111\nIntroductory Financial Accounting\n3\nACCT2151\nLegal Environment for Business\n2\nACCT3151\nBusiness Law\n3\nBEHM4000\nInternship\n1\nBEHM4001\nCapstone Project I\n3\nBEHM4002\nCapstone Project II\n3\nDOTE1030\nEconomics for Business Studies I\n3\nDOTE2011\nStatistical Analysis for Business Decisions\n4\nDOTE2030\nOperations Management\n3\nDOTE2040\nBusiness Analytics\n3\nDOTE4020\nDecision Modeling and Analytics\n3\nDOTE4110\nEconomic Analytics\n3\nDOTE4220\nData Mining for Business Intelligence\n3\nDOTE4260\nBusiness Process Analytics\n3\nFINA2010\nFinancial Management\n3\nFINA3080\nInvestment Analysis and Portfolio Management\n3\nGRON3412\nInnovations and Evidence-based Practice for Aged Care Services\n3\nGRON4411\nHealth and Social Care Policy in Ageing\n3\nLAWS2331\nIntellectual Property Law for Entrepreneurs\n3\nLSCI1002\nIntroduction to Biological Sciences\n3\nMBTE2000\nIntroduction to Molecular Biotechnology\n2\nMBTE3000\nBusiness and Social Aspects of Biotechnology\n3\nMBTE3510\nMedical Biotechnology\n1\nMBTE3511\nIndustrial Applications of Plant Genetic Modification\n1\nMBTE3518\nProject in Medical Biotechnology\n2\nMBTE3521\nTransgenic Technologies in Animals and Their Applications\n1\nMBTE3528\nProject in Transgenic Technologies in Animals and Their Applications\n2\nMBTE3531\nMicrobes and Bioremediation\n1\nMBTE3550\nBiotechnology for Environment and Sustainability\n1\nMBTE3558\nProject in Biotechnology for Environment and Sustainability\n2\nMBTE3560\nProtein Engineering and Drug Design\n1\nMBTE3568\nProject of Protein Engineering and Drug Design\n2\nMEDF1012\nFoundation Course for Health Sciences II\n3\nMGNT1020\nManagement\n3\nMGNT4010\nStrategic Management\n3\nMGNT4090\nTechnology and Innovation Management\n3\nPHPC1001\nFoundations in Public Health\n2\nPHPC1017\nPrinciples of Infectious Diseases\n1\nPHPC2016\nTheories and Concepts of Health Behaviours\n3\nPHPC2017\nEpidemiology\n3\nPHPC3024\nEconomics and Financing in Healthcare Systems\n3\nPHPC3034\nApplied Economics Evaluation in Health Care\n3\nPHPC4029\nHealth and Healthcare Organisation and Management\n3\nPHPC4032\nDigital Health and Entrepreneurship\n3\nSBMS2104\nIntroduction to Bioethics\n2\nSBMS3101\nImmunology\n2\nSBMS3202\nCancer Biology\n3\nSBMS3205\nStem Cell and Regenerative Medicine\n3\nSBMS3212\nBioinformatics, Genomics and Proteomics\n3\nSBMS3215\nThe Landscape of the Biomedical Industry\n2\nSBMS3216\nHealth Services Management\n2\nStudy Scheme\nLearning Outcomes\n1. Major Programme:\nThe programme aims to equip students with entrepreneurial mindset for producing ground-breaking ideas, integrated knowledge in life/health sciences, data analytics and business management to provide innovative/interdisciplinary solutions, and also ability to communicate with collaborators of diverse background and manage/advance/provide solution for healthcare operations and translate medical/scientific advances into practice.\nUpon completion of the programme, students will have:\nKnowledge outcomes\n(1)\nacquired understanding on state-of-the-art biotechnology and application perspective;\n(2)\nunderstood the fundamental concepts in business management with advanced knowledge in data analytics and financial management;\n(3)\nacquired the contemporary concepts of public health and the interactions between determinants of health at individual, local and global levels;\n(4)\nexplained from global perspective the burden of disease, the links between health and development, and approaches to international cooperation to monitor, promote and protect health; and\n(5)\ndescribed important issues involved in public health advocacy, including ethical reasoning, civic engagement, and social justice.\nSkills outcomes\n(1)\nanalyzed critical information related to biotechnology and make business plan;\n(2)\nused data analytics tools to make data-driven decisions and formulate strategies;\n(3)\ndemonstrated leadership skills and can communicate effectively with stakeholders in both public and commercial sectors to facilitate collaborations and manage innovation processes;\n(4)\nassessed the health status, social concern, needs and equity of different populations contributing to the use of health services and health promotion practices; and\n(5)\nutilized evidence-based approach to inquire, analyze and criticize contemporary public health issues, and design framework for primary/secondary/tertiary care and prevention.\nValues and attitude outcomes\n(1)\nhad a positive attitude in applying biotechnology to benefit the human society and contribute to sustainable development;\n(2)\napplied market orientation in both public and private sectors;\n(3)\ndemonstrated appreciation of the importance of primary care in population health;\n(4)\nacknowledged the cross-cultural impacts on actual and perceived health needs; and\n(5)\nupheld core value of social equity and justice."
+      }
+    ]
+  },
+  "all_course_mentions": [
+    {
+      "course_code": "LSCI1002",
+      "prefix_inferred": false,
+      "evidence": "LSCI1002, MEDF1012, MGNT1020"
+    },
+    {
+      "course_code": "MEDF1012",
+      "prefix_inferred": false,
+      "evidence": "LSCI1002, MEDF1012, MGNT1020"
+    },
+    {
+      "course_code": "MGNT1020",
+      "prefix_inferred": false,
+      "evidence": "LSCI1002, MEDF1012, MGNT1020"
+    },
+    {
+      "course_code": "ACCT2111",
+      "prefix_inferred": false,
+      "evidence": "ACCT2111, BEHM4000, DOTE1030, 2011#, 2030#, FINA2010#, GRON4411#, MBTE2000#, 3000#, PHPC1001, 1017, 2016#, SBMS2104#"
+    },
+    {
+      "course_code": "BEHM4000",
+      "prefix_inferred": false,
+      "evidence": "ACCT2111, BEHM4000, DOTE1030, 2011#, 2030#, FINA2010#, GRON4411#, MBTE2000#, 3000#, PHPC1001, 1017, 2016#, SBMS2104#"
+    },
+    {
+      "course_code": "DOTE1030",
+      "prefix_inferred": false,
+      "evidence": "ACCT2111, BEHM4000, DOTE1030, 2011#, 2030#, FINA2010#, GRON4411#, MBTE2000#, 3000#, PHPC1001, 1017, 2016#, SBMS2104#"
+    },
+    {
+      "course_code": "DOTE2011",
+      "prefix_inferred": true,
+      "evidence": "ACCT2111, BEHM4000, DOTE1030, 2011#, 2030#, FINA2010#, GRON4411#, MBTE2000#, 3000#, PHPC1001, 1017, 2016#, SBMS2104#"
+    },
+    {
+      "course_code": "DOTE2030",
+      "prefix_inferred": true,
+      "evidence": "ACCT2111, BEHM4000, DOTE1030, 2011#, 2030#, FINA2010#, GRON4411#, MBTE2000#, 3000#, PHPC1001, 1017, 2016#, SBMS2104#"
+    },
+    {
+      "course_code": "FINA2010",
+      "prefix_inferred": false,
+      "evidence": "ACCT2111, BEHM4000, DOTE1030, 2011#, 2030#, FINA2010#, GRON4411#, MBTE2000#, 3000#, PHPC1001, 1017, 2016#, SBMS2104#"
+    },
+    {
+      "course_code": "GRON4411",
+      "prefix_inferred": false,
+      "evidence": "ACCT2111, BEHM4000, DOTE1030, 2011#, 2030#, FINA2010#, GRON4411#, MBTE2000#, 3000#, PHPC1001, 1017, 2016#, SBMS2104#"
+    },
+    {
+      "course_code": "MBTE2000",
+      "prefix_inferred": false,
+      "evidence": "ACCT2111, BEHM4000, DOTE1030, 2011#, 2030#, FINA2010#, GRON4411#, MBTE2000#, 3000#, PHPC1001, 1017, 2016#, SBMS2104#"
+    },
+    {
+      "course_code": "MBTE3000",
+      "prefix_inferred": true,
+      "evidence": "ACCT2111, BEHM4000, DOTE1030, 2011#, 2030#, FINA2010#, GRON4411#, MBTE2000#, 3000#, PHPC1001, 1017, 2016#, SBMS2104#"
+    },
+    {
+      "course_code": "PHPC1001",
+      "prefix_inferred": false,
+      "evidence": "ACCT2111, BEHM4000, DOTE1030, 2011#, 2030#, FINA2010#, GRON4411#, MBTE2000#, 3000#, PHPC1001, 1017, 2016#, SBMS2104#"
+    },
+    {
+      "course_code": "PHPC1017",
+      "prefix_inferred": true,
+      "evidence": "ACCT2111, BEHM4000, DOTE1030, 2011#, 2030#, FINA2010#, GRON4411#, MBTE2000#, 3000#, PHPC1001, 1017, 2016#, SBMS2104#"
+    },
+    {
+      "course_code": "PHPC2016",
+      "prefix_inferred": true,
+      "evidence": "ACCT2111, BEHM4000, DOTE1030, 2011#, 2030#, FINA2010#, GRON4411#, MBTE2000#, 3000#, PHPC1001, 1017, 2016#, SBMS2104#"
+    },
+    {
+      "course_code": "SBMS2104",
+      "prefix_inferred": false,
+      "evidence": "ACCT2111, BEHM4000, DOTE1030, 2011#, 2030#, FINA2010#, GRON4411#, MBTE2000#, 3000#, PHPC1001, 1017, 2016#, SBMS2104#"
+    },
+    {
+      "course_code": "ACCT2151",
+      "prefix_inferred": false,
+      "evidence": "ACCT2151# or 3151# or LAWS2331#, FINA3080#, MGNT4090#"
+    },
+    {
+      "course_code": "ACCT3151",
+      "prefix_inferred": true,
+      "evidence": "ACCT2151# or 3151# or LAWS2331#, FINA3080#, MGNT4090#"
+    },
+    {
+      "course_code": "LAWS2331",
+      "prefix_inferred": false,
+      "evidence": "ACCT2151# or 3151# or LAWS2331#, FINA3080#, MGNT4090#"
+    },
+    {
+      "course_code": "FINA3080",
+      "prefix_inferred": false,
+      "evidence": "ACCT2151# or 3151# or LAWS2331#, FINA3080#, MGNT4090#"
+    },
+    {
+      "course_code": "MGNT4090",
+      "prefix_inferred": false,
+      "evidence": "ACCT2151# or 3151# or LAWS2331#, FINA3080#, MGNT4090#"
+    },
+    {
+      "course_code": "MBTE3510",
+      "prefix_inferred": false,
+      "evidence": "MBTE3510#, 3511#, 3518#, 3521#, 3528#, 3531#, 3550#, 3558#, 3560#, 3568#"
+    },
+    {
+      "course_code": "MBTE3511",
+      "prefix_inferred": true,
+      "evidence": "MBTE3510#, 3511#, 3518#, 3521#, 3528#, 3531#, 3550#, 3558#, 3560#, 3568#"
+    },
+    {
+      "course_code": "MBTE3518",
+      "prefix_inferred": true,
+      "evidence": "MBTE3510#, 3511#, 3518#, 3521#, 3528#, 3531#, 3550#, 3558#, 3560#, 3568#"
+    },
+    {
+      "course_code": "MBTE3521",
+      "prefix_inferred": true,
+      "evidence": "MBTE3510#, 3511#, 3518#, 3521#, 3528#, 3531#, 3550#, 3558#, 3560#, 3568#"
+    },
+    {
+      "course_code": "MBTE3528",
+      "prefix_inferred": true,
+      "evidence": "MBTE3510#, 3511#, 3518#, 3521#, 3528#, 3531#, 3550#, 3558#, 3560#, 3568#"
+    },
+    {
+      "course_code": "MBTE3531",
+      "prefix_inferred": true,
+      "evidence": "MBTE3510#, 3511#, 3518#, 3521#, 3528#, 3531#, 3550#, 3558#, 3560#, 3568#"
+    },
+    {
+      "course_code": "MBTE3550",
+      "prefix_inferred": true,
+      "evidence": "MBTE3510#, 3511#, 3518#, 3521#, 3528#, 3531#, 3550#, 3558#, 3560#, 3568#"
+    },
+    {
+      "course_code": "MBTE3558",
+      "prefix_inferred": true,
+      "evidence": "MBTE3510#, 3511#, 3518#, 3521#, 3528#, 3531#, 3550#, 3558#, 3560#, 3568#"
+    },
+    {
+      "course_code": "MBTE3560",
+      "prefix_inferred": true,
+      "evidence": "MBTE3510#, 3511#, 3518#, 3521#, 3528#, 3531#, 3550#, 3558#, 3560#, 3568#"
+    },
+    {
+      "course_code": "MBTE3568",
+      "prefix_inferred": true,
+      "evidence": "MBTE3510#, 3511#, 3518#, 3521#, 3528#, 3531#, 3550#, 3558#, 3560#, 3568#"
+    },
+    {
+      "course_code": "DOTE2040",
+      "prefix_inferred": false,
+      "evidence": "DOTE2040#, 4260#, PHPC3024#, PHPC4029# or SBMS3216#"
+    },
+    {
+      "course_code": "DOTE4260",
+      "prefix_inferred": true,
+      "evidence": "DOTE2040#, 4260#, PHPC3024#, PHPC4029# or SBMS3216#"
+    },
+    {
+      "course_code": "PHPC3024",
+      "prefix_inferred": false,
+      "evidence": "DOTE2040#, 4260#, PHPC3024#, PHPC4029# or SBMS3216#"
+    },
+    {
+      "course_code": "PHPC4029",
+      "prefix_inferred": false,
+      "evidence": "DOTE2040#, 4260#, PHPC3024#, PHPC4029# or SBMS3216#"
+    },
+    {
+      "course_code": "SBMS3216",
+      "prefix_inferred": false,
+      "evidence": "DOTE2040#, 4260#, PHPC3024#, PHPC4029# or SBMS3216#"
+    },
+    {
+      "course_code": "DOTE4020",
+      "prefix_inferred": false,
+      "evidence": "DOTE4020#, 4110#, 4220#, GRON3412#, MGNT4010#, PHPC2017#, 3034#, 4032#, SBMS3101#, 3202#, 3205#, 3212#, 3215#"
+    },
+    {
+      "course_code": "DOTE4110",
+      "prefix_inferred": true,
+      "evidence": "DOTE4020#, 4110#, 4220#, GRON3412#, MGNT4010#, PHPC2017#, 3034#, 4032#, SBMS3101#, 3202#, 3205#, 3212#, 3215#"
+    },
+    {
+      "course_code": "DOTE4220",
+      "prefix_inferred": true,
+      "evidence": "DOTE4020#, 4110#, 4220#, GRON3412#, MGNT4010#, PHPC2017#, 3034#, 4032#, SBMS3101#, 3202#, 3205#, 3212#, 3215#"
+    },
+    {
+      "course_code": "GRON3412",
+      "prefix_inferred": false,
+      "evidence": "DOTE4020#, 4110#, 4220#, GRON3412#, MGNT4010#, PHPC2017#, 3034#, 4032#, SBMS3101#, 3202#, 3205#, 3212#, 3215#"
+    },
+    {
+      "course_code": "MGNT4010",
+      "prefix_inferred": false,
+      "evidence": "DOTE4020#, 4110#, 4220#, GRON3412#, MGNT4010#, PHPC2017#, 3034#, 4032#, SBMS3101#, 3202#, 3205#, 3212#, 3215#"
+    },
+    {
+      "course_code": "PHPC2017",
+      "prefix_inferred": false,
+      "evidence": "DOTE4020#, 4110#, 4220#, GRON3412#, MGNT4010#, PHPC2017#, 3034#, 4032#, SBMS3101#, 3202#, 3205#, 3212#, 3215#"
+    },
+    {
+      "course_code": "PHPC3034",
+      "prefix_inferred": true,
+      "evidence": "DOTE4020#, 4110#, 4220#, GRON3412#, MGNT4010#, PHPC2017#, 3034#, 4032#, SBMS3101#, 3202#, 3205#, 3212#, 3215#"
+    },
+    {
+      "course_code": "PHPC4032",
+      "prefix_inferred": true,
+      "evidence": "DOTE4020#, 4110#, 4220#, GRON3412#, MGNT4010#, PHPC2017#, 3034#, 4032#, SBMS3101#, 3202#, 3205#, 3212#, 3215#"
+    },
+    {
+      "course_code": "SBMS3101",
+      "prefix_inferred": false,
+      "evidence": "DOTE4020#, 4110#, 4220#, GRON3412#, MGNT4010#, PHPC2017#, 3034#, 4032#, SBMS3101#, 3202#, 3205#, 3212#, 3215#"
+    },
+    {
+      "course_code": "SBMS3202",
+      "prefix_inferred": true,
+      "evidence": "DOTE4020#, 4110#, 4220#, GRON3412#, MGNT4010#, PHPC2017#, 3034#, 4032#, SBMS3101#, 3202#, 3205#, 3212#, 3215#"
+    },
+    {
+      "course_code": "SBMS3205",
+      "prefix_inferred": true,
+      "evidence": "DOTE4020#, 4110#, 4220#, GRON3412#, MGNT4010#, PHPC2017#, 3034#, 4032#, SBMS3101#, 3202#, 3205#, 3212#, 3215#"
+    },
+    {
+      "course_code": "SBMS3212",
+      "prefix_inferred": true,
+      "evidence": "DOTE4020#, 4110#, 4220#, GRON3412#, MGNT4010#, PHPC2017#, 3034#, 4032#, SBMS3101#, 3202#, 3205#, 3212#, 3215#"
+    },
+    {
+      "course_code": "SBMS3215",
+      "prefix_inferred": true,
+      "evidence": "DOTE4020#, 4110#, 4220#, GRON3412#, MGNT4010#, PHPC2017#, 3034#, 4032#, SBMS3101#, 3202#, 3205#, 3212#, 3215#"
+    },
+    {
+      "course_code": "BEHM4001",
+      "prefix_inferred": false,
+      "evidence": "BEHM4001, 4002"
+    },
+    {
+      "course_code": "BEHM4002",
+      "prefix_inferred": true,
+      "evidence": "BEHM4001, 4002"
+    },
+    {
+      "course_code": "LSCI1002",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: LSCI1002"
+    },
+    {
+      "course_code": "ACCT2111",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ACCT2111, DOTE1030"
+    },
+    {
+      "course_code": "DOTE1030",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ACCT2111, DOTE1030"
+    },
+    {
+      "course_code": "MEDF1012",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: MEDF1012, MGNT1020"
+    },
+    {
+      "course_code": "MGNT1020",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: MEDF1012, MGNT1020"
+    },
+    {
+      "course_code": "MBTE2000",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MBTE2000"
+    },
+    {
+      "course_code": "DOTE2011",
+      "prefix_inferred": false,
+      "evidence": "Major Required: DOTE2011, FINA2010, PHPC1001"
+    },
+    {
+      "course_code": "FINA2010",
+      "prefix_inferred": false,
+      "evidence": "Major Required: DOTE2011, FINA2010, PHPC1001"
+    },
+    {
+      "course_code": "PHPC1001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: DOTE2011, FINA2010, PHPC1001"
+    },
+    {
+      "course_code": "DOTE2030",
+      "prefix_inferred": false,
+      "evidence": "Major Required: DOTE2030, PHPC1017"
+    },
+    {
+      "course_code": "PHPC1017",
+      "prefix_inferred": false,
+      "evidence": "Major Required: DOTE2030, PHPC1017"
+    },
+    {
+      "course_code": "MBTE3000",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MBTE3000"
+    },
+    {
+      "course_code": "BEHM4001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BEHM4001, GRON4411, SBMS2104"
+    },
+    {
+      "course_code": "GRON4411",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BEHM4001, GRON4411, SBMS2104"
+    },
+    {
+      "course_code": "SBMS2104",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BEHM4001, GRON4411, SBMS2104"
+    },
+    {
+      "course_code": "BEHM4000",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BEHM4000, BEHM4002, PHPC2016"
+    },
+    {
+      "course_code": "BEHM4002",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BEHM4000, BEHM4002, PHPC2016"
+    },
+    {
+      "course_code": "PHPC2016",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BEHM4000, BEHM4002, PHPC2016"
+    },
+    {
+      "course_code": "ACCT2111",
+      "prefix_inferred": false,
+      "evidence": "ACCT2111"
+    },
+    {
+      "course_code": "ACCT2151",
+      "prefix_inferred": false,
+      "evidence": "ACCT2151"
+    },
+    {
+      "course_code": "ACCT3151",
+      "prefix_inferred": false,
+      "evidence": "ACCT3151"
+    },
+    {
+      "course_code": "BEHM4000",
+      "prefix_inferred": false,
+      "evidence": "BEHM4000"
+    },
+    {
+      "course_code": "BEHM4001",
+      "prefix_inferred": false,
+      "evidence": "BEHM4001"
+    },
+    {
+      "course_code": "BEHM4002",
+      "prefix_inferred": false,
+      "evidence": "BEHM4002"
+    },
+    {
+      "course_code": "DOTE1030",
+      "prefix_inferred": false,
+      "evidence": "DOTE1030"
+    },
+    {
+      "course_code": "DOTE2011",
+      "prefix_inferred": false,
+      "evidence": "DOTE2011"
+    },
+    {
+      "course_code": "DOTE2030",
+      "prefix_inferred": false,
+      "evidence": "DOTE2030"
+    },
+    {
+      "course_code": "DOTE2040",
+      "prefix_inferred": false,
+      "evidence": "DOTE2040"
+    },
+    {
+      "course_code": "DOTE4020",
+      "prefix_inferred": false,
+      "evidence": "DOTE4020"
+    },
+    {
+      "course_code": "DOTE4110",
+      "prefix_inferred": false,
+      "evidence": "DOTE4110"
+    },
+    {
+      "course_code": "DOTE4220",
+      "prefix_inferred": false,
+      "evidence": "DOTE4220"
+    },
+    {
+      "course_code": "DOTE4260",
+      "prefix_inferred": false,
+      "evidence": "DOTE4260"
+    },
+    {
+      "course_code": "FINA2010",
+      "prefix_inferred": false,
+      "evidence": "FINA2010"
+    },
+    {
+      "course_code": "FINA3080",
+      "prefix_inferred": false,
+      "evidence": "FINA3080"
+    },
+    {
+      "course_code": "GRON3412",
+      "prefix_inferred": false,
+      "evidence": "GRON3412"
+    },
+    {
+      "course_code": "GRON4411",
+      "prefix_inferred": false,
+      "evidence": "GRON4411"
+    },
+    {
+      "course_code": "LAWS2331",
+      "prefix_inferred": false,
+      "evidence": "LAWS2331"
+    },
+    {
+      "course_code": "LSCI1002",
+      "prefix_inferred": false,
+      "evidence": "LSCI1002"
+    },
+    {
+      "course_code": "MBTE2000",
+      "prefix_inferred": false,
+      "evidence": "MBTE2000"
+    },
+    {
+      "course_code": "MBTE3000",
+      "prefix_inferred": false,
+      "evidence": "MBTE3000"
+    },
+    {
+      "course_code": "MBTE3510",
+      "prefix_inferred": false,
+      "evidence": "MBTE3510"
+    },
+    {
+      "course_code": "MBTE3511",
+      "prefix_inferred": false,
+      "evidence": "MBTE3511"
+    },
+    {
+      "course_code": "MBTE3518",
+      "prefix_inferred": false,
+      "evidence": "MBTE3518"
+    },
+    {
+      "course_code": "MBTE3521",
+      "prefix_inferred": false,
+      "evidence": "MBTE3521"
+    },
+    {
+      "course_code": "MBTE3528",
+      "prefix_inferred": false,
+      "evidence": "MBTE3528"
+    },
+    {
+      "course_code": "MBTE3531",
+      "prefix_inferred": false,
+      "evidence": "MBTE3531"
+    },
+    {
+      "course_code": "MBTE3550",
+      "prefix_inferred": false,
+      "evidence": "MBTE3550"
+    },
+    {
+      "course_code": "MBTE3558",
+      "prefix_inferred": false,
+      "evidence": "MBTE3558"
+    },
+    {
+      "course_code": "MBTE3560",
+      "prefix_inferred": false,
+      "evidence": "MBTE3560"
+    },
+    {
+      "course_code": "MBTE3568",
+      "prefix_inferred": false,
+      "evidence": "MBTE3568"
+    },
+    {
+      "course_code": "MEDF1012",
+      "prefix_inferred": false,
+      "evidence": "MEDF1012"
+    },
+    {
+      "course_code": "MGNT1020",
+      "prefix_inferred": false,
+      "evidence": "MGNT1020"
+    },
+    {
+      "course_code": "MGNT4010",
+      "prefix_inferred": false,
+      "evidence": "MGNT4010"
+    },
+    {
+      "course_code": "MGNT4090",
+      "prefix_inferred": false,
+      "evidence": "MGNT4090"
+    },
+    {
+      "course_code": "PHPC1001",
+      "prefix_inferred": false,
+      "evidence": "PHPC1001"
+    },
+    {
+      "course_code": "PHPC1017",
+      "prefix_inferred": false,
+      "evidence": "PHPC1017"
+    },
+    {
+      "course_code": "PHPC2016",
+      "prefix_inferred": false,
+      "evidence": "PHPC2016"
+    },
+    {
+      "course_code": "PHPC2017",
+      "prefix_inferred": false,
+      "evidence": "PHPC2017"
+    },
+    {
+      "course_code": "PHPC3024",
+      "prefix_inferred": false,
+      "evidence": "PHPC3024"
+    },
+    {
+      "course_code": "PHPC3034",
+      "prefix_inferred": false,
+      "evidence": "PHPC3034"
+    },
+    {
+      "course_code": "PHPC4029",
+      "prefix_inferred": false,
+      "evidence": "PHPC4029"
+    },
+    {
+      "course_code": "PHPC4032",
+      "prefix_inferred": false,
+      "evidence": "PHPC4032"
+    },
+    {
+      "course_code": "SBMS2104",
+      "prefix_inferred": false,
+      "evidence": "SBMS2104"
+    },
+    {
+      "course_code": "SBMS3101",
+      "prefix_inferred": false,
+      "evidence": "SBMS3101"
+    },
+    {
+      "course_code": "SBMS3202",
+      "prefix_inferred": false,
+      "evidence": "SBMS3202"
+    },
+    {
+      "course_code": "SBMS3205",
+      "prefix_inferred": false,
+      "evidence": "SBMS3205"
+    },
+    {
+      "course_code": "SBMS3212",
+      "prefix_inferred": false,
+      "evidence": "SBMS3212"
+    },
+    {
+      "course_code": "SBMS3215",
+      "prefix_inferred": false,
+      "evidence": "SBMS3215"
+    },
+    {
+      "course_code": "SBMS3216",
+      "prefix_inferred": false,
+      "evidence": "SBMS3216"
+    }
+  ],
+  "course_code_aliases": [],
+  "source": {
+    "system": "CUHK CUSIS Browse Program Information",
+    "url": "https://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/tt_dsp_acad_prog.aspx",
+    "source_text_file": "data/cuhk/2024/programmes/B_Sc_in_Biotechnology_Entrepreneurship_and_Healthcare_Management__Faculty_of_Business_Administration.txt",
+    "reused_duplicate_entry": false,
+    "reused_from_faculty": null
+  },
+  "raw_text": "\n\nBrowse Program Information\n\n\n\n\n\n\nAcademic Program:\tB.Sc. in Biotechnology, Entrepreneurship and Healthcare Management\nAcademic Year:\t2024\nLanguage:\t\nEnglish\nSimplified Chinese\nTraditional Chinese\n\n\n\n⬆\nLearning Outcomes\nStudy Scheme\n \n\n\t\n\nBiotechnology, Entrepreneurship and Healthcare Management\n\nApplicable to students admitted in 2024-25\n\n\n\n\n \n\n \n\nMajor Programme Requirement\n\n \n\n\t\n\n \n\n\n\n\nStudents are required to complete a minimum of 65 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nFaculty Package:\n\nLSCI1002, MEDF1012, MGNT1020\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nRequired Courses:\n\nACCT2111, BEHM4000, DOTE1030, 2011#, 2030#, FINA2010#, GRON4411#, MBTE2000#, 3000#, PHPC1001, 1017, 2016#, SBMS2104#\n\n\t\n\n33\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nElective Courses:\n\n\t\n\n17\n\n\n\n\n \n\n\t\n\nStudents must choose at least one concentration area by taking at least 17 units of courses from the following:\n\n\t\n\n \n\n\n\n\n(a)\n\n \n\n\t\n\nBiotechnology Entrepreneurship and Innovation\n\nRequired Courses: (8-9 units)\n\nACCT2151# or 3151# or LAWS2331#, FINA3080#, MGNT4090#\n\nElective Courses:\n\nChoose 9 units from the following:\n\nMBTE3510#, 3511#, 3518#, 3521#, 3528#, 3531#, 3550#, 3558#, 3560#, 3568#\n\n\t\n\n \n\n\n\n\n(b)\n\n \n\n\t\n\nHealthcare and Biomedicine Analytics\nRequired Courses: (11-12 units)\nDOTE2040#, 4260#, PHPC3024#, PHPC4029# or SBMS3216#\nElective Courses:\nChoose 6 units from the following:\nDOTE4020#, 4110#, 4220#, GRON3412#, MGNT4010#, PHPC2017#, 3034#, 4032#, SBMS3101#, 3202#, 3205#, 3212#, 3215#\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n4.\n\n\t\n\nCapstone Courses:\n\nBEHM4001, 4002\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n65\n\n\n\n\nExplanatory Notes:\n\n\t\n\n \n\n\n\n\n1.\n\n\t\n\nBEHM courses at 2000 and above level as well as those labeled as # will be included in the calculation of Major GPA for honours classification.\n\n\n\n\n2.\n\n\t\n\nStudents are not allowed to declare Minor in (i) Business; (ii) Public Health.\n\n\n\t\t\t\t\n\n\n\n\n \n\n\n\n\n \n\n\t\n\nRecommended Course Pattern\n\n\t\n\nUnits\n\n\n\n\nFirst Year of Attendance\n\n \n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: LSCI1002\n\n\t\n\n3\n\n\n\n\nMajor Required: ACCT2111, DOTE1030\n\n\t\n\n6\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n2nd term\n\n\t\n\n \n\n\n\n\nFaculty Package: MEDF1012, MGNT1020\n\n\t\n\n6\n\n\n\n\nMajor Required: MBTE2000\n\n\t\n\n2\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: DOTE2011, FINA2010, PHPC1001\n\n\t\n\n9\n\n\n\n\nMajor Elective(s): one course\n\n\t\n\n3\n\n\n\n\n \n\n\t\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: DOTE2030, PHPC1017\n\n\t\n\n4\n\n\n\n\nMajor Elective(s): one course\n\n\t\n\n3\n\n\n\n\nThird Year of Attendance\n\n \n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: MBTE3000\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): one to three course(s)\n\n\t\n\n1-9\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: BEHM4001, GRON4411, SBMS2104\n\n\t\n\n8\n\n\n\n\nMajor Elective(s): one to three course(s)\n\n\t\n\n1-9\n\n\n\n\nFourth Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: BEHM4000, BEHM4002, PHPC2016\n\n\t\n\n7\n\n\n\n\nMajor Elective(s): one to three course(s)\n\n\t\n\n1-9\n\n\n\n\n \n\n\t\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required:\n\n\t\n\n \n\n\n\n\nMajor Elective(s): one to three course(s)\n\n\t\n\n1-9\n\n\n\n\n \n\n\t\n\nTotal (including Faculty Package):\n\n\t\n\n65\n\n\n\n\n \n\n\n\n\nCourse List\n\n \n\n\n\n\nCourse Code\n\n\t\n\nCourse Title\n\n\t\n\nUnit(s)\n\n\n\n\nACCT2111\n\n\t\n\nIntroductory Financial Accounting\n\n\t\n\n3\n\n\n\n\nACCT2151\n\n\t\n\nLegal Environment for Business\n\n\t\n\n2\n\n\n\n\nACCT3151\n\n\t\n\nBusiness Law\n\n\t\n\n3\n\n\n\n\nBEHM4000\n\n\t\n\nInternship\n\n\t\n\n1\n\n\n\n\nBEHM4001\n\n\t\n\nCapstone Project I\n\n\t\n\n3\n\n\n\n\nBEHM4002\n\n\t\n\nCapstone Project II\n\n\t\n\n3\n\n\n\n\nDOTE1030\n\n\t\n\nEconomics for Business Studies I\n\n\t\n\n3\n\n\n\n\nDOTE2011\n\n\t\n\nStatistical Analysis for Business Decisions\n\n\t\n\n4\n\n\n\n\nDOTE2030\n\n\t\n\nOperations Management\n\n\t\n\n3\n\n\n\n\nDOTE2040\n\n\t\n\nBusiness Analytics\n\n\t\n\n3\n\n\n\n\nDOTE4020\n\n\t\n\nDecision Modeling and Analytics\n\n\t\n\n3\n\n\n\n\nDOTE4110\n\n\t\n\nEconomic Analytics\n\n\t\n\n3\n\n\n\n\nDOTE4220\n\n\t\n\nData Mining for Business Intelligence\n\n\t\n\n3\n\n\n\n\nDOTE4260\n\n\t\n\nBusiness Process Analytics\n\n\t\n\n3\n\n\n\n\nFINA2010\n\n\t\n\nFinancial Management\n\n\t\n\n3\n\n\n\n\nFINA3080\n\n\t\n\nInvestment Analysis and Portfolio Management\n\n\t\n\n3\n\n\n\n\nGRON3412\n\n\t\n\nInnovations and Evidence-based Practice for Aged Care Services\n\n\t\n\n3\n\n\n\n\nGRON4411\n\n\t\n\nHealth and Social Care Policy in Ageing\n\n\t\n\n3\n\n\n\n\nLAWS2331\n\n\t\n\nIntellectual Property Law for Entrepreneurs\n\n\t\n\n3\n\n\n\n\nLSCI1002\n\n\t\n\nIntroduction to Biological Sciences\n\n\t\n\n3\n\n\n\n\nMBTE2000\n\n\t\n\nIntroduction to Molecular Biotechnology\n\n\t\n\n2\n\n\n\n\nMBTE3000\n\n\t\n\nBusiness and Social Aspects of Biotechnology\n\n\t\n\n3\n\n\n\n\nMBTE3510\n\n\t\n\nMedical Biotechnology\n\n\t\n\n1\n\n\n\n\nMBTE3511\n\n\t\n\nIndustrial Applications of Plant Genetic Modification\n\n\t\n\n1\n\n\n\n\nMBTE3518\n\n\t\n\nProject in Medical Biotechnology\n\n\t\n\n2\n\n\n\n\nMBTE3521\n\n\t\n\nTransgenic Technologies in Animals and Their Applications\n\n\t\n\n1\n\n\n\n\nMBTE3528\n\n\t\n\nProject in Transgenic Technologies in Animals and Their Applications\n\n\t\n\n2\n\n\n\n\nMBTE3531\n\n\t\n\nMicrobes and Bioremediation\n\n\t\n\n1\n\n\n\n\nMBTE3550\n\n\t\n\nBiotechnology for Environment and Sustainability\n\n\t\n\n1\n\n\n\n\nMBTE3558\n\n\t\n\nProject in Biotechnology for Environment and Sustainability\n\n\t\n\n2\n\n\n\n\nMBTE3560\n\n\t\n\nProtein Engineering and Drug Design\n\n\t\n\n1\n\n\n\n\nMBTE3568\n\n\t\n\nProject of Protein Engineering and Drug Design\n\n\t\n\n2\n\n\n\n\nMEDF1012\n\n\t\n\nFoundation Course for Health Sciences II\n\n\t\n\n3\n\n\n\n\nMGNT1020\n\n\t\n\nManagement\n\n\t\n\n3\n\n\n\n\nMGNT4010\n\n\t\n\nStrategic Management\n\n\t\n\n3\n\n\n\n\nMGNT4090\n\n\t\n\nTechnology and Innovation Management\n\n\t\n\n3\n\n\n\n\nPHPC1001\n\n\t\n\nFoundations in Public Health\n\n\t\n\n2\n\n\n\n\nPHPC1017 \n\n\t\n\nPrinciples of Infectious Diseases\n\n\t\n\n1\n\n\n\n\nPHPC2016\n\n\t\n\nTheories and Concepts of Health Behaviours\n\n\t\n\n3\n\n\n\n\nPHPC2017\n\n\t\n\nEpidemiology\n\n\t\n\n3\n\n\n\n\nPHPC3024\n\n\t\n\nEconomics and Financing in Healthcare Systems\n\n\t\n\n3\n\n\n\n\nPHPC3034\n\n\t\n\nApplied Economics Evaluation in Health Care\n\n\t\n\n3\n\n\n\n\nPHPC4029\n\n\t\n\nHealth and Healthcare Organisation and Management\n\n\t\n\n3\n\n\n\n\nPHPC4032\n\n\t\n\nDigital Health and Entrepreneurship\n\n\t\n\n3\n\n\n\n\nSBMS2104\n\n\t\n\nIntroduction to Bioethics\n\n\t\n\n2\n\n\n\n\nSBMS3101\n\n\t\n\nImmunology\n\n\t\n\n2\n\n\n\n\nSBMS3202\n\n\t\n\nCancer Biology\n\n\t\n\n3\n\n\n\n\nSBMS3205\n\n\t\n\nStem Cell and Regenerative Medicine\n\n\t\n\n3\n\n\n\n\nSBMS3212\n\n\t\n\nBioinformatics, Genomics and Proteomics\n\n\t\n\n3\n\n\n\n\nSBMS3215\n\n\t\n\nThe Landscape of the Biomedical Industry\n\n\t\n\n2\n\n\n\n\nSBMS3216\n\n\t\n\nHealth Services Management\n\n\t\n\n2\n\n \n\n \n\n \n\n\n \n\nStudy Scheme\n\n\nLearning Outcomes\n \n\n\t\n\n \n\n1.     Major Programme:\n\n\n\n\nThe programme aims to equip students with entrepreneurial mindset for producing ground-breaking ideas, integrated knowledge in life/health sciences, data analytics and business management to provide innovative/interdisciplinary solutions, and also ability to communicate with collaborators of diverse background and manage/advance/provide solution for healthcare operations and translate medical/scientific advances into practice.\n\n \n\n\n\n\nUpon completion of the programme, students will have:\n\n\n\n\nKnowledge outcomes\n\n\n\n\n(1)\n\n\t\n\nacquired understanding on state-of-the-art biotechnology and application perspective;\n\n\n\n\n(2)\n\n\t\n\nunderstood the fundamental concepts in business management with advanced knowledge in data analytics and financial management;\n\n\n\n\n(3)\n\n\t\n\nacquired the contemporary concepts of public health and the interactions between determinants of health at individual, local and global levels;\n\n\n\n\n(4)\n\n\t\n\nexplained from global perspective the burden of disease, the links between health and development, and approaches to international cooperation to monitor, promote and protect health; and\n\n\n\n\n(5)\n\n\t\n\ndescribed important issues involved in public health advocacy, including ethical reasoning, civic engagement, and social justice.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nSkills outcomes\n\n\n\n\n(1)\n\n\t\n\nanalyzed critical information related to biotechnology and make business plan;\n\n\n\n\n(2)\n\n\t\n\nused data analytics tools to make data-driven decisions and formulate strategies;\n\n\n\n\n(3)\n\n\t\n\ndemonstrated leadership skills and can communicate effectively with stakeholders in both public and commercial sectors to facilitate collaborations and manage innovation processes;\n\n\n\n\n(4)\n\n\t\n\nassessed the health status, social concern, needs and equity of different populations contributing to the use of health services and health promotion practices; and\n\n\n\n\n(5)\n\n\t\n\nutilized evidence-based approach to inquire, analyze and criticize contemporary public health issues, and design framework for primary/secondary/tertiary care and prevention.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nValues and attitude outcomes\n\n\n\n\n(1)\n\n\t\n\nhad a positive attitude in applying biotechnology to benefit the human society and contribute to sustainable development;\n\n\n\n\n(2)\n\n\t\n\napplied market orientation in both public and private sectors;\n\n\n\n\n(3)\n\n\t\n\ndemonstrated appreciation of the importance of primary care in population health;\n\n\n\n\n(4)\n\n\t\n\nacknowledged the cross-cultural impacts on actual and perceived health needs; and\n\n\n\n\n(5)\n\n\t\n\nupheld core value of social equity and justice.\n\n \n\n \n\n\n"
+}

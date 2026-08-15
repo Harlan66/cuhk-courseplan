@@ -1,0 +1,2459 @@
+{
+  "schemaVersion": 1,
+  "probedAt": "2026-08-14T03:30:20.320Z",
+  "scope": "Each distinct Business School course offering in the local CUSIS 2026-27 Term 1/2 timetable snapshot, tested against the same-term CLEAR canonical URL pattern",
+  "requests": 244,
+  "hits": 0,
+  "hitCourseCodes": 0,
+  "statusCounts": {
+    "404": 244
+  },
+  "results": [
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "ACCT1111",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/ACCT1111.pdf",
+      "retried": true
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "ACCT2111",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/ACCT2111.pdf",
+      "retried": true
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "ACCT2151",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/ACCT2151.pdf",
+      "retried": true
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "ACCT2121",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/ACCT2121.pdf",
+      "retried": true
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "ACCT3112",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/ACCT3112.pdf",
+      "retried": true
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "ACCT3111",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/ACCT3111.pdf",
+      "retried": true
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "ACCT3161",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/ACCT3161.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "ACCT3151",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/ACCT3151.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "ACCT3142",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/ACCT3142.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "ACCT3152",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/ACCT3152.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "ACCT3241",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/ACCT3241.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "ACCT3121",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/ACCT3121.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "ACCT4001",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/ACCT4001.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "ACCT4215",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/ACCT4215.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "ACCT4111",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/ACCT4111.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "ACCT4244",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/ACCT4244.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "ACCT4131",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/ACCT4131.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "ACCT4262",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/ACCT4262.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "ACCT4290",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/ACCT4290.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "DOTE2030",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/DOTE2030.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "DOTE2040",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/DOTE2040.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "DOTE1030",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/DOTE1030.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "DOTE1031",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/DOTE1031.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "DOTE2011",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/DOTE2011.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "DOTE2051",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/DOTE2051.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "DOTE3090",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/DOTE3090.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "DOTE4070",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/DOTE4070.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "DOTE3080",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/DOTE3080.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "DOTE4110",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/DOTE4110.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "DOTE4020",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/DOTE4020.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "DOTE4260",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/DOTE4260.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "DOTE4280",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/DOTE4280.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "FINA2310",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/FINA2310.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "FINA2220",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/FINA2220.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "FINA2010",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/FINA2010.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "FINA3010",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/FINA3010.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "FINA3020",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/FINA3020.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "FINA3080",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/FINA3080.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "FINA3070",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/FINA3070.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "FINA3210",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/FINA3210.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "FINA3222",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/FINA3222.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "FINA3240",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/FINA3240.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "FINA3290",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/FINA3290.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "FINA4030",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/FINA4030.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "FINA3350",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/FINA3350.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "FINA3399",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/FINA3399.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "FINA3370",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/FINA3370.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "FINA3360",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/FINA3360.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "FINA4110",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/FINA4110.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "FINA4150",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/FINA4150.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "FINA4320",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/FINA4320.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "FINA4215",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/FINA4215.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "FINA4050",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/FINA4050.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "FINA4340",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/FINA4340.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "FINA4420",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/FINA4420.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "FINA4370",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/FINA4370.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "FINA4430",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/FINA4430.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "FTEC4002",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/FTEC4002.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "FTEC3002",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/FTEC3002.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "FTEC4998",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/FTEC4998.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "FTEC4003",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/FTEC4003.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "HTMG1091",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/HTMG1091.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "HTMG1010",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/HTMG1010.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "HTMG1092",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/HTMG1092.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "HTMG2000",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/HTMG2000.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "HTMG2091",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/HTMG2091.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "HTMG2070",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/HTMG2070.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "HTMG3010",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/HTMG3010.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "HTMG2900",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/HTMG2900.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "HTMG2092",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/HTMG2092.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "HTMG3041",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/HTMG3041.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "HTMG3030",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/HTMG3030.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "HTMG3060",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/HTMG3060.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "HTMG3092",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/HTMG3092.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "HTMG3091",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/HTMG3091.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "HTMG3520",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/HTMG3520.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "HTMG3521",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/HTMG3521.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "HTMG3900",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/HTMG3900.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "HTMG4091",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/HTMG4091.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "HTMG4092",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/HTMG4092.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "HTMG4100",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/HTMG4100.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "HTMG4270",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/HTMG4270.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "HTMG4529",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/HTMG4529.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "HTMG4600",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/HTMG4600.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "HTMG4538",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/HTMG4538.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "HTMG4900",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/HTMG4900.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "HTMG4537",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/HTMG4537.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "MGNT1010",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/MGNT1010.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "MGNT1070",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/MGNT1070.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "MGNT1020",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/MGNT1020.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "MGNT2040",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/MGNT2040.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "MGNT2512",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/MGNT2512.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "MGNT2511",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/MGNT2511.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "MGNT3060",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/MGNT3060.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "MGNT3010",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/MGNT3010.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "MGNT2611",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/MGNT2611.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "MGNT3580",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/MGNT3580.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "MGNT3090",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/MGNT3090.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "MGNT4010",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/MGNT4010.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "MGNT4070",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/MGNT4070.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "MGNT4080",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/MGNT4080.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "MGNT4170",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/MGNT4170.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "MGNT4090",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/MGNT4090.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "MGNT4150",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/MGNT4150.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "MGNT4510",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/MGNT4510.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "MGNT4570",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/MGNT4570.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "MGNT4540",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/MGNT4540.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "MKTG2010",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/MKTG2010.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "MKTG3010",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/MKTG3010.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "MKTG3020",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/MKTG3020.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "MKTG3030",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/MKTG3030.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "MKTG3060",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/MKTG3060.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "MKTG4040",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/MKTG4040.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "MKTG4070",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/MKTG4070.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "MKTG4080",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/MKTG4080.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "MKTG4110",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/MKTG4110.pdf"
+    },
+    {
+      "term": "2026-27-term-1",
+      "sourceTerm": "2026T1",
+      "code": "MKTG4150",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T1/MKTG4150.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "ACCT2111",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/ACCT2111.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "ACCT2121",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/ACCT2121.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "ACCT1111",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/ACCT1111.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "ACCT2151",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/ACCT2151.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "ACCT3003",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/ACCT3003.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "ACCT3111",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/ACCT3111.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "ACCT3142",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/ACCT3142.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "ACCT3121",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/ACCT3121.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "ACCT3112",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/ACCT3112.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "ACCT3151",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/ACCT3151.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "ACCT3161",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/ACCT3161.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "ACCT4001",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/ACCT4001.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "ACCT3152",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/ACCT3152.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "ACCT4131",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/ACCT4131.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "ACCT4111",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/ACCT4111.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "ACCT4253",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/ACCT4253.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "ACCT4213",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/ACCT4213.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "ACCT4242",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/ACCT4242.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "ACCT4261",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/ACCT4261.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "ACCT4281",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/ACCT4281.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "ACCT4263",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/ACCT4263.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "DOTE1021",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/DOTE1021.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "ACCT4282",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/ACCT4282.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "ACCT4290",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/ACCT4290.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "DOTE1040",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/DOTE1040.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "DOTE2021",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/DOTE2021.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "DOTE2040",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/DOTE2040.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "DOTE2030",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/DOTE2030.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "DOTE3010",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/DOTE3010.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "DOTE2051",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/DOTE2051.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "DOTE4070",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/DOTE4070.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "DOTE4020",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/DOTE4020.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "DOTE3030",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/DOTE3030.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "DOTE4110",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/DOTE4110.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "DOTE3050",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/DOTE3050.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "DOTE4220",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/DOTE4220.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "FINA2200",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/FINA2200.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "FINA3010",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/FINA3010.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "FINA2230",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/FINA2230.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "FINA2010",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/FINA2010.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "DOTE4240",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/DOTE4240.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "FINA3020",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/FINA3020.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "FINA3030",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/FINA3030.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "FINA3070",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/FINA3070.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "FINA3080",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/FINA3080.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "FINA3221",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/FINA3221.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "FINA3210",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/FINA3210.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "FINA3230",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/FINA3230.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "FINA3295",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/FINA3295.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "FINA3330",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/FINA3330.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "FINA3310",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/FINA3310.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "FINA3370",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/FINA3370.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "FINA4120",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/FINA4120.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "FINA3399",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/FINA3399.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "FINA4110",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/FINA4110.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "FINA4400",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/FINA4400.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "FINA4221",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/FINA4221.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "FINA4380",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/FINA4380.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "FINA4410",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/FINA4410.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "FTEC2001",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/FTEC2001.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "FTEC2101",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/FTEC2101.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "FTEC4008",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/FTEC4008.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "FTEC2602",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/FTEC2602.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "FTEC3001",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/FTEC3001.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "FTEC4007",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/FTEC4007.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "FTEC4998",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/FTEC4998.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "HTMG1092",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/HTMG1092.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "FTEC4999",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/FTEC4999.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "HTMG2000",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/HTMG2000.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "HTMG2070",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/HTMG2070.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "HTMG2091",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/HTMG2091.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "HTMG2092",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/HTMG2092.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "HTMG2900",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/HTMG2900.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "HTMG3041",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/HTMG3041.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "HTMG3020",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/HTMG3020.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "HTMG3010",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/HTMG3010.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "HTMG3050",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/HTMG3050.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "HTMG3092",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/HTMG3092.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "HTMG3091",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/HTMG3091.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "HTMG3502",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/HTMG3502.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "HTMG3522",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/HTMG3522.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "HTMG3518",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/HTMG3518.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "HTMG3900",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/HTMG3900.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "HTMG3527",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/HTMG3527.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "HTMG3523",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/HTMG3523.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "HTMG4190",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/HTMG4190.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "HTMG4091",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/HTMG4091.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "HTMG4092",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/HTMG4092.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "HTMG4502",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/HTMG4502.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "HTMG4800",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/HTMG4800.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "HTMG4505",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/HTMG4505.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "HTMG4900",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/HTMG4900.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "HTMG4600",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/HTMG4600.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "MGNT1020",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/MGNT1020.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "IBBA3040",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/IBBA3040.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "MGNT2040",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/MGNT2040.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "MGNT2611",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/MGNT2611.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "MGNT2511",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/MGNT2511.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "MGNT2512",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/MGNT2512.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "MGNT2070",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/MGNT2070.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "MGNT3010",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/MGNT3010.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "MGNT3040",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/MGNT3040.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "MGNT3580",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/MGNT3580.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "MGNT3080",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/MGNT3080.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "MGNT3070",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/MGNT3070.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "MGNT4010",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/MGNT4010.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "MGNT3100",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/MGNT3100.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "MGNT4050",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/MGNT4050.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "MGNT4130",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/MGNT4130.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "MGNT4270",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/MGNT4270.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "MGNT4090",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/MGNT4090.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "MGNT4150",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/MGNT4150.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "MGNT4110",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/MGNT4110.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "MGNT4510",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/MGNT4510.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "MKTG2010",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/MKTG2010.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "MKTG3010",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/MKTG3010.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "MKTG3020",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/MKTG3020.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "MKTG3050",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/MKTG3050.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "MKTG3030",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/MKTG3030.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "MKTG4040",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/MKTG4040.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "MKTG4030",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/MKTG4030.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "MKTG4070",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/MKTG4070.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "MKTG4050",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/MKTG4050.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "MKTG4090",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/MKTG4090.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "MKTG4080",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/MKTG4080.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "MKTG4160",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/MKTG4160.pdf"
+    },
+    {
+      "term": "2026-27-term-2",
+      "sourceTerm": "2026T2",
+      "code": "MKTG4190",
+      "curlExit": 0,
+      "status": 404,
+      "contentType": "text/html",
+      "sizeDownload": 0,
+      "url": "https://www.cuhk.edu.hk/crs/download/CourseOutline/2026T2/MKTG4190.pdf"
+    }
+  ]
+}

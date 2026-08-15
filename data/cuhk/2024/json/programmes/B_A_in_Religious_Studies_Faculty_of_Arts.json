@@ -1,0 +1,2168 @@
+{
+  "programme_id": "B_A_in_Religious_Studies__Faculty_of_Arts",
+  "academic_program": "B.A. in Religious Studies",
+  "faculty": "Faculty of Arts",
+  "academic_year": 2024,
+  "admission_cohort": "2024-25",
+  "requirement_summary": {
+    "minimum_units_as_printed": "a minimum of 69 units",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Faculty Package",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "CURE1110",
+            "prefix_inferred": false,
+            "evidence": "CURE1110 and any two courses from:"
+          },
+          {
+            "course_code": "ANTH1020",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "ARTS1005",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "ARTS1009",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "ARTS1010",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "BMBL1001",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CHES1101",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CHES1102",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CHLL1900",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CHLL1902",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CHLL1903",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CURE1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CURE1400",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "ENGE1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "FAAS1900",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "HIST1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "HIST1700",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "HIST1701",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "JASP1090",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "LING1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "MUSC1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "PHIL1110",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "THEO1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "TRAN1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          }
+        ],
+        "raw_text": "9\nCURE1110 and any two courses from:\nANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+      },
+      {
+        "number": 2,
+        "title": "Required Courses",
+        "units_as_printed": "27",
+        "course_mentions": [
+          {
+            "course_code": "CURE1111",
+            "prefix_inferred": false,
+            "evidence": "CURE1111, 1122, 1123, 2157, 2170"
+          },
+          {
+            "course_code": "CURE1122",
+            "prefix_inferred": true,
+            "evidence": "CURE1111, 1122, 1123, 2157, 2170"
+          },
+          {
+            "course_code": "CURE1123",
+            "prefix_inferred": true,
+            "evidence": "CURE1111, 1122, 1123, 2157, 2170"
+          },
+          {
+            "course_code": "CURE2157",
+            "prefix_inferred": true,
+            "evidence": "CURE1111, 1122, 1123, 2157, 2170"
+          },
+          {
+            "course_code": "CURE2170",
+            "prefix_inferred": true,
+            "evidence": "CURE1111, 1122, 1123, 2157, 2170"
+          },
+          {
+            "course_code": "CURE2113",
+            "prefix_inferred": false,
+            "evidence": "One course from the following selected courses from Area 1: CURE2113, 2114, 2115, 3375"
+          },
+          {
+            "course_code": "CURE2114",
+            "prefix_inferred": true,
+            "evidence": "One course from the following selected courses from Area 1: CURE2113, 2114, 2115, 3375"
+          },
+          {
+            "course_code": "CURE2115",
+            "prefix_inferred": true,
+            "evidence": "One course from the following selected courses from Area 1: CURE2113, 2114, 2115, 3375"
+          },
+          {
+            "course_code": "CURE3375",
+            "prefix_inferred": true,
+            "evidence": "One course from the following selected courses from Area 1: CURE2113, 2114, 2115, 3375"
+          },
+          {
+            "course_code": "CURE1124",
+            "prefix_inferred": false,
+            "evidence": "One course from the following selected courses from Area 2: CURE1124, 2161, 2225, 2226, 2227"
+          },
+          {
+            "course_code": "CURE2161",
+            "prefix_inferred": true,
+            "evidence": "One course from the following selected courses from Area 2: CURE1124, 2161, 2225, 2226, 2227"
+          },
+          {
+            "course_code": "CURE2225",
+            "prefix_inferred": true,
+            "evidence": "One course from the following selected courses from Area 2: CURE1124, 2161, 2225, 2226, 2227"
+          },
+          {
+            "course_code": "CURE2226",
+            "prefix_inferred": true,
+            "evidence": "One course from the following selected courses from Area 2: CURE1124, 2161, 2225, 2226, 2227"
+          },
+          {
+            "course_code": "CURE2227",
+            "prefix_inferred": true,
+            "evidence": "One course from the following selected courses from Area 2: CURE1124, 2161, 2225, 2226, 2227"
+          },
+          {
+            "course_code": "CURE2154",
+            "prefix_inferred": false,
+            "evidence": "One course from the following selected courses from Area 4: CURE2154, 2155, 2180, THEO3215, 3217"
+          },
+          {
+            "course_code": "CURE2155",
+            "prefix_inferred": true,
+            "evidence": "One course from the following selected courses from Area 4: CURE2154, 2155, 2180, THEO3215, 3217"
+          },
+          {
+            "course_code": "CURE2180",
+            "prefix_inferred": true,
+            "evidence": "One course from the following selected courses from Area 4: CURE2154, 2155, 2180, THEO3215, 3217"
+          },
+          {
+            "course_code": "THEO3215",
+            "prefix_inferred": false,
+            "evidence": "One course from the following selected courses from Area 4: CURE2154, 2155, 2180, THEO3215, 3217"
+          },
+          {
+            "course_code": "THEO3217",
+            "prefix_inferred": true,
+            "evidence": "One course from the following selected courses from Area 4: CURE2154, 2155, 2180, THEO3215, 3217"
+          },
+          {
+            "course_code": "CURE4153",
+            "prefix_inferred": false,
+            "evidence": "One Capstone course from the following selected courses from Area 5: CURE4153, 4159"
+          },
+          {
+            "course_code": "CURE4159",
+            "prefix_inferred": true,
+            "evidence": "One Capstone course from the following selected courses from Area 5: CURE4153, 4159"
+          }
+        ],
+        "raw_text": "27\n(a)\nCURE1111, 1122, 1123, 2157, 2170\n(b)\nOne course from the following selected courses from Area 1: CURE2113, 2114, 2115, 3375\n(c)\nOne course from the following selected courses from Area 2: CURE1124, 2161, 2225, 2226, 2227\n(d)\nOne course from the following selected courses from Area 4: CURE2154, 2155, 2180, THEO3215, 3217\n(e)\nOne Capstone course from the following selected courses from Area 5: CURE4153, 4159"
+      },
+      {
+        "number": 3,
+        "title": "Elective Courses",
+        "units_as_printed": "33",
+        "course_mentions": [
+          {
+            "course_code": "CURE1009",
+            "prefix_inferred": false,
+            "evidence": "Two courses from CURE1009, 1010, 2001*[1001], 2006*[1006]"
+          },
+          {
+            "course_code": "CURE1010",
+            "prefix_inferred": true,
+            "evidence": "Two courses from CURE1009, 1010, 2001*[1001], 2006*[1006]"
+          },
+          {
+            "course_code": "CURE2001",
+            "prefix_inferred": true,
+            "evidence": "Two courses from CURE1009, 1010, 2001*[1001], 2006*[1006]"
+          },
+          {
+            "course_code": "CURE2006",
+            "prefix_inferred": true,
+            "evidence": "Two courses from CURE1009, 1010, 2001*[1001], 2006*[1006]"
+          },
+          {
+            "course_code": "CURE2142",
+            "prefix_inferred": false,
+            "evidence": "CURE2142, 2144, 3144"
+          },
+          {
+            "course_code": "CURE2144",
+            "prefix_inferred": true,
+            "evidence": "CURE2142, 2144, 3144"
+          },
+          {
+            "course_code": "CURE3144",
+            "prefix_inferred": true,
+            "evidence": "CURE2142, 2144, 3144"
+          },
+          {
+            "course_code": "CURE2131",
+            "prefix_inferred": false,
+            "evidence": "Two courses from CURE2131, 3134, THEO1211, 1212"
+          },
+          {
+            "course_code": "CURE3134",
+            "prefix_inferred": true,
+            "evidence": "Two courses from CURE2131, 3134, THEO1211, 1212"
+          },
+          {
+            "course_code": "THEO1211",
+            "prefix_inferred": false,
+            "evidence": "Two courses from CURE2131, 3134, THEO1211, 1212"
+          },
+          {
+            "course_code": "THEO1212",
+            "prefix_inferred": true,
+            "evidence": "Two courses from CURE2131, 3134, THEO1211, 1212"
+          },
+          {
+            "course_code": "CURE2226",
+            "prefix_inferred": false,
+            "evidence": "CURE2226, 2228"
+          },
+          {
+            "course_code": "CURE2228",
+            "prefix_inferred": true,
+            "evidence": "CURE2226, 2228"
+          },
+          {
+            "course_code": "CURE2180",
+            "prefix_inferred": false,
+            "evidence": "(i) CURE2180 or ARAB1000, and CURE2181; OR"
+          },
+          {
+            "course_code": "ARAB1000",
+            "prefix_inferred": false,
+            "evidence": "(i) CURE2180 or ARAB1000, and CURE2181; OR"
+          },
+          {
+            "course_code": "CURE2181",
+            "prefix_inferred": false,
+            "evidence": "(i) CURE2180 or ARAB1000, and CURE2181; OR"
+          },
+          {
+            "course_code": "ARAB2050",
+            "prefix_inferred": false,
+            "evidence": "(ii) ARAB2050"
+          },
+          {
+            "course_code": "CURE3114",
+            "prefix_inferred": false,
+            "evidence": "Four courses from CURE3114, 3129, 3376, 3378, 4157, 4158"
+          },
+          {
+            "course_code": "CURE3129",
+            "prefix_inferred": true,
+            "evidence": "Four courses from CURE3114, 3129, 3376, 3378, 4157, 4158"
+          },
+          {
+            "course_code": "CURE3376",
+            "prefix_inferred": true,
+            "evidence": "Four courses from CURE3114, 3129, 3376, 3378, 4157, 4158"
+          },
+          {
+            "course_code": "CURE3378",
+            "prefix_inferred": true,
+            "evidence": "Four courses from CURE3114, 3129, 3376, 3378, 4157, 4158"
+          },
+          {
+            "course_code": "CURE4157",
+            "prefix_inferred": true,
+            "evidence": "Four courses from CURE3114, 3129, 3376, 3378, 4157, 4158"
+          },
+          {
+            "course_code": "CURE4158",
+            "prefix_inferred": true,
+            "evidence": "Four courses from CURE3114, 3129, 3376, 3378, 4157, 4158"
+          },
+          {
+            "course_code": "CURE2180",
+            "prefix_inferred": false,
+            "evidence": "Three CURE courses at 2000 or above level from the Religious Studies Areas (except CURE2180 and 2181)"
+          },
+          {
+            "course_code": "CURE2181",
+            "prefix_inferred": true,
+            "evidence": "Three CURE courses at 2000 or above level from the Religious Studies Areas (except CURE2180 and 2181)"
+          },
+          {
+            "course_code": "CURE3144",
+            "prefix_inferred": false,
+            "evidence": "CURE3144, 3147"
+          },
+          {
+            "course_code": "CURE3147",
+            "prefix_inferred": true,
+            "evidence": "CURE3144, 3147"
+          },
+          {
+            "course_code": "ANTH4330",
+            "prefix_inferred": false,
+            "evidence": "Any five courses from ANTH4330, CURE2019, 2142, 2144, 2156, 2163, 3115, 3375, PSYC3720"
+          },
+          {
+            "course_code": "CURE2019",
+            "prefix_inferred": false,
+            "evidence": "Any five courses from ANTH4330, CURE2019, 2142, 2144, 2156, 2163, 3115, 3375, PSYC3720"
+          },
+          {
+            "course_code": "CURE2142",
+            "prefix_inferred": true,
+            "evidence": "Any five courses from ANTH4330, CURE2019, 2142, 2144, 2156, 2163, 3115, 3375, PSYC3720"
+          },
+          {
+            "course_code": "CURE2144",
+            "prefix_inferred": true,
+            "evidence": "Any five courses from ANTH4330, CURE2019, 2142, 2144, 2156, 2163, 3115, 3375, PSYC3720"
+          },
+          {
+            "course_code": "CURE2156",
+            "prefix_inferred": true,
+            "evidence": "Any five courses from ANTH4330, CURE2019, 2142, 2144, 2156, 2163, 3115, 3375, PSYC3720"
+          },
+          {
+            "course_code": "CURE2163",
+            "prefix_inferred": true,
+            "evidence": "Any five courses from ANTH4330, CURE2019, 2142, 2144, 2156, 2163, 3115, 3375, PSYC3720"
+          },
+          {
+            "course_code": "CURE3115",
+            "prefix_inferred": true,
+            "evidence": "Any five courses from ANTH4330, CURE2019, 2142, 2144, 2156, 2163, 3115, 3375, PSYC3720"
+          },
+          {
+            "course_code": "CURE3375",
+            "prefix_inferred": true,
+            "evidence": "Any five courses from ANTH4330, CURE2019, 2142, 2144, 2156, 2163, 3115, 3375, PSYC3720"
+          },
+          {
+            "course_code": "PSYC3720",
+            "prefix_inferred": false,
+            "evidence": "Any five courses from ANTH4330, CURE2019, 2142, 2144, 2156, 2163, 3115, 3375, PSYC3720"
+          }
+        ],
+        "raw_text": "33\n(a)\nNine courses at 2000 or above level from the Religious Studies Areas[a][b]\n(b)\nTwo courses from the Cultural Studies Areas[a][c]\nConcentrations\nStudents may choose to declare a concentration by taking the following elective courses [a] in place of 3 “Elective Courses” above:\nReligion and Culture\n(a)\nTwo courses from CURE1009, 1010, 2001*[1001], 2006*[1006]\n(b)\nNine CURE courses at 2000 or above level, of which at least two courses are from the Cultural Studies Areas[c] and at least seven courses are from the Religious Studies Areas\nReligious Education\n(a)\n6 units of EDUC courses at 2000 and above level from Educational Core Component offered by the Faculty of Education\n(b)\nCURE2142, 2144, 3144\n(c)\nTwo courses from CURE2131, 3134, THEO1211, 1212\n(d)\nFour CURE courses at 2000 or above level from the Religious Studies Areas\nArab Studies\n(a)\nCURE2226, 2228\n(b)\n6 units of language courses:\n(i) CURE2180 or ARAB1000, and CURE2181; OR\n(ii) ARAB2050\n(c)\nFour courses from CURE3114, 3129, 3376, 3378, 4157, 4158\n(d)\nThree CURE courses at 2000 or above level from the Religious Studies Areas (except CURE2180 and 2181)\nReligion and Health\n(a)\nCURE3144, 3147\n(b)\nAny five courses from ANTH4330, CURE2019, 2142, 2144, 2156, 2163, 3115, 3375, PSYC3720\n(c)\nFour CURE courses at 2000 or above level from the Religious Studies Areas\nTotal:\n69\nExplanatory Notes:"
+      },
+      {
+        "number": 1,
+        "title": "Required Courses",
+        "units_as_printed": "6",
+        "course_mentions": [
+          {
+            "course_code": "CURE1111",
+            "prefix_inferred": false,
+            "evidence": "CURE1111, 2170"
+          },
+          {
+            "course_code": "CURE2170",
+            "prefix_inferred": true,
+            "evidence": "CURE1111, 2170"
+          },
+          {
+            "course_code": "CURE1124",
+            "prefix_inferred": false,
+            "evidence": "Three courses from CURE1124, 2161, 2225, 2226, 2227"
+          },
+          {
+            "course_code": "CURE2161",
+            "prefix_inferred": true,
+            "evidence": "Three courses from CURE1124, 2161, 2225, 2226, 2227"
+          },
+          {
+            "course_code": "CURE2225",
+            "prefix_inferred": true,
+            "evidence": "Three courses from CURE1124, 2161, 2225, 2226, 2227"
+          },
+          {
+            "course_code": "CURE2226",
+            "prefix_inferred": true,
+            "evidence": "Three courses from CURE1124, 2161, 2225, 2226, 2227"
+          },
+          {
+            "course_code": "CURE2227",
+            "prefix_inferred": true,
+            "evidence": "Three courses from CURE1124, 2161, 2225, 2226, 2227"
+          },
+          {
+            "course_code": "CURE2113",
+            "prefix_inferred": false,
+            "evidence": "One course from CURE2113, 2114, 2115, 3375"
+          },
+          {
+            "course_code": "CURE2114",
+            "prefix_inferred": true,
+            "evidence": "One course from CURE2113, 2114, 2115, 3375"
+          },
+          {
+            "course_code": "CURE2115",
+            "prefix_inferred": true,
+            "evidence": "One course from CURE2113, 2114, 2115, 3375"
+          },
+          {
+            "course_code": "CURE3375",
+            "prefix_inferred": true,
+            "evidence": "One course from CURE2113, 2114, 2115, 3375"
+          },
+          {
+            "course_code": "CURE4153",
+            "prefix_inferred": false,
+            "evidence": "One Capstone course from: CURE4153, 4159"
+          },
+          {
+            "course_code": "CURE4159",
+            "prefix_inferred": true,
+            "evidence": "One Capstone course from: CURE4153, 4159"
+          }
+        ],
+        "raw_text": "(a)\nCURE1111, 2170\n6\n(b)\nThree courses from CURE1124, 2161, 2225, 2226, 2227\n9\n(c)\nOne course from CURE2113, 2114, 2115, 3375\n3\n(d)\nOne Capstone course from: CURE4153, 4159\n3"
+      },
+      {
+        "number": 2,
+        "title": "Elective Courses",
+        "units_as_printed": "30",
+        "course_mentions": [],
+        "raw_text": "30\nTen CURE courses at 2000 or above level from the Religious Studies Areas\nTotal:\n51\nExplanatory Note:"
+      },
+      {
+        "number": 1,
+        "title": "Required Courses",
+        "units_as_printed": "6",
+        "course_mentions": [
+          {
+            "course_code": "CURE2226",
+            "prefix_inferred": false,
+            "evidence": "CURE2226, 2228"
+          },
+          {
+            "course_code": "CURE2228",
+            "prefix_inferred": true,
+            "evidence": "CURE2226, 2228"
+          },
+          {
+            "course_code": "CURE2180",
+            "prefix_inferred": false,
+            "evidence": "CURE2180 or ARAB1000, and CURE2181; OR"
+          },
+          {
+            "course_code": "ARAB1000",
+            "prefix_inferred": false,
+            "evidence": "CURE2180 or ARAB1000, and CURE2181; OR"
+          },
+          {
+            "course_code": "CURE2181",
+            "prefix_inferred": false,
+            "evidence": "CURE2180 or ARAB1000, and CURE2181; OR"
+          },
+          {
+            "course_code": "ARAB2050",
+            "prefix_inferred": false,
+            "evidence": "ARAB2050"
+          }
+        ],
+        "raw_text": "(a)\nCURE2226, 2228\n6\n(b)\nLanguage Requirement:\n6\n(i)\nCURE2180 or ARAB1000, and CURE2181; OR\n(ii)\nARAB2050"
+      },
+      {
+        "number": 2,
+        "title": "Elective Courses",
+        "units_as_printed": "6",
+        "course_mentions": [
+          {
+            "course_code": "CURE3114",
+            "prefix_inferred": false,
+            "evidence": "CURE3114, 3129, 3376, 3378, 4157, 4158"
+          },
+          {
+            "course_code": "CURE3129",
+            "prefix_inferred": true,
+            "evidence": "CURE3114, 3129, 3376, 3378, 4157, 4158"
+          },
+          {
+            "course_code": "CURE3376",
+            "prefix_inferred": true,
+            "evidence": "CURE3114, 3129, 3376, 3378, 4157, 4158"
+          },
+          {
+            "course_code": "CURE3378",
+            "prefix_inferred": true,
+            "evidence": "CURE3114, 3129, 3376, 3378, 4157, 4158"
+          },
+          {
+            "course_code": "CURE4157",
+            "prefix_inferred": true,
+            "evidence": "CURE3114, 3129, 3376, 3378, 4157, 4158"
+          },
+          {
+            "course_code": "CURE4158",
+            "prefix_inferred": true,
+            "evidence": "CURE3114, 3129, 3376, 3378, 4157, 4158"
+          }
+        ],
+        "raw_text": "Two courses from the following:\n6\nCURE3114, 3129, 3376, 3378, 4157, 4158\nTotal:\n18\nExplanatory Note:"
+      },
+      {
+        "number": 1,
+        "title": "Required Courses",
+        "units_as_printed": "6",
+        "course_mentions": [
+          {
+            "course_code": "CURE1111",
+            "prefix_inferred": false,
+            "evidence": "CURE1111, 1123"
+          },
+          {
+            "course_code": "CURE1123",
+            "prefix_inferred": true,
+            "evidence": "CURE1111, 1123"
+          }
+        ],
+        "raw_text": "6\nCURE1111, 1123"
+      },
+      {
+        "number": 2,
+        "title": "Elective Courses",
+        "units_as_printed": "12",
+        "course_mentions": [],
+        "raw_text": "12\nFour CURE courses at 2000 or above level from the Religious Studies Areas, of which at least two courses are at 3000 or above level\nTotal:\n18\nMinor Programme Title\nReligion and Health\nMinor Programme Requirement\nStudents are required to complete a minimum of 18 units of courses, with at least 6 units at 3000 or above level as follows:\nUnits"
+      },
+      {
+        "number": 1,
+        "title": "Required Courses",
+        "units_as_printed": "3",
+        "course_mentions": [
+          {
+            "course_code": "CURE1110",
+            "prefix_inferred": false,
+            "evidence": "One course from CURE1110, 1123"
+          },
+          {
+            "course_code": "CURE1123",
+            "prefix_inferred": true,
+            "evidence": "One course from CURE1110, 1123"
+          }
+        ],
+        "raw_text": "One course from CURE1110, 1123\n3"
+      },
+      {
+        "number": 2,
+        "title": "Elective Courses",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "CURE2144",
+            "prefix_inferred": false,
+            "evidence": "Three courses from CURE2144, 2156, 2163, 3115, 3144, 3147, PSYC3720"
+          },
+          {
+            "course_code": "CURE2156",
+            "prefix_inferred": true,
+            "evidence": "Three courses from CURE2144, 2156, 2163, 3115, 3144, 3147, PSYC3720"
+          },
+          {
+            "course_code": "CURE2163",
+            "prefix_inferred": true,
+            "evidence": "Three courses from CURE2144, 2156, 2163, 3115, 3144, 3147, PSYC3720"
+          },
+          {
+            "course_code": "CURE3115",
+            "prefix_inferred": true,
+            "evidence": "Three courses from CURE2144, 2156, 2163, 3115, 3144, 3147, PSYC3720"
+          },
+          {
+            "course_code": "CURE3144",
+            "prefix_inferred": true,
+            "evidence": "Three courses from CURE2144, 2156, 2163, 3115, 3144, 3147, PSYC3720"
+          },
+          {
+            "course_code": "CURE3147",
+            "prefix_inferred": true,
+            "evidence": "Three courses from CURE2144, 2156, 2163, 3115, 3144, 3147, PSYC3720"
+          },
+          {
+            "course_code": "PSYC3720",
+            "prefix_inferred": false,
+            "evidence": "Three courses from CURE2144, 2156, 2163, 3115, 3144, 3147, PSYC3720"
+          },
+          {
+            "course_code": "ANTH4330",
+            "prefix_inferred": false,
+            "evidence": "Two courses from ANTH4330, CURE2019, 2142, 3375"
+          },
+          {
+            "course_code": "CURE2019",
+            "prefix_inferred": false,
+            "evidence": "Two courses from ANTH4330, CURE2019, 2142, 3375"
+          },
+          {
+            "course_code": "CURE2142",
+            "prefix_inferred": true,
+            "evidence": "Two courses from ANTH4330, CURE2019, 2142, 3375"
+          },
+          {
+            "course_code": "CURE3375",
+            "prefix_inferred": true,
+            "evidence": "Two courses from ANTH4330, CURE2019, 2142, 3375"
+          },
+          {
+            "course_code": "CURE1111",
+            "prefix_inferred": false,
+            "evidence": "CURE1111"
+          },
+          {
+            "course_code": "CURE2112",
+            "prefix_inferred": false,
+            "evidence": "CURE2112"
+          },
+          {
+            "course_code": "CURE2113",
+            "prefix_inferred": false,
+            "evidence": "CURE2113"
+          },
+          {
+            "course_code": "CURE2114",
+            "prefix_inferred": false,
+            "evidence": "CURE2114"
+          },
+          {
+            "course_code": "CURE2115",
+            "prefix_inferred": false,
+            "evidence": "CURE2115"
+          },
+          {
+            "course_code": "CURE2170",
+            "prefix_inferred": false,
+            "evidence": "CURE2170"
+          },
+          {
+            "course_code": "CURE3375",
+            "prefix_inferred": false,
+            "evidence": "CURE3375"
+          },
+          {
+            "course_code": "CURE1123",
+            "prefix_inferred": false,
+            "evidence": "CURE1123"
+          },
+          {
+            "course_code": "CURE3132",
+            "prefix_inferred": false,
+            "evidence": "CURE3132"
+          },
+          {
+            "course_code": "CURE4157",
+            "prefix_inferred": false,
+            "evidence": "CURE4157"
+          },
+          {
+            "course_code": "CURE2130",
+            "prefix_inferred": false,
+            "evidence": "CURE2130"
+          },
+          {
+            "course_code": "CURE2161",
+            "prefix_inferred": false,
+            "evidence": "CURE2161"
+          },
+          {
+            "course_code": "CURE3122",
+            "prefix_inferred": false,
+            "evidence": "CURE3122"
+          },
+          {
+            "course_code": "CURE4121",
+            "prefix_inferred": false,
+            "evidence": "CURE4121"
+          },
+          {
+            "course_code": "CURE1122",
+            "prefix_inferred": false,
+            "evidence": "CURE1122"
+          },
+          {
+            "course_code": "CURE2375",
+            "prefix_inferred": false,
+            "evidence": "CURE2375"
+          },
+          {
+            "course_code": "CURE3126",
+            "prefix_inferred": false,
+            "evidence": "CURE3126"
+          },
+          {
+            "course_code": "CURE3136",
+            "prefix_inferred": false,
+            "evidence": "CURE3136"
+          },
+          {
+            "course_code": "CURE1124",
+            "prefix_inferred": false,
+            "evidence": "CURE1124"
+          },
+          {
+            "course_code": "CURE2131",
+            "prefix_inferred": false,
+            "evidence": "CURE2131"
+          },
+          {
+            "course_code": "CURE3134",
+            "prefix_inferred": false,
+            "evidence": "CURE3134"
+          },
+          {
+            "course_code": "THEO1211",
+            "prefix_inferred": false,
+            "evidence": "THEO1211"
+          },
+          {
+            "course_code": "THEO1212",
+            "prefix_inferred": false,
+            "evidence": "THEO1212"
+          },
+          {
+            "course_code": "CURE2225",
+            "prefix_inferred": false,
+            "evidence": "CURE2225"
+          },
+          {
+            "course_code": "CURE3377",
+            "prefix_inferred": false,
+            "evidence": "CURE3377"
+          },
+          {
+            "course_code": "CURE2226",
+            "prefix_inferred": false,
+            "evidence": "CURE2226"
+          },
+          {
+            "course_code": "CURE3114",
+            "prefix_inferred": false,
+            "evidence": "CURE3114"
+          },
+          {
+            "course_code": "CURE3378",
+            "prefix_inferred": false,
+            "evidence": "CURE3378"
+          },
+          {
+            "course_code": "CURE2139",
+            "prefix_inferred": false,
+            "evidence": "CURE2139"
+          },
+          {
+            "course_code": "CURE2125",
+            "prefix_inferred": false,
+            "evidence": "CURE2125"
+          },
+          {
+            "course_code": "CURE2227",
+            "prefix_inferred": false,
+            "evidence": "CURE2227"
+          },
+          {
+            "course_code": "CURE4134",
+            "prefix_inferred": false,
+            "evidence": "CURE4134"
+          },
+          {
+            "course_code": "CURE4158",
+            "prefix_inferred": false,
+            "evidence": "CURE4158"
+          },
+          {
+            "course_code": "CURE1110",
+            "prefix_inferred": false,
+            "evidence": "CURE1110"
+          },
+          {
+            "course_code": "CURE2145",
+            "prefix_inferred": false,
+            "evidence": "CURE2145"
+          },
+          {
+            "course_code": "CURE2160",
+            "prefix_inferred": false,
+            "evidence": "CURE2160"
+          },
+          {
+            "course_code": "CURE2163",
+            "prefix_inferred": false,
+            "evidence": "CURE2163"
+          },
+          {
+            "course_code": "CURE2164",
+            "prefix_inferred": false,
+            "evidence": "CURE2164"
+          },
+          {
+            "course_code": "CURE2228",
+            "prefix_inferred": false,
+            "evidence": "CURE2228"
+          },
+          {
+            "course_code": "CURE2377",
+            "prefix_inferred": false,
+            "evidence": "CURE2377"
+          },
+          {
+            "course_code": "CURE3116",
+            "prefix_inferred": false,
+            "evidence": "CURE3116"
+          },
+          {
+            "course_code": "CURE3129",
+            "prefix_inferred": false,
+            "evidence": "CURE3129"
+          },
+          {
+            "course_code": "CURE3130",
+            "prefix_inferred": false,
+            "evidence": "CURE3130"
+          },
+          {
+            "course_code": "CURE3142",
+            "prefix_inferred": false,
+            "evidence": "CURE3142"
+          },
+          {
+            "course_code": "CURE3145",
+            "prefix_inferred": false,
+            "evidence": "CURE3145"
+          },
+          {
+            "course_code": "CURE3376",
+            "prefix_inferred": false,
+            "evidence": "CURE3376"
+          },
+          {
+            "course_code": "CURE2142",
+            "prefix_inferred": false,
+            "evidence": "CURE2142"
+          },
+          {
+            "course_code": "CURE2144",
+            "prefix_inferred": false,
+            "evidence": "CURE2144"
+          },
+          {
+            "course_code": "CURE2156",
+            "prefix_inferred": false,
+            "evidence": "CURE2156"
+          },
+          {
+            "course_code": "CURE3115",
+            "prefix_inferred": false,
+            "evidence": "CURE3115"
+          },
+          {
+            "course_code": "CURE3144",
+            "prefix_inferred": false,
+            "evidence": "CURE3144"
+          },
+          {
+            "course_code": "CURE3147",
+            "prefix_inferred": false,
+            "evidence": "CURE3147"
+          },
+          {
+            "course_code": "CURE2154",
+            "prefix_inferred": false,
+            "evidence": "CURE2154"
+          },
+          {
+            "course_code": "CURE2155",
+            "prefix_inferred": false,
+            "evidence": "CURE2155"
+          },
+          {
+            "course_code": "CURE2165",
+            "prefix_inferred": false,
+            "evidence": "CURE2165"
+          },
+          {
+            "course_code": "CURE2166",
+            "prefix_inferred": false,
+            "evidence": "CURE2166"
+          },
+          {
+            "course_code": "CURE2167",
+            "prefix_inferred": false,
+            "evidence": "CURE2167"
+          },
+          {
+            "course_code": "CURE2180",
+            "prefix_inferred": false,
+            "evidence": "CURE2180"
+          },
+          {
+            "course_code": "CURE2181",
+            "prefix_inferred": false,
+            "evidence": "CURE2181"
+          },
+          {
+            "course_code": "THEO3215",
+            "prefix_inferred": false,
+            "evidence": "THEO3215"
+          },
+          {
+            "course_code": "THEO3216",
+            "prefix_inferred": false,
+            "evidence": "THEO3216"
+          },
+          {
+            "course_code": "THEO3217",
+            "prefix_inferred": false,
+            "evidence": "THEO3217"
+          },
+          {
+            "course_code": "THEO3218",
+            "prefix_inferred": false,
+            "evidence": "THEO3218"
+          },
+          {
+            "course_code": "CURE2157",
+            "prefix_inferred": false,
+            "evidence": "CURE2157"
+          },
+          {
+            "course_code": "CURE4153",
+            "prefix_inferred": false,
+            "evidence": "CURE4153"
+          },
+          {
+            "course_code": "CURE4159",
+            "prefix_inferred": false,
+            "evidence": "CURE4159"
+          }
+        ],
+        "raw_text": "(a)\nThree courses from CURE2144, 2156, 2163, 3115, 3144, 3147, PSYC3720\n9\n(b)\nTwo courses from ANTH4330, CURE2019, 2142, 3375\n6\nTotal:\n18\nExplanatory Note:\n1. This Minor Programme is not applicable to students who major in Religious Studies.\nCourse List\nCourse Code\nCourse Title\nUnit(s)\nReligious Studies Area 1: Approaches to Religious Studies\nCURE1111\nThe Study of Religion\n3\nCURE2112\nMyth, Symbol and Ritual\n3\nCURE2113\nPhilosophy of Religion\n3\nCURE2114\nSociology of Religion\n3\nCURE2115\nPsychology of Religion\n3\nCURE2170\nReading Religious Classics\n3\nCURE3375\nScience and Religion\n3\nReligious Studies Area 2: Religious Traditions and Classics\nCURE1123\nWorld Religions\n3\nCURE3132\nReligious Texts in Translation\n3\nCURE4157\nSpecial Topics in Religion, Culture and Heritage\n3\n- Buddhism\nCURE2130\nChinese Buddhist Classics\n3\nCURE2161\nIntroduction to Buddhism\n3\nCURE3122\nChinese Buddhism\n3\nCURE4121\nChan School of Buddhism\n3\n- Chinese Religions\nCURE1122\nChinese Culture and Its Religion\n3\nCURE2375\nChinese Temples and Festivals\n3\nCURE3126\nPopular Religions in China\n3\nCURE3136\nChinese Novels and Religion\n3\n- Christianity\nCURE1124\nStudy of Christianity\n3\nCURE2131\nChristianity and Western Literature\n3\nCURE3134\nChinese Literature and the Bible\n3\nTHEO1211\nIntroduction to Hebrew Bible\n3\nTHEO1212\nIntroduction to New Testament\n3\n- Indian Religions\nCURE2225\nIntroduction to Indian Religions\n3\nCURE3377\nFieldwork in Indian Religions and Culture\n3\n- Islam\nCURE2226\nIntroduction to Islam\n3\nCURE3114\nIslamic Scriptures: The Qur’an and Traditions of Muhammad\n3\nCURE3378\nFieldwork in Islamic Culture and Religion\n3\n- Taoism\nCURE2139\nIntroduction to Taoist Literature\n3\nCURE2125\nHong Kong Taoism\n3\nCURE2227\nIntroduction to Taoism\n3\nCURE4134\nSelected Taoist Classics\n3\nReligious Studies Area 3: Religion, Culture and Society\nCURE4158\nSpecial Topics in Religion, Society and Contemporary Issues\n3\n- Culture and Society\nCURE1110\nReligion and Contemporary Life\n3\nCURE2145\nNew Religious Movements\n3\nCURE2160\nSpecial Topics in Religion and Culture\n3\nCURE2163\nReligion and Food\n3\nCURE2164\nGender and Sexuality in Religions\n3\nCURE2228\nReligious Traditions and Politics of the Arab World\n3\nCURE2377\nReligions, Violence and Peace\n3\nCURE3116\nReligion and Globalization\n3\nCURE3129\nIslam: Religious Tradition and Modern Politics\n3\nCURE3130\nReligious Imagination and Visual Art\n3\nCURE3142\nThe Religious Policy and Practices in China Today\n3\nCURE3145\nBuddhism and Contemporary Life\n3\nCURE3376\nReligious Fundamentalism and Asian Cultures\n3\n- Education\nCURE2142\nReligion and Ethics\n3\nCURE2144\nLife and Death in Religions\n3\nCURE2156\nReligion, Health and Healing\n3\nCURE3115\nReligious Education and Developmental Psychology\n3\nCURE3144\nSpirituality, Psychology and Well-Being\n3\nCURE3147\nReligion and Mental Health Care\n3\nReligious Studies Area 4: Classical Languages\nCURE2154\nFoundational Medieval Latin\n3\nCURE2155\nBeginning Sanskrit\n3\nCURE2165\nIntermediate Latin\n3\nCURE2166\nLatin for Law, Social Sciences and Humanities\n3\nCURE2167\nLatin for Science and Medicine\n3\nCURE2180\nArabic for Beginners I\n3\nCURE2181\nArabic for Beginners II\n3\nTHEO3215\nNew Testament Greek I\n3\nTHEO3216\nNew Testament Greek II\n3\nTHEO3217\nBiblical Hebrew I\n3\nTHEO3218\nBiblical Hebrew II\n3\nReligious Studies Area 5: Seminars\nCURE2157\nIntermediate Seminar\n3\nCURE4153\nSenior Seminar\n3\nCURE4159\nInternship\n3\nStudy Scheme\nLearning Outcomes"
+      },
+      {
+        "number": 1,
+        "title": "Major programme",
+        "units_as_printed": null,
+        "course_mentions": [],
+        "raw_text": "Knowledge:\nGraduates will have acquired the following:\n(1)\nThe understanding of religion in its historical settings and contemporary contexts of modern living, globally and locally.\n(2)\nThe understanding of religion in its different dimensions.\n(3)\nThe understanding of religion through a crtical analysis.\n(4)\nA basic knowledge of major religious traditions in the world.\nSkills:\nGraduates will have acquired the following:\n(1)\nCommunication and presentational (oral and written) skills.\n(2)\nAnalytical and problem solving skills.\n(3)\nSocial skills and team-work skills.\n(4)\nSkills of critical intelligence and appreciative thinking.\n(5)\nSkills in cross-cultural understanding and intercultural literacy.\n(6)\nResearch skills.\nAttitude:\nGraduates will have acquired the following:\n(1)\nAwareness of the plurality and multi-faceted complexity within religious traditions of the issues of multiple and conflicting interpretations of religious traditions.\n(2)\nSelf-critical awareness of pre-suppositions and recognition.\n(3)\nA critical and yet sympathetic understanding and appreciation of religious traditions especially those to which one does not belong.\n(4)\nSensitivity to the ultimate concern and the religious dimension of human life."
+      },
+      {
+        "number": 2,
+        "title": "Minor programme",
+        "units_as_printed": null,
+        "course_mentions": [],
+        "raw_text": "i.\nArab Studies\nUpon completion of the programme, students will have acquired the following learning outcomes in three aspects:\nI. Knowledge outcomes:\n(1) Understand religions and cultures of the Arab World in their historical settings and contemporary contexts of modern living.\n(2) Recognize central themes and issues in the Arab World, especially with respect to cultural and religious dimensions.\nII. Skills outcomes:\n(1) Basic command of the Arabic language.\n(2) Engage in a critical analysis of issues pertaining to the Arab World by the methods of the humanities and social sciences.\nIII. Attitude outcomes:\n(1) Have awareness of plurality and multi-faceted complexity within Arab cultural, political and religious traditions, and of the issues of multiple and conflicting interpretations of language and symbols, texts and traditions.\n(2) Acknowledge the contested and provisional nature of knowledge and understanding. Show tolerance of diverse positions and have respect for others’ views.\nii.\nReligious Studies\nUpon the completion of the Minor programme, students will have demonstrated basic understanding of fundamental issues related to the subject, acquired knowledge of some aspects of the subject with sufficient exposure and at a suitable level to allow further study in this subject or related subjects or to pursue a related career.\niii. Religion and Health\nUpon completion of this Minor Programme, students will have acquired the ability to:\nI. Knowledge outcomes:\na) gain a comprehensive understanding of the relationship between religion and health, including the impact of religion (e.g. belief/ritual/practice) on physical, mental, and spiritual well-being, within their cultural and historical contexts.\nb) analyze how religion influences health behaviours, healthcare decision-making, and attitudes towards illness and healing.\nc) identify and utilize resources and practices that promote spiritually informed self-care from diverse perspectives.\nII. Skills outcomes:\na) design health programmes that incorporate religious resources, such as texts, rituals, or practices, to enhance the well-being of individuals and communities.\nb) demonstrate proficiency in conducting research and data analysis related to religion and health.\nc) effectively communicate findings to diverse audiences, including healthcare professionals, community stakeholders and policymakers.\nIII. Values and attitude outcomes:\na) foster cultural sensitivity and respect for the clients’ religious beliefs and practices in healthcare settings.\nb) increase awareness of the impact of religious resources on population health in different parts of our global communities.\nc) engage in ongoing education and dialogue to deepen understanding of the intersection between spirituality, healthcare ethics, and diverse religious traditions."
+      }
+    ]
+  },
+  "all_course_mentions": [
+    {
+      "course_code": "CURE1110",
+      "prefix_inferred": false,
+      "evidence": "CURE1110 and any two courses from:"
+    },
+    {
+      "course_code": "ANTH1020",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "ARTS1005",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "ARTS1009",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "ARTS1010",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "BMBL1001",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CHES1101",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CHES1102",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CHLL1900",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CHLL1902",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CHLL1903",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CURE1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CURE1400",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "ENGE1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "FAAS1900",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "HIST1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "HIST1700",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "HIST1701",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "JASP1090",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "LING1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "MUSC1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "PHIL1110",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "THEO1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "TRAN1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CURE1111",
+      "prefix_inferred": false,
+      "evidence": "CURE1111, 1122, 1123, 2157, 2170"
+    },
+    {
+      "course_code": "CURE1122",
+      "prefix_inferred": true,
+      "evidence": "CURE1111, 1122, 1123, 2157, 2170"
+    },
+    {
+      "course_code": "CURE1123",
+      "prefix_inferred": true,
+      "evidence": "CURE1111, 1122, 1123, 2157, 2170"
+    },
+    {
+      "course_code": "CURE2157",
+      "prefix_inferred": true,
+      "evidence": "CURE1111, 1122, 1123, 2157, 2170"
+    },
+    {
+      "course_code": "CURE2170",
+      "prefix_inferred": true,
+      "evidence": "CURE1111, 1122, 1123, 2157, 2170"
+    },
+    {
+      "course_code": "CURE2113",
+      "prefix_inferred": false,
+      "evidence": "One course from the following selected courses from Area 1: CURE2113, 2114, 2115, 3375"
+    },
+    {
+      "course_code": "CURE2114",
+      "prefix_inferred": true,
+      "evidence": "One course from the following selected courses from Area 1: CURE2113, 2114, 2115, 3375"
+    },
+    {
+      "course_code": "CURE2115",
+      "prefix_inferred": true,
+      "evidence": "One course from the following selected courses from Area 1: CURE2113, 2114, 2115, 3375"
+    },
+    {
+      "course_code": "CURE3375",
+      "prefix_inferred": true,
+      "evidence": "One course from the following selected courses from Area 1: CURE2113, 2114, 2115, 3375"
+    },
+    {
+      "course_code": "CURE1124",
+      "prefix_inferred": false,
+      "evidence": "One course from the following selected courses from Area 2: CURE1124, 2161, 2225, 2226, 2227"
+    },
+    {
+      "course_code": "CURE2161",
+      "prefix_inferred": true,
+      "evidence": "One course from the following selected courses from Area 2: CURE1124, 2161, 2225, 2226, 2227"
+    },
+    {
+      "course_code": "CURE2225",
+      "prefix_inferred": true,
+      "evidence": "One course from the following selected courses from Area 2: CURE1124, 2161, 2225, 2226, 2227"
+    },
+    {
+      "course_code": "CURE2226",
+      "prefix_inferred": true,
+      "evidence": "One course from the following selected courses from Area 2: CURE1124, 2161, 2225, 2226, 2227"
+    },
+    {
+      "course_code": "CURE2227",
+      "prefix_inferred": true,
+      "evidence": "One course from the following selected courses from Area 2: CURE1124, 2161, 2225, 2226, 2227"
+    },
+    {
+      "course_code": "CURE2154",
+      "prefix_inferred": false,
+      "evidence": "One course from the following selected courses from Area 4: CURE2154, 2155, 2180, THEO3215, 3217"
+    },
+    {
+      "course_code": "CURE2155",
+      "prefix_inferred": true,
+      "evidence": "One course from the following selected courses from Area 4: CURE2154, 2155, 2180, THEO3215, 3217"
+    },
+    {
+      "course_code": "CURE2180",
+      "prefix_inferred": true,
+      "evidence": "One course from the following selected courses from Area 4: CURE2154, 2155, 2180, THEO3215, 3217"
+    },
+    {
+      "course_code": "THEO3215",
+      "prefix_inferred": false,
+      "evidence": "One course from the following selected courses from Area 4: CURE2154, 2155, 2180, THEO3215, 3217"
+    },
+    {
+      "course_code": "THEO3217",
+      "prefix_inferred": true,
+      "evidence": "One course from the following selected courses from Area 4: CURE2154, 2155, 2180, THEO3215, 3217"
+    },
+    {
+      "course_code": "CURE4153",
+      "prefix_inferred": false,
+      "evidence": "One Capstone course from the following selected courses from Area 5: CURE4153, 4159"
+    },
+    {
+      "course_code": "CURE4159",
+      "prefix_inferred": true,
+      "evidence": "One Capstone course from the following selected courses from Area 5: CURE4153, 4159"
+    },
+    {
+      "course_code": "CURE1009",
+      "prefix_inferred": false,
+      "evidence": "Two courses from CURE1009, 1010, 2001*[1001], 2006*[1006]"
+    },
+    {
+      "course_code": "CURE1010",
+      "prefix_inferred": true,
+      "evidence": "Two courses from CURE1009, 1010, 2001*[1001], 2006*[1006]"
+    },
+    {
+      "course_code": "CURE2001",
+      "prefix_inferred": true,
+      "evidence": "Two courses from CURE1009, 1010, 2001*[1001], 2006*[1006]"
+    },
+    {
+      "course_code": "CURE2006",
+      "prefix_inferred": true,
+      "evidence": "Two courses from CURE1009, 1010, 2001*[1001], 2006*[1006]"
+    },
+    {
+      "course_code": "CURE2142",
+      "prefix_inferred": false,
+      "evidence": "CURE2142, 2144, 3144"
+    },
+    {
+      "course_code": "CURE2144",
+      "prefix_inferred": true,
+      "evidence": "CURE2142, 2144, 3144"
+    },
+    {
+      "course_code": "CURE3144",
+      "prefix_inferred": true,
+      "evidence": "CURE2142, 2144, 3144"
+    },
+    {
+      "course_code": "CURE2131",
+      "prefix_inferred": false,
+      "evidence": "Two courses from CURE2131, 3134, THEO1211, 1212"
+    },
+    {
+      "course_code": "CURE3134",
+      "prefix_inferred": true,
+      "evidence": "Two courses from CURE2131, 3134, THEO1211, 1212"
+    },
+    {
+      "course_code": "THEO1211",
+      "prefix_inferred": false,
+      "evidence": "Two courses from CURE2131, 3134, THEO1211, 1212"
+    },
+    {
+      "course_code": "THEO1212",
+      "prefix_inferred": true,
+      "evidence": "Two courses from CURE2131, 3134, THEO1211, 1212"
+    },
+    {
+      "course_code": "CURE2226",
+      "prefix_inferred": false,
+      "evidence": "CURE2226, 2228"
+    },
+    {
+      "course_code": "CURE2228",
+      "prefix_inferred": true,
+      "evidence": "CURE2226, 2228"
+    },
+    {
+      "course_code": "CURE2180",
+      "prefix_inferred": false,
+      "evidence": "(i) CURE2180 or ARAB1000, and CURE2181; OR"
+    },
+    {
+      "course_code": "ARAB1000",
+      "prefix_inferred": false,
+      "evidence": "(i) CURE2180 or ARAB1000, and CURE2181; OR"
+    },
+    {
+      "course_code": "CURE2181",
+      "prefix_inferred": false,
+      "evidence": "(i) CURE2180 or ARAB1000, and CURE2181; OR"
+    },
+    {
+      "course_code": "ARAB2050",
+      "prefix_inferred": false,
+      "evidence": "(ii) ARAB2050"
+    },
+    {
+      "course_code": "CURE3114",
+      "prefix_inferred": false,
+      "evidence": "Four courses from CURE3114, 3129, 3376, 3378, 4157, 4158"
+    },
+    {
+      "course_code": "CURE3129",
+      "prefix_inferred": true,
+      "evidence": "Four courses from CURE3114, 3129, 3376, 3378, 4157, 4158"
+    },
+    {
+      "course_code": "CURE3376",
+      "prefix_inferred": true,
+      "evidence": "Four courses from CURE3114, 3129, 3376, 3378, 4157, 4158"
+    },
+    {
+      "course_code": "CURE3378",
+      "prefix_inferred": true,
+      "evidence": "Four courses from CURE3114, 3129, 3376, 3378, 4157, 4158"
+    },
+    {
+      "course_code": "CURE4157",
+      "prefix_inferred": true,
+      "evidence": "Four courses from CURE3114, 3129, 3376, 3378, 4157, 4158"
+    },
+    {
+      "course_code": "CURE4158",
+      "prefix_inferred": true,
+      "evidence": "Four courses from CURE3114, 3129, 3376, 3378, 4157, 4158"
+    },
+    {
+      "course_code": "CURE2180",
+      "prefix_inferred": false,
+      "evidence": "Three CURE courses at 2000 or above level from the Religious Studies Areas (except CURE2180 and 2181)"
+    },
+    {
+      "course_code": "CURE2181",
+      "prefix_inferred": true,
+      "evidence": "Three CURE courses at 2000 or above level from the Religious Studies Areas (except CURE2180 and 2181)"
+    },
+    {
+      "course_code": "CURE3144",
+      "prefix_inferred": false,
+      "evidence": "CURE3144, 3147"
+    },
+    {
+      "course_code": "CURE3147",
+      "prefix_inferred": true,
+      "evidence": "CURE3144, 3147"
+    },
+    {
+      "course_code": "ANTH4330",
+      "prefix_inferred": false,
+      "evidence": "Any five courses from ANTH4330, CURE2019, 2142, 2144, 2156, 2163, 3115, 3375, PSYC3720"
+    },
+    {
+      "course_code": "CURE2019",
+      "prefix_inferred": false,
+      "evidence": "Any five courses from ANTH4330, CURE2019, 2142, 2144, 2156, 2163, 3115, 3375, PSYC3720"
+    },
+    {
+      "course_code": "CURE2142",
+      "prefix_inferred": true,
+      "evidence": "Any five courses from ANTH4330, CURE2019, 2142, 2144, 2156, 2163, 3115, 3375, PSYC3720"
+    },
+    {
+      "course_code": "CURE2144",
+      "prefix_inferred": true,
+      "evidence": "Any five courses from ANTH4330, CURE2019, 2142, 2144, 2156, 2163, 3115, 3375, PSYC3720"
+    },
+    {
+      "course_code": "CURE2156",
+      "prefix_inferred": true,
+      "evidence": "Any five courses from ANTH4330, CURE2019, 2142, 2144, 2156, 2163, 3115, 3375, PSYC3720"
+    },
+    {
+      "course_code": "CURE2163",
+      "prefix_inferred": true,
+      "evidence": "Any five courses from ANTH4330, CURE2019, 2142, 2144, 2156, 2163, 3115, 3375, PSYC3720"
+    },
+    {
+      "course_code": "CURE3115",
+      "prefix_inferred": true,
+      "evidence": "Any five courses from ANTH4330, CURE2019, 2142, 2144, 2156, 2163, 3115, 3375, PSYC3720"
+    },
+    {
+      "course_code": "CURE3375",
+      "prefix_inferred": true,
+      "evidence": "Any five courses from ANTH4330, CURE2019, 2142, 2144, 2156, 2163, 3115, 3375, PSYC3720"
+    },
+    {
+      "course_code": "PSYC3720",
+      "prefix_inferred": false,
+      "evidence": "Any five courses from ANTH4330, CURE2019, 2142, 2144, 2156, 2163, 3115, 3375, PSYC3720"
+    },
+    {
+      "course_code": "CURE1110",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: CURE1110 and/ or 1-2 Faculty Package course(s)"
+    },
+    {
+      "course_code": "CURE1123",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CURE1123"
+    },
+    {
+      "course_code": "CURE1111",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CURE1111 and 1 course from CURE1124, 2161, 2225, 2226, 2227"
+    },
+    {
+      "course_code": "CURE1124",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CURE1111 and 1 course from CURE1124, 2161, 2225, 2226, 2227"
+    },
+    {
+      "course_code": "CURE2161",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CURE1111 and 1 course from CURE1124, 2161, 2225, 2226, 2227"
+    },
+    {
+      "course_code": "CURE2225",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CURE1111 and 1 course from CURE1124, 2161, 2225, 2226, 2227"
+    },
+    {
+      "course_code": "CURE2226",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CURE1111 and 1 course from CURE1124, 2161, 2225, 2226, 2227"
+    },
+    {
+      "course_code": "CURE2227",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CURE1111 and 1 course from CURE1124, 2161, 2225, 2226, 2227"
+    },
+    {
+      "course_code": "CURE1122",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CURE1122 and 1 course from CURE2113, 2114, 2115, 3375"
+    },
+    {
+      "course_code": "CURE2113",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CURE1122 and 1 course from CURE2113, 2114, 2115, 3375"
+    },
+    {
+      "course_code": "CURE2114",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CURE1122 and 1 course from CURE2113, 2114, 2115, 3375"
+    },
+    {
+      "course_code": "CURE2115",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CURE1122 and 1 course from CURE2113, 2114, 2115, 3375"
+    },
+    {
+      "course_code": "CURE3375",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CURE1122 and 1 course from CURE2113, 2114, 2115, 3375"
+    },
+    {
+      "course_code": "CURE2157",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CURE2157, 2170"
+    },
+    {
+      "course_code": "CURE2170",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CURE2157, 2170"
+    },
+    {
+      "course_code": "CURE2154",
+      "prefix_inferred": false,
+      "evidence": "Major Required: 1 course from CURE2154, 2155, 2180, THEO3215, 3217"
+    },
+    {
+      "course_code": "CURE2155",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 1 course from CURE2154, 2155, 2180, THEO3215, 3217"
+    },
+    {
+      "course_code": "CURE2180",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 1 course from CURE2154, 2155, 2180, THEO3215, 3217"
+    },
+    {
+      "course_code": "THEO3215",
+      "prefix_inferred": false,
+      "evidence": "Major Required: 1 course from CURE2154, 2155, 2180, THEO3215, 3217"
+    },
+    {
+      "course_code": "THEO3217",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 1 course from CURE2154, 2155, 2180, THEO3215, 3217"
+    },
+    {
+      "course_code": "CURE4153",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CURE4153 or CURE4159"
+    },
+    {
+      "course_code": "CURE4159",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CURE4153 or CURE4159"
+    },
+    {
+      "course_code": "CURE1111",
+      "prefix_inferred": false,
+      "evidence": "CURE1111, 2170"
+    },
+    {
+      "course_code": "CURE2170",
+      "prefix_inferred": true,
+      "evidence": "CURE1111, 2170"
+    },
+    {
+      "course_code": "CURE1124",
+      "prefix_inferred": false,
+      "evidence": "Three courses from CURE1124, 2161, 2225, 2226, 2227"
+    },
+    {
+      "course_code": "CURE2161",
+      "prefix_inferred": true,
+      "evidence": "Three courses from CURE1124, 2161, 2225, 2226, 2227"
+    },
+    {
+      "course_code": "CURE2225",
+      "prefix_inferred": true,
+      "evidence": "Three courses from CURE1124, 2161, 2225, 2226, 2227"
+    },
+    {
+      "course_code": "CURE2226",
+      "prefix_inferred": true,
+      "evidence": "Three courses from CURE1124, 2161, 2225, 2226, 2227"
+    },
+    {
+      "course_code": "CURE2227",
+      "prefix_inferred": true,
+      "evidence": "Three courses from CURE1124, 2161, 2225, 2226, 2227"
+    },
+    {
+      "course_code": "CURE2113",
+      "prefix_inferred": false,
+      "evidence": "One course from CURE2113, 2114, 2115, 3375"
+    },
+    {
+      "course_code": "CURE2114",
+      "prefix_inferred": true,
+      "evidence": "One course from CURE2113, 2114, 2115, 3375"
+    },
+    {
+      "course_code": "CURE2115",
+      "prefix_inferred": true,
+      "evidence": "One course from CURE2113, 2114, 2115, 3375"
+    },
+    {
+      "course_code": "CURE3375",
+      "prefix_inferred": true,
+      "evidence": "One course from CURE2113, 2114, 2115, 3375"
+    },
+    {
+      "course_code": "CURE4153",
+      "prefix_inferred": false,
+      "evidence": "One Capstone course from: CURE4153, 4159"
+    },
+    {
+      "course_code": "CURE4159",
+      "prefix_inferred": true,
+      "evidence": "One Capstone course from: CURE4153, 4159"
+    },
+    {
+      "course_code": "CURE2170",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CURE2170 and 1 course from CURE1124, 2161, 2225, 2226, 2227"
+    },
+    {
+      "course_code": "CURE1124",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CURE2170 and 1 course from CURE1124, 2161, 2225, 2226, 2227"
+    },
+    {
+      "course_code": "CURE2161",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CURE2170 and 1 course from CURE1124, 2161, 2225, 2226, 2227"
+    },
+    {
+      "course_code": "CURE2225",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CURE2170 and 1 course from CURE1124, 2161, 2225, 2226, 2227"
+    },
+    {
+      "course_code": "CURE2226",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CURE2170 and 1 course from CURE1124, 2161, 2225, 2226, 2227"
+    },
+    {
+      "course_code": "CURE2227",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CURE2170 and 1 course from CURE1124, 2161, 2225, 2226, 2227"
+    },
+    {
+      "course_code": "CURE1124",
+      "prefix_inferred": false,
+      "evidence": "Major Required: 1 course from CURE1124, 2161, 2225, 2226, 2227 and 1 course from CURE2113, 2114, 2115, 3375"
+    },
+    {
+      "course_code": "CURE2161",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 1 course from CURE1124, 2161, 2225, 2226, 2227 and 1 course from CURE2113, 2114, 2115, 3375"
+    },
+    {
+      "course_code": "CURE2225",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 1 course from CURE1124, 2161, 2225, 2226, 2227 and 1 course from CURE2113, 2114, 2115, 3375"
+    },
+    {
+      "course_code": "CURE2226",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 1 course from CURE1124, 2161, 2225, 2226, 2227 and 1 course from CURE2113, 2114, 2115, 3375"
+    },
+    {
+      "course_code": "CURE2227",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 1 course from CURE1124, 2161, 2225, 2226, 2227 and 1 course from CURE2113, 2114, 2115, 3375"
+    },
+    {
+      "course_code": "CURE2113",
+      "prefix_inferred": false,
+      "evidence": "Major Required: 1 course from CURE1124, 2161, 2225, 2226, 2227 and 1 course from CURE2113, 2114, 2115, 3375"
+    },
+    {
+      "course_code": "CURE2114",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 1 course from CURE1124, 2161, 2225, 2226, 2227 and 1 course from CURE2113, 2114, 2115, 3375"
+    },
+    {
+      "course_code": "CURE2115",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 1 course from CURE1124, 2161, 2225, 2226, 2227 and 1 course from CURE2113, 2114, 2115, 3375"
+    },
+    {
+      "course_code": "CURE3375",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 1 course from CURE1124, 2161, 2225, 2226, 2227 and 1 course from CURE2113, 2114, 2115, 3375"
+    },
+    {
+      "course_code": "CURE2180",
+      "prefix_inferred": false,
+      "evidence": "CURE2180 or ARAB1000, and CURE2181; OR"
+    },
+    {
+      "course_code": "ARAB1000",
+      "prefix_inferred": false,
+      "evidence": "CURE2180 or ARAB1000, and CURE2181; OR"
+    },
+    {
+      "course_code": "CURE2181",
+      "prefix_inferred": false,
+      "evidence": "CURE2180 or ARAB1000, and CURE2181; OR"
+    },
+    {
+      "course_code": "ARAB2050",
+      "prefix_inferred": false,
+      "evidence": "ARAB2050"
+    },
+    {
+      "course_code": "CURE3114",
+      "prefix_inferred": false,
+      "evidence": "CURE3114, 3129, 3376, 3378, 4157, 4158"
+    },
+    {
+      "course_code": "CURE3129",
+      "prefix_inferred": true,
+      "evidence": "CURE3114, 3129, 3376, 3378, 4157, 4158"
+    },
+    {
+      "course_code": "CURE3376",
+      "prefix_inferred": true,
+      "evidence": "CURE3114, 3129, 3376, 3378, 4157, 4158"
+    },
+    {
+      "course_code": "CURE3378",
+      "prefix_inferred": true,
+      "evidence": "CURE3114, 3129, 3376, 3378, 4157, 4158"
+    },
+    {
+      "course_code": "CURE4157",
+      "prefix_inferred": true,
+      "evidence": "CURE3114, 3129, 3376, 3378, 4157, 4158"
+    },
+    {
+      "course_code": "CURE4158",
+      "prefix_inferred": true,
+      "evidence": "CURE3114, 3129, 3376, 3378, 4157, 4158"
+    },
+    {
+      "course_code": "CURE1111",
+      "prefix_inferred": false,
+      "evidence": "CURE1111, 1123"
+    },
+    {
+      "course_code": "CURE1123",
+      "prefix_inferred": true,
+      "evidence": "CURE1111, 1123"
+    },
+    {
+      "course_code": "CURE1110",
+      "prefix_inferred": false,
+      "evidence": "One course from CURE1110, 1123"
+    },
+    {
+      "course_code": "CURE1123",
+      "prefix_inferred": true,
+      "evidence": "One course from CURE1110, 1123"
+    },
+    {
+      "course_code": "CURE2144",
+      "prefix_inferred": false,
+      "evidence": "Three courses from CURE2144, 2156, 2163, 3115, 3144, 3147, PSYC3720"
+    },
+    {
+      "course_code": "CURE2156",
+      "prefix_inferred": true,
+      "evidence": "Three courses from CURE2144, 2156, 2163, 3115, 3144, 3147, PSYC3720"
+    },
+    {
+      "course_code": "CURE2163",
+      "prefix_inferred": true,
+      "evidence": "Three courses from CURE2144, 2156, 2163, 3115, 3144, 3147, PSYC3720"
+    },
+    {
+      "course_code": "CURE3115",
+      "prefix_inferred": true,
+      "evidence": "Three courses from CURE2144, 2156, 2163, 3115, 3144, 3147, PSYC3720"
+    },
+    {
+      "course_code": "CURE3144",
+      "prefix_inferred": true,
+      "evidence": "Three courses from CURE2144, 2156, 2163, 3115, 3144, 3147, PSYC3720"
+    },
+    {
+      "course_code": "CURE3147",
+      "prefix_inferred": true,
+      "evidence": "Three courses from CURE2144, 2156, 2163, 3115, 3144, 3147, PSYC3720"
+    },
+    {
+      "course_code": "PSYC3720",
+      "prefix_inferred": false,
+      "evidence": "Three courses from CURE2144, 2156, 2163, 3115, 3144, 3147, PSYC3720"
+    },
+    {
+      "course_code": "ANTH4330",
+      "prefix_inferred": false,
+      "evidence": "Two courses from ANTH4330, CURE2019, 2142, 3375"
+    },
+    {
+      "course_code": "CURE2019",
+      "prefix_inferred": false,
+      "evidence": "Two courses from ANTH4330, CURE2019, 2142, 3375"
+    },
+    {
+      "course_code": "CURE2142",
+      "prefix_inferred": true,
+      "evidence": "Two courses from ANTH4330, CURE2019, 2142, 3375"
+    },
+    {
+      "course_code": "CURE3375",
+      "prefix_inferred": true,
+      "evidence": "Two courses from ANTH4330, CURE2019, 2142, 3375"
+    },
+    {
+      "course_code": "CURE1111",
+      "prefix_inferred": false,
+      "evidence": "CURE1111"
+    },
+    {
+      "course_code": "CURE2112",
+      "prefix_inferred": false,
+      "evidence": "CURE2112"
+    },
+    {
+      "course_code": "CURE2113",
+      "prefix_inferred": false,
+      "evidence": "CURE2113"
+    },
+    {
+      "course_code": "CURE2114",
+      "prefix_inferred": false,
+      "evidence": "CURE2114"
+    },
+    {
+      "course_code": "CURE2115",
+      "prefix_inferred": false,
+      "evidence": "CURE2115"
+    },
+    {
+      "course_code": "CURE2170",
+      "prefix_inferred": false,
+      "evidence": "CURE2170"
+    },
+    {
+      "course_code": "CURE3375",
+      "prefix_inferred": false,
+      "evidence": "CURE3375"
+    },
+    {
+      "course_code": "CURE1123",
+      "prefix_inferred": false,
+      "evidence": "CURE1123"
+    },
+    {
+      "course_code": "CURE3132",
+      "prefix_inferred": false,
+      "evidence": "CURE3132"
+    },
+    {
+      "course_code": "CURE4157",
+      "prefix_inferred": false,
+      "evidence": "CURE4157"
+    },
+    {
+      "course_code": "CURE2130",
+      "prefix_inferred": false,
+      "evidence": "CURE2130"
+    },
+    {
+      "course_code": "CURE2161",
+      "prefix_inferred": false,
+      "evidence": "CURE2161"
+    },
+    {
+      "course_code": "CURE3122",
+      "prefix_inferred": false,
+      "evidence": "CURE3122"
+    },
+    {
+      "course_code": "CURE4121",
+      "prefix_inferred": false,
+      "evidence": "CURE4121"
+    },
+    {
+      "course_code": "CURE1122",
+      "prefix_inferred": false,
+      "evidence": "CURE1122"
+    },
+    {
+      "course_code": "CURE2375",
+      "prefix_inferred": false,
+      "evidence": "CURE2375"
+    },
+    {
+      "course_code": "CURE3126",
+      "prefix_inferred": false,
+      "evidence": "CURE3126"
+    },
+    {
+      "course_code": "CURE3136",
+      "prefix_inferred": false,
+      "evidence": "CURE3136"
+    },
+    {
+      "course_code": "CURE1124",
+      "prefix_inferred": false,
+      "evidence": "CURE1124"
+    },
+    {
+      "course_code": "CURE2131",
+      "prefix_inferred": false,
+      "evidence": "CURE2131"
+    },
+    {
+      "course_code": "CURE3134",
+      "prefix_inferred": false,
+      "evidence": "CURE3134"
+    },
+    {
+      "course_code": "THEO1211",
+      "prefix_inferred": false,
+      "evidence": "THEO1211"
+    },
+    {
+      "course_code": "THEO1212",
+      "prefix_inferred": false,
+      "evidence": "THEO1212"
+    },
+    {
+      "course_code": "CURE2225",
+      "prefix_inferred": false,
+      "evidence": "CURE2225"
+    },
+    {
+      "course_code": "CURE3377",
+      "prefix_inferred": false,
+      "evidence": "CURE3377"
+    },
+    {
+      "course_code": "CURE2226",
+      "prefix_inferred": false,
+      "evidence": "CURE2226"
+    },
+    {
+      "course_code": "CURE3114",
+      "prefix_inferred": false,
+      "evidence": "CURE3114"
+    },
+    {
+      "course_code": "CURE3378",
+      "prefix_inferred": false,
+      "evidence": "CURE3378"
+    },
+    {
+      "course_code": "CURE2139",
+      "prefix_inferred": false,
+      "evidence": "CURE2139"
+    },
+    {
+      "course_code": "CURE2125",
+      "prefix_inferred": false,
+      "evidence": "CURE2125"
+    },
+    {
+      "course_code": "CURE2227",
+      "prefix_inferred": false,
+      "evidence": "CURE2227"
+    },
+    {
+      "course_code": "CURE4134",
+      "prefix_inferred": false,
+      "evidence": "CURE4134"
+    },
+    {
+      "course_code": "CURE4158",
+      "prefix_inferred": false,
+      "evidence": "CURE4158"
+    },
+    {
+      "course_code": "CURE1110",
+      "prefix_inferred": false,
+      "evidence": "CURE1110"
+    },
+    {
+      "course_code": "CURE2145",
+      "prefix_inferred": false,
+      "evidence": "CURE2145"
+    },
+    {
+      "course_code": "CURE2160",
+      "prefix_inferred": false,
+      "evidence": "CURE2160"
+    },
+    {
+      "course_code": "CURE2163",
+      "prefix_inferred": false,
+      "evidence": "CURE2163"
+    },
+    {
+      "course_code": "CURE2164",
+      "prefix_inferred": false,
+      "evidence": "CURE2164"
+    },
+    {
+      "course_code": "CURE2228",
+      "prefix_inferred": false,
+      "evidence": "CURE2228"
+    },
+    {
+      "course_code": "CURE2377",
+      "prefix_inferred": false,
+      "evidence": "CURE2377"
+    },
+    {
+      "course_code": "CURE3116",
+      "prefix_inferred": false,
+      "evidence": "CURE3116"
+    },
+    {
+      "course_code": "CURE3129",
+      "prefix_inferred": false,
+      "evidence": "CURE3129"
+    },
+    {
+      "course_code": "CURE3130",
+      "prefix_inferred": false,
+      "evidence": "CURE3130"
+    },
+    {
+      "course_code": "CURE3142",
+      "prefix_inferred": false,
+      "evidence": "CURE3142"
+    },
+    {
+      "course_code": "CURE3145",
+      "prefix_inferred": false,
+      "evidence": "CURE3145"
+    },
+    {
+      "course_code": "CURE3376",
+      "prefix_inferred": false,
+      "evidence": "CURE3376"
+    },
+    {
+      "course_code": "CURE2142",
+      "prefix_inferred": false,
+      "evidence": "CURE2142"
+    },
+    {
+      "course_code": "CURE2144",
+      "prefix_inferred": false,
+      "evidence": "CURE2144"
+    },
+    {
+      "course_code": "CURE2156",
+      "prefix_inferred": false,
+      "evidence": "CURE2156"
+    },
+    {
+      "course_code": "CURE3115",
+      "prefix_inferred": false,
+      "evidence": "CURE3115"
+    },
+    {
+      "course_code": "CURE3144",
+      "prefix_inferred": false,
+      "evidence": "CURE3144"
+    },
+    {
+      "course_code": "CURE3147",
+      "prefix_inferred": false,
+      "evidence": "CURE3147"
+    },
+    {
+      "course_code": "CURE2154",
+      "prefix_inferred": false,
+      "evidence": "CURE2154"
+    },
+    {
+      "course_code": "CURE2155",
+      "prefix_inferred": false,
+      "evidence": "CURE2155"
+    },
+    {
+      "course_code": "CURE2165",
+      "prefix_inferred": false,
+      "evidence": "CURE2165"
+    },
+    {
+      "course_code": "CURE2166",
+      "prefix_inferred": false,
+      "evidence": "CURE2166"
+    },
+    {
+      "course_code": "CURE2167",
+      "prefix_inferred": false,
+      "evidence": "CURE2167"
+    },
+    {
+      "course_code": "CURE2180",
+      "prefix_inferred": false,
+      "evidence": "CURE2180"
+    },
+    {
+      "course_code": "CURE2181",
+      "prefix_inferred": false,
+      "evidence": "CURE2181"
+    },
+    {
+      "course_code": "THEO3215",
+      "prefix_inferred": false,
+      "evidence": "THEO3215"
+    },
+    {
+      "course_code": "THEO3216",
+      "prefix_inferred": false,
+      "evidence": "THEO3216"
+    },
+    {
+      "course_code": "THEO3217",
+      "prefix_inferred": false,
+      "evidence": "THEO3217"
+    },
+    {
+      "course_code": "THEO3218",
+      "prefix_inferred": false,
+      "evidence": "THEO3218"
+    },
+    {
+      "course_code": "CURE2157",
+      "prefix_inferred": false,
+      "evidence": "CURE2157"
+    },
+    {
+      "course_code": "CURE4153",
+      "prefix_inferred": false,
+      "evidence": "CURE4153"
+    },
+    {
+      "course_code": "CURE4159",
+      "prefix_inferred": false,
+      "evidence": "CURE4159"
+    }
+  ],
+  "course_code_aliases": [],
+  "source": {
+    "system": "CUHK CUSIS Browse Program Information",
+    "url": "https://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/tt_dsp_acad_prog.aspx",
+    "source_text_file": "data/cuhk/2024/programmes/B_A_in_Religious_Studies__Faculty_of_Arts.txt",
+    "reused_duplicate_entry": false,
+    "reused_from_faculty": null
+  },
+  "raw_text": "\n\nBrowse Program Information\n\n\n\n\n\n\nAcademic Program:\tB.A. in Religious Studies\nAcademic Year:\t2024\nLanguage:\t\nEnglish\nSimplified Chinese\nTraditional Chinese\n\n\n\nLearning Outcomes\nStudy Scheme\n \n\n\t\n\nReligious Studies\n\nApplicable to students admitted in 2024-25\n\n\n\n\n \n\n\n\n\n \n\nMajor Programme Requirement\n\n \n\n\n\n\nStudents are required to complete a minimum of 69 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nFaculty Package:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nCURE1110 and any two courses from:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nRequired Courses:\n\n\t\n\n27\n\n\n\n\n(a)\n\n\t\n\nCURE1111, 1122, 1123, 2157, 2170\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nOne course from the following selected courses from Area 1: CURE2113, 2114, 2115, 3375\n\n\t\n\n \n\n\n\n\n(c)\n\n\t\n\nOne course from the following selected courses from Area 2: CURE1124, 2161, 2225, 2226, 2227\n\n\t\n\n \n\n\n\n\n(d)\n\n\t\n\nOne course from the following selected courses from Area 4: CURE2154, 2155, 2180, THEO3215, 3217\n\n\t\n\n \n\n\n\n\n(e)\n\n\t\n\nOne Capstone course from the following selected courses from Area 5: CURE4153, 4159\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nElective Courses:\n\n\t\n\n33\n\n\n\n\n(a)\n\n\t\n\nNine courses at 2000 or above level from the Religious Studies Areas[a][b]\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nTwo courses from the Cultural Studies Areas[a][c]\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\nConcentrations\n\n\t\n\n \n\n\n\n\nStudents may choose to declare a concentration by taking the following elective courses [a] in place of 3 “Elective Courses” above:\n\n\t\n\n \n\n\n\n\nReligion and Culture\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nTwo courses from CURE1009, 1010, 2001*[1001], 2006*[1006]\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nNine CURE courses at 2000 or above level, of which at least two courses are from the Cultural Studies Areas[c] and at least seven courses are from the Religious Studies Areas\n\n\t\n\n \n\n\n\n\nReligious Education\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\n6 units of EDUC courses at 2000 and above level from Educational Core Component offered by the Faculty of Education\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nCURE2142, 2144, 3144\n\n\t\n\n \n\n\n\n\n(c)\n\n\t\n\nTwo courses from CURE2131, 3134, THEO1211, 1212\n\n\t\n\n \n\n\n\n\n(d)\n\n\t\n\nFour CURE courses at 2000 or above level from the Religious Studies Areas\n\n\t\n\n \n\n\n\n\nArab Studies\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nCURE2226, 2228\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\n6 units of language courses:\n\n(i)   CURE2180 or ARAB1000, and CURE2181; OR\n\n(ii)   ARAB2050\n\n\t\n\n \n\n\n\n\n(c)\n\n\t\n\nFour courses from CURE3114, 3129, 3376, 3378, 4157, 4158\n\n\t\n\n \n\n\n\n\n(d)\n\n\t\n\nThree CURE courses at 2000 or above level from the Religious Studies Areas (except CURE2180 and 2181)\n\n\t\n\n \n\n\n\n\nReligion and Health\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nCURE3144, 3147\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nAny five courses from ANTH4330, CURE2019, 2142, 2144, 2156, 2163, 3115, 3375, PSYC3720\n\n\t\n\n \n\n\n\n\n(c)\n\n\t\n\nFour CURE courses at 2000 or above level from the Religious Studies Areas\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n69\n\n\n\n\nExplanatory Notes:\n\n\n\n\n1.\n\n\t\n\nANTH, ARAB, CURE, EDUC, PSYC and THEO courses at 2000 and above level (except those marked with *) as included in the respective concentrations will be included in the calculation of Major GPA for honours classification for students specialize in the relevant concentrations.\n\n\n\n\n2.\n\n\t\n\nCourses counted towards the fulfillment of one of the above listed requirements cannot be used to fulfill concentration requirements.\n\n\n\n\n[a]\n\n\t\n\nExcluding the courses taken to fulfil requirement 1 and 2 above.\n\n\n\n\n[b]\n\n\t\n\nFor students not specialising in any concentration, apart from the THEO courses listed in the course list, students may take other THEO courses, subject to a maximum of five THEO courses, as their elective courses to fulfill requirement 3(a).\n\n\n\n\n[c]\n\n\t\n\nFor Cultural Studies Areas courses, please refer to the course list of Cultural Studies Programme.\n\n\n\n\n[ ]\n\n\t\n\nOld course code used in 2024-25 and before.\n\n\n\n\n \n\n\n\n\n\n\n\n\t\n\nRecommended Course Pattern\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: CURE1110 and/ or 1-2 Faculty Package course(s)\n\n\t\n\n3-9\n\n\n\n\nMajor Required: CURE1123\n\n\t\n\n3\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nFaculty Package: 1-2 Faculty Package course(s)\n\n\t\n\n3-6\n\n\n\n\nMajor Required: CURE1111 and 1 course from CURE1124, 2161, 2225, 2226, 2227\n\n\t\n\n6\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: CURE1122 and 1 course from CURE2113, 2114, 2115, 3375\n\n\t\n\n6\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: CURE2157, 2170\n\n\t\n\n6\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nThird Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: 1 course from CURE2154, 2155, 2180, THEO3215, 3217\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): 3 courses\n\n\t\n\n9\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required:\n\n\t\n\n \n\n\n\n\nMajor Elective(s): 3 courses\n\n\t\n\n9\n\n\n\n\nFourth Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: CURE4153 or CURE4159\n\n\t\n\n3-6\n\n\n\n\nMajor Elective(s): 3 courses\n\n\t\n\n9\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: \n\n\t\n\n3\n\n\n\n\nMajor Elective(s): 3 courses\n\n\t\n\n9\n\n\n\n\nTotal (including Faculty Package):\n\n\t\n\n69\n\n\n\n\n \n\n\n\n\n \n\nMajor Programme Requirement (for Associate Degree or Higher Diploma holders admitted to senior-year places)\n\n \n\n\n\n\nStudents are required to complete a minimum of 51 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nRequired Courses:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nCURE1111, 2170\n\n\t\n\n6\n\n\n\n\n(b)\n\n\t\n\nThree courses from CURE1124, 2161, 2225, 2226, 2227\n\n\t\n\n9\n\n\n\n\n(c)\n\n\t\n\nOne course from CURE2113, 2114, 2115, 3375\n\n\t\n\n3\n\n\n\n\n(d)\n\n\t\n\nOne Capstone course from: CURE4153, 4159\n\n\t\n\n3\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nElective Courses:\n\n\t\n\n30\n\n\n\n\n \n\n\t\n\nTen CURE courses at 2000 or above level from the Religious Studies Areas\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n51\n\n\n\n\nExplanatory Note:\n\n\n\n\n1.\n\n\t\n\nCURE courses at 2000 and above level will be included in the calculation of Major GPA for honours classification.\n\n\n\n\n \n\n\n\n\n \n\n\t\n\nRecommended Course Pattern (for Associate Degree or Higher Diploma holders admitted to senior-year places)\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: CURE1111 and 1 course from CURE1124, 2161, 2225, 2226, 2227\n\n\t\n\n6\n\n \n\n\n\n\nMajor Elective(s): 3 courses\n\n\t\n\n9\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: CURE2170 and 1 course from CURE1124, 2161, 2225, 2226, 2227\n\n\t\n\n6\n\n \n\n\n\n\nMajor Elective(s): 2 courses\n\n\t\n\n6\n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: 1 course from CURE1124, 2161, 2225, 2226, 2227 and 1 course from CURE2113, 2114, 2115, 3375\n\n\t\n\n6\n\n \n\n\n\n\nMajor Required: CURE4153 or CURE4159\n\nMajor Elective(s): 2 courses\n\n\t\n\n3-6\n\n6\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required:\n\n\t\n\n3\n\n\n\n\nMajor Elective(s) 3 courses\n\n\t\n\n9\n\n\n\n\nTotal:\n\n\t\n\n51\n\n\n\n\n \n\n\n\n\nMinor Programme Title\n\nArab Studies\n\n \n\n\n\n\n \n\nMinor Programme Requirement\n\n \n\n\n\n\nStudents are required to complete a minimum of 18 units of courses, with at least 6 units at 3000 or above level as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nRequired Courses:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nCURE2226, 2228\n\n\t\n\n6\n\n\n\n\n(b)\n\n\t\n\nLanguage Requirement:\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\n(i)\n\n\t\n\nCURE2180 or ARAB1000, and CURE2181; OR\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(ii)\n\n\t\n\nARAB2050\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nElective Courses:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTwo courses from the following:\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nCURE3114, 3129, 3376, 3378, 4157, 4158\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n18\n\n\n\n\nExplanatory Note:\n\n\n\n\n1.\n\n\t\n\nThis Minor Programme is not applicable to students who major in Cultural Studies, Religious Studies, and Theology.\n\n\n\n\n \n\n\n\n\nMinor Programme Title\n\nReligious Studies\n\n \n\n\n\n\n \n\nMinor Programme Requirement\n\n \n\n\n\n\nStudents are required to complete a minimum of 18 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nRequired Courses:\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nCURE1111, 1123\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nElective Courses:\n\n\t\n\n12\n\n\n\n\n \n\n\t\n\nFour CURE courses at 2000 or above level from the Religious Studies Areas, of which at least two courses are at 3000 or above level\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n18\n\n\n\n\n \n\n\t\n\n \n\n\n\n\n \n\n\n\n\nMinor Programme Title\n\n Religion and Health\n\n\n\n\n \n\nMinor Programme Requirement\n\n \n\n\n\n\nStudents are required to complete a minimum of 18 units of courses, with at least 6 units at 3000 or above level as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nRequired Courses:\n\n\t\n\n\n \n\n\t\n\nOne course from CURE1110, 1123\n\n\t\n\n3\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n\n2.\n\n\t\n\nElective Courses:\n\n\t\n\n\n(a)\n\n\t\n\nThree courses from CURE2144, 2156, 2163, 3115, 3144, 3147, PSYC3720\n\n\t\n\n9\n\n\n\n\n(b)\n\n\t\n\nTwo courses from ANTH4330, CURE2019, 2142, 3375\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n18\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\nExplanatory Note:\n\n1.         This Minor Programme is not applicable to students who major in Religious Studies.\n\n\n\n\n \n\n\n\n\nCourse List\n\n \n\n\n\n\nCourse Code\n\n\t\n\nCourse Title\n\n\t\n\nUnit(s)\n\n\n\n\nReligious Studies Area 1: Approaches to Religious Studies\n\n\n\n\nCURE1111\n\n\t\n\nThe Study of Religion        \n\n\t\n\n3\n\n\n\n\nCURE2112\n\n\t\n\nMyth, Symbol and Ritual\n\n\t\n\n3\n\n\n\n\nCURE2113\n\n\t\n\nPhilosophy of Religion\n\n\t\n\n3\n\n\n\n\nCURE2114\n\n\t\n\nSociology of Religion\n\n\t\n\n3\n\n\n\n\nCURE2115\n\n\t\n\nPsychology of Religion\n\n\t\n\n3\n\n\n\n\nCURE2170\n\n\t\n\nReading Religious Classics\n\n\t\n\n3\n\n\n\n\nCURE3375\n\n\t\n\nScience and Religion\n\n\t\n\n3\n\n\n\n\nReligious Studies Area 2: Religious Traditions and Classics\n\n\n\n\nCURE1123\n\n\t\n\nWorld Religions      \n\n\t\n\n3\n\n\n\n\nCURE3132\n\n\t\n\nReligious Texts in Translation\n\n\t\n\n3\n\n\n\n\nCURE4157\n\n\t\n\nSpecial Topics in Religion, Culture and Heritage\n\n\t\n\n3\n\n\n\n\n-          Buddhism\n\n\n\n\nCURE2130\n\n\t\n\nChinese Buddhist Classics\n\n\t\n\n3\n\n\n\n\nCURE2161\n\n\t\n\nIntroduction to Buddhism\n\n\t\n\n3\n\n\n\n\nCURE3122\n\n\t\n\nChinese Buddhism\n\n\t\n\n3\n\n\n\n\nCURE4121\n\n\t\n\nChan School of Buddhism\n\n\t\n\n3\n\n\n\n\n-          Chinese Religions\n\n\n\n\nCURE1122\n\n\t\n\nChinese Culture and Its Religion  \n\n\t\n\n3\n\n\n\n\nCURE2375\n\n\t\n\nChinese Temples and Festivals\n\n\t\n\n3\n\n\n\n\nCURE3126\n\n\t\n\nPopular Religions in China\n\n\t\n\n3\n\n\n\n\nCURE3136\n\n\t\n\nChinese Novels and Religion  \n\n\t\n\n3\n\n\n\n\n-          Christianity\n\n\n\n\nCURE1124\n\n\t\n\nStudy of Christianity\n\n\t\n\n3\n\n\n\n\nCURE2131\n\n\t\n\nChristianity and Western Literature\n\n\t\n\n3\n\n\n\n\nCURE3134\n\n\t\n\nChinese Literature and the Bible \n\n\t\n\n3\n\n\n\n\nTHEO1211\n\n\t\n\nIntroduction to Hebrew Bible\n\n\t\n\n3\n\n\n\n\nTHEO1212\n\n\t\n\nIntroduction to New Testament\n\n\t\n\n3\n\n\n\n\n-          Indian Religions\n\n\n\n\nCURE2225\n\n\t\n\nIntroduction to Indian Religions\n\n\t\n\n3\n\n\n\n\nCURE3377\n\n\t\n\nFieldwork in Indian Religions and Culture\n\n\t\n\n3\n\n\n\n\n-          Islam\n\n\n\n\nCURE2226\n\n\t\n\nIntroduction to Islam\n\n\t\n\n3\n\n\n\n\nCURE3114\n\n\t\n\nIslamic Scriptures: The Qur’an and Traditions of Muhammad\n\n\t\n\n3\n\n\n\n\nCURE3378\n\n\t\n\nFieldwork in Islamic Culture and Religion\n\n\t\n\n3\n\n\n\n\n-          Taoism\n\n\n\n\nCURE2139\n\n\t\n\nIntroduction to Taoist Literature\n\n\t\n\n3\n\n\n\n\nCURE2125\n\n\t\n\nHong Kong Taoism\n\n\t\n\n3\n\n\n\n\nCURE2227\n\n\t\n\nIntroduction to Taoism         \n\n\t\n\n3\n\n\n\n\nCURE4134\n\n\t\n\nSelected Taoist Classics\n\n\t\n\n3\n\n\n\n\nReligious Studies Area 3: Religion, Culture and Society\n\n\n\n\nCURE4158\n\n\t\n\nSpecial Topics in Religion, Society and Contemporary Issues\n\n\t\n\n3\n\n\n\n\n-          Culture and Society\n\n\n\n\nCURE1110\n\n\t\n\nReligion and Contemporary Life\n\n\t\n\n3\n\n\n\n\nCURE2145\n\n\t\n\nNew Religious Movements\n\n\t\n\n3\n\n\n\n\nCURE2160\n\n\t\n\nSpecial Topics in Religion and Culture\n\n\t\n\n3\n\n\n\n\nCURE2163\n\n\t\n\nReligion and Food\n\n\t\n\n3\n\n\n\n\nCURE2164\n\n\t\n\nGender and Sexuality in Religions\n\n\t\n\n3\n\n\n\n\nCURE2228\n\n\t\n\nReligious Traditions and Politics of the Arab World\n\n\t\n\n3\n\n\n\n\nCURE2377\n\n\t\n\nReligions, Violence and Peace\n\n\t\n\n3\n\n\n\n\nCURE3116\n\n\t\n\nReligion and Globalization\n\n\t\n\n3\n\n\n\n\nCURE3129\n\n\t\n\nIslam: Religious Tradition and Modern Politics\n\n\t\n\n3\n\n\n\n\nCURE3130\n\n\t\n\nReligious Imagination and Visual Art\n\n\t\n\n3\n\n\n\n\nCURE3142\n\n\t\n\nThe Religious Policy and Practices in China Today\n\n\t\n\n3\n\n\n\n\nCURE3145\n\n\t\n\nBuddhism and Contemporary Life\n\n\t\n\n3\n\n\n\n\nCURE3376\n\n\t\n\nReligious Fundamentalism and Asian Cultures\n\n\t\n\n3\n\n\n\n\n-          Education\n\n\n\n\nCURE2142\n\n\t\n\nReligion and Ethics   \n\n\t\n\n3\n\n\n\n\nCURE2144\n\n\t\n\nLife and Death in Religions\n\n\t\n\n3\n\n\n\n\nCURE2156\n\n\t\n\nReligion, Health and Healing\n\n\t\n\n3\n\n\n\n\nCURE3115\n\n\t\n\nReligious Education and Developmental Psychology\n\n\t\n\n3\n\n\n\n\nCURE3144\n\n\t\n\nSpirituality, Psychology and Well-Being\n\n\t\n\n3\n\n\n\n\nCURE3147\n\n\t\n\nReligion and Mental Health Care\n\n\t\n\n3\n\n\n\n\nReligious Studies Area 4: Classical Languages\n\n\n\n\nCURE2154\n\n\t\n\nFoundational Medieval Latin\n\n\t\n\n3\n\n\n\n\nCURE2155\n\n\t\n\nBeginning Sanskrit\n\n\t\n\n3\n\n\n\n\nCURE2165\n\n\t\n\nIntermediate Latin\n\n\t\n\n3\n\n\n\n\nCURE2166\n\n\t\n\nLatin for Law, Social Sciences and Humanities\n\n\t\n\n3\n\n\n\n\nCURE2167\n\n\t\n\nLatin for Science and Medicine\n\n\t\n\n3\n\n\n\n\nCURE2180\n\n\t\n\nArabic for Beginners I\n\n\t\n\n3\n\n\n\n\nCURE2181\n\n\t\n\nArabic for Beginners II\n\n\t\n\n3\n\n\n\n\nTHEO3215\n\n\t\n\nNew Testament Greek I\n\n\t\n\n3\n\n\n\n\nTHEO3216\n\n\t\n\nNew Testament Greek II\n\n\t\n\n3\n\n\n\n\nTHEO3217\n\n\t\n\nBiblical Hebrew I\n\n\t\n\n3\n\n\n\n\nTHEO3218\n\n\t\n\nBiblical Hebrew II\n\n\t\n\n3\n\n\n\n\nReligious Studies Area 5: Seminars\n\n\n\n\nCURE2157    \n\n\t\n\nIntermediate Seminar\n\n\t\n\n3\n\n\n\n\nCURE4153\n\n\t\n\nSenior Seminar\n\n\t\n\n3\n\n\n\n\nCURE4159\n\n\t\n\nInternship   \n\n\t\n\n3\n\n \n\n\n \n\nStudy Scheme\n\n\nLearning Outcomes\n \n\n\t\n\n1.\n\n\t\n\nMajor programme:\n\n\t\n\n \n\n\n\n\nKnowledge:\n\nGraduates will have acquired the following:\n\n\t\n\n \n\n\n\n\n(1)\n\n\t\n\nThe understanding of religion in its historical settings and contemporary contexts of modern living, globally and locally.\n\n\t\n\n \n\n\n\n\n(2)\n\n\t\n\nThe understanding of religion in its different dimensions.\n\n\t\n\n \n\n\n\n\n(3)\n\n\t\n\nThe understanding of religion through a crtical analysis.\n\n\t\n\n \n\n\n\n\n(4)\n\n\t\n\nA basic knowledge of major religious traditions in the world.\n\n\t\n\n \n\n\n\n\nSkills:\n\nGraduates will have acquired the following:\n\n\t\n\n \n\n\n\n\n(1)\n\n\t\n\nCommunication and presentational (oral and written) skills.\n\n\t\n\n \n\n\n\n\n(2)\n\n\t\n\nAnalytical and problem solving skills.\n\n\t\n\n \n\n\n\n\n(3)\n\n\t\n\nSocial skills and team-work skills.\n\n\t\n\n \n\n\n\n\n(4)\n\n\t\n\nSkills of critical intelligence and appreciative thinking.\n\n\t\n\n \n\n\n\n\n(5)\n\n\t\n\nSkills in cross-cultural understanding and intercultural literacy.\n\n\t\n\n \n\n\n\n\n(6)\n\n\t\n\nResearch skills.\n\n\t\n\n \n\n\n\n\nAttitude:\n\nGraduates will have acquired the following:\n\n\t\n\n \n\n\n\n\n(1)\n\n\t\n\nAwareness of the plurality and multi-faceted complexity within religious traditions of the issues of multiple and conflicting interpretations of religious traditions.\n\n\t\n\n \n\n\n\n\n(2)\n\n\t\n\nSelf-critical awareness of pre-suppositions and recognition.\n\n\t\n\n \n\n\n\n\n(3)\n\n\t\n\nA critical and yet sympathetic understanding and appreciation of religious traditions especially those to which one does not belong.\n\n\t\n\n \n\n\n\n\n(4)\n\n\t\n\nSensitivity to the ultimate concern and the religious dimension of human life.\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nMinor programme:\n\n\t\n\n \n\n\n\n\ni.\n\n\t\n\nArab Studies\n\n\t\n\n \n\n\n\n\nUpon completion of the programme, students will have acquired the following learning outcomes in three aspects:\n\n \n\nI.        Knowledge outcomes:\n\n(1)     Understand religions and cultures of the Arab World in their historical settings and contemporary contexts of modern living.\n\n(2)     Recognize central themes and issues in the Arab World, especially with respect to cultural and religious dimensions.\n\n \n\nII.       Skills outcomes:\n\n(1)     Basic command of the Arabic language.\n\n(2)     Engage in a critical analysis of issues pertaining to the Arab World by the methods of the humanities and social sciences.\n\n \n\nIII.     Attitude outcomes:\n\n(1)     Have awareness of plurality and multi-faceted complexity within Arab cultural, political and religious traditions, and of the issues of multiple and conflicting interpretations of language and symbols, texts and traditions.\n\n(2)     Acknowledge the contested and provisional nature of knowledge and understanding. Show tolerance of diverse positions and have respect for others’ views.\n\n \n\n\t\n\n \n\n\n\n\nii.\n\n\t\n\nReligious Studies\n\n\t\n\n \n\n\n\n\nUpon the completion of the Minor programme, students will have demonstrated basic understanding of fundamental issues related to the subject, acquired knowledge of some aspects of the subject with sufficient exposure and at a suitable level to allow further study in this subject or related subjects or to pursue a related career.\n\n \n\n\t\n\n \n\n\n\n\niii.     Religion and Health\n\nUpon completion of this Minor Programme, students will have acquired the ability to:\n\n \n\nI. Knowledge outcomes:\n\na)      gain a comprehensive understanding of the relationship between religion and health, including the impact of religion (e.g. belief/ritual/practice) on physical, mental, and spiritual well-being, within their cultural and historical contexts.\n\nb)      analyze how religion influences health behaviours, healthcare decision-making, and attitudes towards illness and healing.\n\nc)      identify and utilize resources and practices that promote spiritually informed self-care from diverse perspectives.\n\n \n\nII. Skills outcomes:\n\na)      design health programmes that incorporate religious resources, such as texts, rituals, or practices, to enhance the well-being of individuals and communities.\n\nb)      demonstrate proficiency in conducting research and data analysis related to religion and health.\n\nc)      effectively communicate findings to diverse audiences, including healthcare professionals, community stakeholders and policymakers.\n\n \n\nIII. Values and attitude outcomes:\n\na)      foster cultural sensitivity and respect for the clients’ religious beliefs and practices in healthcare settings.\n\nb)      increase awareness of the impact of religious resources on population health in different parts of our global communities.\n\nc)      engage in ongoing education and dialogue to deepen understanding of the intersection between spirituality, healthcare ethics, and diverse religious traditions.\n\n \n\n\t\n\n \n\n \n\n \n\n\n"
+}

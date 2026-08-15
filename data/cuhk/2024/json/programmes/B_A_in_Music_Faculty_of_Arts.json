@@ -1,0 +1,2468 @@
+{
+  "programme_id": "B_A_in_Music__Faculty_of_Arts",
+  "academic_program": "B.A. in Music",
+  "faculty": "Faculty of Arts",
+  "academic_year": 2024,
+  "admission_cohort": "2024-25",
+  "requirement_summary": {
+    "minimum_units_as_printed": "a minimum of 66 units",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Faculty Package",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "MUSC1000",
+            "prefix_inferred": false,
+            "evidence": "MUSC1000 and any two courses from"
+          },
+          {
+            "course_code": "ANTH1020",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "ARTS1005",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "ARTS1009",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "ARTS1010",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "BMBL1001",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CHES1101",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CHES1102",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CHLL1900",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CHLL1902",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CHLL1903",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CURE1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CURE1110",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CURE1400",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "ENGE1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "FAAS1900",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "HIST1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "HIST1700",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "HIST1701",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "JASP1090",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "LING1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "PHIL1110",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "THEO1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "TRAN1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+          }
+        ],
+        "raw_text": "9\nMUSC1000 and any two courses from\nANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+      },
+      {
+        "number": 2,
+        "title": "Required Courses",
+        "units_as_printed": "4",
+        "course_mentions": [
+          {
+            "course_code": "MUSC1001",
+            "prefix_inferred": false,
+            "evidence": "MUSC1001, 1002, 2001, 2002"
+          },
+          {
+            "course_code": "MUSC1002",
+            "prefix_inferred": true,
+            "evidence": "MUSC1001, 1002, 2001, 2002"
+          },
+          {
+            "course_code": "MUSC2001",
+            "prefix_inferred": true,
+            "evidence": "MUSC1001, 1002, 2001, 2002"
+          },
+          {
+            "course_code": "MUSC2002",
+            "prefix_inferred": true,
+            "evidence": "MUSC1001, 1002, 2001, 2002"
+          },
+          {
+            "course_code": "MUSC2552",
+            "prefix_inferred": false,
+            "evidence": "MUSC2552, 2562, 2872, 2882"
+          },
+          {
+            "course_code": "MUSC2562",
+            "prefix_inferred": true,
+            "evidence": "MUSC2552, 2562, 2872, 2882"
+          },
+          {
+            "course_code": "MUSC2872",
+            "prefix_inferred": true,
+            "evidence": "MUSC2552, 2562, 2872, 2882"
+          },
+          {
+            "course_code": "MUSC2882",
+            "prefix_inferred": true,
+            "evidence": "MUSC2552, 2562, 2872, 2882"
+          },
+          {
+            "course_code": "MUSC1212",
+            "prefix_inferred": false,
+            "evidence": "MUSC1212, 1222, 2252, 2262"
+          },
+          {
+            "course_code": "MUSC1222",
+            "prefix_inferred": true,
+            "evidence": "MUSC1212, 1222, 2252, 2262"
+          },
+          {
+            "course_code": "MUSC2252",
+            "prefix_inferred": true,
+            "evidence": "MUSC1212, 1222, 2252, 2262"
+          },
+          {
+            "course_code": "MUSC2262",
+            "prefix_inferred": true,
+            "evidence": "MUSC1212, 1222, 2252, 2262"
+          },
+          {
+            "course_code": "MUSC3343",
+            "prefix_inferred": false,
+            "evidence": "Supporting courses: MUSC3343, and one course from MUSC3323, 3333, 3373, 3383, 3712, 3722, 3732, 3742"
+          },
+          {
+            "course_code": "MUSC3323",
+            "prefix_inferred": false,
+            "evidence": "Supporting courses: MUSC3343, and one course from MUSC3323, 3333, 3373, 3383, 3712, 3722, 3732, 3742"
+          },
+          {
+            "course_code": "MUSC3333",
+            "prefix_inferred": true,
+            "evidence": "Supporting courses: MUSC3343, and one course from MUSC3323, 3333, 3373, 3383, 3712, 3722, 3732, 3742"
+          },
+          {
+            "course_code": "MUSC3373",
+            "prefix_inferred": true,
+            "evidence": "Supporting courses: MUSC3343, and one course from MUSC3323, 3333, 3373, 3383, 3712, 3722, 3732, 3742"
+          },
+          {
+            "course_code": "MUSC3383",
+            "prefix_inferred": true,
+            "evidence": "Supporting courses: MUSC3343, and one course from MUSC3323, 3333, 3373, 3383, 3712, 3722, 3732, 3742"
+          },
+          {
+            "course_code": "MUSC3712",
+            "prefix_inferred": true,
+            "evidence": "Supporting courses: MUSC3343, and one course from MUSC3323, 3333, 3373, 3383, 3712, 3722, 3732, 3742"
+          },
+          {
+            "course_code": "MUSC3722",
+            "prefix_inferred": true,
+            "evidence": "Supporting courses: MUSC3343, and one course from MUSC3323, 3333, 3373, 3383, 3712, 3722, 3732, 3742"
+          },
+          {
+            "course_code": "MUSC3732",
+            "prefix_inferred": true,
+            "evidence": "Supporting courses: MUSC3343, and one course from MUSC3323, 3333, 3373, 3383, 3712, 3722, 3732, 3742"
+          },
+          {
+            "course_code": "MUSC3742",
+            "prefix_inferred": true,
+            "evidence": "Supporting courses: MUSC3343, and one course from MUSC3323, 3333, 3373, 3383, 3712, 3722, 3732, 3742"
+          },
+          {
+            "course_code": "MUSC3353",
+            "prefix_inferred": false,
+            "evidence": "Capstone courses: MUSC3353, 3363"
+          },
+          {
+            "course_code": "MUSC3363",
+            "prefix_inferred": true,
+            "evidence": "Capstone courses: MUSC3353, 3363"
+          },
+          {
+            "course_code": "MUSC3012",
+            "prefix_inferred": false,
+            "evidence": "Supporting courses: MUSC3012, 3022"
+          },
+          {
+            "course_code": "MUSC3022",
+            "prefix_inferred": true,
+            "evidence": "Supporting courses: MUSC3012, 3022"
+          },
+          {
+            "course_code": "MUSC4000",
+            "prefix_inferred": false,
+            "evidence": "Capstone courses: MUSC4000, 4003"
+          },
+          {
+            "course_code": "MUSC4003",
+            "prefix_inferred": true,
+            "evidence": "Capstone courses: MUSC4000, 4003"
+          },
+          {
+            "course_code": "MUSC4243",
+            "prefix_inferred": false,
+            "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+          },
+          {
+            "course_code": "MUSC3213",
+            "prefix_inferred": false,
+            "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+          },
+          {
+            "course_code": "MUSC3223",
+            "prefix_inferred": true,
+            "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+          },
+          {
+            "course_code": "MUSC3233",
+            "prefix_inferred": true,
+            "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+          },
+          {
+            "course_code": "MUSC3243",
+            "prefix_inferred": true,
+            "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+          },
+          {
+            "course_code": "MUSC3452",
+            "prefix_inferred": true,
+            "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+          },
+          {
+            "course_code": "MUSC3462",
+            "prefix_inferred": true,
+            "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+          },
+          {
+            "course_code": "MUSC3472",
+            "prefix_inferred": true,
+            "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+          },
+          {
+            "course_code": "MUSC3482",
+            "prefix_inferred": true,
+            "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+          },
+          {
+            "course_code": "MUSC3512",
+            "prefix_inferred": true,
+            "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+          },
+          {
+            "course_code": "MUSC3522",
+            "prefix_inferred": true,
+            "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+          },
+          {
+            "course_code": "MUSC3532",
+            "prefix_inferred": true,
+            "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+          },
+          {
+            "course_code": "MUSC3542",
+            "prefix_inferred": true,
+            "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+          },
+          {
+            "course_code": "MUSC3562",
+            "prefix_inferred": true,
+            "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+          },
+          {
+            "course_code": "MUSC3582",
+            "prefix_inferred": true,
+            "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+          },
+          {
+            "course_code": "MUSC3802",
+            "prefix_inferred": true,
+            "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+          },
+          {
+            "course_code": "MUSC3832",
+            "prefix_inferred": true,
+            "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+          },
+          {
+            "course_code": "MUSC3852",
+            "prefix_inferred": true,
+            "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+          },
+          {
+            "course_code": "MUSC3892",
+            "prefix_inferred": true,
+            "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+          },
+          {
+            "course_code": "MUSC3902",
+            "prefix_inferred": true,
+            "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+          },
+          {
+            "course_code": "MUSC4813",
+            "prefix_inferred": false,
+            "evidence": "Capstone courses: MUSC4813, 4823"
+          },
+          {
+            "course_code": "MUSC4823",
+            "prefix_inferred": true,
+            "evidence": "Capstone courses: MUSC4813, 4823"
+          },
+          {
+            "course_code": "MUSC4243",
+            "prefix_inferred": false,
+            "evidence": "Supporting courses: MUSC4243, and one course from MUSC2543, 3502, 3533, 3912, 3922, 3932, 3942"
+          },
+          {
+            "course_code": "MUSC2543",
+            "prefix_inferred": false,
+            "evidence": "Supporting courses: MUSC4243, and one course from MUSC2543, 3502, 3533, 3912, 3922, 3932, 3942"
+          },
+          {
+            "course_code": "MUSC3502",
+            "prefix_inferred": true,
+            "evidence": "Supporting courses: MUSC4243, and one course from MUSC2543, 3502, 3533, 3912, 3922, 3932, 3942"
+          },
+          {
+            "course_code": "MUSC3533",
+            "prefix_inferred": true,
+            "evidence": "Supporting courses: MUSC4243, and one course from MUSC2543, 3502, 3533, 3912, 3922, 3932, 3942"
+          },
+          {
+            "course_code": "MUSC3912",
+            "prefix_inferred": true,
+            "evidence": "Supporting courses: MUSC4243, and one course from MUSC2543, 3502, 3533, 3912, 3922, 3932, 3942"
+          },
+          {
+            "course_code": "MUSC3922",
+            "prefix_inferred": true,
+            "evidence": "Supporting courses: MUSC4243, and one course from MUSC2543, 3502, 3533, 3912, 3922, 3932, 3942"
+          },
+          {
+            "course_code": "MUSC3932",
+            "prefix_inferred": true,
+            "evidence": "Supporting courses: MUSC4243, and one course from MUSC2543, 3502, 3533, 3912, 3922, 3932, 3942"
+          },
+          {
+            "course_code": "MUSC3942",
+            "prefix_inferred": true,
+            "evidence": "Supporting courses: MUSC4243, and one course from MUSC2543, 3502, 3533, 3912, 3922, 3932, 3942"
+          },
+          {
+            "course_code": "MUSC4513",
+            "prefix_inferred": false,
+            "evidence": "Capstone courses: MUSC4513, 4523"
+          },
+          {
+            "course_code": "MUSC4523",
+            "prefix_inferred": true,
+            "evidence": "Capstone courses: MUSC4513, 4523"
+          }
+        ],
+        "raw_text": "(a)\nChoir Training courses\nMUSC1001, 1002, 2001, 2002\n4\n(b)\nApplied Music courses\n[(MUSC1011, 1051) or (MUSC1012)], [(MUSC1021, 1061) or (MUSC1022)], [(MUSC2011, 2051) or (MUSC2012)], [(MUSC2021, 2061) or (MUSC2022)]\n8\n(c)\nMusic, History, and Culture courses\nMUSC2552, 2562, 2872, 2882\n8\n(d)\nTheory, Analysis, and Composition courses\nMUSC1212, 1222, 2252, 2262\n8\n(e)\nStream-specific courses (Students must declare one of the following areas of study)\n(1) Composition\nSupporting courses: MUSC3343, and one course from MUSC3323, 3333, 3373, 3383, 3712, 3722, 3732, 3742\nCapstone courses: MUSC3353, 3363\n(2) Performance\nSupporting courses: MUSC3012, 3022\nCapstone courses: MUSC4000, 4003\n(3) Research\nSupporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902\nCapstone courses: MUSC4813, 4823\n(4) Pedagogy\nSupporting courses: MUSC4243, and one course from MUSC2543, 3502, 3533, 3912, 3922, 3932, 3942\nCapstone courses: MUSC4513, 4523\n10-11[a]"
+      },
+      {
+        "number": 3,
+        "title": "Elective Courses",
+        "units_as_printed": "66",
+        "course_mentions": [],
+        "raw_text": "Any MUSC courses other than the courses taken to fulfill requirement (2) above, with at least one course from Area 3 and two courses from Area 4, and up to six units from Area 2C “Other Ensemble Courses”.\n18-19[a]\nTotal:\n66\nExplanatory Notes:"
+      },
+      {
+        "number": 1,
+        "title": "[a]",
+        "units_as_printed": "3",
+        "course_mentions": [
+          {
+            "course_code": "MUSC1000",
+            "prefix_inferred": false,
+            "evidence": "Faculty Package: MUSC1000 and 1 Faculty Package course"
+          },
+          {
+            "course_code": "MUSC1001",
+            "prefix_inferred": false,
+            "evidence": "Major Required: MUSC1001, 1212, [(MUSC1011, 1051) or (MUSC1012)]"
+          },
+          {
+            "course_code": "MUSC1212",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MUSC1001, 1212, [(MUSC1011, 1051) or (MUSC1012)]"
+          },
+          {
+            "course_code": "MUSC1002",
+            "prefix_inferred": false,
+            "evidence": "Major Required: MUSC1002, 1222, [(MUSC1021, 1061) or (MUSC1022)]"
+          },
+          {
+            "course_code": "MUSC1222",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MUSC1002, 1222, [(MUSC1021, 1061) or (MUSC1022)]"
+          },
+          {
+            "course_code": "MUSC2001",
+            "prefix_inferred": false,
+            "evidence": "Major Required: MUSC2001, 2252, 2552 or 2562, 2872, [(MUSC2011, 2051) or (MUSC2012)]"
+          },
+          {
+            "course_code": "MUSC2252",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MUSC2001, 2252, 2552 or 2562, 2872, [(MUSC2011, 2051) or (MUSC2012)]"
+          },
+          {
+            "course_code": "MUSC2552",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MUSC2001, 2252, 2552 or 2562, 2872, [(MUSC2011, 2051) or (MUSC2012)]"
+          },
+          {
+            "course_code": "MUSC2562",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MUSC2001, 2252, 2552 or 2562, 2872, [(MUSC2011, 2051) or (MUSC2012)]"
+          },
+          {
+            "course_code": "MUSC2872",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MUSC2001, 2252, 2552 or 2562, 2872, [(MUSC2011, 2051) or (MUSC2012)]"
+          },
+          {
+            "course_code": "MUSC2002",
+            "prefix_inferred": false,
+            "evidence": "Major Required: MUSC2002, 2262, 2552 or 2562, 2882, [(MUSC2021, 2061) or (MUSC2022)]"
+          },
+          {
+            "course_code": "MUSC2262",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MUSC2002, 2262, 2552 or 2562, 2882, [(MUSC2021, 2061) or (MUSC2022)]"
+          },
+          {
+            "course_code": "MUSC2552",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MUSC2002, 2262, 2552 or 2562, 2882, [(MUSC2021, 2061) or (MUSC2022)]"
+          },
+          {
+            "course_code": "MUSC2562",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MUSC2002, 2262, 2552 or 2562, 2882, [(MUSC2021, 2061) or (MUSC2022)]"
+          },
+          {
+            "course_code": "MUSC2882",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MUSC2002, 2262, 2552 or 2562, 2882, [(MUSC2021, 2061) or (MUSC2022)]"
+          }
+        ],
+        "raw_text": "MUSC courses at 2000 and above level will be included in the calculation of Major GPA for honours classification.\nStudents specializing in Composition Stream are required to take 11 units of stream-specific courses and 18 units of elective courses, those taking other streams should take 10 units of stream-specific courses and 19 units of elective courses.\n[ ]\nOld course code used in 2024-25 and before.\nRecommended Course Pattern\nUnits\nFirst Year of\nAttendance\n1st term\nFaculty Package: MUSC1000 and 1 Faculty Package course\n3\nMajor Required: MUSC1001, 1212, [(MUSC1011, 1051) or (MUSC1012)]\n5\nMajor Elective(s):\n2nd term\nFaculty Package: 1-2 Faculty Package course(s)\n3-6\nMajor Required: MUSC1002, 1222, [(MUSC1021, 1061) or (MUSC1022)]\n5\nMajor Elective(s): 1 course\n1-2\nSecond Year of Attendance\n1st term\nMajor Required: MUSC2001, 2252, 2552 or 2562, 2872, [(MUSC2011, 2051) or (MUSC2012)]\n9\nMajor Elective(s): 1-2 course(s)\n1-4\n2nd term\nMajor Required: MUSC2002, 2262, 2552 or 2562, 2882, [(MUSC2021, 2061) or (MUSC2022)]\n9\nMajor Elective(s): 1-2 course(s)\n1-4\nThird Year of Attendance\n1st term\nMajor Required: 1-2 course(s)\n2-6\nMajor Elective(s): 2-3 courses\n2-6\n2nd term\nMajor Required: 1-2 course(s)\n2-6\nMajor Elective(s): 2-3 courses\n2-6\nFourth Year of Attendance\n1st term\nMajor Required: 1 course\n3\nMajor Elective(s): 2-3 courses\n2-6\n2nd term\nMajor Required: 1 course\n3\nMajor Elective(s): 2 courses\n2-4\nTotal (including Faculty Package):\n66\nMajor Programme Requirement (for Associate Degree or Higher Diploma holders admitted to senior-year places)\nStudents are required to complete a minimum of 54 units of courses as follows:\nUnits"
+      },
+      {
+        "number": 1,
+        "title": "Faculty Package",
+        "units_as_printed": "3",
+        "course_mentions": [
+          {
+            "course_code": "MUSC1000",
+            "prefix_inferred": false,
+            "evidence": "MUSC1000"
+          }
+        ],
+        "raw_text": "MUSC1000\n3"
+      },
+      {
+        "number": 2,
+        "title": "Required Courses",
+        "units_as_printed": "14",
+        "course_mentions": [
+          {
+            "course_code": "MUSC2252",
+            "prefix_inferred": false,
+            "evidence": "MUSC2252, 2262, 2552, 2562, 2872, 2882, 4243"
+          },
+          {
+            "course_code": "MUSC2262",
+            "prefix_inferred": true,
+            "evidence": "MUSC2252, 2262, 2552, 2562, 2872, 2882, 4243"
+          },
+          {
+            "course_code": "MUSC2552",
+            "prefix_inferred": true,
+            "evidence": "MUSC2252, 2262, 2552, 2562, 2872, 2882, 4243"
+          },
+          {
+            "course_code": "MUSC2562",
+            "prefix_inferred": true,
+            "evidence": "MUSC2252, 2262, 2552, 2562, 2872, 2882, 4243"
+          },
+          {
+            "course_code": "MUSC2872",
+            "prefix_inferred": true,
+            "evidence": "MUSC2252, 2262, 2552, 2562, 2872, 2882, 4243"
+          },
+          {
+            "course_code": "MUSC2882",
+            "prefix_inferred": true,
+            "evidence": "MUSC2252, 2262, 2552, 2562, 2872, 2882, 4243"
+          },
+          {
+            "course_code": "MUSC4243",
+            "prefix_inferred": true,
+            "evidence": "MUSC2252, 2262, 2552, 2562, 2872, 2882, 4243"
+          },
+          {
+            "course_code": "MUSC4513",
+            "prefix_inferred": false,
+            "evidence": "(MUSC4513, 4523) or (MUSC4813, 4823)"
+          },
+          {
+            "course_code": "MUSC4523",
+            "prefix_inferred": true,
+            "evidence": "(MUSC4513, 4523) or (MUSC4813, 4823)"
+          },
+          {
+            "course_code": "MUSC4813",
+            "prefix_inferred": false,
+            "evidence": "(MUSC4513, 4523) or (MUSC4813, 4823)"
+          },
+          {
+            "course_code": "MUSC4823",
+            "prefix_inferred": true,
+            "evidence": "(MUSC4513, 4523) or (MUSC4813, 4823)"
+          }
+        ],
+        "raw_text": "(a)\nMUSC2252, 2262, 2552, 2562, 2872, 2882, 4243\n14\n(b)\n(MUSC4513, 4523) or (MUSC4813, 4823)\n6"
+      },
+      {
+        "number": 3,
+        "title": "Elective Courses",
+        "units_as_printed": "31",
+        "course_mentions": [
+          {
+            "course_code": "MUSC1212",
+            "prefix_inferred": false,
+            "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2) above, excluding: (i) MUSC1212, 1222, 4000, 4003; and (ii) courses in Area 2A. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+          },
+          {
+            "course_code": "MUSC1222",
+            "prefix_inferred": true,
+            "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2) above, excluding: (i) MUSC1212, 1222, 4000, 4003; and (ii) courses in Area 2A. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+          },
+          {
+            "course_code": "MUSC4000",
+            "prefix_inferred": true,
+            "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2) above, excluding: (i) MUSC1212, 1222, 4000, 4003; and (ii) courses in Area 2A. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+          },
+          {
+            "course_code": "MUSC4003",
+            "prefix_inferred": true,
+            "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2) above, excluding: (i) MUSC1212, 1222, 4000, 4003; and (ii) courses in Area 2A. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+          }
+        ],
+        "raw_text": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2) above, excluding: (i) MUSC1212, 1222, 4000, 4003; and (ii) courses in Area 2A. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C.\n31\nTotal:\n54\nExplanatory Note:"
+      },
+      {
+        "number": 1,
+        "title": "Required Courses",
+        "units_as_printed": "7",
+        "course_mentions": [
+          {
+            "course_code": "MUSC1000",
+            "prefix_inferred": false,
+            "evidence": "MUSC1000, 1212, 1222"
+          },
+          {
+            "course_code": "MUSC1212",
+            "prefix_inferred": true,
+            "evidence": "MUSC1000, 1212, 1222"
+          },
+          {
+            "course_code": "MUSC1222",
+            "prefix_inferred": true,
+            "evidence": "MUSC1000, 1212, 1222"
+          }
+        ],
+        "raw_text": "7\nMUSC1000, 1212, 1222"
+      },
+      {
+        "number": 2,
+        "title": "Elective Courses",
+        "units_as_printed": "4",
+        "course_mentions": [
+          {
+            "course_code": "MUSC2252",
+            "prefix_inferred": false,
+            "evidence": "MUSC2252, 2262, 2552, 2562, 2872, 2882"
+          },
+          {
+            "course_code": "MUSC2262",
+            "prefix_inferred": true,
+            "evidence": "MUSC2252, 2262, 2552, 2562, 2872, 2882"
+          },
+          {
+            "course_code": "MUSC2552",
+            "prefix_inferred": true,
+            "evidence": "MUSC2252, 2262, 2552, 2562, 2872, 2882"
+          },
+          {
+            "course_code": "MUSC2562",
+            "prefix_inferred": true,
+            "evidence": "MUSC2252, 2262, 2552, 2562, 2872, 2882"
+          },
+          {
+            "course_code": "MUSC2872",
+            "prefix_inferred": true,
+            "evidence": "MUSC2252, 2262, 2552, 2562, 2872, 2882"
+          },
+          {
+            "course_code": "MUSC2882",
+            "prefix_inferred": true,
+            "evidence": "MUSC2252, 2262, 2552, 2562, 2872, 2882"
+          },
+          {
+            "course_code": "MUSC1012",
+            "prefix_inferred": false,
+            "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2a) above, excluding MUSC1012, 1022, 1051, 1061, 2012, 2022, 2051, 2061, 3012, 3022, 3051, 3061, 4000, 4003, 4012, 4022, 4051, 4061. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+          },
+          {
+            "course_code": "MUSC1022",
+            "prefix_inferred": true,
+            "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2a) above, excluding MUSC1012, 1022, 1051, 1061, 2012, 2022, 2051, 2061, 3012, 3022, 3051, 3061, 4000, 4003, 4012, 4022, 4051, 4061. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+          },
+          {
+            "course_code": "MUSC1051",
+            "prefix_inferred": true,
+            "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2a) above, excluding MUSC1012, 1022, 1051, 1061, 2012, 2022, 2051, 2061, 3012, 3022, 3051, 3061, 4000, 4003, 4012, 4022, 4051, 4061. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+          },
+          {
+            "course_code": "MUSC1061",
+            "prefix_inferred": true,
+            "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2a) above, excluding MUSC1012, 1022, 1051, 1061, 2012, 2022, 2051, 2061, 3012, 3022, 3051, 3061, 4000, 4003, 4012, 4022, 4051, 4061. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+          },
+          {
+            "course_code": "MUSC2012",
+            "prefix_inferred": true,
+            "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2a) above, excluding MUSC1012, 1022, 1051, 1061, 2012, 2022, 2051, 2061, 3012, 3022, 3051, 3061, 4000, 4003, 4012, 4022, 4051, 4061. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+          },
+          {
+            "course_code": "MUSC2022",
+            "prefix_inferred": true,
+            "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2a) above, excluding MUSC1012, 1022, 1051, 1061, 2012, 2022, 2051, 2061, 3012, 3022, 3051, 3061, 4000, 4003, 4012, 4022, 4051, 4061. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+          },
+          {
+            "course_code": "MUSC2051",
+            "prefix_inferred": true,
+            "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2a) above, excluding MUSC1012, 1022, 1051, 1061, 2012, 2022, 2051, 2061, 3012, 3022, 3051, 3061, 4000, 4003, 4012, 4022, 4051, 4061. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+          },
+          {
+            "course_code": "MUSC2061",
+            "prefix_inferred": true,
+            "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2a) above, excluding MUSC1012, 1022, 1051, 1061, 2012, 2022, 2051, 2061, 3012, 3022, 3051, 3061, 4000, 4003, 4012, 4022, 4051, 4061. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+          },
+          {
+            "course_code": "MUSC3012",
+            "prefix_inferred": true,
+            "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2a) above, excluding MUSC1012, 1022, 1051, 1061, 2012, 2022, 2051, 2061, 3012, 3022, 3051, 3061, 4000, 4003, 4012, 4022, 4051, 4061. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+          },
+          {
+            "course_code": "MUSC3022",
+            "prefix_inferred": true,
+            "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2a) above, excluding MUSC1012, 1022, 1051, 1061, 2012, 2022, 2051, 2061, 3012, 3022, 3051, 3061, 4000, 4003, 4012, 4022, 4051, 4061. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+          },
+          {
+            "course_code": "MUSC3051",
+            "prefix_inferred": true,
+            "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2a) above, excluding MUSC1012, 1022, 1051, 1061, 2012, 2022, 2051, 2061, 3012, 3022, 3051, 3061, 4000, 4003, 4012, 4022, 4051, 4061. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+          },
+          {
+            "course_code": "MUSC3061",
+            "prefix_inferred": true,
+            "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2a) above, excluding MUSC1012, 1022, 1051, 1061, 2012, 2022, 2051, 2061, 3012, 3022, 3051, 3061, 4000, 4003, 4012, 4022, 4051, 4061. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+          },
+          {
+            "course_code": "MUSC4000",
+            "prefix_inferred": true,
+            "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2a) above, excluding MUSC1012, 1022, 1051, 1061, 2012, 2022, 2051, 2061, 3012, 3022, 3051, 3061, 4000, 4003, 4012, 4022, 4051, 4061. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+          },
+          {
+            "course_code": "MUSC4003",
+            "prefix_inferred": true,
+            "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2a) above, excluding MUSC1012, 1022, 1051, 1061, 2012, 2022, 2051, 2061, 3012, 3022, 3051, 3061, 4000, 4003, 4012, 4022, 4051, 4061. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+          },
+          {
+            "course_code": "MUSC4012",
+            "prefix_inferred": true,
+            "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2a) above, excluding MUSC1012, 1022, 1051, 1061, 2012, 2022, 2051, 2061, 3012, 3022, 3051, 3061, 4000, 4003, 4012, 4022, 4051, 4061. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+          },
+          {
+            "course_code": "MUSC4022",
+            "prefix_inferred": true,
+            "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2a) above, excluding MUSC1012, 1022, 1051, 1061, 2012, 2022, 2051, 2061, 3012, 3022, 3051, 3061, 4000, 4003, 4012, 4022, 4051, 4061. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+          },
+          {
+            "course_code": "MUSC4051",
+            "prefix_inferred": true,
+            "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2a) above, excluding MUSC1012, 1022, 1051, 1061, 2012, 2022, 2051, 2061, 3012, 3022, 3051, 3061, 4000, 4003, 4012, 4022, 4051, 4061. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+          },
+          {
+            "course_code": "MUSC4061",
+            "prefix_inferred": true,
+            "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2a) above, excluding MUSC1012, 1022, 1051, 1061, 2012, 2022, 2051, 2061, 3012, 3022, 3051, 3061, 4000, 4003, 4012, 4022, 4051, 4061. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+          }
+        ],
+        "raw_text": "(a)\nAny 4 units from the following courses:\nMUSC2252, 2262, 2552, 2562, 2872, 2882\n4\n(b)\nAny MUSC courses other than the courses taken to fulfill requirement (1) and (2a) above, excluding MUSC1012, 1022, 1051, 1061, 2012, 2022, 2051, 2061, 3012, 3022, 3051, 3061, 4000, 4003, 4012, 4022, 4051, 4061. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C.\n7\nTotal:\n18\nExplanatory Note:"
+      },
+      {
+        "number": 1,
+        "title": "Major Programme",
+        "units_as_printed": null,
+        "course_mentions": [],
+        "raw_text": "Knowledge Outcomes (Content):\nGraduates will have possessed fundamental/core/inter-disciplinary knowledge of music, including the following:\n(1) music theory, (2) contextual study of music (ethnomusicological, historical, etc.), (3) performance on a major instrument, (4) multiple musical traditions.\nSkills Outcomes:\nGeneric Competencies/Transferable Skills:\nGraduates will have acquired transferable generic skills, including: (1) ability to work independently and in groups, (2) ability to express themselves clearly in written and spoken English and Chinese, (3) ability to think creatively and critically.\nProfessional Skills:\nGraduates will have gained a good mastery of the following professional skills: (1) ability to express themselves about music in written and spoken Chinese and English, (2) ability to make evidence-based critical judgments about musical performance, composition, and musical culture, (3) ability to perform at an appropriate professional level on their major instrument.\nAttitude/Value Outcomes\nGraduates will have developed a positive attitude towards issues concerning music, including the following: (1) awareness of and open-minded attitude toward different modes of musical expression, (2) passion for communicating through music, and (3) awareness of and appreciation for the significance of music within all societies."
+      },
+      {
+        "number": 2,
+        "title": "Minor Programme",
+        "units_as_printed": null,
+        "course_mentions": [],
+        "raw_text": "Upon the completion of the Minor Programme, students will have demonstrated basic understanding of fundamental issues related to the subject, acquired knowledge of some aspects of the subject with sufficient exposure and at a suitable level to allow further study in this subject or related subjects or to pursue a related career."
+      }
+    ]
+  },
+  "all_course_mentions": [
+    {
+      "course_code": "MUSC1000",
+      "prefix_inferred": false,
+      "evidence": "MUSC1000 and any two courses from"
+    },
+    {
+      "course_code": "ANTH1020",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "ARTS1005",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "ARTS1009",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "ARTS1010",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "BMBL1001",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CHES1101",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CHES1102",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CHLL1900",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CHLL1902",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CHLL1903",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CURE1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CURE1110",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CURE1400",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "ENGE1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "FAAS1900",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "HIST1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "HIST1700",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "HIST1701",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "JASP1090",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "LING1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "PHIL1110",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "THEO1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "TRAN1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "MUSC1001",
+      "prefix_inferred": false,
+      "evidence": "MUSC1001, 1002, 2001, 2002"
+    },
+    {
+      "course_code": "MUSC1002",
+      "prefix_inferred": true,
+      "evidence": "MUSC1001, 1002, 2001, 2002"
+    },
+    {
+      "course_code": "MUSC2001",
+      "prefix_inferred": true,
+      "evidence": "MUSC1001, 1002, 2001, 2002"
+    },
+    {
+      "course_code": "MUSC2002",
+      "prefix_inferred": true,
+      "evidence": "MUSC1001, 1002, 2001, 2002"
+    },
+    {
+      "course_code": "MUSC2552",
+      "prefix_inferred": false,
+      "evidence": "MUSC2552, 2562, 2872, 2882"
+    },
+    {
+      "course_code": "MUSC2562",
+      "prefix_inferred": true,
+      "evidence": "MUSC2552, 2562, 2872, 2882"
+    },
+    {
+      "course_code": "MUSC2872",
+      "prefix_inferred": true,
+      "evidence": "MUSC2552, 2562, 2872, 2882"
+    },
+    {
+      "course_code": "MUSC2882",
+      "prefix_inferred": true,
+      "evidence": "MUSC2552, 2562, 2872, 2882"
+    },
+    {
+      "course_code": "MUSC1212",
+      "prefix_inferred": false,
+      "evidence": "MUSC1212, 1222, 2252, 2262"
+    },
+    {
+      "course_code": "MUSC1222",
+      "prefix_inferred": true,
+      "evidence": "MUSC1212, 1222, 2252, 2262"
+    },
+    {
+      "course_code": "MUSC2252",
+      "prefix_inferred": true,
+      "evidence": "MUSC1212, 1222, 2252, 2262"
+    },
+    {
+      "course_code": "MUSC2262",
+      "prefix_inferred": true,
+      "evidence": "MUSC1212, 1222, 2252, 2262"
+    },
+    {
+      "course_code": "MUSC3343",
+      "prefix_inferred": false,
+      "evidence": "Supporting courses: MUSC3343, and one course from MUSC3323, 3333, 3373, 3383, 3712, 3722, 3732, 3742"
+    },
+    {
+      "course_code": "MUSC3323",
+      "prefix_inferred": false,
+      "evidence": "Supporting courses: MUSC3343, and one course from MUSC3323, 3333, 3373, 3383, 3712, 3722, 3732, 3742"
+    },
+    {
+      "course_code": "MUSC3333",
+      "prefix_inferred": true,
+      "evidence": "Supporting courses: MUSC3343, and one course from MUSC3323, 3333, 3373, 3383, 3712, 3722, 3732, 3742"
+    },
+    {
+      "course_code": "MUSC3373",
+      "prefix_inferred": true,
+      "evidence": "Supporting courses: MUSC3343, and one course from MUSC3323, 3333, 3373, 3383, 3712, 3722, 3732, 3742"
+    },
+    {
+      "course_code": "MUSC3383",
+      "prefix_inferred": true,
+      "evidence": "Supporting courses: MUSC3343, and one course from MUSC3323, 3333, 3373, 3383, 3712, 3722, 3732, 3742"
+    },
+    {
+      "course_code": "MUSC3712",
+      "prefix_inferred": true,
+      "evidence": "Supporting courses: MUSC3343, and one course from MUSC3323, 3333, 3373, 3383, 3712, 3722, 3732, 3742"
+    },
+    {
+      "course_code": "MUSC3722",
+      "prefix_inferred": true,
+      "evidence": "Supporting courses: MUSC3343, and one course from MUSC3323, 3333, 3373, 3383, 3712, 3722, 3732, 3742"
+    },
+    {
+      "course_code": "MUSC3732",
+      "prefix_inferred": true,
+      "evidence": "Supporting courses: MUSC3343, and one course from MUSC3323, 3333, 3373, 3383, 3712, 3722, 3732, 3742"
+    },
+    {
+      "course_code": "MUSC3742",
+      "prefix_inferred": true,
+      "evidence": "Supporting courses: MUSC3343, and one course from MUSC3323, 3333, 3373, 3383, 3712, 3722, 3732, 3742"
+    },
+    {
+      "course_code": "MUSC3353",
+      "prefix_inferred": false,
+      "evidence": "Capstone courses: MUSC3353, 3363"
+    },
+    {
+      "course_code": "MUSC3363",
+      "prefix_inferred": true,
+      "evidence": "Capstone courses: MUSC3353, 3363"
+    },
+    {
+      "course_code": "MUSC3012",
+      "prefix_inferred": false,
+      "evidence": "Supporting courses: MUSC3012, 3022"
+    },
+    {
+      "course_code": "MUSC3022",
+      "prefix_inferred": true,
+      "evidence": "Supporting courses: MUSC3012, 3022"
+    },
+    {
+      "course_code": "MUSC4000",
+      "prefix_inferred": false,
+      "evidence": "Capstone courses: MUSC4000, 4003"
+    },
+    {
+      "course_code": "MUSC4003",
+      "prefix_inferred": true,
+      "evidence": "Capstone courses: MUSC4000, 4003"
+    },
+    {
+      "course_code": "MUSC4243",
+      "prefix_inferred": false,
+      "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+    },
+    {
+      "course_code": "MUSC3213",
+      "prefix_inferred": false,
+      "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+    },
+    {
+      "course_code": "MUSC3223",
+      "prefix_inferred": true,
+      "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+    },
+    {
+      "course_code": "MUSC3233",
+      "prefix_inferred": true,
+      "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+    },
+    {
+      "course_code": "MUSC3243",
+      "prefix_inferred": true,
+      "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+    },
+    {
+      "course_code": "MUSC3452",
+      "prefix_inferred": true,
+      "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+    },
+    {
+      "course_code": "MUSC3462",
+      "prefix_inferred": true,
+      "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+    },
+    {
+      "course_code": "MUSC3472",
+      "prefix_inferred": true,
+      "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+    },
+    {
+      "course_code": "MUSC3482",
+      "prefix_inferred": true,
+      "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+    },
+    {
+      "course_code": "MUSC3512",
+      "prefix_inferred": true,
+      "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+    },
+    {
+      "course_code": "MUSC3522",
+      "prefix_inferred": true,
+      "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+    },
+    {
+      "course_code": "MUSC3532",
+      "prefix_inferred": true,
+      "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+    },
+    {
+      "course_code": "MUSC3542",
+      "prefix_inferred": true,
+      "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+    },
+    {
+      "course_code": "MUSC3562",
+      "prefix_inferred": true,
+      "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+    },
+    {
+      "course_code": "MUSC3582",
+      "prefix_inferred": true,
+      "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+    },
+    {
+      "course_code": "MUSC3802",
+      "prefix_inferred": true,
+      "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+    },
+    {
+      "course_code": "MUSC3832",
+      "prefix_inferred": true,
+      "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+    },
+    {
+      "course_code": "MUSC3852",
+      "prefix_inferred": true,
+      "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+    },
+    {
+      "course_code": "MUSC3892",
+      "prefix_inferred": true,
+      "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+    },
+    {
+      "course_code": "MUSC3902",
+      "prefix_inferred": true,
+      "evidence": "Supporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902"
+    },
+    {
+      "course_code": "MUSC4813",
+      "prefix_inferred": false,
+      "evidence": "Capstone courses: MUSC4813, 4823"
+    },
+    {
+      "course_code": "MUSC4823",
+      "prefix_inferred": true,
+      "evidence": "Capstone courses: MUSC4813, 4823"
+    },
+    {
+      "course_code": "MUSC4243",
+      "prefix_inferred": false,
+      "evidence": "Supporting courses: MUSC4243, and one course from MUSC2543, 3502, 3533, 3912, 3922, 3932, 3942"
+    },
+    {
+      "course_code": "MUSC2543",
+      "prefix_inferred": false,
+      "evidence": "Supporting courses: MUSC4243, and one course from MUSC2543, 3502, 3533, 3912, 3922, 3932, 3942"
+    },
+    {
+      "course_code": "MUSC3502",
+      "prefix_inferred": true,
+      "evidence": "Supporting courses: MUSC4243, and one course from MUSC2543, 3502, 3533, 3912, 3922, 3932, 3942"
+    },
+    {
+      "course_code": "MUSC3533",
+      "prefix_inferred": true,
+      "evidence": "Supporting courses: MUSC4243, and one course from MUSC2543, 3502, 3533, 3912, 3922, 3932, 3942"
+    },
+    {
+      "course_code": "MUSC3912",
+      "prefix_inferred": true,
+      "evidence": "Supporting courses: MUSC4243, and one course from MUSC2543, 3502, 3533, 3912, 3922, 3932, 3942"
+    },
+    {
+      "course_code": "MUSC3922",
+      "prefix_inferred": true,
+      "evidence": "Supporting courses: MUSC4243, and one course from MUSC2543, 3502, 3533, 3912, 3922, 3932, 3942"
+    },
+    {
+      "course_code": "MUSC3932",
+      "prefix_inferred": true,
+      "evidence": "Supporting courses: MUSC4243, and one course from MUSC2543, 3502, 3533, 3912, 3922, 3932, 3942"
+    },
+    {
+      "course_code": "MUSC3942",
+      "prefix_inferred": true,
+      "evidence": "Supporting courses: MUSC4243, and one course from MUSC2543, 3502, 3533, 3912, 3922, 3932, 3942"
+    },
+    {
+      "course_code": "MUSC4513",
+      "prefix_inferred": false,
+      "evidence": "Capstone courses: MUSC4513, 4523"
+    },
+    {
+      "course_code": "MUSC4523",
+      "prefix_inferred": true,
+      "evidence": "Capstone courses: MUSC4513, 4523"
+    },
+    {
+      "course_code": "MUSC1000",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: MUSC1000 and 1 Faculty Package course"
+    },
+    {
+      "course_code": "MUSC1001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MUSC1001, 1212, [(MUSC1011, 1051) or (MUSC1012)]"
+    },
+    {
+      "course_code": "MUSC1212",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MUSC1001, 1212, [(MUSC1011, 1051) or (MUSC1012)]"
+    },
+    {
+      "course_code": "MUSC1002",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MUSC1002, 1222, [(MUSC1021, 1061) or (MUSC1022)]"
+    },
+    {
+      "course_code": "MUSC1222",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MUSC1002, 1222, [(MUSC1021, 1061) or (MUSC1022)]"
+    },
+    {
+      "course_code": "MUSC2001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MUSC2001, 2252, 2552 or 2562, 2872, [(MUSC2011, 2051) or (MUSC2012)]"
+    },
+    {
+      "course_code": "MUSC2252",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MUSC2001, 2252, 2552 or 2562, 2872, [(MUSC2011, 2051) or (MUSC2012)]"
+    },
+    {
+      "course_code": "MUSC2552",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MUSC2001, 2252, 2552 or 2562, 2872, [(MUSC2011, 2051) or (MUSC2012)]"
+    },
+    {
+      "course_code": "MUSC2562",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MUSC2001, 2252, 2552 or 2562, 2872, [(MUSC2011, 2051) or (MUSC2012)]"
+    },
+    {
+      "course_code": "MUSC2872",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MUSC2001, 2252, 2552 or 2562, 2872, [(MUSC2011, 2051) or (MUSC2012)]"
+    },
+    {
+      "course_code": "MUSC2002",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MUSC2002, 2262, 2552 or 2562, 2882, [(MUSC2021, 2061) or (MUSC2022)]"
+    },
+    {
+      "course_code": "MUSC2262",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MUSC2002, 2262, 2552 or 2562, 2882, [(MUSC2021, 2061) or (MUSC2022)]"
+    },
+    {
+      "course_code": "MUSC2552",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MUSC2002, 2262, 2552 or 2562, 2882, [(MUSC2021, 2061) or (MUSC2022)]"
+    },
+    {
+      "course_code": "MUSC2562",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MUSC2002, 2262, 2552 or 2562, 2882, [(MUSC2021, 2061) or (MUSC2022)]"
+    },
+    {
+      "course_code": "MUSC2882",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MUSC2002, 2262, 2552 or 2562, 2882, [(MUSC2021, 2061) or (MUSC2022)]"
+    },
+    {
+      "course_code": "MUSC1000",
+      "prefix_inferred": false,
+      "evidence": "MUSC1000"
+    },
+    {
+      "course_code": "MUSC2252",
+      "prefix_inferred": false,
+      "evidence": "MUSC2252, 2262, 2552, 2562, 2872, 2882, 4243"
+    },
+    {
+      "course_code": "MUSC2262",
+      "prefix_inferred": true,
+      "evidence": "MUSC2252, 2262, 2552, 2562, 2872, 2882, 4243"
+    },
+    {
+      "course_code": "MUSC2552",
+      "prefix_inferred": true,
+      "evidence": "MUSC2252, 2262, 2552, 2562, 2872, 2882, 4243"
+    },
+    {
+      "course_code": "MUSC2562",
+      "prefix_inferred": true,
+      "evidence": "MUSC2252, 2262, 2552, 2562, 2872, 2882, 4243"
+    },
+    {
+      "course_code": "MUSC2872",
+      "prefix_inferred": true,
+      "evidence": "MUSC2252, 2262, 2552, 2562, 2872, 2882, 4243"
+    },
+    {
+      "course_code": "MUSC2882",
+      "prefix_inferred": true,
+      "evidence": "MUSC2252, 2262, 2552, 2562, 2872, 2882, 4243"
+    },
+    {
+      "course_code": "MUSC4243",
+      "prefix_inferred": true,
+      "evidence": "MUSC2252, 2262, 2552, 2562, 2872, 2882, 4243"
+    },
+    {
+      "course_code": "MUSC4513",
+      "prefix_inferred": false,
+      "evidence": "(MUSC4513, 4523) or (MUSC4813, 4823)"
+    },
+    {
+      "course_code": "MUSC4523",
+      "prefix_inferred": true,
+      "evidence": "(MUSC4513, 4523) or (MUSC4813, 4823)"
+    },
+    {
+      "course_code": "MUSC4813",
+      "prefix_inferred": false,
+      "evidence": "(MUSC4513, 4523) or (MUSC4813, 4823)"
+    },
+    {
+      "course_code": "MUSC4823",
+      "prefix_inferred": true,
+      "evidence": "(MUSC4513, 4523) or (MUSC4813, 4823)"
+    },
+    {
+      "course_code": "MUSC1212",
+      "prefix_inferred": false,
+      "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2) above, excluding: (i) MUSC1212, 1222, 4000, 4003; and (ii) courses in Area 2A. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+    },
+    {
+      "course_code": "MUSC1222",
+      "prefix_inferred": true,
+      "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2) above, excluding: (i) MUSC1212, 1222, 4000, 4003; and (ii) courses in Area 2A. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+    },
+    {
+      "course_code": "MUSC4000",
+      "prefix_inferred": true,
+      "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2) above, excluding: (i) MUSC1212, 1222, 4000, 4003; and (ii) courses in Area 2A. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+    },
+    {
+      "course_code": "MUSC4003",
+      "prefix_inferred": true,
+      "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2) above, excluding: (i) MUSC1212, 1222, 4000, 4003; and (ii) courses in Area 2A. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+    },
+    {
+      "course_code": "MUSC1000",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: MUSC1000"
+    },
+    {
+      "course_code": "MUSC2252",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MUSC2252, 2552 or 2562, 2872"
+    },
+    {
+      "course_code": "MUSC2552",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MUSC2252, 2552 or 2562, 2872"
+    },
+    {
+      "course_code": "MUSC2562",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MUSC2252, 2552 or 2562, 2872"
+    },
+    {
+      "course_code": "MUSC2872",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MUSC2252, 2552 or 2562, 2872"
+    },
+    {
+      "course_code": "MUSC2262",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MUSC2262, 2552 or 2562, 2882, 4243"
+    },
+    {
+      "course_code": "MUSC2552",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MUSC2262, 2552 or 2562, 2882, 4243"
+    },
+    {
+      "course_code": "MUSC2562",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MUSC2262, 2552 or 2562, 2882, 4243"
+    },
+    {
+      "course_code": "MUSC2882",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MUSC2262, 2552 or 2562, 2882, 4243"
+    },
+    {
+      "course_code": "MUSC4243",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MUSC2262, 2552 or 2562, 2882, 4243"
+    },
+    {
+      "course_code": "MUSC4513",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MUSC4513 or 4813"
+    },
+    {
+      "course_code": "MUSC4813",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MUSC4513 or 4813"
+    },
+    {
+      "course_code": "MUSC4523",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MUSC4523 or 4823"
+    },
+    {
+      "course_code": "MUSC4823",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MUSC4523 or 4823"
+    },
+    {
+      "course_code": "MUSC1000",
+      "prefix_inferred": false,
+      "evidence": "MUSC1000, 1212, 1222"
+    },
+    {
+      "course_code": "MUSC1212",
+      "prefix_inferred": true,
+      "evidence": "MUSC1000, 1212, 1222"
+    },
+    {
+      "course_code": "MUSC1222",
+      "prefix_inferred": true,
+      "evidence": "MUSC1000, 1212, 1222"
+    },
+    {
+      "course_code": "MUSC2252",
+      "prefix_inferred": false,
+      "evidence": "MUSC2252, 2262, 2552, 2562, 2872, 2882"
+    },
+    {
+      "course_code": "MUSC2262",
+      "prefix_inferred": true,
+      "evidence": "MUSC2252, 2262, 2552, 2562, 2872, 2882"
+    },
+    {
+      "course_code": "MUSC2552",
+      "prefix_inferred": true,
+      "evidence": "MUSC2252, 2262, 2552, 2562, 2872, 2882"
+    },
+    {
+      "course_code": "MUSC2562",
+      "prefix_inferred": true,
+      "evidence": "MUSC2252, 2262, 2552, 2562, 2872, 2882"
+    },
+    {
+      "course_code": "MUSC2872",
+      "prefix_inferred": true,
+      "evidence": "MUSC2252, 2262, 2552, 2562, 2872, 2882"
+    },
+    {
+      "course_code": "MUSC2882",
+      "prefix_inferred": true,
+      "evidence": "MUSC2252, 2262, 2552, 2562, 2872, 2882"
+    },
+    {
+      "course_code": "MUSC1012",
+      "prefix_inferred": false,
+      "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2a) above, excluding MUSC1012, 1022, 1051, 1061, 2012, 2022, 2051, 2061, 3012, 3022, 3051, 3061, 4000, 4003, 4012, 4022, 4051, 4061. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+    },
+    {
+      "course_code": "MUSC1022",
+      "prefix_inferred": true,
+      "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2a) above, excluding MUSC1012, 1022, 1051, 1061, 2012, 2022, 2051, 2061, 3012, 3022, 3051, 3061, 4000, 4003, 4012, 4022, 4051, 4061. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+    },
+    {
+      "course_code": "MUSC1051",
+      "prefix_inferred": true,
+      "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2a) above, excluding MUSC1012, 1022, 1051, 1061, 2012, 2022, 2051, 2061, 3012, 3022, 3051, 3061, 4000, 4003, 4012, 4022, 4051, 4061. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+    },
+    {
+      "course_code": "MUSC1061",
+      "prefix_inferred": true,
+      "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2a) above, excluding MUSC1012, 1022, 1051, 1061, 2012, 2022, 2051, 2061, 3012, 3022, 3051, 3061, 4000, 4003, 4012, 4022, 4051, 4061. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+    },
+    {
+      "course_code": "MUSC2012",
+      "prefix_inferred": true,
+      "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2a) above, excluding MUSC1012, 1022, 1051, 1061, 2012, 2022, 2051, 2061, 3012, 3022, 3051, 3061, 4000, 4003, 4012, 4022, 4051, 4061. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+    },
+    {
+      "course_code": "MUSC2022",
+      "prefix_inferred": true,
+      "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2a) above, excluding MUSC1012, 1022, 1051, 1061, 2012, 2022, 2051, 2061, 3012, 3022, 3051, 3061, 4000, 4003, 4012, 4022, 4051, 4061. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+    },
+    {
+      "course_code": "MUSC2051",
+      "prefix_inferred": true,
+      "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2a) above, excluding MUSC1012, 1022, 1051, 1061, 2012, 2022, 2051, 2061, 3012, 3022, 3051, 3061, 4000, 4003, 4012, 4022, 4051, 4061. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+    },
+    {
+      "course_code": "MUSC2061",
+      "prefix_inferred": true,
+      "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2a) above, excluding MUSC1012, 1022, 1051, 1061, 2012, 2022, 2051, 2061, 3012, 3022, 3051, 3061, 4000, 4003, 4012, 4022, 4051, 4061. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+    },
+    {
+      "course_code": "MUSC3012",
+      "prefix_inferred": true,
+      "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2a) above, excluding MUSC1012, 1022, 1051, 1061, 2012, 2022, 2051, 2061, 3012, 3022, 3051, 3061, 4000, 4003, 4012, 4022, 4051, 4061. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+    },
+    {
+      "course_code": "MUSC3022",
+      "prefix_inferred": true,
+      "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2a) above, excluding MUSC1012, 1022, 1051, 1061, 2012, 2022, 2051, 2061, 3012, 3022, 3051, 3061, 4000, 4003, 4012, 4022, 4051, 4061. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+    },
+    {
+      "course_code": "MUSC3051",
+      "prefix_inferred": true,
+      "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2a) above, excluding MUSC1012, 1022, 1051, 1061, 2012, 2022, 2051, 2061, 3012, 3022, 3051, 3061, 4000, 4003, 4012, 4022, 4051, 4061. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+    },
+    {
+      "course_code": "MUSC3061",
+      "prefix_inferred": true,
+      "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2a) above, excluding MUSC1012, 1022, 1051, 1061, 2012, 2022, 2051, 2061, 3012, 3022, 3051, 3061, 4000, 4003, 4012, 4022, 4051, 4061. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+    },
+    {
+      "course_code": "MUSC4000",
+      "prefix_inferred": true,
+      "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2a) above, excluding MUSC1012, 1022, 1051, 1061, 2012, 2022, 2051, 2061, 3012, 3022, 3051, 3061, 4000, 4003, 4012, 4022, 4051, 4061. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+    },
+    {
+      "course_code": "MUSC4003",
+      "prefix_inferred": true,
+      "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2a) above, excluding MUSC1012, 1022, 1051, 1061, 2012, 2022, 2051, 2061, 3012, 3022, 3051, 3061, 4000, 4003, 4012, 4022, 4051, 4061. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+    },
+    {
+      "course_code": "MUSC4012",
+      "prefix_inferred": true,
+      "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2a) above, excluding MUSC1012, 1022, 1051, 1061, 2012, 2022, 2051, 2061, 3012, 3022, 3051, 3061, 4000, 4003, 4012, 4022, 4051, 4061. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+    },
+    {
+      "course_code": "MUSC4022",
+      "prefix_inferred": true,
+      "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2a) above, excluding MUSC1012, 1022, 1051, 1061, 2012, 2022, 2051, 2061, 3012, 3022, 3051, 3061, 4000, 4003, 4012, 4022, 4051, 4061. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+    },
+    {
+      "course_code": "MUSC4051",
+      "prefix_inferred": true,
+      "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2a) above, excluding MUSC1012, 1022, 1051, 1061, 2012, 2022, 2051, 2061, 3012, 3022, 3051, 3061, 4000, 4003, 4012, 4022, 4051, 4061. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+    },
+    {
+      "course_code": "MUSC4061",
+      "prefix_inferred": true,
+      "evidence": "Any MUSC courses other than the courses taken to fulfill requirement (1) and (2a) above, excluding MUSC1012, 1022, 1051, 1061, 2012, 2022, 2051, 2061, 3012, 3022, 3051, 3061, 4000, 4003, 4012, 4022, 4051, 4061. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C."
+    },
+    {
+      "course_code": "MUSC1212",
+      "prefix_inferred": false,
+      "evidence": "MUSC1212"
+    },
+    {
+      "course_code": "MUSC1222",
+      "prefix_inferred": false,
+      "evidence": "MUSC1222"
+    },
+    {
+      "course_code": "MUSC2252",
+      "prefix_inferred": false,
+      "evidence": "MUSC2252"
+    },
+    {
+      "course_code": "MUSC2262",
+      "prefix_inferred": false,
+      "evidence": "MUSC2262"
+    },
+    {
+      "course_code": "MUSC2552",
+      "prefix_inferred": false,
+      "evidence": "MUSC2552"
+    },
+    {
+      "course_code": "MUSC2562",
+      "prefix_inferred": false,
+      "evidence": "MUSC2562"
+    },
+    {
+      "course_code": "MUSC2872",
+      "prefix_inferred": false,
+      "evidence": "MUSC2872"
+    },
+    {
+      "course_code": "MUSC2882",
+      "prefix_inferred": false,
+      "evidence": "MUSC2882"
+    },
+    {
+      "course_code": "MUSC1011",
+      "prefix_inferred": false,
+      "evidence": "MUSC1011"
+    },
+    {
+      "course_code": "MUSC1021",
+      "prefix_inferred": false,
+      "evidence": "MUSC1021"
+    },
+    {
+      "course_code": "MUSC2011",
+      "prefix_inferred": false,
+      "evidence": "MUSC2011"
+    },
+    {
+      "course_code": "MUSC2021",
+      "prefix_inferred": false,
+      "evidence": "MUSC2021"
+    },
+    {
+      "course_code": "MUSC3011",
+      "prefix_inferred": false,
+      "evidence": "MUSC3011"
+    },
+    {
+      "course_code": "MUSC3021",
+      "prefix_inferred": false,
+      "evidence": "MUSC3021"
+    },
+    {
+      "course_code": "MUSC4011",
+      "prefix_inferred": false,
+      "evidence": "MUSC4011"
+    },
+    {
+      "course_code": "MUSC4021",
+      "prefix_inferred": false,
+      "evidence": "MUSC4021"
+    },
+    {
+      "course_code": "MUSC1051",
+      "prefix_inferred": false,
+      "evidence": "MUSC1051"
+    },
+    {
+      "course_code": "MUSC1061",
+      "prefix_inferred": false,
+      "evidence": "MUSC1061"
+    },
+    {
+      "course_code": "MUSC2051",
+      "prefix_inferred": false,
+      "evidence": "MUSC2051"
+    },
+    {
+      "course_code": "MUSC2061",
+      "prefix_inferred": false,
+      "evidence": "MUSC2061"
+    },
+    {
+      "course_code": "MUSC3051",
+      "prefix_inferred": false,
+      "evidence": "MUSC3051"
+    },
+    {
+      "course_code": "MUSC3061",
+      "prefix_inferred": false,
+      "evidence": "MUSC3061"
+    },
+    {
+      "course_code": "MUSC4051",
+      "prefix_inferred": false,
+      "evidence": "MUSC4051"
+    },
+    {
+      "course_code": "MUSC4061",
+      "prefix_inferred": false,
+      "evidence": "MUSC4061"
+    },
+    {
+      "course_code": "MUSC1012",
+      "prefix_inferred": false,
+      "evidence": "MUSC1012"
+    },
+    {
+      "course_code": "MUSC1022",
+      "prefix_inferred": false,
+      "evidence": "MUSC1022"
+    },
+    {
+      "course_code": "MUSC2012",
+      "prefix_inferred": false,
+      "evidence": "MUSC2012"
+    },
+    {
+      "course_code": "MUSC2022",
+      "prefix_inferred": false,
+      "evidence": "MUSC2022"
+    },
+    {
+      "course_code": "MUSC3012",
+      "prefix_inferred": false,
+      "evidence": "MUSC3012"
+    },
+    {
+      "course_code": "MUSC3022",
+      "prefix_inferred": false,
+      "evidence": "MUSC3022"
+    },
+    {
+      "course_code": "MUSC4012",
+      "prefix_inferred": false,
+      "evidence": "MUSC4012"
+    },
+    {
+      "course_code": "MUSC4022",
+      "prefix_inferred": false,
+      "evidence": "MUSC4022"
+    },
+    {
+      "course_code": "MUSC1001",
+      "prefix_inferred": false,
+      "evidence": "MUSC1001"
+    },
+    {
+      "course_code": "MUSC1002",
+      "prefix_inferred": false,
+      "evidence": "MUSC1002"
+    },
+    {
+      "course_code": "MUSC2001",
+      "prefix_inferred": false,
+      "evidence": "MUSC2001"
+    },
+    {
+      "course_code": "MUSC2002",
+      "prefix_inferred": false,
+      "evidence": "MUSC2002"
+    },
+    {
+      "course_code": "MUSC3001",
+      "prefix_inferred": false,
+      "evidence": "MUSC3001"
+    },
+    {
+      "course_code": "MUSC3002",
+      "prefix_inferred": false,
+      "evidence": "MUSC3002"
+    },
+    {
+      "course_code": "MUSC4001",
+      "prefix_inferred": false,
+      "evidence": "MUSC4001"
+    },
+    {
+      "course_code": "MUSC4002",
+      "prefix_inferred": false,
+      "evidence": "MUSC4002"
+    },
+    {
+      "course_code": "MUSC1031",
+      "prefix_inferred": false,
+      "evidence": "MUSC1031"
+    },
+    {
+      "course_code": "MUSC1032",
+      "prefix_inferred": false,
+      "evidence": "MUSC1032"
+    },
+    {
+      "course_code": "MUSC2031",
+      "prefix_inferred": false,
+      "evidence": "MUSC2031"
+    },
+    {
+      "course_code": "MUSC2032",
+      "prefix_inferred": false,
+      "evidence": "MUSC2032"
+    },
+    {
+      "course_code": "MUSC3031",
+      "prefix_inferred": false,
+      "evidence": "MUSC3031"
+    },
+    {
+      "course_code": "MUSC3032",
+      "prefix_inferred": false,
+      "evidence": "MUSC3032"
+    },
+    {
+      "course_code": "MUSC4031",
+      "prefix_inferred": false,
+      "evidence": "MUSC4031"
+    },
+    {
+      "course_code": "MUSC4032",
+      "prefix_inferred": false,
+      "evidence": "MUSC4032"
+    },
+    {
+      "course_code": "MUSC1041",
+      "prefix_inferred": false,
+      "evidence": "MUSC1041"
+    },
+    {
+      "course_code": "MUSC1042",
+      "prefix_inferred": false,
+      "evidence": "MUSC1042"
+    },
+    {
+      "course_code": "MUSC2041",
+      "prefix_inferred": false,
+      "evidence": "MUSC2041"
+    },
+    {
+      "course_code": "MUSC2042",
+      "prefix_inferred": false,
+      "evidence": "MUSC2042"
+    },
+    {
+      "course_code": "MUSC3041",
+      "prefix_inferred": false,
+      "evidence": "MUSC3041"
+    },
+    {
+      "course_code": "MUSC3042",
+      "prefix_inferred": false,
+      "evidence": "MUSC3042"
+    },
+    {
+      "course_code": "MUSC4041",
+      "prefix_inferred": false,
+      "evidence": "MUSC4041"
+    },
+    {
+      "course_code": "MUSC4042",
+      "prefix_inferred": false,
+      "evidence": "MUSC4042"
+    },
+    {
+      "course_code": "MUSC1013",
+      "prefix_inferred": false,
+      "evidence": "MUSC1013"
+    },
+    {
+      "course_code": "MUSC1023",
+      "prefix_inferred": false,
+      "evidence": "MUSC1023"
+    },
+    {
+      "course_code": "MUSC2013",
+      "prefix_inferred": false,
+      "evidence": "MUSC2013"
+    },
+    {
+      "course_code": "MUSC2023",
+      "prefix_inferred": false,
+      "evidence": "MUSC2023"
+    },
+    {
+      "course_code": "MUSC3013",
+      "prefix_inferred": false,
+      "evidence": "MUSC3013"
+    },
+    {
+      "course_code": "MUSC3023",
+      "prefix_inferred": false,
+      "evidence": "MUSC3023"
+    },
+    {
+      "course_code": "MUSC4013",
+      "prefix_inferred": false,
+      "evidence": "MUSC4013"
+    },
+    {
+      "course_code": "MUSC4023",
+      "prefix_inferred": false,
+      "evidence": "MUSC4023"
+    },
+    {
+      "course_code": "MUSC1014",
+      "prefix_inferred": false,
+      "evidence": "MUSC1014"
+    },
+    {
+      "course_code": "MUSC1024",
+      "prefix_inferred": false,
+      "evidence": "MUSC1024"
+    },
+    {
+      "course_code": "MUSC2014",
+      "prefix_inferred": false,
+      "evidence": "MUSC2014"
+    },
+    {
+      "course_code": "MUSC2024",
+      "prefix_inferred": false,
+      "evidence": "MUSC2024"
+    },
+    {
+      "course_code": "MUSC3014",
+      "prefix_inferred": false,
+      "evidence": "MUSC3014"
+    },
+    {
+      "course_code": "MUSC3024",
+      "prefix_inferred": false,
+      "evidence": "MUSC3024"
+    },
+    {
+      "course_code": "MUSC4014",
+      "prefix_inferred": false,
+      "evidence": "MUSC4014"
+    },
+    {
+      "course_code": "MUSC4024",
+      "prefix_inferred": false,
+      "evidence": "MUSC4024"
+    },
+    {
+      "course_code": "MUSC1015",
+      "prefix_inferred": false,
+      "evidence": "MUSC1015"
+    },
+    {
+      "course_code": "MUSC1025",
+      "prefix_inferred": false,
+      "evidence": "MUSC1025"
+    },
+    {
+      "course_code": "MUSC2015",
+      "prefix_inferred": false,
+      "evidence": "MUSC2015"
+    },
+    {
+      "course_code": "MUSC2025",
+      "prefix_inferred": false,
+      "evidence": "MUSC2025"
+    },
+    {
+      "course_code": "MUSC3015",
+      "prefix_inferred": false,
+      "evidence": "MUSC3015"
+    },
+    {
+      "course_code": "MUSC3025",
+      "prefix_inferred": false,
+      "evidence": "MUSC3025"
+    },
+    {
+      "course_code": "MUSC4015",
+      "prefix_inferred": false,
+      "evidence": "MUSC4015"
+    },
+    {
+      "course_code": "MUSC4025",
+      "prefix_inferred": false,
+      "evidence": "MUSC4025"
+    },
+    {
+      "course_code": "MUSC1016",
+      "prefix_inferred": false,
+      "evidence": "MUSC1016"
+    },
+    {
+      "course_code": "MUSC1026",
+      "prefix_inferred": false,
+      "evidence": "MUSC1026"
+    },
+    {
+      "course_code": "MUSC2016",
+      "prefix_inferred": false,
+      "evidence": "MUSC2016"
+    },
+    {
+      "course_code": "MUSC2026",
+      "prefix_inferred": false,
+      "evidence": "MUSC2026"
+    },
+    {
+      "course_code": "MUSC3016",
+      "prefix_inferred": false,
+      "evidence": "MUSC3016"
+    },
+    {
+      "course_code": "MUSC3026",
+      "prefix_inferred": false,
+      "evidence": "MUSC3026"
+    },
+    {
+      "course_code": "MUSC4016",
+      "prefix_inferred": false,
+      "evidence": "MUSC4016"
+    },
+    {
+      "course_code": "MUSC4026",
+      "prefix_inferred": false,
+      "evidence": "MUSC4026"
+    },
+    {
+      "course_code": "MUSC1017",
+      "prefix_inferred": false,
+      "evidence": "MUSC1017"
+    },
+    {
+      "course_code": "MUSC1027",
+      "prefix_inferred": false,
+      "evidence": "MUSC1027"
+    },
+    {
+      "course_code": "MUSC2017",
+      "prefix_inferred": false,
+      "evidence": "MUSC2017"
+    },
+    {
+      "course_code": "MUSC2027",
+      "prefix_inferred": false,
+      "evidence": "MUSC2027"
+    },
+    {
+      "course_code": "MUSC3017",
+      "prefix_inferred": false,
+      "evidence": "MUSC3017"
+    },
+    {
+      "course_code": "MUSC3027",
+      "prefix_inferred": false,
+      "evidence": "MUSC3027"
+    },
+    {
+      "course_code": "MUSC4017",
+      "prefix_inferred": false,
+      "evidence": "MUSC4017"
+    },
+    {
+      "course_code": "MUSC4027",
+      "prefix_inferred": false,
+      "evidence": "MUSC4027"
+    },
+    {
+      "course_code": "MUSC1018",
+      "prefix_inferred": false,
+      "evidence": "MUSC1018"
+    },
+    {
+      "course_code": "MUSC1028",
+      "prefix_inferred": false,
+      "evidence": "MUSC1028"
+    },
+    {
+      "course_code": "MUSC2018",
+      "prefix_inferred": false,
+      "evidence": "MUSC2018"
+    },
+    {
+      "course_code": "MUSC2028",
+      "prefix_inferred": false,
+      "evidence": "MUSC2028"
+    },
+    {
+      "course_code": "MUSC3018",
+      "prefix_inferred": false,
+      "evidence": "MUSC3018"
+    },
+    {
+      "course_code": "MUSC3028",
+      "prefix_inferred": false,
+      "evidence": "MUSC3028"
+    },
+    {
+      "course_code": "MUSC4018",
+      "prefix_inferred": false,
+      "evidence": "MUSC4018"
+    },
+    {
+      "course_code": "MUSC4028",
+      "prefix_inferred": false,
+      "evidence": "MUSC4028"
+    },
+    {
+      "course_code": "MUSC1019",
+      "prefix_inferred": false,
+      "evidence": "MUSC1019"
+    },
+    {
+      "course_code": "MUSC1029",
+      "prefix_inferred": false,
+      "evidence": "MUSC1029"
+    },
+    {
+      "course_code": "MUSC2019",
+      "prefix_inferred": false,
+      "evidence": "MUSC2019"
+    },
+    {
+      "course_code": "MUSC2029",
+      "prefix_inferred": false,
+      "evidence": "MUSC2029"
+    },
+    {
+      "course_code": "MUSC3019",
+      "prefix_inferred": false,
+      "evidence": "MUSC3019"
+    },
+    {
+      "course_code": "MUSC3029",
+      "prefix_inferred": false,
+      "evidence": "MUSC3029"
+    },
+    {
+      "course_code": "MUSC4019",
+      "prefix_inferred": false,
+      "evidence": "MUSC4019"
+    },
+    {
+      "course_code": "MUSC4029",
+      "prefix_inferred": false,
+      "evidence": "MUSC4029"
+    },
+    {
+      "course_code": "MUSC3323",
+      "prefix_inferred": false,
+      "evidence": "MUSC3323"
+    },
+    {
+      "course_code": "MUSC3333",
+      "prefix_inferred": false,
+      "evidence": "MUSC3333"
+    },
+    {
+      "course_code": "MUSC3343",
+      "prefix_inferred": false,
+      "evidence": "MUSC3343"
+    },
+    {
+      "course_code": "MUSC3373",
+      "prefix_inferred": false,
+      "evidence": "MUSC3373"
+    },
+    {
+      "course_code": "MUSC3383",
+      "prefix_inferred": false,
+      "evidence": "MUSC3383"
+    },
+    {
+      "course_code": "MUSC3432",
+      "prefix_inferred": false,
+      "evidence": "MUSC3432"
+    },
+    {
+      "course_code": "MUSC3442",
+      "prefix_inferred": false,
+      "evidence": "MUSC3442"
+    },
+    {
+      "course_code": "MUSC3452",
+      "prefix_inferred": false,
+      "evidence": "MUSC3452"
+    },
+    {
+      "course_code": "MUSC3462",
+      "prefix_inferred": false,
+      "evidence": "MUSC3462"
+    },
+    {
+      "course_code": "MUSC3472",
+      "prefix_inferred": false,
+      "evidence": "MUSC3472"
+    },
+    {
+      "course_code": "MUSC3482",
+      "prefix_inferred": false,
+      "evidence": "MUSC3482"
+    },
+    {
+      "course_code": "MUSC3492",
+      "prefix_inferred": false,
+      "evidence": "MUSC3492"
+    },
+    {
+      "course_code": "MUSC3712",
+      "prefix_inferred": false,
+      "evidence": "MUSC3712"
+    },
+    {
+      "course_code": "MUSC3722",
+      "prefix_inferred": false,
+      "evidence": "MUSC3722"
+    },
+    {
+      "course_code": "MUSC3732",
+      "prefix_inferred": false,
+      "evidence": "MUSC3732"
+    },
+    {
+      "course_code": "MUSC3742",
+      "prefix_inferred": false,
+      "evidence": "MUSC3742"
+    },
+    {
+      "course_code": "MUSC4862",
+      "prefix_inferred": false,
+      "evidence": "MUSC4862"
+    },
+    {
+      "course_code": "MUSC2233",
+      "prefix_inferred": false,
+      "evidence": "MUSC2233"
+    },
+    {
+      "course_code": "MUSC2542",
+      "prefix_inferred": false,
+      "evidence": "MUSC2542"
+    },
+    {
+      "course_code": "MUSC2612",
+      "prefix_inferred": false,
+      "evidence": "MUSC2612"
+    },
+    {
+      "course_code": "MUSC2622",
+      "prefix_inferred": false,
+      "evidence": "MUSC2622"
+    },
+    {
+      "course_code": "MUSC3213",
+      "prefix_inferred": false,
+      "evidence": "MUSC3213"
+    },
+    {
+      "course_code": "MUSC3223",
+      "prefix_inferred": false,
+      "evidence": "MUSC3223"
+    },
+    {
+      "course_code": "MUSC3233",
+      "prefix_inferred": false,
+      "evidence": "MUSC3233"
+    },
+    {
+      "course_code": "MUSC3243",
+      "prefix_inferred": false,
+      "evidence": "MUSC3243"
+    },
+    {
+      "course_code": "MUSC3512",
+      "prefix_inferred": false,
+      "evidence": "MUSC3512"
+    },
+    {
+      "course_code": "MUSC3522",
+      "prefix_inferred": false,
+      "evidence": "MUSC3522"
+    },
+    {
+      "course_code": "MUSC3532",
+      "prefix_inferred": false,
+      "evidence": "MUSC3532"
+    },
+    {
+      "course_code": "MUSC3542",
+      "prefix_inferred": false,
+      "evidence": "MUSC3542"
+    },
+    {
+      "course_code": "MUSC3562",
+      "prefix_inferred": false,
+      "evidence": "MUSC3562"
+    },
+    {
+      "course_code": "MUSC3582",
+      "prefix_inferred": false,
+      "evidence": "MUSC3582"
+    },
+    {
+      "course_code": "MUSC3802",
+      "prefix_inferred": false,
+      "evidence": "MUSC3802"
+    },
+    {
+      "course_code": "MUSC3832",
+      "prefix_inferred": false,
+      "evidence": "MUSC3832"
+    },
+    {
+      "course_code": "MUSC3852",
+      "prefix_inferred": false,
+      "evidence": "MUSC3852"
+    },
+    {
+      "course_code": "MUSC3892",
+      "prefix_inferred": false,
+      "evidence": "MUSC3892"
+    },
+    {
+      "course_code": "MUSC3902",
+      "prefix_inferred": false,
+      "evidence": "MUSC3902"
+    },
+    {
+      "course_code": "MUSC4883",
+      "prefix_inferred": false,
+      "evidence": "MUSC4883"
+    },
+    {
+      "course_code": "MUSC4893",
+      "prefix_inferred": false,
+      "evidence": "MUSC4893"
+    },
+    {
+      "course_code": "MUSC3353",
+      "prefix_inferred": false,
+      "evidence": "MUSC3353"
+    },
+    {
+      "course_code": "MUSC3363",
+      "prefix_inferred": false,
+      "evidence": "MUSC3363"
+    },
+    {
+      "course_code": "MUSC4000",
+      "prefix_inferred": false,
+      "evidence": "MUSC4000"
+    },
+    {
+      "course_code": "MUSC4003",
+      "prefix_inferred": false,
+      "evidence": "MUSC4003"
+    },
+    {
+      "course_code": "MUSC4513",
+      "prefix_inferred": false,
+      "evidence": "MUSC4513"
+    },
+    {
+      "course_code": "MUSC4523",
+      "prefix_inferred": false,
+      "evidence": "MUSC4523"
+    },
+    {
+      "course_code": "MUSC4813",
+      "prefix_inferred": false,
+      "evidence": "MUSC4813"
+    },
+    {
+      "course_code": "MUSC4823",
+      "prefix_inferred": false,
+      "evidence": "MUSC4823"
+    },
+    {
+      "course_code": "MUSC2333",
+      "prefix_inferred": false,
+      "evidence": "MUSC2333"
+    },
+    {
+      "course_code": "MUSC2511",
+      "prefix_inferred": false,
+      "evidence": "MUSC2511"
+    },
+    {
+      "course_code": "MUSC2521",
+      "prefix_inferred": false,
+      "evidence": "MUSC2521"
+    },
+    {
+      "course_code": "MUSC2540",
+      "prefix_inferred": false,
+      "evidence": "MUSC2540"
+    },
+    {
+      "course_code": "MUSC2543",
+      "prefix_inferred": false,
+      "evidence": "MUSC2543"
+    },
+    {
+      "course_code": "MUSC2545",
+      "prefix_inferred": false,
+      "evidence": "MUSC2545"
+    },
+    {
+      "course_code": "MUSC2913",
+      "prefix_inferred": false,
+      "evidence": "MUSC2913"
+    },
+    {
+      "course_code": "MUSC3502",
+      "prefix_inferred": false,
+      "evidence": "MUSC3502"
+    },
+    {
+      "course_code": "MUSC3530",
+      "prefix_inferred": false,
+      "evidence": "MUSC3530"
+    },
+    {
+      "course_code": "MUSC3533",
+      "prefix_inferred": false,
+      "evidence": "MUSC3533"
+    },
+    {
+      "course_code": "MUSC3912",
+      "prefix_inferred": false,
+      "evidence": "MUSC3912"
+    },
+    {
+      "course_code": "MUSC3922",
+      "prefix_inferred": false,
+      "evidence": "MUSC3922"
+    },
+    {
+      "course_code": "MUSC3923",
+      "prefix_inferred": false,
+      "evidence": "MUSC3923"
+    },
+    {
+      "course_code": "MUSC3932",
+      "prefix_inferred": false,
+      "evidence": "MUSC3932"
+    },
+    {
+      "course_code": "MUSC3933",
+      "prefix_inferred": false,
+      "evidence": "MUSC3933"
+    },
+    {
+      "course_code": "MUSC3942",
+      "prefix_inferred": false,
+      "evidence": "MUSC3942"
+    },
+    {
+      "course_code": "MUSC4243",
+      "prefix_inferred": false,
+      "evidence": "MUSC4243"
+    },
+    {
+      "course_code": "MUSC4943",
+      "prefix_inferred": false,
+      "evidence": "MUSC4943"
+    }
+  ],
+  "course_code_aliases": [],
+  "source": {
+    "system": "CUHK CUSIS Browse Program Information",
+    "url": "https://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/tt_dsp_acad_prog.aspx",
+    "source_text_file": "data/cuhk/2024/programmes/B_A_in_Music__Faculty_of_Arts.txt",
+    "reused_duplicate_entry": false,
+    "reused_from_faculty": null
+  },
+  "raw_text": "\n\nBrowse Program Information\n\n\n\n\n\n\nAcademic Program:\tB.A. in Music\nAcademic Year:\t2024\nLanguage:\t\nEnglish\nSimplified Chinese\nTraditional Chinese\n\n\n\nLearning Outcomes\nStudy Scheme\n \n\n\t\n\nMusic\n\nApplicable to students admitted in 2024-25\n\n\n\n\n \n\n\n\n\n \n\nMajor Programme Requirement\n\n \n\n\t\n\n \n\n\n\n\nStudents are required to complete a minimum of 66 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nFaculty Package:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nMUSC1000 and any two courses from\n\nANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, PHIL1110, THEO1000, TRAN1000\n\n\t\n\n \n\n\n\n\n \n\n2.\n\n\t\n\n \n\nRequired Courses:\n\n\t\n\n \n\n \n\n\n\n\n(a)\n\n\t\n\nChoir Training courses\n\nMUSC1001, 1002, 2001, 2002\n\n\t\n\n4\n\n\n\n\n(b)\n\n\t\n\nApplied Music courses\n\n[(MUSC1011, 1051) or (MUSC1012)], [(MUSC1021, 1061) or (MUSC1022)], [(MUSC2011, 2051) or (MUSC2012)], [(MUSC2021, 2061) or (MUSC2022)]\n\n\t\n\n8\n\n\n\n\n(c)\n\n\t\n\nMusic, History, and Culture courses\n\nMUSC2552, 2562, 2872, 2882\n\n\t\n\n8\n\n\n\n\n(d)\n\n\t\n\nTheory, Analysis, and Composition courses\n\nMUSC1212, 1222, 2252, 2262\n\n\t\n\n8\n\n\n\n\n(e)\n\n\t\n\nStream-specific courses (Students must declare one of the following areas of study)\n\n(1) Composition\n\nSupporting courses: MUSC3343, and one course from MUSC3323, 3333, 3373, 3383, 3712, 3722, 3732, 3742\n\nCapstone courses: MUSC3353, 3363\n\n \n\n(2) Performance\n\nSupporting courses: MUSC3012, 3022\n\nCapstone courses: MUSC4000, 4003\n\n \n\n(3) Research\n\nSupporting courses: MUSC4243, and one course from MUSC3213, 3223, 3233, 3243, 3452, 3462, 3472, 3482, 3512, 3522, 3532, 3542, 3562, 3582, 3802, 3832, 3852, 3892, 3902\n\nCapstone courses: MUSC4813, 4823\n\n \n\n(4) Pedagogy\n\nSupporting courses: MUSC4243, and one course from MUSC2543, 3502, 3533, 3912, 3922, 3932, 3942\n\nCapstone courses: MUSC4513, 4523\n\n\t\n\n10-11[a]\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nElective Courses:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nAny MUSC courses other than the courses taken to fulfill requirement (2) above, with at least one course from Area 3 and two courses from Area 4, and up to six units from Area 2C “Other Ensemble Courses”.\n\n \n\n\t\n\n18-19[a]\n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n66\n\n\n\n\nExplanatory Notes:\n\n\t\n\n \n\n\n\n\n1.\n\n \n\n[a]\n\n \n\n \n\n\t\n\nMUSC courses at 2000 and above level will be included in the calculation of Major GPA for honours classification.\n\nStudents specializing in Composition Stream are required to take 11 units of stream-specific courses and 18 units of elective courses, those taking other streams should take 10 units of stream-specific courses and 19 units of elective courses.\n\n\n\n\n[ ]\n\n\t\n\nOld course code used in 2024-25 and before.\n\n\n\n\n \n\n\n\n\n \n\n \n\n\t\n\nRecommended Course Pattern\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: MUSC1000 and 1 Faculty Package course\n\n\t\n\n3\n\n\n\n\nMajor Required: MUSC1001, 1212, [(MUSC1011, 1051) or (MUSC1012)]\n\n\t\n\n5\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nFaculty Package: 1-2 Faculty Package course(s)\n\n\t\n\n3-6\n\n\n\n\nMajor Required: MUSC1002, 1222, [(MUSC1021, 1061) or (MUSC1022)]\n\n\t\n\n5\n\n\n\n\nMajor Elective(s): 1 course\n\n\t\n\n1-2\n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: MUSC2001, 2252, 2552 or 2562, 2872, [(MUSC2011, 2051) or (MUSC2012)]\n\n\t\n\n9\n\n\n\n\nMajor Elective(s): 1-2 course(s)\n\n\t\n\n1-4\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: MUSC2002, 2262, 2552 or 2562, 2882, [(MUSC2021, 2061) or (MUSC2022)]\n\n\t\n\n9\n\n\n\n\nMajor Elective(s): 1-2 course(s)\n\n\t\n\n1-4\n\n\n\n\nThird Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: 1-2 course(s)\n\n\t\n\n2-6\n\n\n\n\nMajor Elective(s): 2-3 courses\n\n\t\n\n2-6\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: 1-2 course(s)\n\n\t\n\n2-6\n\n\n\n\nMajor Elective(s): 2-3 courses\n\n\t\n\n2-6\n\n\n\n\nFourth Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: 1 course\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): 2-3 courses\n\n\t\n\n2-6\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: 1 course\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): 2 courses\n\n\t\n\n2-4\n\n\n\n\nTotal (including Faculty Package):\n\n\t\n\n66\n\n\n\n\n \n\n\n\n\n \n\nMajor Programme Requirement (for Associate Degree or Higher Diploma holders admitted to senior-year places)\n\n \n\n\n\n\nStudents are required to complete a minimum of 54 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nFaculty Package:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nMUSC1000\n\n\t\n\n3\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nRequired Courses:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nMUSC2252, 2262, 2552, 2562, 2872, 2882, 4243\n\n\t\n\n14\n\n\n\n\n(b)\n\n\t\n\n(MUSC4513, 4523) or (MUSC4813, 4823)\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nElective Courses:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nAny MUSC courses other than the courses taken to fulfill requirement (1) and (2) above, excluding: (i) MUSC1212, 1222, 4000, 4003; and (ii) courses in Area 2A. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C.\n\n\t\n\n31\n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n54\n\n\n\n\nExplanatory Note:\n\n\t\n\n \n\n\n\n\n1.\n\n\t\n\nMUSC courses at 2000 and above level will be included in the calculation of Major GPA for honours classification.\n\n\n\n\n \n\n\n\n\n \n\n\t\n\nRecommended Course Pattern (for Associate Degree or Higher Diploma holders admitted to senior-year places)\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: MUSC1000\n\n\t\n\n3\n\n\n\n\nMajor Required: MUSC2252, 2552 or 2562, 2872\n\n\t\n\n6\n\n\n\n\nMajor Elective(s): 2-3 courses\n\n\t\n\n4-6\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: MUSC2262, 2552 or 2562, 2882, 4243\n\n\t\n\n8\n\n\n\n\nMajor Elective(s): 3-6 courses\n\n\t\n\n5-10\n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: MUSC4513 or 4813\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): 4-6 courses\n\n\t\n\n6-12\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: MUSC4523 or 4823\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): 4-6 courses\n\n\t\n\n6-12\n\n\n\n\nTotal (including Faculty Package):\n\n\t\n\n54\n\n\n\n\n \n\n\n\n\nMinor Programme Title\n\nMusic\n\n \n\n\t\n\n \n\n\n\n\nMinor Programme Requirement\n\n \n\n\t\n\n \n\n\n\n\nStudents are required to complete a minimum of 18 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nRequired Courses:\n\n\t\n\n7\n\n\n\n\n \n\n\t\n\nMUSC1000, 1212, 1222\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nElective Courses:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nAny 4 units from the following courses:\n\nMUSC2252, 2262, 2552, 2562, 2872, 2882\n\n\t\n\n4\n\n\n\n\n(b)\n\n\t\n\nAny MUSC courses other than the courses taken to fulfill requirement (1) and (2a) above, excluding MUSC1012, 1022, 1051, 1061, 2012, 2022, 2051, 2061, 3012, 3022, 3051, 3061, 4000, 4003, 4012, 4022, 4051, 4061. Courses taken should include at least 6 units of courses at 3000 or above level and not more than 4 units of courses from Area 2B and/or 2C.\n\n \n\n\t\n\n7\n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n18\n\n\n\n\nExplanatory Note:\n\n\n\n\n1.\n\n\t\n\nStudents planning to Minor in Music must have attained at least Grade 5 in theory and instrument/voice in the examination of the Associated Board of the Royal Schools of Music, or equivalent, and may be asked to attend an interview.\n\n\n\n\n \n\n\n\n\nCourse List\n\n \n\n\n\n\nCourse Code\n\n\t\n\nCourse Title\n\n\t\n\nUnit(s)\n\n\n\n\nArea 1: Academic Core Courses\n\n\n\n\nMUSC1000\n\n\t\n\nThe Study of Music\n\n\t\n\n3\n\n\n\n\nMUSC1212\n\n\t\n\nFundamentals of Tonal Music I\n\n\t\n\n2\n\n\n\n\nMUSC1222\n\n\t\n\nFundamentals of Tonal Music II\n\n\t\n\n2\n\n\n\n\nMUSC2252\n\n\t\n\nMaterials and Structures of Music\n\n\t\n\n2\n\n\n\n\nMUSC2262\n\n\t\n\nAdvanced Harmonic Practice\n\n\t\n\n2\n\n\n\n\nMUSC2552\n\n\t\n\nMusic, Culture and Society\n\n\t\n\n2\n\n\n\n\nMUSC2562\n\n\t\n\nFoundations of Chinese Music\n\n\t\n\n2\n\n\n\n\nMUSC2872\n\n\t\n\nHistory of Western Music I\n\n\t\n\n2\n\n\n\n\nMUSC2882\n\n\t\n\nHistory of Western Music II\n\n\t\n\n2\n\n\n\n\n \n\nArea 2A: Applied Music Courses\n\n\n\n\nMUSC1011\n\n\t\n\nApplied Music (Minor I)\n\n\t\n\n1\n\n\n\n\nMUSC1021\n\n\t\n\nApplied Music (Minor II)\n\n\t\n\n1\n\n\n\n\nMUSC2011\n\n\t\n\nApplied Music (Minor III)\n\n\t\n\n1\n\n\n\n\nMUSC2021\n\n\t\n\nApplied Music (Minor IV)\n\n\t\n\n1\n\n\n\n\nMUSC3011\n\n\t\n\nApplied Music (Minor V)\n\n\t\n\n1\n\n\n\n\nMUSC3021\n\n\t\n\nApplied Music (Minor VI)\n\n\t\n\n1\n\n\n\n\nMUSC4011\n\n\t\n\nApplied Music (Minor VII)\n\n\t\n\n1\n\n\n\n\nMUSC4021\n\n\t\n\nApplied Music (Minor VIII)\n\n\t\n\n1\n\n\n\n\nMUSC1051\n\n\t\n\nApplied Music (Major I)\n\n\t\n\n1\n\n\n\n\nMUSC1061\n\n\t\n\nApplied Music (Major II)\n\n\t\n\n1\n\n\n\n\nMUSC2051\n\n\t\n\nApplied Music (Major III)\n\n\t\n\n1\n\n\n\n\nMUSC2061\n\n\t\n\nApplied Music (Major IV)\n\n\t\n\n1\n\n\n\n\nMUSC3051\n\n\t\n\nApplied Music (Major V)\n\n\t\n\n1\n\n\n\n\nMUSC3061\n\n\t\n\nApplied Music (Major VI)\n\n\t\n\n1\n\n\n\n\nMUSC4051\n\n\t\n\nApplied Music (Major VII)\n\n\t\n\n1\n\n\n\n\nMUSC4061\n\n\t\n\nApplied Music (Major VIII)\n\n\t\n\n1\n\n\n\n\nMUSC1012\n\n\t\n\nApplied Music (Major IX)\n\n\t\n\n2\n\n\n\n\nMUSC1022\n\n\t\n\nApplied Music (Major X)\n\n\t\n\n2\n\n\n\n\nMUSC2012\n\n\t\n\nApplied Music (Major XI)\n\n\t\n\n2\n\n\n\n\nMUSC2022\n\n\t\n\nApplied Music (Major XII)\n\n\t\n\n2\n\n\n\n\nMUSC3012\n\n\t\n\nApplied Music (Major XIII)\n\n\t\n\n2\n\n\n\n\nMUSC3022\n\n\t\n\nApplied Music (Major XIV)\n\n\t\n\n2\n\n\n\n\nMUSC4012\n\n\t\n\nApplied Music (Major XV)\n\n\t\n\n2\n\n\n\n\nMUSC4022\n\n\t\n\nApplied Music (Major XVI)\n\n\t\n\n2\n\n\n\n\n \n\nArea 2B: Choral and Orchestral Ensemble Courses\n\n\n\n\nMUSC1001\n\n\t\n\nChoral Singing I\n\n\t\n\n1\n\n\n\n\nMUSC1002\n\n\t\n\nChoral Singing II\n\n\t\n\n1\n\n\n\n\nMUSC2001\n\n\t\n\nChoral Singing III\n\n\t\n\n1\n\n\n\n\nMUSC2002\n\n\t\n\nChoral Singing IV\n\n\t\n\n1\n\n\n\n\nMUSC3001\n\n\t\n\nChoral Singing V\n\n\t\n\n1\n\n\n\n\nMUSC3002\n\n\t\n\nChoral Singing VI\n\n\t\n\n1\n\n\n\n\nMUSC4001\n\n\t\n\nChoral Singing VII\n\n\t\n\n1\n\n\n\n\nMUSC4002\n\n\t\n\nChoral Singing VIII\n\n\t\n\n1\n\n\n\n\nMUSC1031\n\n\t\n\nOrchestral Training I\n\n\t\n\n1\n\n\n\n\nMUSC1032\n\n\t\n\nOrchestral Training II\n\n\t\n\n1\n\n\n\n\nMUSC2031\n\n\t\n\nOrchestral Training III\n\n\t\n\n1\n\n\n\n\nMUSC2032\n\n\t\n\nOrchestral Training IV\n\n\t\n\n1\n\n\n\n\nMUSC3031\n\n\t\n\nOrchestral Training V\n\n\t\n\n1\n\n\n\n\nMUSC3032\n\n\t\n\nOrchestral Training VI\n\n\t\n\n1\n\n\n\n\nMUSC4031\n\n\t\n\nOrchestral Training VII\n\n\t\n\n1\n\n\n\n\nMUSC4032\n\n\t\n\nOrchestral Training VIII\n\n\t\n\n1\n\n\n\n\nMUSC1041\n\n\t\n\nWind Orchestra I\n\n\t\n\n1\n\n\n\n\nMUSC1042\n\n\t\n\nWind Orchestra II\n\n\t\n\n1\n\n\n\n\nMUSC2041\n\n\t\n\nWind Orchestra III\n\n\t\n\n1\n\n\n\n\nMUSC2042\n\n\t\n\nWind Orchestra IV\n\n\t\n\n1\n\n\n\n\nMUSC3041\n\n\t\n\nWind Orchestra V\n\n\t\n\n1\n\n\n\n\nMUSC3042\n\n\t\n\nWind Orchestra VI\n\n\t\n\n1\n\n\n\n\nMUSC4041\n\n\t\n\nWind Orchestra VII\n\n\t\n\n1\n\n\n\n\nMUSC4042\n\n\t\n\nWind Orchestra VIII\n\n\t\n\n1\n\n\n\n\n \n\nArea 2C: Other Ensemble Courses\n\n\n\n\nMUSC1013\n\n\t\n\nAfrican Drumming I\n\n\t\n\n1\n\n\n\n\nMUSC1023\n\n\t\n\nAfrican Drumming II\n\n\t\n\n1\n\n\n\n\nMUSC2013\n\n\t\n\nAfrican Drumming III\n\n\t\n\n1\n\n\n\n\nMUSC2023\n\n\t\n\nAfrican Drumming IV\n\n\t\n\n1\n\n\n\n\nMUSC3013\n\n\t\n\nAfrican Drumming V\n\n\t\n\n1\n\n\n\n\nMUSC3023\n\n\t\n\nAfrican Drumming VI\n\n\t\n\n1\n\n\n\n\nMUSC4013\n\n\t\n\nAfrican Drumming VII\n\n\t\n\n1\n\n\n\n\nMUSC4023\n\n\t\n\nAfrican Drumming VIII\n\n\t\n\n1\n\n\n\n\nMUSC1014\n\n\t\n\nChamber Music Ensemble I\n\n\t\n\n1\n\n\n\n\nMUSC1024\n\n\t\n\nChamber Music Ensemble II\n\n\t\n\n1\n\n\n\n\nMUSC2014\n\n\t\n\nChamber Music Ensemble III\n\n\t\n\n1\n\n\n\n\nMUSC2024\n\n\t\n\nChamber Music Ensemble IV\n\n\t\n\n1\n\n\n\n\nMUSC3014\n\n\t\n\nChamber Music Ensemble V\n\n\t\n\n1\n\n\n\n\nMUSC3024\n\n\t\n\nChamber Music Ensemble VI\n\n\t\n\n1\n\n\n\n\nMUSC4014\n\n\t\n\nChamber Music Ensemble VII\n\n\t\n\n1\n\n\n\n\nMUSC4024\n\n\t\n\nChamber Music Ensemble VIII\n\n\t\n\n1\n\n\n\n\nMUSC1015\n\n\t\n\nChinese Music Ensemble I\n\n\t\n\n1\n\n\n\n\nMUSC1025\n\n\t\n\nChinese Music Ensemble II\n\n\t\n\n1\n\n\n\n\nMUSC2015\n\n\t\n\nChinese Music Ensemble III\n\n\t\n\n1\n\n\n\n\nMUSC2025\n\n\t\n\nChinese Music Ensemble IV\n\n\t\n\n1\n\n\n\n\nMUSC3015\n\n\t\n\nChinese Music Ensemble V\n\n\t\n\n1\n\n\n\n\nMUSC3025\n\n\t\n\nChinese Music Ensemble VI\n\n\t\n\n1\n\n\n\n\nMUSC4015\n\n\t\n\nChinese Music Ensemble VII\n\n\t\n\n1\n\n\n\n\nMUSC4025\n\n\t\n\nChinese Music Ensemble VIII\n\n\t\n\n1\n\n\n\n\nMUSC1016\n\n\t\n\nEarly Music Ensemble I\n\n\t\n\n1\n\n\n\n\nMUSC1026\n\n\t\n\nEarly Music Ensemble II\n\n\t\n\n1\n\n\n\n\nMUSC2016\n\n\t\n\nEarly Music Ensemble III\n\n\t\n\n1\n\n\n\n\nMUSC2026\n\n\t\n\nEarly Music Ensemble IV\n\n\t\n\n1\n\n\n\n\nMUSC3016\n\n\t\n\nEarly Music Ensemble V\n\n\t\n\n1\n\n\n\n\nMUSC3026\n\n\t\n\nEarly Music Ensemble VI\n\n\t\n\n1\n\n\n\n\nMUSC4016\n\n\t\n\nEarly Music Ensemble VII\n\n\t\n\n1\n\n\n\n\nMUSC4026\n\n\t\n\nEarly Music Ensemble VIII\n\n\t\n\n1\n\n\n\n\nMUSC1017\n\n\t\n\nJavanese Gamelan Ensemble I\n\n\t\n\n1\n\n\n\n\nMUSC1027\n\n\t\n\nJavanese Gamelan Ensemble II\n\n\t\n\n1\n\n\n\n\nMUSC2017\n\n\t\n\nJavanese Gamelan Ensemble III\n\n\t\n\n1\n\n\n\n\nMUSC2027\n\n\t\n\nJavanese Gamelan Ensemble IV\n\n\t\n\n1\n\n\n\n\nMUSC3017\n\n\t\n\nJavanese Gamelan Ensemble V\n\n\t\n\n1\n\n\n\n\nMUSC3027\n\n\t\n\nJavanese Gamelan Ensemble VI\n\n\t\n\n1\n\n\n\n\nMUSC4017\n\n\t\n\nJavanese Gamelan Ensemble VII\n\n\t\n\n1\n\n\n\n\nMUSC4027\n\n\t\n\nJavanese Gamelan Ensemble VIII\n\n\t\n\n1\n\n\n\n\nMUSC1018\n\n\t\n\nJazz Ensemble I\n\n\t\n\n1\n\n\n\n\nMUSC1028\n\n\t\n\nJazz Ensemble II\n\n\t\n\n1\n\n\n\n\nMUSC2018\n\n\t\n\nJazz Ensemble III\n\n\t\n\n1\n\n\n\n\nMUSC2028\n\n\t\n\nJazz Ensemble IV\n\n\t\n\n1\n\n\n\n\nMUSC3018\n\n\t\n\nJazz Ensemble V\n\n\t\n\n1\n\n\n\n\nMUSC3028\n\n\t\n\nJazz Ensemble VI\n\n\t\n\n1\n\n\n\n\nMUSC4018\n\n\t\n\nJazz Ensemble VII\n\n\t\n\n1\n\n\n\n\nMUSC4028\n\n\t\n\nJazz Ensemble VIII\n\n\t\n\n1\n\n\n\n\nMUSC1019\n\n\t\n\nNew Music Ensemble I\n\n\t\n\n1\n\n\n\n\nMUSC1029\n\n\t\n\nNew Music Ensemble II\n\n\t\n\n1\n\n\n\n\nMUSC2019\n\n\t\n\nNew Music Ensemble III\n\n\t\n\n1\n\n\n\n\nMUSC2029\n\n\t\n\nNew Music Ensemble IV\n\n\t\n\n1\n\n\n\n\nMUSC3019\n\n\t\n\nNew Music Ensemble V\n\n\t\n\n1\n\n\n\n\nMUSC3029\n\n\t\n\nNew Music Ensemble VI\n\n\t\n\n1\n\n\n\n\nMUSC4019\n\n\t\n\nNew Music Ensemble VII\n\n\t\n\n1\n\n\n\n\nMUSC4029\n\n\t\n\nNew Music Ensemble VIII\n\n\t\n\n1\n\n\n\n\n \n\nArea 3: Theory, Analysis, and Composition Courses\n\n\n\n\nMUSC3323\n\n\t\n\nCounterpoint (Tonal and Modern)\n\n\t\n\n2\n\n\n\n\nMUSC3333\n\n\t\n\nOrchestral Techniques\n\n\t\n\n2\n\n\n\n\nMUSC3343\n\n\t\n\nComposition I\n\n\t\n\n3\n\n\n\n\nMUSC3373\n\n\t\n\nScoring for Film and Television\n\n\t\n\n2\n\n\n\n\nMUSC3383\n\n\t\n\nElectronic Music\n\n\t\n\n2\n\n\n\n\nMUSC3432\n\n\t\n\nTonal Music Analysis\n\n\t\n\n2\n\n\n\n\nMUSC3442\n\n\t\n\nPost-Tonal Music Analysis\n\n\t\n\n2\n\n\n\n\nMUSC3452\n\n\t\n\nTheory and Analysis: Special Topic I\n\n\t\n\n2\n\n\n\n\nMUSC3462\n\n\t\n\nTheory and Analysis: Special Topic II\n\n\t\n\n2\n\n\n\n\nMUSC3472\n\n\t\n\nTheory and Analysis: Special Topic III\n\n\t\n\n2\n\n\n\n\nMUSC3482\n\n\t\n\nTheory and Analysis: Special Topic IV\n\n\t\n\n2\n\n\n\n\nMUSC3492\n\n\t\n\nAnalysis and Performance\n\n\t\n\n2\n\n\n\n\nMUSC3712\n\n\t\n\nComposition: Special Topic I\n\n\t\n\n2\n\n\n\n\nMUSC3722\n\n\t\n\nComposition: Special Topic II\n\n\t\n\n2\n\n\n\n\nMUSC3732\n\n\t\n\nComposition: Special Topic III\n\n\t\n\n2\n\n\n\n\nMUSC3742\n\n\t\n\nComposition: Special Topic IV\n\n\t\n\n2\n\n\n\n\nMUSC4862\n\n\t\n\nIntroduction to Transcription and Analysis\n\n\t\n\n2\n\n\n\n\n \n\nArea 4: Music, History, and Culture Courses\n\n\n\n\nMUSC2233\n\n\t\n\nHymnology and Liturgical Music\n\n\t\n\n2\n\n\n\n\nMUSC2542\n\n\t\n\nMusic in World Cultures\n\n\t\n\n2\n\n\n\n\nMUSC2612\n\n\t\n\nChinese Instrumental Music\n\n\t\n\n2\n\n\n\n\nMUSC2622\n\n\t\n\nChinese Operatic Music\n\n\t\n\n2\n\n\n\n\nMUSC3213\n\n\t\n\nHistory of Western Music: Special Topic I\n\n\t\n\n2\n\n\n\n\nMUSC3223\n\n\t\n\nHistory of Western Music: Special Topic II\n\n\t\n\n2\n\n\n\n\nMUSC3233\n\n\t\n\nHistory of Western Music: Special Topic III\n\n\t\n\n2\n\n\n\n\nMUSC3243\n\n\t\n\nHistory of Western Music: Special Topic IV\n\n\t\n\n2\n\n\n\n\nMUSC3512\n\n\t\n\nChinese Music: History and Theory I\n\n\t\n\n2\n\n\n\n\nMUSC3522\n\n\t\n\nChinese Music: History and Theory II\n\n\t\n\n2\n\n\n\n\nMUSC3532\n\n\t\n\nChinese Music: History and Theory III\n\n\t\n\n2\n\n\n\n\nMUSC3542\n\n\t\n\nSelected Topic in World Musics\n\n\t\n\n2\n\n\n\n\nMUSC3562\n\n\t\n\nChinese Music: Selected Topics\n\n\t\n\n2\n\n\n\n\nMUSC3582\n\n\t\n\nSelected Topic in Music and Society\n\n\t\n\n2\n\n\n\n\nMUSC3802\n\n\t\n\nIntroduction to Jazz\n\n\t\n\n2\n\n\n\n\nMUSC3832\n\n\t\n\nRomanticism in Music\n\n\t\n\n2\n\n\n\n\nMUSC3852\n\n\t\n\nMusic on Record\n\n\t\n\n2\n\n\n\n\nMUSC3892\n\n\t\n\nApproaches to Popular Music\n\n\t\n\n2\n\n\n\n\nMUSC3902\n\n\t\n\nHistory of Film Music\n\n\t\n\n2\n\n\n\n\nMUSC4883\n\n\t\n\nChinese Music Study: Special Topic I\n\n\t\n\n2\n\n\n\n\nMUSC4893\n\n\t\n\nChinese Music Study: Special Topic II\n\n\t\n\n2\n\n\n\n\n \n\nArea 5: Capstone Courses\n\n\n\n\nMUSC3353\n\n\t\n\nComposition II\n\n\t\n\n3\n\n\n\n\nMUSC3363\n\n\t\n\nComposition III\n\n\t\n\n3\n\n\n\n\nMUSC4000\n\n\t\n\nSenior Recital Preparation\n\n\t\n\n3\n\n\n\n\nMUSC4003\n\n\t\n\nSenior Recital\n\n\t\n\n3\n\n\n\n\nMUSC4513\n\n\t\n\nSenior Pedagogy Project I\n\n\t\n\n3\n\n\n\n\nMUSC4523\n\n\t\n\nSenior Pedagogy Project II\n\n\t\n\n3\n\n\n\n\nMUSC4813\n\n\t\n\nSenior Thesis I\n\n\t\n\n3\n\n\n\n\nMUSC4823\n\n\t\n\nSenior Thesis II\n\n\t\n\n3\n\n\n\n\n \n\nArea 6: Other Courses\n\n\n\n\nMUSC2333\n\n\t\n\nMusic Information Technology\n\n\t\n\n2\n\n\n\n\nMUSC2511\n\n\t\n\nAural Practice and Perception I\n\n\t\n\n1\n\n\n\n\nMUSC2521\n\n\t\n\nAural Practice and Perception II\n\n\t\n\n1\n\n\n\n\nMUSC2540\n\n\t\n\nAn Introduction to Arts Management\n\n\t\n\n3\n\n\n\n\nMUSC2543\n\n\t\n\nConducting\n\n\t\n\n2\n\n\n\n\nMUSC2545\n\n\t\n\nMusic Therapy\n\n\t\n\n2\n\n\n\n\nMUSC2913\n\n\t\n\nSelected Study I\n\n\t\n\n3\n\n\n\n\nMUSC3502\n\n\t\n\nVocal/Instrumental Pedagogy\n\n\t\n\n2\n\n\n\n\nMUSC3530\n\n\t\n\nMusic Performer’s Issues\n\n\t\n\n2\n\n\n\n\nMUSC3533\n\n\t\n\nPiano Pedagogy\n\n\t\n\n2\n\n\n\n\nMUSC3912\n\n\t\n\nMusic Pedagogy: Special Topic I\n\n\t\n\n2\n\n\n\n\nMUSC3922\n\n\t\n\nMusic Pedagogy: Special Topic II\n\n\t\n\n2\n\n\n\n\nMUSC3923\n\n\t\n\nSelected Study II\n\n\t\n\n3\n\n\n\n\nMUSC3932\n\n\t\n\nMusic Pedagogy: Special Topic III\n\n\t\n\n2\n\n\n\n\nMUSC3933\n\n\t\n\nSelected Study III\n\n\t\n\n3\n\n\n\n\nMUSC3942\n\n\t\n\nMusic Pedagogy: Special Topic IV\n\n\t\n\n2\n\n\n\n\nMUSC4243\n\n\t\n\nResearch Methods in Music\n\n\t\n\n2\n\n\n\n\nMUSC4943\n\n\t\n\nSelected Study IV\n\n\t\n\n3\n\n \n\n \n\n \n\n \n\n \n\n \n\n\n \n\nStudy Scheme\n\n\nLearning Outcomes\n \n\n\t\n\n \n\n1.\n\n\t\n\nMajor Programme:\n\n\n\n\nKnowledge Outcomes (Content):\n\nGraduates will have possessed fundamental/core/inter-disciplinary knowledge of music, including the following:\n\n(1) music theory, (2) contextual study of music (ethnomusicological, historical, etc.), (3) performance on a major instrument, (4) multiple musical traditions.\n\n\n\n\nSkills Outcomes:\n\nGeneric Competencies/Transferable Skills:\n\nGraduates will have acquired transferable generic skills, including: (1) ability to work independently and in groups, (2) ability to express themselves clearly in written and spoken English and Chinese, (3) ability to think creatively and critically.\n\n\n\n\nProfessional Skills:\n\nGraduates will have gained a good mastery of the following professional skills: (1) ability to express themselves about music in written and spoken Chinese and English, (2) ability to make evidence-based critical judgments about musical performance, composition, and musical culture, (3) ability to perform at an appropriate professional level on their major instrument.\n\n\n\n\nAttitude/Value Outcomes\n\nGraduates will have developed a positive attitude towards issues concerning music, including the following: (1) awareness of and open-minded attitude toward different modes of musical expression, (2) passion for communicating through music, and (3) awareness of and appreciation for the significance of music within all societies.\n\n\n\n\n2.\n\n\t\n\nMinor Programme:\n\n\n\n\nUpon the completion of the Minor Programme, students will have demonstrated basic understanding of fundamental issues related to the subject, acquired knowledge of some aspects of the subject with sufficient exposure and at a suitable level to allow further study in this subject or related subjects or to pursue a related career.\n\n \n\n \n\n \n\n\n"
+}

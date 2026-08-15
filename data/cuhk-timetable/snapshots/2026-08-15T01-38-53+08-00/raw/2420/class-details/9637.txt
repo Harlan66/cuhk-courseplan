@@ -1,0 +1,213 @@
+	Data Language:  
+English
+Simplified Chinese
+Traditional Chinese
+	
+														
+	
+Groupbox
+
+			
+	
+Teaching Timetable
+
+	
+Class Detail
+
+	
+ 
+
+
+	
+
+
+	
+
+	
+ACCT 1111 - A   Foundations in Financial Accounting
+
+
+	
+CUHK | 2026-27 Term 1 | Lecture
+
+	
+
+
+	
+Class Details
+
+				
+	
+								
+	
+
+	
+Status
+
+		
+Open
+
+	
+Class Number
+
+	
+9637
+
+	
+Session
+
+	
+Regular Academic Session
+
+	
+1
+
+	
+Units
+
+	
+3 units
+
+	
+Instruction Mode
+
+	
+In Person
+
+	
+P
+
+		
+Lecture Required
+
+	
+Class Components
+
+	
+<table class="PSTEXT"><tr><td>Lecture Required</td></tr></table>
+		
+				
+	
+Course ID
+
+		
+010848
+
+	
+Offer Nbr
+
+	
+1
+
+	
+Career
+	
+Undergraduate
+
+	
+UG
+
+	
+Dates
+
+	
+2026/8/1 - 2026/12/31
+
+	
+Grading
+	
+Graded
+
+		
+GRD
+
+	
+Campus
+	
+Main Campus
+
+	
+MAIN
+
+
+
+
+	
+Meeting Information
+
+
+Days & Times	Room	Instructor	Meeting Dates
+
+Tu 15:30 - 18:15
+	
+Wu Ho Man Yuen Bldg 505
+	
+Dr. WONG Kin Ho
+	
+9/8, 9/15, 9/22, 9/29, 10/6, 10/13, 10/20, 10/27, 11/3, 11/10, 11/17, 11/24, 12/1
+
+
+	
+Enrollment Information
+
+					
+	
+For major students of Quantitative Finance and Risk Management Science Programme or Risk Management Science Programme.
+Not for students who have taken ACCT2111.
+
+	
+Enrollment Requirements
+
+	
+			
+	
+Class Attributes
+		
+English only
+
+
+
+
+	
+Class Availability
+
+						
+	
+Class Capacity
+	
+70
+	
+Wait List Capacity
+	
+999
+
+	
+Enrollment Total
+	
+1
+	
+Wait List Total
+	
+0
+
+	
+Available Seats
+	
+69
+
+
+	
+Description
+
+	
+	
+This course develops students' conceptual skills and competence in processing, preparing and reporting accounting information in accordance with Generally Accepted Accounting Principles (GAAP).  It introduces the basic concepts and principles of financial accounting including the analysis, recording and reporting of business transactions; preparation and interpretation of financial statements.  Topics include the accounting principles, the recording process, accounting for assets, liabilities, net income and shareholders' equity; and decision making using accounting information.
+
+
+	
+	
+	
+Return to Teaching Timetable
+
+
+

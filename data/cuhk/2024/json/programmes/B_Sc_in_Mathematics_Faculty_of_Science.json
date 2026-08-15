@@ -1,0 +1,2779 @@
+{
+  "programme_id": "B_Sc_in_Mathematics__Faculty_of_Science",
+  "academic_program": "B.Sc. in Mathematics",
+  "faculty": "Faculty of Science",
+  "academic_year": 2024,
+  "admission_cohort": "2024-25",
+  "requirement_summary": {
+    "minimum_units_as_printed": "a minimum of 71 units",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Faculty Package",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "MATH1010",
+            "prefix_inferred": false,
+            "evidence": "Group C: MATH1010 or 1018 or 1030 or 1038"
+          },
+          {
+            "course_code": "MATH1018",
+            "prefix_inferred": true,
+            "evidence": "Group C: MATH1010 or 1018 or 1030 or 1038"
+          },
+          {
+            "course_code": "MATH1030",
+            "prefix_inferred": true,
+            "evidence": "Group C: MATH1010 or 1018 or 1030 or 1038"
+          },
+          {
+            "course_code": "MATH1038",
+            "prefix_inferred": true,
+            "evidence": "Group C: MATH1010 or 1018 or 1030 or 1038"
+          },
+          {
+            "course_code": "STAT1011",
+            "prefix_inferred": false,
+            "evidence": "Group E: STAT1011"
+          },
+          {
+            "course_code": "LSCI1001",
+            "prefix_inferred": false,
+            "evidence": "Group A: LSCI1001 or 1002"
+          },
+          {
+            "course_code": "LSCI1002",
+            "prefix_inferred": true,
+            "evidence": "Group A: LSCI1001 or 1002"
+          },
+          {
+            "course_code": "CHEM1070",
+            "prefix_inferred": false,
+            "evidence": "Group B: CHEM1070 or 1072 or 1280"
+          },
+          {
+            "course_code": "CHEM1072",
+            "prefix_inferred": true,
+            "evidence": "Group B: CHEM1070 or 1072 or 1280"
+          },
+          {
+            "course_code": "CHEM1280",
+            "prefix_inferred": true,
+            "evidence": "Group B: CHEM1070 or 1072 or 1280"
+          },
+          {
+            "course_code": "PHYS1001",
+            "prefix_inferred": false,
+            "evidence": "Group D: PHYS1001 or 1002 or 1111 or 1113"
+          },
+          {
+            "course_code": "PHYS1002",
+            "prefix_inferred": true,
+            "evidence": "Group D: PHYS1001 or 1002 or 1111 or 1113"
+          },
+          {
+            "course_code": "PHYS1111",
+            "prefix_inferred": true,
+            "evidence": "Group D: PHYS1001 or 1002 or 1111 or 1113"
+          },
+          {
+            "course_code": "PHYS1113",
+            "prefix_inferred": true,
+            "evidence": "Group D: PHYS1001 or 1002 or 1111 or 1113"
+          }
+        ],
+        "raw_text": "9\nGroup C: MATH1010 or 1018 or 1030 or 1038\nGroup E: STAT1011\nA course from the following\nGroup A: LSCI1001 or 1002\nGroup B: CHEM1070 or 1072 or 1280\nGroup D: PHYS1001 or 1002 or 1111 or 1113"
+      },
+      {
+        "number": 2,
+        "title": "Required Courses",
+        "units_as_printed": "35",
+        "course_mentions": [
+          {
+            "course_code": "MATH1010",
+            "prefix_inferred": false,
+            "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+          },
+          {
+            "course_code": "MATH1018",
+            "prefix_inferred": true,
+            "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+          },
+          {
+            "course_code": "MATH1030",
+            "prefix_inferred": true,
+            "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+          },
+          {
+            "course_code": "MATH1038",
+            "prefix_inferred": true,
+            "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+          },
+          {
+            "course_code": "MATH1050",
+            "prefix_inferred": true,
+            "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+          },
+          {
+            "course_code": "MATH1058",
+            "prefix_inferred": true,
+            "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+          },
+          {
+            "course_code": "MATH1090",
+            "prefix_inferred": true,
+            "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+          },
+          {
+            "course_code": "MATH1098",
+            "prefix_inferred": true,
+            "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+          },
+          {
+            "course_code": "MATH2010",
+            "prefix_inferred": true,
+            "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+          },
+          {
+            "course_code": "MATH2018",
+            "prefix_inferred": true,
+            "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+          },
+          {
+            "course_code": "MATH2020",
+            "prefix_inferred": true,
+            "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+          },
+          {
+            "course_code": "MATH2028",
+            "prefix_inferred": true,
+            "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+          },
+          {
+            "course_code": "MATH2040",
+            "prefix_inferred": true,
+            "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+          },
+          {
+            "course_code": "MATH2048",
+            "prefix_inferred": true,
+            "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+          },
+          {
+            "course_code": "MATH2050",
+            "prefix_inferred": true,
+            "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+          },
+          {
+            "course_code": "MATH2058",
+            "prefix_inferred": true,
+            "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+          },
+          {
+            "course_code": "MATH2060",
+            "prefix_inferred": true,
+            "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+          },
+          {
+            "course_code": "MATH2068",
+            "prefix_inferred": true,
+            "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+          },
+          {
+            "course_code": "MATH2070",
+            "prefix_inferred": true,
+            "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+          },
+          {
+            "course_code": "MATH2078",
+            "prefix_inferred": true,
+            "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+          },
+          {
+            "course_code": "MATH2221",
+            "prefix_inferred": true,
+            "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+          },
+          {
+            "course_code": "MATH2230",
+            "prefix_inferred": true,
+            "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+          },
+          {
+            "course_code": "MATH3060",
+            "prefix_inferred": false,
+            "evidence": "At least one course from MATH3060, STAT2001 or 2006"
+          },
+          {
+            "course_code": "STAT2001",
+            "prefix_inferred": false,
+            "evidence": "At least one course from MATH3060, STAT2001 or 2006"
+          },
+          {
+            "course_code": "STAT2006",
+            "prefix_inferred": true,
+            "evidence": "At least one course from MATH3060, STAT2001 or 2006"
+          },
+          {
+            "course_code": "MATH4400",
+            "prefix_inferred": false,
+            "evidence": "Capstone course[b]: Either MATH4400 or 4900"
+          },
+          {
+            "course_code": "MATH4900",
+            "prefix_inferred": true,
+            "evidence": "Capstone course[b]: Either MATH4400 or 4900"
+          }
+        ],
+        "raw_text": "35\n(a)\nMATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230\n(b)\nAt least one course from MATH3060, STAT2001 or 2006\n(c)\nCapstone course[b]: Either MATH4400 or 4900"
+      },
+      {
+        "number": 3,
+        "title": "Elective Courses",
+        "units_as_printed": "27",
+        "course_mentions": [
+          {
+            "course_code": "MATH3030",
+            "prefix_inferred": false,
+            "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+          },
+          {
+            "course_code": "MATH3040",
+            "prefix_inferred": true,
+            "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+          },
+          {
+            "course_code": "MATH3060",
+            "prefix_inferred": true,
+            "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+          },
+          {
+            "course_code": "MATH3070",
+            "prefix_inferred": true,
+            "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+          },
+          {
+            "course_code": "MATH3093",
+            "prefix_inferred": true,
+            "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+          },
+          {
+            "course_code": "MATH3230",
+            "prefix_inferred": true,
+            "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+          },
+          {
+            "course_code": "MATH3270",
+            "prefix_inferred": true,
+            "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+          },
+          {
+            "course_code": "MATH3340",
+            "prefix_inferred": true,
+            "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+          },
+          {
+            "course_code": "MATH4010",
+            "prefix_inferred": true,
+            "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+          },
+          {
+            "course_code": "MATH4030",
+            "prefix_inferred": true,
+            "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+          },
+          {
+            "course_code": "MATH4050",
+            "prefix_inferred": true,
+            "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+          },
+          {
+            "course_code": "MATH4060",
+            "prefix_inferred": true,
+            "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+          },
+          {
+            "course_code": "MATH4080",
+            "prefix_inferred": true,
+            "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+          },
+          {
+            "course_code": "MATH4220",
+            "prefix_inferred": true,
+            "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+          },
+          {
+            "course_code": "MATH5011",
+            "prefix_inferred": true,
+            "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+          },
+          {
+            "course_code": "MATH5012",
+            "prefix_inferred": true,
+            "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+          },
+          {
+            "course_code": "MATH5021",
+            "prefix_inferred": true,
+            "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+          },
+          {
+            "course_code": "MATH5022",
+            "prefix_inferred": true,
+            "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+          },
+          {
+            "course_code": "MATH5031",
+            "prefix_inferred": true,
+            "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+          },
+          {
+            "course_code": "MATH5032",
+            "prefix_inferred": true,
+            "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+          },
+          {
+            "course_code": "MATH5051",
+            "prefix_inferred": true,
+            "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+          },
+          {
+            "course_code": "MATH5052",
+            "prefix_inferred": true,
+            "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+          },
+          {
+            "course_code": "MATH5061",
+            "prefix_inferred": true,
+            "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+          },
+          {
+            "course_code": "MATH5062",
+            "prefix_inferred": true,
+            "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+          },
+          {
+            "course_code": "MATH5070",
+            "prefix_inferred": true,
+            "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+          },
+          {
+            "course_code": "MATH3240",
+            "prefix_inferred": false,
+            "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+          },
+          {
+            "course_code": "MATH4280",
+            "prefix_inferred": true,
+            "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+          },
+          {
+            "course_code": "MATH3320",
+            "prefix_inferred": false,
+            "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+          },
+          {
+            "course_code": "MATH4230",
+            "prefix_inferred": true,
+            "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+          },
+          {
+            "course_code": "CSCI1540",
+            "prefix_inferred": false,
+            "evidence": "CSCI1540# and MATH3230; and 9-12 units from MATH3093, 32xx, 33xx, 42xx, 43xx, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, SEEM3570#/ESTR3508#"
+          },
+          {
+            "course_code": "MATH3230",
+            "prefix_inferred": false,
+            "evidence": "CSCI1540# and MATH3230; and 9-12 units from MATH3093, 32xx, 33xx, 42xx, 43xx, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, SEEM3570#/ESTR3508#"
+          },
+          {
+            "course_code": "MATH3093",
+            "prefix_inferred": false,
+            "evidence": "CSCI1540# and MATH3230; and 9-12 units from MATH3093, 32xx, 33xx, 42xx, 43xx, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, SEEM3570#/ESTR3508#"
+          },
+          {
+            "course_code": "IERG5124",
+            "prefix_inferred": false,
+            "evidence": "CSCI1540# and MATH3230; and 9-12 units from MATH3093, 32xx, 33xx, 42xx, 43xx, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, SEEM3570#/ESTR3508#"
+          },
+          {
+            "course_code": "SEEM3550",
+            "prefix_inferred": false,
+            "evidence": "CSCI1540# and MATH3230; and 9-12 units from MATH3093, 32xx, 33xx, 42xx, 43xx, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, SEEM3570#/ESTR3508#"
+          },
+          {
+            "course_code": "ESTR3506",
+            "prefix_inferred": false,
+            "evidence": "CSCI1540# and MATH3230; and 9-12 units from MATH3093, 32xx, 33xx, 42xx, 43xx, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, SEEM3570#/ESTR3508#"
+          },
+          {
+            "course_code": "SEEM3570",
+            "prefix_inferred": false,
+            "evidence": "CSCI1540# and MATH3230; and 9-12 units from MATH3093, 32xx, 33xx, 42xx, 43xx, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, SEEM3570#/ESTR3508#"
+          },
+          {
+            "course_code": "ESTR3508",
+            "prefix_inferred": false,
+            "evidence": "CSCI1540# and MATH3230; and 9-12 units from MATH3093, 32xx, 33xx, 42xx, 43xx, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, SEEM3570#/ESTR3508#"
+          },
+          {
+            "course_code": "MATH3320",
+            "prefix_inferred": false,
+            "evidence": "9-12 units from MATH3320, 3330, 3340, 4280; and 3-9 units from MATH3215, 3230, 3280, 3290, 3310, 3360, 4230, 4240, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, STAT4005#"
+          },
+          {
+            "course_code": "MATH3330",
+            "prefix_inferred": true,
+            "evidence": "9-12 units from MATH3320, 3330, 3340, 4280; and 3-9 units from MATH3215, 3230, 3280, 3290, 3310, 3360, 4230, 4240, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, STAT4005#"
+          },
+          {
+            "course_code": "MATH3340",
+            "prefix_inferred": true,
+            "evidence": "9-12 units from MATH3320, 3330, 3340, 4280; and 3-9 units from MATH3215, 3230, 3280, 3290, 3310, 3360, 4230, 4240, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, STAT4005#"
+          },
+          {
+            "course_code": "MATH4280",
+            "prefix_inferred": true,
+            "evidence": "9-12 units from MATH3320, 3330, 3340, 4280; and 3-9 units from MATH3215, 3230, 3280, 3290, 3310, 3360, 4230, 4240, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, STAT4005#"
+          },
+          {
+            "course_code": "MATH3215",
+            "prefix_inferred": false,
+            "evidence": "9-12 units from MATH3320, 3330, 3340, 4280; and 3-9 units from MATH3215, 3230, 3280, 3290, 3310, 3360, 4230, 4240, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, STAT4005#"
+          },
+          {
+            "course_code": "MATH3230",
+            "prefix_inferred": true,
+            "evidence": "9-12 units from MATH3320, 3330, 3340, 4280; and 3-9 units from MATH3215, 3230, 3280, 3290, 3310, 3360, 4230, 4240, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, STAT4005#"
+          },
+          {
+            "course_code": "MATH3280",
+            "prefix_inferred": true,
+            "evidence": "9-12 units from MATH3320, 3330, 3340, 4280; and 3-9 units from MATH3215, 3230, 3280, 3290, 3310, 3360, 4230, 4240, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, STAT4005#"
+          },
+          {
+            "course_code": "MATH3290",
+            "prefix_inferred": true,
+            "evidence": "9-12 units from MATH3320, 3330, 3340, 4280; and 3-9 units from MATH3215, 3230, 3280, 3290, 3310, 3360, 4230, 4240, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, STAT4005#"
+          },
+          {
+            "course_code": "MATH3310",
+            "prefix_inferred": true,
+            "evidence": "9-12 units from MATH3320, 3330, 3340, 4280; and 3-9 units from MATH3215, 3230, 3280, 3290, 3310, 3360, 4230, 4240, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, STAT4005#"
+          },
+          {
+            "course_code": "MATH3360",
+            "prefix_inferred": true,
+            "evidence": "9-12 units from MATH3320, 3330, 3340, 4280; and 3-9 units from MATH3215, 3230, 3280, 3290, 3310, 3360, 4230, 4240, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, STAT4005#"
+          },
+          {
+            "course_code": "MATH4230",
+            "prefix_inferred": true,
+            "evidence": "9-12 units from MATH3320, 3330, 3340, 4280; and 3-9 units from MATH3215, 3230, 3280, 3290, 3310, 3360, 4230, 4240, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, STAT4005#"
+          },
+          {
+            "course_code": "MATH4240",
+            "prefix_inferred": true,
+            "evidence": "9-12 units from MATH3320, 3330, 3340, 4280; and 3-9 units from MATH3215, 3230, 3280, 3290, 3310, 3360, 4230, 4240, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, STAT4005#"
+          },
+          {
+            "course_code": "IERG5124",
+            "prefix_inferred": false,
+            "evidence": "9-12 units from MATH3320, 3330, 3340, 4280; and 3-9 units from MATH3215, 3230, 3280, 3290, 3310, 3360, 4230, 4240, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, STAT4005#"
+          },
+          {
+            "course_code": "SEEM3550",
+            "prefix_inferred": false,
+            "evidence": "9-12 units from MATH3320, 3330, 3340, 4280; and 3-9 units from MATH3215, 3230, 3280, 3290, 3310, 3360, 4230, 4240, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, STAT4005#"
+          },
+          {
+            "course_code": "ESTR3506",
+            "prefix_inferred": false,
+            "evidence": "9-12 units from MATH3320, 3330, 3340, 4280; and 3-9 units from MATH3215, 3230, 3280, 3290, 3310, 3360, 4230, 4240, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, STAT4005#"
+          },
+          {
+            "course_code": "STAT4005",
+            "prefix_inferred": false,
+            "evidence": "9-12 units from MATH3320, 3330, 3340, 4280; and 3-9 units from MATH3215, 3230, 3280, 3290, 3310, 3360, 4230, 4240, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, STAT4005#"
+          }
+        ],
+        "raw_text": "27\n(a)\n9 units of MATH courses at 3000 or above level, and\n(b)\n18 units of courses chosen according to any one stream below:\nFor students who specialize in Enrichment Stream[c]:\n12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230\nFor students who specialize in Computational and Applied Mathematics Stream:\nCSCI1540# and MATH3230; and 9-12 units from MATH3093, 32xx, 33xx, 42xx, 43xx, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, SEEM3570#/ESTR3508#\nFor students who specialize in Computational Big Data Analytics Stream:\n9-12 units from MATH3320, 3330, 3340, 4280; and 3-9 units from MATH3215, 3230, 3280, 3290, 3310, 3360, 4230, 4240, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, STAT4005#\nFor students in the Mathematics Stream:\nMATH courses at 3000 or above level, and/or courses at 2000 or above level of one other subject area[d] offered by the Faculties/Departments of Science, Engineering, Economics and Finance, with at least 12 units of MATH courses at 3000 or above level. The specific subject area codes are given in explanatory note[e].\nFor students who specialize in Mathematics-Education Stream:\nMATH and BMED courses at 3000 or above level, with at least 9 units of BMED courses.\nFor students who specialize in Mathematics-Multidisciplinary Stream:\nMATH courses at 3000 or above level, and/or courses at 2000 or above level of at most two other subject areas[d] offered by the Faculties/Departments of Science, Engineering, Economics, and Finance, with at least 9 units of non-MATH courses. The specific subject area codes are given in explanatory note[e].\nTotal:\n71\nIn addition to fulfilling the above Major Programme Requirement, students meeting the criteria as specified by the Faculty can take the following stream offered by the Faculty:\nScience, Technology And Research Stream\nStudents are required to complete a minimum of 12 units of courses as follows:\nUnits"
+      },
+      {
+        "number": 1,
+        "title": "Required Courses",
+        "units_as_printed": "3",
+        "course_mentions": [
+          {
+            "course_code": "STAR2000",
+            "prefix_inferred": false,
+            "evidence": "STAR2000, 3000, 4000[f]"
+          },
+          {
+            "course_code": "STAR3000",
+            "prefix_inferred": true,
+            "evidence": "STAR2000, 3000, 4000[f]"
+          },
+          {
+            "course_code": "STAR4000",
+            "prefix_inferred": true,
+            "evidence": "STAR2000, 3000, 4000[f]"
+          },
+          {
+            "course_code": "STAR2050",
+            "prefix_inferred": false,
+            "evidence": "STAR2050, 3050, 4050"
+          },
+          {
+            "course_code": "STAR3050",
+            "prefix_inferred": true,
+            "evidence": "STAR2050, 3050, 4050"
+          },
+          {
+            "course_code": "STAR4050",
+            "prefix_inferred": true,
+            "evidence": "STAR2050, 3050, 4050"
+          }
+        ],
+        "raw_text": "(a)\nOne Faculty Package Course:\n3\nChoose from the two remaining groups of the Faculty Package that have not been used to fulfill the Faculty Package Requirement\n(b)\nResearch Courses:\n6\nSTAR2000, 3000, 4000[f]\n(c)\nSeminar Courses:\n3\nSTAR2050, 3050, 4050"
+      },
+      {
+        "number": 2,
+        "title": "Experiential Learning",
+        "units_as_printed": "12",
+        "course_mentions": [],
+        "raw_text": "---\nAt least 4 consecutive weeks of outside Hong Kong exposure[g]\nTotal:\n12\nExplanatory Notes:"
+      },
+      {
+        "number": 1,
+        "title": "Elective Courses",
+        "units_as_printed": "18",
+        "course_mentions": [
+          {
+            "course_code": "MATH1010",
+            "prefix_inferred": false,
+            "evidence": "MATH1010"
+          },
+          {
+            "course_code": "MATH1018",
+            "prefix_inferred": false,
+            "evidence": "MATH1018"
+          },
+          {
+            "course_code": "MATH1020",
+            "prefix_inferred": false,
+            "evidence": "MATH1020"
+          },
+          {
+            "course_code": "MATH1025",
+            "prefix_inferred": false,
+            "evidence": "MATH1025"
+          },
+          {
+            "course_code": "MATH1028",
+            "prefix_inferred": false,
+            "evidence": "MATH1028"
+          },
+          {
+            "course_code": "MATH1030",
+            "prefix_inferred": false,
+            "evidence": "MATH1030"
+          },
+          {
+            "course_code": "MATH1038",
+            "prefix_inferred": false,
+            "evidence": "MATH1038"
+          },
+          {
+            "course_code": "MATH1050",
+            "prefix_inferred": false,
+            "evidence": "MATH1050"
+          },
+          {
+            "course_code": "MATH1058",
+            "prefix_inferred": false,
+            "evidence": "MATH1058"
+          },
+          {
+            "course_code": "MATH1090",
+            "prefix_inferred": false,
+            "evidence": "MATH1090"
+          },
+          {
+            "course_code": "MATH1098",
+            "prefix_inferred": false,
+            "evidence": "MATH1098"
+          },
+          {
+            "course_code": "MATH1510",
+            "prefix_inferred": false,
+            "evidence": "MATH1510"
+          },
+          {
+            "course_code": "MATH1520",
+            "prefix_inferred": false,
+            "evidence": "MATH1520"
+          },
+          {
+            "course_code": "MATH1525",
+            "prefix_inferred": false,
+            "evidence": "MATH1525"
+          },
+          {
+            "course_code": "MATH1530",
+            "prefix_inferred": false,
+            "evidence": "MATH1530"
+          },
+          {
+            "course_code": "MATH1540",
+            "prefix_inferred": false,
+            "evidence": "MATH1540"
+          },
+          {
+            "course_code": "MATH1550",
+            "prefix_inferred": false,
+            "evidence": "MATH1550"
+          },
+          {
+            "course_code": "MATH2010",
+            "prefix_inferred": false,
+            "evidence": "MATH2010"
+          },
+          {
+            "course_code": "MATH2018",
+            "prefix_inferred": false,
+            "evidence": "MATH2018"
+          },
+          {
+            "course_code": "MATH2020",
+            "prefix_inferred": false,
+            "evidence": "MATH2020"
+          },
+          {
+            "course_code": "MATH2028",
+            "prefix_inferred": false,
+            "evidence": "MATH2028"
+          },
+          {
+            "course_code": "MATH2040",
+            "prefix_inferred": false,
+            "evidence": "MATH2040"
+          },
+          {
+            "course_code": "MATH2048",
+            "prefix_inferred": false,
+            "evidence": "MATH2048"
+          },
+          {
+            "course_code": "MATH2050",
+            "prefix_inferred": false,
+            "evidence": "MATH2050"
+          },
+          {
+            "course_code": "MATH2058",
+            "prefix_inferred": false,
+            "evidence": "MATH2058"
+          },
+          {
+            "course_code": "MATH2060",
+            "prefix_inferred": false,
+            "evidence": "MATH2060"
+          },
+          {
+            "course_code": "MATH2068",
+            "prefix_inferred": false,
+            "evidence": "MATH2068"
+          },
+          {
+            "course_code": "MATH2070",
+            "prefix_inferred": false,
+            "evidence": "MATH2070"
+          },
+          {
+            "course_code": "MATH2078",
+            "prefix_inferred": false,
+            "evidence": "MATH2078"
+          },
+          {
+            "course_code": "MATH2221",
+            "prefix_inferred": false,
+            "evidence": "MATH2221"
+          },
+          {
+            "course_code": "MATH2230",
+            "prefix_inferred": false,
+            "evidence": "MATH2230"
+          },
+          {
+            "course_code": "MATH2530",
+            "prefix_inferred": false,
+            "evidence": "MATH2530"
+          },
+          {
+            "course_code": "MATH2550",
+            "prefix_inferred": false,
+            "evidence": "MATH2550"
+          },
+          {
+            "course_code": "MATH3020",
+            "prefix_inferred": false,
+            "evidence": "MATH3020"
+          },
+          {
+            "course_code": "MATH3030",
+            "prefix_inferred": false,
+            "evidence": "MATH3030"
+          },
+          {
+            "course_code": "MATH3040",
+            "prefix_inferred": false,
+            "evidence": "MATH3040"
+          },
+          {
+            "course_code": "MATH3060",
+            "prefix_inferred": false,
+            "evidence": "MATH3060"
+          },
+          {
+            "course_code": "MATH3070",
+            "prefix_inferred": false,
+            "evidence": "MATH3070"
+          },
+          {
+            "course_code": "MATH3080",
+            "prefix_inferred": false,
+            "evidence": "MATH3080"
+          },
+          {
+            "course_code": "MATH3093",
+            "prefix_inferred": false,
+            "evidence": "MATH3093"
+          },
+          {
+            "course_code": "MATH3215",
+            "prefix_inferred": false,
+            "evidence": "MATH3215"
+          },
+          {
+            "course_code": "MATH3230",
+            "prefix_inferred": false,
+            "evidence": "MATH3230"
+          },
+          {
+            "course_code": "MATH3240",
+            "prefix_inferred": false,
+            "evidence": "MATH3240"
+          },
+          {
+            "course_code": "MATH3250",
+            "prefix_inferred": false,
+            "evidence": "MATH3250"
+          },
+          {
+            "course_code": "MATH3260",
+            "prefix_inferred": false,
+            "evidence": "MATH3260"
+          },
+          {
+            "course_code": "MATH3270",
+            "prefix_inferred": false,
+            "evidence": "MATH3270"
+          },
+          {
+            "course_code": "MATH3280",
+            "prefix_inferred": false,
+            "evidence": "MATH3280"
+          },
+          {
+            "course_code": "MATH3290",
+            "prefix_inferred": false,
+            "evidence": "MATH3290"
+          },
+          {
+            "course_code": "MATH3310",
+            "prefix_inferred": false,
+            "evidence": "MATH3310"
+          },
+          {
+            "course_code": "MATH3320",
+            "prefix_inferred": false,
+            "evidence": "MATH3320"
+          },
+          {
+            "course_code": "MATH3330",
+            "prefix_inferred": false,
+            "evidence": "MATH3330"
+          },
+          {
+            "course_code": "MATH3340",
+            "prefix_inferred": false,
+            "evidence": "MATH3340"
+          },
+          {
+            "course_code": "MATH3360",
+            "prefix_inferred": false,
+            "evidence": "MATH3360"
+          },
+          {
+            "course_code": "MATH4010",
+            "prefix_inferred": false,
+            "evidence": "MATH4010"
+          },
+          {
+            "course_code": "MATH4020",
+            "prefix_inferred": false,
+            "evidence": "MATH4020"
+          },
+          {
+            "course_code": "MATH4030",
+            "prefix_inferred": false,
+            "evidence": "MATH4030"
+          },
+          {
+            "course_code": "MATH4050",
+            "prefix_inferred": false,
+            "evidence": "MATH4050"
+          },
+          {
+            "course_code": "MATH4060",
+            "prefix_inferred": false,
+            "evidence": "MATH4060"
+          },
+          {
+            "course_code": "MATH4080",
+            "prefix_inferred": false,
+            "evidence": "MATH4080"
+          },
+          {
+            "course_code": "MATH4210",
+            "prefix_inferred": false,
+            "evidence": "MATH4210"
+          },
+          {
+            "course_code": "MATH4220",
+            "prefix_inferred": false,
+            "evidence": "MATH4220"
+          },
+          {
+            "course_code": "MATH4230",
+            "prefix_inferred": false,
+            "evidence": "MATH4230"
+          },
+          {
+            "course_code": "MATH4240",
+            "prefix_inferred": false,
+            "evidence": "MATH4240"
+          },
+          {
+            "course_code": "MATH4250",
+            "prefix_inferred": false,
+            "evidence": "MATH4250"
+          },
+          {
+            "course_code": "MATH4260",
+            "prefix_inferred": false,
+            "evidence": "MATH4260"
+          },
+          {
+            "course_code": "MATH4280",
+            "prefix_inferred": false,
+            "evidence": "MATH4280"
+          },
+          {
+            "course_code": "MATH4400",
+            "prefix_inferred": false,
+            "evidence": "MATH4400"
+          },
+          {
+            "course_code": "MATH4900",
+            "prefix_inferred": false,
+            "evidence": "MATH4900"
+          },
+          {
+            "course_code": "MATH5011",
+            "prefix_inferred": false,
+            "evidence": "MATH5011"
+          },
+          {
+            "course_code": "MATH5012",
+            "prefix_inferred": false,
+            "evidence": "MATH5012"
+          },
+          {
+            "course_code": "MATH5021",
+            "prefix_inferred": false,
+            "evidence": "MATH5021"
+          },
+          {
+            "course_code": "MATH5022",
+            "prefix_inferred": false,
+            "evidence": "MATH5022"
+          },
+          {
+            "course_code": "MATH5031",
+            "prefix_inferred": false,
+            "evidence": "MATH5031"
+          },
+          {
+            "course_code": "MATH5032",
+            "prefix_inferred": false,
+            "evidence": "MATH5032"
+          },
+          {
+            "course_code": "MATH5051",
+            "prefix_inferred": false,
+            "evidence": "MATH5051"
+          },
+          {
+            "course_code": "MATH5052",
+            "prefix_inferred": false,
+            "evidence": "MATH5052"
+          },
+          {
+            "course_code": "MATH5061",
+            "prefix_inferred": false,
+            "evidence": "MATH5061"
+          },
+          {
+            "course_code": "MATH5062",
+            "prefix_inferred": false,
+            "evidence": "MATH5062"
+          },
+          {
+            "course_code": "MATH5070",
+            "prefix_inferred": false,
+            "evidence": "MATH5070"
+          },
+          {
+            "course_code": "STAR2000",
+            "prefix_inferred": false,
+            "evidence": "STAR2000"
+          },
+          {
+            "course_code": "STAR2050",
+            "prefix_inferred": false,
+            "evidence": "STAR2050"
+          },
+          {
+            "course_code": "STAR3000",
+            "prefix_inferred": false,
+            "evidence": "STAR3000"
+          },
+          {
+            "course_code": "STAR3050",
+            "prefix_inferred": false,
+            "evidence": "STAR3050"
+          },
+          {
+            "course_code": "STAR4000",
+            "prefix_inferred": false,
+            "evidence": "STAR4000"
+          },
+          {
+            "course_code": "STAR4050",
+            "prefix_inferred": false,
+            "evidence": "STAR4050"
+          }
+        ],
+        "raw_text": "18\n18 units of MATH courses, out of which at least 6 units of courses at 3000 to 5000 level\nTotal:\n18\nCourse List\nCourse Code\nCourse\nUnit(s)\nMATH1010\nUniversity Mathematics\n3\nMATH1018\nHonours University Mathematics\n3\nMATH1020\nGeneral Mathematics\n3\nMATH1025\nEssential Mathematical Methods\n3\nMATH1028\nHonours Essential Mathematical Methods\n3\nMATH1030\nLinear Algebra I\n3\nMATH1038\nHonours Linear Algebra I\n3\nMATH1050\nFoundation of Modern Mathematics\n3\nMATH1058\nHonours Foundation of Modern Mathematics\n3\nMATH1090\nIntroduction to Set Theory\n3\nMATH1098\nHonours Introduction to Set Theory\n3\nMATH1510\nCalculus for Engineers\n3\nMATH1520\nUniversity Mathematics for Applications\n3\nMATH1525\nBasic Mathematics for Science and Technology\n3\nMATH1530\nBasic Mathematics for Business and Social Sciences\n3\nMATH1540\nUniversity Mathematics for Financial Studies\n3\nMATH1550\nMethods of Matrices and Linear Algebra\n3\nMATH2010\nAdvanced Calculus I\n3\nMATH2018\nHonours Advanced Calculus I\n3\nMATH2020\nAdvanced Calculus II\n3\nMATH2028\nHonours Advanced Calculus II\n3\nMATH2040\nLinear Algebra II\n3\nMATH2048\nHonours Linear Algebra II\n3\nMATH2050\nMathematical Analysis I\n3\nMATH2058\nHonours Mathematical Analysis I\n3\nMATH2060\nMathematical Analysis II\n3\nMATH2068\nHonours Mathematical Analysis II\n3\nMATH2070\nAlgebraic Structures\n3\nMATH2078\nHonours Algebraic Structures\n3\nMATH2221\nMathematics Laboratory II\n2\nMATH2230\nComplex Variables with Applications\n3\nMATH2530\nAdvanced Calculus (I) for Physical Science and Engineering\n3\nMATH2550\nQuantitative Methods for Earth and Environmental Sciences\n3\nMATH3020\nAxiomatic Set Theory and Applications\n3\nMATH3030\nAbstract Algebra\n3\nMATH3040\nFields and Galois Theory\n3\nMATH3060\nMathematical Analysis III\n3\nMATH3070\nIntroduction to Topology\n3\nMATH3080\nNumber Theory\n3\nMATH3093\nFourier Analysis\n3\nMATH3215\nOperations Research\n3\nMATH3230\nNumerical Analysis\n3\nMATH3240\nNumerical Methods for Differential Equations\n3\nMATH3250\nDiscrete Mathematics\n3\nMATH3260\nGraph Theory\n3\nMATH3270\nOrdinary Differential Equations\n3\nMATH3280\nIntroductory Probability\n3\nMATH3290\nMathematical Modeling\n3\nMATH3310\nComputational and Applied Mathematics\n3\nMATH3320\nFoundation of Data Analytics\n3\nMATH3330\nBig Data Computing\n3\nMATH3340\nMathematics of Machine Learning\n3\nMATH3360\nMathematical Imaging\n3\nMATH4010\nFunctional Analysis\n3\nMATH4020\nCalculus of Variations\n3\nMATH4030\nDifferential Geometry\n3\nMATH4050\nReal Analysis\n3\nMATH4060\nComplex Analysis\n3\nMATH4080\nModules and Representation Theory\n3\nMATH4210\nFinancial Mathematics\n3\nMATH4220\nPartial Differential Equations\n3\nMATH4230\nOptimization Theory\n3\nMATH4240\nStochastic Processes\n3\nMATH4250\nGame Theory\n3\nMATH4260\nCoding Theory and Cryptography\n3\nMATH4280\nInnovation and Design in Big Data Analytics\n3\nMATH4400\nProject\n3\nMATH4900\nSeminar\n3\nMATH5011\nReal Analysis I\n3\nMATH5012\nReal Analysis II\n3\nMATH5021\nTheory of Partial Differential Equations I\n3\nMATH5022\nTheory of Partial Differential Equations II\n3\nMATH5031\nComplex Analysis I\n3\nMATH5032\nComplex Analysis II\n3\nMATH5051\nAbstract Algebra I\n3\nMATH5052\nAbstract Algebra II\n3\nMATH5061\nRiemannian Geometry I\n3\nMATH5062\nRiemannian Geometry II\n3\nMATH5070\nTopology of Manifolds\n3\nSTAR2000\nUndergraduate Research in Science I\n1\nSTAR2050\nSeminar I\n1\nSTAR3000\nUndergraduate Research in Science II\n2\nSTAR3050\nSeminar II\n1\nSTAR4000\nUndergraduate Research in Science III\n3\nSTAR4050\nSeminar III\n1\nStudy Scheme\nLearning Outcomes"
+      },
+      {
+        "number": 1,
+        "title": "Major Programme",
+        "units_as_printed": null,
+        "course_mentions": [],
+        "raw_text": "Knowledge and comprehension\nStudents will have acquired the following knowledge:\n(1)\nmathematical analysis,\n(2)\nlinear algebra,\n(3)\ncomputer programming for mathematics,\n(4)\nfurther knowledge in at least one direction:\n-\n(Enrichment Stream) Knowledge in mathematics enabling the students to have solid foundation for further studies at the graduate school level; or\n-\n(Other streams) Knowledge in a specific field together with the mathematics applicable to that field, for example, Computational and Applied Mathematics Stream, Computational Big Data Analytics Stream.\n(5)\nmathematical literacy sufficient for various professions, for example, research, education, financial technology, information technology, data science, artificial intelligence, etc.\nSkills\nGeneric Competencies\nStudents will have acquired a set of generic competencies.\n(1)\nability to understand broad mathematical literature at the university level independently;\n(2)\nawareness of mathematical problems arising in generic situations;\n(3)\nability to formulate such problems mathematically, to find ways to solve them;\n(4)\nability to communicate progress of mathematical problem solving effectively;\n(5)\ncomputer literacy and knowledge to use mathematical software in solving problems.\nSectors of Professional Skills\nIn addition, students should possess professional skills in at least one sector.\n(1)\nGraduate school research\n(2)\nTeaching\n(3)\nMathematics intensive professions\n(4)\nFinancial sector\n(5)\nScience and technology sector\nValues and Attitudes\nUpon graduation, our students will be able to apply their mathematical knowledge generically in their future profession in a way that is unique for mathematically trained experts. They should be able to\n(1)\nappreciate and advocate ways of thinking with logical rigour,\n(2)\nappreciate and take advantage of quantitative and analytical exactitude,\n(3)\nappreciate the contribution of mathematics to the improvement and formation of modern society built upon quantitative natural sciences."
+      },
+      {
+        "number": 2,
+        "title": "Minor Programme",
+        "units_as_printed": null,
+        "course_mentions": [],
+        "raw_text": "The minor programme of study aims at providing students with good mathematical knowledge to support their professional development in today’s knowledge society. In brief, upon completion of the programme, we anticipate our students to have acquired the capability of formulating and modeling problems in a logical sound and quantitatively efficient way, which is typical in mathematical sciences.\nKnowledge and comprehension\nStudents will have acquired the following knowledge:\n(1)\nCalculus or linear algebra,\n(2)\nmathematical literacy sufficient for supporting a particular profession, including but not limited to, research, education, financial technology, information technology, data science, artificial intelligence, etc.\n(3)\nmodel formulation related to a particular profession.\nSkills\nStudents will have acquired a set of generic competencies listed below.\n(1)\nability to understand broad mathematical literature related to their own professional development at the university level independently;\n(2)\nawareness of mathematical problems arising in generic situations;\n(3)\nability to formulate such problems mathematically, to find ways to model them;\n(4)\nability to communicate progress of mathematical modelling effectively.\nValues and Attitudes\nUpon completion of the programme, our students are expected to be able to apply their mathematical knowledge generically in their future profession in a way that is unique for mathematically trained experts, they should be able to\n(1)\nappreciate, advocate, and take advantage of ways of quantitative and analytical thinking,\n(2)\nappreciate the contribution of mathematics to the improvement and formation of modern society built upon quantitative natural sciences."
+      }
+    ]
+  },
+  "all_course_mentions": [
+    {
+      "course_code": "MATH1010",
+      "prefix_inferred": false,
+      "evidence": "Group C: MATH1010 or 1018 or 1030 or 1038"
+    },
+    {
+      "course_code": "MATH1018",
+      "prefix_inferred": true,
+      "evidence": "Group C: MATH1010 or 1018 or 1030 or 1038"
+    },
+    {
+      "course_code": "MATH1030",
+      "prefix_inferred": true,
+      "evidence": "Group C: MATH1010 or 1018 or 1030 or 1038"
+    },
+    {
+      "course_code": "MATH1038",
+      "prefix_inferred": true,
+      "evidence": "Group C: MATH1010 or 1018 or 1030 or 1038"
+    },
+    {
+      "course_code": "STAT1011",
+      "prefix_inferred": false,
+      "evidence": "Group E: STAT1011"
+    },
+    {
+      "course_code": "LSCI1001",
+      "prefix_inferred": false,
+      "evidence": "Group A: LSCI1001 or 1002"
+    },
+    {
+      "course_code": "LSCI1002",
+      "prefix_inferred": true,
+      "evidence": "Group A: LSCI1001 or 1002"
+    },
+    {
+      "course_code": "CHEM1070",
+      "prefix_inferred": false,
+      "evidence": "Group B: CHEM1070 or 1072 or 1280"
+    },
+    {
+      "course_code": "CHEM1072",
+      "prefix_inferred": true,
+      "evidence": "Group B: CHEM1070 or 1072 or 1280"
+    },
+    {
+      "course_code": "CHEM1280",
+      "prefix_inferred": true,
+      "evidence": "Group B: CHEM1070 or 1072 or 1280"
+    },
+    {
+      "course_code": "PHYS1001",
+      "prefix_inferred": false,
+      "evidence": "Group D: PHYS1001 or 1002 or 1111 or 1113"
+    },
+    {
+      "course_code": "PHYS1002",
+      "prefix_inferred": true,
+      "evidence": "Group D: PHYS1001 or 1002 or 1111 or 1113"
+    },
+    {
+      "course_code": "PHYS1111",
+      "prefix_inferred": true,
+      "evidence": "Group D: PHYS1001 or 1002 or 1111 or 1113"
+    },
+    {
+      "course_code": "PHYS1113",
+      "prefix_inferred": true,
+      "evidence": "Group D: PHYS1001 or 1002 or 1111 or 1113"
+    },
+    {
+      "course_code": "MATH1010",
+      "prefix_inferred": false,
+      "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH1018",
+      "prefix_inferred": true,
+      "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH1030",
+      "prefix_inferred": true,
+      "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH1038",
+      "prefix_inferred": true,
+      "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH1050",
+      "prefix_inferred": true,
+      "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH1058",
+      "prefix_inferred": true,
+      "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH1090",
+      "prefix_inferred": true,
+      "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH1098",
+      "prefix_inferred": true,
+      "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH2010",
+      "prefix_inferred": true,
+      "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH2018",
+      "prefix_inferred": true,
+      "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH2020",
+      "prefix_inferred": true,
+      "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH2028",
+      "prefix_inferred": true,
+      "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH2040",
+      "prefix_inferred": true,
+      "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH2048",
+      "prefix_inferred": true,
+      "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH2050",
+      "prefix_inferred": true,
+      "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH2058",
+      "prefix_inferred": true,
+      "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH2060",
+      "prefix_inferred": true,
+      "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH2068",
+      "prefix_inferred": true,
+      "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH2070",
+      "prefix_inferred": true,
+      "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH2078",
+      "prefix_inferred": true,
+      "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH2221",
+      "prefix_inferred": true,
+      "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH2230",
+      "prefix_inferred": true,
+      "evidence": "MATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH3060",
+      "prefix_inferred": false,
+      "evidence": "At least one course from MATH3060, STAT2001 or 2006"
+    },
+    {
+      "course_code": "STAT2001",
+      "prefix_inferred": false,
+      "evidence": "At least one course from MATH3060, STAT2001 or 2006"
+    },
+    {
+      "course_code": "STAT2006",
+      "prefix_inferred": true,
+      "evidence": "At least one course from MATH3060, STAT2001 or 2006"
+    },
+    {
+      "course_code": "MATH4400",
+      "prefix_inferred": false,
+      "evidence": "Capstone course[b]: Either MATH4400 or 4900"
+    },
+    {
+      "course_code": "MATH4900",
+      "prefix_inferred": true,
+      "evidence": "Capstone course[b]: Either MATH4400 or 4900"
+    },
+    {
+      "course_code": "MATH3030",
+      "prefix_inferred": false,
+      "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+    },
+    {
+      "course_code": "MATH3040",
+      "prefix_inferred": true,
+      "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+    },
+    {
+      "course_code": "MATH3060",
+      "prefix_inferred": true,
+      "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+    },
+    {
+      "course_code": "MATH3070",
+      "prefix_inferred": true,
+      "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+    },
+    {
+      "course_code": "MATH3093",
+      "prefix_inferred": true,
+      "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+    },
+    {
+      "course_code": "MATH3230",
+      "prefix_inferred": true,
+      "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+    },
+    {
+      "course_code": "MATH3270",
+      "prefix_inferred": true,
+      "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+    },
+    {
+      "course_code": "MATH3340",
+      "prefix_inferred": true,
+      "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+    },
+    {
+      "course_code": "MATH4010",
+      "prefix_inferred": true,
+      "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+    },
+    {
+      "course_code": "MATH4030",
+      "prefix_inferred": true,
+      "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+    },
+    {
+      "course_code": "MATH4050",
+      "prefix_inferred": true,
+      "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+    },
+    {
+      "course_code": "MATH4060",
+      "prefix_inferred": true,
+      "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+    },
+    {
+      "course_code": "MATH4080",
+      "prefix_inferred": true,
+      "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+    },
+    {
+      "course_code": "MATH4220",
+      "prefix_inferred": true,
+      "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+    },
+    {
+      "course_code": "MATH5011",
+      "prefix_inferred": true,
+      "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+    },
+    {
+      "course_code": "MATH5012",
+      "prefix_inferred": true,
+      "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+    },
+    {
+      "course_code": "MATH5021",
+      "prefix_inferred": true,
+      "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+    },
+    {
+      "course_code": "MATH5022",
+      "prefix_inferred": true,
+      "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+    },
+    {
+      "course_code": "MATH5031",
+      "prefix_inferred": true,
+      "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+    },
+    {
+      "course_code": "MATH5032",
+      "prefix_inferred": true,
+      "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+    },
+    {
+      "course_code": "MATH5051",
+      "prefix_inferred": true,
+      "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+    },
+    {
+      "course_code": "MATH5052",
+      "prefix_inferred": true,
+      "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+    },
+    {
+      "course_code": "MATH5061",
+      "prefix_inferred": true,
+      "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+    },
+    {
+      "course_code": "MATH5062",
+      "prefix_inferred": true,
+      "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+    },
+    {
+      "course_code": "MATH5070",
+      "prefix_inferred": true,
+      "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+    },
+    {
+      "course_code": "MATH3240",
+      "prefix_inferred": false,
+      "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+    },
+    {
+      "course_code": "MATH4280",
+      "prefix_inferred": true,
+      "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+    },
+    {
+      "course_code": "MATH3320",
+      "prefix_inferred": false,
+      "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+    },
+    {
+      "course_code": "MATH4230",
+      "prefix_inferred": true,
+      "evidence": "12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230"
+    },
+    {
+      "course_code": "CSCI1540",
+      "prefix_inferred": false,
+      "evidence": "CSCI1540# and MATH3230; and 9-12 units from MATH3093, 32xx, 33xx, 42xx, 43xx, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, SEEM3570#/ESTR3508#"
+    },
+    {
+      "course_code": "MATH3230",
+      "prefix_inferred": false,
+      "evidence": "CSCI1540# and MATH3230; and 9-12 units from MATH3093, 32xx, 33xx, 42xx, 43xx, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, SEEM3570#/ESTR3508#"
+    },
+    {
+      "course_code": "MATH3093",
+      "prefix_inferred": false,
+      "evidence": "CSCI1540# and MATH3230; and 9-12 units from MATH3093, 32xx, 33xx, 42xx, 43xx, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, SEEM3570#/ESTR3508#"
+    },
+    {
+      "course_code": "IERG5124",
+      "prefix_inferred": false,
+      "evidence": "CSCI1540# and MATH3230; and 9-12 units from MATH3093, 32xx, 33xx, 42xx, 43xx, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, SEEM3570#/ESTR3508#"
+    },
+    {
+      "course_code": "SEEM3550",
+      "prefix_inferred": false,
+      "evidence": "CSCI1540# and MATH3230; and 9-12 units from MATH3093, 32xx, 33xx, 42xx, 43xx, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, SEEM3570#/ESTR3508#"
+    },
+    {
+      "course_code": "ESTR3506",
+      "prefix_inferred": false,
+      "evidence": "CSCI1540# and MATH3230; and 9-12 units from MATH3093, 32xx, 33xx, 42xx, 43xx, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, SEEM3570#/ESTR3508#"
+    },
+    {
+      "course_code": "SEEM3570",
+      "prefix_inferred": false,
+      "evidence": "CSCI1540# and MATH3230; and 9-12 units from MATH3093, 32xx, 33xx, 42xx, 43xx, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, SEEM3570#/ESTR3508#"
+    },
+    {
+      "course_code": "ESTR3508",
+      "prefix_inferred": false,
+      "evidence": "CSCI1540# and MATH3230; and 9-12 units from MATH3093, 32xx, 33xx, 42xx, 43xx, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, SEEM3570#/ESTR3508#"
+    },
+    {
+      "course_code": "MATH3320",
+      "prefix_inferred": false,
+      "evidence": "9-12 units from MATH3320, 3330, 3340, 4280; and 3-9 units from MATH3215, 3230, 3280, 3290, 3310, 3360, 4230, 4240, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, STAT4005#"
+    },
+    {
+      "course_code": "MATH3330",
+      "prefix_inferred": true,
+      "evidence": "9-12 units from MATH3320, 3330, 3340, 4280; and 3-9 units from MATH3215, 3230, 3280, 3290, 3310, 3360, 4230, 4240, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, STAT4005#"
+    },
+    {
+      "course_code": "MATH3340",
+      "prefix_inferred": true,
+      "evidence": "9-12 units from MATH3320, 3330, 3340, 4280; and 3-9 units from MATH3215, 3230, 3280, 3290, 3310, 3360, 4230, 4240, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, STAT4005#"
+    },
+    {
+      "course_code": "MATH4280",
+      "prefix_inferred": true,
+      "evidence": "9-12 units from MATH3320, 3330, 3340, 4280; and 3-9 units from MATH3215, 3230, 3280, 3290, 3310, 3360, 4230, 4240, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, STAT4005#"
+    },
+    {
+      "course_code": "MATH3215",
+      "prefix_inferred": false,
+      "evidence": "9-12 units from MATH3320, 3330, 3340, 4280; and 3-9 units from MATH3215, 3230, 3280, 3290, 3310, 3360, 4230, 4240, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, STAT4005#"
+    },
+    {
+      "course_code": "MATH3230",
+      "prefix_inferred": true,
+      "evidence": "9-12 units from MATH3320, 3330, 3340, 4280; and 3-9 units from MATH3215, 3230, 3280, 3290, 3310, 3360, 4230, 4240, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, STAT4005#"
+    },
+    {
+      "course_code": "MATH3280",
+      "prefix_inferred": true,
+      "evidence": "9-12 units from MATH3320, 3330, 3340, 4280; and 3-9 units from MATH3215, 3230, 3280, 3290, 3310, 3360, 4230, 4240, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, STAT4005#"
+    },
+    {
+      "course_code": "MATH3290",
+      "prefix_inferred": true,
+      "evidence": "9-12 units from MATH3320, 3330, 3340, 4280; and 3-9 units from MATH3215, 3230, 3280, 3290, 3310, 3360, 4230, 4240, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, STAT4005#"
+    },
+    {
+      "course_code": "MATH3310",
+      "prefix_inferred": true,
+      "evidence": "9-12 units from MATH3320, 3330, 3340, 4280; and 3-9 units from MATH3215, 3230, 3280, 3290, 3310, 3360, 4230, 4240, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, STAT4005#"
+    },
+    {
+      "course_code": "MATH3360",
+      "prefix_inferred": true,
+      "evidence": "9-12 units from MATH3320, 3330, 3340, 4280; and 3-9 units from MATH3215, 3230, 3280, 3290, 3310, 3360, 4230, 4240, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, STAT4005#"
+    },
+    {
+      "course_code": "MATH4230",
+      "prefix_inferred": true,
+      "evidence": "9-12 units from MATH3320, 3330, 3340, 4280; and 3-9 units from MATH3215, 3230, 3280, 3290, 3310, 3360, 4230, 4240, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, STAT4005#"
+    },
+    {
+      "course_code": "MATH4240",
+      "prefix_inferred": true,
+      "evidence": "9-12 units from MATH3320, 3330, 3340, 4280; and 3-9 units from MATH3215, 3230, 3280, 3290, 3310, 3360, 4230, 4240, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, STAT4005#"
+    },
+    {
+      "course_code": "IERG5124",
+      "prefix_inferred": false,
+      "evidence": "9-12 units from MATH3320, 3330, 3340, 4280; and 3-9 units from MATH3215, 3230, 3280, 3290, 3310, 3360, 4230, 4240, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, STAT4005#"
+    },
+    {
+      "course_code": "SEEM3550",
+      "prefix_inferred": false,
+      "evidence": "9-12 units from MATH3320, 3330, 3340, 4280; and 3-9 units from MATH3215, 3230, 3280, 3290, 3310, 3360, 4230, 4240, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, STAT4005#"
+    },
+    {
+      "course_code": "ESTR3506",
+      "prefix_inferred": false,
+      "evidence": "9-12 units from MATH3320, 3330, 3340, 4280; and 3-9 units from MATH3215, 3230, 3280, 3290, 3310, 3360, 4230, 4240, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, STAT4005#"
+    },
+    {
+      "course_code": "STAT4005",
+      "prefix_inferred": false,
+      "evidence": "9-12 units from MATH3320, 3330, 3340, 4280; and 3-9 units from MATH3215, 3230, 3280, 3290, 3310, 3360, 4230, 4240, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, STAT4005#"
+    },
+    {
+      "course_code": "STAR2000",
+      "prefix_inferred": false,
+      "evidence": "STAR2000, 3000, 4000[f]"
+    },
+    {
+      "course_code": "STAR3000",
+      "prefix_inferred": true,
+      "evidence": "STAR2000, 3000, 4000[f]"
+    },
+    {
+      "course_code": "STAR4000",
+      "prefix_inferred": true,
+      "evidence": "STAR2000, 3000, 4000[f]"
+    },
+    {
+      "course_code": "STAR2050",
+      "prefix_inferred": false,
+      "evidence": "STAR2050, 3050, 4050"
+    },
+    {
+      "course_code": "STAR3050",
+      "prefix_inferred": true,
+      "evidence": "STAR2050, 3050, 4050"
+    },
+    {
+      "course_code": "STAR4050",
+      "prefix_inferred": true,
+      "evidence": "STAR2050, 3050, 4050"
+    },
+    {
+      "course_code": "MATH1010",
+      "prefix_inferred": false,
+      "evidence": "MATH1010, 1018, 1030, 1038, 1050, 1058, 1090, 1098, MATH courses at 2000 and above level, BMED courses at 3000 and above level, courses at 2000 and above level of the subject areas listed in [e] below as well as those labeled as # will be included in the calculation of Major GPA for honours classification if students specialize in the respective streams."
+    },
+    {
+      "course_code": "MATH1018",
+      "prefix_inferred": true,
+      "evidence": "MATH1010, 1018, 1030, 1038, 1050, 1058, 1090, 1098, MATH courses at 2000 and above level, BMED courses at 3000 and above level, courses at 2000 and above level of the subject areas listed in [e] below as well as those labeled as # will be included in the calculation of Major GPA for honours classification if students specialize in the respective streams."
+    },
+    {
+      "course_code": "MATH1030",
+      "prefix_inferred": true,
+      "evidence": "MATH1010, 1018, 1030, 1038, 1050, 1058, 1090, 1098, MATH courses at 2000 and above level, BMED courses at 3000 and above level, courses at 2000 and above level of the subject areas listed in [e] below as well as those labeled as # will be included in the calculation of Major GPA for honours classification if students specialize in the respective streams."
+    },
+    {
+      "course_code": "MATH1038",
+      "prefix_inferred": true,
+      "evidence": "MATH1010, 1018, 1030, 1038, 1050, 1058, 1090, 1098, MATH courses at 2000 and above level, BMED courses at 3000 and above level, courses at 2000 and above level of the subject areas listed in [e] below as well as those labeled as # will be included in the calculation of Major GPA for honours classification if students specialize in the respective streams."
+    },
+    {
+      "course_code": "MATH1050",
+      "prefix_inferred": true,
+      "evidence": "MATH1010, 1018, 1030, 1038, 1050, 1058, 1090, 1098, MATH courses at 2000 and above level, BMED courses at 3000 and above level, courses at 2000 and above level of the subject areas listed in [e] below as well as those labeled as # will be included in the calculation of Major GPA for honours classification if students specialize in the respective streams."
+    },
+    {
+      "course_code": "MATH1058",
+      "prefix_inferred": true,
+      "evidence": "MATH1010, 1018, 1030, 1038, 1050, 1058, 1090, 1098, MATH courses at 2000 and above level, BMED courses at 3000 and above level, courses at 2000 and above level of the subject areas listed in [e] below as well as those labeled as # will be included in the calculation of Major GPA for honours classification if students specialize in the respective streams."
+    },
+    {
+      "course_code": "MATH1090",
+      "prefix_inferred": true,
+      "evidence": "MATH1010, 1018, 1030, 1038, 1050, 1058, 1090, 1098, MATH courses at 2000 and above level, BMED courses at 3000 and above level, courses at 2000 and above level of the subject areas listed in [e] below as well as those labeled as # will be included in the calculation of Major GPA for honours classification if students specialize in the respective streams."
+    },
+    {
+      "course_code": "MATH1098",
+      "prefix_inferred": true,
+      "evidence": "MATH1010, 1018, 1030, 1038, 1050, 1058, 1090, 1098, MATH courses at 2000 and above level, BMED courses at 3000 and above level, courses at 2000 and above level of the subject areas listed in [e] below as well as those labeled as # will be included in the calculation of Major GPA for honours classification if students specialize in the respective streams."
+    },
+    {
+      "course_code": "MATH2060",
+      "prefix_inferred": false,
+      "evidence": "Students in Mathematics and Mathematics Education may replace MATH2060 with any MATH course at 3000 or above level, and take BMED4510 as Capstone course."
+    },
+    {
+      "course_code": "BMED4510",
+      "prefix_inferred": false,
+      "evidence": "Students in Mathematics and Mathematics Education may replace MATH2060 with any MATH course at 3000 or above level, and take BMED4510 as Capstone course."
+    },
+    {
+      "course_code": "MATH1010",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: MATH1010, 0-1 course from either STAT1011 or a course from Groups A, B or D"
+    },
+    {
+      "course_code": "STAT1011",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: MATH1010, 0-1 course from either STAT1011 or a course from Groups A, B or D"
+    },
+    {
+      "course_code": "MATH1030",
+      "prefix_inferred": false,
+      "evidence": "Major Required: 0-1 course from MATH1030"
+    },
+    {
+      "course_code": "STAT1011",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: A course from Groups A, B or D (if not taken), STAT1011 (if not taken)"
+    },
+    {
+      "course_code": "MATH1030",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH1030 (if not taken), 1050 or 1090"
+    },
+    {
+      "course_code": "MATH1050",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH1030 (if not taken), 1050 or 1090"
+    },
+    {
+      "course_code": "MATH1090",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH1030 (if not taken), 1050 or 1090"
+    },
+    {
+      "course_code": "MATH2010",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH2010, 2040, 0-1 course from STAT2001 or 2006"
+    },
+    {
+      "course_code": "MATH2040",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH2010, 2040, 0-1 course from STAT2001 or 2006"
+    },
+    {
+      "course_code": "STAT2001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH2010, 2040, 0-1 course from STAT2001 or 2006"
+    },
+    {
+      "course_code": "STAT2006",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH2010, 2040, 0-1 course from STAT2001 or 2006"
+    },
+    {
+      "course_code": "MATH2020",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH2020, 2221, 0-1 course from STAT2001 or 2006 (if not taken)"
+    },
+    {
+      "course_code": "MATH2221",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH2020, 2221, 0-1 course from STAT2001 or 2006 (if not taken)"
+    },
+    {
+      "course_code": "STAT2001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH2020, 2221, 0-1 course from STAT2001 or 2006 (if not taken)"
+    },
+    {
+      "course_code": "STAT2006",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH2020, 2221, 0-1 course from STAT2001 or 2006 (if not taken)"
+    },
+    {
+      "course_code": "MATH2050",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH2050, 2070 or 2230"
+    },
+    {
+      "course_code": "MATH2070",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH2050, 2070 or 2230"
+    },
+    {
+      "course_code": "MATH2230",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH2050, 2070 or 2230"
+    },
+    {
+      "course_code": "MATH2060",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH2060, 2070 or 2230"
+    },
+    {
+      "course_code": "MATH2070",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH2060, 2070 or 2230"
+    },
+    {
+      "course_code": "MATH2230",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH2060, 2070 or 2230"
+    },
+    {
+      "course_code": "MATH3060",
+      "prefix_inferred": false,
+      "evidence": "Major Required: Capstone course, 0-1 course from MATH3060 (if not taken STAT2001 or 2006)"
+    },
+    {
+      "course_code": "STAT2001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: Capstone course, 0-1 course from MATH3060 (if not taken STAT2001 or 2006)"
+    },
+    {
+      "course_code": "STAT2006",
+      "prefix_inferred": true,
+      "evidence": "Major Required: Capstone course, 0-1 course from MATH3060 (if not taken STAT2001 or 2006)"
+    },
+    {
+      "course_code": "MATH1018",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: MATH1018, STAT1011"
+    },
+    {
+      "course_code": "STAT1011",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: MATH1018, STAT1011"
+    },
+    {
+      "course_code": "MATH1038",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH1038"
+    },
+    {
+      "course_code": "MATH1058",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH1058 or 1098, 2018"
+    },
+    {
+      "course_code": "MATH1098",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH1058 or 1098, 2018"
+    },
+    {
+      "course_code": "MATH2018",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH1058 or 1098, 2018"
+    },
+    {
+      "course_code": "MATH2028",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH2028, 2048, 2058"
+    },
+    {
+      "course_code": "MATH2048",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH2028, 2048, 2058"
+    },
+    {
+      "course_code": "MATH2058",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH2028, 2048, 2058"
+    },
+    {
+      "course_code": "MATH2068",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH2068, 2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH2078",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH2068, 2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH2221",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH2068, 2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH2230",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH2068, 2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH3060",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH3060 or STAT2001 or 2006"
+    },
+    {
+      "course_code": "STAT2001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH3060 or STAT2001 or 2006"
+    },
+    {
+      "course_code": "STAT2006",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH3060 or STAT2001 or 2006"
+    },
+    {
+      "course_code": "MATH2010",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH2010, 2040"
+    },
+    {
+      "course_code": "MATH2040",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH2010, 2040"
+    },
+    {
+      "course_code": "CSCI1540",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): CSCI1540"
+    },
+    {
+      "course_code": "MATH2020",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH2020, 2221, 0-1 course from STAT2001 or 2006"
+    },
+    {
+      "course_code": "MATH2221",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH2020, 2221, 0-1 course from STAT2001 or 2006"
+    },
+    {
+      "course_code": "STAT2001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH2020, 2221, 0-1 course from STAT2001 or 2006"
+    },
+    {
+      "course_code": "STAT2006",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH2020, 2221, 0-1 course from STAT2001 or 2006"
+    },
+    {
+      "course_code": "MATH3230",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): MATH3230"
+    },
+    {
+      "course_code": "MATH3320",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): 0-1 course from MATH3320 (preferred), 3330, 3340, 4280"
+    },
+    {
+      "course_code": "MATH3330",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 0-1 course from MATH3320 (preferred), 3330, 3340, 4280"
+    },
+    {
+      "course_code": "MATH3340",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 0-1 course from MATH3320 (preferred), 3330, 3340, 4280"
+    },
+    {
+      "course_code": "MATH4280",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 0-1 course from MATH3320 (preferred), 3330, 3340, 4280"
+    },
+    {
+      "course_code": "MATH3320",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): 0-1 course from MATH3320, 3330 (preferred), 3340, 4280"
+    },
+    {
+      "course_code": "MATH3330",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 0-1 course from MATH3320, 3330 (preferred), 3340, 4280"
+    },
+    {
+      "course_code": "MATH3340",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 0-1 course from MATH3320, 3330 (preferred), 3340, 4280"
+    },
+    {
+      "course_code": "MATH4280",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 0-1 course from MATH3320, 3330 (preferred), 3340, 4280"
+    },
+    {
+      "course_code": "MATH3320",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): 0-1 course from MATH3320, 3330, 3340, 4280 (preferred), Elective courses 3(a)and/ or (b)"
+    },
+    {
+      "course_code": "MATH3330",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 0-1 course from MATH3320, 3330, 3340, 4280 (preferred), Elective courses 3(a)and/ or (b)"
+    },
+    {
+      "course_code": "MATH3340",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 0-1 course from MATH3320, 3330, 3340, 4280 (preferred), Elective courses 3(a)and/ or (b)"
+    },
+    {
+      "course_code": "MATH4280",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 0-1 course from MATH3320, 3330, 3340, 4280 (preferred), Elective courses 3(a)and/ or (b)"
+    },
+    {
+      "course_code": "MATH3320",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): 0-1 course from MATH3320, 3330, 3340 (preferred), 4280, Elective courses 3(a) and/ or (b)"
+    },
+    {
+      "course_code": "MATH3330",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 0-1 course from MATH3320, 3330, 3340 (preferred), 4280, Elective courses 3(a) and/ or (b)"
+    },
+    {
+      "course_code": "MATH3340",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 0-1 course from MATH3320, 3330, 3340 (preferred), 4280, Elective courses 3(a) and/ or (b)"
+    },
+    {
+      "course_code": "MATH4280",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 0-1 course from MATH3320, 3330, 3340 (preferred), 4280, Elective courses 3(a) and/ or (b)"
+    },
+    {
+      "course_code": "MATH2028",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH2028, 2048, 0-1 course from STAT2001 or 2006"
+    },
+    {
+      "course_code": "MATH2048",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH2028, 2048, 0-1 course from STAT2001 or 2006"
+    },
+    {
+      "course_code": "STAT2001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH2028, 2048, 0-1 course from STAT2001 or 2006"
+    },
+    {
+      "course_code": "STAT2006",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH2028, 2048, 0-1 course from STAT2001 or 2006"
+    },
+    {
+      "course_code": "MATH2078",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH2078, 2221, 2230, 0-1 course from STAT2001 or 2006 (if not taken)"
+    },
+    {
+      "course_code": "MATH2221",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH2078, 2221, 2230, 0-1 course from STAT2001 or 2006 (if not taken)"
+    },
+    {
+      "course_code": "MATH2230",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH2078, 2221, 2230, 0-1 course from STAT2001 or 2006 (if not taken)"
+    },
+    {
+      "course_code": "STAT2001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH2078, 2221, 2230, 0-1 course from STAT2001 or 2006 (if not taken)"
+    },
+    {
+      "course_code": "STAT2006",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH2078, 2221, 2230, 0-1 course from STAT2001 or 2006 (if not taken)"
+    },
+    {
+      "course_code": "CSCI1540",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): 0-1 course from CSCI1540"
+    },
+    {
+      "course_code": "MATH2058",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH2058"
+    },
+    {
+      "course_code": "MATH3230",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): MATH3230, Elective courses 3(a) and/or (b)"
+    },
+    {
+      "course_code": "MATH2068",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH2068"
+    },
+    {
+      "course_code": "MATH3230",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): MATH3230, Elective courses 3(a) and/or (b), 0-1 course from CSCI1540 (if not taken)"
+    },
+    {
+      "course_code": "CSCI1540",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): MATH3230, Elective courses 3(a) and/or (b), 0-1 course from CSCI1540 (if not taken)"
+    },
+    {
+      "course_code": "MATH3060",
+      "prefix_inferred": false,
+      "evidence": "Major Required: Capstone course, 0-1 course from MATH3060 or STAT2001 or 2006 (if not taken)"
+    },
+    {
+      "course_code": "STAT2001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: Capstone course, 0-1 course from MATH3060 or STAT2001 or 2006 (if not taken)"
+    },
+    {
+      "course_code": "STAT2006",
+      "prefix_inferred": true,
+      "evidence": "Major Required: Capstone course, 0-1 course from MATH3060 or STAT2001 or 2006 (if not taken)"
+    },
+    {
+      "course_code": "MATH1010",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: MATH1010, STAT1011"
+    },
+    {
+      "course_code": "STAT1011",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: MATH1010, STAT1011"
+    },
+    {
+      "course_code": "MATH1030",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH1030"
+    },
+    {
+      "course_code": "MATH1050",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH1050 or 1090, 2010"
+    },
+    {
+      "course_code": "MATH1090",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH1050 or 1090, 2010"
+    },
+    {
+      "course_code": "MATH2010",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH1050 or 1090, 2010"
+    },
+    {
+      "course_code": "STAR2050",
+      "prefix_inferred": false,
+      "evidence": "STARS: STAR2050"
+    },
+    {
+      "course_code": "STAR2050",
+      "prefix_inferred": false,
+      "evidence": "STARS: STAR2050 (if not taken)"
+    },
+    {
+      "course_code": "MATH2020",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH2020, 2040, 2070, 0-1 course from STAT2001 or 2006"
+    },
+    {
+      "course_code": "MATH2040",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH2020, 2040, 2070, 0-1 course from STAT2001 or 2006"
+    },
+    {
+      "course_code": "MATH2070",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH2020, 2040, 2070, 0-1 course from STAT2001 or 2006"
+    },
+    {
+      "course_code": "STAT2001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH2020, 2040, 2070, 0-1 course from STAT2001 or 2006"
+    },
+    {
+      "course_code": "STAT2006",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH2020, 2040, 2070, 0-1 course from STAT2001 or 2006"
+    },
+    {
+      "course_code": "STAR2000",
+      "prefix_inferred": false,
+      "evidence": "STARS: 0-2 courses from STAR2000 and 3050, a Faculty Package course chosen from the two remaining groups"
+    },
+    {
+      "course_code": "STAR3050",
+      "prefix_inferred": true,
+      "evidence": "STARS: 0-2 courses from STAR2000 and 3050, a Faculty Package course chosen from the two remaining groups"
+    },
+    {
+      "course_code": "MATH2221",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH2221, 2230, 0-1 course from STAT2001 or 2006 (if not taken)"
+    },
+    {
+      "course_code": "MATH2230",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH2221, 2230, 0-1 course from STAT2001 or 2006 (if not taken)"
+    },
+    {
+      "course_code": "STAT2001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH2221, 2230, 0-1 course from STAT2001 or 2006 (if not taken)"
+    },
+    {
+      "course_code": "STAT2006",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH2221, 2230, 0-1 course from STAT2001 or 2006 (if not taken)"
+    },
+    {
+      "course_code": "STAR2000",
+      "prefix_inferred": false,
+      "evidence": "STARS: 0-2 courses from STAR2000 (if not taken) and 3050 (if not taken), a Faculty Package course chosen from the two remaining groups (if not taken)"
+    },
+    {
+      "course_code": "STAR3050",
+      "prefix_inferred": true,
+      "evidence": "STARS: 0-2 courses from STAR2000 (if not taken) and 3050 (if not taken), a Faculty Package course chosen from the two remaining groups (if not taken)"
+    },
+    {
+      "course_code": "STAR2000",
+      "prefix_inferred": false,
+      "evidence": "STARS: 0-2 courses from STAR2000 (if not taken) and 3050 (if not taken)"
+    },
+    {
+      "course_code": "STAR3050",
+      "prefix_inferred": true,
+      "evidence": "STARS: 0-2 courses from STAR2000 (if not taken) and 3050 (if not taken)"
+    },
+    {
+      "course_code": "MATH2050",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH2050"
+    },
+    {
+      "course_code": "STAR3000",
+      "prefix_inferred": false,
+      "evidence": "STARS: 0-2 courses from STAR3000 and 4050"
+    },
+    {
+      "course_code": "STAR4050",
+      "prefix_inferred": true,
+      "evidence": "STARS: 0-2 courses from STAR3000 and 4050"
+    },
+    {
+      "course_code": "MATH2060",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH2060"
+    },
+    {
+      "course_code": "STAR3000",
+      "prefix_inferred": false,
+      "evidence": "STARS: 0-2 courses from STAR3000 (if not taken) and 4050 (if not taken)"
+    },
+    {
+      "course_code": "STAR4050",
+      "prefix_inferred": true,
+      "evidence": "STARS: 0-2 courses from STAR3000 (if not taken) and 4050 (if not taken)"
+    },
+    {
+      "course_code": "STAR3000",
+      "prefix_inferred": false,
+      "evidence": "STARS: 0-2 courses STAR3000 (if not taken) and 4050 (if not taken)"
+    },
+    {
+      "course_code": "STAR4050",
+      "prefix_inferred": true,
+      "evidence": "STARS: 0-2 courses STAR3000 (if not taken) and 4050 (if not taken)"
+    },
+    {
+      "course_code": "MATH4400",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH4400@, 0-1 course from MATH3060 or STAT2001 or 2006 (if not taken)"
+    },
+    {
+      "course_code": "MATH3060",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH4400@, 0-1 course from MATH3060 or STAT2001 or 2006 (if not taken)"
+    },
+    {
+      "course_code": "STAT2001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH4400@, 0-1 course from MATH3060 or STAT2001 or 2006 (if not taken)"
+    },
+    {
+      "course_code": "STAT2006",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH4400@, 0-1 course from MATH3060 or STAT2001 or 2006 (if not taken)"
+    },
+    {
+      "course_code": "MATH4400",
+      "prefix_inferred": false,
+      "evidence": "Students may take MATH4400 as a substitute for STAR4000."
+    },
+    {
+      "course_code": "STAR4000",
+      "prefix_inferred": false,
+      "evidence": "Students may take MATH4400 as a substitute for STAR4000."
+    },
+    {
+      "course_code": "MATH1010",
+      "prefix_inferred": false,
+      "evidence": "Students who plan to graduate in the Mathematics Stream, Computational and Applied Mathematics Stream, Computational Big Data Analytics Stream, Mathematics-Education Stream, Mathematics-Multidisciplinary Stream or Science, Technology And Research Stream may replace MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 with MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 respectively."
+    },
+    {
+      "course_code": "MATH1030",
+      "prefix_inferred": true,
+      "evidence": "Students who plan to graduate in the Mathematics Stream, Computational and Applied Mathematics Stream, Computational Big Data Analytics Stream, Mathematics-Education Stream, Mathematics-Multidisciplinary Stream or Science, Technology And Research Stream may replace MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 with MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 respectively."
+    },
+    {
+      "course_code": "MATH1050",
+      "prefix_inferred": true,
+      "evidence": "Students who plan to graduate in the Mathematics Stream, Computational and Applied Mathematics Stream, Computational Big Data Analytics Stream, Mathematics-Education Stream, Mathematics-Multidisciplinary Stream or Science, Technology And Research Stream may replace MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 with MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 respectively."
+    },
+    {
+      "course_code": "MATH1090",
+      "prefix_inferred": true,
+      "evidence": "Students who plan to graduate in the Mathematics Stream, Computational and Applied Mathematics Stream, Computational Big Data Analytics Stream, Mathematics-Education Stream, Mathematics-Multidisciplinary Stream or Science, Technology And Research Stream may replace MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 with MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 respectively."
+    },
+    {
+      "course_code": "MATH2010",
+      "prefix_inferred": true,
+      "evidence": "Students who plan to graduate in the Mathematics Stream, Computational and Applied Mathematics Stream, Computational Big Data Analytics Stream, Mathematics-Education Stream, Mathematics-Multidisciplinary Stream or Science, Technology And Research Stream may replace MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 with MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 respectively."
+    },
+    {
+      "course_code": "MATH2020",
+      "prefix_inferred": true,
+      "evidence": "Students who plan to graduate in the Mathematics Stream, Computational and Applied Mathematics Stream, Computational Big Data Analytics Stream, Mathematics-Education Stream, Mathematics-Multidisciplinary Stream or Science, Technology And Research Stream may replace MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 with MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 respectively."
+    },
+    {
+      "course_code": "MATH2040",
+      "prefix_inferred": true,
+      "evidence": "Students who plan to graduate in the Mathematics Stream, Computational and Applied Mathematics Stream, Computational Big Data Analytics Stream, Mathematics-Education Stream, Mathematics-Multidisciplinary Stream or Science, Technology And Research Stream may replace MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 with MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 respectively."
+    },
+    {
+      "course_code": "MATH2050",
+      "prefix_inferred": true,
+      "evidence": "Students who plan to graduate in the Mathematics Stream, Computational and Applied Mathematics Stream, Computational Big Data Analytics Stream, Mathematics-Education Stream, Mathematics-Multidisciplinary Stream or Science, Technology And Research Stream may replace MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 with MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 respectively."
+    },
+    {
+      "course_code": "MATH2060",
+      "prefix_inferred": true,
+      "evidence": "Students who plan to graduate in the Mathematics Stream, Computational and Applied Mathematics Stream, Computational Big Data Analytics Stream, Mathematics-Education Stream, Mathematics-Multidisciplinary Stream or Science, Technology And Research Stream may replace MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 with MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 respectively."
+    },
+    {
+      "course_code": "MATH2070",
+      "prefix_inferred": true,
+      "evidence": "Students who plan to graduate in the Mathematics Stream, Computational and Applied Mathematics Stream, Computational Big Data Analytics Stream, Mathematics-Education Stream, Mathematics-Multidisciplinary Stream or Science, Technology And Research Stream may replace MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 with MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 respectively."
+    },
+    {
+      "course_code": "MATH1018",
+      "prefix_inferred": false,
+      "evidence": "Students who plan to graduate in the Mathematics Stream, Computational and Applied Mathematics Stream, Computational Big Data Analytics Stream, Mathematics-Education Stream, Mathematics-Multidisciplinary Stream or Science, Technology And Research Stream may replace MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 with MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 respectively."
+    },
+    {
+      "course_code": "MATH1038",
+      "prefix_inferred": true,
+      "evidence": "Students who plan to graduate in the Mathematics Stream, Computational and Applied Mathematics Stream, Computational Big Data Analytics Stream, Mathematics-Education Stream, Mathematics-Multidisciplinary Stream or Science, Technology And Research Stream may replace MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 with MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 respectively."
+    },
+    {
+      "course_code": "MATH1058",
+      "prefix_inferred": true,
+      "evidence": "Students who plan to graduate in the Mathematics Stream, Computational and Applied Mathematics Stream, Computational Big Data Analytics Stream, Mathematics-Education Stream, Mathematics-Multidisciplinary Stream or Science, Technology And Research Stream may replace MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 with MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 respectively."
+    },
+    {
+      "course_code": "MATH1098",
+      "prefix_inferred": true,
+      "evidence": "Students who plan to graduate in the Mathematics Stream, Computational and Applied Mathematics Stream, Computational Big Data Analytics Stream, Mathematics-Education Stream, Mathematics-Multidisciplinary Stream or Science, Technology And Research Stream may replace MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 with MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 respectively."
+    },
+    {
+      "course_code": "MATH2018",
+      "prefix_inferred": true,
+      "evidence": "Students who plan to graduate in the Mathematics Stream, Computational and Applied Mathematics Stream, Computational Big Data Analytics Stream, Mathematics-Education Stream, Mathematics-Multidisciplinary Stream or Science, Technology And Research Stream may replace MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 with MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 respectively."
+    },
+    {
+      "course_code": "MATH2028",
+      "prefix_inferred": true,
+      "evidence": "Students who plan to graduate in the Mathematics Stream, Computational and Applied Mathematics Stream, Computational Big Data Analytics Stream, Mathematics-Education Stream, Mathematics-Multidisciplinary Stream or Science, Technology And Research Stream may replace MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 with MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 respectively."
+    },
+    {
+      "course_code": "MATH2048",
+      "prefix_inferred": true,
+      "evidence": "Students who plan to graduate in the Mathematics Stream, Computational and Applied Mathematics Stream, Computational Big Data Analytics Stream, Mathematics-Education Stream, Mathematics-Multidisciplinary Stream or Science, Technology And Research Stream may replace MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 with MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 respectively."
+    },
+    {
+      "course_code": "MATH2058",
+      "prefix_inferred": true,
+      "evidence": "Students who plan to graduate in the Mathematics Stream, Computational and Applied Mathematics Stream, Computational Big Data Analytics Stream, Mathematics-Education Stream, Mathematics-Multidisciplinary Stream or Science, Technology And Research Stream may replace MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 with MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 respectively."
+    },
+    {
+      "course_code": "MATH2068",
+      "prefix_inferred": true,
+      "evidence": "Students who plan to graduate in the Mathematics Stream, Computational and Applied Mathematics Stream, Computational Big Data Analytics Stream, Mathematics-Education Stream, Mathematics-Multidisciplinary Stream or Science, Technology And Research Stream may replace MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 with MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 respectively."
+    },
+    {
+      "course_code": "MATH2078",
+      "prefix_inferred": true,
+      "evidence": "Students who plan to graduate in the Mathematics Stream, Computational and Applied Mathematics Stream, Computational Big Data Analytics Stream, Mathematics-Education Stream, Mathematics-Multidisciplinary Stream or Science, Technology And Research Stream may replace MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 with MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 respectively."
+    },
+    {
+      "course_code": "MATH1018",
+      "prefix_inferred": false,
+      "evidence": "Students who plan to graduate in the Enrichment Stream or the double streams in Enrichment Stream and Computational and Applied Mathematics Stream may replace MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 with MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 respectively."
+    },
+    {
+      "course_code": "MATH1038",
+      "prefix_inferred": true,
+      "evidence": "Students who plan to graduate in the Enrichment Stream or the double streams in Enrichment Stream and Computational and Applied Mathematics Stream may replace MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 with MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 respectively."
+    },
+    {
+      "course_code": "MATH1058",
+      "prefix_inferred": true,
+      "evidence": "Students who plan to graduate in the Enrichment Stream or the double streams in Enrichment Stream and Computational and Applied Mathematics Stream may replace MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 with MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 respectively."
+    },
+    {
+      "course_code": "MATH1098",
+      "prefix_inferred": true,
+      "evidence": "Students who plan to graduate in the Enrichment Stream or the double streams in Enrichment Stream and Computational and Applied Mathematics Stream may replace MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 with MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 respectively."
+    },
+    {
+      "course_code": "MATH2018",
+      "prefix_inferred": true,
+      "evidence": "Students who plan to graduate in the Enrichment Stream or the double streams in Enrichment Stream and Computational and Applied Mathematics Stream may replace MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 with MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 respectively."
+    },
+    {
+      "course_code": "MATH2028",
+      "prefix_inferred": true,
+      "evidence": "Students who plan to graduate in the Enrichment Stream or the double streams in Enrichment Stream and Computational and Applied Mathematics Stream may replace MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 with MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 respectively."
+    },
+    {
+      "course_code": "MATH2048",
+      "prefix_inferred": true,
+      "evidence": "Students who plan to graduate in the Enrichment Stream or the double streams in Enrichment Stream and Computational and Applied Mathematics Stream may replace MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 with MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 respectively."
+    },
+    {
+      "course_code": "MATH2058",
+      "prefix_inferred": true,
+      "evidence": "Students who plan to graduate in the Enrichment Stream or the double streams in Enrichment Stream and Computational and Applied Mathematics Stream may replace MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 with MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 respectively."
+    },
+    {
+      "course_code": "MATH2068",
+      "prefix_inferred": true,
+      "evidence": "Students who plan to graduate in the Enrichment Stream or the double streams in Enrichment Stream and Computational and Applied Mathematics Stream may replace MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 with MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 respectively."
+    },
+    {
+      "course_code": "MATH2078",
+      "prefix_inferred": true,
+      "evidence": "Students who plan to graduate in the Enrichment Stream or the double streams in Enrichment Stream and Computational and Applied Mathematics Stream may replace MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 with MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 respectively."
+    },
+    {
+      "course_code": "MATH1010",
+      "prefix_inferred": false,
+      "evidence": "Students who plan to graduate in the Enrichment Stream or the double streams in Enrichment Stream and Computational and Applied Mathematics Stream may replace MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 with MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 respectively."
+    },
+    {
+      "course_code": "MATH1030",
+      "prefix_inferred": true,
+      "evidence": "Students who plan to graduate in the Enrichment Stream or the double streams in Enrichment Stream and Computational and Applied Mathematics Stream may replace MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 with MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 respectively."
+    },
+    {
+      "course_code": "MATH1050",
+      "prefix_inferred": true,
+      "evidence": "Students who plan to graduate in the Enrichment Stream or the double streams in Enrichment Stream and Computational and Applied Mathematics Stream may replace MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 with MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 respectively."
+    },
+    {
+      "course_code": "MATH1090",
+      "prefix_inferred": true,
+      "evidence": "Students who plan to graduate in the Enrichment Stream or the double streams in Enrichment Stream and Computational and Applied Mathematics Stream may replace MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 with MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 respectively."
+    },
+    {
+      "course_code": "MATH2010",
+      "prefix_inferred": true,
+      "evidence": "Students who plan to graduate in the Enrichment Stream or the double streams in Enrichment Stream and Computational and Applied Mathematics Stream may replace MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 with MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 respectively."
+    },
+    {
+      "course_code": "MATH2020",
+      "prefix_inferred": true,
+      "evidence": "Students who plan to graduate in the Enrichment Stream or the double streams in Enrichment Stream and Computational and Applied Mathematics Stream may replace MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 with MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 respectively."
+    },
+    {
+      "course_code": "MATH2040",
+      "prefix_inferred": true,
+      "evidence": "Students who plan to graduate in the Enrichment Stream or the double streams in Enrichment Stream and Computational and Applied Mathematics Stream may replace MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 with MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 respectively."
+    },
+    {
+      "course_code": "MATH2050",
+      "prefix_inferred": true,
+      "evidence": "Students who plan to graduate in the Enrichment Stream or the double streams in Enrichment Stream and Computational and Applied Mathematics Stream may replace MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 with MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 respectively."
+    },
+    {
+      "course_code": "MATH2060",
+      "prefix_inferred": true,
+      "evidence": "Students who plan to graduate in the Enrichment Stream or the double streams in Enrichment Stream and Computational and Applied Mathematics Stream may replace MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 with MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 respectively."
+    },
+    {
+      "course_code": "MATH2070",
+      "prefix_inferred": true,
+      "evidence": "Students who plan to graduate in the Enrichment Stream or the double streams in Enrichment Stream and Computational and Applied Mathematics Stream may replace MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 with MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 respectively."
+    },
+    {
+      "course_code": "MATH1010",
+      "prefix_inferred": false,
+      "evidence": "MATH1010"
+    },
+    {
+      "course_code": "MATH1018",
+      "prefix_inferred": false,
+      "evidence": "MATH1018"
+    },
+    {
+      "course_code": "MATH1020",
+      "prefix_inferred": false,
+      "evidence": "MATH1020"
+    },
+    {
+      "course_code": "MATH1025",
+      "prefix_inferred": false,
+      "evidence": "MATH1025"
+    },
+    {
+      "course_code": "MATH1028",
+      "prefix_inferred": false,
+      "evidence": "MATH1028"
+    },
+    {
+      "course_code": "MATH1030",
+      "prefix_inferred": false,
+      "evidence": "MATH1030"
+    },
+    {
+      "course_code": "MATH1038",
+      "prefix_inferred": false,
+      "evidence": "MATH1038"
+    },
+    {
+      "course_code": "MATH1050",
+      "prefix_inferred": false,
+      "evidence": "MATH1050"
+    },
+    {
+      "course_code": "MATH1058",
+      "prefix_inferred": false,
+      "evidence": "MATH1058"
+    },
+    {
+      "course_code": "MATH1090",
+      "prefix_inferred": false,
+      "evidence": "MATH1090"
+    },
+    {
+      "course_code": "MATH1098",
+      "prefix_inferred": false,
+      "evidence": "MATH1098"
+    },
+    {
+      "course_code": "MATH1510",
+      "prefix_inferred": false,
+      "evidence": "MATH1510"
+    },
+    {
+      "course_code": "MATH1520",
+      "prefix_inferred": false,
+      "evidence": "MATH1520"
+    },
+    {
+      "course_code": "MATH1525",
+      "prefix_inferred": false,
+      "evidence": "MATH1525"
+    },
+    {
+      "course_code": "MATH1530",
+      "prefix_inferred": false,
+      "evidence": "MATH1530"
+    },
+    {
+      "course_code": "MATH1540",
+      "prefix_inferred": false,
+      "evidence": "MATH1540"
+    },
+    {
+      "course_code": "MATH1550",
+      "prefix_inferred": false,
+      "evidence": "MATH1550"
+    },
+    {
+      "course_code": "MATH2010",
+      "prefix_inferred": false,
+      "evidence": "MATH2010"
+    },
+    {
+      "course_code": "MATH2018",
+      "prefix_inferred": false,
+      "evidence": "MATH2018"
+    },
+    {
+      "course_code": "MATH2020",
+      "prefix_inferred": false,
+      "evidence": "MATH2020"
+    },
+    {
+      "course_code": "MATH2028",
+      "prefix_inferred": false,
+      "evidence": "MATH2028"
+    },
+    {
+      "course_code": "MATH2040",
+      "prefix_inferred": false,
+      "evidence": "MATH2040"
+    },
+    {
+      "course_code": "MATH2048",
+      "prefix_inferred": false,
+      "evidence": "MATH2048"
+    },
+    {
+      "course_code": "MATH2050",
+      "prefix_inferred": false,
+      "evidence": "MATH2050"
+    },
+    {
+      "course_code": "MATH2058",
+      "prefix_inferred": false,
+      "evidence": "MATH2058"
+    },
+    {
+      "course_code": "MATH2060",
+      "prefix_inferred": false,
+      "evidence": "MATH2060"
+    },
+    {
+      "course_code": "MATH2068",
+      "prefix_inferred": false,
+      "evidence": "MATH2068"
+    },
+    {
+      "course_code": "MATH2070",
+      "prefix_inferred": false,
+      "evidence": "MATH2070"
+    },
+    {
+      "course_code": "MATH2078",
+      "prefix_inferred": false,
+      "evidence": "MATH2078"
+    },
+    {
+      "course_code": "MATH2221",
+      "prefix_inferred": false,
+      "evidence": "MATH2221"
+    },
+    {
+      "course_code": "MATH2230",
+      "prefix_inferred": false,
+      "evidence": "MATH2230"
+    },
+    {
+      "course_code": "MATH2530",
+      "prefix_inferred": false,
+      "evidence": "MATH2530"
+    },
+    {
+      "course_code": "MATH2550",
+      "prefix_inferred": false,
+      "evidence": "MATH2550"
+    },
+    {
+      "course_code": "MATH3020",
+      "prefix_inferred": false,
+      "evidence": "MATH3020"
+    },
+    {
+      "course_code": "MATH3030",
+      "prefix_inferred": false,
+      "evidence": "MATH3030"
+    },
+    {
+      "course_code": "MATH3040",
+      "prefix_inferred": false,
+      "evidence": "MATH3040"
+    },
+    {
+      "course_code": "MATH3060",
+      "prefix_inferred": false,
+      "evidence": "MATH3060"
+    },
+    {
+      "course_code": "MATH3070",
+      "prefix_inferred": false,
+      "evidence": "MATH3070"
+    },
+    {
+      "course_code": "MATH3080",
+      "prefix_inferred": false,
+      "evidence": "MATH3080"
+    },
+    {
+      "course_code": "MATH3093",
+      "prefix_inferred": false,
+      "evidence": "MATH3093"
+    },
+    {
+      "course_code": "MATH3215",
+      "prefix_inferred": false,
+      "evidence": "MATH3215"
+    },
+    {
+      "course_code": "MATH3230",
+      "prefix_inferred": false,
+      "evidence": "MATH3230"
+    },
+    {
+      "course_code": "MATH3240",
+      "prefix_inferred": false,
+      "evidence": "MATH3240"
+    },
+    {
+      "course_code": "MATH3250",
+      "prefix_inferred": false,
+      "evidence": "MATH3250"
+    },
+    {
+      "course_code": "MATH3260",
+      "prefix_inferred": false,
+      "evidence": "MATH3260"
+    },
+    {
+      "course_code": "MATH3270",
+      "prefix_inferred": false,
+      "evidence": "MATH3270"
+    },
+    {
+      "course_code": "MATH3280",
+      "prefix_inferred": false,
+      "evidence": "MATH3280"
+    },
+    {
+      "course_code": "MATH3290",
+      "prefix_inferred": false,
+      "evidence": "MATH3290"
+    },
+    {
+      "course_code": "MATH3310",
+      "prefix_inferred": false,
+      "evidence": "MATH3310"
+    },
+    {
+      "course_code": "MATH3320",
+      "prefix_inferred": false,
+      "evidence": "MATH3320"
+    },
+    {
+      "course_code": "MATH3330",
+      "prefix_inferred": false,
+      "evidence": "MATH3330"
+    },
+    {
+      "course_code": "MATH3340",
+      "prefix_inferred": false,
+      "evidence": "MATH3340"
+    },
+    {
+      "course_code": "MATH3360",
+      "prefix_inferred": false,
+      "evidence": "MATH3360"
+    },
+    {
+      "course_code": "MATH4010",
+      "prefix_inferred": false,
+      "evidence": "MATH4010"
+    },
+    {
+      "course_code": "MATH4020",
+      "prefix_inferred": false,
+      "evidence": "MATH4020"
+    },
+    {
+      "course_code": "MATH4030",
+      "prefix_inferred": false,
+      "evidence": "MATH4030"
+    },
+    {
+      "course_code": "MATH4050",
+      "prefix_inferred": false,
+      "evidence": "MATH4050"
+    },
+    {
+      "course_code": "MATH4060",
+      "prefix_inferred": false,
+      "evidence": "MATH4060"
+    },
+    {
+      "course_code": "MATH4080",
+      "prefix_inferred": false,
+      "evidence": "MATH4080"
+    },
+    {
+      "course_code": "MATH4210",
+      "prefix_inferred": false,
+      "evidence": "MATH4210"
+    },
+    {
+      "course_code": "MATH4220",
+      "prefix_inferred": false,
+      "evidence": "MATH4220"
+    },
+    {
+      "course_code": "MATH4230",
+      "prefix_inferred": false,
+      "evidence": "MATH4230"
+    },
+    {
+      "course_code": "MATH4240",
+      "prefix_inferred": false,
+      "evidence": "MATH4240"
+    },
+    {
+      "course_code": "MATH4250",
+      "prefix_inferred": false,
+      "evidence": "MATH4250"
+    },
+    {
+      "course_code": "MATH4260",
+      "prefix_inferred": false,
+      "evidence": "MATH4260"
+    },
+    {
+      "course_code": "MATH4280",
+      "prefix_inferred": false,
+      "evidence": "MATH4280"
+    },
+    {
+      "course_code": "MATH4400",
+      "prefix_inferred": false,
+      "evidence": "MATH4400"
+    },
+    {
+      "course_code": "MATH4900",
+      "prefix_inferred": false,
+      "evidence": "MATH4900"
+    },
+    {
+      "course_code": "MATH5011",
+      "prefix_inferred": false,
+      "evidence": "MATH5011"
+    },
+    {
+      "course_code": "MATH5012",
+      "prefix_inferred": false,
+      "evidence": "MATH5012"
+    },
+    {
+      "course_code": "MATH5021",
+      "prefix_inferred": false,
+      "evidence": "MATH5021"
+    },
+    {
+      "course_code": "MATH5022",
+      "prefix_inferred": false,
+      "evidence": "MATH5022"
+    },
+    {
+      "course_code": "MATH5031",
+      "prefix_inferred": false,
+      "evidence": "MATH5031"
+    },
+    {
+      "course_code": "MATH5032",
+      "prefix_inferred": false,
+      "evidence": "MATH5032"
+    },
+    {
+      "course_code": "MATH5051",
+      "prefix_inferred": false,
+      "evidence": "MATH5051"
+    },
+    {
+      "course_code": "MATH5052",
+      "prefix_inferred": false,
+      "evidence": "MATH5052"
+    },
+    {
+      "course_code": "MATH5061",
+      "prefix_inferred": false,
+      "evidence": "MATH5061"
+    },
+    {
+      "course_code": "MATH5062",
+      "prefix_inferred": false,
+      "evidence": "MATH5062"
+    },
+    {
+      "course_code": "MATH5070",
+      "prefix_inferred": false,
+      "evidence": "MATH5070"
+    },
+    {
+      "course_code": "STAR2000",
+      "prefix_inferred": false,
+      "evidence": "STAR2000"
+    },
+    {
+      "course_code": "STAR2050",
+      "prefix_inferred": false,
+      "evidence": "STAR2050"
+    },
+    {
+      "course_code": "STAR3000",
+      "prefix_inferred": false,
+      "evidence": "STAR3000"
+    },
+    {
+      "course_code": "STAR3050",
+      "prefix_inferred": false,
+      "evidence": "STAR3050"
+    },
+    {
+      "course_code": "STAR4000",
+      "prefix_inferred": false,
+      "evidence": "STAR4000"
+    },
+    {
+      "course_code": "STAR4050",
+      "prefix_inferred": false,
+      "evidence": "STAR4050"
+    }
+  ],
+  "course_code_aliases": [],
+  "source": {
+    "system": "CUHK CUSIS Browse Program Information",
+    "url": "https://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/tt_dsp_acad_prog.aspx",
+    "source_text_file": "data/cuhk/2024/programmes/B_Sc_in_Mathematics__Faculty_of_Science.txt",
+    "reused_duplicate_entry": false,
+    "reused_from_faculty": null
+  },
+  "raw_text": "\n\nBrowse Program Information\n\n\n\n\n\n\nAcademic Program:\tB.Sc. in Mathematics\nAcademic Year:\t2024\nLanguage:\t\nEnglish\nSimplified Chinese\nTraditional Chinese\n\n\n\nLearning Outcomes\nStudy Scheme\n \n\n\t\n\nMathematics\n\nApplicable to students admitted in 2024-25\n\n\n\n\n \n\n\n\n\n \n\nMajor Programme Requirement\n\n \n\n\t\n\n \n\n\n\n\nStudents are required to complete a minimum of 71 units[a] of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nFaculty Package:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nGroup C: MATH1010 or 1018 or 1030 or 1038    \n\nGroup E: STAT1011      \n\nA course from the following\n\nGroup A: LSCI1001 or 1002\n\nGroup B: CHEM1070 or 1072 or 1280\n\nGroup D: PHYS1001 or 1002 or 1111 or 1113\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nRequired Courses:\n\n\t\n\n35\n\n\n\n\n(a)\n\n\t\n\nMATH1010 or 1018, 1030 or 1038, 1050 or 1058 or 1090 or 1098, 2010 or 2018, 2020 or 2028, 2040 or 2048, 2050 or 2058, 2060[b] or 2068, 2070 or 2078, 2221, 2230\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nAt least one course from MATH3060, STAT2001 or 2006\n\n\t\n\n \n\n\n\n\n(c)\n\n\t\n\nCapstone course[b]: Either MATH4400 or 4900\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nElective Courses:\n\n\t\n\n27\n\n\n\n\n(a)\n\n\t\n\n9 units of MATH courses at 3000 or above level, and\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\n18 units of courses chosen according to any one stream below:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nFor students who specialize in Enrichment Stream[c]:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n12-18 units from MATH3030, 3040, 3060, 3070, 3093, 3230, 3270, 3340, 4010, 4030, 4050, 4060, 4080, 4220, 5011, 5012, 5021, 5022, 5031, 5032, 5051, 5052, 5061, 5062, 5070; and 0-3 units from MATH3240, 4280; and 0-3 units from MATH3320, 4230\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nFor students who specialize in Computational and Applied Mathematics Stream:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nCSCI1540# and MATH3230; and 9-12 units from MATH3093, 32xx, 33xx, 42xx, 43xx, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, SEEM3570#/ESTR3508#\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nFor students who specialize in Computational Big Data Analytics Stream:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n9-12 units from MATH3320, 3330, 3340, 4280; and 3-9 units from MATH3215, 3230, 3280, 3290, 3310, 3360, 4230, 4240, in which 0-3 units may be chosen from IERG5124#, SEEM3550#/ESTR3506#, STAT4005#\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nFor students in the Mathematics Stream:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nMATH courses at 3000 or above level, and/or courses at 2000 or above level of one other subject area[d] offered by the Faculties/Departments of Science, Engineering, Economics and Finance, with at least 12 units of MATH courses at 3000 or above level. The specific subject area codes are given in explanatory note[e].\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nFor students who specialize in Mathematics-Education Stream:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nMATH and BMED courses at 3000 or above level, with at least 9 units of BMED courses.\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nFor students who specialize in Mathematics-Multidisciplinary Stream:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nMATH courses at 3000 or above level, and/or courses at 2000 or above level of at most two other subject areas[d] offered by the Faculties/Departments of Science, Engineering, Economics, and Finance, with at least 9 units of non-MATH courses. The specific subject area codes are given in explanatory note[e].\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n71\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\nIn addition to fulfilling the above Major Programme Requirement, students meeting the criteria as specified by the Faculty can take the following stream offered by the Faculty:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\nScience, Technology And Research Stream\n\n \n\n\n\n\nStudents are required to complete a minimum of 12 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nRequired Courses:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nOne Faculty Package Course:\n\n\t\n\n3\n\n\n\n\n \n\n\t\n\nChoose from the two remaining groups of the Faculty Package that have not been used to fulfill the Faculty Package Requirement\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nResearch Courses:\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nSTAR2000, 3000, 4000[f]\n\n\t\n\n \n\n\n\n\n(c)\n\n\t\n\nSeminar Courses:\n\n\t\n\n3\n\n\n\n\n \n\n\t\n\nSTAR2050, 3050, 4050\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nExperiential Learning:\n\n\t\n\n---\n\n\n\n\n \n\n\t\n\nAt least 4 consecutive weeks of outside Hong Kong exposure[g]\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n12\n\n\n\n\n \n\n\n\n\nExplanatory Notes:\n\n\n\n\n1.\n\n\t\n\nMATH1010, 1018, 1030, 1038, 1050, 1058, 1090, 1098, MATH courses at 2000 and above level, BMED courses at 3000 and above level, courses at 2000 and above level of the subject areas listed in [e] below as well as those labeled as # will be included in the calculation of Major GPA for honours classification if students specialize in the respective streams.\n\n\n\n\n2.\n\n\t\n\nStudents who have satisfied the requirements of both Enrichment Stream (ESM) and Computational and Applied Mathematics Stream (CAM) will be allowed to graduate with double stream specialization in ESM and CAM.\n\nStudents may refer to the Recommended Course Pattern on double streams in Enrichment Stream and Computational and Applied Mathematics Stream.\n\n\n\n\n[a]\n\n\t\n\nStudents who select to graduate in Mathematics and Information Engineering should complete a minimum of 87 units according to the requirements of the relevant programme. They should also declare the choice before their second year of attendance.\n\n\n\n\n[b]\n\n\t\n\nStudents in Mathematics and Mathematics Education may replace MATH2060 with any MATH course at 3000 or above level, and take BMED4510 as Capstone course.\n\n\n\n\n[c]\n\n\t\n\nStudents admitted to the Enrichment Mathematics Programme are automatically placed in the Enrichment Stream, declaration is not required.\n\nOther Major students may apply to specialize in the Enrichment Stream if the requirement below is satisfied:\n\nCumulative Major GPA of at least 3.3, or the preceding two semesters’ Major GPA of at least 3.3.\n\n\n\n\n[d]\n\n\t\n\nStudents shall declare the subject area(s) at least one term before graduation.\n\n\n\n\n[e]\n\n\t\n\nFaculty/\n\nDepartment\n\n\t\n\nSubject Area Code\n\n\n\n\n \n\n\t\n\nScience\n\n\t\n\nBCHE, BIOL, CHEM, CMBI, EESC, ENSC, ESSC, FNSC, LSCI, MBTE, PHYS, RMSC, STAT\n\n\n\n\n \n\n\t\n\nEngineering\n\n\t\n\nAIST, BMEG, CENG, CSCI, EEEN, ELEG, ENER, ENGG, ESTR, FTEC, IERG, MAEG, SEEM\n\n\n\n\n \n\n\t\n\nEconomics/Finance\n\n\t\n\nDOTE, ECON, FINA, GLEF\n\n\n\n\n[f]\n\n\t\n\nStudents may select research-oriented course(s), as approved by the Major Programme, to substitute up to 4 units for fulfillment of Research Courses requirement.\n\n\n\n\n[g]\n\n\t\n\nStudents must complete any exchange/research/internship programme(s) offered by the University, Colleges, the Faculty of Science or Major Programme, as approved by the Major Programme, to fulfill the Experiential Learning requirement.  Students are responsible for the extra costs incurred in the exchange/research/internship programme(s).\n\n\n\n\n \n\n\t\n\n \n\n\n\t\t\t\n\n\n\n\n \n\n\n\n\nMathematics (Mathematics Stream/Mathematics-Education Stream/Mathematics-Multidisciplinary Stream)\n\n\n\n\n \n\n\t\n\nRecommended Course Pattern*+\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: MATH1010, 0-1 course from either STAT1011 or a course from Groups A, B or D\n\n\t\n\n3-6\n\n \n\n\n\n\nMajor Required: 0-1 course from MATH1030\n\n\t\n\n0-3\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nFaculty Package: A course from Groups A, B or D (if not taken), STAT1011 (if not taken)\n\n\t\n\n3-6\n\n \n\n\n\n\nMajor Required: MATH1030 (if not taken), 1050 or 1090\n\n\t\n\n3-6\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: MATH2010, 2040, 0-1 course from STAT2001 or 2006\n\n\t\n\n6-9\n\n \n\n\n\n\nMajor Elective(s): Elective course 3(a) or (b)\n\n\t\n\n3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: MATH2020, 2221, 0-1 course from STAT2001 or 2006 (if not taken)\n\n\t\n\n5-8\n\n \n\n\n\n\nMajor Elective(s): Elective courses 3(a) and/or (b)\n\n\t\n\n6\n\n\n\n\nThird Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: MATH2050, 2070 or 2230\n\n\t\n\n6\n\n\n\n\nMajor Elective(s): Elective course 3(a) or (b)\n\n\t\n\n3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: MATH2060, 2070 or 2230\n\n\t\n\n6\n\n\n\n\nMajor Elective(s): Elective course 3(a) or (b)\n\n\t\n\n3\n\n\n\n\nFourth Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: Capstone course, 0-1 course from MATH3060 (if not taken STAT2001 or 2006)\n\n\t\n\n3-6\n\n \n\n\n\n\nMajor Elective(s): Elective course 3(a) or (b)\n\n\t\n\n3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required:\n\n\t\n\n \n\n\n\n\nMajor Elective(s): Elective courses 3(a) and/or (b)\n\n\t\n\n9\n\n\n\n\nTotal (including Faculty Package):\n\n\t\n\n71\n\n\n\n\n \n\n\n\n\nMathematics (Enrichment Stream)\n\n\n\n\n \n\n\t\n\nRecommended Course Pattern*∞\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: MATH1018, STAT1011\n\n\t\n\n6\n\n\n\n\nMajor Required: MATH1038\n\n\t\n\n3\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nFaculty Package: A course from Groups A, B or D\n\n\t\n\n3\n\n\n\n\nMajor Required: MATH1058 or 1098, 2018\n\n\t\n\n6\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: MATH2028, 2048, 2058\n\n\t\n\n9\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: MATH2068, 2078, 2221, 2230\n\n\t\n\n11\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nThird Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: MATH3060 or STAT2001 or 2006\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): Elective courses 3(a) and (b)\n\n\t\n\n6\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required:\n\n\t\n\n \n\n\n\n\nMajor Elective(s): Elective courses 3(a) and (b)\n\n\t\n\n9\n\n\n\n\nFourth Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: Capstone course\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): Elective courses 3(a) and (b)\n\n\t\n\n6\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required:\n\n\t\n\n \n\n\n\n\nMajor Elective(s): Elective courses 3(a) and (b)\n\n\t\n\n6\n\n\n\n\nTotal (including Faculty Package):\n\n\t\n\n71\n\n\n\n\n \n\n\n\n\nMathematics (Computational and Applied Mathematics Stream)\n\n\n\n\n \n\n\t\n\nRecommended Course Pattern*+\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: MATH1010, 0-1 course from either STAT1011 or a course from Groups A, B or D\n\n\t\n\n3-6\n\n \n\n\n\n\nMajor Required: 0-1 course from MATH1030\n\n\t\n\n0-3\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nFaculty Package: A course from Groups A, B or D (if not taken), STAT1011 (if not taken)\n\n\t\n\n3-6\n\n\n\n\nMajor Required: MATH1030 (if not taken), 1050 or 1090\n\n\t\n\n3-6\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: MATH2010, 2040\n\n\t\n\n6\n\n\n\n\nMajor Elective(s): CSCI1540\n\n\t\n\n3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: MATH2020, 2221, 0-1 course from STAT2001 or 2006\n\n\t\n\n5-8\n\n \n\n\n\n\nMajor Elective(s): Elective courses 3(a) and/or (b)\n\n\t\n\n6\n\n\n\n\nThird Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: MATH2050, 2070 or 2230\n\n\t\n\n6\n\n\n\n\nMajor Elective(s): MATH3230\n\n\t\n\n3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: MATH2060, 2070 or 2230\n\n\t\n\n6\n\n\n\n\nMajor Elective(s): Elective course 3(a) or (b)\n\n\t\n\n3\n\n\n\n\nFourth Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: Capstone course, 0-1 course from MATH3060 (if not taken STAT2001 or 2006)\n\n\t\n\n3-6\n\n \n\n\n\n\nMajor Elective(s): Elective course 3(a) or (b)\n\n\t\n\n3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required:\n\n\t\n\n \n\n\n\n\nMajor Elective(s): Elective courses 3(a) and/or (b)\n\n\t\n\n9\n\n\n\n\nTotal (including Faculty Package):\n\n\t\n\n71\n\n\n\n\n \n\n\n\n\nMathematics (Computational Big Data Analytics Stream)\n\n\n\n\n \n\n\t\n\nRecommended Course Pattern*+\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: MATH1010, 0-1 course from either STAT1011 or a course from Groups A, B or D\n\n\t\n\n3-6\n\n \n\n\n\n\nMajor Required: 0-1 course from MATH1030\n\n\t\n\n0-3\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nFaculty Package: A course from Groups A, B or D (if not taken), STAT1011 (if not taken)\n\n\t\n\n3-6\n\n \n\n\n\n\nMajor Required: MATH1030 (if not taken), 1050 or 1090\n\n\t\n\n3-6\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: MATH2010, 2040\n\n\t\n\n6\n\n\n\n\nMajor Elective(s): Elective course 3(a) or (b)\n\n\t\n\n3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: MATH2020, 2221, 0-1 course from STAT2001 or 2006\n\n\t\n\n5-8\n\n \n\n\n\n\nMajor Elective(s): Elective courses 3(a) and/or (b)\n\n\t\n\n6\n\n\n\n\nThird Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: MATH2050, 2070 or 2230\n\n\t\n\n6\n\n\n\n\nMajor Elective(s): 0-1 course from MATH3320 (preferred), 3330, 3340, 4280\n\n\t\n\n0-3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: MATH2060, 2070 or 2230\n\n\t\n\n6\n\n\n\n\nMajor Elective(s): 0-1 course from MATH3320, 3330 (preferred), 3340, 4280\n\n\t\n\n0-3\n\n\n\n\nFourth Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: Capstone course, 0-1 course from MATH3060 (if not taken STAT2001 or 2006)\n\n\t\n\n3-6\n\n \n\n\n\n\nMajor Elective(s): 0-1 course from MATH3320, 3330, 3340, 4280 (preferred), Elective courses 3(a)and/ or (b)\n\n\t\n\n3-6\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required:\n\n\t\n\n \n\n\n\n\nMajor Elective(s): 0-1 course from MATH3320, 3330, 3340 (preferred), 4280, Elective courses 3(a) and/ or (b)\n\n\t\n\n9\n\n\n\n\nTotal (including Faculty Package):\n\n\t\n\n71\n\n\n\n\n \n\n\n\n\nMathematics (Double streams in Enrichment Stream and Computational and Applied Mathematics Stream)\n\n\n\n\n \n\n\t\n\nRecommended Course Pattern*∞\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: MATH1018, STAT1011\n\n\t\n\n6\n\n\n\n\nMajor Required: MATH1038\n\n\t\n\n3\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nFaculty Package: A course from Groups A, B or D\n\n\t\n\n3\n\n\n\n\nMajor Required: MATH1058 or 1098, 2018\n\n\t\n\n6\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nSecond Year of Attendance\n\n\t\n\nPattern A (with greater emphasis on Computational and Applied Mathematics requirements)@\n\n\n\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: MATH2028, 2048, 0-1 course from STAT2001 or 2006\n\n\t\n\n6-9\n\n \n\n\n\n\nMajor Elective(s): CSCI1540\n\n\t\n\n3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: MATH2078, 2221, 2230, 0-1 course from STAT2001 or 2006 (if not taken)\n\n\t\n\n8-11\n\n \n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nPattern B (with greater emphasis on Enrichment requirements)@\n\n\n\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: MATH2028, 2048, 2058\n\n\t\n\n9\n\n\n\n\nMajor Elective(s): 0-1 course from CSCI1540\n\n\t\n\n0-3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: MATH2068, 2078, 2221, 2230\n\n\t\n\n11\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nThird Year of Attendance\n\n\t\n\nPattern A (with greater emphasis on Computational and Applied Mathematics requirements)@\n\n\n\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: MATH2058\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): MATH3230, Elective courses 3(a) and/or (b)\n\n\t\n\n6-9\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: MATH2068\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): Elective courses 3(a) and (b)\n\n\t\n\n6-9\n\n\n\n\nPattern B (with greater emphasis on Enrichment requirements)@\n\n\n\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: MATH3060 or STAT2001 or 2006\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): MATH3230, Elective courses 3(a) and/or (b), 0-1 course from CSCI1540 (if not taken)\n\n\t\n\n6-9\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required:\n\n\t\n\n \n\n\n\n\nMajor Elective(s): Elective courses 3(a) and (b)\n\n\t\n\n9\n\n\n\n\nFourth Year of Attendance\n\n\t\n\nPattern A (with greater emphasis on Computational and Applied Mathematics requirements)@\n\n\n\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: Capstone course, 0-1 course from MATH3060 or STAT2001 or 2006 (if not taken)\n\n\t\n\n3-6\n\n \n\n\n\n\nMajor Elective(s): Elective course 3(a) or (b)\n\n\t\n\n3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required:\n\n\t\n\n \n\n\n\n\nMajor Elective(s): Elective courses 3(a) and (b)\n\n\t\n\n9\n\n\n\n\nPattern B (with greater emphasis on Enrichment requirements)@\n\n\n\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: Capstone course\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): Elective course 3(a) or (b)\n\n\t\n\n3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required:\n\n\t\n\n \n\n\n\n\nMajor Elective(s): Elective courses 3(a) and (b)\n\n\t\n\n9\n\n\n\n\nTotal (including Faculty Package):\n\n\t\n\n74\n\n\n\n\n @\n\n\t\n\nStudents should follow either Pattern A or B throughout the whole study period.\n\n\n\n\n \n\n\n\n\nMathematics ¾ Science, Technology And Research Stream (STARS)\n\n\n\n\n \n\n\t\n\nRecommended Course Pattern*+\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: MATH1010, STAT1011\n\n\t\n\n6\n\n\n\n\nMajor Required: MATH1030\n\n\t\n\n3\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nFaculty Package: A course from Groups A, B or D\n\n\t\n\n3\n\n\n\n\nMajor Required: MATH1050 or 1090, 2010\n\n\t\n\n6\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nSTARS: STAR2050\n\n\t\n\n0-1\n\n\n\n\nSummer session\n\n\t\n\n \n\n\n\n\nSTARS: STAR2050 (if not taken)\n\n\t\n\n0-1\n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: MATH2020, 2040, 2070, 0-1 course from STAT2001 or 2006\n\n\t\n\n9-12\n\n \n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nSTARS: 0-2 courses from STAR2000 and 3050, a Faculty Package course chosen from the two remaining groups\n\n\t\n\n0-5\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: MATH2221, 2230, 0-1 course from STAT2001 or 2006 (if not taken)\n\n\t\n\n5-8\n\n \n\n\n\n\nMajor Elective(s): Elective course 3(a) or (b)\n\n\t\n\n3\n\n\n\n\nSTARS: 0-2 courses from STAR2000 (if not taken) and 3050 (if not taken), a Faculty Package course chosen from the two remaining groups (if not taken)\n\n\t\n\n0-5\n\n\n\n\nSummer session\n\n\t\n\n \n\n\n\n\nSTARS: 0-2 courses from STAR2000 (if not taken) and 3050 (if not taken)\n\n\t\n\n0-2\n\n\n\n\nThird Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: MATH2050\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): Elective courses 3(a) and (b)\n\n\t\n\n6\n\n\n\n\nSTARS: 0-2 courses from STAR3000 and 4050\n\n\t\n\n0-3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: MATH2060\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): Elective courses 3(a) and (b)\n\n\t\n\n6\n\n\n\n\nSTARS: 0-2 courses from STAR3000 (if not taken) and 4050 (if not taken)\n\n\t\n\n0-3\n\n\n\n\nSummer session\n\n\t\n\n \n\n\n\n\nSTARS: 0-2 courses STAR3000 (if not taken) and 4050 (if not taken)\n\n\t\n\n0-3\n\n\n\n\nFourth Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: MATH4400@, 0-1 course from MATH3060 or STAT2001 or 2006 (if not taken)\n\n\t\n\n3-6\n\n \n\n\n\n\nMajor Elective(s): Elective course 3(a) or (b)\n\n\t\n\n3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required:\n\n\t\n\n \n\n\n\n\nMajor Elective(s): Elective courses 3(a) and (b)\n\n\t\n\n9\n\n\n\n\nTotal (including Faculty Package):\n\n\t\n\n80\n\n\n\n\n @\n\n\t\n\nStudents may take MATH4400 as a substitute for STAR4000.\n\n \n\n\n\n\n +\n\n\t\n\nStudents who plan to graduate in the Mathematics Stream, Computational and Applied Mathematics Stream, Computational Big Data Analytics Stream, Mathematics-Education Stream, Mathematics-Multidisciplinary Stream or Science, Technology And Research Stream may replace MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 with MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 respectively.\n\n \n\n\n\n\n ∞\n\n\t\n\nStudents who plan to graduate in the Enrichment Stream or the double streams in Enrichment Stream and Computational and Applied Mathematics Stream may replace MATH1018, 1038, 1058 or 1098, 2018, 2028, 2048, 2058, 2068, 2078 with MATH1010, 1030, 1050 or 1090, 2010, 2020, 2040, 2050, 2060, 2070 respectively.\n\n \n\n\n\n\n *\n\n\t\n\nStudents who plan to graduate in Mathematics and Information Engineering or Mathematics and Mathematics Education should follow the Recommended Course Pattern of the corresponding programmes.\n\n\n\n\n \n\n\n\n\nMinor Programme Title\n\nMathematics\n\n \n\n\n\n\n \n\nMinor Programme Requirement\n\n \n\n\t\n\n \n\n\n\n\nStudents are required to complete a minimum of 18 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nElective Courses:\n\n\t\n\n18\n\n\n\n\n \n\n\t\n\n18 units of MATH courses, out of which at least 6 units of courses at 3000 to 5000 level\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n18\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\n\n\nCourse List\n\n \n\n\n\n\nCourse Code\n\n\t\n\nCourse\n\n\t\n\nUnit(s)\n\n\n\n\nMATH1010\n\n\t\n\nUniversity Mathematics\n\n\t\n\n3\n\n\n\n\nMATH1018\n\n\t\n\nHonours University Mathematics\n\n\t\n\n3\n\n\n\n\nMATH1020\n\n\t\n\nGeneral Mathematics\n\n\t\n\n3\n\n\n\n\nMATH1025\n\n\t\n\nEssential Mathematical Methods\n\n\t\n\n3\n\n\n\n\nMATH1028\n\n\t\n\nHonours Essential Mathematical Methods\n\n\t\n\n3\n\n\n\n\nMATH1030\n\n\t\n\nLinear Algebra I\n\n\t\n\n3\n\n\n\n\nMATH1038\n\n\t\n\nHonours Linear Algebra I\n\n\t\n\n3\n\n\n\n\nMATH1050\n\n\t\n\nFoundation of Modern Mathematics\n\n\t\n\n3\n\n\n\n\nMATH1058\n\n\t\n\nHonours Foundation of Modern Mathematics\n\n\t\n\n3\n\n\n\n\nMATH1090\n\n\t\n\nIntroduction to Set Theory\n\n\t\n\n3\n\n\n\n\nMATH1098\n\n\t\n\nHonours Introduction to Set Theory\n\n\t\n\n3\n\n\n\n\nMATH1510\n\n\t\n\nCalculus for Engineers\n\n\t\n\n3\n\n\n\n\nMATH1520\n\n\t\n\nUniversity Mathematics for Applications\n\n\t\n\n3\n\n\n\n\nMATH1525\n\n\t\n\nBasic Mathematics for Science and Technology\n\n\t\n\n3\n\n\n\n\nMATH1530\n\n\t\n\nBasic Mathematics for Business and Social Sciences\n\n\t\n\n3\n\n\n\n\nMATH1540\n\n\t\n\nUniversity Mathematics for Financial Studies\n\n\t\n\n3\n\n\n\n\nMATH1550\n\n\t\n\nMethods of Matrices and Linear Algebra\n\n\t\n\n3\n\n\n\n\nMATH2010\n\n\t\n\nAdvanced Calculus I\n\n\t\n\n3\n\n\n\n\nMATH2018\n\n\t\n\nHonours Advanced Calculus I\n\n\t\n\n3\n\n\n\n\nMATH2020\n\n\t\n\nAdvanced Calculus II\n\n\t\n\n3\n\n\n\n\nMATH2028\n\n\t\n\nHonours Advanced Calculus II\n\n\t\n\n3\n\n\n\n\nMATH2040\n\n\t\n\nLinear Algebra II\n\n\t\n\n3\n\n\n\n\nMATH2048\n\n\t\n\nHonours Linear Algebra II\n\n\t\n\n3\n\n\n\n\nMATH2050\n\n\t\n\nMathematical Analysis I\n\n\t\n\n3\n\n\n\n\nMATH2058\n\n\t\n\nHonours Mathematical Analysis I\n\n\t\n\n3\n\n\n\n\nMATH2060\n\n\t\n\nMathematical Analysis II\n\n\t\n\n3\n\n\n\n\nMATH2068\n\n\t\n\nHonours Mathematical Analysis II\n\n\t\n\n3\n\n\n\n\nMATH2070\n\n\t\n\nAlgebraic Structures\n\n\t\n\n3\n\n\n\n\nMATH2078\n\n\t\n\nHonours Algebraic Structures\n\n\t\n\n3\n\n\n\n\nMATH2221\n\n\t\n\nMathematics Laboratory II\n\n\t\n\n2\n\n\n\n\nMATH2230\n\n\t\n\nComplex Variables with Applications\n\n\t\n\n3\n\n\n\n\nMATH2530\n\n\t\n\nAdvanced Calculus (I) for Physical Science and Engineering\n\n\t\n\n3\n\n\n\n\nMATH2550\n\n\t\n\nQuantitative Methods for Earth and Environmental Sciences\n\n\t\n\n3\n\n\n\n\nMATH3020\n\n\t\n\nAxiomatic Set Theory and Applications\n\n\t\n\n3\n\n\n\n\nMATH3030\n\n\t\n\nAbstract Algebra\n\n\t\n\n3\n\n\n\n\nMATH3040\n\n\t\n\nFields and Galois Theory\n\n\t\n\n3\n\n\n\n\nMATH3060\n\n\t\n\nMathematical Analysis III\n\n\t\n\n3\n\n\n\n\nMATH3070\n\n\t\n\nIntroduction to Topology\n\n\t\n\n3\n\n\n\n\nMATH3080\n\n\t\n\nNumber Theory\n\n\t\n\n3\n\n\n\n\nMATH3093\n\n\t\n\nFourier Analysis\n\n\t\n\n3\n\n\n\n\nMATH3215\n\n\t\n\nOperations Research\n\n\t\n\n3\n\n\n\n\nMATH3230\n\n\t\n\nNumerical Analysis\n\n\t\n\n3\n\n\n\n\nMATH3240\n\n\t\n\nNumerical Methods for Differential Equations\n\n\t\n\n3\n\n\n\n\nMATH3250\n\n\t\n\nDiscrete Mathematics\n\n\t\n\n3\n\n\n\n\nMATH3260\n\n\t\n\nGraph Theory\n\n\t\n\n3\n\n\n\n\nMATH3270\n\n\t\n\nOrdinary Differential Equations\n\n\t\n\n3\n\n\n\n\nMATH3280\n\n\t\n\nIntroductory Probability\n\n\t\n\n3\n\n\n\n\nMATH3290\n\n\t\n\nMathematical Modeling\n\n\t\n\n3\n\n\n\n\nMATH3310\n\n\t\n\nComputational and Applied Mathematics\n\n\t\n\n3\n\n\n\n\nMATH3320\n\n\t\n\nFoundation of Data Analytics\n\n\t\n\n3\n\n\n\n\nMATH3330\n\n\t\n\nBig Data Computing\n\n\t\n\n3\n\n\n\n\nMATH3340\n\n\t\n\nMathematics of Machine Learning\n\n\t\n\n3\n\n\n\n\nMATH3360\n\n\t\n\nMathematical Imaging\n\n\t\n\n3\n\n\n\n\nMATH4010\n\n\t\n\nFunctional Analysis\n\n\t\n\n3\n\n\n\n\nMATH4020\n\n\t\n\nCalculus of Variations\n\n\t\n\n3\n\n\n\n\nMATH4030\n\n\t\n\nDifferential Geometry\n\n\t\n\n3\n\n\n\n\nMATH4050\n\n\t\n\nReal Analysis\n\n\t\n\n3\n\n\n\n\nMATH4060\n\n\t\n\nComplex Analysis\n\n\t\n\n3\n\n\n\n\nMATH4080\n\n\t\n\nModules and Representation Theory\n\n\t\n\n3\n\n\n\n\nMATH4210\n\n\t\n\nFinancial Mathematics\n\n\t\n\n3\n\n\n\n\nMATH4220\n\n\t\n\nPartial Differential Equations\n\n\t\n\n3\n\n\n\n\nMATH4230\n\n\t\n\nOptimization Theory\n\n\t\n\n3\n\n\n\n\nMATH4240\n\n\t\n\nStochastic Processes\n\n\t\n\n3\n\n\n\n\nMATH4250\n\n\t\n\nGame Theory\n\n\t\n\n3\n\n\n\n\nMATH4260\n\n\t\n\nCoding Theory and Cryptography\n\n\t\n\n3\n\n\n\n\nMATH4280\n\n\t\n\nInnovation and Design in Big Data Analytics\n\n\t\n\n3\n\n\n\n\nMATH4400\n\n\t\n\nProject\n\n\t\n\n3\n\n\n\n\nMATH4900\n\n\t\n\nSeminar\n\n\t\n\n3\n\n\n\n\nMATH5011\n\n\t\n\nReal Analysis I\n\n\t\n\n3\n\n\n\n\nMATH5012\n\n\t\n\nReal Analysis II\n\n\t\n\n3\n\n\n\n\nMATH5021\n\n\t\n\nTheory of Partial Differential Equations I\n\n\t\n\n3\n\n\n\n\nMATH5022\n\n\t\n\nTheory of Partial Differential Equations II\n\n\t\n\n3\n\n\n\n\nMATH5031\n\n\t\n\nComplex Analysis I\n\n\t\n\n3\n\n\n\n\nMATH5032\n\n\t\n\nComplex Analysis II\n\n\t\n\n3\n\n\n\n\nMATH5051\n\n\t\n\nAbstract Algebra I\n\n\t\n\n3\n\n\n\n\nMATH5052\n\n\t\n\nAbstract Algebra II\n\n\t\n\n3\n\n\n\n\nMATH5061\n\n\t\n\nRiemannian Geometry I\n\n\t\n\n3\n\n\n\n\nMATH5062\n\n\t\n\nRiemannian Geometry II\n\n\t\n\n3\n\n\n\n\nMATH5070\n\n\t\n\nTopology of Manifolds\n\n\t\n\n3\n\n\n\n\nSTAR2000\n\n\t\n\nUndergraduate Research in Science I\n\n\t\n\n1\n\n\n\n\nSTAR2050\n\n\t\n\nSeminar I\n\n\t\n\n1\n\n\n\n\nSTAR3000\n\n\t\n\nUndergraduate Research in Science II\n\n\t\n\n2\n\n\n\n\nSTAR3050\n\n\t\n\nSeminar II\n\n\t\n\n1\n\n\n\n\nSTAR4000\n\n\t\n\nUndergraduate Research in Science III\n\n\t\n\n3\n\n\n\n\nSTAR4050\n\n\t\n\nSeminar III\n\n\t\n\n1\n\n \n\n\n \n\nStudy Scheme\n\n\nLearning Outcomes\n \n\n\t\n\n1.\n\n\t\n\nMajor Programme:\n\n\n\n\nKnowledge and comprehension\n\n\n\n\nStudents will have acquired the following knowledge:\n\n\n\n\n(1)\n\n\t\n\nmathematical analysis,\n\n\n\n\n(2)\n\n\t\n\nlinear algebra,\n\n\n\n\n(3)\n\n\t\n\ncomputer programming for mathematics,\n\n\n\n\n(4)\n\n\t\n\nfurther knowledge in at least one direction:\n\n\n\n\n-\n\n\t\n\n(Enrichment Stream) Knowledge in mathematics enabling the students to have solid foundation for further studies at the graduate school level; or\n\n\n\n\n-\n\n\t\n\n(Other streams) Knowledge in a specific field together with the mathematics applicable to that field, for example, Computational and Applied Mathematics Stream, Computational Big Data Analytics Stream.\n\n\n\n\n(5)\n\n\t\n\nmathematical literacy sufficient for various professions, for example, research, education, financial technology, information technology, data science, artificial intelligence, etc.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nSkills\n\n\n\n\nGeneric Competencies\n\n\n\n\nStudents will have acquired a set of generic competencies.\n\n\n\n\n(1)\n\n\t\n\nability to understand broad mathematical literature at the university level independently;\n\n\n\n\n(2)\n\n\t\n\nawareness of mathematical problems arising in generic situations;\n\n\n\n\n(3)\n\n\t\n\nability to formulate such problems mathematically, to find ways to solve them;\n\n\n\n\n(4)\n\n\t\n\nability to communicate progress of mathematical problem solving effectively;\n\n\n\n\n(5)\n\n\t\n\ncomputer literacy and knowledge to use mathematical software in solving problems.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nSectors of Professional Skills\n\n\n\n\nIn addition, students should possess professional skills in at least one sector.\n\n\n\n\n(1)\n\n\t\n\nGraduate school research\n\n\n\n\n(2)\n\n\t\n\nTeaching\n\n\n\n\n(3)\n\n\t\n\nMathematics intensive professions\n\n\n\n\n(4)\n\n\t\n\nFinancial sector\n\n\n\n\n(5)\n\n\t\n\nScience and technology sector\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nValues and Attitudes\n\n\n\n\nUpon graduation, our students will be able to apply their mathematical knowledge generically in their future profession in a way that is unique for mathematically trained experts.  They should be able to\n\n\n\n\n(1)\n\n\t\n\nappreciate and advocate ways of thinking with logical rigour,\n\n\n\n\n(2)\n\n\t\n\nappreciate and take advantage of quantitative and analytical exactitude,\n\n\n\n\n(3)\n\n\t\n\nappreciate the contribution of mathematics to the improvement and formation of modern society built upon quantitative natural sciences.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nMinor Programme:\n\n\n\n\nThe minor programme of study aims at providing students with good mathematical knowledge to support their professional development in today’s knowledge society. In brief, upon completion of the programme, we anticipate our students to have acquired the capability of formulating and modeling problems in a logical sound and quantitatively efficient way, which is typical in mathematical sciences.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nKnowledge and comprehension\n\n\n\n\nStudents will have acquired the following knowledge:\n\n\n\n\n(1)\n\n\t\n\nCalculus or linear algebra,\n\n\n\n\n(2)\n\n\t\n\nmathematical literacy sufficient for supporting a particular profession, including but not limited to, research, education, financial technology, information technology, data science, artificial intelligence, etc.\n\n\n\n\n(3)\n\n\t\n\nmodel formulation related to a particular profession.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nSkills\n\n\n\n\nStudents will have acquired a set of generic competencies listed below.\n\n\n\n\n(1)\n\n\t\n\nability to understand broad mathematical literature related to their own professional development at the university level independently;\n\n\n\n\n(2)\n\n\t\n\nawareness of mathematical problems arising in generic situations;\n\n\n\n\n(3)\n\n\t\n\nability to formulate such problems mathematically, to find ways to model them;\n\n\n\n\n(4)\n\n\t\n\nability to communicate progress of mathematical modelling effectively.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nValues and Attitudes\n\n\n\n\nUpon completion of the programme, our students are expected to be able to apply their mathematical knowledge generically in their future profession in a way that is unique for mathematically trained experts, they should be able to\n\n\n\n\n(1)\n\n\t\n\nappreciate, advocate, and take advantage of ways of quantitative and analytical thinking,\n\n\n\n\n(2)\n\n\t\n\nappreciate the contribution of mathematics to the improvement and formation of modern society built upon quantitative natural sciences.\n\n \n\n \n\n\n"
+}

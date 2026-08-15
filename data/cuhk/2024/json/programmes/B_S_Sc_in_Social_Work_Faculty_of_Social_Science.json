@@ -1,0 +1,1324 @@
+{
+  "programme_id": "B_S_Sc_in_Social_Work__Faculty_of_Social_Science",
+  "academic_program": "B.S.Sc. in Social Work",
+  "faculty": "Faculty of Social Science",
+  "academic_year": 2024,
+  "admission_cohort": "2024-25",
+  "requirement_summary": {
+    "minimum_units_as_printed": "a minimum of 72 units",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Faculty Package",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "SOWK1001",
+            "prefix_inferred": false,
+            "evidence": "SOWK1001 and any two courses, offered by two different Programmes/Departments/Schools, chosen from the following:"
+          },
+          {
+            "course_code": "ARCH1001",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+          },
+          {
+            "course_code": "ARCH1002",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+          },
+          {
+            "course_code": "ARCH1003",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+          },
+          {
+            "course_code": "COMM1110",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+          },
+          {
+            "course_code": "COMM1120",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+          },
+          {
+            "course_code": "COMM1150",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+          },
+          {
+            "course_code": "COMM1500",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+          },
+          {
+            "course_code": "DSPS1001",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+          },
+          {
+            "course_code": "DSPS1003",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+          },
+          {
+            "course_code": "DSPS1004",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+          },
+          {
+            "course_code": "ECON1210",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+          },
+          {
+            "course_code": "ECON1220",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+          },
+          {
+            "course_code": "ECON2011",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+          },
+          {
+            "course_code": "GLSD1001",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+          },
+          {
+            "course_code": "GPAD1020",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+          },
+          {
+            "course_code": "GPAD1076",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+          },
+          {
+            "course_code": "GPAD1077",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+          },
+          {
+            "course_code": "GRMD1302",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+          },
+          {
+            "course_code": "GRMD1401",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+          },
+          {
+            "course_code": "GRMD1402",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+          },
+          {
+            "course_code": "PSYC1000",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+          },
+          {
+            "course_code": "PSYC1630",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+          },
+          {
+            "course_code": "SOCI1001",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+          },
+          {
+            "course_code": "SOCI1201",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+          },
+          {
+            "course_code": "SOSC1001",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+          },
+          {
+            "course_code": "SOSC1002",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+          },
+          {
+            "course_code": "SOSC1003",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+          },
+          {
+            "course_code": "URSP1001",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+          },
+          {
+            "course_code": "URSP1002",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+          }
+        ],
+        "raw_text": "9\nSOWK1001 and any two courses, offered by two different Programmes/Departments/Schools, chosen from the following:\nARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+      },
+      {
+        "number": 2,
+        "title": "Required Courses",
+        "units_as_printed": "51",
+        "course_mentions": [
+          {
+            "course_code": "SOWK2001",
+            "prefix_inferred": false,
+            "evidence": "SOWK2001, 2020, 2110, 2140, 2210, 2220, 2230, 2430, 3310, 3320, 3340, 3410, 3420, 4020 (capstone course), 4350, 4410, 4420"
+          },
+          {
+            "course_code": "SOWK2020",
+            "prefix_inferred": true,
+            "evidence": "SOWK2001, 2020, 2110, 2140, 2210, 2220, 2230, 2430, 3310, 3320, 3340, 3410, 3420, 4020 (capstone course), 4350, 4410, 4420"
+          },
+          {
+            "course_code": "SOWK2110",
+            "prefix_inferred": true,
+            "evidence": "SOWK2001, 2020, 2110, 2140, 2210, 2220, 2230, 2430, 3310, 3320, 3340, 3410, 3420, 4020 (capstone course), 4350, 4410, 4420"
+          },
+          {
+            "course_code": "SOWK2140",
+            "prefix_inferred": true,
+            "evidence": "SOWK2001, 2020, 2110, 2140, 2210, 2220, 2230, 2430, 3310, 3320, 3340, 3410, 3420, 4020 (capstone course), 4350, 4410, 4420"
+          },
+          {
+            "course_code": "SOWK2210",
+            "prefix_inferred": true,
+            "evidence": "SOWK2001, 2020, 2110, 2140, 2210, 2220, 2230, 2430, 3310, 3320, 3340, 3410, 3420, 4020 (capstone course), 4350, 4410, 4420"
+          },
+          {
+            "course_code": "SOWK2220",
+            "prefix_inferred": true,
+            "evidence": "SOWK2001, 2020, 2110, 2140, 2210, 2220, 2230, 2430, 3310, 3320, 3340, 3410, 3420, 4020 (capstone course), 4350, 4410, 4420"
+          },
+          {
+            "course_code": "SOWK2230",
+            "prefix_inferred": true,
+            "evidence": "SOWK2001, 2020, 2110, 2140, 2210, 2220, 2230, 2430, 3310, 3320, 3340, 3410, 3420, 4020 (capstone course), 4350, 4410, 4420"
+          },
+          {
+            "course_code": "SOWK2430",
+            "prefix_inferred": true,
+            "evidence": "SOWK2001, 2020, 2110, 2140, 2210, 2220, 2230, 2430, 3310, 3320, 3340, 3410, 3420, 4020 (capstone course), 4350, 4410, 4420"
+          },
+          {
+            "course_code": "SOWK3310",
+            "prefix_inferred": true,
+            "evidence": "SOWK2001, 2020, 2110, 2140, 2210, 2220, 2230, 2430, 3310, 3320, 3340, 3410, 3420, 4020 (capstone course), 4350, 4410, 4420"
+          },
+          {
+            "course_code": "SOWK3320",
+            "prefix_inferred": true,
+            "evidence": "SOWK2001, 2020, 2110, 2140, 2210, 2220, 2230, 2430, 3310, 3320, 3340, 3410, 3420, 4020 (capstone course), 4350, 4410, 4420"
+          },
+          {
+            "course_code": "SOWK3340",
+            "prefix_inferred": true,
+            "evidence": "SOWK2001, 2020, 2110, 2140, 2210, 2220, 2230, 2430, 3310, 3320, 3340, 3410, 3420, 4020 (capstone course), 4350, 4410, 4420"
+          },
+          {
+            "course_code": "SOWK3410",
+            "prefix_inferred": true,
+            "evidence": "SOWK2001, 2020, 2110, 2140, 2210, 2220, 2230, 2430, 3310, 3320, 3340, 3410, 3420, 4020 (capstone course), 4350, 4410, 4420"
+          },
+          {
+            "course_code": "SOWK3420",
+            "prefix_inferred": true,
+            "evidence": "SOWK2001, 2020, 2110, 2140, 2210, 2220, 2230, 2430, 3310, 3320, 3340, 3410, 3420, 4020 (capstone course), 4350, 4410, 4420"
+          },
+          {
+            "course_code": "SOWK4020",
+            "prefix_inferred": true,
+            "evidence": "SOWK2001, 2020, 2110, 2140, 2210, 2220, 2230, 2430, 3310, 3320, 3340, 3410, 3420, 4020 (capstone course), 4350, 4410, 4420"
+          },
+          {
+            "course_code": "SOWK4350",
+            "prefix_inferred": true,
+            "evidence": "SOWK2001, 2020, 2110, 2140, 2210, 2220, 2230, 2430, 3310, 3320, 3340, 3410, 3420, 4020 (capstone course), 4350, 4410, 4420"
+          },
+          {
+            "course_code": "SOWK4410",
+            "prefix_inferred": true,
+            "evidence": "SOWK2001, 2020, 2110, 2140, 2210, 2220, 2230, 2430, 3310, 3320, 3340, 3410, 3420, 4020 (capstone course), 4350, 4410, 4420"
+          },
+          {
+            "course_code": "SOWK4420",
+            "prefix_inferred": true,
+            "evidence": "SOWK2001, 2020, 2110, 2140, 2210, 2220, 2230, 2430, 3310, 3320, 3340, 3410, 3420, 4020 (capstone course), 4350, 4410, 4420"
+          }
+        ],
+        "raw_text": "51\nSOWK2001, 2020, 2110, 2140, 2210, 2220, 2230, 2430, 3310, 3320, 3340, 3410, 3420, 4020 (capstone course), 4350, 4410, 4420"
+      },
+      {
+        "number": 3,
+        "title": "Elective Courses",
+        "units_as_printed": "3",
+        "course_mentions": [
+          {
+            "course_code": "SOWK2050",
+            "prefix_inferred": false,
+            "evidence": "at least one course from SOWK2050, 3240, 3250"
+          },
+          {
+            "course_code": "SOWK3240",
+            "prefix_inferred": true,
+            "evidence": "at least one course from SOWK2050, 3240, 3250"
+          },
+          {
+            "course_code": "SOWK3250",
+            "prefix_inferred": true,
+            "evidence": "at least one course from SOWK2050, 3240, 3250"
+          },
+          {
+            "course_code": "SOWK4030",
+            "prefix_inferred": false,
+            "evidence": "at least three courses from SOWK4030 (capstone course)[a], 4510, 4520, 4530, 4540, 4550, 4570, 4580, 4590, 4591, 4592"
+          },
+          {
+            "course_code": "SOWK4510",
+            "prefix_inferred": true,
+            "evidence": "at least three courses from SOWK4030 (capstone course)[a], 4510, 4520, 4530, 4540, 4550, 4570, 4580, 4590, 4591, 4592"
+          },
+          {
+            "course_code": "SOWK4520",
+            "prefix_inferred": true,
+            "evidence": "at least three courses from SOWK4030 (capstone course)[a], 4510, 4520, 4530, 4540, 4550, 4570, 4580, 4590, 4591, 4592"
+          },
+          {
+            "course_code": "SOWK4530",
+            "prefix_inferred": true,
+            "evidence": "at least three courses from SOWK4030 (capstone course)[a], 4510, 4520, 4530, 4540, 4550, 4570, 4580, 4590, 4591, 4592"
+          },
+          {
+            "course_code": "SOWK4540",
+            "prefix_inferred": true,
+            "evidence": "at least three courses from SOWK4030 (capstone course)[a], 4510, 4520, 4530, 4540, 4550, 4570, 4580, 4590, 4591, 4592"
+          },
+          {
+            "course_code": "SOWK4550",
+            "prefix_inferred": true,
+            "evidence": "at least three courses from SOWK4030 (capstone course)[a], 4510, 4520, 4530, 4540, 4550, 4570, 4580, 4590, 4591, 4592"
+          },
+          {
+            "course_code": "SOWK4570",
+            "prefix_inferred": true,
+            "evidence": "at least three courses from SOWK4030 (capstone course)[a], 4510, 4520, 4530, 4540, 4550, 4570, 4580, 4590, 4591, 4592"
+          },
+          {
+            "course_code": "SOWK4580",
+            "prefix_inferred": true,
+            "evidence": "at least three courses from SOWK4030 (capstone course)[a], 4510, 4520, 4530, 4540, 4550, 4570, 4580, 4590, 4591, 4592"
+          },
+          {
+            "course_code": "SOWK4590",
+            "prefix_inferred": true,
+            "evidence": "at least three courses from SOWK4030 (capstone course)[a], 4510, 4520, 4530, 4540, 4550, 4570, 4580, 4590, 4591, 4592"
+          },
+          {
+            "course_code": "SOWK4591",
+            "prefix_inferred": true,
+            "evidence": "at least three courses from SOWK4030 (capstone course)[a], 4510, 4520, 4530, 4540, 4550, 4570, 4580, 4590, 4591, 4592"
+          },
+          {
+            "course_code": "SOWK4592",
+            "prefix_inferred": true,
+            "evidence": "at least three courses from SOWK4030 (capstone course)[a], 4510, 4520, 4530, 4540, 4550, 4570, 4580, 4590, 4591, 4592"
+          }
+        ],
+        "raw_text": "(a)\nat least one course from SOWK2050, 3240, 3250\n3\n(b)\nat least three courses from SOWK4030 (capstone course)[a], 4510, 4520, 4530, 4540, 4550, 4570, 4580, 4590, 4591, 4592\n9\nTotal:\n72\nExplanatory Notes:"
+      },
+      {
+        "number": 1,
+        "title": "Required Courses",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "SOWK1114",
+            "prefix_inferred": false,
+            "evidence": "SOWK1114, 3320, 3340"
+          },
+          {
+            "course_code": "SOWK3320",
+            "prefix_inferred": true,
+            "evidence": "SOWK1114, 3320, 3340"
+          },
+          {
+            "course_code": "SOWK3340",
+            "prefix_inferred": true,
+            "evidence": "SOWK1114, 3320, 3340"
+          }
+        ],
+        "raw_text": "9\nSOWK1114, 3320, 3340"
+      },
+      {
+        "number": 2,
+        "title": "Elective Courses",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "SOWK2160",
+            "prefix_inferred": false,
+            "evidence": "SOWK2160, 2200, 2202, 2203, 2204, 3250, 4510, 4520, 4530, 4550, 4592"
+          },
+          {
+            "course_code": "SOWK2200",
+            "prefix_inferred": true,
+            "evidence": "SOWK2160, 2200, 2202, 2203, 2204, 3250, 4510, 4520, 4530, 4550, 4592"
+          },
+          {
+            "course_code": "SOWK2202",
+            "prefix_inferred": true,
+            "evidence": "SOWK2160, 2200, 2202, 2203, 2204, 3250, 4510, 4520, 4530, 4550, 4592"
+          },
+          {
+            "course_code": "SOWK2203",
+            "prefix_inferred": true,
+            "evidence": "SOWK2160, 2200, 2202, 2203, 2204, 3250, 4510, 4520, 4530, 4550, 4592"
+          },
+          {
+            "course_code": "SOWK2204",
+            "prefix_inferred": true,
+            "evidence": "SOWK2160, 2200, 2202, 2203, 2204, 3250, 4510, 4520, 4530, 4550, 4592"
+          },
+          {
+            "course_code": "SOWK3250",
+            "prefix_inferred": true,
+            "evidence": "SOWK2160, 2200, 2202, 2203, 2204, 3250, 4510, 4520, 4530, 4550, 4592"
+          },
+          {
+            "course_code": "SOWK4510",
+            "prefix_inferred": true,
+            "evidence": "SOWK2160, 2200, 2202, 2203, 2204, 3250, 4510, 4520, 4530, 4550, 4592"
+          },
+          {
+            "course_code": "SOWK4520",
+            "prefix_inferred": true,
+            "evidence": "SOWK2160, 2200, 2202, 2203, 2204, 3250, 4510, 4520, 4530, 4550, 4592"
+          },
+          {
+            "course_code": "SOWK4530",
+            "prefix_inferred": true,
+            "evidence": "SOWK2160, 2200, 2202, 2203, 2204, 3250, 4510, 4520, 4530, 4550, 4592"
+          },
+          {
+            "course_code": "SOWK4550",
+            "prefix_inferred": true,
+            "evidence": "SOWK2160, 2200, 2202, 2203, 2204, 3250, 4510, 4520, 4530, 4550, 4592"
+          },
+          {
+            "course_code": "SOWK4592",
+            "prefix_inferred": true,
+            "evidence": "SOWK2160, 2200, 2202, 2203, 2204, 3250, 4510, 4520, 4530, 4550, 4592"
+          }
+        ],
+        "raw_text": "9\nAny 9 units from the following:\nSOWK2160, 2200, 2202, 2203, 2204, 3250, 4510, 4520, 4530, 4550, 4592\nTotal:\n18\nExplanatory Note:"
+      },
+      {
+        "number": 1,
+        "title": "Required Courses",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "SOWK1001",
+            "prefix_inferred": false,
+            "evidence": "SOWK1001, 3310, 3320"
+          },
+          {
+            "course_code": "SOWK3310",
+            "prefix_inferred": true,
+            "evidence": "SOWK1001, 3310, 3320"
+          },
+          {
+            "course_code": "SOWK3320",
+            "prefix_inferred": true,
+            "evidence": "SOWK1001, 3310, 3320"
+          }
+        ],
+        "raw_text": "9\nSOWK1001, 3310, 3320"
+      },
+      {
+        "number": 2,
+        "title": "Elective Courses",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "SOWK1130",
+            "prefix_inferred": false,
+            "evidence": "SOWK1130, 1150, 1160, 2020, 2110, 2140, 4540"
+          },
+          {
+            "course_code": "SOWK1150",
+            "prefix_inferred": true,
+            "evidence": "SOWK1130, 1150, 1160, 2020, 2110, 2140, 4540"
+          },
+          {
+            "course_code": "SOWK1160",
+            "prefix_inferred": true,
+            "evidence": "SOWK1130, 1150, 1160, 2020, 2110, 2140, 4540"
+          },
+          {
+            "course_code": "SOWK2020",
+            "prefix_inferred": true,
+            "evidence": "SOWK1130, 1150, 1160, 2020, 2110, 2140, 4540"
+          },
+          {
+            "course_code": "SOWK2110",
+            "prefix_inferred": true,
+            "evidence": "SOWK1130, 1150, 1160, 2020, 2110, 2140, 4540"
+          },
+          {
+            "course_code": "SOWK2140",
+            "prefix_inferred": true,
+            "evidence": "SOWK1130, 1150, 1160, 2020, 2110, 2140, 4540"
+          },
+          {
+            "course_code": "SOWK4540",
+            "prefix_inferred": true,
+            "evidence": "SOWK1130, 1150, 1160, 2020, 2110, 2140, 4540"
+          }
+        ],
+        "raw_text": "9\nAny 9 units from the following:\nSOWK1130, 1150, 1160, 2020, 2110, 2140, 4540\nTotal:\n18\nExplanatory Note:"
+      }
+    ]
+  },
+  "all_course_mentions": [
+    {
+      "course_code": "SOWK1001",
+      "prefix_inferred": false,
+      "evidence": "SOWK1001 and any two courses, offered by two different Programmes/Departments/Schools, chosen from the following:"
+    },
+    {
+      "course_code": "ARCH1001",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+    },
+    {
+      "course_code": "ARCH1002",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+    },
+    {
+      "course_code": "ARCH1003",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+    },
+    {
+      "course_code": "COMM1110",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+    },
+    {
+      "course_code": "COMM1120",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+    },
+    {
+      "course_code": "COMM1150",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+    },
+    {
+      "course_code": "COMM1500",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+    },
+    {
+      "course_code": "DSPS1001",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+    },
+    {
+      "course_code": "DSPS1003",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+    },
+    {
+      "course_code": "DSPS1004",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+    },
+    {
+      "course_code": "ECON1210",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+    },
+    {
+      "course_code": "ECON1220",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+    },
+    {
+      "course_code": "ECON2011",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+    },
+    {
+      "course_code": "GLSD1001",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+    },
+    {
+      "course_code": "GPAD1020",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+    },
+    {
+      "course_code": "GPAD1076",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+    },
+    {
+      "course_code": "GPAD1077",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+    },
+    {
+      "course_code": "GRMD1302",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+    },
+    {
+      "course_code": "GRMD1401",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+    },
+    {
+      "course_code": "GRMD1402",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+    },
+    {
+      "course_code": "PSYC1000",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+    },
+    {
+      "course_code": "PSYC1630",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+    },
+    {
+      "course_code": "SOCI1001",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+    },
+    {
+      "course_code": "SOCI1201",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+    },
+    {
+      "course_code": "SOSC1001",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+    },
+    {
+      "course_code": "SOSC1002",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+    },
+    {
+      "course_code": "SOSC1003",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+    },
+    {
+      "course_code": "URSP1001",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+    },
+    {
+      "course_code": "URSP1002",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002"
+    },
+    {
+      "course_code": "SOWK2001",
+      "prefix_inferred": false,
+      "evidence": "SOWK2001, 2020, 2110, 2140, 2210, 2220, 2230, 2430, 3310, 3320, 3340, 3410, 3420, 4020 (capstone course), 4350, 4410, 4420"
+    },
+    {
+      "course_code": "SOWK2020",
+      "prefix_inferred": true,
+      "evidence": "SOWK2001, 2020, 2110, 2140, 2210, 2220, 2230, 2430, 3310, 3320, 3340, 3410, 3420, 4020 (capstone course), 4350, 4410, 4420"
+    },
+    {
+      "course_code": "SOWK2110",
+      "prefix_inferred": true,
+      "evidence": "SOWK2001, 2020, 2110, 2140, 2210, 2220, 2230, 2430, 3310, 3320, 3340, 3410, 3420, 4020 (capstone course), 4350, 4410, 4420"
+    },
+    {
+      "course_code": "SOWK2140",
+      "prefix_inferred": true,
+      "evidence": "SOWK2001, 2020, 2110, 2140, 2210, 2220, 2230, 2430, 3310, 3320, 3340, 3410, 3420, 4020 (capstone course), 4350, 4410, 4420"
+    },
+    {
+      "course_code": "SOWK2210",
+      "prefix_inferred": true,
+      "evidence": "SOWK2001, 2020, 2110, 2140, 2210, 2220, 2230, 2430, 3310, 3320, 3340, 3410, 3420, 4020 (capstone course), 4350, 4410, 4420"
+    },
+    {
+      "course_code": "SOWK2220",
+      "prefix_inferred": true,
+      "evidence": "SOWK2001, 2020, 2110, 2140, 2210, 2220, 2230, 2430, 3310, 3320, 3340, 3410, 3420, 4020 (capstone course), 4350, 4410, 4420"
+    },
+    {
+      "course_code": "SOWK2230",
+      "prefix_inferred": true,
+      "evidence": "SOWK2001, 2020, 2110, 2140, 2210, 2220, 2230, 2430, 3310, 3320, 3340, 3410, 3420, 4020 (capstone course), 4350, 4410, 4420"
+    },
+    {
+      "course_code": "SOWK2430",
+      "prefix_inferred": true,
+      "evidence": "SOWK2001, 2020, 2110, 2140, 2210, 2220, 2230, 2430, 3310, 3320, 3340, 3410, 3420, 4020 (capstone course), 4350, 4410, 4420"
+    },
+    {
+      "course_code": "SOWK3310",
+      "prefix_inferred": true,
+      "evidence": "SOWK2001, 2020, 2110, 2140, 2210, 2220, 2230, 2430, 3310, 3320, 3340, 3410, 3420, 4020 (capstone course), 4350, 4410, 4420"
+    },
+    {
+      "course_code": "SOWK3320",
+      "prefix_inferred": true,
+      "evidence": "SOWK2001, 2020, 2110, 2140, 2210, 2220, 2230, 2430, 3310, 3320, 3340, 3410, 3420, 4020 (capstone course), 4350, 4410, 4420"
+    },
+    {
+      "course_code": "SOWK3340",
+      "prefix_inferred": true,
+      "evidence": "SOWK2001, 2020, 2110, 2140, 2210, 2220, 2230, 2430, 3310, 3320, 3340, 3410, 3420, 4020 (capstone course), 4350, 4410, 4420"
+    },
+    {
+      "course_code": "SOWK3410",
+      "prefix_inferred": true,
+      "evidence": "SOWK2001, 2020, 2110, 2140, 2210, 2220, 2230, 2430, 3310, 3320, 3340, 3410, 3420, 4020 (capstone course), 4350, 4410, 4420"
+    },
+    {
+      "course_code": "SOWK3420",
+      "prefix_inferred": true,
+      "evidence": "SOWK2001, 2020, 2110, 2140, 2210, 2220, 2230, 2430, 3310, 3320, 3340, 3410, 3420, 4020 (capstone course), 4350, 4410, 4420"
+    },
+    {
+      "course_code": "SOWK4020",
+      "prefix_inferred": true,
+      "evidence": "SOWK2001, 2020, 2110, 2140, 2210, 2220, 2230, 2430, 3310, 3320, 3340, 3410, 3420, 4020 (capstone course), 4350, 4410, 4420"
+    },
+    {
+      "course_code": "SOWK4350",
+      "prefix_inferred": true,
+      "evidence": "SOWK2001, 2020, 2110, 2140, 2210, 2220, 2230, 2430, 3310, 3320, 3340, 3410, 3420, 4020 (capstone course), 4350, 4410, 4420"
+    },
+    {
+      "course_code": "SOWK4410",
+      "prefix_inferred": true,
+      "evidence": "SOWK2001, 2020, 2110, 2140, 2210, 2220, 2230, 2430, 3310, 3320, 3340, 3410, 3420, 4020 (capstone course), 4350, 4410, 4420"
+    },
+    {
+      "course_code": "SOWK4420",
+      "prefix_inferred": true,
+      "evidence": "SOWK2001, 2020, 2110, 2140, 2210, 2220, 2230, 2430, 3310, 3320, 3340, 3410, 3420, 4020 (capstone course), 4350, 4410, 4420"
+    },
+    {
+      "course_code": "SOWK2050",
+      "prefix_inferred": false,
+      "evidence": "at least one course from SOWK2050, 3240, 3250"
+    },
+    {
+      "course_code": "SOWK3240",
+      "prefix_inferred": true,
+      "evidence": "at least one course from SOWK2050, 3240, 3250"
+    },
+    {
+      "course_code": "SOWK3250",
+      "prefix_inferred": true,
+      "evidence": "at least one course from SOWK2050, 3240, 3250"
+    },
+    {
+      "course_code": "SOWK4030",
+      "prefix_inferred": false,
+      "evidence": "at least three courses from SOWK4030 (capstone course)[a], 4510, 4520, 4530, 4540, 4550, 4570, 4580, 4590, 4591, 4592"
+    },
+    {
+      "course_code": "SOWK4510",
+      "prefix_inferred": true,
+      "evidence": "at least three courses from SOWK4030 (capstone course)[a], 4510, 4520, 4530, 4540, 4550, 4570, 4580, 4590, 4591, 4592"
+    },
+    {
+      "course_code": "SOWK4520",
+      "prefix_inferred": true,
+      "evidence": "at least three courses from SOWK4030 (capstone course)[a], 4510, 4520, 4530, 4540, 4550, 4570, 4580, 4590, 4591, 4592"
+    },
+    {
+      "course_code": "SOWK4530",
+      "prefix_inferred": true,
+      "evidence": "at least three courses from SOWK4030 (capstone course)[a], 4510, 4520, 4530, 4540, 4550, 4570, 4580, 4590, 4591, 4592"
+    },
+    {
+      "course_code": "SOWK4540",
+      "prefix_inferred": true,
+      "evidence": "at least three courses from SOWK4030 (capstone course)[a], 4510, 4520, 4530, 4540, 4550, 4570, 4580, 4590, 4591, 4592"
+    },
+    {
+      "course_code": "SOWK4550",
+      "prefix_inferred": true,
+      "evidence": "at least three courses from SOWK4030 (capstone course)[a], 4510, 4520, 4530, 4540, 4550, 4570, 4580, 4590, 4591, 4592"
+    },
+    {
+      "course_code": "SOWK4570",
+      "prefix_inferred": true,
+      "evidence": "at least three courses from SOWK4030 (capstone course)[a], 4510, 4520, 4530, 4540, 4550, 4570, 4580, 4590, 4591, 4592"
+    },
+    {
+      "course_code": "SOWK4580",
+      "prefix_inferred": true,
+      "evidence": "at least three courses from SOWK4030 (capstone course)[a], 4510, 4520, 4530, 4540, 4550, 4570, 4580, 4590, 4591, 4592"
+    },
+    {
+      "course_code": "SOWK4590",
+      "prefix_inferred": true,
+      "evidence": "at least three courses from SOWK4030 (capstone course)[a], 4510, 4520, 4530, 4540, 4550, 4570, 4580, 4590, 4591, 4592"
+    },
+    {
+      "course_code": "SOWK4591",
+      "prefix_inferred": true,
+      "evidence": "at least three courses from SOWK4030 (capstone course)[a], 4510, 4520, 4530, 4540, 4550, 4570, 4580, 4590, 4591, 4592"
+    },
+    {
+      "course_code": "SOWK4592",
+      "prefix_inferred": true,
+      "evidence": "at least three courses from SOWK4030 (capstone course)[a], 4510, 4520, 4530, 4540, 4550, 4570, 4580, 4590, 4591, 4592"
+    },
+    {
+      "course_code": "SOWK1113",
+      "prefix_inferred": false,
+      "evidence": "For students transferred to the Social Work Programme and who had taken SOWK1113 or 1114 as part of the Faculty Package, the courses should be counted as part of their elective courses. They should take an additional Faculty Package course to fulfill the Faculty Package requirement."
+    },
+    {
+      "course_code": "SOWK1114",
+      "prefix_inferred": true,
+      "evidence": "For students transferred to the Social Work Programme and who had taken SOWK1113 or 1114 as part of the Faculty Package, the courses should be counted as part of their elective courses. They should take an additional Faculty Package course to fulfill the Faculty Package requirement."
+    },
+    {
+      "course_code": "SOWK4030",
+      "prefix_inferred": false,
+      "evidence": "Students are encouraged to take SOWK4030 preferably in their final year of study to enhance their research ability by conducting a guided research on selected topics."
+    },
+    {
+      "course_code": "SOWK1001",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: SOWK1001 and 1 Faculty Package course"
+    },
+    {
+      "course_code": "SOWK2001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: SOWK2001"
+    },
+    {
+      "course_code": "SOWK2110",
+      "prefix_inferred": false,
+      "evidence": "Major Required: SOWK2110"
+    },
+    {
+      "course_code": "SOWK2020",
+      "prefix_inferred": false,
+      "evidence": "Major Required: SOWK2020, 2210, 2220"
+    },
+    {
+      "course_code": "SOWK2210",
+      "prefix_inferred": true,
+      "evidence": "Major Required: SOWK2020, 2210, 2220"
+    },
+    {
+      "course_code": "SOWK2220",
+      "prefix_inferred": true,
+      "evidence": "Major Required: SOWK2020, 2210, 2220"
+    },
+    {
+      "course_code": "SOWK2140",
+      "prefix_inferred": false,
+      "evidence": "Major Required: SOWK2140, 2230, 2430"
+    },
+    {
+      "course_code": "SOWK2230",
+      "prefix_inferred": true,
+      "evidence": "Major Required: SOWK2140, 2230, 2430"
+    },
+    {
+      "course_code": "SOWK2430",
+      "prefix_inferred": true,
+      "evidence": "Major Required: SOWK2140, 2230, 2430"
+    },
+    {
+      "course_code": "SOWK2050",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): SOWK2050"
+    },
+    {
+      "course_code": "SOWK3340",
+      "prefix_inferred": false,
+      "evidence": "Major Required: SOWK3340, 3410"
+    },
+    {
+      "course_code": "SOWK3410",
+      "prefix_inferred": true,
+      "evidence": "Major Required: SOWK3340, 3410"
+    },
+    {
+      "course_code": "SOWK3240",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): SOWK3240 or 3250"
+    },
+    {
+      "course_code": "SOWK3250",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): SOWK3240 or 3250"
+    },
+    {
+      "course_code": "SOWK3310",
+      "prefix_inferred": false,
+      "evidence": "Major Required: SOWK3310, 3320, 3420"
+    },
+    {
+      "course_code": "SOWK3320",
+      "prefix_inferred": true,
+      "evidence": "Major Required: SOWK3310, 3320, 3420"
+    },
+    {
+      "course_code": "SOWK3420",
+      "prefix_inferred": true,
+      "evidence": "Major Required: SOWK3310, 3320, 3420"
+    },
+    {
+      "course_code": "SOWK4350",
+      "prefix_inferred": false,
+      "evidence": "Major Required: SOWK4350, 4410"
+    },
+    {
+      "course_code": "SOWK4410",
+      "prefix_inferred": true,
+      "evidence": "Major Required: SOWK4350, 4410"
+    },
+    {
+      "course_code": "SOWK4030",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): 1-2 course(s) from SOWK4030, 4510, 4520, 4530, 4540, 4550, 4570, 4580, 4590, 4591, 4592"
+    },
+    {
+      "course_code": "SOWK4510",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 1-2 course(s) from SOWK4030, 4510, 4520, 4530, 4540, 4550, 4570, 4580, 4590, 4591, 4592"
+    },
+    {
+      "course_code": "SOWK4520",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 1-2 course(s) from SOWK4030, 4510, 4520, 4530, 4540, 4550, 4570, 4580, 4590, 4591, 4592"
+    },
+    {
+      "course_code": "SOWK4530",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 1-2 course(s) from SOWK4030, 4510, 4520, 4530, 4540, 4550, 4570, 4580, 4590, 4591, 4592"
+    },
+    {
+      "course_code": "SOWK4540",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 1-2 course(s) from SOWK4030, 4510, 4520, 4530, 4540, 4550, 4570, 4580, 4590, 4591, 4592"
+    },
+    {
+      "course_code": "SOWK4550",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 1-2 course(s) from SOWK4030, 4510, 4520, 4530, 4540, 4550, 4570, 4580, 4590, 4591, 4592"
+    },
+    {
+      "course_code": "SOWK4570",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 1-2 course(s) from SOWK4030, 4510, 4520, 4530, 4540, 4550, 4570, 4580, 4590, 4591, 4592"
+    },
+    {
+      "course_code": "SOWK4580",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 1-2 course(s) from SOWK4030, 4510, 4520, 4530, 4540, 4550, 4570, 4580, 4590, 4591, 4592"
+    },
+    {
+      "course_code": "SOWK4590",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 1-2 course(s) from SOWK4030, 4510, 4520, 4530, 4540, 4550, 4570, 4580, 4590, 4591, 4592"
+    },
+    {
+      "course_code": "SOWK4591",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 1-2 course(s) from SOWK4030, 4510, 4520, 4530, 4540, 4550, 4570, 4580, 4590, 4591, 4592"
+    },
+    {
+      "course_code": "SOWK4592",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 1-2 course(s) from SOWK4030, 4510, 4520, 4530, 4540, 4550, 4570, 4580, 4590, 4591, 4592"
+    },
+    {
+      "course_code": "SOWK4020",
+      "prefix_inferred": false,
+      "evidence": "Major Required: SOWK4020, 4420"
+    },
+    {
+      "course_code": "SOWK4420",
+      "prefix_inferred": true,
+      "evidence": "Major Required: SOWK4020, 4420"
+    },
+    {
+      "course_code": "SOWK1114",
+      "prefix_inferred": false,
+      "evidence": "SOWK1114, 3320, 3340"
+    },
+    {
+      "course_code": "SOWK3320",
+      "prefix_inferred": true,
+      "evidence": "SOWK1114, 3320, 3340"
+    },
+    {
+      "course_code": "SOWK3340",
+      "prefix_inferred": true,
+      "evidence": "SOWK1114, 3320, 3340"
+    },
+    {
+      "course_code": "SOWK2160",
+      "prefix_inferred": false,
+      "evidence": "SOWK2160, 2200, 2202, 2203, 2204, 3250, 4510, 4520, 4530, 4550, 4592"
+    },
+    {
+      "course_code": "SOWK2200",
+      "prefix_inferred": true,
+      "evidence": "SOWK2160, 2200, 2202, 2203, 2204, 3250, 4510, 4520, 4530, 4550, 4592"
+    },
+    {
+      "course_code": "SOWK2202",
+      "prefix_inferred": true,
+      "evidence": "SOWK2160, 2200, 2202, 2203, 2204, 3250, 4510, 4520, 4530, 4550, 4592"
+    },
+    {
+      "course_code": "SOWK2203",
+      "prefix_inferred": true,
+      "evidence": "SOWK2160, 2200, 2202, 2203, 2204, 3250, 4510, 4520, 4530, 4550, 4592"
+    },
+    {
+      "course_code": "SOWK2204",
+      "prefix_inferred": true,
+      "evidence": "SOWK2160, 2200, 2202, 2203, 2204, 3250, 4510, 4520, 4530, 4550, 4592"
+    },
+    {
+      "course_code": "SOWK3250",
+      "prefix_inferred": true,
+      "evidence": "SOWK2160, 2200, 2202, 2203, 2204, 3250, 4510, 4520, 4530, 4550, 4592"
+    },
+    {
+      "course_code": "SOWK4510",
+      "prefix_inferred": true,
+      "evidence": "SOWK2160, 2200, 2202, 2203, 2204, 3250, 4510, 4520, 4530, 4550, 4592"
+    },
+    {
+      "course_code": "SOWK4520",
+      "prefix_inferred": true,
+      "evidence": "SOWK2160, 2200, 2202, 2203, 2204, 3250, 4510, 4520, 4530, 4550, 4592"
+    },
+    {
+      "course_code": "SOWK4530",
+      "prefix_inferred": true,
+      "evidence": "SOWK2160, 2200, 2202, 2203, 2204, 3250, 4510, 4520, 4530, 4550, 4592"
+    },
+    {
+      "course_code": "SOWK4550",
+      "prefix_inferred": true,
+      "evidence": "SOWK2160, 2200, 2202, 2203, 2204, 3250, 4510, 4520, 4530, 4550, 4592"
+    },
+    {
+      "course_code": "SOWK4592",
+      "prefix_inferred": true,
+      "evidence": "SOWK2160, 2200, 2202, 2203, 2204, 3250, 4510, 4520, 4530, 4550, 4592"
+    },
+    {
+      "course_code": "SOWK1001",
+      "prefix_inferred": false,
+      "evidence": "SOWK1001, 3310, 3320"
+    },
+    {
+      "course_code": "SOWK3310",
+      "prefix_inferred": true,
+      "evidence": "SOWK1001, 3310, 3320"
+    },
+    {
+      "course_code": "SOWK3320",
+      "prefix_inferred": true,
+      "evidence": "SOWK1001, 3310, 3320"
+    },
+    {
+      "course_code": "SOWK1130",
+      "prefix_inferred": false,
+      "evidence": "SOWK1130, 1150, 1160, 2020, 2110, 2140, 4540"
+    },
+    {
+      "course_code": "SOWK1150",
+      "prefix_inferred": true,
+      "evidence": "SOWK1130, 1150, 1160, 2020, 2110, 2140, 4540"
+    },
+    {
+      "course_code": "SOWK1160",
+      "prefix_inferred": true,
+      "evidence": "SOWK1130, 1150, 1160, 2020, 2110, 2140, 4540"
+    },
+    {
+      "course_code": "SOWK2020",
+      "prefix_inferred": true,
+      "evidence": "SOWK1130, 1150, 1160, 2020, 2110, 2140, 4540"
+    },
+    {
+      "course_code": "SOWK2110",
+      "prefix_inferred": true,
+      "evidence": "SOWK1130, 1150, 1160, 2020, 2110, 2140, 4540"
+    },
+    {
+      "course_code": "SOWK2140",
+      "prefix_inferred": true,
+      "evidence": "SOWK1130, 1150, 1160, 2020, 2110, 2140, 4540"
+    },
+    {
+      "course_code": "SOWK4540",
+      "prefix_inferred": true,
+      "evidence": "SOWK1130, 1150, 1160, 2020, 2110, 2140, 4540"
+    },
+    {
+      "course_code": "SOWK1001",
+      "prefix_inferred": false,
+      "evidence": "SOWK1001"
+    },
+    {
+      "course_code": "SOWK1114",
+      "prefix_inferred": false,
+      "evidence": "SOWK1114"
+    },
+    {
+      "course_code": "SOWK1130",
+      "prefix_inferred": false,
+      "evidence": "SOWK1130"
+    },
+    {
+      "course_code": "SOWK1150",
+      "prefix_inferred": false,
+      "evidence": "SOWK1150"
+    },
+    {
+      "course_code": "SOWK1160",
+      "prefix_inferred": false,
+      "evidence": "SOWK1160"
+    },
+    {
+      "course_code": "SOWK2001",
+      "prefix_inferred": false,
+      "evidence": "SOWK2001"
+    },
+    {
+      "course_code": "SOWK2020",
+      "prefix_inferred": false,
+      "evidence": "SOWK2020"
+    },
+    {
+      "course_code": "SOWK2050",
+      "prefix_inferred": false,
+      "evidence": "SOWK2050"
+    },
+    {
+      "course_code": "SOWK2100",
+      "prefix_inferred": false,
+      "evidence": "SOWK2100"
+    },
+    {
+      "course_code": "SOWK2110",
+      "prefix_inferred": false,
+      "evidence": "SOWK2110"
+    },
+    {
+      "course_code": "SOWK2140",
+      "prefix_inferred": false,
+      "evidence": "SOWK2140"
+    },
+    {
+      "course_code": "SOWK2160",
+      "prefix_inferred": false,
+      "evidence": "SOWK2160"
+    },
+    {
+      "course_code": "SOWK2200",
+      "prefix_inferred": false,
+      "evidence": "SOWK2200"
+    },
+    {
+      "course_code": "SOWK2202",
+      "prefix_inferred": false,
+      "evidence": "SOWK2202"
+    },
+    {
+      "course_code": "SOWK2203",
+      "prefix_inferred": false,
+      "evidence": "SOWK2203"
+    },
+    {
+      "course_code": "SOWK2204",
+      "prefix_inferred": false,
+      "evidence": "SOWK2204"
+    },
+    {
+      "course_code": "SOWK2210",
+      "prefix_inferred": false,
+      "evidence": "SOWK2210"
+    },
+    {
+      "course_code": "SOWK2220",
+      "prefix_inferred": false,
+      "evidence": "SOWK2220"
+    },
+    {
+      "course_code": "SOWK2230",
+      "prefix_inferred": false,
+      "evidence": "SOWK2230"
+    },
+    {
+      "course_code": "SOWK2430",
+      "prefix_inferred": false,
+      "evidence": "SOWK2430"
+    },
+    {
+      "course_code": "SOWK3240",
+      "prefix_inferred": false,
+      "evidence": "SOWK3240"
+    },
+    {
+      "course_code": "SOWK3250",
+      "prefix_inferred": false,
+      "evidence": "SOWK3250"
+    },
+    {
+      "course_code": "SOWK3310",
+      "prefix_inferred": false,
+      "evidence": "SOWK3310"
+    },
+    {
+      "course_code": "SOWK3320",
+      "prefix_inferred": false,
+      "evidence": "SOWK3320"
+    },
+    {
+      "course_code": "SOWK3340",
+      "prefix_inferred": false,
+      "evidence": "SOWK3340"
+    },
+    {
+      "course_code": "SOWK3410",
+      "prefix_inferred": false,
+      "evidence": "SOWK3410"
+    },
+    {
+      "course_code": "SOWK3420",
+      "prefix_inferred": false,
+      "evidence": "SOWK3420"
+    },
+    {
+      "course_code": "SOWK4020",
+      "prefix_inferred": false,
+      "evidence": "SOWK4020"
+    },
+    {
+      "course_code": "SOWK4030",
+      "prefix_inferred": false,
+      "evidence": "SOWK4030"
+    },
+    {
+      "course_code": "SOWK4310",
+      "prefix_inferred": false,
+      "evidence": "SOWK4310"
+    },
+    {
+      "course_code": "SOWK4320",
+      "prefix_inferred": false,
+      "evidence": "SOWK4320"
+    },
+    {
+      "course_code": "SOWK4350",
+      "prefix_inferred": false,
+      "evidence": "SOWK4350"
+    },
+    {
+      "course_code": "SOWK4410",
+      "prefix_inferred": false,
+      "evidence": "SOWK4410"
+    },
+    {
+      "course_code": "SOWK4420",
+      "prefix_inferred": false,
+      "evidence": "SOWK4420"
+    },
+    {
+      "course_code": "SOWK4510",
+      "prefix_inferred": false,
+      "evidence": "SOWK4510"
+    },
+    {
+      "course_code": "SOWK4520",
+      "prefix_inferred": false,
+      "evidence": "SOWK4520"
+    },
+    {
+      "course_code": "SOWK4530",
+      "prefix_inferred": false,
+      "evidence": "SOWK4530"
+    },
+    {
+      "course_code": "SOWK4540",
+      "prefix_inferred": false,
+      "evidence": "SOWK4540"
+    },
+    {
+      "course_code": "SOWK4550",
+      "prefix_inferred": false,
+      "evidence": "SOWK4550"
+    },
+    {
+      "course_code": "SOWK4570",
+      "prefix_inferred": false,
+      "evidence": "SOWK4570"
+    },
+    {
+      "course_code": "SOWK4580",
+      "prefix_inferred": false,
+      "evidence": "SOWK4580"
+    },
+    {
+      "course_code": "SOWK4590",
+      "prefix_inferred": false,
+      "evidence": "SOWK4590"
+    },
+    {
+      "course_code": "SOWK4591",
+      "prefix_inferred": false,
+      "evidence": "SOWK4591"
+    },
+    {
+      "course_code": "SOWK4592",
+      "prefix_inferred": false,
+      "evidence": "SOWK4592"
+    }
+  ],
+  "course_code_aliases": [],
+  "source": {
+    "system": "CUHK CUSIS Browse Program Information",
+    "url": "https://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/tt_dsp_acad_prog.aspx",
+    "source_text_file": "data/cuhk/2024/programmes/B_S_Sc_in_Social_Work__Faculty_of_Social_Science.txt",
+    "reused_duplicate_entry": false,
+    "reused_from_faculty": null
+  },
+  "raw_text": "\n\nBrowse Program Information\n\n\n\n\n\n\nAcademic Program:\tB.S.Sc. in Social Work\nAcademic Year:\t2024\nLanguage:\t\nEnglish\nSimplified Chinese\nTraditional Chinese\n\n\n\nLearning Outcomes\nStudy Scheme\n \n\n\t\n\nSocial Work\n\nApplicable to students admitted in 2024-25\n\n\n\n\n \n\n\n\n\n \n\n\t\n\n \n\nMajor Programme Requirement\n\n \n\n\n\n\nStudents are required to complete a minimum of 72 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nFaculty Package:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nSOWK1001 and any two courses, offered by two different Programmes/Departments/Schools, chosen from the following:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402,  PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, URSP1001, 1002\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nRequired Courses:\n\n\t\n\n51\n\n\n\n\n \n\n\t\n\nSOWK2001, 2020, 2110, 2140, 2210, 2220, 2230, 2430, 3310, 3320, 3340, 3410, 3420, 4020 (capstone course), 4350, 4410, 4420\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nElective Courses:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nat least one course from SOWK2050, 3240, 3250\n\n\t\n\n3\n\n\n\n\n(b)\n\n\t\n\nat least three courses from SOWK4030 (capstone course)[a], 4510, 4520, 4530, 4540, 4550, 4570, 4580, 4590, 4591, 4592\n\n\t\n\n9\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n72\n\n\n\n\nExplanatory Notes:\n\n\n\n\n1.\n\n\t\n\nSOWK courses at 2000 and above level will be included in the calculation of Major GPA for honours classification.\n\n\n\n\n2.\n\n\t\n\nFor students transferred to the Social Work Programme and who had taken SOWK1113 or 1114 as part of the Faculty Package, the courses should be counted as part of their elective courses. They should take an additional Faculty Package course to fulfill the Faculty Package requirement.\n\n\n\n\n3.\n\n\t\n\nOnly a number of seminar courses will be offered in each academic year in accordance with resources available.\n\n\n\n\n4.\n\n\t\n\nAll social work students are required to take at least one PSYC course and one SOCI course, including the ones listed under the Faculty Package.\n\n\n\n\n[a]\n\n\t\n\nStudents are encouraged to take SOWK4030 preferably in their final year of study to enhance their research ability by conducting a guided research on selected topics.\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n \n\n \n\n\t\n\n \n\n\t\n\nRecommended Course Pattern\n\n\t\n\nUnits\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\t\n\n \n\n\n\n\nFaculty Package: SOWK1001 and 1 Faculty Package course\n\n\t\n\n6\n\n\n\n\nMajor Required: SOWK2001\n\n\t\n\n2\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n2nd term\n\n\t\n\n \n\n\t\n\n \n\n\n\n\nFaculty Package: 1 course\n\n\t\n\n3\n\n\n\n\nMajor Required: SOWK2110\n\n\t\n\n3\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\t\n\n \n\n\n\n\nMajor Required: SOWK2020, 2210, 2220\n\n\t\n\n9\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n2nd term\n\n\t\n\n \n\n\t\n\n \n\n\n\n\nMajor Required: SOWK2140, 2230, 2430\n\n\t\n\n7\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nSummer session\n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\nMajor Required:\n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\nMajor Elective(s): SOWK2050\n\n\t\n\n0-1\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nThird Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\t\n\n \n\n\n\n\nMajor Required: SOWK3340, 3410\n\n\t\n\n7\n\n\n\n\nMajor Elective(s): SOWK3240 or 3250\n\n\t\n\n3\n\n\n\n\n \n\n\t\n\n2nd term\n\n\t\n\n \n\n\t\n\n \n\n\n\n\nMajor Required: SOWK3310, 3320, 3420\n\n\t\n\n10\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nFourth Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\t\n\n \n\n\n\n\nMajor Required: SOWK4350, 4410\n\n\t\n\n7\n\n\n\n\nMajor Elective(s): 1-2 course(s) from SOWK4030, 4510, 4520, 4530, 4540, 4550, 4570, 4580, 4590, 4591, 4592\n\n\t\n\n3-6\n\n\n\n\n \n\n\t\n\n2nd term\n\n\t\n\n \n\n\t\n\n \n\n\n\n\nMajor Required: SOWK4020, 4420\n\n\t\n\n6\n\n\n\n\nMajor Elective(s): 1-2 course(s) from SOWK4030, 4510, 4520, 4530, 4540, 4550, 4570, 4580, 4590, 4591, 4592\n\n\t\n\n3-6\n\n\n\n\n \n\n\t\n\nTotal (including Faculty Package):\n\n\t\n\n72\n\n\t\n\n \n\n \n\nMinor Programme Title\n\nSocial Policy\n\n \n\n\n\n\n \n\nMinor Programme Requirement\n\n \n\n\n\n\nStudents are required to complete a minimum of 18 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nRequired Courses:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nSOWK1114, 3320, 3340\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nElective Courses:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nAny 9 units from the following:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nSOWK2160, 2200, 2202, 2203, 2204, 3250, 4510, 4520, 4530, 4550, 4592\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n18\n\n\n\n\nExplanatory Note:\n\n\n\n\n1.\n\n\t\n\n“Social Policy” and “Social Welfare” are two independent Minor Programmes. Students are required to indicate their choice to the Department when applying. On completion of the unit requirement, the name of the chosen Minor Programme will be shown on the transcript.\n\n \n\n\n\n\n \n\nMinor Programme Title\n\nSocial Welfare\n\n \n\n\n\n\n \n\nMinor Programme Requirement\n\n \n\n\n\n\nStudents are required to complete a minimum of 18 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nRequired Courses:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nSOWK1001, 3310, 3320\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nElective Courses:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nAny 9 units from the following:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nSOWK1130, 1150, 1160, 2020, 2110, 2140, 4540\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n18\n\n\n\n\nExplanatory Note:\n\n\n\n\n1.\n\n\t\n\n“Social Policy” and “Social Welfare” are two independent Minor Programmes. Students are required to indicate their choice to the Department when applying. On completion of the unit requirement, the name of the chosen Minor Programme will be shown on the transcript.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\n \n\n\n\n\nCourse List\n\n \n\n\n\n\nCourse Code\n\n\t\n\nCourse Title\n\n\t\n\nUnit(s)\n\n\n\n\nSOWK1001\n\n\t\n\nIntroduction to Social Work and Social Welfare\n\n\t\n\n3\n\n\n\n\nSOWK1114\n\n\t\n\nFrom Understanding to Empowering the Socially Disadvantaged\n\n\t\n\n3\n\n\n\n\nSOWK1130\n\n\t\n\nLiving with Grief: Understanding Death, Dying and Bereavement\n\n\t\n\n3\n\n\n\n\nSOWK1150\n\n\t\n\nChoices in Life: An Invitation to Self-Development\n\n\t\n\n3\n\n\n\n\nSOWK1160\n\n\t\n\nMovies, Life and Social Work\n\n\t\n\n3\n\n\n\n\nSOWK2001\n\n\t\n\nStudent Orientated Teaching I\n\n\t\n\n2\n\n\n\n\nSOWK2020\n\n\t\n\nPhilosophy and Principles of Social Work\n\n\t\n\n3\n\n\n\n\nSOWK2050\n\n\t\n\nInterprofessional Learning for Social Work in Health Care\n\n\t\n\n1\n\n\n\n\nSOWK2100\n\n\t\n\nService-learning Online Course\n\n\t\n\n1\n\n\n\n\nSOWK2110\n\n\t\n\nHuman Behaviour and the Social Environment\n\n\t\n\n3\n\n\n\n\nSOWK2140\n\n\t\n\nMental Disorders\n\n\t\n\n2\n\n\n\n\nSOWK2160\n\n\t\n\nEconomic Insecurity and Social Security in Global Contexts\n\n\t\n\n3\n\n\n\n\nSOWK2200\n\n\t\n\nInterpersonal Violence\n\n\t\n\n3\n\n\n\n\nSOWK2202\n\n\t\n\nSocial Work and Cultural Diversity\n\n\t\n\n3\n\n\n\n\nSOWK2203\n\n\t\n\nMission-driven Social Enterprise\n\n\t\n\n3\n\n\n\n\nSOWK2204\n\n\t\n\nSocial Innovation and Social Change for Good\n\n\t\n\n3\n\n\n\n\nSOWK2210\n\n\t\n\nSocial Casework\n\n\t\n\n3\n\n\n\n\nSOWK2220\n\n\t\n\nSocial Group Work\n\n\t\n\n3\n\n\n\n\nSOWK2230\n\n\t\n\nCommunity Work\n\n\t\n\n3\n\n\n\n\nSOWK2430\n\n\t\n\nSocial Work Field Laboratory\n\n\t\n\n2\n\n\n\n\nSOWK3240\n\n\t\n\nClinical Social Work Theories and Practice\n\n\t\n\n3\n\n\n\n\nSOWK3250\n\n\t\n\nMacro Social Work Theories and Practice\n\n\t\n\n3\n\n\n\n\nSOWK3310\n\n\t\n\nSocial Welfare Administration\n\n\t\n\n3\n\n\n\n\nSOWK3320\n\n\t\n\nSocial Work Research\n\n\t\n\n3\n\n\n\n\nSOWK3340\n\n\t\n\nSocial Policy and Planning\n\n\t\n\n3\n\n\n\n\nSOWK3410\n\n\t\n\nField Instruction I\n\n\t\n\n4\n\n\n\n\nSOWK3420\n\n\t\n\nField Instruction II\n\n\t\n\n4\n\n\n\n\nSOWK4020\n\n\t\n\nStudent Orientated Teaching II\n\n\t\n\n2\n\n\n\n\nSOWK4030\n\n\t\n\nSocial Work Guided Research\n\n\t\n\n3\n\n\n\n\nSOWK4310\n\n\t\n\nGlobal Justice, International Order and Policy Building\n\n\t\n\n3\n\n\n\n\nSOWK4320\n\n\t\n\nEmployment, Labour, Poverty and Social Policy\n\n\t\n\n3\n\n\n\n\nSOWK4350\n\n\t\n\nLaw and Social Work\n\n\t\n\n3\n\n\n\n\nSOWK4410\n\n\t\n\nField Instruction III\n\n\t\n\n4\n\n\n\n\nSOWK4420\n\n\t\n\nField Instruction IV\n\n\t\n\n4\n\n\n\n\nSOWK4510\n\n\t\n\nSeminar I: Family-centered Social Work\n\n\t\n\n3\n\n\n\n\nSOWK4520\n\n\t\n\nSeminar II: Social Work with Young People\n\n\t\n\n3\n\n\n\n\nSOWK4530\n\n\t\n\nSeminar III: Social Work with Older People\n\n\t\n\n3\n\n\n\n\nSOWK4540\n\n\t\n\nSeminar IV: Social Work with People with Special Needs\n\n\t\n\n3\n\n\n\n\nSOWK4550\n\n\t\n\nSeminar V: Poverty and Social Exclusion\n\n\t\n\n3\n\n\n\n\nSOWK4570\n\n\t\n\nSeminar VII: Art-based Social Work Practice\n\n\t\n\n3\n\n\n\n\nSOWK4580\n\n\t\n\nSeminar VIII: Gender and Sexuality in Social Work Practice\n\n\t\n\n3\n\n\n\n\nSOWK4590\n\n\t\n\nSeminar IX: Family Therapy\n\n\t\n\n3\n\n\n\n\nSOWK4591\n\n\t\n\nSeminar X: Research Seminar\n\n\t\n\n3\n\n\n\n\nSOWK4592\n\n\t\n\nSeminar XI: Special Seminar\n\n\t\n\n3\n\n \n\n \n\n\n \n\nStudy Scheme\n\n\nLearning Outcomes\n \n\n\t\n\n \n\n1.          Major Programme:\n\nThe Social Work Programme prepares students to be professionally competent social workers. At the end of the course of studies, students will have:\n\n(1)   possessed basic knowledge and understanding of the values of Social Work (K/V);\n\n(2)   identified with the humanistic values and had a genuine concern for people especially for the vulnerable groups (V);\n\n(3)   had commitment to the well-being of clients, and to social justice (V);\n\n(4)   understood the social, cultural and psychological factors contributing to the needs and problems of people (K/S);\n\n(5)   been equipped with knowledge and skills on social work research, administration and policy (K/S); and\n\n(6)   been equipped with knowledge and skills in working with individual, group and community/society (K/S).\n\nV = Value       K = Knowledge      S = Skill\n\n \n\n2.          Minor Programmes:\n\n(i)     Minor in Social Welfare\n\n(ii)    Minor in Social Policy\n\nUpon the completion of the Minor Programme, students will have demonstrated basic understanding of fundamental issues related to the subject, acquired knowledge of some aspects of the subject with sufficient exposure and at a suitable level to allow further study in this subject or related subjects or to pursue a related career.\n\n \n\n \n\n \n\n\n"
+}

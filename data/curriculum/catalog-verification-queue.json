@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "purpose": "Courses whose prerequisite/corequisite rules are not present in the downloaded public 2026-27 Business School major-elective guide and must be checked in CUSIS Browse Course Catalog.",
+  "status": "partially_verified_2_of_9_remaining_site_unreachable",
+  "checkedAt": "2026-08-16",
+  "resolvedCourses": [
+    {"course":"ACCT2151","status":"verified","source":"data/cuhk-timetable/snapshots/2026-08-15T01-38-53+08-00/raw/2420/course-catalog/ACCT2151.txt"},
+    {"course":"ACCT3151","status":"verified","source":"data/cuhk-timetable/snapshots/2026-08-15T01-38-53+08-00/raw/2420/course-catalog/ACCT3151.txt"}
+  ],
+  "blockingEvidence": "CUSIS returned ERR_CONNECTION_CLOSED from the available browser on 2026-08-16; unknown fields remain unknown and are not interpreted as no prerequisite.",
+  "courses": [
+    {"course":"DOTE2021","role":"Business Analytics required","neededFields":["prerequisite","corequisite","exclusion","enrollmentRequirement"]},
+    {"course":"DOTE2030","role":"IBBA required","neededFields":["prerequisite","corequisite","exclusion","enrollmentRequirement"]},
+    {"course":"MGNT2512","role":"IBBA co-curricular required","neededFields":["prerequisite","corequisite","enrollmentRequirement"]},
+    {"course":"MGNT2611","role":"IBBA required","neededFields":["prerequisite","corequisite","enrollmentRequirement"]},
+    {"course":"MGNT4010","role":"IBBA capstone required","neededFields":["prerequisite","corequisite","enrollmentRequirement"]},
+    {"course":"ELTU3012","role":"University core English","neededFields":["prerequisite","corequisite","enrollmentRequirement"]},
+    {"course":"DOTE4030","role":"2024-25 Business Analytics choice pool","neededFields":["activeStatus","prerequisite","replacementOrRetirementRule"]}
+  ]
+}

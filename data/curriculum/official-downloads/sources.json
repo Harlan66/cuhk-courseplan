@@ -1,0 +1,28 @@
+{
+  "fetchedAt": "2026-08-15",
+  "sources": [
+    {
+      "academicYear": "2024-25",
+      "title": "Business Administration Faculty Package",
+      "url": "https://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/public/handbook/view_document.aspx?id=1995&lang=en&seq=1",
+      "localFile": "2024-25/Business-Administration-Faculty-Package.html",
+      "status": "downloaded",
+      "sha256": "fc570a80cbd4b4ef9a144cd7de414a73c2ac1dbfc7078c2324adf7d30b956600"
+    },
+    {
+      "academicYear": "2024-25",
+      "title": "General Regulations Governing Full-time Undergraduate Studies",
+      "url": "https://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/public/handbook/view_document.aspx?id=2027&lang=en&seq=1",
+      "localFile": "2024-25/General-Regulations.html",
+      "status": "downloaded",
+      "sha256": "54ba4b75136756c349f7214684365772368ee3fccbafdb777a7bbe05d38927c9"
+    },
+    {
+      "academicYear": "2025-26",
+      "title": "IBBA Information on Concentration Selection",
+      "url": "https://www3.baf.cuhk.edu.hk/studyplan/files/Guidelines_2025-26_4yr_full%20version_final.pdf",
+      "status": "official-source-found-download-currently-404",
+      "note": "The official indexed PDF is readable through the search cache, but the origin server currently returns HTTP 404, so no local file is claimed."
+    }
+  ]
+}

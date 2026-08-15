@@ -1,0 +1,1561 @@
+﻿course_code,subject_code,course_number,course_title_en,course_title_zh,units,catalog_status,source_snapshot_id
+ACCT1111,ACCT,1111,Foundations in Financial Acctg,基礎財務會計,3,captured,2026-08-15T01-53-13+08-00-full-term-1
+ACCT2111,ACCT,2111,Introductory Fin'l Accounting,財務會計導論,3,captured,2026-08-15T01-53-13+08-00-full-term-1
+ACCT2121,ACCT,2121,Introductory Mgt Accounting,管理會計導論,3,captured,2026-08-15T01-53-13+08-00-full-term-1
+ACCT2151,ACCT,2151,Legal Environment for Business,商業法律環境,2,captured,2026-08-15T01-53-13+08-00-full-term-1
+ACCT3111,ACCT,3111,Financial Reporting I,財務報告（一）,3,captured,2026-08-15T01-53-13+08-00-full-term-1
+ACCT3112,ACCT,3112,Financial Reporting II,財務報告（二）,3,captured,2026-08-15T01-53-13+08-00-full-term-1
+ACCT3121,ACCT,3121,Cost and Management Accounting,成本及管理會計,3,captured,2026-08-15T01-53-13+08-00-full-term-1
+ACCT3142,ACCT,3142,Accounting Information Systems,會計資訊系統,3,captured,2026-08-15T01-53-13+08-00-full-term-1
+ACCT3151,ACCT,3151,Business Law,商業法,3,captured,2026-08-15T01-53-13+08-00-full-term-1
+ACCT3152,ACCT,3152,Company Law,公司法,3,captured,2026-08-15T01-53-13+08-00-full-term-1
+ACCT3161,ACCT,3161,Taxation,稅務學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ACCT3241,ACCT,3241,Intro Python- BusAcctAnalytic,商業與會計分析的Python入門基礎,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ACCT4001,ACCT,4001,Cap Proj: Bus Ethics & Entrep,頂點項目：商業道德與企業研究,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ACCT4111,ACCT,4111,Advanced Financial Accounting,高級財務會計,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ACCT4131,ACCT,4131,Auditing,審計學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ACCT4215,ACCT,4215,Cont Acct Iss in Global Market,全球市場中的當代會計問題,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ACCT4244,ACCT,4244,Blockchain Fund'tal for Acct,會計師區塊鏈基礎知識,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ACCT4262,ACCT,4262,China Taxation,中國稅法,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ACCT4290,ACCT,4290,Pro Acct Intern,專業會計實習,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+AIST1000,AIST,1000,Introduction to AI & ML,人工智能與機器學習入門,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+AIST2010,AIST,2010,Intro to Computer Music,電腦音樂導論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+AIST3030,AIST,3030,Numerical Optimization,數值優化,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+AIST4010,AIST,4010,Foundation of Applied DL,應用深度學習基礎,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+AIST4040,AIST,4040,Math Foundations of DL,深度學習的數學基礎,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+AIST4998,AIST,4998,Final Year Project I,畢業專題研究（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+AIST4999,AIST,4999,Final Year Project II,畢業專題研究（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ANTH1010,ANTH,1010,Humans and Culture,人類與文化,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ANTH1020,ANTH,1020,Anth: The Study of Global Huma,人類學：環球人類研究,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ANTH1100,ANTH,1100,Understanding Anthropology,認識人類學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ANTH1410,ANTH,1410,Culture of Hong Kong,香港的文化,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ANTH2110,ANTH,2110,History of Anth Theory,人類學理論歷史,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ANTH2350,ANTH,2350,Meanings of Life,生活的意義,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ANTH2360,ANTH,2360,Ethics and Experience,倫理與人類體驗,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ANTH2370,ANTH,2370,Intangible Heritage in HK,香港的非物質文化遺產,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ANTH2403,ANTH,2403,Topics in Ethnography III,民族誌專題（三）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ANTH2420,ANTH,2420,Culture and Modernity in China,中國的文化及現代性,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ANTH2550,ANTH,2550,Working Cultures,工作文化 - 認識廿十一世紀的,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ANTH2710,ANTH,2710,Archaeology of China,中國考古學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ANTH2720,ANTH,2720,Archaeology of Hong Kong,香港考古學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ANTH2810,ANTH,2810,Human Evolution,人類的演化,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ANTH3321,ANTH,3321,Topics in Anthropology I,人類學專題（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ANTH3323,ANTH,3323,Topics in Anthropology III,人類學專題（三）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ANTH3350,ANTH,3350,Food and Culture,飲食與文化,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ANTH4300,ANTH,4300,Field Project I,人類學田野研究（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ANTH4301,ANTH,4301,Field Project II,人類學田野研究（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ANTH4321,ANTH,4321,Topics in Anthropology,人類學專題,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ARAB1000,ARAB,1000,Arabic I,阿拉伯語（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ARCH2111,ARCH,2111,Intro to Arch Design I,建築設計導論（一）,5,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ARCH2222,ARCH,2222,Digital Media,數碼媒體,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ARCH2322,ARCH,2322,Cultural Contexts I,文化脈絡（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ARCH3113,ARCH,3113,Architectural Design Studio I,建築設計工作室（一）,5,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ARCH3321,ARCH,3321,Arch and Global Culture,建築學與全球文化,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ARCH4115,ARCH,4115,Arch Design Studio III,建築設計工作室（三）,5,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ARCH4131,ARCH,4131,Topical Stud in Design Theory,設計理論專題研究,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ARCH4331,ARCH,4331,Topical Std in History Theory,歷史理論及批評專題研究,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ARCH4425,ARCH,4425,Building Systems Integration,建築技術綜合設計,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ARCH4431,ARCH,4431,Top Studies in Bldg Technology,建築技術專題研究,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ASEI3010,ASEI,3010,Rocket and Spacecraft Dynamics,火箭和航天器動力學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ASEI3020,ASEI,3020,Earth & Space Sensor Systems,地球與太空觀測傳感器系統,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BCHE2030,BCHE,2030,Fundamentals of Biochemistry,基礎生物化學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BCHE2070,BCHE,2070,Research Internship,研究實習,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BCHE3030,BCHE,3030,Methods in Biochemistry,生物化學方法,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BCHE3092,BCHE,3092,Self-study Modules in BCH & Dv,生物化學自學單元及專業發展,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BCHE3730,BCHE,3730,Analytical Biochemistry Lab,分析生物化學實驗,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BCHE4040,BCHE,4040,Aspects of Neuroscience,神經科學概論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BCHE4060,BCHE,4060,Basic & Applied Immunology,基礎及應用免疫學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BCHE4080,BCHE,4080,Biochem for Forensic Sciences,生物化學鑑證,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BCHE4760,BCHE,4760,Immunology and Haematology Lab,免疫學及血液學實驗,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BCHE4902,BCHE,4902,Senior Experimental Proj II,實驗專題討論（二）,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BCME1206,BCME,1206,Basic Theory of Chi Med,中醫基礎理論,4,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BCME1403,BCME,1403,Anatomy,解剖學,4,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BCME1600,BCME,1600,Fundamental Physiology I,基礎生理學（一）,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BCME2103,BCME,2103,Funda in Chi Materia Medica,基礎中藥學,5,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BCME2107,BCME,2107,Introduction to Diseases I,西醫臨床學科I,4,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BCME2202,BCME,2202,Chi Med Classic-Shang-Han-Lun,傷寒論選讀,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BCME2209,BCME,2209,Intro to West Med Practice I,西醫診治方法原理(一),4,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BCME2401,BCME,2401,Clinical Training I,臨牀見習（一）,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BCME2402,BCME,2402,Clinical Training II,臨牀見習（二）,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BCME2403,BCME,2403,Clinical Training III,臨牀見習（三）,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BCME2405,BCME,2405,Clinical Training V,臨牀見習（五）,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BCME3102,BCME,3102,Internal Medicine I,中醫內科學（一）,4,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BCME3103,BCME,3103,Specialties in CM: Feb Dise,溫病學說,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BCME3106,BCME,3106,Acupuncture,針灸科,4,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BCME3108,BCME,3108,Massage Therapy in Chi Med,推拿學,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BCME3110,BCME,3110,Surgery and Topical Diseases,中醫外科學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BCME3208,BCME,3208,Hong Kong Medical System,香港醫療制度,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BCME4103,BCME,4103,Clinical Study II,臨牀實習（二）,12,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BCME4107,BCME,4107,Ent and Ophthalmology,五官科,4,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BCME4108,BCME,4108,Paediatrics,兒科學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BCME4109,BCME,4109,Different Schools of Chi Med,中醫學術流派,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BCME4200,BCME,4200,Research Methodologies in CM,中醫學研究方法,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BECE2110,BECE,2110,Prin of CI Design for ECE,幼兒教育教學設計的原則,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BECE2210,BECE,2210,Foundations of Education,教育基礎,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BECE2310,BECE,2310,Psycho Develop of Young Child,幼兒心理發展,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BECE2330,BECE,2330,Phys & Motor Develop of Child,幼兒身體與動作技能發展,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BECE2510,BECE,2510,"Health,Nutrit'nSafe for Child",幼兒健康、營養與安全,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BECE3110,BECE,3110,Classroom Comm for EC Teachers,幼兒教師的課室溝通,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BECE3160,BECE,3160,Advances in Curr Study in ECE,進階幼兒教育課程學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BECE3220,BECE,3220,Multicultural Early Years Edu,香港多元文化學前教育,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BECE4020,BECE,4020,Teaching Practice II,教學實踐（二）,5,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BEHM4000,BEHM,4000,Internship,實習,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BEHM4001,BEHM,4001,Capstone Project I,總結項目(一),3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BEHM4002,BEHM,4002,Capstone Project II,總結項目(二),3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BIOL2120,BIOL,2120,Cell Biology,細胞生物學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BIOL3012,BIOL,3012,Biodiversity Laboratory I,生物多樣性實驗（一）,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BIOL3410,BIOL,3410,General Microbiology,普通微生物學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BIOL3510,BIOL,3510,Palaeobiology,古生物學,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BIOL3560,BIOL,3560,Biol Fungi & Non-Vasc Plants,真菌及非維管束植物生物學,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BIOL3610,BIOL,3610,Invertebrate Form & Function,無脊椎動物型態及功能,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BIOL3630,BIOL,3630,Animal Physiology,動物生理學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BIOL3710,BIOL,3710,Marine Biology,海洋生物學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BIOL4010,BIOL,4010,Evolutionary Biology,演化生物學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BIOL4012,BIOL,4012,Field & Environmental Biology,野外考察及環境生物學,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BIOL4120,BIOL,4120,Developmental Biology,發育生物學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BIOL4230,BIOL,4230,Global Change Biology,全球變化生物學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BIOL4240,BIOL,4240,Environmental Impact Assessmen,環境影響評估,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BIOL4242,BIOL,4242,Environ Impact Assessmt Lab,環境影響評估實驗,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BIOL4610,BIOL,4610,Foundation Sec Sch Biol Teach,中學生物教學基礎課程,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BIOL4902,BIOL,4902,Senior Experimental Project II,實驗專題討論（二）,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BIOL4906,BIOL,4906,Internship,專題實習,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BMBL1001,BMBL,1001,Intro to Sign Lang and Bimodal,手語與雙渠道雙語概論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BMBL2001,BMBL,2001,Sign Linguistics I: Phonetics,手語語言學（一）：語音學與音系學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BMBL2003,BMBL,2003,"Sign Linguistics III: Syntax,",手語語言學（三）：句法學、語義學與語用學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BMBL2004,BMBL,2004,Language Acquisition of Deaf C,聾童語言獲得,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BMBL3002,BMBL,3002,Intro to SL Interpreting,手語傳譯概論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BMBL4101,BMBL,4101,Research Project I,專題研究（一）,0,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BMBL4102,BMBL,4102,Research Project II,專題研究（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BMBL4201,BMBL,4201,Service Learning I,服務研習（一）,0,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BMED3011,BMED,3011,Maths Curriculum & Teach'g I,數學課程與教學法,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BMED3021,BMED,3021,Math Curri and Teach'n II STEM,數學課程與教學法II,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BMED3031,BMED,3031,Math Literacy Problem Solving,數學素養與解難,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BMED3051,BMED,3051,The Teach'g of Number Algebra,數與代數的教學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BMED3091,BMED,3091,Contemporary Issues in Math Ed,數學教育專題,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BMEG2001,BMEG,2001,Intro Biomedical Engineering,生物醫學工程導論,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BMEG2210,BMEG,2210,Orthop Biomech & Muscle Inj,骨科生物力學和肌肉骨骼損傷,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BMEG2410,BMEG,2410,Com Analys & Diff Equa,複分析與微分方程式的應用,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BMEG3103,BMEG,3103,Big Data in HealthCare,醫療大數據分析,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BMEG3105,BMEG,3105,Data Ana for Personalized Geno,精準醫療和個人化基因組學之數據分析,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BMEG3111,BMEG,3111,Med Instrumentation & Design,醫學儀器和設計,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BMEG3140,BMEG,3140,Molecular & Cellular Engg Lab,分子和細胞工程實驗,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BMEG3320,BMEG,3320,Biomedical Imaging,生物醫學影像,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BMEG3330,BMEG,3330,Neuroengineering,神經工程學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BMEG3430,BMEG,3430,Biomaterials and Tissue Engg,生物材料與組織工程學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BMEG3910,BMEG,3910,Undergrad Research in BME,生物醫學工程本科研究,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BMEG4220,BMEG,4220,Wearable Biomed Dev & Personal,可穿戴生物醫學設備和個人化醫療,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BMEG4998,BMEG,4998,Final Year Project I,畢業專題研究（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+BMEG4999,BMEG,4999,Final Year Project II,畢業專題研究（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CDAS4998,CDAS,4998,Final Year Project I,畢業專題研究（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CDAS4999,CDAS,4999,Final Year Project II,畢業專題研究（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CENG2010,CENG,2010,Digital Logic Design Lab,數字邏輯設計實驗,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CENG2400,CENG,2400,Embedded System Design,嵌入式系統設計,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CENG4480,CENG,4480,Embedded System Dev & Apps,嵌入式系統開發及應用,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CENG4998,CENG,4998,Final Year Project I,畢業專題研究（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CENG4999,CENG,4999,Final Year Project II,畢業專題研究（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHED3160,CHED,3160,Children’s Play in ECE,幼兒教育中的兒童遊戲,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHED4150,CHED,4150,Children’s Literature,兒童文學,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHED4210,CHED,4210,Leadership & Management in EC,幼兒教育場景的領導與管理,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHED4310,CHED,4310,Aes Exp & Creative Expre in EC,幼兒的美感經驗與創造性表現,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHED4330,CHED,4330,Personal Growth of Teachers,教師個人成長,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHED4340,CHED,4340,Support Preschool Child w SEN,支援學前有特殊教育需要的兒童,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHED4360,CHED,4360,Advanced Study of EC Develop,幼兒發展進深課程,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHED4410,CHED,4410,Fundamental Move Skill & Rhyth,幼兒基礎活動和節奏律動,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHED4510,CHED,4510,Values Education in ECE,幼兒教育中的價值教育,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHED4520,CHED,4520,Guided Study in Issues of Chil,兒童發展議題導讀,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHED4530,CHED,4530,Contemporary Issues in ECE,幼兒教育的當代議題及發展,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHEM1070,CHEM,1070,Principles of Modern Chemistry,現代化學概論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHEM1072,CHEM,1072,General Chemistry,基礎化學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHEM1280,CHEM,1280,Intro to Org Chm & Biomolecule,有機化學與生物分子導論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHEM1300,CHEM,1300,Fundamentals in Physical Chem.,物理化學基礎,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHEM1380,CHEM,1380,Basic Chemistry for Engineers,基礎工程化學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHEM1870,CHEM,1870,Chem Lab: STEM and Daily Life,化學實驗：STEM 與日常生活,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHEM2120,CHEM,2120,Main Group Chemistry,主族元素化學,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHEM2200,CHEM,2200,Functional Groups Chemistry,有機官能團的結構和反應,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHEM2300,CHEM,2300,Thermody & Chm Equilibrium,熱力學與化學平衡,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHEM2860,CHEM,2860,Integrated Chemistry Lab I,綜合化學實驗（一）,4,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHEM2868,CHEM,2868,Basic Integrated Chem Lab I,基礎綜合化學實驗（一）,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHEM3220,CHEM,3220,Organic Reactivity,有機反應和選擇性,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHEM3320,CHEM,3320,Chemical Kinetics,化學動力學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHEM3410,CHEM,3410,Instrumental Analysis,儀器分析,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHEM3810,CHEM,3810,Organic Chemistry Lab,有機化學實驗,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHEM3830,CHEM,3830,Physical Chemistry Lab I,物理化學實驗( 一),2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHEM3870,CHEM,3870,Instrumental Analysis Lab,儀器分析實驗,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHEM4030,CHEM,4030,Problem-based Learning I (Chm),化學專題研習（一）,0,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHEM4040,CHEM,4040,Problem-based Learning II(Chm),化學專題研習(二),4,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHEM4300,CHEM,4300,Advanced Physical Chemistry,高等物理化學,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHEM4303,CHEM,4303,Intro to Nanosci & Nanotech,納米科學與技術概論,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHEM4440,CHEM,4440,Food & Environmental Analysis,食物測試及環境分析,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHEM4471,CHEM,4471,Internship,實習課程,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHEM4535,CHEM,4535,Chemical Treatment Process,化學處理程序,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHEM4786,CHEM,4786,Prin. & App Coating Chem,塗層化學原理和應用,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHEM4960,CHEM,4960,Research in Chem Sci I,化學專題研究（一）,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHEM4980,CHEM,4980,Undergraduate Thesis I,畢業論文（一）,0,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHES1000,CHES,1000,Intro to Chinese Studies,中國研究導論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHES1101,CHES,1101,China in Global Perspectives,全球視角下的中國,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHES2002,CHES,2002,Chinese Culture and Society,變遷中的中國文化與社會,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHES2004,CHES,2004,Chinese Lit and Adaptation,中國古代文學與改編,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHES2005,CHES,2005,Emotional Landscapes in China,當代中國社會的情感經驗,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHES2006,CHES,2006,Sound Culture in Contemp China,當代中國的聽覺文化,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHES2107,CHES,2107,Science & Technology in China,中國科技發展導論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHES3002,CHES,3002,China’s Financial Reform,中國金融改革,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHES3102,CHES,3102,East Asian Film Genres,全球化下的東亞電影類型,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHES3103,CHES,3103,Art in Contemporary China,當代中國的藝術,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHES3105,CHES,3105,Cultural History of China,中國文化史,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHES3108,CHES,3108,Infrastructure and Development,基礎設施與發展,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHES3201,CHES,3201,Spec Topics in Chinese Studies,中國研究專題,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHES3402,CHES,3402,China Experience Internship,中國見習,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHES3500,CHES,3500,Chi Studies Research Methods,中國研究研究方法,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHLL1110,CHLL,1110,Intro to Chinese Linguistics,中國語言學概論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHLL1401,CHLL,1401,Introduction to Literature,文學概論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHLL1902,CHLL,1902,Class of Chi Hum:Guided Read’g,中國人文經典導讀,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHLL2121,CHLL,2121,Intro to Chinese Philology,文字學導論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHLL2131,CHLL,2131,Intro to Chinese Phonology,音韻學導論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHLL2212,CHLL,2212,Intro to Class Chi Texts Study,古文獻學概論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHLL3142,CHLL,3142,Comparative Grammar in C & E,漢英比較語法,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHLL3314,CHLL,3314,Major Author(s) (Ci Poetry),專家詞,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHLL3321,CHLL,3321,Classical Chi Fiction (S S),古典短篇小說,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHLL3406,CHLL,3406,Modern Chi Fiction(NovellaSS),現代小說（中、短篇）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHLL4001,CHLL,4001,Independent Research I,專題研究（一）,0,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHLL4224,CHLL,4224,Zuo Zhuan,左傳,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHLL4242,CHLL,4242,Zhuang Zi,莊子,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHLL4314,CHLL,4314,Prose of Liu Zongyuan,柳宗元文,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHLL4340,CHLL,4340,Literature of Jian'an Period,建安文學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHLL4401,CHLL,4401,Literature and Art,文學與藝術,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHLL4407,CHLL,4407,Sel Top in Modern Chi Lit I,現代文學專題（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHLL4411,CHLL,4411,Lu Xun,魯迅研究,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHLT1001,CHLT,1001,University Chinese I,大學中文（一）,3,not_collected,2026-08-15T18-34-00+08-00-gap-recapture
+CHLT1002,CHLT,1002,University Chinese II,大學中文（二）,2,not_collected,2026-08-15T18-34-00+08-00-gap-recapture
+CHLT1104,CHLT,1104,Self-Learning Elementary Chin,自學中文初階,0,not_collected,2026-08-15T18-34-00+08-00-gap-recapture
+CHLT1204,CHLT,1204,Chin Lang Com and App I,中國語文傳意與應用（一）,3,not_collected,2026-08-15T18-34-00+08-00-gap-recapture
+CHLT1205,CHLT,1205,Chin Lang Com and App II,中國語文傳意與應用（二）,2,not_collected,2026-08-15T18-34-00+08-00-gap-recapture
+CHLT1306,CHLT,1306,Advertising Copywriting,廣告文案寫作,1,not_collected,2026-08-15T18-34-00+08-00-gap-recapture
+CHLT1307,CHLT,1307,Nature Writing,自然書寫,2,not_collected,2026-08-15T18-34-00+08-00-gap-recapture
+CHLT2882,CHLT,2882,Mod'n Chi Lit M'pieces Appr'n,現代文學名著鑑賞,3,not_collected,2026-08-15T18-34-00+08-00-gap-recapture
+CHPR3001,CHPR,3001,Contemporary Health Issues,當代健康問題,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHPR4003,CHPR,4003,Research Methods in Com Health,社區健康研究方法,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHPR4008,CHPR,4008,Health Promo Plan & Eval,策劃及評估健康促進項目,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CHPR4901,CHPR,4901,Practicum in CHPR I,社區健康實習 (一),3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCC1000,CLCC,1000,Sur CAN for International STD,生活中的粵語（以粵語為第二語言的國際生適用）,0,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCC1001,CLCC,1001,CAN Taster Course for Int'l St,國際學生粵語應用學習,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCC1100,CLCC,1100,Sur CAN for Native CHI Speaker,生活中的粵語（以華語為第一語言者適用）,0,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCC1101,CLCC,1101,CAN Taster Course (for Chi),華語學生粵語應用學習,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCC1113,CLCC,1113,Application of Voc & Gr I,詞匯與語法應用（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCC1123,CLCC,1123,Oral Skills Practice I,口語技能訓練（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCC1152,CLCC,1152,Sounds of Cantonese,粵語語音,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCC1703,CLCC,1703,Elem CAN for Chi Speakers,華語學生粵語初級,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCC1903,CLCC,1903,Medical Cantonese I,醫學粵語（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCC2213,CLCC,2213,Application of Voc & Gr II,詞匯與語法應用（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCC2223,CLCC,2223,Oral Skills Practice II,口語技能訓練（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCC2703,CLCC,2703,Intermed CAN for Chi Speakers,華語學生粵語中級,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCC3313,CLCC,3313,Application of Voc & Gr III,詞匯與語法應用（三）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCC3703,CLCC,3703,Advanced CAN for Chi Speakers,華語學生粵語高級,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCC4413,CLCC,4413,Comm in Prof Settings,專業溝通,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCC4513,CLCC,4513,Topics in HKSAR,專題討論 – 香港特別行政區專題,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCE1103,CLCE,1103,"Chi Lang, Cul & Lang Learning",中國語言及文化與語言學習,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCH1702,CLCH,1702,Hokkinese thru Poems & Songs,福建話詩與歌,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCP1000,CLCP,1000,Survival PTH for Int’l Student,生活中的普通話（以普通話/華語為第二語言者適用）,0,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCP1001,CLCP,1001,PTH Taster Course for Int'l St,國際生普通話先導學習科目,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCP1003,CLCP,1003,Intro to Mandarin Chinese,普通話入門,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCP1101,CLCP,1101,PTH Taster Course for Local St,本地學生普通話應用科目,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCP1113,CLCP,1113,Application of Voc & Gr I,詞彙與語法應用（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCP1123,CLCP,1123,Oral Skills Practice I,口語技能訓練（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCP1133,CLCP,1133,Comm in Context I,普通話能力訓練（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCP1153,CLCP,1153,Basic Presentation Skills I,基本表達技巧訓練（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCP1703,CLCP,1703,Elementary Putonghua,初級普通話,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCP2213,CLCP,2213,Application of Voc & Gr II,詞匯與語法應用（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCP2223,CLCP,2223,Oral Skills Practice II,口語技能訓練（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCP2233,CLCP,2233,Comm in Context II,普通話能力訓練（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCP2243,CLCP,2243,L & R Com Sks II - Daily & Bus,聽力及閱讀理解訓練（二） – 日常及商務專題,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCP2253,CLCP,2253,Basic Presentation Skills II,基本表達技巧訓練（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCP2703,CLCP,2703,Intermediate Putonghua,中級普通話,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCP3313,CLCP,3313,Application of Voc & Gr III,詞彙與語法應用（三）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCP3323,CLCP,3323,Oral Skills Practice III,口語技能訓練（三）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCP3333,CLCP,3333,Comm in Context III,普通話能力訓練（三）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCP3353,CLCP,3353,Presentation Skills & Dai Sit,表達技巧訓練,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCP3702,CLCP,3702,Learning PTH thru Movies,看電影學普通話,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCP3703,CLCP,3703,Advanced Putonghua,高級普通話,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCP4413,CLCP,4413,News & Presentation Skills I,新聞及專題討論訓練（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCP4443,CLCP,4443,Adv Com Skills on Bus Topics I,高級溝通技巧訓練 - 商貿專題（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCP4453,CLCP,4453,Adv Comm Skills & Culture I,高級溝通技巧訓練 - 文化專題（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCP4533,CLCP,4533,Adv Top Conv II - Social Life,專題討論（二）- 社會話題,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCP4702,CLCP,4702,Learning PTH thru Travelling,說著普通話去旅行,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCP4713,CLCP,4713,Current Affairs and Discussion,時事報告與討論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCP4763,CLCP,4763,Special Topics in PTH (Bus),普通話專題科（商貿）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCP4773,CLCP,4773,Putonghua Speech Training,普通話口才訓練（表達技巧及備考科）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLCP4793,CLCP,4793,Special Topics in PTH (Med),普通話專題科（醫學）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLED1030,CLED,1030,Immersion Experience Putonghua,港外沉浸學習﹝普通話﹞,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLED2530,CLED,2530,Elementary Putonghua,基礎普通話,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLED3510,CLED,3510,Methods of Chi Lang Teaching I,中文教學法（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLED4630,CLED,4630,Curr and Instruct Design Pamoi,以普通話教中文的課程與教學設計,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CLED4750,CLED,4750,Current Issues in Chi Lang Edu,中國語文教育當前議題,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CMBI2500,CMBI,2500,Research Internship,研究實習,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CMBI3010,CMBI,3010,CMB Lab I,細胞及分子生物學實驗（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CMBI3030,CMBI,3030,CMB Laboratory III,細胞及分子生物學實驗（三）,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CMBI3100,CMBI,3100,Method of Critical Thinking,細胞及分子生物學科學思維方法,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CMBI4001,CMBI,4001,Protein Trafficking,蛋白運輸,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CMBI4002,CMBI,4002,Protein Folding,蛋白折疊,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CMBI4003,CMBI,4003,Signal Transduction,信號傳導,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CMBI4201,CMBI,4201,Genomics and Transcriptomics,基因組學及轉錄組學,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CMBI4202,CMBI,4202,Proteomics,蛋白質組學,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CMBI4203,CMBI,4203,Metabolomics,代謝組學,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CMBI4902,CMBI,4902,Senior Experimental Proj II,實驗專題討論 (二),2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM1110,COMM,1110,Media and Everyday Life,媒體．生活,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM1120,COMM,1120,Development of Media & Comm,媒體與傳播發展,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM1150,COMM,1150,Intro to Media Ind & Practices,媒體工業與實踐導論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM1170,COMM,1170,Chin News Report'g & Writing,中文新聞採訪與寫作,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM1180,COMM,1180,Eng News Reporting & Writing,英文新聞採訪與寫作,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM1190,COMM,1190,Media Writing,媒體寫作,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM1500,COMM,1500,Perspectives in Global Comm,全球傳播概論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM2110,COMM,2110,Chin News Production (Writing),中文新聞製作（文字）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM2170,COMM,2170,Chinese News Production (MM),中文新聞製作（多媒體）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM2180,COMM,2180,English News Production II,英文新聞製作 （二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM2240,COMM,2240,Integrated Strategic Camp' I,綜合策略推廣（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM2440,COMM,2440,Photojournalism,新聞攝影,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM2530,COMM,2530,Critical Stud in Media & Comm,媒介與傳播批判研讀,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM2570,COMM,2570,Hong Kong Cinema,香港電影,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM2620,COMM,2620,Feature Writing,新聞特寫,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM2733,COMM,2733,Radio and Podcast Production,電台與播客製作,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM2813,COMM,2813,Social Media and Crisis Comm,社交媒體與危機溝通,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM2814,COMM,2814,Int PR Camp & Event Mgt,公關綜合策略與活動管理,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM2850,COMM,2850,Introduction to IMC,綜合市場傳播導論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM2922,COMM,2922,Intro to Creative & New Media,創意媒體與新媒體導論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM2928,COMM,2928,Art Direction,美術指導,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM2930,COMM,2930,Understanding Movies,認識電影,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM2932,COMM,2932,"Film Gen:Love, Death & Laughs",電影類型：愛情、死亡及笑話,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM2962,COMM,2962,Photography,攝影研讀,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM3140,COMM,3140,Chi News Edit & Content Mgt,中文新聞編輯與內容管理,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM3200,COMM,3200,Comm Professional Internship,傳播專業實習,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM3310,COMM,3310,Images and Creative Media,影像與創意媒體,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM3400,COMM,3400,Integrated Strategic Camp' II,綜合策略推廣（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM3550,COMM,3550,Global Finance for Comm Prof,全球金融與專業傳播,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM3600,COMM,3600,Laws & Ethics for Comm,傳播法律與道德,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM3610,COMM,3610,Eng News Content Mgt,英文新聞內容管理,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM3650,COMM,3650,Soc Media An'yt for Comm Prof,社交媒體分析技術,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM3680,COMM,3680,Business & Financial Report'g,工商與財經新聞採訪,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM3700,COMM,3700,Diversity Issues in Comm,傳播與多元文化議題,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM3733,COMM,3733,TV Studio Production,電視錄影廠製作,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM3750,COMM,3750,Visual Storytelling in Jour,影像新聞敍事方法,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM3800,COMM,3800,Digital Media Design & App,數碼媒體設計與應用,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM3820,COMM,3820,Media Management for PR,公共關係媒體管理,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM3840,COMM,3840,Chi Copywriting for Advert'g,中文廣告撰稿,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM3910,COMM,3910,Sound Production,聲音製作,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM3920,COMM,3920,Creative Writing in Media,創意媒體寫作,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM3921,COMM,3921,Sp Top in Creat & New Media I,創意媒體與新媒體專題（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM3930,COMM,3930,Digital Video Production,數碼影像製作,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM4150,COMM,4150,Senior Research Project,研究導修,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM4730,COMM,4730,Documentary,紀錄片,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COMM4962,COMM,4962,Advanced Photography,攝影研讀進階,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COOP3001,COOP,3001,Unlocking Potential & Branding,提升潛能及個人品牌,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+COOP4001,COOP,4001,Placement and Assessment,工作體驗及持續評估,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CSAT2001,CSAT,2001,Media & Rep: Hist & Theory,媒介與再現：歷史與理論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CSAT2002,CSAT,2002,Creative Dialogue,創意對談,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CSCI1120,CSCI,1120,Intro to Computing Using C++,計算導論（C++語言）,3,not_collected,2026-08-15T00-47-47+08-00
+CSCI1130,CSCI,1130,Intro to Computing Using Java,計算導論（JAVA語言）,3,not_collected,2026-08-15T00-47-47+08-00
+CSCI1540,CSCI,1540,Fund Comp With C++,基本計算學（C++語言）,3,not_collected,2026-08-15T00-47-47+08-00
+CSCI1550,CSCI,1550,Computer Principles & P Prog,計算機原理及Python程序設計,3,not_collected,2026-08-15T00-47-47+08-00
+CSCI1580,CSCI,1580,Visual Programming,可視化編寫,3,not_collected,2026-08-15T00-47-47+08-00
+CSCI2040,CSCI,2040,Introduction to Python Python,程序語言導論,2,not_collected,2026-08-15T00-47-47+08-00
+CSCI2100,CSCI,2100,Data Structures,數據結構,3,not_collected,2026-08-15T00-47-47+08-00
+CSCI2510,CSCI,2510,Computer Organization,計算機結構,3,not_collected,2026-08-15T00-47-47+08-00
+CSCI2720,CSCI,2720,Building Web Applications,建設網上應用程式,3,not_collected,2026-08-15T00-47-47+08-00
+CSCI2730,CSCI,2730,Intro to Blockchain Tech & App,區塊鏈技術和應用導論,3,not_collected,2026-08-15T00-47-47+08-00
+CSCI3100,CSCI,3100,Software Engineering,軟件工程,3,not_collected,2026-08-15T00-47-47+08-00
+CSCI3130,CSCI,3130,Formal Lang & Automata Theory,形式語言及自動機理論,3,not_collected,2026-08-15T00-47-47+08-00
+CSCI3150,CSCI,3150,Intro to Operating Systems,操作系統導論,3,not_collected,2026-08-15T00-47-47+08-00
+CSCI3160,CSCI,3160,Design & Analysis of Algo,算法設計及分析,3,not_collected,2026-08-15T00-47-47+08-00
+CSCI3170,CSCI,3170,Intro to Database Systems,數據庫系統導論,3,not_collected,2026-08-15T00-47-47+08-00
+CSCI3190,CSCI,3190,Intro to Discrete Math & Algo,離散數學及算法導論,3,not_collected,2026-08-15T00-47-47+08-00
+CSCI3230,CSCI,3230,Fundamentals of AI,人工智能之基本原理,3,not_collected,2026-08-15T00-47-47+08-00
+CSCI3260,CSCI,3260,Principles of Comp Graphics,計算機圖形學之原理,3,not_collected,2026-08-15T00-47-47+08-00
+CSCI3360,CSCI,3360,Intro to Computational Complex,計算複雜度導論,3,not_collected,2026-08-15T00-47-47+08-00
+CSCI4120,CSCI,4120,Principles of Comp Game SW,電腦遊戲軟件原理,3,not_collected,2026-08-15T00-47-47+08-00
+CSCI4180,CSCI,4180,Intro to Cloud Comp & Storage,雲端計算及存儲導論,3,not_collected,2026-08-15T00-47-47+08-00
+CSCI4998,CSCI,4998,Final Year Project I,畢業專題研究（一）,3,not_collected,2026-08-15T00-47-47+08-00
+CSCI4999,CSCI,4999,Final Year Project II,畢業專題研究（二）,3,not_collected,2026-08-15T00-47-47+08-00
+CUMT4103,CUMT,4103,Internship,實習,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+CURE1000,CURE,1000,Why Culture Matters,文化何以重要,3,not_collected,2026-08-15T00-47-47+08-00
+CURE1004,CURE,1004,Intro to Public Humanities,公共人文學導論,3,not_collected,2026-08-15T00-47-47+08-00
+CURE1110,CURE,1110,Religion and Contemporary Life,宗教與當代生活,3,not_collected,2026-08-15T00-47-47+08-00
+CURE1123,CURE,1123,World Religions,世界宗教,3,not_collected,2026-08-15T00-47-47+08-00
+CURE1124,CURE,1124,Study of Christianity,基督宗教研究,3,not_collected,2026-08-15T00-47-47+08-00
+CURE1401,CURE,1401,Introduction to Cultural Mgt,文化管理概論,3,not_collected,2026-08-15T00-47-47+08-00
+CURE1403,CURE,1403,Cultural Policy & Development,藝術發展及政策,3,not_collected,2026-08-15T00-47-47+08-00
+CURE2006,CURE,2006,Intro to Film and Screen Stud,電影與螢幕研究概要,3,not_collected,2026-08-15T00-47-47+08-00
+CURE2022,CURE,2022,Feminisms: Thoughts & Movement,女權主義：思想與運動,3,not_collected,2026-08-15T00-47-47+08-00
+CURE2030,CURE,2030,Hong Kong Cinema,香港電影,3,not_collected,2026-08-15T00-47-47+08-00
+CURE2066,CURE,2066,Foundation of Visual Design,視覺設計基礎,3,not_collected,2026-08-15T00-47-47+08-00
+CURE2112,CURE,2112,"Myth, Symbol and Ritual",神話、象徵與儀式,3,not_collected,2026-08-15T00-47-47+08-00
+CURE2160,CURE,2160,Sp Topics in Religion & Cul,專題研究——宗教與文化,3,not_collected,2026-08-15T00-47-47+08-00
+CURE2163,CURE,2163,Religion and Food,宗教與飲食,3,not_collected,2026-08-15T00-47-47+08-00
+CURE2170,CURE,2170,Reading Religious Classics,宗教經典研讀,3,not_collected,2026-08-15T00-47-47+08-00
+CURE2181,CURE,2181,Classical Arabic Beginners II,基礎古典阿拉伯文（二）,3,not_collected,2026-08-15T00-47-47+08-00
+CURE2404,CURE,2404,Intro to Heritage Management,文化遺產管理導論,3,not_collected,2026-08-15T00-47-47+08-00
+CURE2409,CURE,2409,Introduction to the Art Market,藝術市場導論,3,not_collected,2026-08-15T00-47-47+08-00
+CURE3014,CURE,3014,Sp Topics in Cul Std IV,文化研究專題（四）,3,not_collected,2026-08-15T00-47-47+08-00
+CURE3034,CURE,3034,Korean Media & Popular Culture,韓國媒體與大眾文化,3,not_collected,2026-08-15T00-47-47+08-00
+CURE3145,CURE,3145,Buddhism and Contemporary Life,佛教與現代生活,3,not_collected,2026-08-15T00-47-47+08-00
+CURE3403,CURE,3403,Media Arts Management,媒體藝術管理,3,not_collected,2026-08-15T00-47-47+08-00
+CURE3405,CURE,3405,Design Your Exhibition,策展計劃及實踐,3,not_collected,2026-08-15T00-47-47+08-00
+CURE3508,CURE,3508,Museum Studies,博物館研究,3,not_collected,2026-08-15T00-47-47+08-00
+CURE4038,CURE,4038,Summer Internship,暑期實習,3,not_collected,2026-08-15T00-47-47+08-00
+CURE4159,CURE,4159,Internship,實習,3,not_collected,2026-08-15T00-47-47+08-00
+CURE4441,CURE,4441,Sp Topic in Creative Ind,創意工業專題,3,not_collected,2026-08-15T00-47-47+08-00
+DIPL1001,DIPL,1001,Introduction to IR and DIPL,國際關係與外交導論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+DOTE1030,DOTE,1030,Eco for Business Studies I,企業經濟學（一）,3,not_collected,2026-08-15T00-47-47+08-00
+DOTE1031,DOTE,1031,Basic Econ for the HT Ind,酒店及旅遊業經濟學,3,not_collected,2026-08-15T00-47-47+08-00
+DOTE2011,DOTE,2011,Sta Ana for Bus Decisions,企業決策之統計分析,4,not_collected,2026-08-15T00-47-47+08-00
+DOTE2030,DOTE,2030,Operations Management,營運管理,3,not_collected,2026-08-15T00-47-47+08-00
+DOTE2040,DOTE,2040,Business Analytics,商務分析,3,not_collected,2026-08-15T00-47-47+08-00
+DOTE2051,DOTE,2051,Business Information Systems,商業資訊系統,3,not_collected,2026-08-15T00-47-47+08-00
+DOTE3080,DOTE,3080,Macroeconomics for Managers,宏觀經濟與管理,3,not_collected,2026-08-15T00-47-47+08-00
+DOTE3090,DOTE,3090,Game Theory for Bus Strategy,商業策略博奕論,3,not_collected,2026-08-15T00-47-47+08-00
+DOTE4020,DOTE,4020,Decision Modeling & Analytics,決策建模和分析,3,not_collected,2026-08-15T00-47-47+08-00
+DOTE4070,DOTE,4070,Data Mgt & Big Data Analytics,數據管理及大數據分析,3,not_collected,2026-08-15T00-47-47+08-00
+DOTE4110,DOTE,4110,Economic Analytics,經濟分析,3,not_collected,2026-08-15T00-47-47+08-00
+DOTE4260,DOTE,4260,Business Process Analytics,企業流程分析,3,not_collected,2026-08-15T00-47-47+08-00
+DOTE4280,DOTE,4280,Network and Security,網絡與網絡安全,3,not_collected,2026-08-15T00-47-47+08-00
+DSPS1001,DSPS,1001,Introduction to Policy Science,政策科學入門,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+DSPS1003,DSPS,1003,Foundation of Data Science,數據科學基礎,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+DSPS2202,DSPS,2202,Database Systems for Dat Sci,數據科學的資料庫系統,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+DSPS2301,DSPS,2301,Pol Analysis & Design Thinking,政策分析及設計思考,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+DSPS2520,DSPS,2520,Data Science Proj Management,數據科學項目管理,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+DSPS3202,DSPS,3202,Machine Learning for PP,公共政策機器學習,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+DSPS3801,DSPS,3801,Internship,實習,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+DSPS3802,DSPS,3802,Advanced Data Visualization,進階數據視覺化,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+DSPS3803,DSPS,3803,AI for Social Good,人工智慧與社會公益,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+DSPS4801,DSPS,4801,Graduation Capstone Project I,畢業總結項目（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+DSPS4802,DSPS,4802,Graduation Capstone Project II,畢業總結項目（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ECON1010,ECON,1010,Perspectives in Economics,經濟學概觀,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ECON1101,ECON,1101,Mathematical Methods in Eco I,經濟數學方法（一）,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ECON1210,ECON,1210,Economics and Society,經濟學與社會,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ECON1220,ECON,1220,Contemporary Economic Thinking,當代經濟思想,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ECON1420,ECON,1420,Basic Banking & Finance,銀行與金融概觀,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ECON1902,ECON,1902,A Guide to Learning Economics,經濟學入門,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ECON2011,ECON,2011,Basic Microeconomics,基本微觀經濟學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ECON2021,ECON,2021,Basic Macroeconomics,基本宏觀經濟學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ECON2121,ECON,2121,Methods of Economic Statistics,經濟統計方法,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ECON3011,ECON,3011,Intermed Microeconomic Theory,中級微觀經濟理論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ECON3021,ECON,3021,Intermed Macroeconomic Theory,中級宏觀經濟理論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ECON3121,ECON,3121,Introductory Econometrics,計量經濟學導論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ECON3140,ECON,3140,Financial Data Analysis,財務數據分析,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ECON3260,ECON,3260,History of Economic Thought,經濟思想史,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ECON3370,ECON,3370,Business Environment of China,中國營商環境,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ECON3380,ECON,3380,Economy of Hong Kong,香港經濟,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ECON3410,ECON,3410,Money and Banking,貨幣與銀行學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ECON3420,ECON,3420,Financial Economics,金融經濟學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ECON3430,ECON,3430,Public Finance,財政學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ECON3460,ECON,3460,Development Economics,發展經濟學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ECON3470,ECON,3470,Labour Economics,勞動經濟學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ECON3480,ECON,3480,Industrial Organization,工業組織,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ECON3540,ECON,3540,Foundations of Corp Finance,基礎企業財務,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ECON3590,ECON,3590,Business Economics,商業經濟學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ECON4010,ECON,4010,Adv Topics in Microeconomics,高級微觀經濟學專題,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ECON4120,ECON,4120,Applied Forecasting Methods,應用預測方法,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ECON4130,ECON,4130,Machine Learning Method in Eco,機械學習在經濟學的應用,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ECON4470,ECON,4470,Economics of Behavioural Finan,行為金融學的經濟分析,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ECON4901,ECON,4901,Guided Stud Curr Eco Prob II,現代經濟問題導修（二）,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ECON4910,ECON,4910,Senior Thesis Research I,論文研究（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EDUC2140,EDUC,2140,AI and Data Sci in Education,人工智能與數據科學於教育之應用,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EDUC2240,EDUC,2240,Understand'g Sch'nEDU Poli HK,學校制度與香港教育政策導論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EDUC3140,EDUC,3140,Curric'r Strat Tackl'g Ind Dif,處理個別差異的課程策略,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EDUC3200,EDUC,3200,Develop'g Intercultural Compet,建立跨文化能力：體驗式學習,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EDUC3201,EDUC,3201,EthicsProf Stan for Teachers,教師倫理及專業標準,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EDUC3311,EDUC,3311,Psy App to Learn'g & Teach'g,心理學的教學應用,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EDUC3330,EDUC,3330,Optimize Learn and Dev Ss DN I,優化不同需求學生的學習與發展（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EDUC4040,EDUC,4040,Teaching Practice II,教學實習(二),5,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EDUC4330,EDUC,4330,School Guidance & Counselling,學校輔導,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EDUC4340,EDUC,4340,Support'g Students with SEN,支援有特殊教育需要的學生,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EEEN2020,EEEN,2020,Renewable Energy Technologies,可再生能源技術,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EEEN3010,EEEN,3010,HVAC II,供熱通風與空調（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EEEN3020,EEEN,3020,Ener Utilizat'n & Human Behavi,能源運用與人類行為,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EEEN4020,EEEN,4020,Solar Ener & Photovoltaic Tech,太陽能及光伏技術,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EEEN4060,EEEN,4060,Energy Distribution,能源分配,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EEEN4998,EEEN,4998,Final Year Project I,畢業專題研究（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EEEN4999,EEEN,4999,Final Year Project II,畢業專題研究（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EESC1001,EESC,1001,Exploring The Earth,探索地球及環境科學,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EESC2020,EESC,2020,Climate System Dynamics,氣候系統動力學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EESC2160,EESC,2160,Minerals and Natural Resources,礦物與天然資源,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EESC2515,EESC,2515,Environmental Chemistry,環境化學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EESC2517,EESC,2517,Environmental Chemistry Lab,環境化學實驗,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EESC2800,EESC,2800,Environmental Engineering,環境工程導論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EESC3120,EESC,3120,Physics of the Earth,地球物理,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EESC3130,EESC,3130,Seismic Data Processing,地震數據處理,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EESC3200,EESC,3200,Atmospheric Dynamics,大氣動力學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EESC3320,EESC,3320,Hydrogeology,水文地質學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EESC3510,EESC,3510,Environmental Microbiology,環境微生物學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EESC3530,EESC,3530,Envir Microbio & Ecotoxico Lab,環境微生物學與生態毒理學實驗,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EESC3900,EESC,3900,Internship,實習課程,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EESC4120,EESC,4120,Petrology,岩石學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EESC4170,EESC,4170,Geodynamics,地球動力學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EESC4240,EESC,4240,Air Pollution Science,大氣污染科學與工程,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EESC4310,EESC,4310,Chemistry of Organic Matter,水生與陸源有機物質化學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EESC4340,EESC,4340,Environ Impact Assessment,環境影響評估,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EESC4342,EESC,4342,Environ Impact Assessment Lab,環境影響評估實驗,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EESC4350,EESC,4350,Environmental Health,環境衛生學：系統思維方法,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EESC4510,EESC,4510,Statistical Data Analysis,地球與環境科學的統計方法與數據分析,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EESC4550,EESC,4550,Practical Atmospheric Modeling,實用大氣模擬,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EESC4760,EESC,4760,Science and ESG Analysis,環境、社會與治理分析中的科學應用,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EESC4810,EESC,4810,Senior Project I,畢業專題研究（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EESC4820,EESC,4820,Senior Project II,畢業專題研究（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ELED1010,ELED,1010,Immersion Experience I,海外沉浸學習（一）,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ELED1020,ELED,1020,Immersion Experience II,海外沉浸學習（二）,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ELED1030,ELED,1030,Immersion Experience III,海外沉浸學習（三）,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ELED2810,ELED,2810,Eng Lang Teach Theo & Method'y,英語教學的理論與方法,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ELED4730,ELED,4730,English Lang Teaching Tech II,英語教學技巧（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ELED4850,ELED,4850,Stu Sec Lang Learner & Classrm,外語教學研究,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ELED4920,ELED,4920,ELT Curriculum Theory & Design,英語教學之課程理論與設計,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ELED4960,ELED,4960,Teaching Eng Through Lang Arts,語言藝術與英語教學,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ELEG2201,ELEG,2201,Digital CircuitsComputing Sys,數字電路及計算系統,3,not_collected,2026-08-15T00-47-47+08-00
+ELEG2202,ELEG,2202,Electric Circuits,基礎電路,3,not_collected,2026-08-15T00-47-47+08-00
+ELEG2310,ELEG,2310,Principles of Communication Sy,通信系統原理,3,not_collected,2026-08-15T00-47-47+08-00
+ELEG2700,ELEG,2700,Intro to Electronic Sys Design,電子系統設計導論,3,not_collected,2026-08-15T00-47-47+08-00
+ELEG3207,ELEG,3207,Intro to Power Electronics,電力電子導論,3,not_collected,2026-08-15T00-47-47+08-00
+ELEG3213,ELEG,3213,Applied Electromagnetics,應用電磁場基礎,3,not_collected,2026-08-15T00-47-47+08-00
+ELEG3214,ELEG,3214,Ant.W Prop. for Wireless Com,無綫通訊中的天線與電波傳播,3,not_collected,2026-08-15T00-47-47+08-00
+ELEG3302,ELEG,3302,Fundamentals of Photonics,光子學基礎,3,not_collected,2026-08-15T00-47-47+08-00
+ELEG3701,ELEG,3701,Embedded Systems Design,嵌入式系統設計,3,not_collected,2026-08-15T00-47-47+08-00
+ELEG3910,ELEG,3910,Undergrad Research in Elec Eng,電子工程本科研究,2,not_collected,2026-08-15T00-47-47+08-00
+ELEG4215,ELEG,4215,Power Converter Circuits,電源轉換電路,3,not_collected,2026-08-15T00-47-47+08-00
+ELEG4313,ELEG,4313,Integrated Photonics,集成光子學：理論、設計與實踐,3,not_collected,2026-08-15T00-47-47+08-00
+ELEG4512,ELEG,4512,Digital Image Processing,數字圖像處理,3,not_collected,2026-08-15T00-47-47+08-00
+ELEG4701,ELEG,4701,Intelligent Inter Robot Pract,智能交互機器人實踐,3,not_collected,2026-08-15T00-47-47+08-00
+ELEG4998,ELEG,4998,Final Year Project I,畢業專題研究（一）,3,not_collected,2026-08-15T00-47-47+08-00
+ELEG4999,ELEG,4999,Final Year Project II,畢業專題研究（二）,3,not_collected,2026-08-15T00-47-47+08-00
+ENGE1310,ENGE,1310,Communications for Eng Maj I Communications for Eng Maj I,,3,not_collected,2026-08-15T00-47-47+08-00
+ENGE1500,ENGE,1500,Intro to English Linguistics Intro to English Linguistics,,3,not_collected,2026-08-15T00-47-47+08-00
+ENGE1610,ENGE,1610,Introduction to Literature Introduction to Literature,,3,not_collected,2026-08-15T00-47-47+08-00
+ENGE2190,ENGE,2190,Gods Behaving Badly,神之惡：世界神話與傳說,3,not_collected,2026-08-15T00-47-47+08-00
+ENGE2220,ENGE,2220,Existentialism and Literature,存在主義與文學作品,3,not_collected,2026-08-15T00-47-47+08-00
+ENGE2360,ENGE,2360,Children's Literature,兒童文學,3,not_collected,2026-08-15T00-47-47+08-00
+ENGE2530,ENGE,2530,Hong Kong English,香港英語及其文化,3,not_collected,2026-08-15T00-47-47+08-00
+ENGE2600,ENGE,2600,World EnglishesTheir Cultures,世界英語及其文化,3,not_collected,2026-08-15T00-47-47+08-00
+ENGE2620,ENGE,2620,Acquisition of Eng As a L2 Acquisition of Eng As a L2,,3,not_collected,2026-08-15T00-47-47+08-00
+ENGE2700,ENGE,2700,Drama in Performance II Drama in Performance II,,3,not_collected,2026-08-15T00-47-47+08-00
+ENGE2720,ENGE,2720,Pedagogical Grammar of English Pedagogical Grammar of English,,3,not_collected,2026-08-15T00-47-47+08-00
+ENGE3100,ENGE,3100,Communications for Eng Maj III Communications for Eng Maj III,,3,not_collected,2026-08-15T00-47-47+08-00
+ENGE3110,ENGE,3110,Romanticism Romanticism,,3,not_collected,2026-08-15T00-47-47+08-00
+ENGE3260,ENGE,3260,Creative Writing,創意寫作,3,not_collected,2026-08-15T00-47-47+08-00
+ENGE3320,ENGE,3320,Hong Kong Literature in Eng Hong Kong Literature in Eng,,3,not_collected,2026-08-15T00-47-47+08-00
+ENGE3360,ENGE,3360,Sp Topics in Creative Writing,,3,not_collected,2026-08-15T00-47-47+08-00
+ENGE3430,ENGE,3430,Reading Alice Munro,,3,not_collected,2026-08-15T00-47-47+08-00
+ENGE3600,ENGE,3600,Contrastive Linguistics Contrastive Linguistics,,3,not_collected,2026-08-15T00-47-47+08-00
+ENGE3900,ENGE,3900,Internship,,3,not_collected,2026-08-15T00-47-47+08-00
+ENGE3950,ENGE,3950,AI and its Application AI and its application,,3,not_collected,2026-08-15T00-47-47+08-00
+ENGE4700,ENGE,4700,Independent Research Project Independent Research Project,,3,not_collected,2026-08-15T00-47-47+08-00
+ENGE4701,ENGE,4701,Independent Research Project 1,,1,not_collected,2026-08-15T00-47-47+08-00
+ENGG1003,ENGG,1003,Digit. Lit. & Comp. Thinking—P,數碼素養及計算思維—P,3,not_collected,2026-08-15T18-34-00+08-00-gap-recapture
+ENGG1004,ENGG,1004,Digit. Lit. & Comp. Thinking—R,數碼素養及計算思維—R,3,not_collected,2026-08-15T18-34-00+08-00-gap-recapture
+ENGG1040,ENGG,1040,Foundations in Engine Math,工程數學基礎,3,not_collected,2026-08-15T18-34-00+08-00-gap-recapture
+ENGG1110,ENGG,1110,Problem Solving By Programming,程式設計與解難,3,not_collected,2026-08-15T18-34-00+08-00-gap-recapture
+ENGG1111,ENGG,1111,AI Literacy Workshop,人工智能素養工作坊,0,not_collected,2026-08-15T18-34-00+08-00-gap-recapture
+ENGG1125,ENGG,1125,Single Variable Calculus,單元微積分及其工程應用,3,not_collected,2026-08-15T18-34-00+08-00-gap-recapture
+ENGG1820,ENGG,1820,Engineering Internship,工程實習,1,not_collected,2026-08-15T18-34-00+08-00-gap-recapture
+ENGG1910,ENGG,1910,Demystifying AI,人工智能揭秘,3,not_collected,2026-08-15T18-34-00+08-00-gap-recapture
+ENGG1920,ENGG,1920,AI in Action,實用人工智能,3,not_collected,2026-08-15T18-34-00+08-00-gap-recapture
+ENGG2030,ENGG,2030,Signals and Systems,信號與系統,3,not_collected,2026-08-15T18-34-00+08-00-gap-recapture
+ENGG2440,ENGG,2440,Discrete Math for Engineers,離散數學的工程應用,3,not_collected,2026-08-15T18-34-00+08-00-gap-recapture
+ENGG2720,ENGG,2720,Complex Variables for Engineer,複變量及其工程應用,2,not_collected,2026-08-15T18-34-00+08-00-gap-recapture
+ENGG2760,ENGG,2760,Probability for Engineers,概率及其工程應用,2,not_collected,2026-08-15T18-34-00+08-00-gap-recapture
+EPIN1010,EPIN,1010,Anatomy of an Entrepreneur,創業家解構,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EPIN1020,EPIN,1020,Design Thinking and Practice,設計思考與實踐,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EPIN2010,EPIN,2010,Toolkit for Entrepreneurs,創業者工具箱,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EPIN2900,EPIN,2900,Internship in EPIN I,創業與創新實習（一）,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EPIN3900,EPIN,3900,Internship in EPIN II,創業與創新實習（二）,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+EPIN4900,EPIN,4900,Internship in EPIN III,創業與創新實習（三）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ESTR1002,ESTR,1002,Problem Solving By Programming,程式設計與解難,3,not_collected,2026-08-15T00-47-47+08-00
+ESTR1007,ESTR,1007,Single Variable Calculus,單元微積分及其工程應用,3,not_collected,2026-08-15T00-47-47+08-00
+ESTR2004,ESTR,2004,Discrete Math for Engineers,離散數學的工程應用,3,not_collected,2026-08-15T00-47-47+08-00
+ESTR2014,ESTR,2014,Complex Variables for Engineer,複變量及其工程應用,2,not_collected,2026-08-15T00-47-47+08-00
+ESTR2018,ESTR,2018,Probability for Engineers,概率及其工程應用,2,not_collected,2026-08-15T00-47-47+08-00
+ESTR2100,ESTR,2100,Embedded System Design,嵌入式系統設計,3,not_collected,2026-08-15T00-47-47+08-00
+ESTR2102,ESTR,2102,Data Structures,數據結構,3,not_collected,2026-08-15T00-47-47+08-00
+ESTR2106,ESTR,2106,Building Web Applications,建設網上應用程式,3,not_collected,2026-08-15T00-47-47+08-00
+ESTR2360,ESTR,2360,Fourier Analysis with Eng Appl,傅里葉分析及其工程應用,3,not_collected,2026-08-15T00-47-47+08-00
+ESTR3108,ESTR,3108,Fundamentals of AI,人工智能之基本原理,3,not_collected,2026-08-15T00-47-47+08-00
+ESTR3114,ESTR,3114,Numerical Optimization,數值優化,3,not_collected,2026-08-15T00-47-47+08-00
+ESTR3310,ESTR,3310,Computer Networks,計算機網絡,3,not_collected,2026-08-15T00-47-47+08-00
+ESTR4140,ESTR,4140,Foundation of Applied DL,應用深度學習基礎,3,not_collected,2026-08-15T00-47-47+08-00
+ESTR4998,ESTR,4998,Graduation Thesis I,畢業專題研究（一）,3,not_collected,2026-08-15T00-47-47+08-00
+FAAS1100,FAAS,1100,Drawing Fundamentals,素描基礎,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FAAS1110,FAAS,1110,Principles of Chi Calligraphy,書法基礎,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FAAS1130,FAAS,1130,Principles of Chi Painting,國畫基礎,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FAAS1140,FAAS,1140,Fundamentals of 3D Forming,立體造型藝術基礎,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FAAS1700,FAAS,1700,Artistic Trad in the West,西方藝術傳統,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FAAS1900,FAAS,1900,Introduction to Art History,藝術史入門,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FAAS2101,FAAS,2101,Reading Chinese Painting,閱讀中國繪畫,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FAAS2206,FAAS,2206,Becoming a Comics Director,成為漫畫導演,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FAAS2208,FAAS,2208,Basic Photography,攝影藝術,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FAAS2211,FAAS,2211,Western Painting I,西畫 (一),3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FAAS2217,FAAS,2217,Mixed Media,混合媒介,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FAAS2218,FAAS,2218,"Art, Archive and Technology",藝術、檔案與科技,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FAAS3111,FAAS,3111,Chi Ceramic Tech: Theo & Pract,中國陶瓷工藝──理論與實踐,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FAAS3112,FAAS,3112,Ritual Bronzes of Ancient Chi,吉金──中國古代青銅禮器,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FAAS3202,FAAS,3202,Printmaking,版畫藝術,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FAAS3206,FAAS,3206,Sculpting Moulding and Casting,塑形、模製與鑄造,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FAAS3221,FAAS,3221,Figure Sketching,人物寫生,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FAAS3223,FAAS,3223,Calligraphy in Ancient Scripts,古文字書法,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FAAS3224,FAAS,3224,Chinese Delineative Painting,中國工筆畫,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FAAS4101,FAAS,4101,Summer Internship,暑期實習,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FAAS4180,FAAS,4180,Thesis Research I,畢業論文（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FAAS4201,FAAS,4201,Art As Profession,藝術專業專修,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FAAS4212,FAAS,4212,Creative Workshop III,創作研討（三）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FAAS4214,FAAS,4214,Modern Ink Painting,現代水墨,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FAAS4280,FAAS,4280,Graduation Workshop I,畢業創作 （一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FINA2010,FINA,2010,Financial Management,財務管理,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FINA2220,FINA,2220,Quant Methods for Act Ana I,精算分析之基礎計量方法（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FINA2310,FINA,2310,Fundamentals of Business FIN,金融財務基礎,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FINA3010,FINA,3010,Financial Markets,金融市場,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FINA3020,FINA,3020,International Finance,國際金融,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FINA3070,FINA,3070,Corp Fin:Theory & Practice,公司財務：理論與實務,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FINA3080,FINA,3080,Investment Ana & Portfolio Mgt,投資分析與組合管理,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FINA3210,FINA,3210,Risk Management and Insurance,風險管理與保險,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FINA3222,FINA,3222,Basic Short-term Act Math,基本短期保險數學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FINA3240,FINA,3240,Corp Property & Liability Insu,公司財產與責任保險,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FINA3290,FINA,3290,Linear Models for Actuaries,線性模型在精算學的應用,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FINA3350,FINA,3350,Foreign Exchange MKT Practices,外匯市場實務,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FINA3360,FINA,3360,Der War Pro & Arb Trad Concept,衍生權證、自營交易及套利策略,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FINA3370,FINA,3370,Intro to Bloomberg & Reuters,彭博及路透終端機應用,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FINA3399,FINA,3399,Current Issues in Finance,當前金融專題,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FINA4030,FINA,4030,Selected Topics in Finance,金融專題,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FINA4050,FINA,4050,Mergers & Acquisitions,合併與收購,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FINA4110,FINA,4110,Options and Futures,期權與期貨,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FINA4150,FINA,4150,Quan Methods for Fin'l Deriva,金融衍生工具的數量方法,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FINA4215,FINA,4215,Intro to Act Com Using Prophet,精算軟件Prophet導論,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FINA4320,FINA,4320,China Equity Securities Market,中國權益證券市場,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FINA4340,FINA,4340,Structured Product: Fund & Ana,結構性産品：基礎與分析,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FINA4370,FINA,4370,Derivatives Trad: Ana & Strate,衍生商品交易：分析與策略,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FINA4420,FINA,4420,Fin'l Mkts from a Mac Perspect,宏觀角度的金融市場,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FINA4430,FINA,4430,Computerized Trading & Big Dat,計算機化交易和大數據,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FNSC2001,FNSC,2001,Intro to Food Sci & Tech,食品科學及技術概論,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FNSC3001,FNSC,3001,Food Science Laboratory I,食品科學實驗（一）,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FNSC3002,FNSC,3002,Nutritional Science Lab I,營養科學實驗（一）,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FNSC3030,FNSC,3030,Nutritional Biochemistry,營養生物化學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FNSC3110,FNSC,3110,Food Chemistry & Analysis,食品化學及分析,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FNSC4001,FNSC,4001,Food Science Laboratory II,食品科學實驗（二）,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FNSC4002,FNSC,4002,Nutritional Science Lab II,營養科學實驗（二）,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FNSC4101,FNSC,4101,Human Physi for Nut Studies I,人類生理學（營養學專科）（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FNSC4110,FNSC,4110,Food Technology,食品技術學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FNSC4120,FNSC,4120,Community Nutrition,社區營養學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FNSC4150,FNSC,4150,Intro to Med Nutr Therapy,食療學概論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FNSC4902,FNSC,4902,Senior Experimental Proj II,實驗專題討論（二）,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FNSC4906,FNSC,4906,Internship,專題實習,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FREN1000,FREN,1000,French I,法語（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FREN1100,FREN,1100,Made in France,法國製造,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FREN2000,FREN,2000,French II,法語（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FREN2001,FREN,2001,French III,法語（三）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FREN2020,FREN,2020,Sounds of French,法語語音入門,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FREN3001,FREN,3001,French V,法語（五）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FTEC3002,FTEC,3002,Intro to Fin Infrastructures,金融基建概論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FTEC4002,FTEC,4002,Behavioral Analytics,定量行為分析,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FTEC4003,FTEC,4003,Data Mining for FinTech,面向金融科技的數據挖掘,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+FTEC4998,FTEC,4998,Final Year Project I,畢業專題研究（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GDRS1001,GDRS,1001,Intro to Gender Studies,思考性別：性別研究導論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GDRS2010,GDRS,2010,Quantitative Research Methods,性別研究的定量研究法,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GDRS3002,GDRS,3002,GDRS: Special Topic II,性別研究專題（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GDRS3009,GDRS,3009,Family and Society,家庭與社會,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GDRS3017,GDRS,3017,Advancing DEI in Org,推動組織中的多元、平等和共融,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GDRS3214,GDRS,3214,Media Representations,少數族群在香港的媒體呈現,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GDRS3999,GDRS,3999,Talking Across Differences,跨越差異,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GDRS4005,GDRS,4005,Thesis I,論文研討（一）,0,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GDRS4007,GDRS,4007,"Gen,SexualityRace in Politica",政治中的性別與種族,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GDRS4009,GDRS,4009,Internship,實習課程,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GECC1000,GECC,1000,College Assembly,書院週會,0,not_collected,2026-08-15T18-34-00+08-00-gap-recapture
+GECC1130,GECC,1130,Idea of a University,大學修學指導,2,not_collected,2026-08-15T18-34-00+08-00-gap-recapture
+GECC1132,GECC,1132,Learning through Serving: STOT,從服務中學習：學生為本教學,1,not_collected,2026-08-15T18-34-00+08-00-gap-recapture
+GECC1230,GECC,1230,Learning of Life,人生問學,2,not_collected,2026-08-15T18-34-00+08-00-gap-recapture
+GECC3130,GECC,3130,Exploration and Discovery,學問與遊歷,3,not_collected,2026-08-15T18-34-00+08-00-gap-recapture
+GECC3230,GECC,3230,Service-Learning Programme,服務學習計劃,3,not_collected,2026-08-15T18-34-00+08-00-gap-recapture
+GECC4130,GECC,4130,Senior Seminar,專題討論,3,not_collected,2026-08-15T18-34-00+08-00-gap-recapture
+GECW1000,GECW,1000,Non-formal Learning I,非形式學習（一）,0,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GECW1010,GECW,1010,University and Society,大學與社會,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GECW2000,GECW,2000,Non-formal Learning II,非形式學習（二）,0,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GECW3000,GECW,3000,Non-formal Learning III,非形式學習（三）,0,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GECW4000,GECW,4000,Non-formal Learning IV,非形式學習（四）,0,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GECW4021,GECW,4021,College Project,專題討論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GECW4022,GECW,4022,College Project (Service),專題討論（服務學習）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GECW4030,GECW,4030,Service,服務,0,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GEMC1001,GEMC,1001,Current Dilemmas and Histories,當前的困境及其歷史,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GEMC3001,GEMC,3001,Service Learning,服務學習,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GENA1000,GENA,1000,College Biweekly Assembly,書院雙週會,0,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GENA1112,GENA,1112,Aspects of General Education,通識教育導論,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GENA1114,GENA,1114,Service Learning - Chinese Cul,服務學習: 中國文化在社區的傳,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GENA1115,GENA,1115,Service Learning – Make a Diff,服務學習: 改變社區由我做起,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GENA1116,GENA,1116,Service Learning – Creating a,服務學習：多元共融，齊創新天,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GENA2112,GENA,2112,Characteristics of W Culture,西方文化的特質,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GENA2122,GENA,2122,Issues in American CultureHis,美國文化與歷史,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GENA2142,GENA,2142,Appreciation of Literature,文學欣賞,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GENA2212,GENA,2212,Debates in Human Values,辯析人類價值觀,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GENA2232,GENA,2232,Founders' Ideals and NA Spirit,新亞精神與新亞先賢的文化教育理,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GENA2262,GENA,2262,Appreciation of Chinese Art,中國藝術欣賞,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GENA2322,GENA,2322,General History of China,中國通史,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GENA2342,GENA,2342,Appreciation of Music Cultures,中西音樂文化欣賞,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GENA2362,GENA,2362,Intangible Heritage in HK,香港的非物質文化遺產,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GERM1000,GERM,1000,German I,德語（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GERM1001,GERM,1001,First Step in German,德語入門,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GERM2000,GERM,2000,German II,德語（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GERM2001,GERM,2001,German III,德語（三）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GERM2020,GERM,2020,Sounds of German,德語語音入門,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GERM2200,GERM,2200,German Cinema,德國電影,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GERM3001,GERM,3001,German V,德語（五）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GESC1000,GESC,1000,College Assembly,書院聚會,0,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GESC1130,GESC,1130,University and Society,大學與社會,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GESC1160,GESC,1160,Environmental Problems in HK,香港環境問題,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GESC1230,GESC,1230,Caring Heart Service Learning,懷仁服務學習,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GESC1240,GESC,1240,Buddhism As Lived,生活中的佛教：身、心與現代課題,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GESC1250,GESC,1250,Startup Exploration,創業探索,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GESC1260,GESC,1260,The Hong Kong Story,香港故事,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GESC2010,GESC,2010,"Film Gen:Love, Death & Laughs",電影類型：愛情、死亡及笑話,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GESC2131,GESC,2131,Comprehending the City,現代城市剖析,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GESC2150,GESC,2150,Reconstr'n of HK His & Soc Dev,香港歷史的重構與社會發展,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GESC2390,GESC,2390,Genethics,基因倫理學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GESH1000,GESH,1000,College Symposium,書院聚會,0,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GESH1010,GESH,1010,Orientation and Outreach,明新達人－善衡書院啟導課程,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GESH2011,GESH,2011,S-L:Bringing Knowledge to Life,服務學習課程—明理致用,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GESH2012,GESH,2012,S-L:Action towards Personhood,服務學習課程—踐行立人,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GEUC1000,GEUC,1000,College Assembly,書院聚會,0,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GEUC1111,GEUC,1111,University Life & Learning,大學生活與學習,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GEUC2017,GEUC,2017,Bacchus:Exploring Grape Wine,巴格斯：萄葡酒之旅,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GEUC2019,GEUC,2019,Design Thinking,創新設計思維方法,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GEUC2211,GEUC,2211,Social Service in action: PR,社會服務實踐：參與及反思,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GEUC2212,GEUC,2212,Public Affairs in action: PR,公共事務實踐: 參與及反思,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GEUC2213,GEUC,2213,Social Innovation,社會創新：社會創業與服務,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GEUC2214,GEUC,2214,Leadership in Practice,實踐領導才：服務,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GEUC4011,GEUC,4011,Senior Seminar,專題討論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GEUC4012,GEUC,4012,Social Enterprise & Innovation,社會企業與創新：實習,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GEWS1000,GEWS,1000,College Assembly/High Table,書院週會／高桌晚宴,0,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GEWS1011,GEWS,1011,College Induction Course,新生啟導科目,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GEWS1012,GEWS,1012,"Exploration of Self, UNIV & HK",發掘自我、大學及當地文化,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GEWS2011,GEWS,2011,The Art of Leadership,領導藝術,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GEWS2041,GEWS,2041,Future of Food,糧食的未來,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GEWS2111,GEWS,2111,History from Words,從文本看歷史,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GEWS2151,GEWS,2151,Emotional Wellness Promotion,與情緒同行：理論及實踐,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GEYS1000,GEYS,1000,College Assembly/ Forum,書院聚會／書院論壇,0,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GEYS1010,GEYS,1010,Creative Social Responsibility,創新社會責任及持續發展,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GEYS4010,GEYS,4010,College Senior Seminar,專題討論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GEYS4011,GEYS,4011,Community Engagement,實踐社會責任：服務學習,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GLEF3010,GLEF,3010,International Monetary Systems,國際貨幣制度,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GLEF3030,GLEF,3030,Global Financial Markets,環球金融市場,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GLEF4020,GLEF,4020,Banking & Financial Regulation,國際金融與銀行監管,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GLEF4090,GLEF,4090,Research Project,環球經濟金融學之研究課題,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GLSD1001,GLSD,1001,Theo. Perspectives on Glob.,全球化的理論視角,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GLSD2001,GLSD,2001,Research Methods for GS,全球研究的研究方法,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GLSD2101,GLSD,2101,Global Communication,全球傳播,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GLSD2501,GLSD,2501,World Economic Order,世界經濟秩序,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GLSD3404,GLSD,3404,Japan and Global Pol. Econ.,日本與全球政治經濟,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GLSD3411,GLSD,3411,Special Topic in Sus & Env,可持續發展和環境專題,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GLSD3511,GLSD,3511,Special Topic in Global Econ,全球經濟專題,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GLSD3601,GLSD,3601,Internship,實習,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GLSD4001,GLSD,4001,GS Capstone Thesis I,全球研究畢業論文（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GLSD4002,GLSD,4002,GS Capstone Thesis II,全球研究畢業論文（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GLSD4003,GLSD,4003,GS Capstone Project I,全球研究畢業報告（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GLSD4004,GLSD,4004,GS Capstone Project II,全球研究畢業報告（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GPAD1000,GPAD,1000,Learning GPA,認識政政,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GPAD1015,GPAD,1015,Politics and Mass Media,政治與大眾傳媒,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GPAD1020,GPAD,1020,Fundamentals of Government,政治學初基,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GPAD1050,GPAD,1050,Government of Hong Kong,香港政府,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GPAD2020,GPAD,2020,Politics of Culture,文化政治學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GPAD2130,GPAD,2130,Intro Comparative Politics,比較政治入門,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GPAD2345,GPAD,2345,International Politics,國際政治,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GPAD2370,GPAD,2370,Taiwan Studies,台灣研究,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GPAD3070,GPAD,3070,Contem Pol Philosophy,當代政治哲學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GPAD3160,GPAD,3160,Governance of European Union,歐盟管治,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GPAD4077,GPAD,4077,Seminar in Political Theory,政治理論研討,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GPAD4335,GPAD,4335,Modern Chinese Pol Thought,現代中國政治思潮,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GPAD4601,GPAD,4601,Independent Studies I,自學研習（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GPAD4602,GPAD,4602,Independent Studies II,自學研習（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GPAD4701,GPAD,4701,Graduation Thesis I,畢業論文（一）,0,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GPAD4702,GPAD,4702,Graduation Thesis II,畢業論文（二）,6,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GPAD4801,GPAD,4801,Professional Practicum I,專業實習（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GPAD4802,GPAD,4802,Professional Practicum II,專業實習（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GRMD1003,GRMD,1003,Understand China thr Cul Land,文化景觀 探識中國,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GRMD1301,GRMD,1301,Greater Bay Area,透視粵港澳大灣區,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GRMD1302,GRMD,1302,"People, Space and Place",人‧空間‧地方,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GRMD1403,GRMD,1403,"Resources, Society and Environ",資源、社會與環境,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GRMD2001,GRMD,2001,Non-local Field Studies I,境外考察（一）,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GRMD2102,GRMD,2102,Fundamental Stat for Geog,地理學統計初階,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GRMD2105,GRMD,2105,Introduction to GIS,地理信息系統導論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GRMD2106,GRMD,2106,Introduction to Satellite Desi,衛星設計與應用導論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GRMD2209,GRMD,2209,Physical Geology,自然地質學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GRMD2221,GRMD,2221,Weather and Climate,天氣與氣候,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GRMD2292,GRMD,2292,Understanding Ecotourism,生態旅遊探索,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GRMD2303,GRMD,2303,Urban Geography,城市地理學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GRMD2401,GRMD,2401,Sustainable Development,可持續發展,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GRMD3001,GRMD,3001,Non-local Studies II,境外考察（二）,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GRMD3203,GRMD,3203,Urban Environmental Problems,城市環境問題,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GRMD3209,GRMD,3209,Soil Science,土壤學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GRMD3231,GRMD,3231,Best EIA Practices in the Digi,數字時代的最佳環境影響評估作業實踐,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GRMD3302,GRMD,3302,Population and Migration,人口與遷移,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GRMD3323,GRMD,3323,Urban and Regional Planning,城市與區域規劃,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GRMD3401,GRMD,3401,Energy Resources for Carbon Ne,碳中和時代的能源資源,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GRMD4001,GRMD,4001,Final Year Thesis I,畢業論文（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GRMD4002,GRMD,4002,Final Year Thesis II,畢業論文（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GRMD4003,GRMD,4003,Special Topics in GRM I,地理與資源管理專題研習（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GRMD4202,GRMD,4202,Hydrology and Water Resources,水文與水資源,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GRMD4503,GRMD,4503,Smart City Policies & Gov,智慧城市政策與治理,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GRON3112,GRON,3112,Basic Care in Gerontology,老年學的基礎照顧,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GRON3114,GRON,3114,Psychology in Ageing,老齡心理學︰理論與應用,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GRON3211,GRON,3211,Chronic Disease Mgmt,慢性疾病管理,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+GRON4312,GRON,4312,Gerontological Practicum,老年學實習,8,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HIST1000,HIST,1000,History for Today,通古今之變,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HIST1001,HIST,1001,Trad & Transform in Chi Hist,中國歷史之傳統與變革,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HIST1700,HIST,1700,Int to Pub His:TheoryPractice,公眾史學導論：理論與實踐,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HIST2007,HIST,2007,Int to World His: Modern Era,現代世界通史,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HIST2102,HIST,2102,Transformat'n in Tang-Song Chi,唐宋之變革,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HIST2110,HIST,2110,Walking Chinese History,走過中國歷史的古與今,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HIST2140,HIST,2140,State & Soc in Ancient China,中國古代之國家與社會,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HIST2220,HIST,2220,Rev & Mod in 20th-Cent China,二十世紀中國之革命與現代化,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HIST2320,HIST,2320,Hist of the Byzantine Empire Hist of the Byzantine Empire,,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HIST2500,HIST,2500,History of Hong Kong,香港史,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HIST2501,HIST,2501,HK History in the Field,田野中的香港史,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HIST3103,HIST,3103,Daily Life in Han China,漢代生活史,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HIST3327,HIST,3327,"Europe, WWII & Holocaust",二戰與猶太人大屠殺,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HIST3375,HIST,3375,Philippines & Trans Pacific Philippines & Trans Pacific,,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HIST3376,HIST,3376,Modern E-Asian PoliCult Hist,近現代東亞政治及文化史,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HIST3404,HIST,3404,Hist Literature & Documents,史學名著與典籍,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HIST3505,HIST,3505,Land Law in N.T.,新界土地法律和習俗,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HIST4261,HIST,4261,1000 Yrs of Huizhou 800-1800CE,徽州一千年（公元800-1800年）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HIST4392,HIST,4392,The Making of the Middle East,中東的歷史進程,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HIST4702,HIST,4702,Digital History,數位歷史學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HIST4704,HIST,4704,"Women, Soc & Pol in Mod China",近代中國的女性、政治與社會,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HIST4811,HIST,4811,Graduation Thesis Guidance,畢業論文指導,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HIST4812,HIST,4812,Graduation Thesis,畢業論文,5,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HKSL1000,HKSL,1000,Hong Kong Sign Language I,香港手語（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HKSL1001,HKSL,1001,Hong Kong Sign Language Taster,香港手語入門,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HKSL1003,HKSL,1003,HKSL I & II,香港手語（一）及（二）,6,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HKSL2001,HKSL,2001,Hong Kong Sign Language III,香港手語（三）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HKSL3001,HKSL,3001,Hong Kong Sign Language V,香港手語（五）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HTMG1010,HTMG,1010,Mgnt of Hosp & Real Estat Bus,酒店房地產企業管理,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HTMG1091,HTMG,1091,Distinguished Speaker S I,行業領袖演講系列（一）,0,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HTMG1092,HTMG,1092,Distinguished Speaker S II,行業領袖演講系列（二）,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HTMG2000,HTMG,2000,International Experience,國際經驗,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HTMG2070,HTMG,2070,Food and Beverage Management,餐務管理,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HTMG2091,HTMG,2091,Distinguished Speaker S III,行業領袖演講系列（三）,0,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HTMG2092,HTMG,2092,Distinguished Speaker S IV,行業領袖演講系列（四）,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HTMG2900,HTMG,2900,Summer Internship I,暑期行業體驗計劃（一）,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HTMG3010,HTMG,3010,Magt of Lodging Facilities,住宿設施管理,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HTMG3030,HTMG,3030,Hospitality Real Estate Econ,酒店房地產經濟學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HTMG3041,HTMG,3041,Law for HRE Ind,酒店旅遊及房地產法律,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HTMG3060,HTMG,3060,Hosp. Service Mgt & Innovation,酒店服務管理與創新,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HTMG3091,HTMG,3091,Distinguished Speaker Series V,行業領袖演講系列（五）,0,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HTMG3092,HTMG,3092,Distinguished Speaker S VI,行業領袖演講系列（六）,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HTMG3520,HTMG,3520,Shopping Mall Invest & Mgnt,商場投資與管理,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HTMG3521,HTMG,3521,Hosp Revenue Mgt & Analytics,酒店收益管理和分析,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HTMG3900,HTMG,3900,Summer Internship II,暑期行業體驗計劃（二）,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HTMG4091,HTMG,4091,Distinguished Speaker S VII,行業領袖演講系列（七）,0,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HTMG4092,HTMG,4092,Distinguished Speaker S VIII,行業領袖演講系列（八）,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HTMG4100,HTMG,4100,Real Estate Valuation,房地產估價分析,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HTMG4270,HTMG,4270,HRE Financial Reporting & Ana,房地產財務報告與分析,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HTMG4529,HTMG,4529,Talent Management,款待業的人才管理,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HTMG4537,HTMG,4537,Innovation for HRE,酒店旅遊及房地產之創新,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HTMG4538,HTMG,4538,Essentials for HRE Projects,酒店旅遊及房地產項目要點,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HTMG4600,HTMG,4600,Facilities Dev and Mgt for HRE,酒店物業和房地產設施發展及管理,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+HTMG4900,HTMG,4900,HRE Capstone Project,酒店和房地產總結項目,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+IASP2790,IASP,2790,Special Topics in IAS (I),亞洲研究特選論題（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+IASP4090,IASP,4090,Indep Rsrch on Int'l Stud,國際專題研究,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+IBBA3040,IBBA,3040,Business Lecture Series,商業管理講座系列,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+IERG1000,IERG,1000,Intro to Information Engg,信息工程導論,1,not_collected,2026-08-15T00-47-47+08-00
+IERG1810,IERG,1810,Electronic Circuit Design Lab,電子線路設計實驗,1,not_collected,2026-08-15T00-47-47+08-00
+IERG2051,IERG,2051,Signals and Systems,信號與系統,3,not_collected,2026-08-15T00-47-47+08-00
+IERG2060,IERG,2060,Basic Circuits,基礎模擬和數字電路,3,not_collected,2026-08-15T00-47-47+08-00
+IERG2820,IERG,2820,Electronic Circuit Design Lab,電子線路設計實驗,1,not_collected,2026-08-15T00-47-47+08-00
+IERG3010,IERG,3010,Digital Communications,數字通信,3,not_collected,2026-08-15T00-47-47+08-00
+IERG3080,IERG,3080,Infor & Software Erg Prac,信息與軟件工程實務,3,not_collected,2026-08-15T00-47-47+08-00
+IERG3310,IERG,3310,Computer Networks,計算機網絡,3,not_collected,2026-08-15T00-47-47+08-00
+IERG3800,IERG,3800,Info Infrastructure Design Lab,信息基礎設施設計實驗,1,not_collected,2026-08-15T00-47-47+08-00
+IERG4030,IERG,4030,Optical Communications,光通信,3,not_collected,2026-08-15T00-47-47+08-00
+IERG4100,IERG,4100,Wireless Communication Systems,無線通信系統,3,not_collected,2026-08-15T00-47-47+08-00
+IERG4130,IERG,4130,Intro to Cyber Security,網際安全概論,3,not_collected,2026-08-15T00-47-47+08-00
+IERG4150,IERG,4150,Introduction to Cryptography,密碼學概論,3,not_collected,2026-08-15T00-47-47+08-00
+IERG4190,IERG,4190,Multimedia Coding & Processing,多媒體編碼和處理,3,not_collected,2026-08-15T00-47-47+08-00
+IERG4220,IERG,4220,Secure Software Engineering,安全軟件工程,3,not_collected,2026-08-15T00-47-47+08-00
+IERG4230,IERG,4230,Intro to Internet of Things,物聯網概論,3,not_collected,2026-08-15T00-47-47+08-00
+IERG4320,IERG,4320,Data Science in Practice,數據科學實踐,3,not_collected,2026-08-15T00-47-47+08-00
+IERG4360,IERG,4360,Blockchain and Applications,區塊鏈與應用,3,not_collected,2026-08-15T00-47-47+08-00
+IERG4831,IERG,4831,Networking Laboratory I,網絡實驗室（一）,2,not_collected,2026-08-15T00-47-47+08-00
+IERG4841,IERG,4841,Networking Laboratory II,網絡實驗室（二）,2,not_collected,2026-08-15T00-47-47+08-00
+IERG4851,IERG,4851,Cyber Security Laboratory,網際安全實驗,1,not_collected,2026-08-15T00-47-47+08-00
+IERG4998,IERG,4998,Final Year Project I,畢業專題研究（一）,3,not_collected,2026-08-15T00-47-47+08-00
+IERG4999,IERG,4999,Final Year Project II,畢業專題研究（二）,3,not_collected,2026-08-15T00-47-47+08-00
+IMSC1038,IMSC,1038,Algebra I,代數（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+IMSC1113,IMSC,1113,Basic Physics I,基礎物理（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+IMSC2018,IMSC,2018,Calculus I,微積分（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+IMSC2041,IMSC,2041,Basic Physics III,基礎物理（三）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+IMSC2058,IMSC,2058,Analysis I,分析（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+IMSC2078,IMSC,2078,Algebra III,代數（三）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+IMSC3250,IMSC,3250,Geometry I,幾何學（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+IMSC3260,IMSC,3260,Topology I,拓撲學（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+ITAL1000,ITAL,1000,Italian I,意大利語（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+JASP1090,JASP,1090,Understanding Japan,透視日本,3,not_collected,2026-08-15T00-47-47+08-00
+JASP1100,JASP,1100,Jap Culture & Society,日本文化與社會,3,not_collected,2026-08-15T00-47-47+08-00
+JASP1120,JASP,1120,Understanding Jas Lang & Cult,日本語言文化面面觀,3,not_collected,2026-08-15T00-47-47+08-00
+JASP1140,JASP,1140,Japanese Cinema,日本電影,3,not_collected,2026-08-15T00-47-47+08-00
+JASP1160,JASP,1160,Jas Pop Cul in Cul Global,日本流行文化與文化全球化,3,not_collected,2026-08-15T00-47-47+08-00
+JASP1180,JASP,1180,Modern Sino-Japanese Relations,現代中日關係論,3,not_collected,2026-08-15T00-47-47+08-00
+JASP1200,JASP,1200,Jap Hist: Samurai to Salaryman,日本歷史：從武士到上班族,3,not_collected,2026-08-15T00-47-47+08-00
+JASP1350,JASP,1350,Japanese Language Tasting,淺嘗日語,1,not_collected,2026-08-15T00-47-47+08-00
+JASP1450,JASP,1450,New Practical Japanese I,新實用日語（一）,3,not_collected,2026-08-15T00-47-47+08-00
+JASP1470,JASP,1470,New Comprehensive Japanese I,新綜合日語（一）,3,not_collected,2026-08-15T00-47-47+08-00
+JASP1550,JASP,1550,Jap Communication Skills I,初級日語傳意技巧 I,3,not_collected,2026-08-15T00-47-47+08-00
+JASP2030,JASP,2030,Critical Ana. in Jap. Studies,日本研究的批判分析,3,not_collected,2026-08-15T00-47-47+08-00
+JASP2200,JASP,2200,Intro to Jas ACG,日本動畫、漫畫及遊戲入門,3,not_collected,2026-08-15T00-47-47+08-00
+JASP2400,JASP,2400,Culture of Japanese Mass Media,日本傳媒文化,3,not_collected,2026-08-15T00-47-47+08-00
+JASP2450,JASP,2450,New Practical Japanese III,新實用日語（三）,3,not_collected,2026-08-15T00-47-47+08-00
+JASP2470,JASP,2470,New Comprehensive Japanese III,新綜合日語（三）,6,not_collected,2026-08-15T00-47-47+08-00
+JASP2520,JASP,2520,Intimacy in Contemporary Japan,當代日本的親密關係,3,not_collected,2026-08-15T00-47-47+08-00
+JASP2720,JASP,2720,History of Japanese Literature,日本文學史,3,not_collected,2026-08-15T00-47-47+08-00
+JASP3110,JASP,3110,Jap. Ethnic and Cul. Identity,日本文化及民族性格的形成,3,not_collected,2026-08-15T00-47-47+08-00
+JASP3120,JASP,3120,E. Life & Cult. Rep. in M.Jap,現代日本日常生活與文化再現,3,not_collected,2026-08-15T00-47-47+08-00
+JASP3320,JASP,3320,Spoken Japanese,日語口語,3,not_collected,2026-08-15T00-47-47+08-00
+JASP3330,JASP,3330,Japanese Composition,日語作文,3,not_collected,2026-08-15T00-47-47+08-00
+JASP3340,JASP,3340,Jap Improvement Strategies,日語能力提升對策 - 詞彙、文法、聽解、讀解,3,not_collected,2026-08-15T00-47-47+08-00
+JASP3350,JASP,3350,Japanese-Chinese Translation,日中翻譯,3,not_collected,2026-08-15T00-47-47+08-00
+JASP3430,JASP,3430,Japan and Hong Kong,日本與香港,3,not_collected,2026-08-15T00-47-47+08-00
+JASP3700,JASP,3700,Japanese Language and Society,日本語言與社會,3,not_collected,2026-08-15T00-47-47+08-00
+JASP4380,JASP,4380,Advanced Eng-Jap Translation,高級英日翻譯,3,not_collected,2026-08-15T00-47-47+08-00
+JASP4440,JASP,4440,Adv Jas Improv Stra-GramList,提高日語能力對策─文法與聽解,3,not_collected,2026-08-15T00-47-47+08-00
+JASP4600,JASP,4600,Research-Based Project,專題研究指導,3,not_collected,2026-08-15T00-47-47+08-00
+JASP4601,JASP,4601,Field Research-Based Project I,實地考察研究指導（一）,3,not_collected,2026-08-15T00-47-47+08-00
+JASP4602,JASP,4602,Field Research-Based Proj II,實用考察研究指導（二）,3,not_collected,2026-08-15T00-47-47+08-00
+KORE1000,KORE,1000,Korean I,韓國語（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+KORE2000,KORE,2000,Korean II,韓國語（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+KORE2001,KORE,2001,Korean III,韓國語（三）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+KORE3001,KORE,3001,Korean V,韓國語（五）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+KORE3020,KORE,3020,Sounds of Korean,韓國語語音入門,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LAWS1010,LAWS,1010,Legal Analysis and Argumentati Legal Analysis and Argumentati,,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LAWS1020,LAWS,1020,Hong Kong Legal System,香港司法制度,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LAWS1041,LAWS,1041,Contract I,合同法（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LAWS2101,LAWS,2101,Companies and the Law I,公司與法律（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LAWS2110,LAWS,2110,Administrative Law Administrative Law,,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LAWS2121,LAWS,2121,Criminal Law I Criminal Law I,,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LAWS2131,LAWS,2131,Tort I Tort I,,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LAWS3100,LAWS,3100,Civil Procedure Civil Procedure,,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LAWS3110,LAWS,3110,Criminal Procedure Criminal Procedure,,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LAWS3151,LAWS,3151,Land Law I Land Law I,,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LAWS3290,LAWS,3290,Chinese Civil Law Chinese Civil Law,,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LAWS3440,LAWS,3440,Contract Law of the PRC,,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LAWS4010,LAWS,4010,Independent Research Paper Independent Research Paper,,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LAWS4012,LAWS,4012,Global Issues in Law,,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LAWS4120,LAWS,4120,Commercial Law Commercial Law,,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LAWS4151,LAWS,4151,Equity and Trusts I Equity and Trusts I,,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LAWS4260,LAWS,4260,Public International Law Public International Law,,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LAWS4300,LAWS,4300,Shipping and the Law,航運與法律,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LAWS4360,LAWS,4360,Insurance and the Law Insurance and the Law,,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LAWS4430,LAWS,4430,Competition Law,,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LAWS4491,LAWS,4491,Compliance from a Legal Perspe,,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LAWS4494,LAWS,4494,Digital Technology and Law,,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LDTE2100,LDTE,2100,LD in NewEmerg'g Edu Contexts,新興教育背景下的學習設計,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LDTE3120,LDTE,3120,Sustainability of Edu tech,資訊教育科技的持續性,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LDTE3500,LDTE,3500,Internship,產業實習,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LDTE3510,LDTE,3510,Educat'l Des Res'h(Res'h Meth),教育設計研究（研究方法）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LDTE4300,LDTE,4300,InsDesforSENinTec-SupLearn'gEn,使用科技支持有特殊教育需要的學生的教學設計,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LING1000,LING,1000,Invitation to Linguistics,語言學概論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LING1002,LING,1002,Exploring Grammar: Cantonese,語法探索：粵語,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LING2003,LING,2003,Phonetics I,語音學（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LING2006,LING,2006,Semantics,語義學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LING2008,LING,2008,Linguistic Argumentation II,語言學論證（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LING3103,LING,3103,Phonology II,音系學（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LING3201,LING,3201,First Language Acquisition,第一語言獲得,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LING3401,LING,3401,Linguistics and IT,語言學與資訊科技,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LING4000,LING,4000,Research Project II,語言學研究（二）,6,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LING4001,LING,4001,Research Project I,語言學研究（一）,0,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LSCI1001,LSCI,1001,Basic Concepts in Biol. Scienc,生物科學基本概念,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LSCI1002,LSCI,1002,Introduction to Biological Sci,生物科學入門,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LSCI2002,LSCI,2002,Basic Lab Tech in Life Sci,生命科學基本實驗技巧,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LSCI2003,LSCI,2003,Scientific Conduct and Ethics,科學道德與倫理,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LSCI4000,LSCI,4000,Literature Research,文獻專題研究,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+LSCI4912,LSCI,4912,Grp Research in Life Sci (II),生命科學小組研究（二）,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MAEG1020,MAEG,1020,Comput’nal Design & Fabric’n,計算設計與製造,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MAEG2020,MAEG,2020,Engineering Mechanics,工程力學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MAEG2030,MAEG,2030,Thermodynamics,熱力學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MAEG2050,MAEG,2050,Robot Development in Practice,機器人開發實踐：從設計到原型製作,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MAEG3010,MAEG,3010,Mechanics of Materials,材料力學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MAEG3050,MAEG,3050,Introduction to Control Sys,控制系統導論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MAEG3070,MAEG,3070,Fundamentals of CAD,計算機輔助設計基礎,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MAEG3920,MAEG,3920,ENGG Design & Applications,工程設計及應用,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MAEG4020,MAEG,4020,Finite Elem't Modelling & Anal,有限元建模與分析,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MAEG4030,MAEG,4030,Heat Transfer,熱傳學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MAEG4040,MAEG,4040,Mechatronic Systems,機電系統,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MAEG4070,MAEG,4070,Engineering Optimization,工程優化,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MAEG4998,MAEG,4998,Final Year Project I,畢業專題研究（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MAEG4999,MAEG,4999,Final Year Project II,畢業專題研究（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MASE1002,MASE,1002,Intro to MASE II,材料科學與工程學導論（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MASE1801,MASE,1801,Materials Laboratory,材料學實驗,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MASE2002,MASE,2002,Intro to Polymer Science,高分子科學導論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MATH1010,MATH,1010,University Mathematics,大學數學,3,not_collected,2026-08-15T00-47-47+08-00
+MATH1018,MATH,1018,Honours University Mathematics,榮譽大學數學,3,not_collected,2026-08-15T00-47-47+08-00
+MATH1025,MATH,1025,Essential Mathematical Methods,數學方法要義,3,not_collected,2026-08-15T00-47-47+08-00
+MATH1028,MATH,1028,Hon Essential Math'l Methods,榮譽數學方法要義,3,not_collected,2026-08-15T00-47-47+08-00
+MATH1030,MATH,1030,Linear Algebra I,線性代數（一）,3,not_collected,2026-08-15T00-47-47+08-00
+MATH1090,MATH,1090,Introduction to Set Theory,集合論概論,3,not_collected,2026-08-15T00-47-47+08-00
+MATH1520,MATH,1520,University Math for Appl'ns,大學應用數學,3,not_collected,2026-08-15T00-47-47+08-00
+MATH1525,MATH,1525,Basic Math for Sci & Tech,科學和技術之初等數學,3,not_collected,2026-08-15T00-47-47+08-00
+MATH1530,MATH,1530,Basic Math for Business & SSci,商業及社會科學之初等數學,3,not_collected,2026-08-15T00-47-47+08-00
+MATH1540,MATH,1540,U Math for Financial Studies,大學財經數學,3,not_collected,2026-08-15T00-47-47+08-00
+MATH1550,MATH,1550,Method of MatricesLin Algebra,矩陣與線性代數的方法,3,not_collected,2026-08-15T00-47-47+08-00
+MATH1610,MATH,1610,Linear Alg for Adv Acct Analy,高等會計分析數學 — 線性代數,3,not_collected,2026-08-15T00-47-47+08-00
+MATH2010,MATH,2010,Advanced Calculus I,高等微積分（一）,3,not_collected,2026-08-15T00-47-47+08-00
+MATH2018,MATH,2018,Honours Advanced Calculus I,榮譽高等微積分（一）,3,not_collected,2026-08-15T00-47-47+08-00
+MATH2020,MATH,2020,Advanced Calculus II,高等微積分（二）,3,not_collected,2026-08-15T00-47-47+08-00
+MATH2040,MATH,2040,Linear Algebra II,線性代數（二）,3,not_collected,2026-08-15T00-47-47+08-00
+MATH2048,MATH,2048,Honours Linear Algebra II,榮譽線性代數（二）,3,not_collected,2026-08-15T00-47-47+08-00
+MATH2050,MATH,2050,Mathematical Analysis I,數學分析（一）,3,not_collected,2026-08-15T00-47-47+08-00
+MATH2058,MATH,2058,Hon. Mathematical Analysis I,榮譽數學分析（一）,3,not_collected,2026-08-15T00-47-47+08-00
+MATH2060,MATH,2060,Mathematical Analysis II,數學分析（二）,3,not_collected,2026-08-15T00-47-47+08-00
+MATH2070,MATH,2070,Algebraic Structures,代數結構,3,not_collected,2026-08-15T00-47-47+08-00
+MATH2230,MATH,2230,Complex Variables with Applns,複變函數與應用,3,not_collected,2026-08-15T00-47-47+08-00
+MATH3030,MATH,3030,Abstract Algebra,抽象代數,3,not_collected,2026-08-15T00-47-47+08-00
+MATH3060,MATH,3060,Mathematical Analysis III,數學分析（三）,3,not_collected,2026-08-15T00-47-47+08-00
+MATH3080,MATH,3080,Number Theory,數論,3,not_collected,2026-08-15T00-47-47+08-00
+MATH3215,MATH,3215,Operations Research,運籌學,3,not_collected,2026-08-15T00-47-47+08-00
+MATH3230,MATH,3230,Numerical Analysis,數值分析,3,not_collected,2026-08-15T00-47-47+08-00
+MATH3270,MATH,3270,Ordinary Diff Equations,常微分方程,3,not_collected,2026-08-15T00-47-47+08-00
+MATH3280,MATH,3280,Introductory Probability,概率導引,3,not_collected,2026-08-15T00-47-47+08-00
+MATH3290,MATH,3290,Mathematical Modeling,數學模型,3,not_collected,2026-08-15T00-47-47+08-00
+MATH3310,MATH,3310,Computational & Applied Maths,計算及應用數學,3,not_collected,2026-08-15T00-47-47+08-00
+MATH3320,MATH,3320,Foundation of Data Analytics,數據分析基礎,3,not_collected,2026-08-15T00-47-47+08-00
+MATH4010,MATH,4010,Functional Analysis,泛函分析,3,not_collected,2026-08-15T00-47-47+08-00
+MATH4030,MATH,4030,Differential Geometry,微分幾何學,3,not_collected,2026-08-15T00-47-47+08-00
+MATH4280,MATH,4280,InnovationDesigninBigDataAnal,數據分析創新與設計,3,not_collected,2026-08-15T00-47-47+08-00
+MATH4400,MATH,4400,Project,專題,3,not_collected,2026-08-15T00-47-47+08-00
+MATH4900,MATH,4900,Seminar,專題討論,3,not_collected,2026-08-15T00-47-47+08-00
+MBTE3000,MBTE,3000,Business and Social Aspects of,生物技術學與商業及社會的關係,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MBTE3510,MBTE,3510,Medical Biotechnology,醫學生物技術,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MBTE3511,MBTE,3511,Ind app of plant genetic mod,植物基因改造的工業應用,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MBTE3518,MBTE,3518,Project in Medical Biotech,醫學生物技術小組研習,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MBTE4033,MBTE,4033,Methods in Molecular Biotechno,分子生物技術學方法實驗（一）,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MBTE4320,MBTE,4320,Genetic Engineering,遺傳工程學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MBTE4510,MBTE,4510,Plant Biotechnology,植物生物技術學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MBTE4902,MBTE,4902,Senior Experimental Project II,實驗專題討論（二）,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MEDF1010,MEDF,1010,Foundation Course HS I MBChB,,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MEDF1011,MEDF,1011,Health Sciences I,,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MEDF1041,MEDF,1041,Interprofessional Healthcare I,,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MEDU1000,MEDU,1000,Medicine courses,,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MEDU1110,MEDU,1110,Systemic Anatomy,,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MGNT1010,MGNT,1010,Introduction to Business,企業導論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MGNT1020,MGNT,1020,Management,管理學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MGNT1070,MGNT,1070,The Founder’s Journey: EM & DT,創業歷程─創業精神與設計思考,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MGNT2040,MGNT,2040,Managing Human Capital,管理人力資本,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MGNT2511,MGNT,2511,Global Experiential Learning I,全球體驗式學習（一）,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MGNT2512,MGNT,2512,Global Experiential LearningII,全球體驗式學習（二）,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MGNT2611,MGNT,2611,Business Sustainability,商業永續發展,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MGNT3010,MGNT,3010,Organizational Behaviour,組織行為學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MGNT3060,MGNT,3060,Human Capital Training & Dev,人力資源培訓,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MGNT3090,MGNT,3090,Human Capital Analytics,人力資本分析,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MGNT3580,MGNT,3580,Global Enterprise Management,環球企業管理,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MGNT4010,MGNT,4010,Strategic Management,戰略管理,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MGNT4070,MGNT,4070,Social InnovEntrepreneurship,社會創新與創業,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MGNT4080,MGNT,4080,Leadership Development,領導力的開發,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MGNT4090,MGNT,4090,Technology & Innovation Mgt,科技和創新管理,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MGNT4150,MGNT,4150,Global Strategy,全球策略,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MGNT4170,MGNT,4170,Entrepreneurship Launchpad,創業啟動平台,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MGNT4510,MGNT,4510,China Business,中國商業,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MGNT4540,MGNT,4540,Asian Business,亞洲商業,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MGNT4570,MGNT,4570,Global Entrepreneurship,環球企業家精神,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MIEG2051,MIEG,2051,Fourier Analysis with Eng Appl,傅里葉分析及其工程應用,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MKTG2010,MKTG,2010,Marketing Management,市場管理,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MKTG3010,MKTG,3010,Marketing Research,市場研究,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MKTG3020,MKTG,3020,Consumer Behaviour,消費者行為,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MKTG3030,MKTG,3030,Integrated Mkt Communication,整合營銷傳播,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MKTG3060,MKTG,3060,Big Data Strategy in Marketing,營銷大數據策略,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MKTG4040,MKTG,4040,Strategic Marketing,策略市場學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MKTG4070,MKTG,4070,Marketing in China,中國市場營銷,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MKTG4080,MKTG,4080,Digital Marketing,數碼營銷,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MKTG4110,MKTG,4110,Strategic Brand Management,策略品牌管理,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MKTG4150,MKTG,4150,New Product Management,新產品管理,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC1000,MUSC,1000,The Study of Music,音樂研究,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC1001,MUSC,1001,Choral Singing I,合唱訓練一,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC1011,MUSC,1011,Applied Music (Minor I),音樂術科(副修一),1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC1012,MUSC,1012,Applied Music (Major IX),音樂術科(主修九),2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC1013,MUSC,1013,African Drumming I,非洲擊鼓樂實習一,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC1014,MUSC,1014,Chamber Music Ensemble I,室內樂一,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC1017,MUSC,1017,Javanese Gamelan Ensemble I,印尼爪哇甘美朗理論與實技一,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC1031,MUSC,1031,Orchestral Training I,管弦樂合奏一,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC1041,MUSC,1041,Wind Orchestra I,管樂團一,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC1051,MUSC,1051,Applied Music (Major I),音樂術科（主修一）,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC1212,MUSC,1212,Fundamentals of Tonal Music I,基本調性音樂一,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC2001,MUSC,2001,Choral Singing III,合唱訓練三,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC2011,MUSC,2011,Applied Music (Minor III),音樂術科(副修三),1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC2012,MUSC,2012,Applied Music (Major XI),音樂術科(主修十一),2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC2013,MUSC,2013,African Drumming III,非洲擊鼓樂實習三,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC2014,MUSC,2014,Chamber Music Ensemble III,室內樂三,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC2017,MUSC,2017,Javanese Gamelan Ensemble III,印尼爪哇甘美朗理論與實技三,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC2031,MUSC,2031,Orchestral Training III,管弦樂合奏三,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC2041,MUSC,2041,Wind Orchestra III,管樂團三,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC2051,MUSC,2051,Applied Music (Major III),音樂術科（主修三）,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC2252,MUSC,2252,MaterialsStructures of Music,音樂素材與結構,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC2562,MUSC,2562,Foundations of Chinese Music,中國音樂基礎,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC2872,MUSC,2872,History of Western Music I,西洋音樂史一,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC2913,MUSC,2913,Selected Study I,專題研讀一,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC3001,MUSC,3001,Choral Singing V,合唱訓練五,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC3011,MUSC,3011,Applied Music (Minor V),音樂術科(副修五),1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC3012,MUSC,3012,Applied Music (Major XIII),音樂術科(主修十三),2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC3013,MUSC,3013,African Drumming V,非洲擊鼓樂實習五,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC3014,MUSC,3014,Chamber Music Ensemble V,室內樂五,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC3017,MUSC,3017,Javanese Gamelan Ensemble V,印尼爪哇甘美朗理論與實技五,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC3031,MUSC,3031,Orchestral Training V,管弦樂合奏五,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC3041,MUSC,3041,Wind Orchestra V,管樂團五,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC3051,MUSC,3051,Applied Music (Major V),音樂術科(主修五),1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC3213,MUSC,3213,His of Western Music:Sp Top I,西洋音樂史專題一,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC3223,MUSC,3223,His of Western Music:Sp Top II,西洋音樂史專題二,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC3323,MUSC,3323,Counterpoint (Tonal & Modern),對位法（調性及現代）,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC3343,MUSC,3343,Composition I,作曲一,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC3363,MUSC,3363,Composition III,作曲三,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC3530,MUSC,3530,Music Performer’s Issues,演奏者面對的問題,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC3923,MUSC,3923,Selected Study II,專題研讀二,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC3933,MUSC,3933,Selected Study III,專題研讀三,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC4000,MUSC,4000,Senior Recital Preparation,畢業音樂會預備,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC4001,MUSC,4001,Choral Singing VII,合唱訓練七,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC4011,MUSC,4011,Applied Music (Minor VII),音樂術科(副修七),1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC4013,MUSC,4013,African Drumming VII,非洲擊鼓樂實習七,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC4014,MUSC,4014,Chamber Music Ensemble VII,室內樂七,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC4017,MUSC,4017,Javanese Gamelan Ensemble VII,印尼爪哇甘美朗理論與實技七,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC4031,MUSC,4031,Orchestral Training VII,管弦樂合奏七,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC4041,MUSC,4041,Wind Orchestra VII,管樂團七,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC4051,MUSC,4051,Applied Music (Major VII),音樂術科(主修七),1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC4513,MUSC,4513,Senior Pedagogy Project I,畢業教學專題研究一,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC4523,MUSC,4523,Senior Pedagogy Project II,畢業教學專題研究二,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC4813,MUSC,4813,Senior Thesis I,畢業論文一,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+MUSC4943,MUSC,4943,Selected Study IV,專題研讀四,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+NSCI3000,NSCI,3000,Sci and Applic of Biomimicry,仿生學的原理與應用,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+NSCI4051,NSCI,4051,Workshop on Data Sci,數據科學工作坊,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+NSCI4906,NSCI,4906,Internship,專修實習,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHAR1000,PHAR,1000,Introduction to Pharmacy,藥劑學導論,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHAR1423,PHAR,1423,Biochemistry and Molecular Bio,生物化學及分子生物學,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHAR1433,PHAR,1433,Anatomy and Physiology I,解剖學及生理學（一）,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHAR2110,PHAR,2110,Medicinal Chemistry,藥物化學及藥物設計,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHAR2131,PHAR,2131,Pharmaceutical Analysis,藥物分析,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHAR2211,PHAR,2211,Dosage Form Science I,方劑學（一）,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHAR2213,PHAR,2213,Pharm Product Dev Mfg,藥物劑型開發及生產,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHAR2313,PHAR,2313,Prin of Pharm Disp,配藥原理,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHAR2320,PHAR,2320,Pharmacy Law,藥事法規,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHAR3330,PHAR,3330,Community Pharmacy Practice,社區藥房執業,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHAR3413,PHAR,3413,Pharmacology & Therapeutics II,藥理學及治療學（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHAR3415,PHAR,3415,Pharmacology & Therapeutics IV,藥理學及治療學（四）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHAR3510,PHAR,3510,Complementary & Alt Medicine,替補醫學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHAR4911,PHAR,4911,Research Project I,專題研究（一）,0,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHED1010,PHED,1010,Special P.E. I,體育特別班（一）,1,not_collected,2026-08-15T00-47-47+08-00
+PHED1015,PHED,1015,Swimming,游泳,1,not_collected,2026-08-15T00-47-47+08-00
+PHED1016,PHED,1016,Swimming,游泳,1,not_collected,2026-08-15T00-47-47+08-00
+PHED1017,PHED,1017,Physical Conditioning,體能鍛鍊,1,not_collected,2026-08-15T00-47-47+08-00
+PHED1018,PHED,1018,Physical Conditioning,體能鍛鍊,1,not_collected,2026-08-15T00-47-47+08-00
+PHED1021,PHED,1021,Basketball,籃球,1,not_collected,2026-08-15T00-47-47+08-00
+PHED1022,PHED,1022,Basketball,籃球,1,not_collected,2026-08-15T00-47-47+08-00
+PHED1023,PHED,1023,Volleyball,排球,1,not_collected,2026-08-15T00-47-47+08-00
+PHED1024,PHED,1024,Volleyball,排球,1,not_collected,2026-08-15T00-47-47+08-00
+PHED1025,PHED,1025,Softball,壘球,1,not_collected,2026-08-15T00-47-47+08-00
+PHED1026,PHED,1026,Softball,壘球,1,not_collected,2026-08-15T00-47-47+08-00
+PHED1027,PHED,1027,Handball,手球,1,not_collected,2026-08-15T00-47-47+08-00
+PHED1028,PHED,1028,Handball,手球,1,not_collected,2026-08-15T00-47-47+08-00
+PHED1029,PHED,1029,Soccer,足球,1,not_collected,2026-08-15T00-47-47+08-00
+PHED1031,PHED,1031,Tennis,網球,1,not_collected,2026-08-15T00-47-47+08-00
+PHED1032,PHED,1032,Tennis,網球,1,not_collected,2026-08-15T00-47-47+08-00
+PHED1033,PHED,1033,Squash,壁球,1,not_collected,2026-08-15T00-47-47+08-00
+PHED1034,PHED,1034,Squash,壁球,1,not_collected,2026-08-15T00-47-47+08-00
+PHED1038,PHED,1038,Soccer,足球,1,not_collected,2026-08-15T00-47-47+08-00
+PHED1040,PHED,1040,Woodball,木球,1,not_collected,2026-08-15T00-47-47+08-00
+PHED1041,PHED,1041,Badminton,羽毛球,1,not_collected,2026-08-15T00-47-47+08-00
+PHED1042,PHED,1042,Badminton,羽毛球,1,not_collected,2026-08-15T00-47-47+08-00
+PHED1043,PHED,1043,Table Tennis,乒乓球,1,not_collected,2026-08-15T00-47-47+08-00
+PHED1044,PHED,1044,Table Tennis,乒乓球,1,not_collected,2026-08-15T00-47-47+08-00
+PHED1066,PHED,1066,Yoga,瑜伽,1,not_collected,2026-08-15T00-47-47+08-00
+PHED1122,PHED,1122,Taekwondo,跆拳道,1,not_collected,2026-08-15T00-47-47+08-00
+PHED1130,PHED,1130,Modern Dance,現代舞,1,not_collected,2026-08-15T00-47-47+08-00
+PHED1150,PHED,1150,Yoga,瑜伽,1,not_collected,2026-08-15T00-47-47+08-00
+PHED1210,PHED,1210,Tai Chi,太極拳,1,not_collected,2026-08-15T00-47-47+08-00
+PHED1220,PHED,1220,Physical Conditioning,體能鍛鍊,1,not_collected,2026-08-15T00-47-47+08-00
+PHED1260,PHED,1260,Judo,柔道,1,not_collected,2026-08-15T00-47-47+08-00
+PHED1310,PHED,1310,Track and Field,田徑,1,not_collected,2026-08-15T00-47-47+08-00
+PHED1330,PHED,1330,Hip-hop Dance,嘻哈舞,1,not_collected,2026-08-15T00-47-47+08-00
+PHED1340,PHED,1340,Golf,高爾夫球,1,not_collected,2026-08-15T00-47-47+08-00
+PHED1350,PHED,1350,Martial Arts Bing Dao,武術兵道,1,not_collected,2026-08-15T00-47-47+08-00
+PHED1370,PHED,1370,Archery,射箭,1,not_collected,2026-08-15T00-47-47+08-00
+PHED2021,PHED,2021,Intermediate Basketball,中級籃球,1,not_collected,2026-08-15T00-47-47+08-00
+PHED2121,PHED,2121,Intermediate Basketball,中級籃球,1,not_collected,2026-08-15T00-47-47+08-00
+PHIL1110,PHIL,1110,Introduction to Philosophy,哲學概論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHIL1310,PHIL,1310,Logic,邏輯,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHIL2020,PHIL,2020,History of Chin Philosophy I,中國哲學史（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHIL2040,PHIL,2040,History of West Philosophy I,西方哲學史（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHIL2302,PHIL,2302,Guid Stud in West Phi Classics,西方哲學原典導讀,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHIL3000,PHIL,3000,Ethics,倫理學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHIL3211,PHIL,3211,Indian Buddhist Philosophy,印度佛家哲學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHIL3383,PHIL,3383,Philosophy of Death,死亡哲學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHIL3541,PHIL,3541,Topics in Ancient Chinese Phil,古代中國哲學專題,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHIL3652,PHIL,3652,Topics in Contempo West Phil,當代西方哲學專題,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHIL3683,PHIL,3683,Topics in Applied Philosophy,應用哲學專題,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHIL3820,PHIL,3820,Epistemology,知識論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHIL3833,PHIL,3833,Topics in Ethics,倫理學專題,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHIL4153,PHIL,4153,Philosophy of Culture,文化哲學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHIL4262,PHIL,4262,Existentialism,存在主義,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHIL4371,PHIL,4371,Seminar on Chinese Philosophy,中國哲學研討,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHIL4443,PHIL,4443,Seminar on Philosophical Issue,哲學問題研討,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHIL4800,PHIL,4800,Thesis,論文,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHPC1001,PHPC,1001,Foundations in Public Health,公共衞生學基礎,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHPC1010,PHPC,1010,Anat & Physio: Body Functions,人體解剖學與生理學︰人體基本功能,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHPC1019,PHPC,1019,Induction Programme I,先導計劃（一）,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHPC1022,PHPC,1022,"Lifestyle, Behav and Health",生活模式及行為與健康,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHPC2005,PHPC,2005,Introduction to Biostatistics,生物統計學基礎,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHPC2007,PHPC,2007,Nutrition for Health and Ex,營養學於健康促進及運動之應用,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHPC2009,PHPC,2009,Environment and Work,環境衞生及職業衞生,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHPC2010,PHPC,2010,Health Care System & Policy,醫療系統及政策,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHPC2015,PHPC,2015,Biostatistics,生物統計學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHPC2016,PHPC,2016,Theories of Health Behaviours,健康行為理論基礎,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHPC2017,PHPC,2017,Epidemiology,流行病學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHPC3027,PHPC,3027,Qualitative Research,定性研究,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHPC4000,PHPC,4000,Professionalism and Ethics,專業操守與倫理,0,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHPC4033,PHPC,4033,Medical Sociology,醫學社會學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHPC4913,PHPC,4913,Primary PH Research III,公共衞生基礎研究（三）,4,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHPC4922,PHPC,4922,PH Data Synthesis Research II,公共衞生數據整合研究（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHPC4930,PHPC,4930,Public Health Practicum,公共衞生實習,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHYS1002,PHYS,1002,General Physics,普通物理,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHYS1003,PHYS,1003,General Physics for Engineers,工科普通物理,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHYS1110,PHYS,1110,Engineering Phy: Mech & Thermo,工程物理：力學及熱力學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHYS1111,PHYS,1111,"Intro to Mech, Fluids & Waves",力學、流體與波動導論（大學物理一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHYS1113,PHYS,1113,"Mechanics, Fluids and Waves",力學、流體與波動（大學物理一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHYS2041,PHYS,2041,University Physics III,大學物理（三）： 熱學與電磁學導論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHYS2051,PHYS,2051,Quan Methods for Basic Phy,基礎物理中的定量方法,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHYS2061,PHYS,2061,Basic Computational Physics,基礎計算物理學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHYS2510,PHYS,2510,Student Centred Learning I,學生為本學習（一）,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHYS2520,PHYS,2520,Student Centred Learning II,學生為本學習（二）,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHYS2711,PHYS,2711,Physics Laboratory II,物理實驗（二）,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHYS3021,PHYS,3021,Quantum Mechanics I,量子力學（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHYS3041,PHYS,3041,Electromagnetic Theory I,電磁學理論（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHYS3430,PHYS,3430,Radio Observational Astronomy,射電觀測天文學,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHYS3610,PHYS,3610,Short Project II,專題研習 (二),2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHYS3630,PHYS,3630,Other Phys Learning Exp I,其他物理學習體驗（一）,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHYS3710,PHYS,3710,Short Experimental Project I,專題實驗（一）,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHYS3810,PHYS,3810,Short Theoretical Project I,理論專題（一）,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHYS4031,PHYS,4031,Statistical Mechanics,統計力學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHYS4041,PHYS,4041,Electromagnetic Theory II,電磁學理論（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHYS4050,PHYS,4050,Solid State Physics,固體物理,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHYS4051,PHYS,4051,Methods in Theoretical Phys II,理論物理的分析方法（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHYS4061,PHYS,4061,Compu Phys and Mach Learning,計算物理與機器學習,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHYS4430,PHYS,4430,Astrophysics,天文物理,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHYS4610,PHYS,4610,Senior Project I,畢業專題研究（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHYS4620,PHYS,4620,Senior Project II,畢業專題研究（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHYS4630,PHYS,4630,Other Phys Learning Experience,其他物理學習體驗,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHYS4710,PHYS,4710,Short Experimental Project II,專題實驗（二）,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHYS4711,PHYS,4711,Short Experimental Project III,專題實驗（三）,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHYS4712,PHYS,4712,Short Experimental Project IV,專題實驗（四）,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHYS4801,PHYS,4801,Seminar I,學術報告（一）,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHYS4802,PHYS,4802,Seminar II,學術報告（二）,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHYS4811,PHYS,4811,Short Theoretical Project II,理論專題（二）,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PHYS4812,PHYS,4812,Short Theoretical Project III,理論專題（三）,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PSYC1000,PSYC,1000,General Psychology,心理學概論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PSYC1020,PSYC,1020,Positive Psy in Everyday,正向心理學的生活應用,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PSYC1091,PSYC,1091,Your Journey into Psychology,走進心理學,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PSYC2020,PSYC,2020,Experimental Design,實驗設計,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PSYC2070,PSYC,2070,Qualitative Research Methods,定質研究法,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PSYC2240,PSYC,2240,Sensation and Perception,感覺與知覺,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PSYC2350,PSYC,2350,Memory and Cognition,記憶與認知,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PSYC2620,PSYC,2620,Social Psychology,社會心理學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PSYC3002,PSYC,3002,Spec Topics in Edu & Hum Dev,教育及發展心理學研讀專題,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PSYC3460,PSYC,3460,Machine Learning in Psychology,心理學中的機器學習,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PSYC3550,PSYC,3550,Educational Psychology,教育心理學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PSYC3740,PSYC,3740,Evidence-based Practice,實證為本的心理健康服務,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PSYC3750,PSYC,3750,Counseling in Applied Settings,輔導理論及其於臨床、職場及組織的應用,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PSYC3760,PSYC,3760,Engagement and Assessment,常見心理健康問題的心理評估,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PSYC4900,PSYC,4900,Psychology in Action I,心理學實踐（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PSYC4902,PSYC,4902,Practicum in Edu & Human Dev,教育及發展心理學實習,6,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PSYC4904,PSYC,4904,Practicum in Psy & Health,臨牀及健康心理學實習,6,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PSYC4906,PSYC,4906,Guided Self-help Practicum,引導式自助方法實習,6,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PSYC4910,PSYC,4910,Senior Thesis Research I,論文研究（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+PSYC4920,PSYC,4920,Senior Thesis Research II,論文研究（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+RMSC1101,RMSC,1101,Ele Concepts in Risk Mgt,風險管理基礎概念,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+RMSC2001,RMSC,2001,Intro to Risk Management,風險管理導論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+RMSC4001,RMSC,4001,Simulation Methods: Rms & Fin,財務與風險管理之模擬方法,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+RMSC4002,RMSC,4002,FDA with ML,財務數據分析暨機械學習的應用,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+RMSC4003,RMSC,4003,Sta Modelling in Fin Markets,金融巿場的統計建模,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+RMSC4202,RMSC,4202,Practicum,行業實習,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+RMSC4212,RMSC,4212,Practicum in Risk Analytics,風險分析行業實習,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+RUSS1000,RUSS,1000,Russian I,俄語（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+RUSS2000,RUSS,2000,Russian II,俄語（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SBMS1101,SBMS,1101,Biomedical Sciences and Societ,生物醫學與社會,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SBMS1103,SBMS,1103,Biochemistry of Human Body,人體生物化學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SBMS1431,SBMS,1431,Human Anatomy and Physiology 1,人類解剖與生理學（一）,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SBMS2101,SBMS,2101,Biostatistics and Epidemiology,生物統計學和流行病學,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SBMS2102,SBMS,2102,Introduction to Molecular Biol,分子生物學導論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SBMS2107,SBMS,2107,Human Functions and Diseases 1,人體功能與疾病(一),3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SBMS2201,SBMS,2201,Natural Product Pharmacognosy,天然產物生藥學與新藥研發,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SBMS3101,SBMS,3101,Immunology,免疫學,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SBMS3201,SBMS,3201,Experimental Design and Execut,實驗設計與執行、期刊分析及報告結果,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SBMS3207,SBMS,3207,Introduction to GMP for ATMPs,先進治療藥物良好生產規範導論,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SBMS3208,SBMS,3208,Forensic Science,鑑證科學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SBMS3212,SBMS,3212,"Bioinformatics, Genomics and P",生物信息學、基因組學與蛋白質組學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SBMS3214,SBMS,3214,Medical Genetics,醫學遺傳學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SBMS3215,SBMS,3215,The Landscape of the Biomedica,生物醫學產業現狀,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SBMS3216,SBMS,3216,Health Services Management,醫務衞生服務管理,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SBMS4201,SBMS,4201,Capstone Research Project I,總結性科研項目(一),3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SBMS4203,SBMS,4203,Biomedical Internship I,生物醫學實習(一),1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SBMS4205,SBMS,4205,Biomedical Internship III,生物醫學實習 (三),1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SEEM2440,SEEM,2440,Engineering Economics,工程經濟學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SEEM2520,SEEM,2520,Fundamentals in Financial Tech,金融工程和金融科技基礎,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SEEM3410,SEEM,3410,System Modeling and Simulation,系統建模與模擬,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SEEM3430,SEEM,3430,Info Syst Analysis & Design,資訊系統分析及設計,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SEEM3440,SEEM,3440,Operations Research II,運籌學（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SEEM3590,SEEM,3590,Investment Science,投資科學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SEEM3630,SEEM,3630,Service Management,服務營運的管理,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SEEM3680,SEEM,3680,Techno Consulting in Practice,實用科技諮詢及分析,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SEEM4630,SEEM,4630,E-Commerce Data Mining,電子商務數據採集和分析,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SEEM4750,SEEM,4750,Advances in LSCM,高級物流與供應鏈管理,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SEEM4760,SEEM,4760,Stoc Models for Decision Anal,決策分析中的隨機模型,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SEEM4998,SEEM,4998,Final Year Project I,畢業專題研究（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SEEM4999,SEEM,4999,Final Year Project II,畢業專題研究（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOCI1001,SOCI,1001,Introduction to Sociology,社會學導論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOCI1002,SOCI,1002,Approaching Sociology,社會學入門,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOCI2003,SOCI,2003,Social Research Methods,社會研究法,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOCI2106,SOCI,2106,Eco Ref'm & Soc Impacts in Chi,中國的經濟改革與社會影響,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOCI2208,SOCI,2208,Urban Sociology,都市社會學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOCI3002,SOCI,3002,Social Stratification,社會分層,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOCI3102,SOCI,3102,Soc Networks & Soc Capital,社會網絡與社會資本,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOCI3208,SOCI,3208,Gender and Society,性別與社會,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOCI3223,SOCI,3223,Contemporary Soci Theory,當代社會學理論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOCI3238,SOCI,3238,Digital Sociology,數位社會學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOCI3240,SOCI,3240,Sociology of Science,科學社會學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOCI3241,SOCI,3241,Intro. to Global Sociology,全球社會學導論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOCI3242,SOCI,3242,Crime and Social Control,全球化下的罪案及社會控制,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOCI4010,SOCI,4010,Graduation Thesis I,畢業論文（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOCI4211,SOCI,4211,Sociology Internship,社會學實習,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOCI4410,SOCI,4410,Directed Studies I,輔導研習（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOCI4420,SOCI,4420,Directed Studies II,輔導研習（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOSC1001,SOSC,1001,"Design Thinking, Social Innov.",社會創新中的「設計思維」,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOSC1003,SOSC,1003,Introduction to Art Tech DI,自動化與互動設計,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOSC4001,SOSC,4001,ASK Project I,同創專題習作（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOSC4002,SOSC,4002,ASK Project II,同創專題習作（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOSC4010,SOSC,4010,ASK Internship I,同創實習（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOWK1001,SOWK,1001,Intro to Soc Wk & Soc Wel,社會工作及社會福利導論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOWK1113,SOWK,1113,Self-deve. in Changing Society,社會轉變中的自我發展,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOWK1150,SOWK,1150,Choices in Life:Self Develop’t,生命的選擇：個人成長之旅,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOWK1160,SOWK,1160,"Movies, Life and Social Work",電影、人生與社工,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOWK2001,SOWK,2001,Student-Orientated Teaching I,學生為本教學課程（一）,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOWK2020,SOWK,2020,Phil & Prin of Soc Wk,社會工作哲學及原則,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOWK2100,SOWK,2100,Service-learning Online Course,服務學習網上自學科目,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOWK2210,SOWK,2210,Social Casework,社會個案工作,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOWK2220,SOWK,2220,Social Group Work,社會小組工作,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOWK3240,SOWK,3240,Clinical Soc Wk Theor & Pract,臨床社會工作理論與實踐,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOWK3250,SOWK,3250,Macro Soc Work Theor & Prac,宏觀社會工作理論與實踐,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOWK3340,SOWK,3340,Social Policy and Planning,社會政策及規劃,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOWK3410,SOWK,3410,Field Instruction I,實習指導（一）,4,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOWK3420,SOWK,3420,Field Instruction II,實習指導（二）,4,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOWK4350,SOWK,4350,Law and Social Work,法律與社工,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOWK4410,SOWK,4410,Field Instruction III,實習指導（三）,4,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOWK4420,SOWK,4420,Field Instruction IV,實習指導（四）,4,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOWK4510,SOWK,4510,Sem I Family-centered Soc Work,專題研討（一）： 家庭為本社會工作,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOWK4520,SOWK,4520,Seminar II: SW with Young Ppl,專題研討（二）：青少年社會工作,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOWK4570,SOWK,4570,Sem VII Art-based SW Practice,專題研討（七）：藝術為本社會工作實務,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SOWK4592,SOWK,4592,Seminar XI: Special Seminar,專題研討（十一）：特選專題研討,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SPAN1000,SPAN,1000,Spanish I,西班牙語（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SPAN1001,SPAN,1001,First Step in Spanish,西班牙語入門,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SPAN1101,SPAN,1101,Spa Civilization & Its Lang I,西班牙文明及其語言（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SPAN2000,SPAN,2000,Spanish II,西班牙語（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SPAN2001,SPAN,2001,Spanish III,西班牙語（三）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SPAN3001,SPAN,3001,Spanish V,西班牙語（五）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SPED1000,SPED,1000,Introd to Human Movement Sci,人體運動科學導論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SPED2010,SPED,2010,Team Sports,隊際運動,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SPED2011,SPED,2011,Teaching Basketball: T & P,籃球教學：理論與實踐,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SPED2031,SPED,2031,Teaching Soccer: T & P,足球教學：理論與實踐,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SPED2051,SPED,2051,Teaching Badminton: T & P,羽毛球教學：理論與實踐,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SPED2110,SPED,2110,Individual Sports,個人項目運動,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SPED2111,SPED,2111,Teaching Swimming I: T & P,游泳教學 I：理論與實踐,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SPED2131,SPED,2131,Tea Track & Field I: T & P,田徑教學 I：理論與實踐,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SPED2141,SPED,2141,Fundamental Mov & Dance,基礎動作與舞蹈,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SPED2211,SPED,2211,Teaching Gymnastics: T & P,體操教學：理論與實踐,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SPED2520,SPED,2520,Func'l Human Anatomy & Sp Inj,功能性人體解剖學及運動創傷,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SPED2600,SPED,2600,"Bas Sta, Test & Meas for P.E.",基本體育統計、測檢與量度學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SPED2700,SPED,2700,Principles of Strength T & C,肌力與體能訓練原理,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SPED2720,SPED,2720,Foundation of Phy Ed & Sports,體育與運動基礎,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SPED3220,SPED,3220,Alternative Sports,另類運動,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SPED3250,SPED,3250,Tea Dances:TP,舞蹈教學：理論與實踐,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SPED3410,SPED,3410,Curriculum Planning for P.E.,體育課程設計,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SPED3440,SPED,3440,Pedagogy of Secondary PE,中學體育教學法,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SPED3450,SPED,3450,Pedagogy of Primary Pe,小學體育教學法,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SPED3700,SPED,3700,Sports and Health Technology,運動及健康相關科技,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SPED3731,SPED,3731,Select Topics in Sp Sociology,運動社會學專題研習,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SPED3820,SPED,3820,Introd to Exer & Sports Psy,體育運動心理學導論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SPED4400,SPED,4400,Teaching Practice in Secondary,中學教學實習,4,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SPED4570,SPED,4570,Edu & Promo of Exer & Health,運動與健康教育及推廣,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+SPED4640,SPED,4640,Human Kinematics & Kinetics,運動學及動力學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+STAR2000,STAR,2000,UG Research in Science I,科研培訓（一）,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+STAR2050,STAR,2050,Seminar I,學術報告（一）,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+STAR3000,STAR,3000,UG Research in Science II,科研培訓（二）,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+STAR3050,STAR,3050,Seminar II,學術報告（二）,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+STAR4000,STAR,4000,UG Research in Science III,科研培訓（三）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+STAR4050,STAR,4050,Seminar III,學術報告（三）,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+STAT1011,STAT,1011,Introduction to Statistics,統計導論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+STAT1012,STAT,1012,Statistics for Life Sciences,生命科學統計,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+STAT2001,STAT,2001,Basic Con in Stat & Prob I,統計及概率基本概念（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+STAT2005,STAT,2005,Programming Lang for Stat,統計電腦語言,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+STAT2006,STAT,2006,Basic Con in Stat & Prob II,統計及概率基本概念（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+STAT3003,STAT,3003,Survey Methods,調查方法,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+STAT3005,STAT,3005,Nonparametric statistics,非參數統計,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+STAT3007,STAT,3007,Intro to Stochastic Processes,隨機過程入門,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+STAT3008,STAT,3008,Applied Regression Analysis,應用迴歸分析,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+STAT3009,STAT,3009,Recommender Systems,推薦系統,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+STAT3210,STAT,3210,Stat Tech in Life Sciences,生命科學之統計方法,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+STAT4001,STAT,4001,Data Mining & Stat Learning,數據挖掘及統計學習,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+STAT4003,STAT,4003,Statistical Inference,統計推論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+STAT4005,STAT,4005,Time Series,時間序列,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+STAT4006,STAT,4006,Categorical Data Analysis,範疇性數據分析,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+STAT4011,STAT,4011,Statistics Projects,統計習作,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+STAT4013,STAT,4013,Practicum,行業實習,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+THAI1000,THAI,1000,Thai I,泰語（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+THEO1000,THEO,1000,Approaches to Christian Stud,基督教研究導論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+THEO1211,THEO,1211,Intro to the Hebrew Bible,希伯來聖經導論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+THEO2213,THEO,2213,Wisdom and the Psalms,智慧文學與詩篇,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+THEO2221,THEO,2221,Early & Medieval Church,早期與中世紀教會,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+THEO2235,THEO,2235,Systematic Theology I,系統神學（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+THEO3215,THEO,3215,New Testament Greek I,新約希臘文（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+THEO3217,THEO,3217,Biblical Hebrew I,聖經希伯來文（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+THEO3236,THEO,3236,Theol Studies: Sp Topic II,神學：專題研究（二）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+THEO3241,THEO,3241,Homiletics,講道學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+THEO3254,THEO,3254,Christian Ethics,基督教倫理學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+THEO4241,THEO,4241,Field Education I,實習（一）,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+THEO4242,THEO,4242,Field Education II,實習（二）,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+TRAN1000,TRAN,1000,Lost and Found: Tran,取與捨—翻譯的實踐與創新,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+TRAN1010,TRAN,1010,Principles of Translation,翻譯概論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+TRAN1030,TRAN,1030,Intro to Interpreting,傳譯入門,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+TRAN2110,TRAN,2110,Culture and Translation,文化與翻譯,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+TRAN2140,TRAN,2140,Simultaneous Interpreting: P-E,同聲傳譯：普通話－英語,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+TRAN2610,TRAN,2610,Intro to Computer-aided Tran,電腦輔助翻譯導論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+TRAN2840,TRAN,2840,Intro to Legal Translation,法律翻譯初階,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+TRAN3080,TRAN,3080,Research Methods in Trans Stud,譯學研究方法,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+TRAN3270,TRAN,3270,Literary Tran Strategies: E-C,文學翻譯策略：英譯中,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+TRAN3620,TRAN,3620,Tran Tech in the Age of AI AI,時代的翻譯科技,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+TRAN3810,TRAN,3810,Govt & Public Affairs Tran,政府及公共事務翻譯,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+TRAN3830,TRAN,3830,Mass Media Translation,傳播媒介翻譯,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+TRAN3850,TRAN,3850,Science & Technology Tran,科技翻譯,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+TRAN3870,TRAN,3870,Tran of Texts in Social Sci,社會科學文本的翻譯,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+TRAN4510,TRAN,4510,Translation Project: Eng-Chi,英漢長篇翻譯,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+TRAN4520,TRAN,4520,Translation Project: Chi-Eng,漢英長篇翻譯,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGCP1001,UGCP,1001,Understanding China,認識中國,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGCP1002,UGCP,1002,HK-Wider Constitutional Order,國家憲制秩序與香港,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEA1065,UGEA,1065,Kunqu and Chinese Culture,崑曲與中國戲曲文化,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEA1212,UGEA,1212,Understand China thr Cul Land,文化景觀 探識中國,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEA1333,UGEA,1333,Multiculturalism and China,多元文化與中國,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEA1555,UGEA,1555,Understanding Modern China,認識現代中國,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEA2100,UGEA,2100,Outline of Chinese Culture,中國文化要義,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEA2110,UGEA,2110,An Intro to Chinese Culture,中國文化導論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEA2140,UGEA,2140,Chi Culture & Modernization,中國文化與現代化,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEA2145,UGEA,2145,Chinese Music and Culture,中國音樂與文化,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEA2150,UGEA,2150,Chi Culture & Its Philosophies,中國文化及其哲學,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEA2160,UGEA,2160,Mainstream Chinese Phi Thought,中國哲學主流思想,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEA2163,UGEA,2163,Debates on Chi Trad Thoughts,百家爭鳴：中國傳統思想大辯論,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEA2190,UGEA,2190,Chinese Society,中國社會,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEA2230,UGEA,2230,Intro to Transform in Chi Hist,中國歷史變革概論,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEA2234,UGEA,2234,Imperial and Religious Power,皇權與神權：中國社會與文化的變,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEA2236,UGEA,2236,Intro to Classical Hist Books,歷史經典導讀,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEA2290,UGEA,2290,Chinese Culture and Literature,中國文化與文學,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEA2332,UGEA,2332,Culture and Modernity in China,中國的文化及現代性,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEA2334,UGEA,2334,China Today,今日中國,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEA2433,UGEA,2433,Science & Technology in China,中國科技發展導論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEB1307,UGEB,1307,Energy and Green Society,能源與綠色社會,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEB1407,UGEB,1407,Demystifying AI,人工智能揭秘,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEB1870,UGEB,1870,Exploring The Earth,探索地球及環境科學,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEB2008,UGEB,2008,"Mind, Brain and AI",心靈、人腦與人工智能,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEB2132,UGEB,2132,Earth as Seen From Space,從太空觀地球,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEB2222,UGEB,2222,Natural Hazards,自然災害,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEB2341,UGEB,2341,Relativity & Quantum Mechanics,相對論與量子力學：概念介紹,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEB2360,UGEB,2360,Wonders & Insights in Biology,生物拾趣與啟示,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEB2363,UGEB,2363,Biochemistry and Physical Acti,生物化學與體能活動,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEB2364,UGEB,2364,Food Safety & Processing Tech,食品安全與製作科技,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEB2370,UGEB,2370,Chemistry: The X-Files,化學X檔案,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEB2380,UGEB,2380,Chemistry of Life,生命化學,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEB2411,UGEB,2411,Astronomy – A Short Introd,天文學 - 簡介,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEB2420,UGEB,2420,Chemistry in the Kitchen,化學色香味,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEB2491,UGEB,2491,Per in Risk Mgmt & Modern Soc,風險管理與當今社會之展望,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEB2502,UGEB,2502,Human Evolution,人類的演化,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEB2530,UGEB,2530,Games and Strategic Thinking,博奕和策略思想,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEB2640,UGEB,2640,Perspectives in Meteorology,氣象學概論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEB2650,UGEB,2650,Materials Sci for a Sus World,可持續世界的材料科學,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEB2791,UGEB,2791,Perspectives in Clinical Sci.,臨床醫學科學觀,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEB2996,UGEB,2996,Get to Know SLI & Role of ST,初探言語障礙與言語治療師角色,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEB3630,UGEB,3630,Exploring the Enigmatic Oceans,海洋探秘,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC1120,UGEC,1120,Greater Bay Area,透視粵港澳大灣區,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC1209,UGEC,1209,Intro to Gender Studies,思考性別：性別研究導論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC1232,UGEC,1232,Jap Culture & Society,日本文化與社會,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC1271,UGEC,1271,Jas Pop Cul in Cul Global,日本流行文化與文化全球化,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC1281,UGEC,1281,Understanding Jas Lang & Cult,日本語言文化面面觀,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC1302,UGEC,1302,Japanese Cinema,日本電影,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC1511,UGEC,1511,Perspectives in Economics,經濟學概觀,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC1512,UGEC,1512,Fundamentals of Government,政治學初基,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC1560,UGEC,1560,Basic Banking & Finance,銀行與金融概觀,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC1681,UGEC,1681,Humans and Culture,人類與文化,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC1835,UGEC,1835,Culture of Hong Kong,香港的文化,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC1885,UGEC,1885,Government of Hong Kong,香港政府,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC1920,UGEC,1920,Foundations in Public Health,公共衞生學基礎,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC2020,UGEC,2020,History of Macau: EW Cultures,澳門史：東西文化的匯聚,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC2022,UGEC,2022,Law & Heritage in Hong Kong,香港的法律與文化遺產,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC2041,UGEC,2041,Hist of Women in Modern China,近代中國婦女史,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC2117,UGEC,2117,Cities of the World,全球城市：城市發展的文化與歷史,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC2135,UGEC,2135,Decolonizing Classical Music,古典音樂的去殖民化,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC2171,UGEC,2171,Sustainable Development,可持續發展,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC2188,UGEC,2188,Hong Kong English,香港英語及其文化,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC2189,UGEC,2189,World EnglishesTheir Cultures,世界英語及其文化,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC2192,UGEC,2192,Understanding Ecotourism,生態旅遊探索,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC2201,UGEC,2201,Pursuit of Ideal Living Enviro,理想人居環境的追尋,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC2241,UGEC,2241,Hong Kong Cinema,香港電影,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC2273,UGEC,2273,Feminisms: Thoughts & Movement,女權主義：思想與運動,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC2353,UGEC,2353,World Economic Order,世界經濟秩序,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC2436,UGEC,2436,Emotional Landscapes in China,當代中國社會的情感經驗,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC2610,UGEC,2610,International Politics,國際政治,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC2656,UGEC,2656,Working Cultures,工作文化 - 認識廿十一世紀的,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC2821,UGEC,2821,Cultural Per of Chi Med,中醫藥之文化內涵,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC2853,UGEC,2853,Sexuality and Culture,性與文化,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC2858,UGEC,2858,Animals & Soc: A PHI Approach,動物與社會：哲學研究,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC2883,UGEC,2883,Eco Ref'm & Soc Impacts in Chi,中國的經濟改革與社會影響,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC2910,UGEC,2910,"Money, Land and Housing",金錢、土地與房屋,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC2941,UGEC,2941,Islam in HK,伊斯蘭在香港,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC2945,UGEC,2945,History of Hong Kong,香港史,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC3215,UGEC,3215,Media Representations,少數族群在香港的媒體呈現,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC3224,UGEC,3224,Family and Society,家庭與社會,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC3483,UGEC,3483,Korean Media & Popular Culture,韓國媒體與大眾文化,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGEC3893,UGEC,3893,Intro. to Global Sociology,全球社會學導論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGED1084,UGED,1084,Understanding Musicals,音樂劇賞析：從百老匯出發,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGED1111,UGED,1111,Logic,邏輯,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGED1112,UGED,1112,Logic and Argumentation,邏輯與論辯,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGED1146,UGED,1146,"Chi Lang, Cul & Lang Learning",中國語言及文化與語言學習,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGED1252,UGED,1252,The Successful Self,成功自我,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGED1400,UGED,1400,World Religions,世界宗教,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGED1520,UGED,1520,Study of Christianity,基督宗教研究,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGED1553,UGED,1553,Live to Flourish,豐盛人生：正向心理學的理論與實,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGED1554,UGED,1554,Positive Psy in Everyday,正向心理學的生活應用,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGED1600,UGED,1600,Choices in Life:Self Develop’t,生命的選擇：個人成長之旅,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGED1651,UGED,1651,"Movies, Life and Social Work",電影、人生與社工,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGED1796,UGED,1796,Anatomy of an Entrepreneur,創業家解構,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGED1810,UGED,1810,Critical Thinking,批判思考,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGED1815,UGED,1815,Philosophy as a Way of Life,哲學與生活之道,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGED1997,UGED,1997,Understanding Hearing Loss,認識聽力損失,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGED1998,UGED,1998,Understand ADHD,認識注意力不足/過度活躍症與腦,1,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGED2133,UGED,2133,Music in Film,電影中的音樂,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGED2172,UGED,2172,Existentialism and Literature,存在主義與文學作品,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGED2194,UGED,2194,Children's Literature,兒童文學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGED2197,UGED,2197,Gods Behaving Badly,神之惡：世界神話與傳說,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGED2261,UGED,2261,Philosophy and Human Life,哲學與人生,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGED2327,UGED,2327,"""The Book of Changes"" & Wisdom 《",易經》與人生智慧,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGED2338,UGED,2338,Reading Chinese Painting,閱讀中國繪畫,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGED2637,UGED,2637,Understanding Movies,認識電影,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGED2666,UGED,2666,Ethics and Experience,倫理與人類體驗,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGED2852,UGED,2852,Freedom and Destiny,自由與命運,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGED2891,UGED,2891,Philosophy of Love,愛情哲學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGED2892,UGED,2892,Philosophy of Travel,旅行哲學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGED2901,UGED,2901,Death and Immortality,死亡與不朽,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGED2921,UGED,2921,"Philosophy, Film and Life",哲學、電影與人生,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGED2923,UGED,2923,Sign Lang & Deaf Communities,探索手語及聾人社群,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGED2980,UGED,2980,Meanings of Life,生活的意義,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGED3322,UGED,3322,Buddhism and Contemporary Life,佛教與現代生活,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGFH1000,UGFH,1000,In Dialogue with Humanity,與人文對話,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+UGFN1000,UGFN,1000,In Dialogue With Nature,與自然對話,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+URSP1001,URSP,1001,Introduction to Urban Studies,城巿研究導論,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+URSP2001,URSP,2001,Field Studies,實地考察,2,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+URSP2040,URSP,2040,Real Estate Construction Econ,房地產和建築經濟學,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+URSP2060,URSP,2060,Understand City Thr Field Trip,城市遊方,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+URSP2100,URSP,2100,Urban Sustainability,城市可持續發展,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+URSP2300,URSP,2300,Urban Design and Place Making,城巿設計及地方營造工作室,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+URSP2400,URSP,2400,Studies of Cities,城巿比較研究,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+URSP2700,URSP,2700,Urban Visualisation Studio,城市視覺化工作室,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+URSP2800,URSP,2800,UrbFormSenseofPlaceWell-being,城市面貌，地方感和身心社靈健康,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+URSP3400,URSP,3400,Essentials of Land Dev Process,土地發展過程綱要,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+URSP3600,URSP,3600,Designing Smart Cities,設計智慧城市,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+URSP4001,URSP,4001,Capstone Thesis I,城市研究畢業論文（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+URSP4003,URSP,4003,Capstone Project I,城市研究畢業報告（一）,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1
+URSP4100,URSP,4100,Urban Planning TheoryPractice,城市規劃理論與實踐,3,not_collected,2026-08-15T01-53-13+08-00-full-term-1

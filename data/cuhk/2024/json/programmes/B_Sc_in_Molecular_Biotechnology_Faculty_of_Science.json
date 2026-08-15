@@ -1,0 +1,1722 @@
+{
+  "programme_id": "B_Sc_in_Molecular_Biotechnology__Faculty_of_Science",
+  "academic_program": "B.Sc. in Molecular Biotechnology",
+  "faculty": "Faculty of Science",
+  "academic_year": 2024,
+  "admission_cohort": "2024-25",
+  "requirement_summary": {
+    "minimum_units_as_printed": "a minimum of 66[a] units",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Faculty Package",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "LSCI1002",
+            "prefix_inferred": false,
+            "evidence": "Group A: LSCI1002"
+          },
+          {
+            "course_code": "CHEM1280",
+            "prefix_inferred": false,
+            "evidence": "Group B: CHEM1280 (preferred) or 1070"
+          },
+          {
+            "course_code": "CHEM1070",
+            "prefix_inferred": true,
+            "evidence": "Group B: CHEM1280 (preferred) or 1070"
+          },
+          {
+            "course_code": "MATH1520",
+            "prefix_inferred": false,
+            "evidence": "Group C: MATH1520 (preferred) or 1010 or 1018"
+          },
+          {
+            "course_code": "MATH1010",
+            "prefix_inferred": true,
+            "evidence": "Group C: MATH1520 (preferred) or 1010 or 1018"
+          },
+          {
+            "course_code": "MATH1018",
+            "prefix_inferred": true,
+            "evidence": "Group C: MATH1520 (preferred) or 1010 or 1018"
+          },
+          {
+            "course_code": "PHYS1001",
+            "prefix_inferred": false,
+            "evidence": "Group D: (PHYS1001 or 1002) (preferred) or 1111"
+          },
+          {
+            "course_code": "PHYS1002",
+            "prefix_inferred": true,
+            "evidence": "Group D: (PHYS1001 or 1002) (preferred) or 1111"
+          },
+          {
+            "course_code": "PHYS1111",
+            "prefix_inferred": true,
+            "evidence": "Group D: (PHYS1001 or 1002) (preferred) or 1111"
+          },
+          {
+            "course_code": "STAT1012",
+            "prefix_inferred": false,
+            "evidence": "Group E: STAT1012 (preferred) or 1011"
+          },
+          {
+            "course_code": "STAT1011",
+            "prefix_inferred": true,
+            "evidence": "Group E: STAT1012 (preferred) or 1011"
+          }
+        ],
+        "raw_text": "9\nGroup A: LSCI1002\nGroup B: CHEM1280 (preferred) or 1070\nA course from the following\nGroup C: MATH1520 (preferred) or 1010 or 1018\nGroup D: (PHYS1001 or 1002) (preferred) or 1111\nGroup E: STAT1012 (preferred) or 1011"
+      },
+      {
+        "number": 2,
+        "title": "Required Courses",
+        "units_as_printed": "44",
+        "course_mentions": [
+          {
+            "course_code": "BCHE2030",
+            "prefix_inferred": false,
+            "evidence": "BCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#, LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530"
+          },
+          {
+            "course_code": "BCHE3030",
+            "prefix_inferred": true,
+            "evidence": "BCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#, LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530"
+          },
+          {
+            "course_code": "BCHE3050",
+            "prefix_inferred": true,
+            "evidence": "BCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#, LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530"
+          },
+          {
+            "course_code": "BIOL2120",
+            "prefix_inferred": false,
+            "evidence": "BCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#, LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530"
+          },
+          {
+            "course_code": "BIOL2313",
+            "prefix_inferred": true,
+            "evidence": "BCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#, LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530"
+          },
+          {
+            "course_code": "BIOL2410",
+            "prefix_inferred": true,
+            "evidence": "BCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#, LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530"
+          },
+          {
+            "course_code": "BIOL3410",
+            "prefix_inferred": true,
+            "evidence": "BCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#, LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530"
+          },
+          {
+            "course_code": "LSCI2002",
+            "prefix_inferred": false,
+            "evidence": "BCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#, LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530"
+          },
+          {
+            "course_code": "MBTE2000",
+            "prefix_inferred": false,
+            "evidence": "BCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#, LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530"
+          },
+          {
+            "course_code": "MBTE2010",
+            "prefix_inferred": true,
+            "evidence": "BCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#, LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530"
+          },
+          {
+            "course_code": "MBTE3000",
+            "prefix_inferred": true,
+            "evidence": "BCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#, LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530"
+          },
+          {
+            "course_code": "MBTE3510",
+            "prefix_inferred": true,
+            "evidence": "BCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#, LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530"
+          },
+          {
+            "course_code": "MBTE3550",
+            "prefix_inferred": true,
+            "evidence": "BCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#, LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530"
+          },
+          {
+            "course_code": "MBTE4033",
+            "prefix_inferred": true,
+            "evidence": "BCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#, LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530"
+          },
+          {
+            "course_code": "MBTE4034",
+            "prefix_inferred": true,
+            "evidence": "BCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#, LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530"
+          },
+          {
+            "course_code": "MBTE4320",
+            "prefix_inferred": true,
+            "evidence": "BCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#, LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530"
+          },
+          {
+            "course_code": "MBTE4510",
+            "prefix_inferred": true,
+            "evidence": "BCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#, LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530"
+          },
+          {
+            "course_code": "MBTE4520",
+            "prefix_inferred": true,
+            "evidence": "BCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#, LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530"
+          },
+          {
+            "course_code": "MBTE4530",
+            "prefix_inferred": true,
+            "evidence": "BCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#, LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530"
+          }
+        ],
+        "raw_text": "44\nBCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#, LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530"
+      },
+      {
+        "number": 3,
+        "title": "Capstone Courses and Elective Courses",
+        "units_as_printed": "13",
+        "course_mentions": [
+          {
+            "course_code": "LSCI4000",
+            "prefix_inferred": false,
+            "evidence": "3-6 units from LSCI4000#, 4911#, 4912#, 4913#, MBTE4901, 4902, 4903, 4906"
+          },
+          {
+            "course_code": "LSCI4911",
+            "prefix_inferred": true,
+            "evidence": "3-6 units from LSCI4000#, 4911#, 4912#, 4913#, MBTE4901, 4902, 4903, 4906"
+          },
+          {
+            "course_code": "LSCI4912",
+            "prefix_inferred": true,
+            "evidence": "3-6 units from LSCI4000#, 4911#, 4912#, 4913#, MBTE4901, 4902, 4903, 4906"
+          },
+          {
+            "course_code": "LSCI4913",
+            "prefix_inferred": true,
+            "evidence": "3-6 units from LSCI4000#, 4911#, 4912#, 4913#, MBTE4901, 4902, 4903, 4906"
+          },
+          {
+            "course_code": "MBTE4901",
+            "prefix_inferred": false,
+            "evidence": "3-6 units from LSCI4000#, 4911#, 4912#, 4913#, MBTE4901, 4902, 4903, 4906"
+          },
+          {
+            "course_code": "MBTE4902",
+            "prefix_inferred": true,
+            "evidence": "3-6 units from LSCI4000#, 4911#, 4912#, 4913#, MBTE4901, 4902, 4903, 4906"
+          },
+          {
+            "course_code": "MBTE4903",
+            "prefix_inferred": true,
+            "evidence": "3-6 units from LSCI4000#, 4911#, 4912#, 4913#, MBTE4901, 4902, 4903, 4906"
+          },
+          {
+            "course_code": "MBTE4906",
+            "prefix_inferred": true,
+            "evidence": "3-6 units from LSCI4000#, 4911#, 4912#, 4913#, MBTE4901, 4902, 4903, 4906"
+          },
+          {
+            "course_code": "BCHE3040",
+            "prefix_inferred": false,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          },
+          {
+            "course_code": "BCHE3080",
+            "prefix_inferred": true,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          },
+          {
+            "course_code": "BCHE4030",
+            "prefix_inferred": true,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          },
+          {
+            "course_code": "BCHE4060",
+            "prefix_inferred": true,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          },
+          {
+            "course_code": "BCHE4080",
+            "prefix_inferred": true,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          },
+          {
+            "course_code": "BCHE4090",
+            "prefix_inferred": true,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          },
+          {
+            "course_code": "BIOL2420",
+            "prefix_inferred": false,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          },
+          {
+            "course_code": "BIOL3310",
+            "prefix_inferred": true,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          },
+          {
+            "course_code": "BIOL3420",
+            "prefix_inferred": true,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          },
+          {
+            "course_code": "BIOL3530",
+            "prefix_inferred": true,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          },
+          {
+            "course_code": "BIOL3630",
+            "prefix_inferred": true,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          },
+          {
+            "course_code": "BIOL4120",
+            "prefix_inferred": true,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          },
+          {
+            "course_code": "BIOL4310",
+            "prefix_inferred": true,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          },
+          {
+            "course_code": "BIOL4520",
+            "prefix_inferred": true,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          },
+          {
+            "course_code": "BIOL4610",
+            "prefix_inferred": true,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          },
+          {
+            "course_code": "BMEG2001",
+            "prefix_inferred": false,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          },
+          {
+            "course_code": "BMEG2011",
+            "prefix_inferred": true,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          },
+          {
+            "course_code": "CMBI3101",
+            "prefix_inferred": false,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          },
+          {
+            "course_code": "CMBI4001",
+            "prefix_inferred": true,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          },
+          {
+            "course_code": "CMBI4002",
+            "prefix_inferred": true,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          },
+          {
+            "course_code": "CMBI4003",
+            "prefix_inferred": true,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          },
+          {
+            "course_code": "CMBI4101",
+            "prefix_inferred": true,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          },
+          {
+            "course_code": "CMBI4102",
+            "prefix_inferred": true,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          },
+          {
+            "course_code": "CMBI4103",
+            "prefix_inferred": true,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          },
+          {
+            "course_code": "CMBI4201",
+            "prefix_inferred": true,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          },
+          {
+            "course_code": "CMBI4202",
+            "prefix_inferred": true,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          },
+          {
+            "course_code": "CMBI4203",
+            "prefix_inferred": true,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          },
+          {
+            "course_code": "CMBI4301",
+            "prefix_inferred": true,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          },
+          {
+            "course_code": "CMBI4302",
+            "prefix_inferred": true,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          },
+          {
+            "course_code": "CMBI4303",
+            "prefix_inferred": true,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          },
+          {
+            "course_code": "LSCI1012",
+            "prefix_inferred": false,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          },
+          {
+            "course_code": "LSCI2003",
+            "prefix_inferred": true,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          },
+          {
+            "course_code": "LSCI3012",
+            "prefix_inferred": true,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          },
+          {
+            "course_code": "LSCI3030",
+            "prefix_inferred": true,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          },
+          {
+            "course_code": "LSCI3333",
+            "prefix_inferred": true,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          },
+          {
+            "course_code": "LSCI3520",
+            "prefix_inferred": true,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          },
+          {
+            "course_code": "STAT3210",
+            "prefix_inferred": false,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          },
+          {
+            "course_code": "MBTE3518",
+            "prefix_inferred": false,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          },
+          {
+            "course_code": "MBTE3558",
+            "prefix_inferred": true,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          },
+          {
+            "course_code": "MBTE3568",
+            "prefix_inferred": true,
+            "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+          }
+        ],
+        "raw_text": "13\n(a)\nCapstone Courses:\n3-6 units from LSCI4000#, 4911#, 4912#, 4913#, MBTE4901, 4902, 4903, 4906\n(b)\nElective Courses:\nRemaining units can be chosen from the following courses:\nBCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568\nTotal:\n66[a]\nIn addition to fulfilling the above Major Programme Requirement, students meeting the criteria as specified by the Faculty can take the following stream offered by the Faculty:\nScience, Technology And Research Stream\nStudents are required to complete a minimum of 12 units of courses as follows:\nUnits"
+      },
+      {
+        "number": 1,
+        "title": "Required Courses",
+        "units_as_printed": "3",
+        "course_mentions": [
+          {
+            "course_code": "STAR2000",
+            "prefix_inferred": false,
+            "evidence": "STAR2000, 3000, 4000[b]"
+          },
+          {
+            "course_code": "STAR3000",
+            "prefix_inferred": true,
+            "evidence": "STAR2000, 3000, 4000[b]"
+          },
+          {
+            "course_code": "STAR4000",
+            "prefix_inferred": true,
+            "evidence": "STAR2000, 3000, 4000[b]"
+          },
+          {
+            "course_code": "STAR2050",
+            "prefix_inferred": false,
+            "evidence": "STAR2050, 3050, 4050"
+          },
+          {
+            "course_code": "STAR3050",
+            "prefix_inferred": true,
+            "evidence": "STAR2050, 3050, 4050"
+          },
+          {
+            "course_code": "STAR4050",
+            "prefix_inferred": true,
+            "evidence": "STAR2050, 3050, 4050"
+          }
+        ],
+        "raw_text": "(a)\nOne Faculty Package Course:\n3\nChoose from the two remaining groups of the Faculty Package that have not been used to fulfill the Faculty Package Requirement\n(b)\nResearch Courses:\n6\nSTAR2000, 3000, 4000[b]\n(c)\nSeminar Courses:\n3\nSTAR2050, 3050, 4050"
+      },
+      {
+        "number": 2,
+        "title": "Experiential Learning",
+        "units_as_printed": "12",
+        "course_mentions": [],
+        "raw_text": "---\nAt least 4 consecutive weeks of outside Hong Kong exposure[c]\nTotal:\n12\nExplanatory Notes:"
+      },
+      {
+        "number": 1,
+        "title": "Required Courses",
+        "units_as_printed": "3",
+        "course_mentions": [
+          {
+            "course_code": "MBTE4320",
+            "prefix_inferred": false,
+            "evidence": "MBTE4320"
+          },
+          {
+            "course_code": "BCHE2030",
+            "prefix_inferred": false,
+            "evidence": "BCHE2030, BIOL2120, 2410, LSCI1003 or SBMS1440"
+          },
+          {
+            "course_code": "BIOL2120",
+            "prefix_inferred": false,
+            "evidence": "BCHE2030, BIOL2120, 2410, LSCI1003 or SBMS1440"
+          },
+          {
+            "course_code": "BIOL2410",
+            "prefix_inferred": true,
+            "evidence": "BCHE2030, BIOL2120, 2410, LSCI1003 or SBMS1440"
+          },
+          {
+            "course_code": "LSCI1003",
+            "prefix_inferred": false,
+            "evidence": "BCHE2030, BIOL2120, 2410, LSCI1003 or SBMS1440"
+          },
+          {
+            "course_code": "SBMS1440",
+            "prefix_inferred": false,
+            "evidence": "BCHE2030, BIOL2120, 2410, LSCI1003 or SBMS1440"
+          }
+        ],
+        "raw_text": "(a)\nMBTE4320\n3\n(b)\nBCHE2030, BIOL2120, 2410, LSCI1003 or SBMS1440\n1 or 2"
+      },
+      {
+        "number": 2,
+        "title": "Elective Courses",
+        "units_as_printed": "19",
+        "course_mentions": [
+          {
+            "course_code": "MBTE2000",
+            "prefix_inferred": false,
+            "evidence": "MBTE2000, 2010, 3000, 3510, 3511, 3518, 3521, 3528, 3531, 3550, 3558, 3560, 3568, 4033, 4034, 4510, 4520, 4530"
+          },
+          {
+            "course_code": "MBTE2010",
+            "prefix_inferred": true,
+            "evidence": "MBTE2000, 2010, 3000, 3510, 3511, 3518, 3521, 3528, 3531, 3550, 3558, 3560, 3568, 4033, 4034, 4510, 4520, 4530"
+          },
+          {
+            "course_code": "MBTE3000",
+            "prefix_inferred": true,
+            "evidence": "MBTE2000, 2010, 3000, 3510, 3511, 3518, 3521, 3528, 3531, 3550, 3558, 3560, 3568, 4033, 4034, 4510, 4520, 4530"
+          },
+          {
+            "course_code": "MBTE3510",
+            "prefix_inferred": true,
+            "evidence": "MBTE2000, 2010, 3000, 3510, 3511, 3518, 3521, 3528, 3531, 3550, 3558, 3560, 3568, 4033, 4034, 4510, 4520, 4530"
+          },
+          {
+            "course_code": "MBTE3511",
+            "prefix_inferred": true,
+            "evidence": "MBTE2000, 2010, 3000, 3510, 3511, 3518, 3521, 3528, 3531, 3550, 3558, 3560, 3568, 4033, 4034, 4510, 4520, 4530"
+          },
+          {
+            "course_code": "MBTE3518",
+            "prefix_inferred": true,
+            "evidence": "MBTE2000, 2010, 3000, 3510, 3511, 3518, 3521, 3528, 3531, 3550, 3558, 3560, 3568, 4033, 4034, 4510, 4520, 4530"
+          },
+          {
+            "course_code": "MBTE3521",
+            "prefix_inferred": true,
+            "evidence": "MBTE2000, 2010, 3000, 3510, 3511, 3518, 3521, 3528, 3531, 3550, 3558, 3560, 3568, 4033, 4034, 4510, 4520, 4530"
+          },
+          {
+            "course_code": "MBTE3528",
+            "prefix_inferred": true,
+            "evidence": "MBTE2000, 2010, 3000, 3510, 3511, 3518, 3521, 3528, 3531, 3550, 3558, 3560, 3568, 4033, 4034, 4510, 4520, 4530"
+          },
+          {
+            "course_code": "MBTE3531",
+            "prefix_inferred": true,
+            "evidence": "MBTE2000, 2010, 3000, 3510, 3511, 3518, 3521, 3528, 3531, 3550, 3558, 3560, 3568, 4033, 4034, 4510, 4520, 4530"
+          },
+          {
+            "course_code": "MBTE3550",
+            "prefix_inferred": true,
+            "evidence": "MBTE2000, 2010, 3000, 3510, 3511, 3518, 3521, 3528, 3531, 3550, 3558, 3560, 3568, 4033, 4034, 4510, 4520, 4530"
+          },
+          {
+            "course_code": "MBTE3558",
+            "prefix_inferred": true,
+            "evidence": "MBTE2000, 2010, 3000, 3510, 3511, 3518, 3521, 3528, 3531, 3550, 3558, 3560, 3568, 4033, 4034, 4510, 4520, 4530"
+          },
+          {
+            "course_code": "MBTE3560",
+            "prefix_inferred": true,
+            "evidence": "MBTE2000, 2010, 3000, 3510, 3511, 3518, 3521, 3528, 3531, 3550, 3558, 3560, 3568, 4033, 4034, 4510, 4520, 4530"
+          },
+          {
+            "course_code": "MBTE3568",
+            "prefix_inferred": true,
+            "evidence": "MBTE2000, 2010, 3000, 3510, 3511, 3518, 3521, 3528, 3531, 3550, 3558, 3560, 3568, 4033, 4034, 4510, 4520, 4530"
+          },
+          {
+            "course_code": "MBTE4033",
+            "prefix_inferred": true,
+            "evidence": "MBTE2000, 2010, 3000, 3510, 3511, 3518, 3521, 3528, 3531, 3550, 3558, 3560, 3568, 4033, 4034, 4510, 4520, 4530"
+          },
+          {
+            "course_code": "MBTE4034",
+            "prefix_inferred": true,
+            "evidence": "MBTE2000, 2010, 3000, 3510, 3511, 3518, 3521, 3528, 3531, 3550, 3558, 3560, 3568, 4033, 4034, 4510, 4520, 4530"
+          },
+          {
+            "course_code": "MBTE4510",
+            "prefix_inferred": true,
+            "evidence": "MBTE2000, 2010, 3000, 3510, 3511, 3518, 3521, 3528, 3531, 3550, 3558, 3560, 3568, 4033, 4034, 4510, 4520, 4530"
+          },
+          {
+            "course_code": "MBTE4520",
+            "prefix_inferred": true,
+            "evidence": "MBTE2000, 2010, 3000, 3510, 3511, 3518, 3521, 3528, 3531, 3550, 3558, 3560, 3568, 4033, 4034, 4510, 4520, 4530"
+          },
+          {
+            "course_code": "MBTE4530",
+            "prefix_inferred": true,
+            "evidence": "MBTE2000, 2010, 3000, 3510, 3511, 3518, 3521, 3528, 3531, 3550, 3558, 3560, 3568, 4033, 4034, 4510, 4520, 4530"
+          },
+          {
+            "course_code": "MBTE2000",
+            "prefix_inferred": false,
+            "evidence": "MBTE2000"
+          },
+          {
+            "course_code": "MBTE2010",
+            "prefix_inferred": false,
+            "evidence": "MBTE2010"
+          },
+          {
+            "course_code": "MBTE3000",
+            "prefix_inferred": false,
+            "evidence": "MBTE3000"
+          },
+          {
+            "course_code": "MBTE3510",
+            "prefix_inferred": false,
+            "evidence": "MBTE3510"
+          },
+          {
+            "course_code": "MBTE3511",
+            "prefix_inferred": false,
+            "evidence": "MBTE3511*"
+          },
+          {
+            "course_code": "MBTE3518",
+            "prefix_inferred": false,
+            "evidence": "MBTE3518"
+          },
+          {
+            "course_code": "MBTE3521",
+            "prefix_inferred": false,
+            "evidence": "MBTE3521*"
+          },
+          {
+            "course_code": "MBTE3528",
+            "prefix_inferred": false,
+            "evidence": "MBTE3528*"
+          },
+          {
+            "course_code": "MBTE3531",
+            "prefix_inferred": false,
+            "evidence": "MBTE3531*"
+          },
+          {
+            "course_code": "MBTE3550",
+            "prefix_inferred": false,
+            "evidence": "MBTE3550"
+          },
+          {
+            "course_code": "MBTE3558",
+            "prefix_inferred": false,
+            "evidence": "MBTE3558"
+          },
+          {
+            "course_code": "MBTE3560",
+            "prefix_inferred": false,
+            "evidence": "MBTE3560*"
+          },
+          {
+            "course_code": "MBTE3568",
+            "prefix_inferred": false,
+            "evidence": "MBTE3568"
+          },
+          {
+            "course_code": "MBTE4033",
+            "prefix_inferred": false,
+            "evidence": "MBTE4033"
+          },
+          {
+            "course_code": "MBTE4034",
+            "prefix_inferred": false,
+            "evidence": "MBTE4034"
+          },
+          {
+            "course_code": "MBTE4320",
+            "prefix_inferred": false,
+            "evidence": "MBTE4320"
+          },
+          {
+            "course_code": "MBTE4510",
+            "prefix_inferred": false,
+            "evidence": "MBTE4510"
+          },
+          {
+            "course_code": "MBTE4520",
+            "prefix_inferred": false,
+            "evidence": "MBTE4520"
+          },
+          {
+            "course_code": "MBTE4530",
+            "prefix_inferred": false,
+            "evidence": "MBTE4530"
+          },
+          {
+            "course_code": "MBTE4901",
+            "prefix_inferred": false,
+            "evidence": "MBTE4901"
+          },
+          {
+            "course_code": "MBTE4902",
+            "prefix_inferred": false,
+            "evidence": "MBTE4902"
+          },
+          {
+            "course_code": "MBTE4903",
+            "prefix_inferred": false,
+            "evidence": "MBTE4903"
+          },
+          {
+            "course_code": "MBTE4906",
+            "prefix_inferred": false,
+            "evidence": "MBTE4906"
+          },
+          {
+            "course_code": "STAR2000",
+            "prefix_inferred": false,
+            "evidence": "STAR2000"
+          },
+          {
+            "course_code": "STAR2050",
+            "prefix_inferred": false,
+            "evidence": "STAR2050"
+          },
+          {
+            "course_code": "STAR3000",
+            "prefix_inferred": false,
+            "evidence": "STAR3000"
+          },
+          {
+            "course_code": "STAR3050",
+            "prefix_inferred": false,
+            "evidence": "STAR3050"
+          },
+          {
+            "course_code": "STAR4000",
+            "prefix_inferred": false,
+            "evidence": "STAR4000"
+          },
+          {
+            "course_code": "STAR4050",
+            "prefix_inferred": false,
+            "evidence": "STAR4050"
+          }
+        ],
+        "raw_text": "14 or 15\nMBTE2000, 2010, 3000, 3510, 3511, 3518, 3521, 3528, 3531, 3550, 3558, 3560, 3568, 4033, 4034, 4510, 4520, 4530\nTotal:\n19\nCourse List\nCourse Code\nCourse Title\nUnit(s)\nMBTE2000\nIntroduction to Molecular Biotechnology\n2\nMBTE2010\nDiversity of Life: Applications and Sustainability\n2\nMBTE3000\nBusiness and Social Aspects of Biotechnology\n3\nMBTE3510\nMedical Biotechnology\n1\nMBTE3511*\nIndustrial Applications of Plant Genetic Modification\n1\nMBTE3518\nProject in Medical Biotechnology\n2\nMBTE3521*\nTransgenic Technologies in Animals and their Applications\n1\nMBTE3528*\nProject in Transgenic Technologies in Animals and their Applications\n2\nMBTE3531*\nMicrobes and Bioremediation\n1\nMBTE3550\nBiotechnology for Environment and Sustainability\n1\nMBTE3558\nProject in Biotechnology for Environment and Sustainability\n2\nMBTE3560*\nProtein Engineering and Drug Design\n1\nMBTE3568\nProject of Protein Engineering and Drug Design\n2\nMBTE4033\nMethods in Molecular Biotechnology Laboratory I\n2\nMBTE4034\nMethods in Molecular Biotechnology Laboratory II\n2\nMBTE4320\nGenetic Engineering\n3\nMBTE4510\nPlant Biotechnology\n3\nMBTE4520\nAnimal Biotechnology\n3\nMBTE4530\nMicrobial Biotechnology\n3\nMBTE4901\nSenior Experimental Project I\n2\nMBTE4902\nSenior Experimental Project II\n2\nMBTE4903\nSenior Experimental Project III\n2\nMBTE4906\nInternship\n2\nSTAR2000\nUndergraduate Research in Science I\n1\nSTAR2050\nSeminar I\n1\nSTAR3000\nUndergraduate Research in Science II\n2\nSTAR3050\nSeminar II\n1\nSTAR4000\nUndergraduate Research in Science III\n3\nSTAR4050\nSeminar III\n1\nRemarks: * Not for Molecular Biotechnology major students.\nStudy Scheme\nLearning Outcomes"
+      },
+      {
+        "number": 1,
+        "title": "Major Programme",
+        "units_as_printed": null,
+        "course_mentions": [],
+        "raw_text": "Knowledge outcomes:\n(1)\nSolid foundation in life science, including model organisms, fundamental biochemistry, cell biology and genetics;\n(2)\nCore knowledge in methods in biochemistry, molecular biology, genetic engineering, microbial biotechnology, plant biotechnology and animal biotechnology;\n(3)\nIn-depth knowledge in some specific areas, such as bioinformatics, protein biochemistry and proteomics, developmental biology, physiology;\n(4)\nHands-on operational ability in basic skills of molecular biotechnology;\n(5)\nAn educated understanding on the business and social implications of biotechnology, such as government policy, management, intellectual property, and ethical and public concerns.\nSkills outcomes:\n(1)\nSkills in logical and critical thinking;\n(2)\nAnalytical skills (qualitative and quantitative) and problem-solving ability;\n(3)\nAbility in oral and written communication;\n(4)\nCompetence in using information technologies and basic computer skills.\nValues and attribute outcomes:\n(1)\nA positive attitude toward life science, especially molecular biotechnology;\n(2)\nAn educated mind and responsible attitude to judge the pros and cons of various applications of molecular biotechnology on human society and natural environment."
+      },
+      {
+        "number": 2,
+        "title": "Minor Programme",
+        "units_as_printed": null,
+        "course_mentions": [],
+        "raw_text": "Upon the completion of the Minor Programme, students will have demonstrated basic understanding of fundamental issues related to the subject, acquired knowledge of some aspects of the subject with sufficient exposure and at a suitable level to allow further study in this subject or related subjects or to pursue a related career."
+      }
+    ]
+  },
+  "all_course_mentions": [
+    {
+      "course_code": "LSCI1002",
+      "prefix_inferred": false,
+      "evidence": "Group A: LSCI1002"
+    },
+    {
+      "course_code": "CHEM1280",
+      "prefix_inferred": false,
+      "evidence": "Group B: CHEM1280 (preferred) or 1070"
+    },
+    {
+      "course_code": "CHEM1070",
+      "prefix_inferred": true,
+      "evidence": "Group B: CHEM1280 (preferred) or 1070"
+    },
+    {
+      "course_code": "MATH1520",
+      "prefix_inferred": false,
+      "evidence": "Group C: MATH1520 (preferred) or 1010 or 1018"
+    },
+    {
+      "course_code": "MATH1010",
+      "prefix_inferred": true,
+      "evidence": "Group C: MATH1520 (preferred) or 1010 or 1018"
+    },
+    {
+      "course_code": "MATH1018",
+      "prefix_inferred": true,
+      "evidence": "Group C: MATH1520 (preferred) or 1010 or 1018"
+    },
+    {
+      "course_code": "PHYS1001",
+      "prefix_inferred": false,
+      "evidence": "Group D: (PHYS1001 or 1002) (preferred) or 1111"
+    },
+    {
+      "course_code": "PHYS1002",
+      "prefix_inferred": true,
+      "evidence": "Group D: (PHYS1001 or 1002) (preferred) or 1111"
+    },
+    {
+      "course_code": "PHYS1111",
+      "prefix_inferred": true,
+      "evidence": "Group D: (PHYS1001 or 1002) (preferred) or 1111"
+    },
+    {
+      "course_code": "STAT1012",
+      "prefix_inferred": false,
+      "evidence": "Group E: STAT1012 (preferred) or 1011"
+    },
+    {
+      "course_code": "STAT1011",
+      "prefix_inferred": true,
+      "evidence": "Group E: STAT1012 (preferred) or 1011"
+    },
+    {
+      "course_code": "BCHE2030",
+      "prefix_inferred": false,
+      "evidence": "BCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#, LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530"
+    },
+    {
+      "course_code": "BCHE3030",
+      "prefix_inferred": true,
+      "evidence": "BCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#, LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530"
+    },
+    {
+      "course_code": "BCHE3050",
+      "prefix_inferred": true,
+      "evidence": "BCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#, LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530"
+    },
+    {
+      "course_code": "BIOL2120",
+      "prefix_inferred": false,
+      "evidence": "BCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#, LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530"
+    },
+    {
+      "course_code": "BIOL2313",
+      "prefix_inferred": true,
+      "evidence": "BCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#, LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530"
+    },
+    {
+      "course_code": "BIOL2410",
+      "prefix_inferred": true,
+      "evidence": "BCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#, LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530"
+    },
+    {
+      "course_code": "BIOL3410",
+      "prefix_inferred": true,
+      "evidence": "BCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#, LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530"
+    },
+    {
+      "course_code": "LSCI2002",
+      "prefix_inferred": false,
+      "evidence": "BCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#, LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530"
+    },
+    {
+      "course_code": "MBTE2000",
+      "prefix_inferred": false,
+      "evidence": "BCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#, LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530"
+    },
+    {
+      "course_code": "MBTE2010",
+      "prefix_inferred": true,
+      "evidence": "BCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#, LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530"
+    },
+    {
+      "course_code": "MBTE3000",
+      "prefix_inferred": true,
+      "evidence": "BCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#, LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530"
+    },
+    {
+      "course_code": "MBTE3510",
+      "prefix_inferred": true,
+      "evidence": "BCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#, LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530"
+    },
+    {
+      "course_code": "MBTE3550",
+      "prefix_inferred": true,
+      "evidence": "BCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#, LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530"
+    },
+    {
+      "course_code": "MBTE4033",
+      "prefix_inferred": true,
+      "evidence": "BCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#, LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530"
+    },
+    {
+      "course_code": "MBTE4034",
+      "prefix_inferred": true,
+      "evidence": "BCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#, LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530"
+    },
+    {
+      "course_code": "MBTE4320",
+      "prefix_inferred": true,
+      "evidence": "BCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#, LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530"
+    },
+    {
+      "course_code": "MBTE4510",
+      "prefix_inferred": true,
+      "evidence": "BCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#, LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530"
+    },
+    {
+      "course_code": "MBTE4520",
+      "prefix_inferred": true,
+      "evidence": "BCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#, LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530"
+    },
+    {
+      "course_code": "MBTE4530",
+      "prefix_inferred": true,
+      "evidence": "BCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#, LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530"
+    },
+    {
+      "course_code": "LSCI4000",
+      "prefix_inferred": false,
+      "evidence": "3-6 units from LSCI4000#, 4911#, 4912#, 4913#, MBTE4901, 4902, 4903, 4906"
+    },
+    {
+      "course_code": "LSCI4911",
+      "prefix_inferred": true,
+      "evidence": "3-6 units from LSCI4000#, 4911#, 4912#, 4913#, MBTE4901, 4902, 4903, 4906"
+    },
+    {
+      "course_code": "LSCI4912",
+      "prefix_inferred": true,
+      "evidence": "3-6 units from LSCI4000#, 4911#, 4912#, 4913#, MBTE4901, 4902, 4903, 4906"
+    },
+    {
+      "course_code": "LSCI4913",
+      "prefix_inferred": true,
+      "evidence": "3-6 units from LSCI4000#, 4911#, 4912#, 4913#, MBTE4901, 4902, 4903, 4906"
+    },
+    {
+      "course_code": "MBTE4901",
+      "prefix_inferred": false,
+      "evidence": "3-6 units from LSCI4000#, 4911#, 4912#, 4913#, MBTE4901, 4902, 4903, 4906"
+    },
+    {
+      "course_code": "MBTE4902",
+      "prefix_inferred": true,
+      "evidence": "3-6 units from LSCI4000#, 4911#, 4912#, 4913#, MBTE4901, 4902, 4903, 4906"
+    },
+    {
+      "course_code": "MBTE4903",
+      "prefix_inferred": true,
+      "evidence": "3-6 units from LSCI4000#, 4911#, 4912#, 4913#, MBTE4901, 4902, 4903, 4906"
+    },
+    {
+      "course_code": "MBTE4906",
+      "prefix_inferred": true,
+      "evidence": "3-6 units from LSCI4000#, 4911#, 4912#, 4913#, MBTE4901, 4902, 4903, 4906"
+    },
+    {
+      "course_code": "BCHE3040",
+      "prefix_inferred": false,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "BCHE3080",
+      "prefix_inferred": true,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "BCHE4030",
+      "prefix_inferred": true,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "BCHE4060",
+      "prefix_inferred": true,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "BCHE4080",
+      "prefix_inferred": true,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "BCHE4090",
+      "prefix_inferred": true,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "BIOL2420",
+      "prefix_inferred": false,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "BIOL3310",
+      "prefix_inferred": true,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "BIOL3420",
+      "prefix_inferred": true,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "BIOL3530",
+      "prefix_inferred": true,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "BIOL3630",
+      "prefix_inferred": true,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "BIOL4120",
+      "prefix_inferred": true,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "BIOL4310",
+      "prefix_inferred": true,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "BIOL4520",
+      "prefix_inferred": true,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "BIOL4610",
+      "prefix_inferred": true,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "BMEG2001",
+      "prefix_inferred": false,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "BMEG2011",
+      "prefix_inferred": true,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "CMBI3101",
+      "prefix_inferred": false,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "CMBI4001",
+      "prefix_inferred": true,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "CMBI4002",
+      "prefix_inferred": true,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "CMBI4003",
+      "prefix_inferred": true,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "CMBI4101",
+      "prefix_inferred": true,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "CMBI4102",
+      "prefix_inferred": true,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "CMBI4103",
+      "prefix_inferred": true,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "CMBI4201",
+      "prefix_inferred": true,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "CMBI4202",
+      "prefix_inferred": true,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "CMBI4203",
+      "prefix_inferred": true,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "CMBI4301",
+      "prefix_inferred": true,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "CMBI4302",
+      "prefix_inferred": true,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "CMBI4303",
+      "prefix_inferred": true,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "LSCI1012",
+      "prefix_inferred": false,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "LSCI2003",
+      "prefix_inferred": true,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "LSCI3012",
+      "prefix_inferred": true,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "LSCI3030",
+      "prefix_inferred": true,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "LSCI3333",
+      "prefix_inferred": true,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "LSCI3520",
+      "prefix_inferred": true,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "STAT3210",
+      "prefix_inferred": false,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "MBTE3518",
+      "prefix_inferred": false,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "MBTE3558",
+      "prefix_inferred": true,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "MBTE3568",
+      "prefix_inferred": true,
+      "evidence": "BCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568"
+    },
+    {
+      "course_code": "STAR2000",
+      "prefix_inferred": false,
+      "evidence": "STAR2000, 3000, 4000[b]"
+    },
+    {
+      "course_code": "STAR3000",
+      "prefix_inferred": true,
+      "evidence": "STAR2000, 3000, 4000[b]"
+    },
+    {
+      "course_code": "STAR4000",
+      "prefix_inferred": true,
+      "evidence": "STAR2000, 3000, 4000[b]"
+    },
+    {
+      "course_code": "STAR2050",
+      "prefix_inferred": false,
+      "evidence": "STAR2050, 3050, 4050"
+    },
+    {
+      "course_code": "STAR3050",
+      "prefix_inferred": true,
+      "evidence": "STAR2050, 3050, 4050"
+    },
+    {
+      "course_code": "STAR4050",
+      "prefix_inferred": true,
+      "evidence": "STAR2050, 3050, 4050"
+    },
+    {
+      "course_code": "BCHE2030",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BCHE2030, BIOL2120, LSCI2002"
+    },
+    {
+      "course_code": "BIOL2120",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BCHE2030, BIOL2120, LSCI2002"
+    },
+    {
+      "course_code": "LSCI2002",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BCHE2030, BIOL2120, LSCI2002"
+    },
+    {
+      "course_code": "LSCI2003",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): 0 course or LSCI2003"
+    },
+    {
+      "course_code": "BCHE3050",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BCHE3050, BIOL2313, 2410, MBTE2000, 2010"
+    },
+    {
+      "course_code": "BIOL2313",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BCHE3050, BIOL2313, 2410, MBTE2000, 2010"
+    },
+    {
+      "course_code": "BIOL2410",
+      "prefix_inferred": true,
+      "evidence": "Major Required: BCHE3050, BIOL2313, 2410, MBTE2000, 2010"
+    },
+    {
+      "course_code": "MBTE2000",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BCHE3050, BIOL2313, 2410, MBTE2000, 2010"
+    },
+    {
+      "course_code": "MBTE2010",
+      "prefix_inferred": true,
+      "evidence": "Major Required: BCHE3050, BIOL2313, 2410, MBTE2000, 2010"
+    },
+    {
+      "course_code": "BIOL3410",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BIOL3410, MBTE4033, 4320 , 4510; and"
+    },
+    {
+      "course_code": "MBTE4033",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BIOL3410, MBTE4033, 4320 , 4510; and"
+    },
+    {
+      "course_code": "MBTE4320",
+      "prefix_inferred": true,
+      "evidence": "Major Required: BIOL3410, MBTE4033, 4320 , 4510; and"
+    },
+    {
+      "course_code": "MBTE4510",
+      "prefix_inferred": true,
+      "evidence": "Major Required: BIOL3410, MBTE4033, 4320 , 4510; and"
+    },
+    {
+      "course_code": "MBTE3510",
+      "prefix_inferred": false,
+      "evidence": "1-2 course from MBTE3510, 3550"
+    },
+    {
+      "course_code": "MBTE3550",
+      "prefix_inferred": true,
+      "evidence": "1-2 course from MBTE3510, 3550"
+    },
+    {
+      "course_code": "BCHE3030",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BCHE3030, MBTE4034, 4520, 4530"
+    },
+    {
+      "course_code": "MBTE4034",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BCHE3030, MBTE4034, 4520, 4530"
+    },
+    {
+      "course_code": "MBTE4520",
+      "prefix_inferred": true,
+      "evidence": "Major Required: BCHE3030, MBTE4034, 4520, 4530"
+    },
+    {
+      "course_code": "MBTE4530",
+      "prefix_inferred": true,
+      "evidence": "Major Required: BCHE3030, MBTE4034, 4520, 4530"
+    },
+    {
+      "course_code": "LSCI4911",
+      "prefix_inferred": false,
+      "evidence": "Major Required: 0 course or LSCI4911 or MBTE4901 or 4906"
+    },
+    {
+      "course_code": "MBTE4901",
+      "prefix_inferred": false,
+      "evidence": "Major Required: 0 course or LSCI4911 or MBTE4901 or 4906"
+    },
+    {
+      "course_code": "MBTE4906",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 0 course or LSCI4911 or MBTE4901 or 4906"
+    },
+    {
+      "course_code": "MBTE3000",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MBTE3000, 4510 (if not taken);"
+    },
+    {
+      "course_code": "MBTE4510",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MBTE3000, 4510 (if not taken);"
+    },
+    {
+      "course_code": "MBTE3510",
+      "prefix_inferred": false,
+      "evidence": "1-2 course from MBTE3510, 3550 (if not taken);"
+    },
+    {
+      "course_code": "MBTE3550",
+      "prefix_inferred": true,
+      "evidence": "1-2 course from MBTE3510, 3550 (if not taken);"
+    },
+    {
+      "course_code": "LSCI4000",
+      "prefix_inferred": false,
+      "evidence": "and 0 course or LSCI4000 or 4912 or MBTE4902"
+    },
+    {
+      "course_code": "LSCI4912",
+      "prefix_inferred": true,
+      "evidence": "and 0 course or LSCI4000 or 4912 or MBTE4902"
+    },
+    {
+      "course_code": "MBTE4902",
+      "prefix_inferred": false,
+      "evidence": "and 0 course or LSCI4000 or 4912 or MBTE4902"
+    },
+    {
+      "course_code": "MBTE4520",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MBTE4520 (if not taken), 4530 (if not taken);"
+    },
+    {
+      "course_code": "MBTE4530",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MBTE4520 (if not taken), 4530 (if not taken);"
+    },
+    {
+      "course_code": "LSCI4000",
+      "prefix_inferred": false,
+      "evidence": "and 0 course or LSCI4000 (if not taken) or 4913 or MBTE4903"
+    },
+    {
+      "course_code": "LSCI4913",
+      "prefix_inferred": true,
+      "evidence": "and 0 course or LSCI4000 (if not taken) or 4913 or MBTE4903"
+    },
+    {
+      "course_code": "MBTE4903",
+      "prefix_inferred": false,
+      "evidence": "and 0 course or LSCI4000 (if not taken) or 4913 or MBTE4903"
+    },
+    {
+      "course_code": "STAR2050",
+      "prefix_inferred": false,
+      "evidence": "STARS: STAR2050"
+    },
+    {
+      "course_code": "STAR2050",
+      "prefix_inferred": false,
+      "evidence": "STARS: STAR2050 (if not taken)"
+    },
+    {
+      "course_code": "STAR2000",
+      "prefix_inferred": false,
+      "evidence": "STARS: STAR2000"
+    },
+    {
+      "course_code": "STAR3050",
+      "prefix_inferred": false,
+      "evidence": "STARS: STAR3050"
+    },
+    {
+      "course_code": "BIOL3410",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BIOL3410, MBTE4033, 4320, 4510; and"
+    },
+    {
+      "course_code": "MBTE4033",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BIOL3410, MBTE4033, 4320, 4510; and"
+    },
+    {
+      "course_code": "MBTE4320",
+      "prefix_inferred": true,
+      "evidence": "Major Required: BIOL3410, MBTE4033, 4320, 4510; and"
+    },
+    {
+      "course_code": "MBTE4510",
+      "prefix_inferred": true,
+      "evidence": "Major Required: BIOL3410, MBTE4033, 4320, 4510; and"
+    },
+    {
+      "course_code": "STAR3000",
+      "prefix_inferred": false,
+      "evidence": "STARS: STAR3000"
+    },
+    {
+      "course_code": "STAR4050",
+      "prefix_inferred": false,
+      "evidence": "STARS: STAR4050"
+    },
+    {
+      "course_code": "LSCI4000",
+      "prefix_inferred": false,
+      "evidence": "and 0 course or LSCI4000 or 4912 or MBTE4902@"
+    },
+    {
+      "course_code": "LSCI4912",
+      "prefix_inferred": true,
+      "evidence": "and 0 course or LSCI4000 or 4912 or MBTE4902@"
+    },
+    {
+      "course_code": "MBTE4902",
+      "prefix_inferred": false,
+      "evidence": "and 0 course or LSCI4000 or 4912 or MBTE4902@"
+    },
+    {
+      "course_code": "LSCI4000",
+      "prefix_inferred": false,
+      "evidence": "and 0 course or LSCI4000 (if not taken) or 4913 or MBTE4903@"
+    },
+    {
+      "course_code": "LSCI4913",
+      "prefix_inferred": true,
+      "evidence": "and 0 course or LSCI4000 (if not taken) or 4913 or MBTE4903@"
+    },
+    {
+      "course_code": "MBTE4903",
+      "prefix_inferred": false,
+      "evidence": "and 0 course or LSCI4000 (if not taken) or 4913 or MBTE4903@"
+    },
+    {
+      "course_code": "MBTE4902",
+      "prefix_inferred": false,
+      "evidence": "@ Students may take MBTE4902 and 4903 as a substitute for STAR4000."
+    },
+    {
+      "course_code": "MBTE4903",
+      "prefix_inferred": true,
+      "evidence": "@ Students may take MBTE4902 and 4903 as a substitute for STAR4000."
+    },
+    {
+      "course_code": "STAR4000",
+      "prefix_inferred": false,
+      "evidence": "@ Students may take MBTE4902 and 4903 as a substitute for STAR4000."
+    },
+    {
+      "course_code": "MBTE4320",
+      "prefix_inferred": false,
+      "evidence": "MBTE4320"
+    },
+    {
+      "course_code": "BCHE2030",
+      "prefix_inferred": false,
+      "evidence": "BCHE2030, BIOL2120, 2410, LSCI1003 or SBMS1440"
+    },
+    {
+      "course_code": "BIOL2120",
+      "prefix_inferred": false,
+      "evidence": "BCHE2030, BIOL2120, 2410, LSCI1003 or SBMS1440"
+    },
+    {
+      "course_code": "BIOL2410",
+      "prefix_inferred": true,
+      "evidence": "BCHE2030, BIOL2120, 2410, LSCI1003 or SBMS1440"
+    },
+    {
+      "course_code": "LSCI1003",
+      "prefix_inferred": false,
+      "evidence": "BCHE2030, BIOL2120, 2410, LSCI1003 or SBMS1440"
+    },
+    {
+      "course_code": "SBMS1440",
+      "prefix_inferred": false,
+      "evidence": "BCHE2030, BIOL2120, 2410, LSCI1003 or SBMS1440"
+    },
+    {
+      "course_code": "MBTE2000",
+      "prefix_inferred": false,
+      "evidence": "MBTE2000, 2010, 3000, 3510, 3511, 3518, 3521, 3528, 3531, 3550, 3558, 3560, 3568, 4033, 4034, 4510, 4520, 4530"
+    },
+    {
+      "course_code": "MBTE2010",
+      "prefix_inferred": true,
+      "evidence": "MBTE2000, 2010, 3000, 3510, 3511, 3518, 3521, 3528, 3531, 3550, 3558, 3560, 3568, 4033, 4034, 4510, 4520, 4530"
+    },
+    {
+      "course_code": "MBTE3000",
+      "prefix_inferred": true,
+      "evidence": "MBTE2000, 2010, 3000, 3510, 3511, 3518, 3521, 3528, 3531, 3550, 3558, 3560, 3568, 4033, 4034, 4510, 4520, 4530"
+    },
+    {
+      "course_code": "MBTE3510",
+      "prefix_inferred": true,
+      "evidence": "MBTE2000, 2010, 3000, 3510, 3511, 3518, 3521, 3528, 3531, 3550, 3558, 3560, 3568, 4033, 4034, 4510, 4520, 4530"
+    },
+    {
+      "course_code": "MBTE3511",
+      "prefix_inferred": true,
+      "evidence": "MBTE2000, 2010, 3000, 3510, 3511, 3518, 3521, 3528, 3531, 3550, 3558, 3560, 3568, 4033, 4034, 4510, 4520, 4530"
+    },
+    {
+      "course_code": "MBTE3518",
+      "prefix_inferred": true,
+      "evidence": "MBTE2000, 2010, 3000, 3510, 3511, 3518, 3521, 3528, 3531, 3550, 3558, 3560, 3568, 4033, 4034, 4510, 4520, 4530"
+    },
+    {
+      "course_code": "MBTE3521",
+      "prefix_inferred": true,
+      "evidence": "MBTE2000, 2010, 3000, 3510, 3511, 3518, 3521, 3528, 3531, 3550, 3558, 3560, 3568, 4033, 4034, 4510, 4520, 4530"
+    },
+    {
+      "course_code": "MBTE3528",
+      "prefix_inferred": true,
+      "evidence": "MBTE2000, 2010, 3000, 3510, 3511, 3518, 3521, 3528, 3531, 3550, 3558, 3560, 3568, 4033, 4034, 4510, 4520, 4530"
+    },
+    {
+      "course_code": "MBTE3531",
+      "prefix_inferred": true,
+      "evidence": "MBTE2000, 2010, 3000, 3510, 3511, 3518, 3521, 3528, 3531, 3550, 3558, 3560, 3568, 4033, 4034, 4510, 4520, 4530"
+    },
+    {
+      "course_code": "MBTE3550",
+      "prefix_inferred": true,
+      "evidence": "MBTE2000, 2010, 3000, 3510, 3511, 3518, 3521, 3528, 3531, 3550, 3558, 3560, 3568, 4033, 4034, 4510, 4520, 4530"
+    },
+    {
+      "course_code": "MBTE3558",
+      "prefix_inferred": true,
+      "evidence": "MBTE2000, 2010, 3000, 3510, 3511, 3518, 3521, 3528, 3531, 3550, 3558, 3560, 3568, 4033, 4034, 4510, 4520, 4530"
+    },
+    {
+      "course_code": "MBTE3560",
+      "prefix_inferred": true,
+      "evidence": "MBTE2000, 2010, 3000, 3510, 3511, 3518, 3521, 3528, 3531, 3550, 3558, 3560, 3568, 4033, 4034, 4510, 4520, 4530"
+    },
+    {
+      "course_code": "MBTE3568",
+      "prefix_inferred": true,
+      "evidence": "MBTE2000, 2010, 3000, 3510, 3511, 3518, 3521, 3528, 3531, 3550, 3558, 3560, 3568, 4033, 4034, 4510, 4520, 4530"
+    },
+    {
+      "course_code": "MBTE4033",
+      "prefix_inferred": true,
+      "evidence": "MBTE2000, 2010, 3000, 3510, 3511, 3518, 3521, 3528, 3531, 3550, 3558, 3560, 3568, 4033, 4034, 4510, 4520, 4530"
+    },
+    {
+      "course_code": "MBTE4034",
+      "prefix_inferred": true,
+      "evidence": "MBTE2000, 2010, 3000, 3510, 3511, 3518, 3521, 3528, 3531, 3550, 3558, 3560, 3568, 4033, 4034, 4510, 4520, 4530"
+    },
+    {
+      "course_code": "MBTE4510",
+      "prefix_inferred": true,
+      "evidence": "MBTE2000, 2010, 3000, 3510, 3511, 3518, 3521, 3528, 3531, 3550, 3558, 3560, 3568, 4033, 4034, 4510, 4520, 4530"
+    },
+    {
+      "course_code": "MBTE4520",
+      "prefix_inferred": true,
+      "evidence": "MBTE2000, 2010, 3000, 3510, 3511, 3518, 3521, 3528, 3531, 3550, 3558, 3560, 3568, 4033, 4034, 4510, 4520, 4530"
+    },
+    {
+      "course_code": "MBTE4530",
+      "prefix_inferred": true,
+      "evidence": "MBTE2000, 2010, 3000, 3510, 3511, 3518, 3521, 3528, 3531, 3550, 3558, 3560, 3568, 4033, 4034, 4510, 4520, 4530"
+    },
+    {
+      "course_code": "MBTE2000",
+      "prefix_inferred": false,
+      "evidence": "MBTE2000"
+    },
+    {
+      "course_code": "MBTE2010",
+      "prefix_inferred": false,
+      "evidence": "MBTE2010"
+    },
+    {
+      "course_code": "MBTE3000",
+      "prefix_inferred": false,
+      "evidence": "MBTE3000"
+    },
+    {
+      "course_code": "MBTE3510",
+      "prefix_inferred": false,
+      "evidence": "MBTE3510"
+    },
+    {
+      "course_code": "MBTE3511",
+      "prefix_inferred": false,
+      "evidence": "MBTE3511*"
+    },
+    {
+      "course_code": "MBTE3518",
+      "prefix_inferred": false,
+      "evidence": "MBTE3518"
+    },
+    {
+      "course_code": "MBTE3521",
+      "prefix_inferred": false,
+      "evidence": "MBTE3521*"
+    },
+    {
+      "course_code": "MBTE3528",
+      "prefix_inferred": false,
+      "evidence": "MBTE3528*"
+    },
+    {
+      "course_code": "MBTE3531",
+      "prefix_inferred": false,
+      "evidence": "MBTE3531*"
+    },
+    {
+      "course_code": "MBTE3550",
+      "prefix_inferred": false,
+      "evidence": "MBTE3550"
+    },
+    {
+      "course_code": "MBTE3558",
+      "prefix_inferred": false,
+      "evidence": "MBTE3558"
+    },
+    {
+      "course_code": "MBTE3560",
+      "prefix_inferred": false,
+      "evidence": "MBTE3560*"
+    },
+    {
+      "course_code": "MBTE3568",
+      "prefix_inferred": false,
+      "evidence": "MBTE3568"
+    },
+    {
+      "course_code": "MBTE4033",
+      "prefix_inferred": false,
+      "evidence": "MBTE4033"
+    },
+    {
+      "course_code": "MBTE4034",
+      "prefix_inferred": false,
+      "evidence": "MBTE4034"
+    },
+    {
+      "course_code": "MBTE4510",
+      "prefix_inferred": false,
+      "evidence": "MBTE4510"
+    },
+    {
+      "course_code": "MBTE4520",
+      "prefix_inferred": false,
+      "evidence": "MBTE4520"
+    },
+    {
+      "course_code": "MBTE4530",
+      "prefix_inferred": false,
+      "evidence": "MBTE4530"
+    },
+    {
+      "course_code": "MBTE4901",
+      "prefix_inferred": false,
+      "evidence": "MBTE4901"
+    },
+    {
+      "course_code": "MBTE4902",
+      "prefix_inferred": false,
+      "evidence": "MBTE4902"
+    },
+    {
+      "course_code": "MBTE4903",
+      "prefix_inferred": false,
+      "evidence": "MBTE4903"
+    },
+    {
+      "course_code": "MBTE4906",
+      "prefix_inferred": false,
+      "evidence": "MBTE4906"
+    },
+    {
+      "course_code": "STAR2000",
+      "prefix_inferred": false,
+      "evidence": "STAR2000"
+    },
+    {
+      "course_code": "STAR2050",
+      "prefix_inferred": false,
+      "evidence": "STAR2050"
+    },
+    {
+      "course_code": "STAR3000",
+      "prefix_inferred": false,
+      "evidence": "STAR3000"
+    },
+    {
+      "course_code": "STAR3050",
+      "prefix_inferred": false,
+      "evidence": "STAR3050"
+    },
+    {
+      "course_code": "STAR4000",
+      "prefix_inferred": false,
+      "evidence": "STAR4000"
+    },
+    {
+      "course_code": "STAR4050",
+      "prefix_inferred": false,
+      "evidence": "STAR4050"
+    }
+  ],
+  "course_code_aliases": [],
+  "source": {
+    "system": "CUHK CUSIS Browse Program Information",
+    "url": "https://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/tt_dsp_acad_prog.aspx",
+    "source_text_file": "data/cuhk/2024/programmes/B_Sc_in_Molecular_Biotechnology__Faculty_of_Science.txt",
+    "reused_duplicate_entry": false,
+    "reused_from_faculty": null
+  },
+  "raw_text": "\n\nBrowse Program Information\n\n\n\n\n\n\nAcademic Program:\tB.Sc. in Molecular Biotechnology\nAcademic Year:\t2024\nLanguage:\t\nEnglish\nSimplified Chinese\nTraditional Chinese\n\n\n\nLearning Outcomes\nStudy Scheme\n \n\n\t\n\nMolecular Biotechnology\n\nApplicable to students admitted in 2024-25\n\n\n\n\n \n\n\n\n\n \n\nMajor Programme Requirement\n\n \n\n\t\n\n \n\n\n\n\nStudents are required to complete a minimum of 66[a] units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nFaculty Package:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nGroup A: LSCI1002\n\nGroup B: CHEM1280 (preferred) or 1070 \n\nA course from the following\n\nGroup C: MATH1520 (preferred) or 1010 or 1018\n\nGroup D: (PHYS1001 or 1002) (preferred) or 1111\n\nGroup E: STAT1012 (preferred) or 1011\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nRequired Courses:\n\n\t\n\n44\n\n\n\n\n \n\n \n\n\t\n\nBCHE2030#, 3030#, 3050#, BIOL2120#, 2313#, 2410#, 3410#,  LSCI2002#, MBTE2000, 2010, 3000, 3510, 3550, 4033, 4034, 4320, 4510, 4520, 4530\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nCapstone Courses and Elective Courses:\n\n\t\n\n13\n\n\n\n\n(a)\n\n\t\n\nCapstone Courses:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n3-6 units from LSCI4000#, 4911#, 4912#, 4913#, MBTE4901, 4902, 4903, 4906\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nElective Courses:\n\nRemaining units can be chosen from the following courses:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nBCHE3040#, 3080#, 4030#, 4060#, 4080#, 4090#, BIOL2420#, 3310#, 3420#, 3530#, 3630#, 4120#, 4310#, 4520#, 4610#, BMEG2001#, 2011#, CMBI3101#, 4001#, 4002#, 4003#, 4101#, 4102#, 4103#, 4201#, 4202#, 4203#, 4301#, 4302#, 4303#, LSCI1012, 2003#, 3012#, 3030#, 3333#, 3520#, STAT3210#, MBTE3518, 3558, 3568\n\n\t\n\n \n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n  66[a]\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\nIn addition to fulfilling the above Major Programme Requirement, students meeting the criteria as specified by the Faculty can take the following stream offered by the Faculty:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\nScience, Technology And Research Stream\n\n \n\n\n\n\nStudents are required to complete a minimum of 12 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nRequired Courses:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nOne Faculty Package Course:\n\n\t\n\n3\n\n\n\n\n \n\n\t\n\nChoose from the two remaining groups of the Faculty Package that have not been used to fulfill the Faculty Package Requirement\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nResearch Courses:\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nSTAR2000, 3000, 4000[b]\n\n\t\n\n \n\n\n\n\n(c)\n\n\t\n\nSeminar Courses:\n\n\t\n\n3\n\n\n\n\n \n\n\t\n\nSTAR2050, 3050, 4050\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nExperiential Learning:\n\n\t\n\n---\n\n\n\n\n \n\n\t\n\nAt least 4 consecutive weeks of outside Hong Kong exposure[c]\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n12\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\nExplanatory Notes:\n\n\n\n\n1.\n\n\t\n\nMBTE courses at 2000 and above level as well as those labeled as # will be included in the calculation of Major GPA for honours classification.\n\n\n\n\n[a]\n\n\t\n\nStudy Option: Berkeley Biosciences Study Abroad Programme\n\nStudents who undergo one term of studies at the University of California, Berkeley, USA will take courses offered by the Berkeley Biosciences Study Abroad Programme. Units obtained from the Programme will be recognized as up to 12 units of Major Programme requirement. This option will be recorded on transcript.\n\n\n\n\n[b]\n\n\t\n\nStudents may select research-oriented course(s), as approved by the Major Programme, to substitute up to 4 units for fulfillment of Research Courses requirement.\n\n\n\n\n[c]\n\n\t\n\nStudents must complete any exchange/research/internship programme(s) offered by the University, Colleges, the Faculty of Science or Major Programme, as approved by the Major Programme, to fulfill the Experiential Learning requirement. Students are responsible for the extra costs incurred in the exchange/research/internship programme(s).\n\n\n\n\n \n\n\t\n\n \n\n\n\n\n \n\n\n\n\n Molecular Biotechnology\n\n \n\n\n\n\n \n\n\t\n\nRecommended Course Pattern\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: 1 course\n\n\t\n\n3\n\n\n\n\nMajor Required:\n\n\t\n\n \n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nFaculty Package: 2 courses\n\n\t\n\n6\n\n\n\n\nMajor Required:\n\n\t\n\n \n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: BCHE2030, BIOL2120, LSCI2002\n\n\t\n\n8\n\n\n\n\nMajor Elective(s): 0 course or LSCI2003\n\n\t\n\n0-2\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: BCHE3050, BIOL2313, 2410, MBTE2000, 2010\n\n\t\n\n9\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nThird Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: BIOL3410, MBTE4033, 4320 , 4510; and\n\n\t\n\n8-11\n\n\n\n\n1-2 course from MBTE3510, 3550\n\n\t\n\n1-2\n\n\n\n\nMajor Elective(s): 0-1 course\n\n\t\n\n0-3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: BCHE3030, MBTE4034, 4520, 4530\n\n\t\n\n5-11\n\n\n\n\nMajor Elective(s): 0-1 course\n\n\t\n\n0-3\n\n\n\n\nSummer session\n\n\t\n\n \n\n\n\n\nMajor Required: 0 course or LSCI4911 or MBTE4901 or 4906\n\n\t\n\n0-2\n\n\n\n\nFourth Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: MBTE3000, 4510 (if not taken);\n\n\t\n\n3-6\n\n\n\n\n1-2 course from MBTE3510, 3550 (if not taken);\n\n\t\n\n1-2\n\n\n\n\nand 0 course or LSCI4000 or 4912 or MBTE4902\n\n\t\n\n0-3\n\n\n\n\nMajor Elective(s): 0-1 course\n\n\t\n\n0-3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: MBTE4520 (if not taken), 4530 (if not taken);\n\n\t\n\n0-6\n\n\n\n\nand 0 course or LSCI4000 (if not taken) or 4913 or MBTE4903\n\n\t\n\n0-3\n\n\n\n\nMajor Elective(s): 0-1 course\n\n\t\n\n0-3\n\n\n\n\nTotal (including Faculty Package):\n\n\t\n\n66\n\n\n\n\n \n\n\n\n\n Molecular Biotechnology ¾ Science, Technology And Research Stream (STARS)\n\n\n\n\n \n\n\t\n\nRecommended Course Pattern\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: 2 courses\n\n\t\n\n6\n\n\n\n\nMajor Required:\n\n\t\n\n \n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nFaculty Package: 2 courses\n\n\t\n\n6\n\n\n\n\nMajor Required:\n\n\t\n\n \n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nSTARS: STAR2050\n\n\t\n\n0-1\n\n\n\n\nSummer session\n\n\t\n\n \n\n\n\n\nSTARS: STAR2050 (if not taken)\n\n\t\n\n0-1\n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: BCHE2030, BIOL2120, LSCI2002\n\n\t\n\n8\n\n\n\n\nMajor Elective(s): 0 course or LSCI2003\n\n\t\n\n0-2\n\n\n\n\nSTARS: STAR2000\n\n\t\n\n1\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: BCHE3050, BIOL2313, 2410, MBTE2000, 2010\n\n\t\n\n9\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nSTARS: STAR3050\n\n\t\n\n1\n\n\n\n\nThird Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: BIOL3410, MBTE4033, 4320, 4510; and\n\n\t\n\n8-11\n\n\n\n\n1-2 course from MBTE3510, 3550\n\n\t\n\n1-2\n\n\n\n\nMajor Elective(s): 0-1 course\n\n\t\n\n0-3\n\n\n\n\nSTARS: STAR3000\n\n\t\n\n2\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: BCHE3030, MBTE4034, 4520, 4530\n\n\t\n\n5-11\n\n\n\n\nMajor Elective(s): 0-1 course\n\n\t\n\n0-3\n\n\n\n\nSTARS: STAR4050\n\n\t\n\n1\n\n\n\n\nSummer session\n\n\t\n\n \n\n\n\n\nMajor Required: 0 course or LSCI4911 or MBTE4901 or 4906\n\n\t\n\n0-2\n\n\n\n\nFourth Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: MBTE3000, 4510 (if not taken);\n\n\t\n\n3-6\n\n\n\n\n1-2 course from MBTE3510, 3550 (if not taken);\n\n\t\n\n1-2\n\n\n\n\nand 0 course or LSCI4000 or 4912 or MBTE4902@\n\n\t\n\n0-3\n\n\n\n\nMajor Elective(s): 0-1 course\n\n\t\n\n0-3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: MBTE4520 (if not taken), 4530 (if not taken);\n\n\t\n\n0-6\n\n\n\n\nand 0 course or LSCI4000 (if not taken) or 4913 or MBTE4903@\n\n\t\n\n0-3\n\n\n\n\nMajor Elective(s): 0-1 course\n\n\t\n\n0-3\n\n\n\n\nTotal (including Faculty Package):\n\n\t\n\n75\n\n\n\n\n @ Students may take MBTE4902 and 4903 as a substitute for STAR4000.\n\n\n\n\n \n\n\n\n\nMinor Programme Title\n\nMolecular Biotechnology\n\n \n\n\n\n\n \n\nMinor Programme Requirement\n\n \n\n\n\n\nStudents are required to complete a minimum of 19 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nRequired Courses:\n\n\t\n\n       \n\n\n\n\n(a)\n\n\t\n\nMBTE4320\n\n\t\n\n3\n\n\n\n\n(b)\n\n\t\n\nBCHE2030, BIOL2120, 2410, LSCI1003 or SBMS1440\n\n\t\n\n1 or 2\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nElective Courses:\n\n\t\n\n14 or 15\n\n\n\n\n \n\n\t\n\nMBTE2000, 2010, 3000, 3510, 3511, 3518, 3521, 3528, 3531,  3550, 3558, 3560, 3568, 4033, 4034, 4510, 4520, 4530\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n19\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\n\n\nCourse List\n\n \n\n\n\n\nCourse Code\n\n\t\n\nCourse Title\n\n\t\n\nUnit(s)\n\n\n\n\nMBTE2000\n\n\t\n\nIntroduction to Molecular Biotechnology\n\n\t\n\n2\n\n\n\n\nMBTE2010\n\n\t\n\nDiversity of Life: Applications and Sustainability\n\n\t\n\n2\n\n\n\n\nMBTE3000\n\n\t\n\nBusiness and Social Aspects of Biotechnology\n\n\t\n\n3\n\n\n\n\nMBTE3510\n\n\t\n\nMedical Biotechnology\n\n\t\n\n1\n\n\n\n\nMBTE3511*\n\n\t\n\nIndustrial Applications of Plant Genetic Modification\n\n\t\n\n1\n\n\n\n\nMBTE3518\n\n\t\n\nProject in Medical Biotechnology\n\n\t\n\n2\n\n\n\n\nMBTE3521*\n\n\t\n\nTransgenic Technologies in Animals and their Applications\n\n\t\n\n1\n\n\n\n\nMBTE3528*\n\n\t\n\nProject in Transgenic Technologies in Animals and their Applications\n\n\t\n\n2\n\n\n\n\nMBTE3531*\n\n\t\n\nMicrobes and Bioremediation\n\n\t\n\n1\n\n\n\n\nMBTE3550\n\n\t\n\nBiotechnology for Environment and Sustainability\n\n\t\n\n1\n\n\n\n\nMBTE3558\n\n\t\n\nProject in Biotechnology for Environment and Sustainability\n\n\t\n\n2\n\n\n\n\nMBTE3560*\n\n\t\n\nProtein Engineering and Drug Design\n\n\t\n\n1\n\n\n\n\nMBTE3568\n\n\t\n\nProject of Protein Engineering and Drug Design\n\n\t\n\n2\n\n\n\n\nMBTE4033\n\n\t\n\nMethods in Molecular Biotechnology Laboratory I\n\n\t\n\n2\n\n\n\n\nMBTE4034\n\n\t\n\nMethods in Molecular Biotechnology Laboratory II\n\n\t\n\n2\n\n\n\n\nMBTE4320\n\n\t\n\nGenetic Engineering\n\n\t\n\n3\n\n\n\n\nMBTE4510\n\n\t\n\nPlant Biotechnology\n\n\t\n\n3\n\n\n\n\nMBTE4520\n\n\t\n\nAnimal Biotechnology\n\n\t\n\n3\n\n\n\n\nMBTE4530\n\n\t\n\nMicrobial Biotechnology\n\n\t\n\n3\n\n\n\n\nMBTE4901\n\n\t\n\nSenior Experimental Project I\n\n\t\n\n2\n\n\n\n\nMBTE4902\n\n\t\n\nSenior Experimental Project II\n\n\t\n\n2\n\n\n\n\nMBTE4903\n\n\t\n\nSenior Experimental Project III\n\n\t\n\n2\n\n\n\n\nMBTE4906\n\n\t\n\nInternship\n\n\t\n\n2\n\n\n\n\nSTAR2000\n\n\t\n\nUndergraduate Research in Science I\n\n\t\n\n1\n\n\n\n\nSTAR2050\n\n\t\n\nSeminar I\n\n\t\n\n1\n\n\n\n\nSTAR3000\n\n\t\n\nUndergraduate Research in Science II\n\n\t\n\n2\n\n\n\n\nSTAR3050\n\n\t\n\nSeminar II\n\n\t\n\n1\n\n\n\n\nSTAR4000\n\n\t\n\nUndergraduate Research in Science III\n\n\t\n\n3\n\n\n\n\nSTAR4050\n\n\t\n\nSeminar III\n\n\t\n\n1\n\nRemarks: * Not for Molecular Biotechnology major students.\n\n \n\n\n \n\nStudy Scheme\n\n\nLearning Outcomes\n \n\n\t\n\n \n\n1.\n\n\t\n\nMajor Programme:\n\n\n\n\nKnowledge outcomes:\n\n\n\n\n(1)\n\n\t\n\nSolid foundation in life science, including model organisms, fundamental biochemistry, cell biology and genetics;\n\n\n\n\n(2)\n\n\t\n\nCore knowledge in methods in biochemistry, molecular biology, genetic engineering, microbial biotechnology, plant biotechnology and animal biotechnology;\n\n\n\n\n(3)\n\n\t\n\nIn-depth knowledge in some specific areas, such as bioinformatics, protein biochemistry and proteomics, developmental biology, physiology;\n\n\n\n\n(4)\n\n\t\n\nHands-on operational ability in basic skills of molecular biotechnology;\n\n\n\n\n(5)\n\n\t\n\nAn educated understanding on the business and social implications of biotechnology, such as government policy, management, intellectual property, and ethical and public concerns.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nSkills outcomes:\n\n\n\n\n(1)\n\n\t\n\nSkills in logical and critical thinking;\n\n\n\n\n(2)\n\n\t\n\nAnalytical skills (qualitative and quantitative) and problem-solving ability;\n\n\n\n\n(3)\n\n\t\n\nAbility in oral and written communication;\n\n\n\n\n(4)\n\n\t\n\nCompetence in using information technologies and basic computer skills.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nValues and attribute outcomes:\n\n\n\n\n(1)\n\n\t\n\nA positive attitude toward life science, especially molecular biotechnology;\n\n\n\n\n(2)\n\n\t\n\nAn educated mind and responsible attitude to judge the pros and cons of various applications of molecular biotechnology on human society and natural environment.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nMinor Programme:\n\n\n\n\nUpon the completion of the Minor Programme, students will have demonstrated basic understanding of fundamental issues related to the subject, acquired knowledge of some aspects of the subject with sufficient exposure and at a suitable level to allow further study in this subject or related subjects or to pursue a related career.\n\n\n\n\n       \n\n \n\n \n\n\n"
+}

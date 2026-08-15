@@ -1,0 +1,22 @@
+{
+  "purpose": "End-to-end validation capture for the first 10 distinct catalog courses in the current official subject traversal",
+  "term": "2026-27 Term 1",
+  "termValue": "2420",
+  "selectionRule": "Traverse the freshly fetched official subject list, parse current timetable results, normalize Class Code to SUBJECT plus four digits, and keep the first 10 distinct catalog course codes.",
+  "courses": [
+    "ACCT1111",
+    "ACCT2111",
+    "ACCT2121",
+    "ACCT2151",
+    "ACCT3111",
+    "ACCT3112",
+    "ACCT3121",
+    "ACCT3142",
+    "ACCT3151",
+    "ACCT3152"
+  ],
+  "expectedClassDetails": 26,
+  "expectedReservedQuotaPages": 6,
+  "expectedCatalogPages": 10,
+  "status": "verified-complete-for-declared-10-course-scope"
+}

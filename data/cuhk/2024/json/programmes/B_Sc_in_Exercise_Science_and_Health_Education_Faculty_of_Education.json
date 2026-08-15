@@ -1,0 +1,561 @@
+{
+  "programme_id": "B_Sc_in_Exercise_Science_and_Health_Education__Faculty_of_Education",
+  "academic_program": "B.Sc. in Exercise Science and Health Education",
+  "faculty": "Faculty of Education",
+  "academic_year": 2024,
+  "admission_cohort": "2024-25",
+  "requirement_summary": {
+    "minimum_units_as_printed": "a minimum of 55 units",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Required Courses",
+        "units_as_printed": "38",
+        "course_mentions": [
+          {
+            "course_code": "PHPC1001",
+            "prefix_inferred": false,
+            "evidence": "PHPC1001, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3430, 3820, 3910, 3920, 4570"
+          },
+          {
+            "course_code": "SPED2520",
+            "prefix_inferred": false,
+            "evidence": "PHPC1001, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3430, 3820, 3910, 3920, 4570"
+          },
+          {
+            "course_code": "SPED2540",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3430, 3820, 3910, 3920, 4570"
+          },
+          {
+            "course_code": "SPED2600",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3430, 3820, 3910, 3920, 4570"
+          },
+          {
+            "course_code": "SPED2610",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3430, 3820, 3910, 3920, 4570"
+          },
+          {
+            "course_code": "SPED2710",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3430, 3820, 3910, 3920, 4570"
+          },
+          {
+            "course_code": "SPED2720",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3430, 3820, 3910, 3920, 4570"
+          },
+          {
+            "course_code": "SPED2810",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3430, 3820, 3910, 3920, 4570"
+          },
+          {
+            "course_code": "SPED3430",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3430, 3820, 3910, 3920, 4570"
+          },
+          {
+            "course_code": "SPED3820",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3430, 3820, 3910, 3920, 4570"
+          },
+          {
+            "course_code": "SPED3910",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3430, 3820, 3910, 3920, 4570"
+          },
+          {
+            "course_code": "SPED3920",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3430, 3820, 3910, 3920, 4570"
+          },
+          {
+            "course_code": "SPED4570",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3430, 3820, 3910, 3920, 4570"
+          },
+          {
+            "course_code": "SPED2010",
+            "prefix_inferred": false,
+            "evidence": "SPED2010, 2110, 2141"
+          },
+          {
+            "course_code": "SPED2110",
+            "prefix_inferred": true,
+            "evidence": "SPED2010, 2110, 2141"
+          },
+          {
+            "course_code": "SPED2141",
+            "prefix_inferred": true,
+            "evidence": "SPED2010, 2110, 2141"
+          },
+          {
+            "course_code": "SPED3630",
+            "prefix_inferred": false,
+            "evidence": "SPED3630[a], 4900[a]"
+          },
+          {
+            "course_code": "SPED4900",
+            "prefix_inferred": true,
+            "evidence": "SPED3630[a], 4900[a]"
+          },
+          {
+            "course_code": "SPED4201",
+            "prefix_inferred": false,
+            "evidence": "SPED4201[a]"
+          }
+        ],
+        "raw_text": "(a)\nCore Courses in Exercise Science and Health\n38\nPHPC1001, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3430, 3820, 3910, 3920, 4570\n(b)\nCore Skills Courses\n3\nSPED2010, 2110, 2141\n(c)\nResearch Experience\n6\nSPED3630[a], 4900[a]\n(d)\nInternship\n2\nSPED4201[a]"
+      },
+      {
+        "number": 2,
+        "title": "Elective Courses",
+        "units_as_printed": "3",
+        "course_mentions": [
+          {
+            "course_code": "SPED3550",
+            "prefix_inferred": false,
+            "evidence": "SPED3550, 3731, 4560, 4640, 4830"
+          },
+          {
+            "course_code": "SPED3731",
+            "prefix_inferred": true,
+            "evidence": "SPED3550, 3731, 4560, 4640, 4830"
+          },
+          {
+            "course_code": "SPED4560",
+            "prefix_inferred": true,
+            "evidence": "SPED3550, 3731, 4560, 4640, 4830"
+          },
+          {
+            "course_code": "SPED4640",
+            "prefix_inferred": true,
+            "evidence": "SPED3550, 3731, 4560, 4640, 4830"
+          },
+          {
+            "course_code": "SPED4830",
+            "prefix_inferred": true,
+            "evidence": "SPED3550, 3731, 4560, 4640, 4830"
+          },
+          {
+            "course_code": "CHPR3002",
+            "prefix_inferred": false,
+            "evidence": "CHPR3002#, 4012#, PHPC2007#, 2009#, SPED3700"
+          },
+          {
+            "course_code": "CHPR4012",
+            "prefix_inferred": true,
+            "evidence": "CHPR3002#, 4012#, PHPC2007#, 2009#, SPED3700"
+          },
+          {
+            "course_code": "PHPC2007",
+            "prefix_inferred": false,
+            "evidence": "CHPR3002#, 4012#, PHPC2007#, 2009#, SPED3700"
+          },
+          {
+            "course_code": "PHPC2009",
+            "prefix_inferred": true,
+            "evidence": "CHPR3002#, 4012#, PHPC2007#, 2009#, SPED3700"
+          },
+          {
+            "course_code": "SPED3700",
+            "prefix_inferred": false,
+            "evidence": "CHPR3002#, 4012#, PHPC2007#, 2009#, SPED3700"
+          }
+        ],
+        "raw_text": "(a)\nTheoretical Courses in Exercise Science\nOne course chosen from the following:\n3\nSPED3550, 3731, 4560, 4640, 4830\n(b)\nTheoretical Courses in Health\n3\nOne course chosen from the following:\nCHPR3002#, 4012#, PHPC2007#, 2009#, SPED3700\nTotal:\n55\nExplanatory Notes:"
+      },
+      {
+        "number": 1,
+        "title": "Major Programme",
+        "units_as_printed": null,
+        "course_mentions": [],
+        "raw_text": "Graduates of the B.Sc. Programme in Exercise Science and Health Education (ESHE) will be able to:\n(1)\ndemonstrate specialist knowledge and professional skills in Exercise Science and Health Education; (K/S)\n(2)\nplan and implement a programme of investigative work; (K/S/V)\n(3)\ndemonstrate an informed, critical, and innovative approach to learning through understanding and applying knowledge and skills learned from the field of exercise science towards the advancement of human health, performance and quality of life, through effective education, promotion, evaluation, research and development; (K/S/V)\n(4)\nsynthesize and evaluate strategies to enhance professionalism in administrative and managerial roles in sports, exercise science and health sectors; (K/S/V)\n(5)\ngather and use information as a strategic resource to contribute creatively to the development of Exercise Science and Health Education; (K/S/V)\n(6)\ndisplay a critical and creative attitude in their professional life; (K/S/V) and\n(7)\napply their knowledge and skills in exercise science and health practices. (K/S)\nK = Knowledge outcomes S = Skills outcomes V = Values and attitude outcomes"
+      }
+    ]
+  },
+  "all_course_mentions": [
+    {
+      "course_code": "PHPC1001",
+      "prefix_inferred": false,
+      "evidence": "PHPC1001, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3430, 3820, 3910, 3920, 4570"
+    },
+    {
+      "course_code": "SPED2520",
+      "prefix_inferred": false,
+      "evidence": "PHPC1001, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3430, 3820, 3910, 3920, 4570"
+    },
+    {
+      "course_code": "SPED2540",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3430, 3820, 3910, 3920, 4570"
+    },
+    {
+      "course_code": "SPED2600",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3430, 3820, 3910, 3920, 4570"
+    },
+    {
+      "course_code": "SPED2610",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3430, 3820, 3910, 3920, 4570"
+    },
+    {
+      "course_code": "SPED2710",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3430, 3820, 3910, 3920, 4570"
+    },
+    {
+      "course_code": "SPED2720",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3430, 3820, 3910, 3920, 4570"
+    },
+    {
+      "course_code": "SPED2810",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3430, 3820, 3910, 3920, 4570"
+    },
+    {
+      "course_code": "SPED3430",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3430, 3820, 3910, 3920, 4570"
+    },
+    {
+      "course_code": "SPED3820",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3430, 3820, 3910, 3920, 4570"
+    },
+    {
+      "course_code": "SPED3910",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3430, 3820, 3910, 3920, 4570"
+    },
+    {
+      "course_code": "SPED3920",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3430, 3820, 3910, 3920, 4570"
+    },
+    {
+      "course_code": "SPED4570",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3430, 3820, 3910, 3920, 4570"
+    },
+    {
+      "course_code": "SPED2010",
+      "prefix_inferred": false,
+      "evidence": "SPED2010, 2110, 2141"
+    },
+    {
+      "course_code": "SPED2110",
+      "prefix_inferred": true,
+      "evidence": "SPED2010, 2110, 2141"
+    },
+    {
+      "course_code": "SPED2141",
+      "prefix_inferred": true,
+      "evidence": "SPED2010, 2110, 2141"
+    },
+    {
+      "course_code": "SPED3630",
+      "prefix_inferred": false,
+      "evidence": "SPED3630[a], 4900[a]"
+    },
+    {
+      "course_code": "SPED4900",
+      "prefix_inferred": true,
+      "evidence": "SPED3630[a], 4900[a]"
+    },
+    {
+      "course_code": "SPED4201",
+      "prefix_inferred": false,
+      "evidence": "SPED4201[a]"
+    },
+    {
+      "course_code": "SPED3550",
+      "prefix_inferred": false,
+      "evidence": "SPED3550, 3731, 4560, 4640, 4830"
+    },
+    {
+      "course_code": "SPED3731",
+      "prefix_inferred": true,
+      "evidence": "SPED3550, 3731, 4560, 4640, 4830"
+    },
+    {
+      "course_code": "SPED4560",
+      "prefix_inferred": true,
+      "evidence": "SPED3550, 3731, 4560, 4640, 4830"
+    },
+    {
+      "course_code": "SPED4640",
+      "prefix_inferred": true,
+      "evidence": "SPED3550, 3731, 4560, 4640, 4830"
+    },
+    {
+      "course_code": "SPED4830",
+      "prefix_inferred": true,
+      "evidence": "SPED3550, 3731, 4560, 4640, 4830"
+    },
+    {
+      "course_code": "CHPR3002",
+      "prefix_inferred": false,
+      "evidence": "CHPR3002#, 4012#, PHPC2007#, 2009#, SPED3700"
+    },
+    {
+      "course_code": "CHPR4012",
+      "prefix_inferred": true,
+      "evidence": "CHPR3002#, 4012#, PHPC2007#, 2009#, SPED3700"
+    },
+    {
+      "course_code": "PHPC2007",
+      "prefix_inferred": false,
+      "evidence": "CHPR3002#, 4012#, PHPC2007#, 2009#, SPED3700"
+    },
+    {
+      "course_code": "PHPC2009",
+      "prefix_inferred": true,
+      "evidence": "CHPR3002#, 4012#, PHPC2007#, 2009#, SPED3700"
+    },
+    {
+      "course_code": "SPED3700",
+      "prefix_inferred": false,
+      "evidence": "CHPR3002#, 4012#, PHPC2007#, 2009#, SPED3700"
+    },
+    {
+      "course_code": "PHPC1001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: PHPC1001, SPED2520, 2600, 2720, two Core Skills Courses"
+    },
+    {
+      "course_code": "SPED2520",
+      "prefix_inferred": false,
+      "evidence": "Major Required: PHPC1001, SPED2520, 2600, 2720, two Core Skills Courses"
+    },
+    {
+      "course_code": "SPED2600",
+      "prefix_inferred": true,
+      "evidence": "Major Required: PHPC1001, SPED2520, 2600, 2720, two Core Skills Courses"
+    },
+    {
+      "course_code": "SPED2720",
+      "prefix_inferred": true,
+      "evidence": "Major Required: PHPC1001, SPED2520, 2600, 2720, two Core Skills Courses"
+    },
+    {
+      "course_code": "SPED2540",
+      "prefix_inferred": false,
+      "evidence": "Major Required: SPED2540, 2610, 2810, 3430, 3630, 3920"
+    },
+    {
+      "course_code": "SPED2610",
+      "prefix_inferred": true,
+      "evidence": "Major Required: SPED2540, 2610, 2810, 3430, 3630, 3920"
+    },
+    {
+      "course_code": "SPED2810",
+      "prefix_inferred": true,
+      "evidence": "Major Required: SPED2540, 2610, 2810, 3430, 3630, 3920"
+    },
+    {
+      "course_code": "SPED3430",
+      "prefix_inferred": true,
+      "evidence": "Major Required: SPED2540, 2610, 2810, 3430, 3630, 3920"
+    },
+    {
+      "course_code": "SPED3630",
+      "prefix_inferred": true,
+      "evidence": "Major Required: SPED2540, 2610, 2810, 3430, 3630, 3920"
+    },
+    {
+      "course_code": "SPED3920",
+      "prefix_inferred": true,
+      "evidence": "Major Required: SPED2540, 2610, 2810, 3430, 3630, 3920"
+    },
+    {
+      "course_code": "SPED3820",
+      "prefix_inferred": false,
+      "evidence": "Major Required: SPED3820, 4570, one Core Skills Course"
+    },
+    {
+      "course_code": "SPED4570",
+      "prefix_inferred": true,
+      "evidence": "Major Required: SPED3820, 4570, one Core Skills Course"
+    },
+    {
+      "course_code": "SPED2710",
+      "prefix_inferred": false,
+      "evidence": "Major Required: SPED2710, 3910, 4201, 4900"
+    },
+    {
+      "course_code": "SPED3910",
+      "prefix_inferred": true,
+      "evidence": "Major Required: SPED2710, 3910, 4201, 4900"
+    },
+    {
+      "course_code": "SPED4201",
+      "prefix_inferred": true,
+      "evidence": "Major Required: SPED2710, 3910, 4201, 4900"
+    },
+    {
+      "course_code": "SPED4900",
+      "prefix_inferred": true,
+      "evidence": "Major Required: SPED2710, 3910, 4201, 4900"
+    },
+    {
+      "course_code": "SPED2010",
+      "prefix_inferred": false,
+      "evidence": "SPED2010"
+    },
+    {
+      "course_code": "SPED2110",
+      "prefix_inferred": false,
+      "evidence": "SPED2110"
+    },
+    {
+      "course_code": "SPED2141",
+      "prefix_inferred": false,
+      "evidence": "SPED2141"
+    },
+    {
+      "course_code": "SPED2520",
+      "prefix_inferred": false,
+      "evidence": "SPED2520"
+    },
+    {
+      "course_code": "SPED2540",
+      "prefix_inferred": false,
+      "evidence": "SPED2540"
+    },
+    {
+      "course_code": "SPED2600",
+      "prefix_inferred": false,
+      "evidence": "SPED2600"
+    },
+    {
+      "course_code": "SPED2610",
+      "prefix_inferred": false,
+      "evidence": "SPED2610"
+    },
+    {
+      "course_code": "SPED2710",
+      "prefix_inferred": false,
+      "evidence": "SPED2710"
+    },
+    {
+      "course_code": "SPED2720",
+      "prefix_inferred": false,
+      "evidence": "SPED2720"
+    },
+    {
+      "course_code": "SPED2810",
+      "prefix_inferred": false,
+      "evidence": "SPED2810"
+    },
+    {
+      "course_code": "SPED3430",
+      "prefix_inferred": false,
+      "evidence": "SPED3430"
+    },
+    {
+      "course_code": "SPED3550",
+      "prefix_inferred": false,
+      "evidence": "SPED3550"
+    },
+    {
+      "course_code": "SPED3630",
+      "prefix_inferred": false,
+      "evidence": "SPED3630"
+    },
+    {
+      "course_code": "SPED3700",
+      "prefix_inferred": false,
+      "evidence": "SPED3700"
+    },
+    {
+      "course_code": "SPED3731",
+      "prefix_inferred": false,
+      "evidence": "SPED3731"
+    },
+    {
+      "course_code": "SPED3820",
+      "prefix_inferred": false,
+      "evidence": "SPED3820"
+    },
+    {
+      "course_code": "SPED3910",
+      "prefix_inferred": false,
+      "evidence": "SPED3910"
+    },
+    {
+      "course_code": "SPED3920",
+      "prefix_inferred": false,
+      "evidence": "SPED3920"
+    },
+    {
+      "course_code": "SPED4201",
+      "prefix_inferred": false,
+      "evidence": "SPED4201"
+    },
+    {
+      "course_code": "SPED4560",
+      "prefix_inferred": false,
+      "evidence": "SPED4560"
+    },
+    {
+      "course_code": "SPED4570",
+      "prefix_inferred": false,
+      "evidence": "SPED4570"
+    },
+    {
+      "course_code": "SPED4640",
+      "prefix_inferred": false,
+      "evidence": "SPED4640"
+    },
+    {
+      "course_code": "SPED4830",
+      "prefix_inferred": false,
+      "evidence": "SPED4830"
+    },
+    {
+      "course_code": "SPED4900",
+      "prefix_inferred": false,
+      "evidence": "SPED4900"
+    },
+    {
+      "course_code": "CHPR3002",
+      "prefix_inferred": false,
+      "evidence": "CHPR3002"
+    },
+    {
+      "course_code": "CHPR4012",
+      "prefix_inferred": false,
+      "evidence": "CHPR4012"
+    },
+    {
+      "course_code": "PHPC1001",
+      "prefix_inferred": false,
+      "evidence": "PHPC1001"
+    },
+    {
+      "course_code": "PHPC2007",
+      "prefix_inferred": false,
+      "evidence": "PHPC2007"
+    },
+    {
+      "course_code": "PHPC2009",
+      "prefix_inferred": false,
+      "evidence": "PHPC2009"
+    }
+  ],
+  "course_code_aliases": [],
+  "source": {
+    "system": "CUHK CUSIS Browse Program Information",
+    "url": "https://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/tt_dsp_acad_prog.aspx",
+    "source_text_file": "data/cuhk/2024/programmes/B_Sc_in_Exercise_Science_and_Health_Education__Faculty_of_Education.txt",
+    "reused_duplicate_entry": false,
+    "reused_from_faculty": null
+  },
+  "raw_text": "\n\nBrowse Program Information\n\n\n\n\n\n\nAcademic Program:\tB.Sc. in Exercise Science and Health Education\nAcademic Year:\t2024\nLanguage:\t\nEnglish\nSimplified Chinese\nTraditional Chinese\n\n\n\nLearning Outcomes\nStudy Scheme\n \n\n\t\n\nExercise Science and Health Education\n\nApplicable to students admitted in 2024-25\n\n\n\n\n \n\n\n\n\n \n\nMajor Programme Requirement (for Associate Degree or Higher Diploma holders admitted to senior-year places)\n\n \n\n\n\n\nStudents are required to complete a minimum of 55 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nRequired Courses:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nCore Courses in Exercise Science and Health\n\n\t\n\n38\n\n\n\n\n \n\n\t\n\nPHPC1001, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3430, 3820, 3910, 3920, 4570\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nCore Skills Courses\n\n\t\n\n3\n\n\n\n\n \n\n\t\n\nSPED2010, 2110, 2141\n\n\t\n\n \n\n\n\n\n(c)\n\n\t\n\nResearch Experience\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nSPED3630[a], 4900[a]\n\n\t\n\n \n\n\n\n\n(d)\n\n\t\n\nInternship\n\n\t\n\n2\n\n\n\n\n \n\n\t\n\nSPED4201[a]\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nElective Courses:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nTheoretical Courses in Exercise Science\n\nOne course chosen from the following:\n\n\t\n\n3\n\n\n\n\n \n\n\t\n\nSPED3550, 3731, 4560, 4640, 4830\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nTheoretical Courses in Health\n\n\t\n\n3\n\n\n\n\n \n\n\t\n\nOne course chosen from the following:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nCHPR3002#, 4012#, PHPC2007#, 2009#, SPED3700\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n55\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\nExplanatory Notes:\n\n\t\n\n \n\n\n\n\n1.\n\n\t\n\nSPED courses at 2000 and above level as included in the Major Programme Requirement as well as those labeled as # will be included in the calculation of Major GPA for honours classification.\n\n\n\n\n2.\n\n\t\n\nStudents who have completed 3 units of Core Skills Courses will be eligible to apply for exemption of 1 unit of University Core Physical Education Requirement.\n\nStudents are required to apply for the exemption. When exemption from a particular course is recognized, students can only be exempted from the course but not the units.\n\n\n\n\n[a]\n\n\t\n\nCapstone courses\n\n\n\n\n \n\n\t\n\n \n\n\n\n\n \n\n \n\n\t\n\nRecommended Course Pattern\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: PHPC1001, SPED2520, 2600, 2720, two Core Skills Courses\n\n\t\n\n13\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: SPED2540, 2610, 2810, 3430, 3630, 3920\n\n\t\n\n18\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: SPED3820, 4570, one Core Skills Course\n\n\t\n\n7\n\n\n\n\nMajor Elective(s): One Theoretical Course in Exercise Science or Health\n\n\t\n\n3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: SPED2710, 3910, 4201, 4900\n\n\t\n\n11\n\n\n\n\nMajor Elective(s): One Theoretical Course in Exercise Science or Health\n\n\t\n\n3\n\n\n\n\nTotal:\n\n\t\n\n55\n\n\n\n\n \n\n\n\n\nCourse List\n\n \n\n\n\n\nCourse Code\n\n\t\n\nCourse Title\n\n\t\n\nUnit(s)\n\n\n\n\nSPED2010\n\n\t\n\nTeam Sports\n\n\t\n\n1\n\n\n\n\nSPED2110\n\n\t\n\nIndividual Sports\n\n\t\n\n1\n\n\n\n\nSPED2141\n\n\t\n\nFundamental Movement and Dances\n\n\t\n\n1\n\n\n\n\nSPED2520\n\n\t\n\nFunctional Human Anatomy and Sports Injuries\n\n\t\n\n3\n\n\n\n\nSPED2540\n\n\t\n\nIntroduction to Exercise Physiology\n\n\t\n\n3\n\n\n\n\nSPED2600\n\n\t\n\nBasic Statistics, Test and Measurement for Physical Education\n\n\t\n\n3\n\n\n\n\nSPED2610\n\n\t\n\nIntroduction to Exercise Biomechanics\n\n\t\n\n3\n\n\n\n\nSPED2710\n\n\t\n\nSociology of Physical Education and Sports\n\n\t\n\n3\n\n\n\n\nSPED2720\n\n\t\n\nFoundation of Physical Education and Sports\n\n\t\n\n3\n\n\n\n\nSPED2810\n\n\t\n\nPsychomotor Learning\n\n\t\n\n3\n\n\n\n\nSPED3430\n\n\t\n\nAdministration and Management in Physical Education and Sports\n\n\t\n\n3\n\n\n\n\nSPED3550\n\n\t\n\nPhysiology of Human Performance\n\n\t\n\n3\n\n\n\n\nSPED3630\n\n\t\n\nIntroduction to Research Methods\n\n\t\n\n3\n\n\n\n\nSPED3700\n\n\t\n\nSports and Health Technology\n\n\t\n\n3\n\n\n\n\nSPED3731\n\n\t\n\nSelected Topics in Sports Sociology\n\n\t\n\n3\n\n\n\n\nSPED3820\n\n\t\n\nIntroduction to Exercise and Sports Psychology\n\n\t\n\n3\n\n\n\n\nSPED3910\n\n\t\n\nAdapted Physical Education and Sports\n\n\t\n\n3\n\n\n\n\nSPED3920\n\n\t\n\nHuman Growth and Health Education\n\n\t\n\n3\n\n\n\n\nSPED4201\n\n\t\n\nInternship in Sports Industry\n\n\t\n\n2\n\n\n\n\nSPED4560\n\n\t\n\nPhysical Fitness Appraisal and Exercise Prescription\n\n\t\n\n3\n\n\n\n\nSPED4570\n\n\t\n\nEducation and Promotion of Exercise and Health\n\n\t\n\n3\n\n\n\n\nSPED4640\n\n\t\n\nHuman Kinematics and Kinetics\n\n\t\n\n3\n\n\n\n\nSPED4830\n\n\t\n\nPsychological Aspects of Sports and Exercise\n\n\t\n\n3\n\n\n\n\nSPED4900 \n\n\t\n\nResearch Project\n\n\t\n\n3\n\n\n\n\nCHPR3002\n\n\t\n\nHealth Education and Health Behaviours\n\n\t\n\n3\n\n\n\n\nCHPR4012\n\n\t\n\nMental Health as a Public Health Issue\n\n\t\n\n3\n\n\n\n\nPHPC1001\n\n\t\n\nFoundations in Public Health\n\n\t\n\n2\n\n\n\n\nPHPC2007\n\n\t\n\nNutrition and Health\n\n\t\n\n3\n\n\n\n\nPHPC2009\n\n\t\n\nEnvironment and Work\n\n\t\n\n3\n\n \n\n\n \n\nStudy Scheme\n\n\nLearning Outcomes\n \n\n\t\n\n \n\n1.\n\n\t\n\nMajor Programme:\n\n\n\n\nGraduates of the B.Sc. Programme in Exercise Science and Health Education (ESHE) will be able to:\n\n\n\n\n(1)\n\n\t\n\ndemonstrate specialist knowledge and professional skills in Exercise Science and Health Education; (K/S)\n\n\n\n\n(2)\n\n\t\n\nplan and implement a programme of investigative work; (K/S/V)\n\n\n\n\n(3)\n\n\t\n\ndemonstrate an informed, critical, and innovative approach to learning through understanding and applying knowledge and skills learned from the field of exercise science towards the advancement of human health, performance and quality of life, through effective education, promotion, evaluation, research and development; (K/S/V)\n\n\n\n\n(4)\n\n\t\n\nsynthesize and evaluate strategies to enhance professionalism in administrative and managerial roles in sports, exercise science and health sectors; (K/S/V)\n\n\n\n\n(5)\n\n\t\n\ngather and use information as a strategic resource to contribute creatively to the development of Exercise Science and Health Education; (K/S/V)\n\n\n\n\n(6)\n\n\t\n\ndisplay a critical and creative attitude in their professional life; (K/S/V) and\n\n\n\n\n(7)\n\n\t\n\napply their knowledge and skills in exercise science and health practices. (K/S)\n\n\n\n\n \n\nK = Knowledge outcomes     S = Skills outcomes       V = Values and attitude outcomes\n\n \n\n \n\n\n\n\n \n\n \n\n \n\n\n"
+}

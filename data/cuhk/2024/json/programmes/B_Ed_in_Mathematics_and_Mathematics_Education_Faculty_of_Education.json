@@ -1,0 +1,1289 @@
+{
+  "programme_id": "B_Ed_in_Mathematics_and_Mathematics_Education__Faculty_of_Education",
+  "academic_program": "B.Ed. in Mathematics and Mathematics Education",
+  "faculty": "Faculty of Education",
+  "academic_year": 2024,
+  "admission_cohort": "2024-25",
+  "requirement_summary": {
+    "minimum_units_as_printed": "a minimum of 102 units",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Faculty Package",
+        "units_as_printed": "6",
+        "course_mentions": [
+          {
+            "course_code": "EDUC2120",
+            "prefix_inferred": false,
+            "evidence": "EDUC2120, 2312"
+          },
+          {
+            "course_code": "EDUC2312",
+            "prefix_inferred": true,
+            "evidence": "EDUC2120, 2312"
+          },
+          {
+            "course_code": "MATH1010",
+            "prefix_inferred": false,
+            "evidence": "MATH1010/1018[a] or 1030/1038[a]"
+          },
+          {
+            "course_code": "MATH1018",
+            "prefix_inferred": true,
+            "evidence": "MATH1010/1018[a] or 1030/1038[a]"
+          },
+          {
+            "course_code": "MATH1030",
+            "prefix_inferred": true,
+            "evidence": "MATH1010/1018[a] or 1030/1038[a]"
+          },
+          {
+            "course_code": "MATH1038",
+            "prefix_inferred": true,
+            "evidence": "MATH1010/1018[a] or 1030/1038[a]"
+          }
+        ],
+        "raw_text": "Faculty of Education\n6\nEDUC2120, 2312\nFaculty of Science\n3\nMATH1010/1018[a] or 1030/1038[a]"
+      },
+      {
+        "number": 2,
+        "title": "Required Courses",
+        "units_as_printed": "26",
+        "course_mentions": [
+          {
+            "course_code": "MATH1010",
+            "prefix_inferred": false,
+            "evidence": "MATH1010/1018[a] or 1030/1038[a], 1050/1058, 2010/2018, 2020/2028, 2040/2048, 2050/2058, 2070/2078, 2221, 2230"
+          },
+          {
+            "course_code": "MATH1018",
+            "prefix_inferred": true,
+            "evidence": "MATH1010/1018[a] or 1030/1038[a], 1050/1058, 2010/2018, 2020/2028, 2040/2048, 2050/2058, 2070/2078, 2221, 2230"
+          },
+          {
+            "course_code": "MATH1030",
+            "prefix_inferred": true,
+            "evidence": "MATH1010/1018[a] or 1030/1038[a], 1050/1058, 2010/2018, 2020/2028, 2040/2048, 2050/2058, 2070/2078, 2221, 2230"
+          },
+          {
+            "course_code": "MATH1038",
+            "prefix_inferred": true,
+            "evidence": "MATH1010/1018[a] or 1030/1038[a], 1050/1058, 2010/2018, 2020/2028, 2040/2048, 2050/2058, 2070/2078, 2221, 2230"
+          },
+          {
+            "course_code": "MATH1050",
+            "prefix_inferred": true,
+            "evidence": "MATH1010/1018[a] or 1030/1038[a], 1050/1058, 2010/2018, 2020/2028, 2040/2048, 2050/2058, 2070/2078, 2221, 2230"
+          },
+          {
+            "course_code": "MATH1058",
+            "prefix_inferred": true,
+            "evidence": "MATH1010/1018[a] or 1030/1038[a], 1050/1058, 2010/2018, 2020/2028, 2040/2048, 2050/2058, 2070/2078, 2221, 2230"
+          },
+          {
+            "course_code": "MATH2010",
+            "prefix_inferred": true,
+            "evidence": "MATH1010/1018[a] or 1030/1038[a], 1050/1058, 2010/2018, 2020/2028, 2040/2048, 2050/2058, 2070/2078, 2221, 2230"
+          },
+          {
+            "course_code": "MATH2018",
+            "prefix_inferred": true,
+            "evidence": "MATH1010/1018[a] or 1030/1038[a], 1050/1058, 2010/2018, 2020/2028, 2040/2048, 2050/2058, 2070/2078, 2221, 2230"
+          },
+          {
+            "course_code": "MATH2020",
+            "prefix_inferred": true,
+            "evidence": "MATH1010/1018[a] or 1030/1038[a], 1050/1058, 2010/2018, 2020/2028, 2040/2048, 2050/2058, 2070/2078, 2221, 2230"
+          },
+          {
+            "course_code": "MATH2028",
+            "prefix_inferred": true,
+            "evidence": "MATH1010/1018[a] or 1030/1038[a], 1050/1058, 2010/2018, 2020/2028, 2040/2048, 2050/2058, 2070/2078, 2221, 2230"
+          },
+          {
+            "course_code": "MATH2040",
+            "prefix_inferred": true,
+            "evidence": "MATH1010/1018[a] or 1030/1038[a], 1050/1058, 2010/2018, 2020/2028, 2040/2048, 2050/2058, 2070/2078, 2221, 2230"
+          },
+          {
+            "course_code": "MATH2048",
+            "prefix_inferred": true,
+            "evidence": "MATH1010/1018[a] or 1030/1038[a], 1050/1058, 2010/2018, 2020/2028, 2040/2048, 2050/2058, 2070/2078, 2221, 2230"
+          },
+          {
+            "course_code": "MATH2050",
+            "prefix_inferred": true,
+            "evidence": "MATH1010/1018[a] or 1030/1038[a], 1050/1058, 2010/2018, 2020/2028, 2040/2048, 2050/2058, 2070/2078, 2221, 2230"
+          },
+          {
+            "course_code": "MATH2058",
+            "prefix_inferred": true,
+            "evidence": "MATH1010/1018[a] or 1030/1038[a], 1050/1058, 2010/2018, 2020/2028, 2040/2048, 2050/2058, 2070/2078, 2221, 2230"
+          },
+          {
+            "course_code": "MATH2070",
+            "prefix_inferred": true,
+            "evidence": "MATH1010/1018[a] or 1030/1038[a], 1050/1058, 2010/2018, 2020/2028, 2040/2048, 2050/2058, 2070/2078, 2221, 2230"
+          },
+          {
+            "course_code": "MATH2078",
+            "prefix_inferred": true,
+            "evidence": "MATH1010/1018[a] or 1030/1038[a], 1050/1058, 2010/2018, 2020/2028, 2040/2048, 2050/2058, 2070/2078, 2221, 2230"
+          },
+          {
+            "course_code": "MATH2221",
+            "prefix_inferred": true,
+            "evidence": "MATH1010/1018[a] or 1030/1038[a], 1050/1058, 2010/2018, 2020/2028, 2040/2048, 2050/2058, 2070/2078, 2221, 2230"
+          },
+          {
+            "course_code": "MATH2230",
+            "prefix_inferred": true,
+            "evidence": "MATH1010/1018[a] or 1030/1038[a], 1050/1058, 2010/2018, 2020/2028, 2040/2048, 2050/2058, 2070/2078, 2221, 2230"
+          },
+          {
+            "course_code": "BMED3011",
+            "prefix_inferred": false,
+            "evidence": "BMED3011, 3021, 3031, 3051, 3071, 3081, 3091"
+          },
+          {
+            "course_code": "BMED3021",
+            "prefix_inferred": true,
+            "evidence": "BMED3011, 3021, 3031, 3051, 3071, 3081, 3091"
+          },
+          {
+            "course_code": "BMED3031",
+            "prefix_inferred": true,
+            "evidence": "BMED3011, 3021, 3031, 3051, 3071, 3081, 3091"
+          },
+          {
+            "course_code": "BMED3051",
+            "prefix_inferred": true,
+            "evidence": "BMED3011, 3021, 3031, 3051, 3071, 3081, 3091"
+          },
+          {
+            "course_code": "BMED3071",
+            "prefix_inferred": true,
+            "evidence": "BMED3011, 3021, 3031, 3051, 3071, 3081, 3091"
+          },
+          {
+            "course_code": "BMED3081",
+            "prefix_inferred": true,
+            "evidence": "BMED3011, 3021, 3031, 3051, 3071, 3081, 3091"
+          },
+          {
+            "course_code": "BMED3091",
+            "prefix_inferred": true,
+            "evidence": "BMED3011, 3021, 3031, 3051, 3071, 3081, 3091"
+          },
+          {
+            "course_code": "EDUC2240",
+            "prefix_inferred": false,
+            "evidence": "EDUC2240, 3201, 3311, 4340"
+          },
+          {
+            "course_code": "EDUC3201",
+            "prefix_inferred": true,
+            "evidence": "EDUC2240, 3201, 3311, 4340"
+          },
+          {
+            "course_code": "EDUC3311",
+            "prefix_inferred": true,
+            "evidence": "EDUC2240, 3201, 3311, 4340"
+          },
+          {
+            "course_code": "EDUC4340",
+            "prefix_inferred": true,
+            "evidence": "EDUC2240, 3201, 3311, 4340"
+          },
+          {
+            "course_code": "EDUC4030",
+            "prefix_inferred": false,
+            "evidence": "EDUC4030, 4040"
+          },
+          {
+            "course_code": "EDUC4040",
+            "prefix_inferred": true,
+            "evidence": "EDUC4030, 4040"
+          },
+          {
+            "course_code": "BMED4510",
+            "prefix_inferred": false,
+            "evidence": "BMED4510[c], 4520[c]"
+          },
+          {
+            "course_code": "BMED4520",
+            "prefix_inferred": true,
+            "evidence": "BMED4510[c], 4520[c]"
+          }
+        ],
+        "raw_text": "(a)\nSubject Knowledge\n26\nMATH1010/1018[a] or 1030/1038[a], 1050/1058, 2010/2018, 2020/2028, 2040/2048, 2050/2058, 2070/2078, 2221, 2230\n(b)\nPedagogy[b]\n21\nBMED3011, 3021, 3031, 3051, 3071, 3081, 3091\n(c)\nEducational Studies\n10\nEDUC2240, 3201, 3311, 4340\n(d)\nTeaching Practice\n10\nEDUC4030, 4040\n(e)\nResearch Experience\n6\nBMED4510[c], 4520[c]"
+      },
+      {
+        "number": 3,
+        "title": "Elective Courses",
+        "units_as_printed": "18",
+        "course_mentions": [
+          {
+            "course_code": "MATH2060",
+            "prefix_inferred": false,
+            "evidence": "MATH2060/2068, MATH courses at 3000 or above level except MATH4400 and 4900"
+          },
+          {
+            "course_code": "MATH2068",
+            "prefix_inferred": true,
+            "evidence": "MATH2060/2068, MATH courses at 3000 or above level except MATH4400 and 4900"
+          },
+          {
+            "course_code": "MATH4400",
+            "prefix_inferred": false,
+            "evidence": "MATH2060/2068, MATH courses at 3000 or above level except MATH4400 and 4900"
+          },
+          {
+            "course_code": "MATH4900",
+            "prefix_inferred": true,
+            "evidence": "MATH2060/2068, MATH courses at 3000 or above level except MATH4400 and 4900"
+          },
+          {
+            "course_code": "EDUC2210",
+            "prefix_inferred": false,
+            "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+          },
+          {
+            "course_code": "EDUC2220",
+            "prefix_inferred": true,
+            "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+          },
+          {
+            "course_code": "EDUC3140",
+            "prefix_inferred": true,
+            "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+          },
+          {
+            "course_code": "EDUC3150",
+            "prefix_inferred": true,
+            "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+          },
+          {
+            "course_code": "EDUC3200",
+            "prefix_inferred": true,
+            "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+          },
+          {
+            "course_code": "EDUC3260",
+            "prefix_inferred": true,
+            "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+          },
+          {
+            "course_code": "EDUC3270",
+            "prefix_inferred": true,
+            "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+          },
+          {
+            "course_code": "EDUC3280",
+            "prefix_inferred": true,
+            "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+          },
+          {
+            "course_code": "EDUC3290",
+            "prefix_inferred": true,
+            "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+          },
+          {
+            "course_code": "EDUC4110",
+            "prefix_inferred": true,
+            "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+          },
+          {
+            "course_code": "EDUC4131",
+            "prefix_inferred": true,
+            "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+          },
+          {
+            "course_code": "EDUC4320",
+            "prefix_inferred": true,
+            "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+          },
+          {
+            "course_code": "EDUC4330",
+            "prefix_inferred": true,
+            "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+          }
+        ],
+        "raw_text": "(a)\n18 units of Subject Knowledge courses chosen from (i) OR (i) and (ii):\n18\n(i)\nMATH2060/2068, MATH courses at 3000 or above level except MATH4400 and 4900\n(ii)\n9 units of courses chosen from one of the following subject areas:\nCSCI, ECON, PHYS, STAT\n(b)\nEducational Studies\n2\n2 units of course chosen from the following:\nEDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330\nTotal:\n102\nExplanatory Notes:"
+      },
+      {
+        "number": 1,
+        "title": "Major Programme",
+        "units_as_printed": null,
+        "course_mentions": [],
+        "raw_text": "Graduates from this Progamme will have acquired\n(1)\nsufficient mathematics knowledge of mathematical analysis, linear algebra, computer programming for mathematics, and further knowledge essential to teaching up to senior secondary level;\n(2)\nan understanding of mathematical literacy which is considered to have desirable practical outcomes for the teaching of mathematics in both primary and secondary sectors;\n(3)\nthe communication and pedagogical skills expected of teachers of mathematics;\n(4)\nan understanding of mathematical concepts and theories and their application in teaching mathematics;\n(5)\nthe ability to formulate and solve practical problems mathematically;\n(6)\nthe ability to critically analyse current approaches and methods in mathematics education;\n(7)\nan ability to understand research topics on teaching and learning of mathematics;\n(8)\npedagogical content knowledge in teaching mathematics;\n(9)\npractical skills in using textbooks and other teaching resources and evaluation of learning outcomes;\n(10)\na capability of establishing intellectual development with an emphasis on analytical and problem-solving skills;\n(11)\nan appreciation of the contribution of mathematics to the formation and improvement of human society;\n(12)\nan interest and an appreciation of professional values of an educator."
+      }
+    ]
+  },
+  "all_course_mentions": [
+    {
+      "course_code": "EDUC2120",
+      "prefix_inferred": false,
+      "evidence": "EDUC2120, 2312"
+    },
+    {
+      "course_code": "EDUC2312",
+      "prefix_inferred": true,
+      "evidence": "EDUC2120, 2312"
+    },
+    {
+      "course_code": "MATH1010",
+      "prefix_inferred": false,
+      "evidence": "MATH1010/1018[a] or 1030/1038[a]"
+    },
+    {
+      "course_code": "MATH1018",
+      "prefix_inferred": true,
+      "evidence": "MATH1010/1018[a] or 1030/1038[a]"
+    },
+    {
+      "course_code": "MATH1030",
+      "prefix_inferred": true,
+      "evidence": "MATH1010/1018[a] or 1030/1038[a]"
+    },
+    {
+      "course_code": "MATH1038",
+      "prefix_inferred": true,
+      "evidence": "MATH1010/1018[a] or 1030/1038[a]"
+    },
+    {
+      "course_code": "MATH1010",
+      "prefix_inferred": false,
+      "evidence": "MATH1010/1018[a] or 1030/1038[a], 1050/1058, 2010/2018, 2020/2028, 2040/2048, 2050/2058, 2070/2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH1018",
+      "prefix_inferred": true,
+      "evidence": "MATH1010/1018[a] or 1030/1038[a], 1050/1058, 2010/2018, 2020/2028, 2040/2048, 2050/2058, 2070/2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH1030",
+      "prefix_inferred": true,
+      "evidence": "MATH1010/1018[a] or 1030/1038[a], 1050/1058, 2010/2018, 2020/2028, 2040/2048, 2050/2058, 2070/2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH1038",
+      "prefix_inferred": true,
+      "evidence": "MATH1010/1018[a] or 1030/1038[a], 1050/1058, 2010/2018, 2020/2028, 2040/2048, 2050/2058, 2070/2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH1050",
+      "prefix_inferred": true,
+      "evidence": "MATH1010/1018[a] or 1030/1038[a], 1050/1058, 2010/2018, 2020/2028, 2040/2048, 2050/2058, 2070/2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH1058",
+      "prefix_inferred": true,
+      "evidence": "MATH1010/1018[a] or 1030/1038[a], 1050/1058, 2010/2018, 2020/2028, 2040/2048, 2050/2058, 2070/2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH2010",
+      "prefix_inferred": true,
+      "evidence": "MATH1010/1018[a] or 1030/1038[a], 1050/1058, 2010/2018, 2020/2028, 2040/2048, 2050/2058, 2070/2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH2018",
+      "prefix_inferred": true,
+      "evidence": "MATH1010/1018[a] or 1030/1038[a], 1050/1058, 2010/2018, 2020/2028, 2040/2048, 2050/2058, 2070/2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH2020",
+      "prefix_inferred": true,
+      "evidence": "MATH1010/1018[a] or 1030/1038[a], 1050/1058, 2010/2018, 2020/2028, 2040/2048, 2050/2058, 2070/2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH2028",
+      "prefix_inferred": true,
+      "evidence": "MATH1010/1018[a] or 1030/1038[a], 1050/1058, 2010/2018, 2020/2028, 2040/2048, 2050/2058, 2070/2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH2040",
+      "prefix_inferred": true,
+      "evidence": "MATH1010/1018[a] or 1030/1038[a], 1050/1058, 2010/2018, 2020/2028, 2040/2048, 2050/2058, 2070/2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH2048",
+      "prefix_inferred": true,
+      "evidence": "MATH1010/1018[a] or 1030/1038[a], 1050/1058, 2010/2018, 2020/2028, 2040/2048, 2050/2058, 2070/2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH2050",
+      "prefix_inferred": true,
+      "evidence": "MATH1010/1018[a] or 1030/1038[a], 1050/1058, 2010/2018, 2020/2028, 2040/2048, 2050/2058, 2070/2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH2058",
+      "prefix_inferred": true,
+      "evidence": "MATH1010/1018[a] or 1030/1038[a], 1050/1058, 2010/2018, 2020/2028, 2040/2048, 2050/2058, 2070/2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH2070",
+      "prefix_inferred": true,
+      "evidence": "MATH1010/1018[a] or 1030/1038[a], 1050/1058, 2010/2018, 2020/2028, 2040/2048, 2050/2058, 2070/2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH2078",
+      "prefix_inferred": true,
+      "evidence": "MATH1010/1018[a] or 1030/1038[a], 1050/1058, 2010/2018, 2020/2028, 2040/2048, 2050/2058, 2070/2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH2221",
+      "prefix_inferred": true,
+      "evidence": "MATH1010/1018[a] or 1030/1038[a], 1050/1058, 2010/2018, 2020/2028, 2040/2048, 2050/2058, 2070/2078, 2221, 2230"
+    },
+    {
+      "course_code": "MATH2230",
+      "prefix_inferred": true,
+      "evidence": "MATH1010/1018[a] or 1030/1038[a], 1050/1058, 2010/2018, 2020/2028, 2040/2048, 2050/2058, 2070/2078, 2221, 2230"
+    },
+    {
+      "course_code": "BMED3011",
+      "prefix_inferred": false,
+      "evidence": "BMED3011, 3021, 3031, 3051, 3071, 3081, 3091"
+    },
+    {
+      "course_code": "BMED3021",
+      "prefix_inferred": true,
+      "evidence": "BMED3011, 3021, 3031, 3051, 3071, 3081, 3091"
+    },
+    {
+      "course_code": "BMED3031",
+      "prefix_inferred": true,
+      "evidence": "BMED3011, 3021, 3031, 3051, 3071, 3081, 3091"
+    },
+    {
+      "course_code": "BMED3051",
+      "prefix_inferred": true,
+      "evidence": "BMED3011, 3021, 3031, 3051, 3071, 3081, 3091"
+    },
+    {
+      "course_code": "BMED3071",
+      "prefix_inferred": true,
+      "evidence": "BMED3011, 3021, 3031, 3051, 3071, 3081, 3091"
+    },
+    {
+      "course_code": "BMED3081",
+      "prefix_inferred": true,
+      "evidence": "BMED3011, 3021, 3031, 3051, 3071, 3081, 3091"
+    },
+    {
+      "course_code": "BMED3091",
+      "prefix_inferred": true,
+      "evidence": "BMED3011, 3021, 3031, 3051, 3071, 3081, 3091"
+    },
+    {
+      "course_code": "EDUC2240",
+      "prefix_inferred": false,
+      "evidence": "EDUC2240, 3201, 3311, 4340"
+    },
+    {
+      "course_code": "EDUC3201",
+      "prefix_inferred": true,
+      "evidence": "EDUC2240, 3201, 3311, 4340"
+    },
+    {
+      "course_code": "EDUC3311",
+      "prefix_inferred": true,
+      "evidence": "EDUC2240, 3201, 3311, 4340"
+    },
+    {
+      "course_code": "EDUC4340",
+      "prefix_inferred": true,
+      "evidence": "EDUC2240, 3201, 3311, 4340"
+    },
+    {
+      "course_code": "EDUC4030",
+      "prefix_inferred": false,
+      "evidence": "EDUC4030, 4040"
+    },
+    {
+      "course_code": "EDUC4040",
+      "prefix_inferred": true,
+      "evidence": "EDUC4030, 4040"
+    },
+    {
+      "course_code": "BMED4510",
+      "prefix_inferred": false,
+      "evidence": "BMED4510[c], 4520[c]"
+    },
+    {
+      "course_code": "BMED4520",
+      "prefix_inferred": true,
+      "evidence": "BMED4510[c], 4520[c]"
+    },
+    {
+      "course_code": "MATH2060",
+      "prefix_inferred": false,
+      "evidence": "MATH2060/2068, MATH courses at 3000 or above level except MATH4400 and 4900"
+    },
+    {
+      "course_code": "MATH2068",
+      "prefix_inferred": true,
+      "evidence": "MATH2060/2068, MATH courses at 3000 or above level except MATH4400 and 4900"
+    },
+    {
+      "course_code": "MATH4400",
+      "prefix_inferred": false,
+      "evidence": "MATH2060/2068, MATH courses at 3000 or above level except MATH4400 and 4900"
+    },
+    {
+      "course_code": "MATH4900",
+      "prefix_inferred": true,
+      "evidence": "MATH2060/2068, MATH courses at 3000 or above level except MATH4400 and 4900"
+    },
+    {
+      "course_code": "EDUC2210",
+      "prefix_inferred": false,
+      "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+    },
+    {
+      "course_code": "EDUC2220",
+      "prefix_inferred": true,
+      "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+    },
+    {
+      "course_code": "EDUC3140",
+      "prefix_inferred": true,
+      "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+    },
+    {
+      "course_code": "EDUC3150",
+      "prefix_inferred": true,
+      "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+    },
+    {
+      "course_code": "EDUC3200",
+      "prefix_inferred": true,
+      "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+    },
+    {
+      "course_code": "EDUC3260",
+      "prefix_inferred": true,
+      "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+    },
+    {
+      "course_code": "EDUC3270",
+      "prefix_inferred": true,
+      "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+    },
+    {
+      "course_code": "EDUC3280",
+      "prefix_inferred": true,
+      "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+    },
+    {
+      "course_code": "EDUC3290",
+      "prefix_inferred": true,
+      "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+    },
+    {
+      "course_code": "EDUC4110",
+      "prefix_inferred": true,
+      "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+    },
+    {
+      "course_code": "EDUC4131",
+      "prefix_inferred": true,
+      "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+    },
+    {
+      "course_code": "EDUC4320",
+      "prefix_inferred": true,
+      "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+    },
+    {
+      "course_code": "EDUC4330",
+      "prefix_inferred": true,
+      "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+    },
+    {
+      "course_code": "MATH1010",
+      "prefix_inferred": false,
+      "evidence": "Both MATH1010/1018 and 1030/1038 are required courses. Students taking MATH1010/1018 as a Faculty Package course should take MATH1030/1038 to fulfill requirement 2(a) and vice versa."
+    },
+    {
+      "course_code": "MATH1018",
+      "prefix_inferred": true,
+      "evidence": "Both MATH1010/1018 and 1030/1038 are required courses. Students taking MATH1010/1018 as a Faculty Package course should take MATH1030/1038 to fulfill requirement 2(a) and vice versa."
+    },
+    {
+      "course_code": "MATH1030",
+      "prefix_inferred": true,
+      "evidence": "Both MATH1010/1018 and 1030/1038 are required courses. Students taking MATH1010/1018 as a Faculty Package course should take MATH1030/1038 to fulfill requirement 2(a) and vice versa."
+    },
+    {
+      "course_code": "MATH1038",
+      "prefix_inferred": true,
+      "evidence": "Both MATH1010/1018 and 1030/1038 are required courses. Students taking MATH1010/1018 as a Faculty Package course should take MATH1030/1038 to fulfill requirement 2(a) and vice versa."
+    },
+    {
+      "course_code": "BMED4910",
+      "prefix_inferred": false,
+      "evidence": "Subject to approval of the Programme Director, BMED4910 and 4920 can be used to substitute two of the required courses under Pedagogy."
+    },
+    {
+      "course_code": "BMED4920",
+      "prefix_inferred": true,
+      "evidence": "Subject to approval of the Programme Director, BMED4910 and 4920 can be used to substitute two of the required courses under Pedagogy."
+    },
+    {
+      "course_code": "EDUC2312",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: EDUC2312, MATH1010/1018 or 1030/1038"
+    },
+    {
+      "course_code": "MATH1010",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: EDUC2312, MATH1010/1018 or 1030/1038"
+    },
+    {
+      "course_code": "MATH1018",
+      "prefix_inferred": true,
+      "evidence": "Faculty Package: EDUC2312, MATH1010/1018 or 1030/1038"
+    },
+    {
+      "course_code": "MATH1030",
+      "prefix_inferred": true,
+      "evidence": "Faculty Package: EDUC2312, MATH1010/1018 or 1030/1038"
+    },
+    {
+      "course_code": "MATH1038",
+      "prefix_inferred": true,
+      "evidence": "Faculty Package: EDUC2312, MATH1010/1018 or 1030/1038"
+    },
+    {
+      "course_code": "EDUC2120",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: EDUC2120"
+    },
+    {
+      "course_code": "MATH1010",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH1010/1018 or 1030/1038, 1050/1058"
+    },
+    {
+      "course_code": "MATH1018",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH1010/1018 or 1030/1038, 1050/1058"
+    },
+    {
+      "course_code": "MATH1030",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH1010/1018 or 1030/1038, 1050/1058"
+    },
+    {
+      "course_code": "MATH1038",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH1010/1018 or 1030/1038, 1050/1058"
+    },
+    {
+      "course_code": "MATH1050",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH1010/1018 or 1030/1038, 1050/1058"
+    },
+    {
+      "course_code": "MATH1058",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH1010/1018 or 1030/1038, 1050/1058"
+    },
+    {
+      "course_code": "BMED3011",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BMED3011, EDUC2240 or 3311, MATH2010/2018"
+    },
+    {
+      "course_code": "EDUC2240",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BMED3011, EDUC2240 or 3311, MATH2010/2018"
+    },
+    {
+      "course_code": "EDUC3311",
+      "prefix_inferred": true,
+      "evidence": "Major Required: BMED3011, EDUC2240 or 3311, MATH2010/2018"
+    },
+    {
+      "course_code": "MATH2010",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BMED3011, EDUC2240 or 3311, MATH2010/2018"
+    },
+    {
+      "course_code": "MATH2018",
+      "prefix_inferred": true,
+      "evidence": "Major Required: BMED3011, EDUC2240 or 3311, MATH2010/2018"
+    },
+    {
+      "course_code": "MATH2020",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH2020/2028, 2040/2048, 2221"
+    },
+    {
+      "course_code": "MATH2028",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH2020/2028, 2040/2048, 2221"
+    },
+    {
+      "course_code": "MATH2040",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH2020/2028, 2040/2048, 2221"
+    },
+    {
+      "course_code": "MATH2048",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH2020/2028, 2040/2048, 2221"
+    },
+    {
+      "course_code": "MATH2221",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH2020/2028, 2040/2048, 2221"
+    },
+    {
+      "course_code": "BMED3051",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BMED3051, MATH2050/2058, 2070/2078 or 2230, EDUC3201"
+    },
+    {
+      "course_code": "MATH2050",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BMED3051, MATH2050/2058, 2070/2078 or 2230, EDUC3201"
+    },
+    {
+      "course_code": "MATH2058",
+      "prefix_inferred": true,
+      "evidence": "Major Required: BMED3051, MATH2050/2058, 2070/2078 or 2230, EDUC3201"
+    },
+    {
+      "course_code": "MATH2070",
+      "prefix_inferred": true,
+      "evidence": "Major Required: BMED3051, MATH2050/2058, 2070/2078 or 2230, EDUC3201"
+    },
+    {
+      "course_code": "MATH2078",
+      "prefix_inferred": true,
+      "evidence": "Major Required: BMED3051, MATH2050/2058, 2070/2078 or 2230, EDUC3201"
+    },
+    {
+      "course_code": "MATH2230",
+      "prefix_inferred": true,
+      "evidence": "Major Required: BMED3051, MATH2050/2058, 2070/2078 or 2230, EDUC3201"
+    },
+    {
+      "course_code": "EDUC3201",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BMED3051, MATH2050/2058, 2070/2078 or 2230, EDUC3201"
+    },
+    {
+      "course_code": "BMED3081",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BMED3081, EDUC2240 or 3311, MATH2070/2078 or 2230"
+    },
+    {
+      "course_code": "EDUC2240",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BMED3081, EDUC2240 or 3311, MATH2070/2078 or 2230"
+    },
+    {
+      "course_code": "EDUC3311",
+      "prefix_inferred": true,
+      "evidence": "Major Required: BMED3081, EDUC2240 or 3311, MATH2070/2078 or 2230"
+    },
+    {
+      "course_code": "MATH2070",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BMED3081, EDUC2240 or 3311, MATH2070/2078 or 2230"
+    },
+    {
+      "course_code": "MATH2078",
+      "prefix_inferred": true,
+      "evidence": "Major Required: BMED3081, EDUC2240 or 3311, MATH2070/2078 or 2230"
+    },
+    {
+      "course_code": "MATH2230",
+      "prefix_inferred": true,
+      "evidence": "Major Required: BMED3081, EDUC2240 or 3311, MATH2070/2078 or 2230"
+    },
+    {
+      "course_code": "BMED3021",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BMED3021, EDUC4340"
+    },
+    {
+      "course_code": "EDUC4340",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BMED3021, EDUC4340"
+    },
+    {
+      "course_code": "BMED3071",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BMED3071, 4510, EDUC4030"
+    },
+    {
+      "course_code": "BMED4510",
+      "prefix_inferred": true,
+      "evidence": "Major Required: BMED3071, 4510, EDUC4030"
+    },
+    {
+      "course_code": "EDUC4030",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BMED3071, 4510, EDUC4030"
+    },
+    {
+      "course_code": "BMED3031",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BMED3031, 3091, EDUC4040"
+    },
+    {
+      "course_code": "BMED3091",
+      "prefix_inferred": true,
+      "evidence": "Major Required: BMED3031, 3091, EDUC4040"
+    },
+    {
+      "course_code": "EDUC4040",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BMED3031, 3091, EDUC4040"
+    },
+    {
+      "course_code": "BMED4520",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BMED4520"
+    },
+    {
+      "course_code": "MATH1010",
+      "prefix_inferred": false,
+      "evidence": "MATH1010"
+    },
+    {
+      "course_code": "MATH1018",
+      "prefix_inferred": false,
+      "evidence": "MATH1018"
+    },
+    {
+      "course_code": "MATH1030",
+      "prefix_inferred": false,
+      "evidence": "MATH1030"
+    },
+    {
+      "course_code": "MATH1038",
+      "prefix_inferred": false,
+      "evidence": "MATH1038"
+    },
+    {
+      "course_code": "MATH1050",
+      "prefix_inferred": false,
+      "evidence": "MATH1050"
+    },
+    {
+      "course_code": "MATH1058",
+      "prefix_inferred": false,
+      "evidence": "MATH1058"
+    },
+    {
+      "course_code": "MATH2010",
+      "prefix_inferred": false,
+      "evidence": "MATH2010"
+    },
+    {
+      "course_code": "MATH2018",
+      "prefix_inferred": false,
+      "evidence": "MATH2018"
+    },
+    {
+      "course_code": "MATH2020",
+      "prefix_inferred": false,
+      "evidence": "MATH2020"
+    },
+    {
+      "course_code": "MATH2028",
+      "prefix_inferred": false,
+      "evidence": "MATH2028"
+    },
+    {
+      "course_code": "MATH2040",
+      "prefix_inferred": false,
+      "evidence": "MATH2040"
+    },
+    {
+      "course_code": "MATH2048",
+      "prefix_inferred": false,
+      "evidence": "MATH2048"
+    },
+    {
+      "course_code": "MATH2050",
+      "prefix_inferred": false,
+      "evidence": "MATH2050"
+    },
+    {
+      "course_code": "MATH2058",
+      "prefix_inferred": false,
+      "evidence": "MATH2058"
+    },
+    {
+      "course_code": "MATH2060",
+      "prefix_inferred": false,
+      "evidence": "MATH2060"
+    },
+    {
+      "course_code": "MATH2068",
+      "prefix_inferred": false,
+      "evidence": "MATH2068"
+    },
+    {
+      "course_code": "MATH2070",
+      "prefix_inferred": false,
+      "evidence": "MATH2070"
+    },
+    {
+      "course_code": "MATH2078",
+      "prefix_inferred": false,
+      "evidence": "MATH2078"
+    },
+    {
+      "course_code": "MATH2221",
+      "prefix_inferred": false,
+      "evidence": "MATH2221"
+    },
+    {
+      "course_code": "MATH2230",
+      "prefix_inferred": false,
+      "evidence": "MATH2230"
+    },
+    {
+      "course_code": "MATH3020",
+      "prefix_inferred": false,
+      "evidence": "MATH3020"
+    },
+    {
+      "course_code": "MATH3030",
+      "prefix_inferred": false,
+      "evidence": "MATH3030"
+    },
+    {
+      "course_code": "MATH3040",
+      "prefix_inferred": false,
+      "evidence": "MATH3040"
+    },
+    {
+      "course_code": "MATH3060",
+      "prefix_inferred": false,
+      "evidence": "MATH3060"
+    },
+    {
+      "course_code": "MATH3070",
+      "prefix_inferred": false,
+      "evidence": "MATH3070"
+    },
+    {
+      "course_code": "MATH3080",
+      "prefix_inferred": false,
+      "evidence": "MATH3080"
+    },
+    {
+      "course_code": "MATH3093",
+      "prefix_inferred": false,
+      "evidence": "MATH3093"
+    },
+    {
+      "course_code": "MATH3215",
+      "prefix_inferred": false,
+      "evidence": "MATH3215"
+    },
+    {
+      "course_code": "MATH3230",
+      "prefix_inferred": false,
+      "evidence": "MATH3230"
+    },
+    {
+      "course_code": "MATH3240",
+      "prefix_inferred": false,
+      "evidence": "MATH3240"
+    },
+    {
+      "course_code": "MATH3250",
+      "prefix_inferred": false,
+      "evidence": "MATH3250"
+    },
+    {
+      "course_code": "MATH3260",
+      "prefix_inferred": false,
+      "evidence": "MATH3260"
+    },
+    {
+      "course_code": "MATH3270",
+      "prefix_inferred": false,
+      "evidence": "MATH3270"
+    },
+    {
+      "course_code": "MATH3280",
+      "prefix_inferred": false,
+      "evidence": "MATH3280"
+    },
+    {
+      "course_code": "MATH3290",
+      "prefix_inferred": false,
+      "evidence": "MATH3290"
+    },
+    {
+      "course_code": "MATH3310",
+      "prefix_inferred": false,
+      "evidence": "MATH3310"
+    },
+    {
+      "course_code": "MATH3320",
+      "prefix_inferred": false,
+      "evidence": "MATH3320"
+    },
+    {
+      "course_code": "MATH3330",
+      "prefix_inferred": false,
+      "evidence": "MATH3330"
+    },
+    {
+      "course_code": "MATH3340",
+      "prefix_inferred": false,
+      "evidence": "MATH3340"
+    },
+    {
+      "course_code": "MATH3360",
+      "prefix_inferred": false,
+      "evidence": "MATH3360"
+    },
+    {
+      "course_code": "MATH4010",
+      "prefix_inferred": false,
+      "evidence": "MATH4010"
+    },
+    {
+      "course_code": "MATH4020",
+      "prefix_inferred": false,
+      "evidence": "MATH4020"
+    },
+    {
+      "course_code": "MATH4030",
+      "prefix_inferred": false,
+      "evidence": "MATH4030"
+    },
+    {
+      "course_code": "MATH4050",
+      "prefix_inferred": false,
+      "evidence": "MATH4050"
+    },
+    {
+      "course_code": "MATH4060",
+      "prefix_inferred": false,
+      "evidence": "MATH4060"
+    },
+    {
+      "course_code": "MATH4080",
+      "prefix_inferred": false,
+      "evidence": "MATH4080"
+    },
+    {
+      "course_code": "MATH4210",
+      "prefix_inferred": false,
+      "evidence": "MATH4210"
+    },
+    {
+      "course_code": "MATH4220",
+      "prefix_inferred": false,
+      "evidence": "MATH4220"
+    },
+    {
+      "course_code": "MATH4230",
+      "prefix_inferred": false,
+      "evidence": "MATH4230"
+    },
+    {
+      "course_code": "MATH4240",
+      "prefix_inferred": false,
+      "evidence": "MATH4240"
+    },
+    {
+      "course_code": "MATH4250",
+      "prefix_inferred": false,
+      "evidence": "MATH4250"
+    },
+    {
+      "course_code": "MATH4260",
+      "prefix_inferred": false,
+      "evidence": "MATH4260"
+    },
+    {
+      "course_code": "MATH4280",
+      "prefix_inferred": false,
+      "evidence": "MATH4280"
+    },
+    {
+      "course_code": "BMED3011",
+      "prefix_inferred": false,
+      "evidence": "BMED3011"
+    },
+    {
+      "course_code": "BMED3021",
+      "prefix_inferred": false,
+      "evidence": "BMED3021"
+    },
+    {
+      "course_code": "BMED3031",
+      "prefix_inferred": false,
+      "evidence": "BMED3031"
+    },
+    {
+      "course_code": "BMED3051",
+      "prefix_inferred": false,
+      "evidence": "BMED3051"
+    },
+    {
+      "course_code": "BMED3071",
+      "prefix_inferred": false,
+      "evidence": "BMED3071"
+    },
+    {
+      "course_code": "BMED3081",
+      "prefix_inferred": false,
+      "evidence": "BMED3081"
+    },
+    {
+      "course_code": "BMED3091",
+      "prefix_inferred": false,
+      "evidence": "BMED3091"
+    },
+    {
+      "course_code": "BMED4910",
+      "prefix_inferred": false,
+      "evidence": "BMED4910"
+    },
+    {
+      "course_code": "BMED4920",
+      "prefix_inferred": false,
+      "evidence": "BMED4920"
+    },
+    {
+      "course_code": "EDUC2120",
+      "prefix_inferred": false,
+      "evidence": "EDUC2120"
+    },
+    {
+      "course_code": "EDUC2210",
+      "prefix_inferred": false,
+      "evidence": "EDUC2210"
+    },
+    {
+      "course_code": "EDUC2220",
+      "prefix_inferred": false,
+      "evidence": "EDUC2220"
+    },
+    {
+      "course_code": "EDUC2240",
+      "prefix_inferred": false,
+      "evidence": "EDUC2240"
+    },
+    {
+      "course_code": "EDUC2312",
+      "prefix_inferred": false,
+      "evidence": "EDUC2312"
+    },
+    {
+      "course_code": "EDUC3140",
+      "prefix_inferred": false,
+      "evidence": "EDUC3140"
+    },
+    {
+      "course_code": "EDUC3150",
+      "prefix_inferred": false,
+      "evidence": "EDUC3150"
+    },
+    {
+      "course_code": "EDUC3200",
+      "prefix_inferred": false,
+      "evidence": "EDUC3200"
+    },
+    {
+      "course_code": "EDUC3201",
+      "prefix_inferred": false,
+      "evidence": "EDUC3201"
+    },
+    {
+      "course_code": "EDUC3260",
+      "prefix_inferred": false,
+      "evidence": "EDUC3260"
+    },
+    {
+      "course_code": "EDUC3270",
+      "prefix_inferred": false,
+      "evidence": "EDUC3270"
+    },
+    {
+      "course_code": "EDUC3280",
+      "prefix_inferred": false,
+      "evidence": "EDUC3280"
+    },
+    {
+      "course_code": "EDUC3290",
+      "prefix_inferred": false,
+      "evidence": "EDUC3290"
+    },
+    {
+      "course_code": "EDUC3311",
+      "prefix_inferred": false,
+      "evidence": "EDUC3311"
+    },
+    {
+      "course_code": "EDUC4110",
+      "prefix_inferred": false,
+      "evidence": "EDUC4110"
+    },
+    {
+      "course_code": "EDUC4131",
+      "prefix_inferred": false,
+      "evidence": "EDUC4131"
+    },
+    {
+      "course_code": "EDUC4320",
+      "prefix_inferred": false,
+      "evidence": "EDUC4320"
+    },
+    {
+      "course_code": "EDUC4330",
+      "prefix_inferred": false,
+      "evidence": "EDUC4330"
+    },
+    {
+      "course_code": "EDUC4340",
+      "prefix_inferred": false,
+      "evidence": "EDUC4340"
+    },
+    {
+      "course_code": "EDUC4030",
+      "prefix_inferred": false,
+      "evidence": "EDUC4030"
+    },
+    {
+      "course_code": "EDUC4040",
+      "prefix_inferred": false,
+      "evidence": "EDUC4040"
+    },
+    {
+      "course_code": "BMED4510",
+      "prefix_inferred": false,
+      "evidence": "BMED4510"
+    },
+    {
+      "course_code": "BMED4520",
+      "prefix_inferred": false,
+      "evidence": "BMED4520"
+    }
+  ],
+  "course_code_aliases": [],
+  "source": {
+    "system": "CUHK CUSIS Browse Program Information",
+    "url": "https://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/tt_dsp_acad_prog.aspx",
+    "source_text_file": "data/cuhk/2024/programmes/B_Ed_in_Mathematics_and_Mathematics_Education__Faculty_of_Education.txt",
+    "reused_duplicate_entry": false,
+    "reused_from_faculty": null
+  },
+  "raw_text": "\n\nBrowse Program Information\n\n\n\n\n\n\nAcademic Program:\tB.Ed. in Mathematics and Mathematics Education\nAcademic Year:\t2024\nLanguage:\t\nEnglish\nSimplified Chinese\nTraditional Chinese\n\n\n\nLearning Outcomes\nStudy Scheme\n \n\n\t\n\nMathematics and Mathematics Education\n\nApplicable to students admitted in 2024-25\n\n\n\n\n \n\n\n\n\n \n\nMajor Programme Requirement\n\n \n\n\t\n\n \n\n\n\n\nStudents are required to complete a minimum of 102 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nFaculty Package:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nFaculty of Education\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nEDUC2120, 2312\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nFaculty of Science\n\n\t\n\n3\n\n\n\n\n \n\n\t\n\nMATH1010/1018[a] or 1030/1038[a]\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nRequired Courses:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nSubject Knowledge\n\n\t\n\n26\n\n\n\n\n \n\n\t\n\nMATH1010/1018[a] or 1030/1038[a], 1050/1058, 2010/2018, 2020/2028, 2040/2048, 2050/2058, 2070/2078, 2221, 2230\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nPedagogy[b]\n\n\t\n\n21\n\n\n\n\n \n\n\t\n\nBMED3011, 3021, 3031, 3051, 3071, 3081, 3091\n\n\t\n\n \n\n\n\n\n(c)\n\n\t\n\nEducational Studies\n\n\t\n\n10\n\n\n\n\n \n\n\t\n\nEDUC2240, 3201, 3311, 4340\n\n\t\n\n \n\n\n\n\n(d)\n\n\t\n\nTeaching Practice\n\n\t\n\n10\n\n\n\n\n \n\n\t\n\nEDUC4030, 4040\n\n\t\n\n \n\n\n\n\n(e)\n\n\t\n\nResearch Experience\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nBMED4510[c], 4520[c]\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nElective Courses:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\n18 units of Subject Knowledge courses chosen from (i) OR (i) and (ii):\n\n\t\n\n18\n\n\n\n\n(i)\n\n\t\n\nMATH2060/2068, MATH courses at 3000 or above level except MATH4400 and 4900\n\n\t\n\n \n\n\n\n\n(ii)\n\n\t\n\n9 units of courses chosen from one of the following subject areas:\n\nCSCI, ECON, PHYS, STAT\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nEducational Studies\n\n\t\n\n2\n\n\n\n\n \n\n\t\n\n2 units of course chosen from the following:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nEDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n102\n\n\n\n\n \n\n\n\n\nExplanatory Notes:\n\n\n\n\n1.\n\n\t\n\nBMED, CSCI, ECON, EDUC, MATH, PHYS and STAT courses at 2000 and above level as included in the Major Programme Requirement will be included in the calculation of Major GPA for honours classification.\n\n\n\n\n[a]\n\n\t\n\nBoth MATH1010/1018 and 1030/1038 are required courses. Students taking MATH1010/1018 as a Faculty Package course should take MATH1030/1038 to fulfill requirement 2(a) and vice versa.\n\n\n\n\n[b]\n\n\t\n\nSubject to approval of the Programme Director, BMED4910 and 4920 can be used to substitute two of the required courses under Pedagogy.\n\n\n\n\n[c]\n\n\t\n\nCapstone courses\n\n\n\n\n \n\n\t\n\n \n\n\n\n\n \n\n \n\n\t\n\nRecommended Course Pattern\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: EDUC2312, MATH1010/1018 or 1030/1038\n\n\t\n\n6\n\n\n\n\nMajor Required:\n\n\t\n\n \n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nFaculty Package: EDUC2120\n\n\t\n\n3\n\n\n\n\nMajor Required: MATH1010/1018 or 1030/1038, 1050/1058\n\n\t\n\n6\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: BMED3011, EDUC2240 or 3311, MATH2010/2018\n\n\t\n\n9\n\n\n\n\nMajor Elective(s): 0-1 MATH course\n\n\t\n\n0-3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: MATH2020/2028, 2040/2048, 2221\n\n\t\n\n8\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nThird Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: BMED3051, MATH2050/2058, 2070/2078 or 2230, EDUC3201\n\n\t\n\n11\n\n\n\n\nMajor Elective(s): 1 MATH course\n\n\t\n\n3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: BMED3081, EDUC2240 or 3311, MATH2070/2078 or 2230\n\n\t\n\n9\n\n\n\n\nMajor Elective(s): 2 MATH courses\n\n\t\n\n6\n\n\n\n\nFourth Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: BMED3021, EDUC4340\n\n\t\n\n5\n\n\n\n\nMajor Elective(s): 2-3 MATH courses\n\n\t\n\n6-9\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: BMED3071, 4510, EDUC4030\n\n\t\n\n11\n\n\n\n\nMajor Elective(s): 0-1 EDUC course\n\n\t\n\n0-2\n\n\n\n\nFifth Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: BMED3031, 3091, EDUC4040\n\n\t\n\n11\n\n\n\n\nMajor Elective(s): 0-1 EDUC course\n\n\t\n\n0-2\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: BMED4520\n\n\t\n\n3\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nTotal (including Faculty Package):\n\n\t\n\n102\n\n\n\n\n \n\nCourse List\n\n \n\n\n\n\nCourse Code\n\n\t\n\nCourse Title\n\n\t\n\nUnit(s)\n\n\n\n\nSubject Knowledge\n\n\n\n\nMATH1010\n\n\t\n\nUniversity Mathematics\n\n\t\n\n3\n\n\n\n\nMATH1018\n\n\t\n\nHonours University Mathematics\n\n\t\n\n3\n\n\n\n\nMATH1030\n\n\t\n\nLinear Algebra I\n\n\t\n\n3\n\n\n\n\nMATH1038\n\n\t\n\nHonours Linear Algebra I\n\n\t\n\n3\n\n\n\n\nMATH1050\n\n\t\n\nFoundation of Modern Mathematics\n\n\t\n\n3\n\n\n\n\nMATH1058\n\n\t\n\nHonours Foundation of Modern Mathematics\n\n\t\n\n3\n\n\n\n\nMATH2010\n\n\t\n\nAdvanced Calculus I\n\n\t\n\n3\n\n\n\n\nMATH2018\n\n\t\n\nHonours Advanced Calculus I\n\n\t\n\n3\n\n\n\n\nMATH2020\n\n\t\n\nAdvanced Calculus II\n\n\t\n\n3\n\n\n\n\nMATH2028\n\n\t\n\nHonours Advanced Calculus II\n\n\t\n\n3\n\n\n\n\nMATH2040\n\n\t\n\nLinear Algebra II\n\n\t\n\n3\n\n\n\n\nMATH2048\n\n\t\n\nHonours Linear Algebra II\n\n\t\n\n3\n\n\n\n\nMATH2050\n\n\t\n\nMathematical Analysis I\n\n\t\n\n3\n\n\n\n\nMATH2058\n\n\t\n\nHonours Mathematical Analysis I\n\n\t\n\n3\n\n\n\n\nMATH2060\n\n\t\n\nMathematical Analysis II\n\n\t\n\n3\n\n\n\n\nMATH2068\n\n\t\n\nHonours Mathematical Analysis II\n\n\t\n\n3\n\n\n\n\nMATH2070\n\n\t\n\nAlgebraic Structures\n\n\t\n\n3\n\n\n\n\nMATH2078\n\n\t\n\nHonours Algebraic Structures\n\n\t\n\n3\n\n\n\n\nMATH2221\n\n\t\n\nMathematics Laboratory II\n\n\t\n\n2\n\n\n\n\nMATH2230\n\n\t\n\nComplex Variables with Applications\n\n\t\n\n3\n\n\n\n\nMATH3020\n\n\t\n\nAxiomatic Set Theory and Applications\n\n\t\n\n3\n\n\n\n\nMATH3030\n\n\t\n\nAbstract Algebra\n\n\t\n\n3\n\n\n\n\nMATH3040\n\n\t\n\nFields and Galois Theory\n\n\t\n\n3\n\n\n\n\nMATH3060\n\n\t\n\nMathematical Analysis III\n\n\t\n\n3\n\n\n\n\nMATH3070\n\n\t\n\nIntroduction to Topology\n\n\t\n\n3\n\n\n\n\nMATH3080\n\n\t\n\nNumber Theory\n\n\t\n\n3\n\n\n\n\nMATH3093\n\n\t\n\nFourier Analysis\n\n\t\n\n3\n\n\n\n\nMATH3215\n\n\t\n\nOperations Research\n\n\t\n\n3\n\n\n\n\nMATH3230\n\n\t\n\nNumerical Analysis\n\n\t\n\n3\n\n\n\n\nMATH3240\n\n\t\n\nNumerical Methods for Differential Equations\n\n\t\n\n3\n\n\n\n\nMATH3250\n\n\t\n\nDiscrete Mathematics\n\n\t\n\n3\n\n\n\n\nMATH3260\n\n\t\n\nGraph Theory\n\n\t\n\n3\n\n\n\n\nMATH3270\n\n\t\n\nOrdinary Differential Equations\n\n\t\n\n3\n\n\n\n\nMATH3280\n\n\t\n\nIntroductory Probability\n\n\t\n\n3\n\n\n\n\nMATH3290\n\n\t\n\nMathematical Modeling\n\n\t\n\n3\n\n\n\n\nMATH3310\n\n\t\n\nComputational and Applied Mathematics\n\n\t\n\n3\n\n\n\n\nMATH3320\n\n\t\n\nFoundation of Data Analysis\n\n\t\n\n3\n\n\n\n\nMATH3330\n\n\t\n\nBig Data Computing\n\n\t\n\n3\n\n\n\n\nMATH3340\n\n\t\n\nMathematics of Machine Learning\n\n\t\n\n3\n\n\n\n\nMATH3360\n\n\t\n\nMathematical Imaging\n\n\t\n\n3\n\n\n\n\nMATH4010\n\n\t\n\nFunctional Analysis\n\n\t\n\n3\n\n\n\n\nMATH4020\n\n\t\n\nCalculus of Variations\n\n\t\n\n3\n\n\n\n\nMATH4030\n\n\t\n\nDifferential Geometry\n\n\t\n\n3\n\n\n\n\nMATH4050\n\n\t\n\nReal Analysis\n\n\t\n\n3\n\n\n\n\nMATH4060\n\n\t\n\nComplex Analysis\n\n\t\n\n3\n\n\n\n\nMATH4080\n\n\t\n\nModules and Representation Theory\n\n\t\n\n3\n\n\n\n\nMATH4210\n\n\t\n\nFinancial Mathematics\n\n\t\n\n3\n\n\n\n\nMATH4220\n\n\t\n\nPartial Differential Equations\n\n\t\n\n3\n\n\n\n\nMATH4230\n\n\t\n\nOptimization Theory\n\n\t\n\n3\n\n\n\n\nMATH4240\n\n\t\n\nStochastic Processes\n\n\t\n\n3\n\n\n\n\nMATH4250\n\n\t\n\nGame Theory\n\n\t\n\n3\n\n\n\n\nMATH4260\n\n\t\n\nCoding Theory and Cryptography\n\n\t\n\n3\n\n\n\n\nMATH4280\n\n\t\n\nInnovation and Design in Big Data Analysis\n\n\t\n\n3\n\n\n\n\nPedagogy\n\n\n\n\nBMED3011\n\n\t\n\nMathematics Curriculum and Teaching: Basic Theory and Practice\n\n\t\n\n3\n\n\n\n\nBMED3021\n\n\t\n\nMathematics Curriculum and Teaching: Instructional Technology and Design of STEM Learning Activities\n\n\t\n\n3\n\n\n\n\nBMED3031\n\n\t\n\nMathematical Literacy and Problem Solving\n\n\t\n\n3\n\n\n\n\nBMED3051\n\n\t\n\nThe Teaching of Number and Algebra\n\n\t\n\n3\n\n\n\n\nBMED3071\n\n\t\n\nThe Teaching of Probability and Statistics\n\n\t\n\n3\n\n\n\n\nBMED3081\n\n\t\n\nThe Teaching of Spatial Sense and Geometry\n\n\t\n\n3\n\n\n\n\nBMED3091\n\n\t\n\nContemporary Issues in Mathematics Education\n\n\t\n\n3\n\n\n\n\nBMED4910\n\n\t\n\nIndependent Study I\n\n\t\n\n3\n\n\n\n\nBMED4920\n\n\t\n\nIndependent Study II\n\n\t\n\n3\n\n\n\n\nEducational Studies\n\n\n\n\nEDUC2120\n\n\t\n\nPrinciples and Implementation of Curriculum and Instructional Design\n\n\t\n\n3\n\n\n\n\nEDUC2210\n\n\t\n\nEducation and Society in Hong Kong\n\n\t\n\n2\n\n\n\n\nEDUC2220\n\n\t\n\nEducational Thought\n\n\t\n\n2\n\n\n\n\nEDUC2240\n\n\t\n\nUnderstanding Schooling and Education Policy in Hong Kong\n\n\t\n\n3\n\n\n\n\nEDUC2312\n\n\t\n\nChild and Adolescent Development\n\n\t\n\n3\n\n\n\n\nEDUC3140\n\n\t\n\nCurricular Strategies for Tackling Individual Differences\n\n\t\n\n2\n\n\n\n\nEDUC3150\n\n\t\n\nGlobal Dialogues on Education for Sustainable Development in the Curriculum\n\n\t\n\n2\n\n\n\n\nEDUC3200\n\n\t\n\nDeveloping Intercultural Competence: Experiential Learning\n\n\t\n\n3\n\n\n\n\nEDUC3201\n\n\t\n\nEthics and Professional Standards for Teachers\n\n\t\n\n2\n\n\n\n\nEDUC3260\n\n\t\n\nTeacher Development and Leadership\n\n\t\n\n2\n\n\n\n\nEDUC3270\n\n\t\n\nEngendering Education\n\n\t\n\n2\n\n\n\n\nEDUC3280\n\n\t\n\nAn Introduction to Moral and Citizenship Education\n\n\t\n\n2\n\n\n\n\nEDUC3290\n\n\t\n\nMeaning Concerns, Life and Death Education\n\n\t\n\n2\n\n\n\n\nEDUC3311\n\n\t\n\nPsychology Applied to Learning and Teaching\n\n\t\n\n3\n\n\n\n\nEDUC4110\n\n\t\n\nDynamic Curriculum Development for Innovative Learning Experiences\n\n\t\n\n2\n\n\n\n\nEDUC4131\n\n\t\n\ne-Learning in Schools\n\n\t\n\n2\n\n\n\n\nEDUC4320\n\n\t\n\nClassroom Management and School Discipline\n\n\t\n\n2\n\n\n\n\nEDUC4330\n\n\t\n\nSchool Guidance and Counselling\n\n\t\n\n2\n\n\n\n\nEDUC4340\n\n\t\n\nSupporting Students with Special Educational Needs\n\n\t\n\n2\n\n\n\n\nTeaching Practice\n\n\n\n\nEDUC4030\n\n\t\n\nTeaching Practice I\n\n\t\n\n5\n\n\n\n\nEDUC4040\n\n\t\n\nTeaching Practice II\n\n\t\n\n5\n\n\n\n\nResearch Experience\n\n\n\n\nBMED4510\n\n\t\n\nAction Research in Mathematics Classroom\n\n\t\n\n3\n\n\n\n\nBMED4520\n\n\t\n\nMathematics Teaching Project Report\n\n\t\n\n3\n\n \n\n \n\n\n \n\nStudy Scheme\n\n\nLearning Outcomes\n \n\n\t\n\n \n\n1.\n\n\t\n\nMajor Programme:\n\n\n\n\nGraduates from this Progamme will have acquired\n\n\n\n\n(1)\n\n\t\n\nsufficient mathematics knowledge of mathematical analysis, linear algebra, computer programming for mathematics, and further knowledge essential to teaching up to senior secondary level;\n\n\n\n\n(2)\n\n\t\n\nan understanding of mathematical literacy which is considered to have desirable practical outcomes for the teaching of mathematics in both primary and secondary sectors;\n\n\n\n\n(3)\n\n\t\n\nthe communication and pedagogical skills expected of teachers of mathematics;\n\n\n\n\n(4)\n\n\t\n\nan understanding of mathematical concepts and theories and their application in teaching mathematics;\n\n\n\n\n(5)\n\n\t\n\nthe ability to formulate and solve practical problems mathematically;\n\n\n\n\n(6)\n\n\t\n\nthe ability to critically analyse current approaches and methods in mathematics education;\n\n\n\n\n(7)\n\n\t\n\nan ability to understand research topics on teaching and learning of mathematics;\n\n\n\n\n(8)\n\n\t\n\npedagogical content knowledge in teaching mathematics;\n\n\n\n\n(9)\n\n\t\n\npractical skills in using textbooks and other teaching resources and evaluation of learning outcomes;\n\n\n\n\n(10)\n\n\t\n\na capability of establishing intellectual development with an emphasis on analytical and problem-solving skills;\n\n\n\n\n(11)\n\n\t\n\nan appreciation of the contribution of mathematics to the formation and improvement of human society;\n\n\n\n\n(12)\n\n\t\n\nan interest and an appreciation of professional values of an educator.\n\n \n\n \n\n\n"
+}

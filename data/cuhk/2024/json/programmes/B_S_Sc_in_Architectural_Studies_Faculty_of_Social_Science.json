@@ -1,0 +1,1334 @@
+{
+  "programme_id": "B_S_Sc_in_Architectural_Studies__Faculty_of_Social_Science",
+  "academic_program": "B.S.Sc. in Architectural Studies",
+  "faculty": "Faculty of Social Science",
+  "academic_year": 2024,
+  "admission_cohort": "2024-25",
+  "requirement_summary": {
+    "minimum_units_as_printed": "a minimum of 78 units",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Faculty Package",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "ARCH1001",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001 and any two courses, offered by two different Programmes/Departments/Schools, chosen from the following:"
+          },
+          {
+            "course_code": "COMM1110",
+            "prefix_inferred": false,
+            "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "COMM1120",
+            "prefix_inferred": true,
+            "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "COMM1150",
+            "prefix_inferred": true,
+            "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "COMM1500",
+            "prefix_inferred": true,
+            "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "DSPS1001",
+            "prefix_inferred": false,
+            "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "DSPS1003",
+            "prefix_inferred": true,
+            "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "DSPS1004",
+            "prefix_inferred": true,
+            "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "ECON1210",
+            "prefix_inferred": false,
+            "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "ECON1220",
+            "prefix_inferred": true,
+            "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "ECON2011",
+            "prefix_inferred": true,
+            "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "GLSD1001",
+            "prefix_inferred": false,
+            "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "GPAD1020",
+            "prefix_inferred": false,
+            "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "GPAD1076",
+            "prefix_inferred": true,
+            "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "GPAD1077",
+            "prefix_inferred": true,
+            "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "GRMD1302",
+            "prefix_inferred": false,
+            "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "GRMD1401",
+            "prefix_inferred": true,
+            "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "GRMD1402",
+            "prefix_inferred": true,
+            "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "PSYC1000",
+            "prefix_inferred": false,
+            "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "PSYC1630",
+            "prefix_inferred": true,
+            "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "SOCI1001",
+            "prefix_inferred": false,
+            "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "SOCI1201",
+            "prefix_inferred": true,
+            "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "SOSC1001",
+            "prefix_inferred": false,
+            "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "SOSC1002",
+            "prefix_inferred": true,
+            "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "SOSC1003",
+            "prefix_inferred": true,
+            "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "SOWK1001",
+            "prefix_inferred": false,
+            "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "SOWK1113",
+            "prefix_inferred": true,
+            "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "SOWK1114",
+            "prefix_inferred": true,
+            "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "URSP1001",
+            "prefix_inferred": false,
+            "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "URSP1002",
+            "prefix_inferred": true,
+            "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          }
+        ],
+        "raw_text": "9\nARCH1001 and any two courses, offered by two different Programmes/Departments/Schools, chosen from the following:\nCOMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+      },
+      {
+        "number": 2,
+        "title": "Required Courses",
+        "units_as_printed": "30",
+        "course_mentions": [
+          {
+            "course_code": "ARCH2111",
+            "prefix_inferred": false,
+            "evidence": "ARCH2111, 2112, 3113, 3114, 4115, 4116 (capstone course)"
+          },
+          {
+            "course_code": "ARCH2112",
+            "prefix_inferred": true,
+            "evidence": "ARCH2111, 2112, 3113, 3114, 4115, 4116 (capstone course)"
+          },
+          {
+            "course_code": "ARCH3113",
+            "prefix_inferred": true,
+            "evidence": "ARCH2111, 2112, 3113, 3114, 4115, 4116 (capstone course)"
+          },
+          {
+            "course_code": "ARCH3114",
+            "prefix_inferred": true,
+            "evidence": "ARCH2111, 2112, 3113, 3114, 4115, 4116 (capstone course)"
+          },
+          {
+            "course_code": "ARCH4115",
+            "prefix_inferred": true,
+            "evidence": "ARCH2111, 2112, 3113, 3114, 4115, 4116 (capstone course)"
+          },
+          {
+            "course_code": "ARCH4116",
+            "prefix_inferred": true,
+            "evidence": "ARCH2111, 2112, 3113, 3114, 4115, 4116 (capstone course)"
+          },
+          {
+            "course_code": "ARCH1003",
+            "prefix_inferred": false,
+            "evidence": "ARCH1003, 2222, 2322, 2323, 2413, 2422, 3321, 3424, 3721, 4425, 4426"
+          },
+          {
+            "course_code": "ARCH2222",
+            "prefix_inferred": true,
+            "evidence": "ARCH1003, 2222, 2322, 2323, 2413, 2422, 3321, 3424, 3721, 4425, 4426"
+          },
+          {
+            "course_code": "ARCH2322",
+            "prefix_inferred": true,
+            "evidence": "ARCH1003, 2222, 2322, 2323, 2413, 2422, 3321, 3424, 3721, 4425, 4426"
+          },
+          {
+            "course_code": "ARCH2323",
+            "prefix_inferred": true,
+            "evidence": "ARCH1003, 2222, 2322, 2323, 2413, 2422, 3321, 3424, 3721, 4425, 4426"
+          },
+          {
+            "course_code": "ARCH2413",
+            "prefix_inferred": true,
+            "evidence": "ARCH1003, 2222, 2322, 2323, 2413, 2422, 3321, 3424, 3721, 4425, 4426"
+          },
+          {
+            "course_code": "ARCH2422",
+            "prefix_inferred": true,
+            "evidence": "ARCH1003, 2222, 2322, 2323, 2413, 2422, 3321, 3424, 3721, 4425, 4426"
+          },
+          {
+            "course_code": "ARCH3321",
+            "prefix_inferred": true,
+            "evidence": "ARCH1003, 2222, 2322, 2323, 2413, 2422, 3321, 3424, 3721, 4425, 4426"
+          },
+          {
+            "course_code": "ARCH3424",
+            "prefix_inferred": true,
+            "evidence": "ARCH1003, 2222, 2322, 2323, 2413, 2422, 3321, 3424, 3721, 4425, 4426"
+          },
+          {
+            "course_code": "ARCH3721",
+            "prefix_inferred": true,
+            "evidence": "ARCH1003, 2222, 2322, 2323, 2413, 2422, 3321, 3424, 3721, 4425, 4426"
+          },
+          {
+            "course_code": "ARCH4425",
+            "prefix_inferred": true,
+            "evidence": "ARCH1003, 2222, 2322, 2323, 2413, 2422, 3321, 3424, 3721, 4425, 4426"
+          },
+          {
+            "course_code": "ARCH4426",
+            "prefix_inferred": true,
+            "evidence": "ARCH1003, 2222, 2322, 2323, 2413, 2422, 3321, 3424, 3721, 4425, 4426"
+          }
+        ],
+        "raw_text": "(a)\nStudio Courses:\n30\nARCH2111, 2112, 3113, 3114, 4115, 4116 (capstone course)\n(b)\nOther Required Courses:\n33\nARCH1003, 2222, 2322, 2323, 2413, 2422, 3321, 3424, 3721, 4425, 4426"
+      },
+      {
+        "number": 3,
+        "title": "Elective Courses",
+        "units_as_printed": "6",
+        "course_mentions": [
+          {
+            "course_code": "ARCH4131",
+            "prefix_inferred": false,
+            "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731, 5931"
+          },
+          {
+            "course_code": "ARCH4231",
+            "prefix_inferred": true,
+            "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731, 5931"
+          },
+          {
+            "course_code": "ARCH4331",
+            "prefix_inferred": true,
+            "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731, 5931"
+          },
+          {
+            "course_code": "ARCH4431",
+            "prefix_inferred": true,
+            "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731, 5931"
+          },
+          {
+            "course_code": "ARCH4531",
+            "prefix_inferred": true,
+            "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731, 5931"
+          },
+          {
+            "course_code": "ARCH4731",
+            "prefix_inferred": true,
+            "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731, 5931"
+          },
+          {
+            "course_code": "ARCH5131",
+            "prefix_inferred": true,
+            "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731, 5931"
+          },
+          {
+            "course_code": "ARCH5231",
+            "prefix_inferred": true,
+            "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731, 5931"
+          },
+          {
+            "course_code": "ARCH5331",
+            "prefix_inferred": true,
+            "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731, 5931"
+          },
+          {
+            "course_code": "ARCH5431",
+            "prefix_inferred": true,
+            "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731, 5931"
+          },
+          {
+            "course_code": "ARCH5731",
+            "prefix_inferred": true,
+            "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731, 5931"
+          },
+          {
+            "course_code": "ARCH5931",
+            "prefix_inferred": true,
+            "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731, 5931"
+          }
+        ],
+        "raw_text": "6\nChoose at least 6 units of courses from the following, with at least one 3-unit course\nARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731, 5931\nTotal:\n78\nExplanatory Note:"
+      },
+      {
+        "number": 1,
+        "title": "Required Courses",
+        "units_as_printed": "20",
+        "course_mentions": [
+          {
+            "course_code": "ARCH3113",
+            "prefix_inferred": false,
+            "evidence": "ARCH3113, 3114, 4115, 4116 (capstone course)"
+          },
+          {
+            "course_code": "ARCH3114",
+            "prefix_inferred": true,
+            "evidence": "ARCH3113, 3114, 4115, 4116 (capstone course)"
+          },
+          {
+            "course_code": "ARCH4115",
+            "prefix_inferred": true,
+            "evidence": "ARCH3113, 3114, 4115, 4116 (capstone course)"
+          },
+          {
+            "course_code": "ARCH4116",
+            "prefix_inferred": true,
+            "evidence": "ARCH3113, 3114, 4115, 4116 (capstone course)"
+          },
+          {
+            "course_code": "ARCH2222",
+            "prefix_inferred": false,
+            "evidence": "ARCH2222, 2322, 2323, 2413, 3321, 3424, 3721, 4425"
+          },
+          {
+            "course_code": "ARCH2322",
+            "prefix_inferred": true,
+            "evidence": "ARCH2222, 2322, 2323, 2413, 3321, 3424, 3721, 4425"
+          },
+          {
+            "course_code": "ARCH2323",
+            "prefix_inferred": true,
+            "evidence": "ARCH2222, 2322, 2323, 2413, 3321, 3424, 3721, 4425"
+          },
+          {
+            "course_code": "ARCH2413",
+            "prefix_inferred": true,
+            "evidence": "ARCH2222, 2322, 2323, 2413, 3321, 3424, 3721, 4425"
+          },
+          {
+            "course_code": "ARCH3321",
+            "prefix_inferred": true,
+            "evidence": "ARCH2222, 2322, 2323, 2413, 3321, 3424, 3721, 4425"
+          },
+          {
+            "course_code": "ARCH3424",
+            "prefix_inferred": true,
+            "evidence": "ARCH2222, 2322, 2323, 2413, 3321, 3424, 3721, 4425"
+          },
+          {
+            "course_code": "ARCH3721",
+            "prefix_inferred": true,
+            "evidence": "ARCH2222, 2322, 2323, 2413, 3321, 3424, 3721, 4425"
+          },
+          {
+            "course_code": "ARCH4425",
+            "prefix_inferred": true,
+            "evidence": "ARCH2222, 2322, 2323, 2413, 3321, 3424, 3721, 4425"
+          }
+        ],
+        "raw_text": "(a)\nStudio Courses:\n20\nARCH3113, 3114, 4115, 4116 (capstone course)\n(b)\nOther Required Courses:\n24\nARCH2222, 2322, 2323, 2413, 3321, 3424, 3721, 4425"
+      },
+      {
+        "number": 2,
+        "title": "Elective Courses",
+        "units_as_printed": "15",
+        "course_mentions": [
+          {
+            "course_code": "ARCH4131",
+            "prefix_inferred": false,
+            "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731"
+          },
+          {
+            "course_code": "ARCH4231",
+            "prefix_inferred": true,
+            "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731"
+          },
+          {
+            "course_code": "ARCH4331",
+            "prefix_inferred": true,
+            "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731"
+          },
+          {
+            "course_code": "ARCH4431",
+            "prefix_inferred": true,
+            "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731"
+          },
+          {
+            "course_code": "ARCH4531",
+            "prefix_inferred": true,
+            "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731"
+          },
+          {
+            "course_code": "ARCH4731",
+            "prefix_inferred": true,
+            "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731"
+          },
+          {
+            "course_code": "ARCH5131",
+            "prefix_inferred": true,
+            "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731"
+          },
+          {
+            "course_code": "ARCH5231",
+            "prefix_inferred": true,
+            "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731"
+          },
+          {
+            "course_code": "ARCH5331",
+            "prefix_inferred": true,
+            "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731"
+          },
+          {
+            "course_code": "ARCH5431",
+            "prefix_inferred": true,
+            "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731"
+          },
+          {
+            "course_code": "ARCH5731",
+            "prefix_inferred": true,
+            "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731"
+          }
+        ],
+        "raw_text": "15\nChoose at least five courses from the following:\nARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731\nTotal:\n59\nExplanatory Note:"
+      },
+      {
+        "number": 1,
+        "title": "Required Courses",
+        "units_as_printed": "20",
+        "course_mentions": [
+          {
+            "course_code": "ARCH3113",
+            "prefix_inferred": false,
+            "evidence": "ARCH3113, 3114, 4115, 4116 (capstone course)"
+          },
+          {
+            "course_code": "ARCH3114",
+            "prefix_inferred": true,
+            "evidence": "ARCH3113, 3114, 4115, 4116 (capstone course)"
+          },
+          {
+            "course_code": "ARCH4115",
+            "prefix_inferred": true,
+            "evidence": "ARCH3113, 3114, 4115, 4116 (capstone course)"
+          },
+          {
+            "course_code": "ARCH4116",
+            "prefix_inferred": true,
+            "evidence": "ARCH3113, 3114, 4115, 4116 (capstone course)"
+          },
+          {
+            "course_code": "ARCH2222",
+            "prefix_inferred": false,
+            "evidence": "ARCH2222, 2322, 2323, 2413, 3321, 3424, 3721, 4425"
+          },
+          {
+            "course_code": "ARCH2322",
+            "prefix_inferred": true,
+            "evidence": "ARCH2222, 2322, 2323, 2413, 3321, 3424, 3721, 4425"
+          },
+          {
+            "course_code": "ARCH2323",
+            "prefix_inferred": true,
+            "evidence": "ARCH2222, 2322, 2323, 2413, 3321, 3424, 3721, 4425"
+          },
+          {
+            "course_code": "ARCH2413",
+            "prefix_inferred": true,
+            "evidence": "ARCH2222, 2322, 2323, 2413, 3321, 3424, 3721, 4425"
+          },
+          {
+            "course_code": "ARCH3321",
+            "prefix_inferred": true,
+            "evidence": "ARCH2222, 2322, 2323, 2413, 3321, 3424, 3721, 4425"
+          },
+          {
+            "course_code": "ARCH3424",
+            "prefix_inferred": true,
+            "evidence": "ARCH2222, 2322, 2323, 2413, 3321, 3424, 3721, 4425"
+          },
+          {
+            "course_code": "ARCH3721",
+            "prefix_inferred": true,
+            "evidence": "ARCH2222, 2322, 2323, 2413, 3321, 3424, 3721, 4425"
+          },
+          {
+            "course_code": "ARCH4425",
+            "prefix_inferred": true,
+            "evidence": "ARCH2222, 2322, 2323, 2413, 3321, 3424, 3721, 4425"
+          }
+        ],
+        "raw_text": "(a)\nStudio Courses:\n20\nARCH3113, 3114, 4115, 4116 (capstone course)\n(b)\nOther Required Courses:\n24\nARCH2222, 2322, 2323, 2413, 3321, 3424, 3721, 4425"
+      },
+      {
+        "number": 2,
+        "title": "Elective Courses",
+        "units_as_printed": "12",
+        "course_mentions": [
+          {
+            "course_code": "ARCH4131",
+            "prefix_inferred": false,
+            "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731"
+          },
+          {
+            "course_code": "ARCH4231",
+            "prefix_inferred": true,
+            "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731"
+          },
+          {
+            "course_code": "ARCH4331",
+            "prefix_inferred": true,
+            "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731"
+          },
+          {
+            "course_code": "ARCH4431",
+            "prefix_inferred": true,
+            "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731"
+          },
+          {
+            "course_code": "ARCH4531",
+            "prefix_inferred": true,
+            "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731"
+          },
+          {
+            "course_code": "ARCH4731",
+            "prefix_inferred": true,
+            "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731"
+          },
+          {
+            "course_code": "ARCH5131",
+            "prefix_inferred": true,
+            "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731"
+          },
+          {
+            "course_code": "ARCH5231",
+            "prefix_inferred": true,
+            "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731"
+          },
+          {
+            "course_code": "ARCH5331",
+            "prefix_inferred": true,
+            "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731"
+          },
+          {
+            "course_code": "ARCH5431",
+            "prefix_inferred": true,
+            "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731"
+          },
+          {
+            "course_code": "ARCH5731",
+            "prefix_inferred": true,
+            "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731"
+          }
+        ],
+        "raw_text": "12\nChoose at least four courses from the following:\nARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731\nTotal:\n56\nExplanatory Note:"
+      }
+    ]
+  },
+  "all_course_mentions": [
+    {
+      "course_code": "ARCH1001",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001 and any two courses, offered by two different Programmes/Departments/Schools, chosen from the following:"
+    },
+    {
+      "course_code": "COMM1110",
+      "prefix_inferred": false,
+      "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "COMM1120",
+      "prefix_inferred": true,
+      "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "COMM1150",
+      "prefix_inferred": true,
+      "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "COMM1500",
+      "prefix_inferred": true,
+      "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "DSPS1001",
+      "prefix_inferred": false,
+      "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "DSPS1003",
+      "prefix_inferred": true,
+      "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "DSPS1004",
+      "prefix_inferred": true,
+      "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "ECON1210",
+      "prefix_inferred": false,
+      "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "ECON1220",
+      "prefix_inferred": true,
+      "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "ECON2011",
+      "prefix_inferred": true,
+      "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "GLSD1001",
+      "prefix_inferred": false,
+      "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "GPAD1020",
+      "prefix_inferred": false,
+      "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "GPAD1076",
+      "prefix_inferred": true,
+      "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "GPAD1077",
+      "prefix_inferred": true,
+      "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "GRMD1302",
+      "prefix_inferred": false,
+      "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "GRMD1401",
+      "prefix_inferred": true,
+      "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "GRMD1402",
+      "prefix_inferred": true,
+      "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "PSYC1000",
+      "prefix_inferred": false,
+      "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "PSYC1630",
+      "prefix_inferred": true,
+      "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "SOCI1001",
+      "prefix_inferred": false,
+      "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "SOCI1201",
+      "prefix_inferred": true,
+      "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "SOSC1001",
+      "prefix_inferred": false,
+      "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "SOSC1002",
+      "prefix_inferred": true,
+      "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "SOSC1003",
+      "prefix_inferred": true,
+      "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "SOWK1001",
+      "prefix_inferred": false,
+      "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "SOWK1113",
+      "prefix_inferred": true,
+      "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "SOWK1114",
+      "prefix_inferred": true,
+      "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "URSP1001",
+      "prefix_inferred": false,
+      "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "URSP1002",
+      "prefix_inferred": true,
+      "evidence": "COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "ARCH2111",
+      "prefix_inferred": false,
+      "evidence": "ARCH2111, 2112, 3113, 3114, 4115, 4116 (capstone course)"
+    },
+    {
+      "course_code": "ARCH2112",
+      "prefix_inferred": true,
+      "evidence": "ARCH2111, 2112, 3113, 3114, 4115, 4116 (capstone course)"
+    },
+    {
+      "course_code": "ARCH3113",
+      "prefix_inferred": true,
+      "evidence": "ARCH2111, 2112, 3113, 3114, 4115, 4116 (capstone course)"
+    },
+    {
+      "course_code": "ARCH3114",
+      "prefix_inferred": true,
+      "evidence": "ARCH2111, 2112, 3113, 3114, 4115, 4116 (capstone course)"
+    },
+    {
+      "course_code": "ARCH4115",
+      "prefix_inferred": true,
+      "evidence": "ARCH2111, 2112, 3113, 3114, 4115, 4116 (capstone course)"
+    },
+    {
+      "course_code": "ARCH4116",
+      "prefix_inferred": true,
+      "evidence": "ARCH2111, 2112, 3113, 3114, 4115, 4116 (capstone course)"
+    },
+    {
+      "course_code": "ARCH1003",
+      "prefix_inferred": false,
+      "evidence": "ARCH1003, 2222, 2322, 2323, 2413, 2422, 3321, 3424, 3721, 4425, 4426"
+    },
+    {
+      "course_code": "ARCH2222",
+      "prefix_inferred": true,
+      "evidence": "ARCH1003, 2222, 2322, 2323, 2413, 2422, 3321, 3424, 3721, 4425, 4426"
+    },
+    {
+      "course_code": "ARCH2322",
+      "prefix_inferred": true,
+      "evidence": "ARCH1003, 2222, 2322, 2323, 2413, 2422, 3321, 3424, 3721, 4425, 4426"
+    },
+    {
+      "course_code": "ARCH2323",
+      "prefix_inferred": true,
+      "evidence": "ARCH1003, 2222, 2322, 2323, 2413, 2422, 3321, 3424, 3721, 4425, 4426"
+    },
+    {
+      "course_code": "ARCH2413",
+      "prefix_inferred": true,
+      "evidence": "ARCH1003, 2222, 2322, 2323, 2413, 2422, 3321, 3424, 3721, 4425, 4426"
+    },
+    {
+      "course_code": "ARCH2422",
+      "prefix_inferred": true,
+      "evidence": "ARCH1003, 2222, 2322, 2323, 2413, 2422, 3321, 3424, 3721, 4425, 4426"
+    },
+    {
+      "course_code": "ARCH3321",
+      "prefix_inferred": true,
+      "evidence": "ARCH1003, 2222, 2322, 2323, 2413, 2422, 3321, 3424, 3721, 4425, 4426"
+    },
+    {
+      "course_code": "ARCH3424",
+      "prefix_inferred": true,
+      "evidence": "ARCH1003, 2222, 2322, 2323, 2413, 2422, 3321, 3424, 3721, 4425, 4426"
+    },
+    {
+      "course_code": "ARCH3721",
+      "prefix_inferred": true,
+      "evidence": "ARCH1003, 2222, 2322, 2323, 2413, 2422, 3321, 3424, 3721, 4425, 4426"
+    },
+    {
+      "course_code": "ARCH4425",
+      "prefix_inferred": true,
+      "evidence": "ARCH1003, 2222, 2322, 2323, 2413, 2422, 3321, 3424, 3721, 4425, 4426"
+    },
+    {
+      "course_code": "ARCH4426",
+      "prefix_inferred": true,
+      "evidence": "ARCH1003, 2222, 2322, 2323, 2413, 2422, 3321, 3424, 3721, 4425, 4426"
+    },
+    {
+      "course_code": "ARCH4131",
+      "prefix_inferred": false,
+      "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731, 5931"
+    },
+    {
+      "course_code": "ARCH4231",
+      "prefix_inferred": true,
+      "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731, 5931"
+    },
+    {
+      "course_code": "ARCH4331",
+      "prefix_inferred": true,
+      "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731, 5931"
+    },
+    {
+      "course_code": "ARCH4431",
+      "prefix_inferred": true,
+      "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731, 5931"
+    },
+    {
+      "course_code": "ARCH4531",
+      "prefix_inferred": true,
+      "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731, 5931"
+    },
+    {
+      "course_code": "ARCH4731",
+      "prefix_inferred": true,
+      "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731, 5931"
+    },
+    {
+      "course_code": "ARCH5131",
+      "prefix_inferred": true,
+      "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731, 5931"
+    },
+    {
+      "course_code": "ARCH5231",
+      "prefix_inferred": true,
+      "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731, 5931"
+    },
+    {
+      "course_code": "ARCH5331",
+      "prefix_inferred": true,
+      "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731, 5931"
+    },
+    {
+      "course_code": "ARCH5431",
+      "prefix_inferred": true,
+      "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731, 5931"
+    },
+    {
+      "course_code": "ARCH5731",
+      "prefix_inferred": true,
+      "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731, 5931"
+    },
+    {
+      "course_code": "ARCH5931",
+      "prefix_inferred": true,
+      "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731, 5931"
+    },
+    {
+      "course_code": "ARCH1003",
+      "prefix_inferred": false,
+      "evidence": "ARCH1003 and ARCH courses at 2000 and above level will be included in the calculation of Major GPA for honours classification."
+    },
+    {
+      "course_code": "ARCH1001",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: Any 2 Faculty Package courses, OR 1 Faculty Package course and ARCH1001"
+    },
+    {
+      "course_code": "ARCH1003",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ARCH1003"
+    },
+    {
+      "course_code": "ARCH1001",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: ARCH1001 OR any 1 Faculty Package course (if not taken ARCH1001 in the 1st term)"
+    },
+    {
+      "course_code": "ARCH2111",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ARCH2111, 2322, 2413"
+    },
+    {
+      "course_code": "ARCH2322",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ARCH2111, 2322, 2413"
+    },
+    {
+      "course_code": "ARCH2413",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ARCH2111, 2322, 2413"
+    },
+    {
+      "course_code": "ARCH2112",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ARCH2112, 2222, 2323 2422"
+    },
+    {
+      "course_code": "ARCH2222",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ARCH2112, 2222, 2323 2422"
+    },
+    {
+      "course_code": "ARCH2323",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ARCH2112, 2222, 2323 2422"
+    },
+    {
+      "course_code": "ARCH2422",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ARCH2112, 2222, 2323 2422"
+    },
+    {
+      "course_code": "ARCH3113",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ARCH3113, 3721"
+    },
+    {
+      "course_code": "ARCH3721",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ARCH3113, 3721"
+    },
+    {
+      "course_code": "ARCH3114",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ARCH3114, 3321, 3424"
+    },
+    {
+      "course_code": "ARCH3321",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ARCH3114, 3321, 3424"
+    },
+    {
+      "course_code": "ARCH3424",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ARCH3114, 3321, 3424"
+    },
+    {
+      "course_code": "ARCH4115",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ARCH4115, 4425"
+    },
+    {
+      "course_code": "ARCH4425",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ARCH4115, 4425"
+    },
+    {
+      "course_code": "ARCH4116",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ARCH4116, 4426"
+    },
+    {
+      "course_code": "ARCH4426",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ARCH4116, 4426"
+    },
+    {
+      "course_code": "ARCH3113",
+      "prefix_inferred": false,
+      "evidence": "ARCH3113, 3114, 4115, 4116 (capstone course)"
+    },
+    {
+      "course_code": "ARCH3114",
+      "prefix_inferred": true,
+      "evidence": "ARCH3113, 3114, 4115, 4116 (capstone course)"
+    },
+    {
+      "course_code": "ARCH4115",
+      "prefix_inferred": true,
+      "evidence": "ARCH3113, 3114, 4115, 4116 (capstone course)"
+    },
+    {
+      "course_code": "ARCH4116",
+      "prefix_inferred": true,
+      "evidence": "ARCH3113, 3114, 4115, 4116 (capstone course)"
+    },
+    {
+      "course_code": "ARCH2222",
+      "prefix_inferred": false,
+      "evidence": "ARCH2222, 2322, 2323, 2413, 3321, 3424, 3721, 4425"
+    },
+    {
+      "course_code": "ARCH2322",
+      "prefix_inferred": true,
+      "evidence": "ARCH2222, 2322, 2323, 2413, 3321, 3424, 3721, 4425"
+    },
+    {
+      "course_code": "ARCH2323",
+      "prefix_inferred": true,
+      "evidence": "ARCH2222, 2322, 2323, 2413, 3321, 3424, 3721, 4425"
+    },
+    {
+      "course_code": "ARCH2413",
+      "prefix_inferred": true,
+      "evidence": "ARCH2222, 2322, 2323, 2413, 3321, 3424, 3721, 4425"
+    },
+    {
+      "course_code": "ARCH3321",
+      "prefix_inferred": true,
+      "evidence": "ARCH2222, 2322, 2323, 2413, 3321, 3424, 3721, 4425"
+    },
+    {
+      "course_code": "ARCH3424",
+      "prefix_inferred": true,
+      "evidence": "ARCH2222, 2322, 2323, 2413, 3321, 3424, 3721, 4425"
+    },
+    {
+      "course_code": "ARCH3721",
+      "prefix_inferred": true,
+      "evidence": "ARCH2222, 2322, 2323, 2413, 3321, 3424, 3721, 4425"
+    },
+    {
+      "course_code": "ARCH4425",
+      "prefix_inferred": true,
+      "evidence": "ARCH2222, 2322, 2323, 2413, 3321, 3424, 3721, 4425"
+    },
+    {
+      "course_code": "ARCH4131",
+      "prefix_inferred": false,
+      "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731"
+    },
+    {
+      "course_code": "ARCH4231",
+      "prefix_inferred": true,
+      "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731"
+    },
+    {
+      "course_code": "ARCH4331",
+      "prefix_inferred": true,
+      "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731"
+    },
+    {
+      "course_code": "ARCH4431",
+      "prefix_inferred": true,
+      "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731"
+    },
+    {
+      "course_code": "ARCH4531",
+      "prefix_inferred": true,
+      "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731"
+    },
+    {
+      "course_code": "ARCH4731",
+      "prefix_inferred": true,
+      "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731"
+    },
+    {
+      "course_code": "ARCH5131",
+      "prefix_inferred": true,
+      "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731"
+    },
+    {
+      "course_code": "ARCH5231",
+      "prefix_inferred": true,
+      "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731"
+    },
+    {
+      "course_code": "ARCH5331",
+      "prefix_inferred": true,
+      "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731"
+    },
+    {
+      "course_code": "ARCH5431",
+      "prefix_inferred": true,
+      "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731"
+    },
+    {
+      "course_code": "ARCH5731",
+      "prefix_inferred": true,
+      "evidence": "ARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731"
+    },
+    {
+      "course_code": "ARCH2322",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ARCH2322, 2413, 3113"
+    },
+    {
+      "course_code": "ARCH2413",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ARCH2322, 2413, 3113"
+    },
+    {
+      "course_code": "ARCH3113",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ARCH2322, 2413, 3113"
+    },
+    {
+      "course_code": "ARCH2222",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ARCH2222, 2323, 3114, 3424"
+    },
+    {
+      "course_code": "ARCH2323",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ARCH2222, 2323, 3114, 3424"
+    },
+    {
+      "course_code": "ARCH3114",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ARCH2222, 2323, 3114, 3424"
+    },
+    {
+      "course_code": "ARCH3424",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ARCH2222, 2323, 3114, 3424"
+    },
+    {
+      "course_code": "ARCH3721",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ARCH3721, 4115, 4425"
+    },
+    {
+      "course_code": "ARCH4115",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ARCH3721, 4115, 4425"
+    },
+    {
+      "course_code": "ARCH4425",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ARCH3721, 4115, 4425"
+    },
+    {
+      "course_code": "ARCH3321",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ARCH3321, 4116"
+    },
+    {
+      "course_code": "ARCH4116",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ARCH3321, 4116"
+    },
+    {
+      "course_code": "ARCH1001",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001"
+    },
+    {
+      "course_code": "ARCH1002",
+      "prefix_inferred": false,
+      "evidence": "ARCH1002"
+    },
+    {
+      "course_code": "ARCH1003",
+      "prefix_inferred": false,
+      "evidence": "ARCH1003"
+    },
+    {
+      "course_code": "ARCH1320",
+      "prefix_inferred": false,
+      "evidence": "ARCH1320"
+    },
+    {
+      "course_code": "ARCH2111",
+      "prefix_inferred": false,
+      "evidence": "ARCH2111"
+    },
+    {
+      "course_code": "ARCH2112",
+      "prefix_inferred": false,
+      "evidence": "ARCH2112"
+    },
+    {
+      "course_code": "ARCH2222",
+      "prefix_inferred": false,
+      "evidence": "ARCH2222"
+    },
+    {
+      "course_code": "ARCH2322",
+      "prefix_inferred": false,
+      "evidence": "ARCH2322"
+    },
+    {
+      "course_code": "ARCH2323",
+      "prefix_inferred": false,
+      "evidence": "ARCH2323"
+    },
+    {
+      "course_code": "ARCH2413",
+      "prefix_inferred": false,
+      "evidence": "ARCH2413"
+    },
+    {
+      "course_code": "ARCH2422",
+      "prefix_inferred": false,
+      "evidence": "ARCH2422"
+    },
+    {
+      "course_code": "ARCH3113",
+      "prefix_inferred": false,
+      "evidence": "ARCH3113"
+    },
+    {
+      "course_code": "ARCH3114",
+      "prefix_inferred": false,
+      "evidence": "ARCH3114"
+    },
+    {
+      "course_code": "ARCH3321",
+      "prefix_inferred": false,
+      "evidence": "ARCH3321"
+    },
+    {
+      "course_code": "ARCH3424",
+      "prefix_inferred": false,
+      "evidence": "ARCH3424"
+    },
+    {
+      "course_code": "ARCH3721",
+      "prefix_inferred": false,
+      "evidence": "ARCH3721"
+    },
+    {
+      "course_code": "ARCH4115",
+      "prefix_inferred": false,
+      "evidence": "ARCH4115"
+    },
+    {
+      "course_code": "ARCH4116",
+      "prefix_inferred": false,
+      "evidence": "ARCH4116"
+    },
+    {
+      "course_code": "ARCH4131",
+      "prefix_inferred": false,
+      "evidence": "ARCH4131"
+    },
+    {
+      "course_code": "ARCH4231",
+      "prefix_inferred": false,
+      "evidence": "ARCH4231"
+    },
+    {
+      "course_code": "ARCH4331",
+      "prefix_inferred": false,
+      "evidence": "ARCH4331"
+    },
+    {
+      "course_code": "ARCH4425",
+      "prefix_inferred": false,
+      "evidence": "ARCH4425"
+    },
+    {
+      "course_code": "ARCH4426",
+      "prefix_inferred": false,
+      "evidence": "ARCH4426"
+    },
+    {
+      "course_code": "ARCH4431",
+      "prefix_inferred": false,
+      "evidence": "ARCH4431"
+    },
+    {
+      "course_code": "ARCH4531",
+      "prefix_inferred": false,
+      "evidence": "ARCH4531"
+    },
+    {
+      "course_code": "ARCH4731",
+      "prefix_inferred": false,
+      "evidence": "ARCH4731"
+    },
+    {
+      "course_code": "ARCH5131",
+      "prefix_inferred": false,
+      "evidence": "ARCH5131"
+    },
+    {
+      "course_code": "ARCH5231",
+      "prefix_inferred": false,
+      "evidence": "ARCH5231"
+    },
+    {
+      "course_code": "ARCH5331",
+      "prefix_inferred": false,
+      "evidence": "ARCH5331"
+    },
+    {
+      "course_code": "ARCH5431",
+      "prefix_inferred": false,
+      "evidence": "ARCH5431"
+    },
+    {
+      "course_code": "ARCH5731",
+      "prefix_inferred": false,
+      "evidence": "ARCH5731"
+    },
+    {
+      "course_code": "ARCH5931",
+      "prefix_inferred": false,
+      "evidence": "ARCH5931"
+    }
+  ],
+  "course_code_aliases": [],
+  "source": {
+    "system": "CUHK CUSIS Browse Program Information",
+    "url": "https://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/tt_dsp_acad_prog.aspx",
+    "source_text_file": "data/cuhk/2024/programmes/B_S_Sc_in_Architectural_Studies__Faculty_of_Social_Science.txt",
+    "reused_duplicate_entry": false,
+    "reused_from_faculty": null
+  },
+  "raw_text": "\n\nBrowse Program Information\n\n\n\n\n\n\nAcademic Program:\tB.S.Sc. in Architectural Studies\nAcademic Year:\t2024\nLanguage:\t\nEnglish\nSimplified Chinese\nTraditional Chinese\n\n\n\nLearning Outcomes\nStudy Scheme\n \n\n\t\n\nArchitectural Studies\n\nApplicable to students admitted in 2024-25\n\n\n\n\n \n\n\n\n\n \n\nMajor Programme Requirement\n\n \n\n\t\n\n \n\n\n\n\nStudents are required to complete a minimum of 78 units of courses as follows:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\t\n\n \n\n\n\n\n1.\n\n\t\n\nFaculty Package:\n\n\t\n\n9\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nARCH1001 and any two courses, offered by two different Programmes/Departments/Schools, chosen from the following:\n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\nCOMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002\n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nRequired Courses:\n\n\t\n\n \n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nStudio Courses:\n\n\t\n\n30\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nARCH2111, 2112, 3113, 3114, 4115, 4116 (capstone course)\n\n\t\n\n \n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nOther Required Courses:\n\n\t\n\n33\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nARCH1003, 2222, 2322, 2323, 2413, 2422, 3321, 3424, 3721, 4425, 4426\n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nElective Courses:\n\n\t\n\n6\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nChoose at least 6 units of courses from the following, with at least one 3-unit course\n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\nARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731, 5931\n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n78\n\n\t\n\n \n\n\n\n\nExplanatory Note:\n\n\t\n\n \n\n\n\n\n1.\n\n\t\n\nARCH1003 and ARCH courses at 2000 and above level will be included in the calculation of Major GPA for honours classification.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\n \n\n\n\n\n \n\n\t\n\nRecommended Course Pattern\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: Any 2 Faculty Package courses, OR 1 Faculty Package course and ARCH1001\n\n\t\n\n6\n\n\n\n\nMajor Required: ARCH1003\n\n\t\n\n3\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nFaculty Package: ARCH1001 OR any 1 Faculty Package course (if not taken ARCH1001 in the 1st term)\n\n\t\n\n3\n\n\n\n\nMajor Required:\n\n\t\n\n \n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: ARCH2111, 2322, 2413\n\n\t\n\n11\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: ARCH2112, 2222, 2323 2422\n\n\t\n\n14\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nThird Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: ARCH3113, 3721\n\n\t\n\n8\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: ARCH3114, 3321, 3424\n\n\t\n\n11\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nFourth Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: ARCH4115, 4425\n\n\t\n\n8\n\n\n\n\nMajor Elective(s): Any 1 course\n\n\t\n\n3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: ARCH4116, 4426\n\n\t\n\n8\n\n\n\n\nMajor Elective(s): Any 1 course\n\n\t\n\n3\n\n\n\n\nTotal (including Faculty Package):\n\n\t\n\n78\n\n\n\n\n \n\n \n\nMajor Programme Requirement (for Associate Degree holders admitted to senior-year places)\n\n \n\n\n\n\nStudents are required to complete a minimum of 59 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nRequired Courses:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nStudio Courses:\n\n\t\n\n20\n\n\n\n\n \n\n\t\n\nARCH3113, 3114, 4115, 4116 (capstone course)\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nOther Required Courses:\n\n\t\n\n24\n\n\n\n\n \n\n\t\n\nARCH2222, 2322, 2323, 2413, 3321, 3424, 3721, 4425\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nElective Courses:\n\n\t\n\n15\n\n\n\n\n \n\n\t\n\nChoose at least five courses from the following:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n59\n\n\n\n\nExplanatory Note:\n\n\n\n\n1.\n\n\t\n\nARCH courses at 2000 and above level will be included in the calculation of Major GPA for honours classification.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\n \n\n\n\n\n \n\n\t\n\nRecommended Course Pattern (for Associate Degree holders admitted to senior-year places)\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: ARCH2322, 2413, 3113\n\n\t\n\n11\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: ARCH2222, 2323, 3114, 3424\n\n\t\n\n14\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nSummer session\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nMajor Elective(s): Any 1 course\n\n\t\n\n3\n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: ARCH3721, 4115, 4425\n\n\t\n\n11\n\n\n\n\nMajor Elective(s): Any 1 course\n\n\t\n\n3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: ARCH3321, 4116\n\n\t\n\n8\n\n\n\n\nMajor Elective(s): Any 3 courses\n\n\t\n\n9\n\n\n\n\nTotal:\n\n\t\n\n59\n\n\n\n\n \n\n \n\nMajor Programme Requirement (for Higher Diploma holders admitted to senior-year places)\n\n \n\n\n\n\nStudents are required to complete a minimum of 56 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nRequired Courses:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nStudio Courses:\n\n\t\n\n20\n\n\n\n\n \n\n\t\n\nARCH3113, 3114, 4115, 4116 (capstone course)\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nOther Required Courses:\n\n\t\n\n24\n\n\n\n\n \n\n\t\n\nARCH2222, 2322, 2323, 2413, 3321, 3424, 3721, 4425\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nElective Courses:\n\n\t\n\n12\n\n\n\n\n \n\n\t\n\nChoose at least four courses from the following:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nARCH4131, 4231, 4331, 4431, 4531, 4731, 5131, 5231, 5331, 5431, 5731\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n56\n\n\n\n\nExplanatory Note:\n\n\n\n\n1.\n\n\t\n\nARCH courses at 2000 and above level will be included in the calculation of Major GPA for honours classification.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\n \n\n \n\n\t\n\nRecommended Course Pattern (for Higher Diploma holders admitted to senior-year places)\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: ARCH2322, 2413, 3113\n\n\t\n\n11\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: ARCH2222, 2323, 3114, 3424\n\n\t\n\n14\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: ARCH3721, 4115, 4425\n\n\t\n\n11\n\n\n\n\nMajor Elective(s): Any 1 course\n\n\t\n\n3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: ARCH3321, 4116\n\n\t\n\n8\n\n\n\n\nMajor Elective(s): Any 3 courses\n\n\t\n\n9\n\n\n\n\nTotal:\n\n\t\n\n56\n\n\n\n\n \n\n \n\nCourse List\n\n \n\n\n\n\nCourse Code\n\n\t\n\nCourse Title\n\n\t\n\nUnit(s)\n\n\n\n\nARCH1001\n\n\t\n\nIntroduction to Architecture\n\n\t\n\n3\n\n\n\n\nARCH1002\n\n\t\n\nUnderstanding Cities\n\n\t\n\n3\n\n\n\n\nARCH1003\n\n\t\n\nVisual Studies\n\n\t\n\n3\n\n\n\n\nARCH1320\n\n\t\n\nExperiencing Architecture\n\n\t\n\n3\n\n\n\n\nARCH2111\n\n\t\n\nIntroduction to Architectural Design I\n\n\t\n\n5\n\n\n\n\nARCH2112\n\n\t\n\nIntroduction to Architectural Design II\n\n\t\n\n5\n\n\n\n\nARCH2222\n\n\t\n\nDigital Media\n\n\t\n\n3\n\n\n\n\nARCH2322\n\n\t\n\nCultural Contexts I\n\n\t\n\n3\n\n\n\n\nARCH2323\n\n\t\n\nCultural Contexts II\n\n\t\n\n3\n\n\n\n\nARCH2413\n\n\t\n\nBuilding Technology I: Materials and Construction\n\n\t\n\n3\n\n\n\n\nARCH2422\n\n\t\n\nBuilding Technology II: Materials and Construction\n\n\t\n\n3\n\n\n\n\nARCH3113\n\n\t\n\nArchitectural Design Studio I\n\n\t\n\n5\n\n\n\n\nARCH3114\n\n\t\n\nArchitectural Design Studio II\n\n\t\n\n5\n\n\n\n\nARCH3321\n\n\t\n\nArchitecture and Global Culture\n\n\t\n\n3\n\n\n\n\nARCH3424\n\n\t\n\nBuilding Technology III: Environmental Technology\n\n\t\n\n3\n\n\n\n\nARCH3721\n\n\t\n\nLand and City\n\n\t\n\n3\n\n\n\n\nARCH4115\n\n\t\n\nArchitectural Design Studio III\n\n\t\n\n5\n\n\n\n\nARCH4116\n\n\t\n\nArchitectural Design Studio IV\n\n\t\n\n5\n\n\n\n\nARCH4131\n\n\t\n\nTopical Studies in Design Theory\n\n\t\n\n3\n\n\n\n\nARCH4231\n\n\t\n\nTopical Studies in Computational Design\n\n\t\n\n3\n\n\n\n\nARCH4331\n\n\t\n\nTopical Studies in History, Theory and Criticism\n\n\t\n\n3\n\n\n\n\nARCH4425\n\n\t\n\nBuilding Systems Integration\n\n\t\n\n3\n\n\n\n\nARCH4426\n\n\t\n\nFuture Practice and Sustainable Response\n\n\t\n\n3\n\n\n\n\nARCH4431\n\n\t\n\nTopical Studies in Building Technology\n\n\t\n\n3\n\n\n\n\nARCH4531\n\n\t\n\nTopical Studies in Professional Practice Management\n\n\t\n\n3\n\n\n\n\nARCH4731\n\n\t\n\nTopical Studies of Cities\n\n\t\n\n3\n\n\n\n\nARCH5131\n\n\t\n\nTopical Studies in Design Theory\n\n\t\n\n3\n\n\n\n\nARCH5231\n\n\t\n\nTopical Studies in Computational Design\n\n\t\n\n3\n\n\n\n\nARCH5331\n\n\t\n\nTopical Studies in History, Theory and Criticism\n\n\t\n\n3\n\n\n\n\nARCH5431\n\n\t\n\nTopical Studies in Building Technology\n\n\t\n\n3\n\n\n\n\nARCH5731\n\n\t\n\nTopical Studies in Urbanism\n\n\t\n\n3\n\n\n\n\nARCH5931\n\n\t\n\nTopical Studies in Design, Theory, and Practice Methods\n\n\t\n\n1\n\n                                                                                                                                                  \n\n\n \n\nStudy Scheme\n\n\nLearning Outcomes\n \n\n\t\n\n \n\n1.          Major Programme:\n\nAt the end of the course of studies, students will have acquired :\n\n(1)   skills to design the built environment well and appropriately;\n\n(2)   the capacity of knowledge in humanities, technologies and professional practice of architecture and construction;\n\n(3)   innovative and critical thinking in both the use of knowledge and the application of design skills;\n\n(4)   a commitment to social responsibility and professional ethics.\n\n \n\n \n\n \n\n\n"
+}

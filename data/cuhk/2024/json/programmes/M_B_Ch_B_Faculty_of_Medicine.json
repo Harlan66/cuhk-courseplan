@@ -1,0 +1,1802 @@
+{
+  "programme_id": "M_B_Ch_B__Faculty_of_Medicine",
+  "academic_program": "M.B., Ch.B.",
+  "faculty": "Faculty of Medicine",
+  "academic_year": 2024,
+  "admission_cohort": "2024-25)",
+  "requirement_summary": {
+    "minimum_units_as_printed": "9 units",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Faculty Package",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "MEDF1010",
+            "prefix_inferred": false,
+            "evidence": "MEDF1010, 1012, 1041 and 1120"
+          },
+          {
+            "course_code": "MEDF1012",
+            "prefix_inferred": true,
+            "evidence": "MEDF1010, 1012, 1041 and 1120"
+          },
+          {
+            "course_code": "MEDF1041",
+            "prefix_inferred": true,
+            "evidence": "MEDF1010, 1012, 1041 and 1120"
+          },
+          {
+            "course_code": "MEDF1120",
+            "prefix_inferred": true,
+            "evidence": "MEDF1010, 1012, 1041 and 1120"
+          }
+        ],
+        "raw_text": "9\nMEDF1010, 1012, 1041 and 1120"
+      },
+      {
+        "number": 2,
+        "title": "Required Courses",
+        "units_as_printed": null,
+        "course_mentions": [
+          {
+            "course_code": "MEDU1110",
+            "prefix_inferred": false,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU1130",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU1140",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU1150",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU2001",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU2140",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU2160",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU2300",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU2400",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU2500",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU2600",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU2880",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU3001",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU3110",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU3160",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU3200",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU3210",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU3293",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU3300",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU3310",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU3320",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU3330",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU3340",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU3350",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU3360",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU3400",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU3500",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU3510",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU3700",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU3800",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU3880",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU3890",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU4001",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU4002",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU4010",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU4110",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU4201",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU4202",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU4210",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU4300",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU4310",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU4340",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU4400",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU4410",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU4440",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU4510",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU4610",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDU4710",
+            "prefix_inferred": true,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "SSMU3000",
+            "prefix_inferred": false,
+            "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+          },
+          {
+            "course_code": "MEDF1010",
+            "prefix_inferred": false,
+            "evidence": "Faculty Package: MEDF1010, 1041, 1120"
+          },
+          {
+            "course_code": "MEDF1041",
+            "prefix_inferred": true,
+            "evidence": "Faculty Package: MEDF1010, 1041, 1120"
+          },
+          {
+            "course_code": "MEDF1120",
+            "prefix_inferred": true,
+            "evidence": "Faculty Package: MEDF1010, 1041, 1120"
+          },
+          {
+            "course_code": "MEDU1110",
+            "prefix_inferred": false,
+            "evidence": "Major Required: MEDU1110"
+          },
+          {
+            "course_code": "MEDF1012",
+            "prefix_inferred": false,
+            "evidence": "Faculty Package: MEDF1012"
+          },
+          {
+            "course_code": "MEDU1130",
+            "prefix_inferred": false,
+            "evidence": "Major Required: MEDU1130"
+          },
+          {
+            "course_code": "MEDU1140",
+            "prefix_inferred": false,
+            "evidence": "Major Required: MEDU1140, 1150"
+          },
+          {
+            "course_code": "MEDU1150",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU1140, 1150"
+          },
+          {
+            "course_code": "MEDU2140",
+            "prefix_inferred": false,
+            "evidence": "Major Required: MEDU2140, 2160, 2300, 2400, 2500, 2600, 2880"
+          },
+          {
+            "course_code": "MEDU2160",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU2140, 2160, 2300, 2400, 2500, 2600, 2880"
+          },
+          {
+            "course_code": "MEDU2300",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU2140, 2160, 2300, 2400, 2500, 2600, 2880"
+          },
+          {
+            "course_code": "MEDU2400",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU2140, 2160, 2300, 2400, 2500, 2600, 2880"
+          },
+          {
+            "course_code": "MEDU2500",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU2140, 2160, 2300, 2400, 2500, 2600, 2880"
+          },
+          {
+            "course_code": "MEDU2600",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU2140, 2160, 2300, 2400, 2500, 2600, 2880"
+          },
+          {
+            "course_code": "MEDU2880",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU2140, 2160, 2300, 2400, 2500, 2600, 2880"
+          },
+          {
+            "course_code": "MEDU2001",
+            "prefix_inferred": false,
+            "evidence": "Major Required: MEDU2001, 3160, 3300, 3400, 3500, 3700, 3880, 3890"
+          },
+          {
+            "course_code": "MEDU3160",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU2001, 3160, 3300, 3400, 3500, 3700, 3880, 3890"
+          },
+          {
+            "course_code": "MEDU3300",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU2001, 3160, 3300, 3400, 3500, 3700, 3880, 3890"
+          },
+          {
+            "course_code": "MEDU3400",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU2001, 3160, 3300, 3400, 3500, 3700, 3880, 3890"
+          },
+          {
+            "course_code": "MEDU3500",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU2001, 3160, 3300, 3400, 3500, 3700, 3880, 3890"
+          },
+          {
+            "course_code": "MEDU3700",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU2001, 3160, 3300, 3400, 3500, 3700, 3880, 3890"
+          },
+          {
+            "course_code": "MEDU3880",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU2001, 3160, 3300, 3400, 3500, 3700, 3880, 3890"
+          },
+          {
+            "course_code": "MEDU3890",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU2001, 3160, 3300, 3400, 3500, 3700, 3880, 3890"
+          },
+          {
+            "course_code": "MEDU3001",
+            "prefix_inferred": false,
+            "evidence": "Major Required: MEDU3001, 3110, 3200, 3210, 3293, 3310, 3320, 3330, 3340, 3350, 3360, 3510, 3800, SSMU3000"
+          },
+          {
+            "course_code": "MEDU3110",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU3001, 3110, 3200, 3210, 3293, 3310, 3320, 3330, 3340, 3350, 3360, 3510, 3800, SSMU3000"
+          },
+          {
+            "course_code": "MEDU3200",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU3001, 3110, 3200, 3210, 3293, 3310, 3320, 3330, 3340, 3350, 3360, 3510, 3800, SSMU3000"
+          },
+          {
+            "course_code": "MEDU3210",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU3001, 3110, 3200, 3210, 3293, 3310, 3320, 3330, 3340, 3350, 3360, 3510, 3800, SSMU3000"
+          },
+          {
+            "course_code": "MEDU3293",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU3001, 3110, 3200, 3210, 3293, 3310, 3320, 3330, 3340, 3350, 3360, 3510, 3800, SSMU3000"
+          },
+          {
+            "course_code": "MEDU3310",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU3001, 3110, 3200, 3210, 3293, 3310, 3320, 3330, 3340, 3350, 3360, 3510, 3800, SSMU3000"
+          },
+          {
+            "course_code": "MEDU3320",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU3001, 3110, 3200, 3210, 3293, 3310, 3320, 3330, 3340, 3350, 3360, 3510, 3800, SSMU3000"
+          },
+          {
+            "course_code": "MEDU3330",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU3001, 3110, 3200, 3210, 3293, 3310, 3320, 3330, 3340, 3350, 3360, 3510, 3800, SSMU3000"
+          },
+          {
+            "course_code": "MEDU3340",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU3001, 3110, 3200, 3210, 3293, 3310, 3320, 3330, 3340, 3350, 3360, 3510, 3800, SSMU3000"
+          },
+          {
+            "course_code": "MEDU3350",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU3001, 3110, 3200, 3210, 3293, 3310, 3320, 3330, 3340, 3350, 3360, 3510, 3800, SSMU3000"
+          },
+          {
+            "course_code": "MEDU3360",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU3001, 3110, 3200, 3210, 3293, 3310, 3320, 3330, 3340, 3350, 3360, 3510, 3800, SSMU3000"
+          },
+          {
+            "course_code": "MEDU3510",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU3001, 3110, 3200, 3210, 3293, 3310, 3320, 3330, 3340, 3350, 3360, 3510, 3800, SSMU3000"
+          },
+          {
+            "course_code": "MEDU3800",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU3001, 3110, 3200, 3210, 3293, 3310, 3320, 3330, 3340, 3350, 3360, 3510, 3800, SSMU3000"
+          },
+          {
+            "course_code": "SSMU3000",
+            "prefix_inferred": false,
+            "evidence": "Major Required: MEDU3001, 3110, 3200, 3210, 3293, 3310, 3320, 3330, 3340, 3350, 3360, 3510, 3800, SSMU3000"
+          },
+          {
+            "course_code": "MEDU4001",
+            "prefix_inferred": false,
+            "evidence": "Major Required: MEDU4001, 4010, 4110, 4201, 4210, 4300, 4310, 4340, 4410, 4510"
+          },
+          {
+            "course_code": "MEDU4010",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU4001, 4010, 4110, 4201, 4210, 4300, 4310, 4340, 4410, 4510"
+          },
+          {
+            "course_code": "MEDU4110",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU4001, 4010, 4110, 4201, 4210, 4300, 4310, 4340, 4410, 4510"
+          },
+          {
+            "course_code": "MEDU4201",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU4001, 4010, 4110, 4201, 4210, 4300, 4310, 4340, 4410, 4510"
+          },
+          {
+            "course_code": "MEDU4210",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU4001, 4010, 4110, 4201, 4210, 4300, 4310, 4340, 4410, 4510"
+          },
+          {
+            "course_code": "MEDU4300",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU4001, 4010, 4110, 4201, 4210, 4300, 4310, 4340, 4410, 4510"
+          },
+          {
+            "course_code": "MEDU4310",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU4001, 4010, 4110, 4201, 4210, 4300, 4310, 4340, 4410, 4510"
+          },
+          {
+            "course_code": "MEDU4340",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU4001, 4010, 4110, 4201, 4210, 4300, 4310, 4340, 4410, 4510"
+          },
+          {
+            "course_code": "MEDU4410",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU4001, 4010, 4110, 4201, 4210, 4300, 4310, 4340, 4410, 4510"
+          },
+          {
+            "course_code": "MEDU4510",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU4001, 4010, 4110, 4201, 4210, 4300, 4310, 4340, 4410, 4510"
+          },
+          {
+            "course_code": "MEDU4002",
+            "prefix_inferred": false,
+            "evidence": "Major Required: MEDU4002, 4202, 4400, 4440, 4610, 4710"
+          },
+          {
+            "course_code": "MEDU4202",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU4002, 4202, 4400, 4440, 4610, 4710"
+          },
+          {
+            "course_code": "MEDU4400",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU4002, 4202, 4400, 4440, 4610, 4710"
+          },
+          {
+            "course_code": "MEDU4440",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU4002, 4202, 4400, 4440, 4610, 4710"
+          },
+          {
+            "course_code": "MEDU4610",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU4002, 4202, 4400, 4440, 4610, 4710"
+          },
+          {
+            "course_code": "MEDU4710",
+            "prefix_inferred": true,
+            "evidence": "Major Required: MEDU4002, 4202, 4400, 4440, 4610, 4710"
+          },
+          {
+            "course_code": "GPSU2000",
+            "prefix_inferred": false,
+            "evidence": "(1) GPS students admitted in Medicine Year One or Medicine Year Two are required to complete satisfactorily GPS Leadership Workshop Series I (GPSU2000), GPS Leadership Workshop Series IIA (GPSU3000), GPS Leadership Workshop Series IIB (GPSU4000) and GPS Leadership Workshop Series III (GPSU4200). GPS students admitted in Medicine Year Three are required to complete satisfactorily GPS Leadership Workshop Series IIB (GPSU4000) and GPS Leadership Workshop Series III (GPSU4200)."
+          },
+          {
+            "course_code": "GPSU3000",
+            "prefix_inferred": false,
+            "evidence": "(1) GPS students admitted in Medicine Year One or Medicine Year Two are required to complete satisfactorily GPS Leadership Workshop Series I (GPSU2000), GPS Leadership Workshop Series IIA (GPSU3000), GPS Leadership Workshop Series IIB (GPSU4000) and GPS Leadership Workshop Series III (GPSU4200). GPS students admitted in Medicine Year Three are required to complete satisfactorily GPS Leadership Workshop Series IIB (GPSU4000) and GPS Leadership Workshop Series III (GPSU4200)."
+          },
+          {
+            "course_code": "GPSU4000",
+            "prefix_inferred": false,
+            "evidence": "(1) GPS students admitted in Medicine Year One or Medicine Year Two are required to complete satisfactorily GPS Leadership Workshop Series I (GPSU2000), GPS Leadership Workshop Series IIA (GPSU3000), GPS Leadership Workshop Series IIB (GPSU4000) and GPS Leadership Workshop Series III (GPSU4200). GPS students admitted in Medicine Year Three are required to complete satisfactorily GPS Leadership Workshop Series IIB (GPSU4000) and GPS Leadership Workshop Series III (GPSU4200)."
+          },
+          {
+            "course_code": "GPSU4200",
+            "prefix_inferred": false,
+            "evidence": "(1) GPS students admitted in Medicine Year One or Medicine Year Two are required to complete satisfactorily GPS Leadership Workshop Series I (GPSU2000), GPS Leadership Workshop Series IIA (GPSU3000), GPS Leadership Workshop Series IIB (GPSU4000) and GPS Leadership Workshop Series III (GPSU4200). GPS students admitted in Medicine Year Three are required to complete satisfactorily GPS Leadership Workshop Series IIB (GPSU4000) and GPS Leadership Workshop Series III (GPSU4200)."
+          }
+        ],
+        "raw_text": "N/A\nMEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000\nRecommended Course Pattern\nYear One\n1st term\nFaculty Package: MEDF1010, 1041, 1120\nMajor Required: MEDU1110\n2nd term\nFaculty Package: MEDF1012\nMajor Required: MEDU1130\nAcademic year\nMajor Required: MEDU1140, 1150\nYear Two\nMajor Required: MEDU2140, 2160, 2300, 2400, 2500, 2600, 2880\nYear Three\nMajor Required: MEDU2001, 3160, 3300, 3400, 3500, 3700, 3880, 3890\nYear Four\nMajor Required: MEDU3001, 3110, 3200, 3210, 3293, 3310, 3320, 3330, 3340, 3350, 3360, 3510, 3800, SSMU3000\nYear Five\nMajor Required: MEDU4001, 4010, 4110, 4201, 4210, 4300, 4310, 4340, 4410, 4510\nYear Six\nMajor Required: MEDU4002, 4202, 4400, 4440, 4610, 4710\nMedicine Programme (MBChB) Global Physician-Leadership Stream (GPS)\nAll GPS students have to complete the study scheme prescribed above and the following courses:\n(1) GPS students admitted in Medicine Year One or Medicine Year Two are required to complete satisfactorily GPS Leadership Workshop Series I (GPSU2000), GPS Leadership Workshop Series IIA (GPSU3000), GPS Leadership Workshop Series IIB (GPSU4000) and GPS Leadership Workshop Series III (GPSU4200). GPS students admitted in Medicine Year Three are required to complete satisfactorily GPS Leadership Workshop Series IIB (GPSU4000) and GPS Leadership Workshop Series III (GPSU4200).\n(2) Under close supervision of a mentor, GPS students must complete a GPS project within the period from Medicine Year Three until Medicine Year Five. These students are required to submit an end-of-project report no later than the end of Medicine Year Five. A student can be exempted from Selected Study Modules if s/he opts for submission of an interim report of the GPS Project by the end of Medicine Year Four.\n(3) GPS students are required to take GPS Internship (a 4 to 6-week duration internship attachment in a local or an overseas institution). GPS Internship is arranged at the latest by the time of Medicine Year Five. GPS students who fulfill the requirement of GPS Internship can be exempted from the course requirement of Clinical Elective in Medicine Year Five.\nExplanatory Notes:"
+      },
+      {
+        "number": 6,
+        "title": "Students may opt to take elective course(s) from the course list.",
+        "units_as_printed": null,
+        "course_mentions": [
+          {
+            "course_code": "MEDF1010",
+            "prefix_inferred": false,
+            "evidence": "MEDF1010"
+          },
+          {
+            "course_code": "MEDF1012",
+            "prefix_inferred": false,
+            "evidence": "MEDF1012"
+          },
+          {
+            "course_code": "MEDF1041",
+            "prefix_inferred": false,
+            "evidence": "MEDF1041"
+          },
+          {
+            "course_code": "MEDF1120",
+            "prefix_inferred": false,
+            "evidence": "MEDF1120"
+          },
+          {
+            "course_code": "MEDU1110",
+            "prefix_inferred": false,
+            "evidence": "MEDU1110"
+          },
+          {
+            "course_code": "MEDU1130",
+            "prefix_inferred": false,
+            "evidence": "MEDU1130"
+          },
+          {
+            "course_code": "MEDU1140",
+            "prefix_inferred": false,
+            "evidence": "MEDU1140"
+          },
+          {
+            "course_code": "MEDU1150",
+            "prefix_inferred": false,
+            "evidence": "MEDU1150"
+          },
+          {
+            "course_code": "MEDU2001",
+            "prefix_inferred": false,
+            "evidence": "MEDU2001"
+          },
+          {
+            "course_code": "MEDU2140",
+            "prefix_inferred": false,
+            "evidence": "MEDU2140"
+          },
+          {
+            "course_code": "MEDU2160",
+            "prefix_inferred": false,
+            "evidence": "MEDU2160"
+          },
+          {
+            "course_code": "MEDU2300",
+            "prefix_inferred": false,
+            "evidence": "MEDU2300"
+          },
+          {
+            "course_code": "MEDU2400",
+            "prefix_inferred": false,
+            "evidence": "MEDU2400"
+          },
+          {
+            "course_code": "MEDU2500",
+            "prefix_inferred": false,
+            "evidence": "MEDU2500"
+          },
+          {
+            "course_code": "MEDU2600",
+            "prefix_inferred": false,
+            "evidence": "MEDU2600"
+          },
+          {
+            "course_code": "MEDU2880",
+            "prefix_inferred": false,
+            "evidence": "MEDU2880"
+          },
+          {
+            "course_code": "MEDU3001",
+            "prefix_inferred": false,
+            "evidence": "MEDU3001"
+          },
+          {
+            "course_code": "MEDU3110",
+            "prefix_inferred": false,
+            "evidence": "MEDU3110"
+          },
+          {
+            "course_code": "MEDU3160",
+            "prefix_inferred": false,
+            "evidence": "MEDU3160"
+          },
+          {
+            "course_code": "MEDU3200",
+            "prefix_inferred": false,
+            "evidence": "MEDU3200"
+          },
+          {
+            "course_code": "MEDU3210",
+            "prefix_inferred": false,
+            "evidence": "MEDU3210"
+          },
+          {
+            "course_code": "MEDU3293",
+            "prefix_inferred": false,
+            "evidence": "MEDU3293"
+          },
+          {
+            "course_code": "MEDU3300",
+            "prefix_inferred": false,
+            "evidence": "MEDU3300"
+          },
+          {
+            "course_code": "MEDU3310",
+            "prefix_inferred": false,
+            "evidence": "MEDU3310"
+          },
+          {
+            "course_code": "MEDU3320",
+            "prefix_inferred": false,
+            "evidence": "MEDU3320"
+          },
+          {
+            "course_code": "MEDU3330",
+            "prefix_inferred": false,
+            "evidence": "MEDU3330"
+          },
+          {
+            "course_code": "MEDU3340",
+            "prefix_inferred": false,
+            "evidence": "MEDU3340"
+          },
+          {
+            "course_code": "MEDU3350",
+            "prefix_inferred": false,
+            "evidence": "MEDU3350"
+          },
+          {
+            "course_code": "MEDU3360",
+            "prefix_inferred": false,
+            "evidence": "MEDU3360"
+          },
+          {
+            "course_code": "MEDU3400",
+            "prefix_inferred": false,
+            "evidence": "MEDU3400"
+          },
+          {
+            "course_code": "MEDU3500",
+            "prefix_inferred": false,
+            "evidence": "MEDU3500"
+          },
+          {
+            "course_code": "MEDU3510",
+            "prefix_inferred": false,
+            "evidence": "MEDU3510"
+          },
+          {
+            "course_code": "MEDU3700",
+            "prefix_inferred": false,
+            "evidence": "MEDU3700"
+          },
+          {
+            "course_code": "MEDU3800",
+            "prefix_inferred": false,
+            "evidence": "MEDU3800"
+          },
+          {
+            "course_code": "MEDU3880",
+            "prefix_inferred": false,
+            "evidence": "MEDU3880"
+          },
+          {
+            "course_code": "MEDU3890",
+            "prefix_inferred": false,
+            "evidence": "MEDU3890"
+          },
+          {
+            "course_code": "MEDU4001",
+            "prefix_inferred": false,
+            "evidence": "MEDU4001"
+          },
+          {
+            "course_code": "MEDU4002",
+            "prefix_inferred": false,
+            "evidence": "MEDU4002"
+          },
+          {
+            "course_code": "MEDU4010",
+            "prefix_inferred": false,
+            "evidence": "MEDU4010"
+          },
+          {
+            "course_code": "MEDU4110",
+            "prefix_inferred": false,
+            "evidence": "MEDU4110"
+          },
+          {
+            "course_code": "MEDU4201",
+            "prefix_inferred": false,
+            "evidence": "MEDU4201"
+          },
+          {
+            "course_code": "MEDU4202",
+            "prefix_inferred": false,
+            "evidence": "MEDU4202"
+          },
+          {
+            "course_code": "MEDU4210",
+            "prefix_inferred": false,
+            "evidence": "MEDU4210"
+          },
+          {
+            "course_code": "MEDU4300",
+            "prefix_inferred": false,
+            "evidence": "MEDU4300"
+          },
+          {
+            "course_code": "MEDU4310",
+            "prefix_inferred": false,
+            "evidence": "MEDU4310"
+          },
+          {
+            "course_code": "MEDU4340",
+            "prefix_inferred": false,
+            "evidence": "MEDU4340"
+          },
+          {
+            "course_code": "MEDU4400",
+            "prefix_inferred": false,
+            "evidence": "MEDU4400"
+          },
+          {
+            "course_code": "MEDU4410",
+            "prefix_inferred": false,
+            "evidence": "MEDU4410"
+          },
+          {
+            "course_code": "MEDU4440",
+            "prefix_inferred": false,
+            "evidence": "MEDU4440"
+          },
+          {
+            "course_code": "MEDU4510",
+            "prefix_inferred": false,
+            "evidence": "MEDU4510"
+          },
+          {
+            "course_code": "MEDU4610",
+            "prefix_inferred": false,
+            "evidence": "MEDU4610"
+          },
+          {
+            "course_code": "MEDU4710",
+            "prefix_inferred": false,
+            "evidence": "MEDU4710"
+          },
+          {
+            "course_code": "SSMU3000",
+            "prefix_inferred": false,
+            "evidence": "SSMU3000"
+          },
+          {
+            "course_code": "MEDU3010",
+            "prefix_inferred": false,
+            "evidence": "MEDU3010"
+          },
+          {
+            "course_code": "MEDU3900",
+            "prefix_inferred": false,
+            "evidence": "MEDU3900"
+          },
+          {
+            "course_code": "GPSU2000",
+            "prefix_inferred": false,
+            "evidence": "GPSU2000"
+          },
+          {
+            "course_code": "GPSU3000",
+            "prefix_inferred": false,
+            "evidence": "GPSU3000"
+          },
+          {
+            "course_code": "GPSU3100",
+            "prefix_inferred": false,
+            "evidence": "GPSU3100"
+          },
+          {
+            "course_code": "GPSU4000",
+            "prefix_inferred": false,
+            "evidence": "GPSU4000"
+          },
+          {
+            "course_code": "GPSU4100",
+            "prefix_inferred": false,
+            "evidence": "GPSU4100"
+          },
+          {
+            "course_code": "GPSU4200",
+            "prefix_inferred": false,
+            "evidence": "GPSU4200"
+          }
+        ],
+        "raw_text": "MBChB Course List\n(Applicable to students admitted in 2024-25)\nRequired Courses\nCourse Code\nCourse Title\nMEDF1010\nFoundation Course for Health Sciences I (for MBChB only)\nMEDF1012\nFoundation Course for Health Sciences II\nMEDF1041\nInterprofessional Healthcare\nMEDF1120\nPublic Health\nMEDU1110\nSystemic Anatomy\nMEDU1130\nCells and Tissues\nMEDU1140\nBioethics I\nMEDU1150\nPerspectives of Medicine in Real Life\nMEDU2001\nFirst Professional Examination\nMEDU2140\nBioethics II\nMEDU2160\nResilience Building in Professional and Personal Development I\nMEDU2300\nHuman Structure I\nMEDU2400\nHuman Function I\nMEDU2500\nDoctor and Patient I\nMEDU2600\nMolecular Medicine and Genetics\nMEDU2880\nClinical Skills I\nMEDU3001\nSecond Professional Examination\nMEDU3110\nJunior Medical Clerkship\nMEDU3160\nResilience Building in Professional and Personal Development II\nMEDU3200\nSkills Module for Medicine Year 4\nMEDU3210\nJunior Surgical Dressership\nMEDU3293\nDoctor and Patient III\nMEDU3300\nHuman Structure II\nMEDU3310\nAnatomical Pathology and Clinical Hematology\nMEDU3320\nChemical Pathology\nMEDU3330\nClinical Microbiology\nMEDU3340\nIntegrated Clinical Communication Skills I\nMEDU3350\nRadiology Pathology\nMEDU3360\nResilience Building in Professional and Personal Development III\nMEDU3400\nHuman Function II\nMEDU3500\nDoctor and Patient II\nMEDU3510\nClinical Examinations in Medicine and Surgery\nMEDU3700\nBioethics III\nMEDU3800\nBioethics IV: Law and Medicine\nMEDU3880\nClinical Skills II\nMEDU3890\nClinical Pathology and Clinical Skills\nMEDU4001\n(Part I) Third Professional Examination\nMEDU4002\n(Part II) Third Professional Examination\nMEDU4010\nCommunity and Family Medicine Module\nMEDU4110\nObstetrics and Gynaecology Module\nMEDU4201\nSkills Module for Medicine Year 5\nMEDU4202\nSkills Module for Medicine Year 6\nMEDU4210\nPaediatrics Module\nMEDU4300\nClinical Ethics I\nMEDU4310\nPsychiatry Module\nMEDU4340\nIntegrated Clinical Communication Skills II\nMEDU4400\nClinical Ethics II\nMEDU4410\nClinical Elective\nMEDU4440\nIntegrated Clinical Communication Skills III\nMEDU4510\nCombined Clinical Examination\nMEDU4610\nSenior Medical Clerkship\nMEDU4710\nSenior Surgical Dressership\nSSMU3000\nSelected Study Modules\nElective Courses\nCourse Code\nCourse Title\nMEDU3010\nArtificial Intelligence Research Internship\nMEDU3900\nElective\nMBChB Global Physician-Leadership Stream (GPS) Course List\n(Applicable to students admitted in 2012-13 and thereafter)\nCourse Code\nCourse Title\nGPSU2000\nGPS Leadership Workshop Series I\nGPSU3000\nGPS Leadership Workshop Series IIA\nGPSU3100\nGPS Project\nGPSU4000\nGPS Leadership Workshop Series IIB\nGPSU4100\nGPS Internship\nGPSU4200\nGPS Leadership Workshop Series III\nStudy Scheme\nLearning Outcomes\n1. MBChB Programme:\nThe educational objective of the curriculum is to ensure that our students obtain the essential knowledge, skills and attitudes for professional medical practice and life-long pursuit of medical education. Our graduates will have acquired the ability to:\n(1)\ndeliver effective and holistic care to their patients;\n(2)\ncommunicate effectively, compassionately and with good attitude with their patients;\n(3)\nmake decisions rationally and ethically when faced with conflicting choices in the management of patients;\n(4)\ncritically appraise available evidence so that they can apply the best treatment to patients;\n(5)\nhave the skills for life-long learning to equip themselves with the new knowledge required for the provision of the best possible care to their patients."
+      }
+    ]
+  },
+  "all_course_mentions": [
+    {
+      "course_code": "MEDF1010",
+      "prefix_inferred": false,
+      "evidence": "MEDF1010, 1012, 1041 and 1120"
+    },
+    {
+      "course_code": "MEDF1012",
+      "prefix_inferred": true,
+      "evidence": "MEDF1010, 1012, 1041 and 1120"
+    },
+    {
+      "course_code": "MEDF1041",
+      "prefix_inferred": true,
+      "evidence": "MEDF1010, 1012, 1041 and 1120"
+    },
+    {
+      "course_code": "MEDF1120",
+      "prefix_inferred": true,
+      "evidence": "MEDF1010, 1012, 1041 and 1120"
+    },
+    {
+      "course_code": "MEDU1110",
+      "prefix_inferred": false,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU1130",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU1140",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU1150",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU2001",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU2140",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU2160",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU2300",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU2400",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU2500",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU2600",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU2880",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU3001",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU3110",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU3160",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU3200",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU3210",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU3293",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU3300",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU3310",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU3320",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU3330",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU3340",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU3350",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU3360",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU3400",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU3500",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU3510",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU3700",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU3800",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU3880",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU3890",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU4001",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU4002",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU4010",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU4110",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU4201",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU4202",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU4210",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU4300",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU4310",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU4340",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU4400",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU4410",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU4440",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU4510",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU4610",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDU4710",
+      "prefix_inferred": true,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "SSMU3000",
+      "prefix_inferred": false,
+      "evidence": "MEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000"
+    },
+    {
+      "course_code": "MEDF1010",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: MEDF1010, 1041, 1120"
+    },
+    {
+      "course_code": "MEDF1041",
+      "prefix_inferred": true,
+      "evidence": "Faculty Package: MEDF1010, 1041, 1120"
+    },
+    {
+      "course_code": "MEDF1120",
+      "prefix_inferred": true,
+      "evidence": "Faculty Package: MEDF1010, 1041, 1120"
+    },
+    {
+      "course_code": "MEDU1110",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MEDU1110"
+    },
+    {
+      "course_code": "MEDF1012",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: MEDF1012"
+    },
+    {
+      "course_code": "MEDU1130",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MEDU1130"
+    },
+    {
+      "course_code": "MEDU1140",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MEDU1140, 1150"
+    },
+    {
+      "course_code": "MEDU1150",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU1140, 1150"
+    },
+    {
+      "course_code": "MEDU2140",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MEDU2140, 2160, 2300, 2400, 2500, 2600, 2880"
+    },
+    {
+      "course_code": "MEDU2160",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU2140, 2160, 2300, 2400, 2500, 2600, 2880"
+    },
+    {
+      "course_code": "MEDU2300",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU2140, 2160, 2300, 2400, 2500, 2600, 2880"
+    },
+    {
+      "course_code": "MEDU2400",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU2140, 2160, 2300, 2400, 2500, 2600, 2880"
+    },
+    {
+      "course_code": "MEDU2500",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU2140, 2160, 2300, 2400, 2500, 2600, 2880"
+    },
+    {
+      "course_code": "MEDU2600",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU2140, 2160, 2300, 2400, 2500, 2600, 2880"
+    },
+    {
+      "course_code": "MEDU2880",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU2140, 2160, 2300, 2400, 2500, 2600, 2880"
+    },
+    {
+      "course_code": "MEDU2001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MEDU2001, 3160, 3300, 3400, 3500, 3700, 3880, 3890"
+    },
+    {
+      "course_code": "MEDU3160",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU2001, 3160, 3300, 3400, 3500, 3700, 3880, 3890"
+    },
+    {
+      "course_code": "MEDU3300",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU2001, 3160, 3300, 3400, 3500, 3700, 3880, 3890"
+    },
+    {
+      "course_code": "MEDU3400",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU2001, 3160, 3300, 3400, 3500, 3700, 3880, 3890"
+    },
+    {
+      "course_code": "MEDU3500",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU2001, 3160, 3300, 3400, 3500, 3700, 3880, 3890"
+    },
+    {
+      "course_code": "MEDU3700",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU2001, 3160, 3300, 3400, 3500, 3700, 3880, 3890"
+    },
+    {
+      "course_code": "MEDU3880",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU2001, 3160, 3300, 3400, 3500, 3700, 3880, 3890"
+    },
+    {
+      "course_code": "MEDU3890",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU2001, 3160, 3300, 3400, 3500, 3700, 3880, 3890"
+    },
+    {
+      "course_code": "MEDU3001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MEDU3001, 3110, 3200, 3210, 3293, 3310, 3320, 3330, 3340, 3350, 3360, 3510, 3800, SSMU3000"
+    },
+    {
+      "course_code": "MEDU3110",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU3001, 3110, 3200, 3210, 3293, 3310, 3320, 3330, 3340, 3350, 3360, 3510, 3800, SSMU3000"
+    },
+    {
+      "course_code": "MEDU3200",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU3001, 3110, 3200, 3210, 3293, 3310, 3320, 3330, 3340, 3350, 3360, 3510, 3800, SSMU3000"
+    },
+    {
+      "course_code": "MEDU3210",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU3001, 3110, 3200, 3210, 3293, 3310, 3320, 3330, 3340, 3350, 3360, 3510, 3800, SSMU3000"
+    },
+    {
+      "course_code": "MEDU3293",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU3001, 3110, 3200, 3210, 3293, 3310, 3320, 3330, 3340, 3350, 3360, 3510, 3800, SSMU3000"
+    },
+    {
+      "course_code": "MEDU3310",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU3001, 3110, 3200, 3210, 3293, 3310, 3320, 3330, 3340, 3350, 3360, 3510, 3800, SSMU3000"
+    },
+    {
+      "course_code": "MEDU3320",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU3001, 3110, 3200, 3210, 3293, 3310, 3320, 3330, 3340, 3350, 3360, 3510, 3800, SSMU3000"
+    },
+    {
+      "course_code": "MEDU3330",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU3001, 3110, 3200, 3210, 3293, 3310, 3320, 3330, 3340, 3350, 3360, 3510, 3800, SSMU3000"
+    },
+    {
+      "course_code": "MEDU3340",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU3001, 3110, 3200, 3210, 3293, 3310, 3320, 3330, 3340, 3350, 3360, 3510, 3800, SSMU3000"
+    },
+    {
+      "course_code": "MEDU3350",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU3001, 3110, 3200, 3210, 3293, 3310, 3320, 3330, 3340, 3350, 3360, 3510, 3800, SSMU3000"
+    },
+    {
+      "course_code": "MEDU3360",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU3001, 3110, 3200, 3210, 3293, 3310, 3320, 3330, 3340, 3350, 3360, 3510, 3800, SSMU3000"
+    },
+    {
+      "course_code": "MEDU3510",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU3001, 3110, 3200, 3210, 3293, 3310, 3320, 3330, 3340, 3350, 3360, 3510, 3800, SSMU3000"
+    },
+    {
+      "course_code": "MEDU3800",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU3001, 3110, 3200, 3210, 3293, 3310, 3320, 3330, 3340, 3350, 3360, 3510, 3800, SSMU3000"
+    },
+    {
+      "course_code": "SSMU3000",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MEDU3001, 3110, 3200, 3210, 3293, 3310, 3320, 3330, 3340, 3350, 3360, 3510, 3800, SSMU3000"
+    },
+    {
+      "course_code": "MEDU4001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MEDU4001, 4010, 4110, 4201, 4210, 4300, 4310, 4340, 4410, 4510"
+    },
+    {
+      "course_code": "MEDU4010",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU4001, 4010, 4110, 4201, 4210, 4300, 4310, 4340, 4410, 4510"
+    },
+    {
+      "course_code": "MEDU4110",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU4001, 4010, 4110, 4201, 4210, 4300, 4310, 4340, 4410, 4510"
+    },
+    {
+      "course_code": "MEDU4201",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU4001, 4010, 4110, 4201, 4210, 4300, 4310, 4340, 4410, 4510"
+    },
+    {
+      "course_code": "MEDU4210",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU4001, 4010, 4110, 4201, 4210, 4300, 4310, 4340, 4410, 4510"
+    },
+    {
+      "course_code": "MEDU4300",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU4001, 4010, 4110, 4201, 4210, 4300, 4310, 4340, 4410, 4510"
+    },
+    {
+      "course_code": "MEDU4310",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU4001, 4010, 4110, 4201, 4210, 4300, 4310, 4340, 4410, 4510"
+    },
+    {
+      "course_code": "MEDU4340",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU4001, 4010, 4110, 4201, 4210, 4300, 4310, 4340, 4410, 4510"
+    },
+    {
+      "course_code": "MEDU4410",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU4001, 4010, 4110, 4201, 4210, 4300, 4310, 4340, 4410, 4510"
+    },
+    {
+      "course_code": "MEDU4510",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU4001, 4010, 4110, 4201, 4210, 4300, 4310, 4340, 4410, 4510"
+    },
+    {
+      "course_code": "MEDU4002",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MEDU4002, 4202, 4400, 4440, 4610, 4710"
+    },
+    {
+      "course_code": "MEDU4202",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU4002, 4202, 4400, 4440, 4610, 4710"
+    },
+    {
+      "course_code": "MEDU4400",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU4002, 4202, 4400, 4440, 4610, 4710"
+    },
+    {
+      "course_code": "MEDU4440",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU4002, 4202, 4400, 4440, 4610, 4710"
+    },
+    {
+      "course_code": "MEDU4610",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU4002, 4202, 4400, 4440, 4610, 4710"
+    },
+    {
+      "course_code": "MEDU4710",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MEDU4002, 4202, 4400, 4440, 4610, 4710"
+    },
+    {
+      "course_code": "GPSU2000",
+      "prefix_inferred": false,
+      "evidence": "(1) GPS students admitted in Medicine Year One or Medicine Year Two are required to complete satisfactorily GPS Leadership Workshop Series I (GPSU2000), GPS Leadership Workshop Series IIA (GPSU3000), GPS Leadership Workshop Series IIB (GPSU4000) and GPS Leadership Workshop Series III (GPSU4200). GPS students admitted in Medicine Year Three are required to complete satisfactorily GPS Leadership Workshop Series IIB (GPSU4000) and GPS Leadership Workshop Series III (GPSU4200)."
+    },
+    {
+      "course_code": "GPSU3000",
+      "prefix_inferred": false,
+      "evidence": "(1) GPS students admitted in Medicine Year One or Medicine Year Two are required to complete satisfactorily GPS Leadership Workshop Series I (GPSU2000), GPS Leadership Workshop Series IIA (GPSU3000), GPS Leadership Workshop Series IIB (GPSU4000) and GPS Leadership Workshop Series III (GPSU4200). GPS students admitted in Medicine Year Three are required to complete satisfactorily GPS Leadership Workshop Series IIB (GPSU4000) and GPS Leadership Workshop Series III (GPSU4200)."
+    },
+    {
+      "course_code": "GPSU4000",
+      "prefix_inferred": false,
+      "evidence": "(1) GPS students admitted in Medicine Year One or Medicine Year Two are required to complete satisfactorily GPS Leadership Workshop Series I (GPSU2000), GPS Leadership Workshop Series IIA (GPSU3000), GPS Leadership Workshop Series IIB (GPSU4000) and GPS Leadership Workshop Series III (GPSU4200). GPS students admitted in Medicine Year Three are required to complete satisfactorily GPS Leadership Workshop Series IIB (GPSU4000) and GPS Leadership Workshop Series III (GPSU4200)."
+    },
+    {
+      "course_code": "GPSU4200",
+      "prefix_inferred": false,
+      "evidence": "(1) GPS students admitted in Medicine Year One or Medicine Year Two are required to complete satisfactorily GPS Leadership Workshop Series I (GPSU2000), GPS Leadership Workshop Series IIA (GPSU3000), GPS Leadership Workshop Series IIB (GPSU4000) and GPS Leadership Workshop Series III (GPSU4200). GPS students admitted in Medicine Year Three are required to complete satisfactorily GPS Leadership Workshop Series IIB (GPSU4000) and GPS Leadership Workshop Series III (GPSU4200)."
+    },
+    {
+      "course_code": "ELTU2016",
+      "prefix_inferred": false,
+      "evidence": "Students who have completed all the courses listed below are eligible to apply for exemption of 3 units of University Core English Language Requirement course ELTU2016:"
+    },
+    {
+      "course_code": "MEDF1120",
+      "prefix_inferred": false,
+      "evidence": "MEDF1120 Public Health;"
+    },
+    {
+      "course_code": "MEDU2500",
+      "prefix_inferred": false,
+      "evidence": "MEDU2500 Doctor and Patient I;"
+    },
+    {
+      "course_code": "MEDU3500",
+      "prefix_inferred": false,
+      "evidence": "MEDU3500 Doctor and Patient II;"
+    },
+    {
+      "course_code": "SSMU3000",
+      "prefix_inferred": false,
+      "evidence": "SSMU3000 Selected Study Modules;"
+    },
+    {
+      "course_code": "MEDU4610",
+      "prefix_inferred": false,
+      "evidence": "MEDU4610 Senior Medical Clerkship; and"
+    },
+    {
+      "course_code": "MEDU4710",
+      "prefix_inferred": false,
+      "evidence": "MEDU4710 Senior Surgical Dressership."
+    },
+    {
+      "course_code": "MEDU1110",
+      "prefix_inferred": false,
+      "evidence": "Students admitted with qualifications listed below are eligible to apply for exemptions in MEDU1110 Systemic Anatomy (2 units) and MEDU1130 Cells and Tissues (2 units):"
+    },
+    {
+      "course_code": "MEDU1130",
+      "prefix_inferred": false,
+      "evidence": "Students admitted with qualifications listed below are eligible to apply for exemptions in MEDU1110 Systemic Anatomy (2 units) and MEDU1130 Cells and Tissues (2 units):"
+    },
+    {
+      "course_code": "MEDF1010",
+      "prefix_inferred": false,
+      "evidence": "MEDF1010"
+    },
+    {
+      "course_code": "MEDF1012",
+      "prefix_inferred": false,
+      "evidence": "MEDF1012"
+    },
+    {
+      "course_code": "MEDF1041",
+      "prefix_inferred": false,
+      "evidence": "MEDF1041"
+    },
+    {
+      "course_code": "MEDF1120",
+      "prefix_inferred": false,
+      "evidence": "MEDF1120"
+    },
+    {
+      "course_code": "MEDU1110",
+      "prefix_inferred": false,
+      "evidence": "MEDU1110"
+    },
+    {
+      "course_code": "MEDU1130",
+      "prefix_inferred": false,
+      "evidence": "MEDU1130"
+    },
+    {
+      "course_code": "MEDU1140",
+      "prefix_inferred": false,
+      "evidence": "MEDU1140"
+    },
+    {
+      "course_code": "MEDU1150",
+      "prefix_inferred": false,
+      "evidence": "MEDU1150"
+    },
+    {
+      "course_code": "MEDU2001",
+      "prefix_inferred": false,
+      "evidence": "MEDU2001"
+    },
+    {
+      "course_code": "MEDU2140",
+      "prefix_inferred": false,
+      "evidence": "MEDU2140"
+    },
+    {
+      "course_code": "MEDU2160",
+      "prefix_inferred": false,
+      "evidence": "MEDU2160"
+    },
+    {
+      "course_code": "MEDU2300",
+      "prefix_inferred": false,
+      "evidence": "MEDU2300"
+    },
+    {
+      "course_code": "MEDU2400",
+      "prefix_inferred": false,
+      "evidence": "MEDU2400"
+    },
+    {
+      "course_code": "MEDU2500",
+      "prefix_inferred": false,
+      "evidence": "MEDU2500"
+    },
+    {
+      "course_code": "MEDU2600",
+      "prefix_inferred": false,
+      "evidence": "MEDU2600"
+    },
+    {
+      "course_code": "MEDU2880",
+      "prefix_inferred": false,
+      "evidence": "MEDU2880"
+    },
+    {
+      "course_code": "MEDU3001",
+      "prefix_inferred": false,
+      "evidence": "MEDU3001"
+    },
+    {
+      "course_code": "MEDU3110",
+      "prefix_inferred": false,
+      "evidence": "MEDU3110"
+    },
+    {
+      "course_code": "MEDU3160",
+      "prefix_inferred": false,
+      "evidence": "MEDU3160"
+    },
+    {
+      "course_code": "MEDU3200",
+      "prefix_inferred": false,
+      "evidence": "MEDU3200"
+    },
+    {
+      "course_code": "MEDU3210",
+      "prefix_inferred": false,
+      "evidence": "MEDU3210"
+    },
+    {
+      "course_code": "MEDU3293",
+      "prefix_inferred": false,
+      "evidence": "MEDU3293"
+    },
+    {
+      "course_code": "MEDU3300",
+      "prefix_inferred": false,
+      "evidence": "MEDU3300"
+    },
+    {
+      "course_code": "MEDU3310",
+      "prefix_inferred": false,
+      "evidence": "MEDU3310"
+    },
+    {
+      "course_code": "MEDU3320",
+      "prefix_inferred": false,
+      "evidence": "MEDU3320"
+    },
+    {
+      "course_code": "MEDU3330",
+      "prefix_inferred": false,
+      "evidence": "MEDU3330"
+    },
+    {
+      "course_code": "MEDU3340",
+      "prefix_inferred": false,
+      "evidence": "MEDU3340"
+    },
+    {
+      "course_code": "MEDU3350",
+      "prefix_inferred": false,
+      "evidence": "MEDU3350"
+    },
+    {
+      "course_code": "MEDU3360",
+      "prefix_inferred": false,
+      "evidence": "MEDU3360"
+    },
+    {
+      "course_code": "MEDU3400",
+      "prefix_inferred": false,
+      "evidence": "MEDU3400"
+    },
+    {
+      "course_code": "MEDU3500",
+      "prefix_inferred": false,
+      "evidence": "MEDU3500"
+    },
+    {
+      "course_code": "MEDU3510",
+      "prefix_inferred": false,
+      "evidence": "MEDU3510"
+    },
+    {
+      "course_code": "MEDU3700",
+      "prefix_inferred": false,
+      "evidence": "MEDU3700"
+    },
+    {
+      "course_code": "MEDU3800",
+      "prefix_inferred": false,
+      "evidence": "MEDU3800"
+    },
+    {
+      "course_code": "MEDU3880",
+      "prefix_inferred": false,
+      "evidence": "MEDU3880"
+    },
+    {
+      "course_code": "MEDU3890",
+      "prefix_inferred": false,
+      "evidence": "MEDU3890"
+    },
+    {
+      "course_code": "MEDU4001",
+      "prefix_inferred": false,
+      "evidence": "MEDU4001"
+    },
+    {
+      "course_code": "MEDU4002",
+      "prefix_inferred": false,
+      "evidence": "MEDU4002"
+    },
+    {
+      "course_code": "MEDU4010",
+      "prefix_inferred": false,
+      "evidence": "MEDU4010"
+    },
+    {
+      "course_code": "MEDU4110",
+      "prefix_inferred": false,
+      "evidence": "MEDU4110"
+    },
+    {
+      "course_code": "MEDU4201",
+      "prefix_inferred": false,
+      "evidence": "MEDU4201"
+    },
+    {
+      "course_code": "MEDU4202",
+      "prefix_inferred": false,
+      "evidence": "MEDU4202"
+    },
+    {
+      "course_code": "MEDU4210",
+      "prefix_inferred": false,
+      "evidence": "MEDU4210"
+    },
+    {
+      "course_code": "MEDU4300",
+      "prefix_inferred": false,
+      "evidence": "MEDU4300"
+    },
+    {
+      "course_code": "MEDU4310",
+      "prefix_inferred": false,
+      "evidence": "MEDU4310"
+    },
+    {
+      "course_code": "MEDU4340",
+      "prefix_inferred": false,
+      "evidence": "MEDU4340"
+    },
+    {
+      "course_code": "MEDU4400",
+      "prefix_inferred": false,
+      "evidence": "MEDU4400"
+    },
+    {
+      "course_code": "MEDU4410",
+      "prefix_inferred": false,
+      "evidence": "MEDU4410"
+    },
+    {
+      "course_code": "MEDU4440",
+      "prefix_inferred": false,
+      "evidence": "MEDU4440"
+    },
+    {
+      "course_code": "MEDU4510",
+      "prefix_inferred": false,
+      "evidence": "MEDU4510"
+    },
+    {
+      "course_code": "MEDU4610",
+      "prefix_inferred": false,
+      "evidence": "MEDU4610"
+    },
+    {
+      "course_code": "MEDU4710",
+      "prefix_inferred": false,
+      "evidence": "MEDU4710"
+    },
+    {
+      "course_code": "SSMU3000",
+      "prefix_inferred": false,
+      "evidence": "SSMU3000"
+    },
+    {
+      "course_code": "MEDU3010",
+      "prefix_inferred": false,
+      "evidence": "MEDU3010"
+    },
+    {
+      "course_code": "MEDU3900",
+      "prefix_inferred": false,
+      "evidence": "MEDU3900"
+    },
+    {
+      "course_code": "GPSU2000",
+      "prefix_inferred": false,
+      "evidence": "GPSU2000"
+    },
+    {
+      "course_code": "GPSU3000",
+      "prefix_inferred": false,
+      "evidence": "GPSU3000"
+    },
+    {
+      "course_code": "GPSU3100",
+      "prefix_inferred": false,
+      "evidence": "GPSU3100"
+    },
+    {
+      "course_code": "GPSU4000",
+      "prefix_inferred": false,
+      "evidence": "GPSU4000"
+    },
+    {
+      "course_code": "GPSU4100",
+      "prefix_inferred": false,
+      "evidence": "GPSU4100"
+    },
+    {
+      "course_code": "GPSU4200",
+      "prefix_inferred": false,
+      "evidence": "GPSU4200"
+    }
+  ],
+  "course_code_aliases": [],
+  "source": {
+    "system": "CUHK CUSIS Browse Program Information",
+    "url": "https://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/tt_dsp_acad_prog.aspx",
+    "source_text_file": "data/cuhk/2024/programmes/M_B_Ch_B__Faculty_of_Medicine.txt",
+    "reused_duplicate_entry": false,
+    "reused_from_faculty": null
+  },
+  "raw_text": "\n\nBrowse Program Information\n\n\n\n\n\n\nAcademic Program:\tM.B., Ch.B.\nAcademic Year:\t2024\nLanguage:\t\nEnglish\nSimplified Chinese\nTraditional Chinese\n\n\n\nLearning Outcomes\nStudy Scheme\n \n\n\t\n\nMedicine Programme (MBChB)\n\n(Applicable to students admitted in 2024-25)\n\n \n\n\n\n\n \n\nThe Medicine Programme is a six-year undergraduate professional programme that aims to prepare students for medical internship and life-long career as medical practitioners.  Medical students have to complete the prescribed course of studies and examinations each year before they can be promoted to the following year.\n\n \n\nBesides the essential medical knowledge and skills, the curriculum puts equal emphasis on medical professionalism, bioethics and communication skills. These topics are covered through interactive teaching and learning across all years of the programme.\n\n \n\nStudents learn a wide range of biomedical knowledge and its clinical application in the first three years.  They have clinical contact including structured practical sessions in the clinical skills laboratory and clinical rotations to various disciplines.  In the clinical years, students acquire clinical competence through participation in the work of clinical teams in delivering day-to-day care of patients.\n\n \n\nMedical students are required to pass all the Professional Examinations and periodic assessments of individual courses and modules for conferment of the MBChB Degrees. Graduates are required to complete one-year of internship at recognized hospitals before they are qualified to apply for registration as a medical doctor in Hong Kong.\n\n \n\nStudents are required to complete 9 units of Faculty Package and required courses as follows:\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nFaculty Package:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nMEDF1010, 1012, 1041 and 1120\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nRequired Courses:\n\n\t\n\nN/A\n\n\n\n\n \n\n\t\n\nMEDU1110, 1130, 1140, 1150, 2001, 2140, 2160, 2300, 2400, 2500, 2600, 2880, 3001, 3110, 3160, 3200, 3210, 3293, 3300, 3310, 3320, 3330, 3340, 3350, 3360, 3400, 3500, 3510, 3700, 3800, 3880, 3890, 4001, 4002, 4010, 4110, 4201, 4202, 4210, 4300, 4310, 4340, 4400, 4410, 4440, 4510, 4610, 4710, SSMU3000\n\n\t\n\n \n\n \n\n \n\n\t\n\nRecommended Course Pattern\n\n\n\n\nYear One\n\n\t\n\n1st term\n\nFaculty Package: MEDF1010, 1041, 1120\n\nMajor Required: MEDU1110\n\n\n\n\n2nd term\n\nFaculty Package: MEDF1012\n\nMajor Required: MEDU1130\n\n\n\n\nAcademic year\n\nMajor Required: MEDU1140, 1150\n\n\n\n\nYear Two\n\n\t\n\nMajor Required: MEDU2140, 2160, 2300, 2400, 2500, 2600, 2880\n\n\n\n\nYear Three\n\n\t\n\nMajor Required: MEDU2001, 3160, 3300, 3400, 3500, 3700, 3880, 3890\n\n\n\n\nYear Four\n\n\t\n\nMajor Required: MEDU3001, 3110, 3200, 3210, 3293, 3310, 3320, 3330, 3340, 3350, 3360, 3510, 3800, SSMU3000\n\n\n\n\nYear Five\n\n\t\n\nMajor Required: MEDU4001, 4010, 4110, 4201, 4210, 4300, 4310, 4340, 4410, 4510\n\n\n\n\nYear Six\n\n\t\n\nMajor Required: MEDU4002, 4202, 4400, 4440, 4610, 4710\n\n\n\n\n \n\n \n\n\n\n\nMedicine Programme (MBChB) Global Physician-Leadership Stream (GPS)\n\n \n\nAll GPS students have to complete the study scheme prescribed above and the following courses:\n\n \n\n(1) GPS students admitted in Medicine Year One or Medicine Year Two are required to complete satisfactorily GPS Leadership Workshop Series I (GPSU2000), GPS Leadership Workshop Series IIA (GPSU3000), GPS Leadership Workshop Series IIB (GPSU4000) and GPS Leadership Workshop Series III (GPSU4200). GPS students admitted in Medicine Year Three are required to complete satisfactorily GPS Leadership Workshop Series IIB (GPSU4000) and GPS Leadership Workshop Series III (GPSU4200).\n\n \n\n(2) Under close supervision of a mentor, GPS students must complete a GPS project within the period from Medicine Year Three until Medicine Year Five. These students are required to submit an end-of-project report no later than the end of Medicine Year Five.  A student can be exempted from Selected Study Modules if s/he opts for submission of an interim report of the GPS Project by the end of Medicine Year Four. \n\n \n\n(3) GPS students are required to take GPS Internship (a 4 to 6-week duration internship attachment in a local or an overseas institution). GPS Internship is arranged at the latest by the time of Medicine Year Five. GPS students who fulfill the requirement of GPS Internship can be exempted from the course requirement of Clinical Elective in Medicine Year Five.\n\n \n\nExplanatory Notes:\n\n1.\n\n\t\n\nStudents who have completed all the courses listed below are eligible to apply for exemption of 3 units of University Core English Language Requirement course ELTU2016:\n\n \n\n\n\n\n \n\n\t\n\n(i)\n\n\t\n\nMEDF1120 Public Health;\n\n\n\n\n \n\n\t\n\n(ii)\n\n\t\n\nMEDU2500 Doctor and Patient I;\n\n\n\n\n \n\n\t\n\n(iii)\n\n\t\n\nMEDU3500 Doctor and Patient II;\n\n\n\n\n \n\n\t\n\n(iv)\n\n\t\n\nSSMU3000 Selected Study Modules;\n\n\n\n\n \n\n\t\n\n(v)\n\n\t\n\nMEDU4610 Senior Medical Clerkship; and\n\n\n\n\n \n\n\t\n\n(vi)\n\n\t\n\nMEDU4710 Senior Surgical Dressership.\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nCourses taken in bioethics that are offered by the CUHK Centre for Bioethics are considered as alternatives to fulfilling 5 units of the University General Education courses in Areas B, C and D.\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nStudents admitted with qualifications listed below are eligible to apply for exemptions in MEDU1110 Systemic Anatomy (2 units) and MEDU1130 Cells and Tissues (2 units):\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(i)\n\n\t\n\nattained a total score of at least 38 in 6 HKDSE subjects, including at least 5* in English, Biology and Chemistry; or\n\n\n\n\n \n\n\t\n\n(ii)\n\n\t\n\nadmitted to the MBChB Programme on the strength of GCE Advanced Level (AL)/International Advanced Level (IAL) having obtained:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n(a)\n\n\t\n\nGrade A* in four AL/IAL subjects with overall average of 95% or above; and\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n(b)\n\n\t\n\nGrade A* in Biology (AL/IAL) and Chemistry (AL/IAL); or\n\n\n\n\n \n\n\t\n\n(iii)\n\n\t\n\nadmitted to the MBChB Programme on the strength of IB having obtained:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n(a)\n\n\t\n\ntotal IB score of 43 or above out of 45; and\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n(b)\n\n\t\n\nat least Grade 6 in Biology (HL) and Chemistry (HL), of which either one must be Grade 7; or\n\n\n\n\n \n\n\t\n\n(iv)\n\n\t\n\nadmitted to the MBChB Programme on the strength of Cambridge Pre-U having obtained:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n(a)\n\n\t\n\nGrade D2 or above in four subjects (which may be substituted by Grade A* in GCE AL/IAL); and\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n(b)\n\n\t\n\nGrade D2 or above in Biology and Chemistry (which may be substituted by Grade A* in GCE AL/IAL); or\n\n\n\n\n \n\n\t\n\n(v)\n\n\t\n\npassed relevant Chemistry and Biology courses at undergraduate degree level, that are approved by the Faculty, encompassing students who:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n(a)\n\n\t\n\nhave already obtained a bachelor’s (or higher) degree in a science (and related) discipline at a recognized university; or\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n(b)\n\n\t\n\nhave successfully completed a study programme of at least two years’ duration at a medical school whose curriculum is similar and compatible to that of CUHK; or\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n(c)\n\n\t\n\nhave successfully completed a study programme of at least one year’s duration at a medical school whose curriculum is similar and compatible to that of CUHK; or\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n(d)\n\n\t\n\nare still in their undergraduate studies.\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n4.\n\n\t\n\nStudents are required to apply for the exemptions.  When exemption from a particular course is recognized, students can only be exempted from the course but not the units.\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n5.\n\n\t\n\nThe requirements of students with a normative study period different from those prescribed above have to be approved by the Board of the Faculty of Medicine on a case-by-case basis.\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n6.\n\n\t\n\nStudents may opt to take elective course(s) from the course list.\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n \n\nMBChB Course List\n\n(Applicable to students admitted in 2024-25)\n\n \n\n\n\n\nRequired Courses\n\n\n\n\nCourse Code\n\n\t\n\nCourse Title\n\n\n\n\nMEDF1010\n\n\t\n\nFoundation Course for Health Sciences I (for MBChB only)\n\n\n\n\nMEDF1012\n\n\t\n\nFoundation Course for Health Sciences II\n\n\n\n\nMEDF1041\n\n\t\n\nInterprofessional Healthcare\n\n\n\n\nMEDF1120\n\n\t\n\nPublic Health\n\n\n\n\nMEDU1110\n\n\t\n\nSystemic Anatomy\n\n\n\n\nMEDU1130\n\n\t\n\nCells and Tissues\n\n\n\n\nMEDU1140\n\n\t\n\nBioethics I\n\n\n\n\nMEDU1150\n\n\t\n\nPerspectives of Medicine in Real Life\n\n\n\n\nMEDU2001\n\n\t\n\nFirst Professional Examination\n\n\n\n\nMEDU2140\n\n\t\n\nBioethics II\n\n\n\n\nMEDU2160\n\n\t\n\nResilience Building in Professional and Personal Development I\n\n\n\n\nMEDU2300\n\n\t\n\nHuman Structure I\n\n\n\n\nMEDU2400\n\n\t\n\nHuman Function I\n\n\n\n\nMEDU2500\n\n\t\n\nDoctor and Patient I\n\n\n\n\nMEDU2600\n\n\t\n\nMolecular Medicine and Genetics\n\n\n\n\nMEDU2880\n\n\t\n\nClinical Skills I\n\n\n\n\nMEDU3001\n\n\t\n\nSecond Professional Examination\n\n\n\n\nMEDU3110\n\n\t\n\nJunior Medical Clerkship\n\n\n\n\nMEDU3160\n\n\t\n\nResilience Building in Professional and Personal Development II\n\n\n\n\nMEDU3200\n\n\t\n\nSkills Module for Medicine Year 4\n\n\n\n\nMEDU3210\n\n\t\n\nJunior Surgical Dressership\n\n\n\n\nMEDU3293\n\n\t\n\nDoctor and Patient III\n\n\n\n\nMEDU3300\n\n\t\n\nHuman Structure II\n\n\n\n\nMEDU3310\n\n\t\n\nAnatomical Pathology and Clinical Hematology\n\n\n\n\nMEDU3320\n\n\t\n\nChemical Pathology\n\n\n\n\nMEDU3330\n\n\t\n\nClinical Microbiology\n\n\n\n\nMEDU3340\n\n\t\n\nIntegrated Clinical Communication Skills I\n\n\n\n\nMEDU3350\n\n\t\n\nRadiology Pathology\n\n\n\n\nMEDU3360\n\n\t\n\nResilience Building in Professional and Personal Development III\n\n\n\n\nMEDU3400\n\n\t\n\nHuman Function II\n\n\n\n\nMEDU3500\n\n\t\n\nDoctor and Patient II\n\n\n\n\nMEDU3510\n\n\t\n\nClinical Examinations in Medicine and Surgery\n\n\n\n\nMEDU3700\n\n\t\n\nBioethics III\n\n\n\n\nMEDU3800\n\n\t\n\nBioethics IV: Law and Medicine\n\n\n\n\nMEDU3880\n\n\t\n\nClinical Skills II\n\n\n\n\nMEDU3890\n\n\t\n\nClinical Pathology and Clinical Skills\n\n\n\n\nMEDU4001\n\n\t\n\n(Part I) Third Professional Examination\n\n\n\n\nMEDU4002\n\n\t\n\n(Part II) Third Professional Examination\n\n\n\n\nMEDU4010\n\n\t\n\nCommunity and Family Medicine Module\n\n\n\n\nMEDU4110\n\n\t\n\nObstetrics and Gynaecology Module\n\n\n\n\nMEDU4201\n\n\t\n\nSkills Module for Medicine Year 5\n\n\n\n\nMEDU4202\n\n\t\n\nSkills Module for Medicine Year 6\n\n\n\n\nMEDU4210\n\n\t\n\nPaediatrics Module\n\n\n\n\nMEDU4300\n\n\t\n\nClinical Ethics I\n\n\n\n\nMEDU4310\n\n\t\n\nPsychiatry Module\n\n\n\n\nMEDU4340\n\n\t\n\nIntegrated Clinical Communication Skills II\n\n\n\n\nMEDU4400\n\n\t\n\nClinical Ethics II\n\n\n\n\nMEDU4410\n\n\t\n\nClinical Elective\n\n\n\n\nMEDU4440\n\n\t\n\nIntegrated Clinical Communication Skills III\n\n\n\n\nMEDU4510\n\n\t\n\nCombined Clinical Examination\n\n\n\n\nMEDU4610\n\n\t\n\nSenior Medical Clerkship\n\n\n\n\nMEDU4710\n\n\t\n\nSenior Surgical Dressership\n\n\n\n\nSSMU3000\n\n\t\n\nSelected Study Modules\n\n \n\nElective Courses\n\n\n\n\nCourse Code\n\n\t\n\nCourse Title\n\n\n\n\nMEDU3010\n\n\t\n\nArtificial Intelligence Research Internship\n\n\n\n\nMEDU3900\n\n\t\n\nElective\n\n \n\nMBChB Global Physician-Leadership Stream (GPS) Course List\n\n(Applicable to students admitted in 2012-13 and thereafter)\n\n \n\n\n\n\nCourse Code\n\n\t\n\nCourse Title\n\n\n\n\nGPSU2000\n\n\t\n\nGPS Leadership Workshop Series I\n\n\n\n\nGPSU3000\n\n\t\n\nGPS Leadership Workshop Series IIA\n\n\n\n\nGPSU3100\n\n\t\n\nGPS Project\n\n\n\n\nGPSU4000\n\n\t\n\nGPS Leadership Workshop Series IIB\n\n\n\n\nGPSU4100\n\n\t\n\nGPS Internship\n\n\n\n\nGPSU4200\n\n\t\n\nGPS Leadership Workshop Series III\n\n \n\n\n \n\nStudy Scheme\n\n\nLearning Outcomes\n \n\n\t\n\n1.          MBChB Programme:\n\nThe educational objective of the curriculum is to ensure that our students obtain the essential knowledge, skills and attitudes for professional medical practice and life-long pursuit of medical education.  Our graduates will have acquired the ability to:\n\n\n\n\n \n\n\t\n\n \n\n\n\n\n(1)\n\n\t\n\ndeliver effective and holistic care to their patients;\n\n\n\n\n(2)\n\n\t\n\ncommunicate effectively, compassionately and with good attitude with their patients;\n\n\n\n\n(3)\n\n\t\n\nmake decisions rationally and ethically when faced with conflicting choices in the management of patients;\n\n\n\n\n(4)\n\n\t\n\ncritically appraise available evidence so that they can apply the best treatment to patients;\n\n\n\n\n(5)\n\n\t\n\nhave the skills for life-long learning to equip themselves with the new knowledge required for the provision of the best possible care to their patients.\n\n \n\n \n\n \n\n\n"
+}

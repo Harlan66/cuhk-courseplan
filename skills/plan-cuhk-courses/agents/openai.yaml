@@ -1,0 +1,4 @@
+interface:
+  display_name: "CUHK Course Planner"
+  short_description: "Plan CUHK courses with verified rules and schedules"
+  default_prompt: "Use $plan-cuhk-courses to build my CUHK course pool and timetable options."

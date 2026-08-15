@@ -1,0 +1,41 @@
+{
+  "generated_at": "2026-08-15T16:34:11.575609+00:00",
+  "programme_entries": 101,
+  "unique_programme_names": 81,
+  "empty_sources": 0,
+  "reused_duplicate_entries": 6,
+  "missing_admission_cohort": 0,
+  "missing_minimum_units": 0,
+  "deduplicated_course_mentions": 42806,
+  "direct_course_mentions": 22314,
+  "prefix_inferred_course_mentions": 20492,
+  "unique_course_codes": 4445,
+  "unique_direct_course_codes": 4368,
+  "unique_prefix_inferred_course_codes": 3154,
+  "unique_course_codes_by_current_catalog_status": {
+    "matched_current_course_index": 1241,
+    "subject_known_course_not_in_current_index": 2846,
+    "subject_not_in_current_index": 358
+  },
+  "validation_status_counts": {
+    "subject_known_course_not_in_current_index": 20625,
+    "matched_current_course_index": 16723,
+    "subject_not_in_current_index": 5458
+  },
+  "rule_operator_counts": {
+    "listed_unspecified": 3860,
+    "any_of": 1173,
+    "all_of": 398,
+    "choose": 494,
+    "text_constraint": 6
+  },
+  "structured_complex_rules": 623,
+  "unique_course_code_aliases": 41,
+  "review_queue_items": 0,
+  "review_queue_by_type": {},
+  "limitations": [
+    "The course index is for 2026-27 Term 1; absence does not prove a 2024 course code is invalid.",
+    "Natural-language graduation rules remain evidence-linked and conservative.",
+    "Reused duplicate entries are provenance-marked and must not be treated as independent source captures."
+  ]
+}

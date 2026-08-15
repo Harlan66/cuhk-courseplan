@@ -1,0 +1,23 @@
+{
+  "snapshot_id": "2026-08-15T18-34-00+08-00-gap-recapture",
+  "created_at": "2026-08-15T10:37:57.456Z",
+  "term_code": "2420",
+  "term_label": "2026-27 Term 1",
+  "source": "CUHK official public teaching timetable",
+  "purpose": "gap recapture for CHLT, ENGG, GECC",
+  "subjects": [
+    "CHLT",
+    "ENGG",
+    "GECC"
+  ],
+  "record_counts": {
+    "CHLT": 225,
+    "ENGG": 238,
+    "GECC": 156
+  },
+  "unique_class_counts": {
+    "CHLT": 157,
+    "ENGG": 72,
+    "GECC": 123
+  }
+}

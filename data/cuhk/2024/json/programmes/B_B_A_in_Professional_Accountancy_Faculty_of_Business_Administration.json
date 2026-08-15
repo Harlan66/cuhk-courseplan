@@ -1,0 +1,2260 @@
+{
+  "programme_id": "B_B_A_in_Professional_Accountancy__Faculty_of_Business_Administration",
+  "academic_program": "B.B.A. in Professional Accountancy",
+  "faculty": "Faculty of Business Administration",
+  "academic_year": 2024,
+  "admission_cohort": "2024-25",
+  "requirement_summary": {
+    "minimum_units_as_printed": "a minimum of 69 units",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Faculty Package",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "DOTE1030",
+            "prefix_inferred": false,
+            "evidence": "DOTE1030, 1040, MGNT1020"
+          },
+          {
+            "course_code": "DOTE1040",
+            "prefix_inferred": true,
+            "evidence": "DOTE1030, 1040, MGNT1020"
+          },
+          {
+            "course_code": "MGNT1020",
+            "prefix_inferred": false,
+            "evidence": "DOTE1030, 1040, MGNT1020"
+          }
+        ],
+        "raw_text": "9\nDOTE1030, 1040, MGNT1020"
+      },
+      {
+        "number": 2,
+        "title": "Required Courses",
+        "units_as_printed": "51",
+        "course_mentions": [
+          {
+            "course_code": "ACCT2111",
+            "prefix_inferred": false,
+            "evidence": "ACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#"
+          },
+          {
+            "course_code": "ACCT2121",
+            "prefix_inferred": true,
+            "evidence": "ACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#"
+          },
+          {
+            "course_code": "ACCT3003",
+            "prefix_inferred": true,
+            "evidence": "ACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#"
+          },
+          {
+            "course_code": "ACCT3111",
+            "prefix_inferred": true,
+            "evidence": "ACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#"
+          },
+          {
+            "course_code": "ACCT3112",
+            "prefix_inferred": true,
+            "evidence": "ACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#"
+          },
+          {
+            "course_code": "ACCT3121",
+            "prefix_inferred": true,
+            "evidence": "ACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#"
+          },
+          {
+            "course_code": "ACCT3142",
+            "prefix_inferred": true,
+            "evidence": "ACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#"
+          },
+          {
+            "course_code": "ACCT3151",
+            "prefix_inferred": true,
+            "evidence": "ACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#"
+          },
+          {
+            "course_code": "ACCT3152",
+            "prefix_inferred": true,
+            "evidence": "ACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#"
+          },
+          {
+            "course_code": "ACCT3161",
+            "prefix_inferred": true,
+            "evidence": "ACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#"
+          },
+          {
+            "course_code": "ACCT4001",
+            "prefix_inferred": true,
+            "evidence": "ACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#"
+          },
+          {
+            "course_code": "ACCT4111",
+            "prefix_inferred": true,
+            "evidence": "ACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#"
+          },
+          {
+            "course_code": "ACCT4131",
+            "prefix_inferred": true,
+            "evidence": "ACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#"
+          },
+          {
+            "course_code": "DOTE2011",
+            "prefix_inferred": false,
+            "evidence": "ACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#"
+          },
+          {
+            "course_code": "FINA2010",
+            "prefix_inferred": false,
+            "evidence": "ACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#"
+          },
+          {
+            "course_code": "MGNT2511",
+            "prefix_inferred": false,
+            "evidence": "ACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#"
+          },
+          {
+            "course_code": "MGNT2512",
+            "prefix_inferred": true,
+            "evidence": "ACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#"
+          },
+          {
+            "course_code": "MGNT4010",
+            "prefix_inferred": true,
+            "evidence": "ACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#"
+          },
+          {
+            "course_code": "MKTG2010",
+            "prefix_inferred": false,
+            "evidence": "ACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#"
+          }
+        ],
+        "raw_text": "51\nACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#"
+      },
+      {
+        "number": 3,
+        "title": "Elective Courses",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "ACCT3005",
+            "prefix_inferred": false,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT3241",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4211",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4212",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4213",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4215",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4221",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4231",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4232",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4242",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4243",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4244",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4251",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4252",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4253",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4261",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4262",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4263",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4271",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4272",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4281",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4282",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4290",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "DOTE3010",
+            "prefix_inferred": false,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "MATH1610",
+            "prefix_inferred": false,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "MATH1620",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          }
+        ],
+        "raw_text": "9\n9 units from the following:\nACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620\nTotal:\n69\nGlobal Tax and Governance Stream"
+      },
+      {
+        "number": 3,
+        "title": "Elective Courses",
+        "units_as_printed": "12",
+        "course_mentions": [
+          {
+            "course_code": "ACCT4261",
+            "prefix_inferred": false,
+            "evidence": "ACCT4261, 4262, 4263"
+          },
+          {
+            "course_code": "ACCT4262",
+            "prefix_inferred": true,
+            "evidence": "ACCT4261, 4262, 4263"
+          },
+          {
+            "course_code": "ACCT4263",
+            "prefix_inferred": true,
+            "evidence": "ACCT4261, 4262, 4263"
+          },
+          {
+            "course_code": "ACCT4251",
+            "prefix_inferred": false,
+            "evidence": "ACCT4251, 4252, 4253, 4271, 4272"
+          },
+          {
+            "course_code": "ACCT4252",
+            "prefix_inferred": true,
+            "evidence": "ACCT4251, 4252, 4253, 4271, 4272"
+          },
+          {
+            "course_code": "ACCT4253",
+            "prefix_inferred": true,
+            "evidence": "ACCT4251, 4252, 4253, 4271, 4272"
+          },
+          {
+            "course_code": "ACCT4271",
+            "prefix_inferred": true,
+            "evidence": "ACCT4251, 4252, 4253, 4271, 4272"
+          },
+          {
+            "course_code": "ACCT4272",
+            "prefix_inferred": true,
+            "evidence": "ACCT4251, 4252, 4253, 4271, 4272"
+          }
+        ],
+        "raw_text": "12\n12 units from the following:\n(a)\nat least 2 courses from:\nACCT4261, 4262, 4263\n(b)\nat least 1 course from:\nACCT4251, 4252, 4253, 4271, 4272\nTotal:\n72\nFinance for Accountants Stream"
+      },
+      {
+        "number": 3,
+        "title": "Elective/Stream-specific Courses",
+        "units_as_printed": "12",
+        "course_mentions": [
+          {
+            "course_code": "FINA3070",
+            "prefix_inferred": false,
+            "evidence": "FINA3070#, 3080#"
+          },
+          {
+            "course_code": "FINA3080",
+            "prefix_inferred": true,
+            "evidence": "FINA3070#, 3080#"
+          },
+          {
+            "course_code": "ACCT4251",
+            "prefix_inferred": false,
+            "evidence": "ACCT4251, 4282, FINA3010#, 3020#, 3030#, 4040#, 4050#, 4110#"
+          },
+          {
+            "course_code": "ACCT4282",
+            "prefix_inferred": true,
+            "evidence": "ACCT4251, 4282, FINA3010#, 3020#, 3030#, 4040#, 4050#, 4110#"
+          },
+          {
+            "course_code": "FINA3010",
+            "prefix_inferred": false,
+            "evidence": "ACCT4251, 4282, FINA3010#, 3020#, 3030#, 4040#, 4050#, 4110#"
+          },
+          {
+            "course_code": "FINA3020",
+            "prefix_inferred": true,
+            "evidence": "ACCT4251, 4282, FINA3010#, 3020#, 3030#, 4040#, 4050#, 4110#"
+          },
+          {
+            "course_code": "FINA3030",
+            "prefix_inferred": true,
+            "evidence": "ACCT4251, 4282, FINA3010#, 3020#, 3030#, 4040#, 4050#, 4110#"
+          },
+          {
+            "course_code": "FINA4040",
+            "prefix_inferred": true,
+            "evidence": "ACCT4251, 4282, FINA3010#, 3020#, 3030#, 4040#, 4050#, 4110#"
+          },
+          {
+            "course_code": "FINA4050",
+            "prefix_inferred": true,
+            "evidence": "ACCT4251, 4282, FINA3010#, 3020#, 3030#, 4040#, 4050#, 4110#"
+          },
+          {
+            "course_code": "FINA4110",
+            "prefix_inferred": true,
+            "evidence": "ACCT4251, 4282, FINA3010#, 3020#, 3030#, 4040#, 4050#, 4110#"
+          }
+        ],
+        "raw_text": "12\n12 units from the following:\n(a)\nFINA3070#, 3080#\n(b)\n2 courses from:\nACCT4251, 4282, FINA3010#, 3020#, 3030#, 4040#, 4050#, 4110#\nTotal:\n72\nAccounting Analytics Stream"
+      },
+      {
+        "number": 3,
+        "title": "Elective/Stream-specific Courses",
+        "units_as_printed": "12",
+        "course_mentions": [
+          {
+            "course_code": "ACCT4242",
+            "prefix_inferred": false,
+            "evidence": "ACCT4242"
+          },
+          {
+            "course_code": "ACCT3241",
+            "prefix_inferred": false,
+            "evidence": "ACCT3241, 4213, 4232, 4243, 4244, DOTE2021#, 4020#, 4070#, 4110#, 4220#, 4260#"
+          },
+          {
+            "course_code": "ACCT4213",
+            "prefix_inferred": true,
+            "evidence": "ACCT3241, 4213, 4232, 4243, 4244, DOTE2021#, 4020#, 4070#, 4110#, 4220#, 4260#"
+          },
+          {
+            "course_code": "ACCT4232",
+            "prefix_inferred": true,
+            "evidence": "ACCT3241, 4213, 4232, 4243, 4244, DOTE2021#, 4020#, 4070#, 4110#, 4220#, 4260#"
+          },
+          {
+            "course_code": "ACCT4243",
+            "prefix_inferred": true,
+            "evidence": "ACCT3241, 4213, 4232, 4243, 4244, DOTE2021#, 4020#, 4070#, 4110#, 4220#, 4260#"
+          },
+          {
+            "course_code": "ACCT4244",
+            "prefix_inferred": true,
+            "evidence": "ACCT3241, 4213, 4232, 4243, 4244, DOTE2021#, 4020#, 4070#, 4110#, 4220#, 4260#"
+          },
+          {
+            "course_code": "DOTE2021",
+            "prefix_inferred": false,
+            "evidence": "ACCT3241, 4213, 4232, 4243, 4244, DOTE2021#, 4020#, 4070#, 4110#, 4220#, 4260#"
+          },
+          {
+            "course_code": "DOTE4020",
+            "prefix_inferred": true,
+            "evidence": "ACCT3241, 4213, 4232, 4243, 4244, DOTE2021#, 4020#, 4070#, 4110#, 4220#, 4260#"
+          },
+          {
+            "course_code": "DOTE4070",
+            "prefix_inferred": true,
+            "evidence": "ACCT3241, 4213, 4232, 4243, 4244, DOTE2021#, 4020#, 4070#, 4110#, 4220#, 4260#"
+          },
+          {
+            "course_code": "DOTE4110",
+            "prefix_inferred": true,
+            "evidence": "ACCT3241, 4213, 4232, 4243, 4244, DOTE2021#, 4020#, 4070#, 4110#, 4220#, 4260#"
+          },
+          {
+            "course_code": "DOTE4220",
+            "prefix_inferred": true,
+            "evidence": "ACCT3241, 4213, 4232, 4243, 4244, DOTE2021#, 4020#, 4070#, 4110#, 4220#, 4260#"
+          },
+          {
+            "course_code": "DOTE4260",
+            "prefix_inferred": true,
+            "evidence": "ACCT3241, 4213, 4232, 4243, 4244, DOTE2021#, 4020#, 4070#, 4110#, 4220#, 4260#"
+          }
+        ],
+        "raw_text": "12\n12 units from the following:\n(a)\nACCT4242\n(b)\n3 courses from:\nACCT3241, 4213, 4232, 4243, 4244, DOTE2021#, 4020#, 4070#, 4110#, 4220#, 4260#\nTotal:\n72\nGlobal Accounting Stream"
+      },
+      {
+        "number": 2,
+        "title": "Required Courses",
+        "units_as_printed": "54",
+        "course_mentions": [
+          {
+            "course_code": "ACCT2111",
+            "prefix_inferred": false,
+            "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+          },
+          {
+            "course_code": "ACCT2121",
+            "prefix_inferred": true,
+            "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+          },
+          {
+            "course_code": "ACCT3003",
+            "prefix_inferred": true,
+            "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+          },
+          {
+            "course_code": "ACCT3004",
+            "prefix_inferred": true,
+            "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+          },
+          {
+            "course_code": "ACCT3111",
+            "prefix_inferred": true,
+            "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+          },
+          {
+            "course_code": "ACCT3112",
+            "prefix_inferred": true,
+            "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+          },
+          {
+            "course_code": "ACCT3121",
+            "prefix_inferred": true,
+            "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+          },
+          {
+            "course_code": "ACCT3142",
+            "prefix_inferred": true,
+            "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+          },
+          {
+            "course_code": "ACCT3151",
+            "prefix_inferred": true,
+            "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+          },
+          {
+            "course_code": "ACCT3152",
+            "prefix_inferred": true,
+            "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+          },
+          {
+            "course_code": "ACCT3161",
+            "prefix_inferred": true,
+            "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+          },
+          {
+            "course_code": "ACCT4001",
+            "prefix_inferred": true,
+            "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+          },
+          {
+            "course_code": "ACCT4111",
+            "prefix_inferred": true,
+            "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+          },
+          {
+            "course_code": "ACCT4131",
+            "prefix_inferred": true,
+            "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+          },
+          {
+            "course_code": "ACCT4215",
+            "prefix_inferred": true,
+            "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+          },
+          {
+            "course_code": "ACCT4290",
+            "prefix_inferred": true,
+            "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+          },
+          {
+            "course_code": "DOTE2011",
+            "prefix_inferred": false,
+            "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+          },
+          {
+            "course_code": "FINA2010",
+            "prefix_inferred": false,
+            "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+          },
+          {
+            "course_code": "MGNT4010",
+            "prefix_inferred": false,
+            "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+          },
+          {
+            "course_code": "MKTG2010",
+            "prefix_inferred": false,
+            "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+          }
+        ],
+        "raw_text": "54\nACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+      },
+      {
+        "number": 3,
+        "title": "Elective Courses",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "ACCT3005",
+            "prefix_inferred": false,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+          },
+          {
+            "course_code": "ACCT3241",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+          },
+          {
+            "course_code": "ACCT4211",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+          },
+          {
+            "course_code": "ACCT4212",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+          },
+          {
+            "course_code": "ACCT4213",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+          },
+          {
+            "course_code": "ACCT4215",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+          },
+          {
+            "course_code": "ACCT4221",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+          },
+          {
+            "course_code": "ACCT4231",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+          },
+          {
+            "course_code": "ACCT4232",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+          },
+          {
+            "course_code": "ACCT4242",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+          },
+          {
+            "course_code": "ACCT4243",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+          },
+          {
+            "course_code": "ACCT4244",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+          },
+          {
+            "course_code": "ACCT4251",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+          },
+          {
+            "course_code": "ACCT4252",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+          },
+          {
+            "course_code": "ACCT4253",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+          },
+          {
+            "course_code": "ACCT4261",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+          },
+          {
+            "course_code": "ACCT4262",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+          },
+          {
+            "course_code": "ACCT4263",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+          },
+          {
+            "course_code": "ACCT4271",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+          },
+          {
+            "course_code": "ACCT4272",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+          },
+          {
+            "course_code": "ACCT4281",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+          },
+          {
+            "course_code": "ACCT4282",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+          },
+          {
+            "course_code": "ACCT4290",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+          },
+          {
+            "course_code": "DOTE3050",
+            "prefix_inferred": false,
+            "evidence": "DOTE3050#, FINA3020#, MGNT3580#, 4150#, 4510#, 4540#, 4570#, MKTG4070#, 4140#"
+          },
+          {
+            "course_code": "FINA3020",
+            "prefix_inferred": false,
+            "evidence": "DOTE3050#, FINA3020#, MGNT3580#, 4150#, 4510#, 4540#, 4570#, MKTG4070#, 4140#"
+          },
+          {
+            "course_code": "MGNT3580",
+            "prefix_inferred": false,
+            "evidence": "DOTE3050#, FINA3020#, MGNT3580#, 4150#, 4510#, 4540#, 4570#, MKTG4070#, 4140#"
+          },
+          {
+            "course_code": "MGNT4150",
+            "prefix_inferred": true,
+            "evidence": "DOTE3050#, FINA3020#, MGNT3580#, 4150#, 4510#, 4540#, 4570#, MKTG4070#, 4140#"
+          },
+          {
+            "course_code": "MGNT4510",
+            "prefix_inferred": true,
+            "evidence": "DOTE3050#, FINA3020#, MGNT3580#, 4150#, 4510#, 4540#, 4570#, MKTG4070#, 4140#"
+          },
+          {
+            "course_code": "MGNT4540",
+            "prefix_inferred": true,
+            "evidence": "DOTE3050#, FINA3020#, MGNT3580#, 4150#, 4510#, 4540#, 4570#, MKTG4070#, 4140#"
+          },
+          {
+            "course_code": "MGNT4570",
+            "prefix_inferred": true,
+            "evidence": "DOTE3050#, FINA3020#, MGNT3580#, 4150#, 4510#, 4540#, 4570#, MKTG4070#, 4140#"
+          },
+          {
+            "course_code": "MKTG4070",
+            "prefix_inferred": false,
+            "evidence": "DOTE3050#, FINA3020#, MGNT3580#, 4150#, 4510#, 4540#, 4570#, MKTG4070#, 4140#"
+          },
+          {
+            "course_code": "MKTG4140",
+            "prefix_inferred": true,
+            "evidence": "DOTE3050#, FINA3020#, MGNT3580#, 4150#, 4510#, 4540#, 4570#, MKTG4070#, 4140#"
+          }
+        ],
+        "raw_text": "9\n9 units from the following, with at least 1 course from each of the groups:\n(a)\nACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*\n(b)\nDOTE3050#, FINA3020#, MGNT3580#, 4150#, 4510#, 4540#, 4570#, MKTG4070#, 4140#\nTotal:\n72\nExplanatory Notes:"
+      },
+      {
+        "number": 1,
+        "title": "Faculty Package",
+        "units_as_printed": "6",
+        "course_mentions": [
+          {
+            "course_code": "DOTE1030",
+            "prefix_inferred": false,
+            "evidence": "DOTE1030, 1040"
+          },
+          {
+            "course_code": "DOTE1040",
+            "prefix_inferred": true,
+            "evidence": "DOTE1030, 1040"
+          }
+        ],
+        "raw_text": "6\nDOTE1030, 1040"
+      },
+      {
+        "number": 2,
+        "title": "Required Courses",
+        "units_as_printed": "43",
+        "course_mentions": [
+          {
+            "course_code": "ACCT3003",
+            "prefix_inferred": false,
+            "evidence": "ACCT3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+          },
+          {
+            "course_code": "ACCT3111",
+            "prefix_inferred": true,
+            "evidence": "ACCT3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+          },
+          {
+            "course_code": "ACCT3112",
+            "prefix_inferred": true,
+            "evidence": "ACCT3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+          },
+          {
+            "course_code": "ACCT3121",
+            "prefix_inferred": true,
+            "evidence": "ACCT3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+          },
+          {
+            "course_code": "ACCT3142",
+            "prefix_inferred": true,
+            "evidence": "ACCT3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+          },
+          {
+            "course_code": "ACCT3151",
+            "prefix_inferred": true,
+            "evidence": "ACCT3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+          },
+          {
+            "course_code": "ACCT3152",
+            "prefix_inferred": true,
+            "evidence": "ACCT3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+          },
+          {
+            "course_code": "ACCT3161",
+            "prefix_inferred": true,
+            "evidence": "ACCT3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+          },
+          {
+            "course_code": "ACCT4001",
+            "prefix_inferred": true,
+            "evidence": "ACCT3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+          },
+          {
+            "course_code": "ACCT4111",
+            "prefix_inferred": true,
+            "evidence": "ACCT3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+          },
+          {
+            "course_code": "ACCT4131",
+            "prefix_inferred": true,
+            "evidence": "ACCT3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+          },
+          {
+            "course_code": "DOTE2011",
+            "prefix_inferred": false,
+            "evidence": "ACCT3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+          },
+          {
+            "course_code": "FINA2010",
+            "prefix_inferred": false,
+            "evidence": "ACCT3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+          },
+          {
+            "course_code": "MGNT4010",
+            "prefix_inferred": false,
+            "evidence": "ACCT3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+          },
+          {
+            "course_code": "MKTG2010",
+            "prefix_inferred": false,
+            "evidence": "ACCT3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+          }
+        ],
+        "raw_text": "43\nACCT3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+      },
+      {
+        "number": 3,
+        "title": "Elective Courses",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "ACCT3005",
+            "prefix_inferred": false,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT3241",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4211",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4212",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4213",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4215",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4221",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4231",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4232",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4242",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4243",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4244",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4251",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4252",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4253",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4261",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4262",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4263",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4271",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4272",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4281",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4282",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "ACCT4290",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "DOTE3010",
+            "prefix_inferred": false,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "MATH1610",
+            "prefix_inferred": false,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          },
+          {
+            "course_code": "MATH1620",
+            "prefix_inferred": true,
+            "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+          }
+        ],
+        "raw_text": "9\n9 units from the following:\nACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620\nTotal:\n58\nGlobal Tax and Governance Stream"
+      },
+      {
+        "number": 3,
+        "title": "Elective Courses",
+        "units_as_printed": "12",
+        "course_mentions": [
+          {
+            "course_code": "ACCT4261",
+            "prefix_inferred": false,
+            "evidence": "ACCT4261, 4262, 4263"
+          },
+          {
+            "course_code": "ACCT4262",
+            "prefix_inferred": true,
+            "evidence": "ACCT4261, 4262, 4263"
+          },
+          {
+            "course_code": "ACCT4263",
+            "prefix_inferred": true,
+            "evidence": "ACCT4261, 4262, 4263"
+          },
+          {
+            "course_code": "ACCT4251",
+            "prefix_inferred": false,
+            "evidence": "ACCT4251, 4252, 4253, 4271, 4272"
+          },
+          {
+            "course_code": "ACCT4252",
+            "prefix_inferred": true,
+            "evidence": "ACCT4251, 4252, 4253, 4271, 4272"
+          },
+          {
+            "course_code": "ACCT4253",
+            "prefix_inferred": true,
+            "evidence": "ACCT4251, 4252, 4253, 4271, 4272"
+          },
+          {
+            "course_code": "ACCT4271",
+            "prefix_inferred": true,
+            "evidence": "ACCT4251, 4252, 4253, 4271, 4272"
+          },
+          {
+            "course_code": "ACCT4272",
+            "prefix_inferred": true,
+            "evidence": "ACCT4251, 4252, 4253, 4271, 4272"
+          }
+        ],
+        "raw_text": "12\n12 units from the following:\n(a)\nat least 2 courses from:\nACCT4261, 4262, 4263\n(b)\nat least 1 course from:\nACCT4251, 4252, 4253, 4271, 4272\nTotal:\n61\nFinance for Accountants Stream"
+      },
+      {
+        "number": 3,
+        "title": "Elective/Stream-specific Courses",
+        "units_as_printed": "12",
+        "course_mentions": [
+          {
+            "course_code": "FINA3070",
+            "prefix_inferred": false,
+            "evidence": "FINA3070#, 3080#"
+          },
+          {
+            "course_code": "FINA3080",
+            "prefix_inferred": true,
+            "evidence": "FINA3070#, 3080#"
+          },
+          {
+            "course_code": "ACCT4251",
+            "prefix_inferred": false,
+            "evidence": "ACCT4251, 4282, FINA3010#, 3020#, 3030#, 4040#, 4050#, 4110#"
+          },
+          {
+            "course_code": "ACCT4282",
+            "prefix_inferred": true,
+            "evidence": "ACCT4251, 4282, FINA3010#, 3020#, 3030#, 4040#, 4050#, 4110#"
+          },
+          {
+            "course_code": "FINA3010",
+            "prefix_inferred": false,
+            "evidence": "ACCT4251, 4282, FINA3010#, 3020#, 3030#, 4040#, 4050#, 4110#"
+          },
+          {
+            "course_code": "FINA3020",
+            "prefix_inferred": true,
+            "evidence": "ACCT4251, 4282, FINA3010#, 3020#, 3030#, 4040#, 4050#, 4110#"
+          },
+          {
+            "course_code": "FINA3030",
+            "prefix_inferred": true,
+            "evidence": "ACCT4251, 4282, FINA3010#, 3020#, 3030#, 4040#, 4050#, 4110#"
+          },
+          {
+            "course_code": "FINA4040",
+            "prefix_inferred": true,
+            "evidence": "ACCT4251, 4282, FINA3010#, 3020#, 3030#, 4040#, 4050#, 4110#"
+          },
+          {
+            "course_code": "FINA4050",
+            "prefix_inferred": true,
+            "evidence": "ACCT4251, 4282, FINA3010#, 3020#, 3030#, 4040#, 4050#, 4110#"
+          },
+          {
+            "course_code": "FINA4110",
+            "prefix_inferred": true,
+            "evidence": "ACCT4251, 4282, FINA3010#, 3020#, 3030#, 4040#, 4050#, 4110#"
+          }
+        ],
+        "raw_text": "12\n12 units from the following:\n(a)\nFINA3070#, 3080#\n(b)\n2 courses from:\nACCT4251, 4282, FINA3010#, 3020#, 3030#, 4040#, 4050#, 4110#\nTotal:\n61\nAccounting Analytics Stream"
+      },
+      {
+        "number": 3,
+        "title": "Elective/Stream-specific Courses",
+        "units_as_printed": "12",
+        "course_mentions": [
+          {
+            "course_code": "ACCT4242",
+            "prefix_inferred": false,
+            "evidence": "ACCT4242"
+          },
+          {
+            "course_code": "ACCT3241",
+            "prefix_inferred": false,
+            "evidence": "ACCT3241, 4213, 4232, 4243, 4244, DOTE2021#, 4020#, 4070#, 4110#, 4220#, 4260#"
+          },
+          {
+            "course_code": "ACCT4213",
+            "prefix_inferred": true,
+            "evidence": "ACCT3241, 4213, 4232, 4243, 4244, DOTE2021#, 4020#, 4070#, 4110#, 4220#, 4260#"
+          },
+          {
+            "course_code": "ACCT4232",
+            "prefix_inferred": true,
+            "evidence": "ACCT3241, 4213, 4232, 4243, 4244, DOTE2021#, 4020#, 4070#, 4110#, 4220#, 4260#"
+          },
+          {
+            "course_code": "ACCT4243",
+            "prefix_inferred": true,
+            "evidence": "ACCT3241, 4213, 4232, 4243, 4244, DOTE2021#, 4020#, 4070#, 4110#, 4220#, 4260#"
+          },
+          {
+            "course_code": "ACCT4244",
+            "prefix_inferred": true,
+            "evidence": "ACCT3241, 4213, 4232, 4243, 4244, DOTE2021#, 4020#, 4070#, 4110#, 4220#, 4260#"
+          },
+          {
+            "course_code": "DOTE2021",
+            "prefix_inferred": false,
+            "evidence": "ACCT3241, 4213, 4232, 4243, 4244, DOTE2021#, 4020#, 4070#, 4110#, 4220#, 4260#"
+          },
+          {
+            "course_code": "DOTE4020",
+            "prefix_inferred": true,
+            "evidence": "ACCT3241, 4213, 4232, 4243, 4244, DOTE2021#, 4020#, 4070#, 4110#, 4220#, 4260#"
+          },
+          {
+            "course_code": "DOTE4070",
+            "prefix_inferred": true,
+            "evidence": "ACCT3241, 4213, 4232, 4243, 4244, DOTE2021#, 4020#, 4070#, 4110#, 4220#, 4260#"
+          },
+          {
+            "course_code": "DOTE4110",
+            "prefix_inferred": true,
+            "evidence": "ACCT3241, 4213, 4232, 4243, 4244, DOTE2021#, 4020#, 4070#, 4110#, 4220#, 4260#"
+          },
+          {
+            "course_code": "DOTE4220",
+            "prefix_inferred": true,
+            "evidence": "ACCT3241, 4213, 4232, 4243, 4244, DOTE2021#, 4020#, 4070#, 4110#, 4220#, 4260#"
+          },
+          {
+            "course_code": "DOTE4260",
+            "prefix_inferred": true,
+            "evidence": "ACCT3241, 4213, 4232, 4243, 4244, DOTE2021#, 4020#, 4070#, 4110#, 4220#, 4260#"
+          }
+        ],
+        "raw_text": "12\n12 units from the following:\n(a)\nACCT4242\n(b)\n3 courses from:\nACCT3241, 4213, 4232, 4243, 4244, DOTE2021#, 4020#, 4070#, 4110#, 4220#, 4260#\nTotal:\n61\nExplanatory Notes:"
+      }
+    ]
+  },
+  "all_course_mentions": [
+    {
+      "course_code": "DOTE1030",
+      "prefix_inferred": false,
+      "evidence": "DOTE1030, 1040, MGNT1020"
+    },
+    {
+      "course_code": "DOTE1040",
+      "prefix_inferred": true,
+      "evidence": "DOTE1030, 1040, MGNT1020"
+    },
+    {
+      "course_code": "MGNT1020",
+      "prefix_inferred": false,
+      "evidence": "DOTE1030, 1040, MGNT1020"
+    },
+    {
+      "course_code": "ACCT2111",
+      "prefix_inferred": false,
+      "evidence": "ACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#"
+    },
+    {
+      "course_code": "ACCT2121",
+      "prefix_inferred": true,
+      "evidence": "ACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#"
+    },
+    {
+      "course_code": "ACCT3003",
+      "prefix_inferred": true,
+      "evidence": "ACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#"
+    },
+    {
+      "course_code": "ACCT3111",
+      "prefix_inferred": true,
+      "evidence": "ACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#"
+    },
+    {
+      "course_code": "ACCT3112",
+      "prefix_inferred": true,
+      "evidence": "ACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#"
+    },
+    {
+      "course_code": "ACCT3121",
+      "prefix_inferred": true,
+      "evidence": "ACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#"
+    },
+    {
+      "course_code": "ACCT3142",
+      "prefix_inferred": true,
+      "evidence": "ACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#"
+    },
+    {
+      "course_code": "ACCT3151",
+      "prefix_inferred": true,
+      "evidence": "ACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#"
+    },
+    {
+      "course_code": "ACCT3152",
+      "prefix_inferred": true,
+      "evidence": "ACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#"
+    },
+    {
+      "course_code": "ACCT3161",
+      "prefix_inferred": true,
+      "evidence": "ACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#"
+    },
+    {
+      "course_code": "ACCT4001",
+      "prefix_inferred": true,
+      "evidence": "ACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#"
+    },
+    {
+      "course_code": "ACCT4111",
+      "prefix_inferred": true,
+      "evidence": "ACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#"
+    },
+    {
+      "course_code": "ACCT4131",
+      "prefix_inferred": true,
+      "evidence": "ACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#"
+    },
+    {
+      "course_code": "DOTE2011",
+      "prefix_inferred": false,
+      "evidence": "ACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#"
+    },
+    {
+      "course_code": "FINA2010",
+      "prefix_inferred": false,
+      "evidence": "ACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#"
+    },
+    {
+      "course_code": "MGNT2511",
+      "prefix_inferred": false,
+      "evidence": "ACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#"
+    },
+    {
+      "course_code": "MGNT2512",
+      "prefix_inferred": true,
+      "evidence": "ACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#"
+    },
+    {
+      "course_code": "MGNT4010",
+      "prefix_inferred": true,
+      "evidence": "ACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#"
+    },
+    {
+      "course_code": "MKTG2010",
+      "prefix_inferred": false,
+      "evidence": "ACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#"
+    },
+    {
+      "course_code": "ACCT3005",
+      "prefix_inferred": false,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+    },
+    {
+      "course_code": "ACCT3241",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+    },
+    {
+      "course_code": "ACCT4211",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+    },
+    {
+      "course_code": "ACCT4212",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+    },
+    {
+      "course_code": "ACCT4213",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+    },
+    {
+      "course_code": "ACCT4215",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+    },
+    {
+      "course_code": "ACCT4221",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+    },
+    {
+      "course_code": "ACCT4231",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+    },
+    {
+      "course_code": "ACCT4232",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+    },
+    {
+      "course_code": "ACCT4242",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+    },
+    {
+      "course_code": "ACCT4243",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+    },
+    {
+      "course_code": "ACCT4244",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+    },
+    {
+      "course_code": "ACCT4251",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+    },
+    {
+      "course_code": "ACCT4252",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+    },
+    {
+      "course_code": "ACCT4253",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+    },
+    {
+      "course_code": "ACCT4261",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+    },
+    {
+      "course_code": "ACCT4262",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+    },
+    {
+      "course_code": "ACCT4263",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+    },
+    {
+      "course_code": "ACCT4271",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+    },
+    {
+      "course_code": "ACCT4272",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+    },
+    {
+      "course_code": "ACCT4281",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+    },
+    {
+      "course_code": "ACCT4282",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+    },
+    {
+      "course_code": "ACCT4290",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+    },
+    {
+      "course_code": "DOTE3010",
+      "prefix_inferred": false,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+    },
+    {
+      "course_code": "MATH1610",
+      "prefix_inferred": false,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+    },
+    {
+      "course_code": "MATH1620",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620"
+    },
+    {
+      "course_code": "ACCT4261",
+      "prefix_inferred": false,
+      "evidence": "ACCT4261, 4262, 4263"
+    },
+    {
+      "course_code": "ACCT4262",
+      "prefix_inferred": true,
+      "evidence": "ACCT4261, 4262, 4263"
+    },
+    {
+      "course_code": "ACCT4263",
+      "prefix_inferred": true,
+      "evidence": "ACCT4261, 4262, 4263"
+    },
+    {
+      "course_code": "ACCT4251",
+      "prefix_inferred": false,
+      "evidence": "ACCT4251, 4252, 4253, 4271, 4272"
+    },
+    {
+      "course_code": "ACCT4252",
+      "prefix_inferred": true,
+      "evidence": "ACCT4251, 4252, 4253, 4271, 4272"
+    },
+    {
+      "course_code": "ACCT4253",
+      "prefix_inferred": true,
+      "evidence": "ACCT4251, 4252, 4253, 4271, 4272"
+    },
+    {
+      "course_code": "ACCT4271",
+      "prefix_inferred": true,
+      "evidence": "ACCT4251, 4252, 4253, 4271, 4272"
+    },
+    {
+      "course_code": "ACCT4272",
+      "prefix_inferred": true,
+      "evidence": "ACCT4251, 4252, 4253, 4271, 4272"
+    },
+    {
+      "course_code": "FINA3070",
+      "prefix_inferred": false,
+      "evidence": "FINA3070#, 3080#"
+    },
+    {
+      "course_code": "FINA3080",
+      "prefix_inferred": true,
+      "evidence": "FINA3070#, 3080#"
+    },
+    {
+      "course_code": "ACCT4251",
+      "prefix_inferred": false,
+      "evidence": "ACCT4251, 4282, FINA3010#, 3020#, 3030#, 4040#, 4050#, 4110#"
+    },
+    {
+      "course_code": "ACCT4282",
+      "prefix_inferred": true,
+      "evidence": "ACCT4251, 4282, FINA3010#, 3020#, 3030#, 4040#, 4050#, 4110#"
+    },
+    {
+      "course_code": "FINA3010",
+      "prefix_inferred": false,
+      "evidence": "ACCT4251, 4282, FINA3010#, 3020#, 3030#, 4040#, 4050#, 4110#"
+    },
+    {
+      "course_code": "FINA3020",
+      "prefix_inferred": true,
+      "evidence": "ACCT4251, 4282, FINA3010#, 3020#, 3030#, 4040#, 4050#, 4110#"
+    },
+    {
+      "course_code": "FINA3030",
+      "prefix_inferred": true,
+      "evidence": "ACCT4251, 4282, FINA3010#, 3020#, 3030#, 4040#, 4050#, 4110#"
+    },
+    {
+      "course_code": "FINA4040",
+      "prefix_inferred": true,
+      "evidence": "ACCT4251, 4282, FINA3010#, 3020#, 3030#, 4040#, 4050#, 4110#"
+    },
+    {
+      "course_code": "FINA4050",
+      "prefix_inferred": true,
+      "evidence": "ACCT4251, 4282, FINA3010#, 3020#, 3030#, 4040#, 4050#, 4110#"
+    },
+    {
+      "course_code": "FINA4110",
+      "prefix_inferred": true,
+      "evidence": "ACCT4251, 4282, FINA3010#, 3020#, 3030#, 4040#, 4050#, 4110#"
+    },
+    {
+      "course_code": "ACCT4242",
+      "prefix_inferred": false,
+      "evidence": "ACCT4242"
+    },
+    {
+      "course_code": "ACCT3241",
+      "prefix_inferred": false,
+      "evidence": "ACCT3241, 4213, 4232, 4243, 4244, DOTE2021#, 4020#, 4070#, 4110#, 4220#, 4260#"
+    },
+    {
+      "course_code": "ACCT4213",
+      "prefix_inferred": true,
+      "evidence": "ACCT3241, 4213, 4232, 4243, 4244, DOTE2021#, 4020#, 4070#, 4110#, 4220#, 4260#"
+    },
+    {
+      "course_code": "ACCT4232",
+      "prefix_inferred": true,
+      "evidence": "ACCT3241, 4213, 4232, 4243, 4244, DOTE2021#, 4020#, 4070#, 4110#, 4220#, 4260#"
+    },
+    {
+      "course_code": "ACCT4243",
+      "prefix_inferred": true,
+      "evidence": "ACCT3241, 4213, 4232, 4243, 4244, DOTE2021#, 4020#, 4070#, 4110#, 4220#, 4260#"
+    },
+    {
+      "course_code": "ACCT4244",
+      "prefix_inferred": true,
+      "evidence": "ACCT3241, 4213, 4232, 4243, 4244, DOTE2021#, 4020#, 4070#, 4110#, 4220#, 4260#"
+    },
+    {
+      "course_code": "DOTE2021",
+      "prefix_inferred": false,
+      "evidence": "ACCT3241, 4213, 4232, 4243, 4244, DOTE2021#, 4020#, 4070#, 4110#, 4220#, 4260#"
+    },
+    {
+      "course_code": "DOTE4020",
+      "prefix_inferred": true,
+      "evidence": "ACCT3241, 4213, 4232, 4243, 4244, DOTE2021#, 4020#, 4070#, 4110#, 4220#, 4260#"
+    },
+    {
+      "course_code": "DOTE4070",
+      "prefix_inferred": true,
+      "evidence": "ACCT3241, 4213, 4232, 4243, 4244, DOTE2021#, 4020#, 4070#, 4110#, 4220#, 4260#"
+    },
+    {
+      "course_code": "DOTE4110",
+      "prefix_inferred": true,
+      "evidence": "ACCT3241, 4213, 4232, 4243, 4244, DOTE2021#, 4020#, 4070#, 4110#, 4220#, 4260#"
+    },
+    {
+      "course_code": "DOTE4220",
+      "prefix_inferred": true,
+      "evidence": "ACCT3241, 4213, 4232, 4243, 4244, DOTE2021#, 4020#, 4070#, 4110#, 4220#, 4260#"
+    },
+    {
+      "course_code": "DOTE4260",
+      "prefix_inferred": true,
+      "evidence": "ACCT3241, 4213, 4232, 4243, 4244, DOTE2021#, 4020#, 4070#, 4110#, 4220#, 4260#"
+    },
+    {
+      "course_code": "ACCT2111",
+      "prefix_inferred": false,
+      "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+    },
+    {
+      "course_code": "ACCT2121",
+      "prefix_inferred": true,
+      "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+    },
+    {
+      "course_code": "ACCT3003",
+      "prefix_inferred": true,
+      "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+    },
+    {
+      "course_code": "ACCT3004",
+      "prefix_inferred": true,
+      "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+    },
+    {
+      "course_code": "ACCT3111",
+      "prefix_inferred": true,
+      "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+    },
+    {
+      "course_code": "ACCT3112",
+      "prefix_inferred": true,
+      "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+    },
+    {
+      "course_code": "ACCT3121",
+      "prefix_inferred": true,
+      "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+    },
+    {
+      "course_code": "ACCT3142",
+      "prefix_inferred": true,
+      "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+    },
+    {
+      "course_code": "ACCT3151",
+      "prefix_inferred": true,
+      "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+    },
+    {
+      "course_code": "ACCT3152",
+      "prefix_inferred": true,
+      "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+    },
+    {
+      "course_code": "ACCT3161",
+      "prefix_inferred": true,
+      "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+    },
+    {
+      "course_code": "ACCT4001",
+      "prefix_inferred": true,
+      "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+    },
+    {
+      "course_code": "ACCT4111",
+      "prefix_inferred": true,
+      "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+    },
+    {
+      "course_code": "ACCT4131",
+      "prefix_inferred": true,
+      "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+    },
+    {
+      "course_code": "ACCT4215",
+      "prefix_inferred": true,
+      "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+    },
+    {
+      "course_code": "ACCT4290",
+      "prefix_inferred": true,
+      "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+    },
+    {
+      "course_code": "DOTE2011",
+      "prefix_inferred": false,
+      "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+    },
+    {
+      "course_code": "FINA2010",
+      "prefix_inferred": false,
+      "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+    },
+    {
+      "course_code": "MGNT4010",
+      "prefix_inferred": false,
+      "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+    },
+    {
+      "course_code": "MKTG2010",
+      "prefix_inferred": false,
+      "evidence": "ACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+    },
+    {
+      "course_code": "ACCT3005",
+      "prefix_inferred": false,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+    },
+    {
+      "course_code": "ACCT3241",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+    },
+    {
+      "course_code": "ACCT4211",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+    },
+    {
+      "course_code": "ACCT4212",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+    },
+    {
+      "course_code": "ACCT4213",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+    },
+    {
+      "course_code": "ACCT4215",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+    },
+    {
+      "course_code": "ACCT4221",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+    },
+    {
+      "course_code": "ACCT4231",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+    },
+    {
+      "course_code": "ACCT4232",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+    },
+    {
+      "course_code": "ACCT4242",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+    },
+    {
+      "course_code": "ACCT4243",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+    },
+    {
+      "course_code": "ACCT4244",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+    },
+    {
+      "course_code": "ACCT4251",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+    },
+    {
+      "course_code": "ACCT4252",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+    },
+    {
+      "course_code": "ACCT4253",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+    },
+    {
+      "course_code": "ACCT4261",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+    },
+    {
+      "course_code": "ACCT4262",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+    },
+    {
+      "course_code": "ACCT4263",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+    },
+    {
+      "course_code": "ACCT4271",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+    },
+    {
+      "course_code": "ACCT4272",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+    },
+    {
+      "course_code": "ACCT4281",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+    },
+    {
+      "course_code": "ACCT4282",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+    },
+    {
+      "course_code": "ACCT4290",
+      "prefix_inferred": true,
+      "evidence": "ACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*"
+    },
+    {
+      "course_code": "DOTE3050",
+      "prefix_inferred": false,
+      "evidence": "DOTE3050#, FINA3020#, MGNT3580#, 4150#, 4510#, 4540#, 4570#, MKTG4070#, 4140#"
+    },
+    {
+      "course_code": "FINA3020",
+      "prefix_inferred": false,
+      "evidence": "DOTE3050#, FINA3020#, MGNT3580#, 4150#, 4510#, 4540#, 4570#, MKTG4070#, 4140#"
+    },
+    {
+      "course_code": "MGNT3580",
+      "prefix_inferred": false,
+      "evidence": "DOTE3050#, FINA3020#, MGNT3580#, 4150#, 4510#, 4540#, 4570#, MKTG4070#, 4140#"
+    },
+    {
+      "course_code": "MGNT4150",
+      "prefix_inferred": true,
+      "evidence": "DOTE3050#, FINA3020#, MGNT3580#, 4150#, 4510#, 4540#, 4570#, MKTG4070#, 4140#"
+    },
+    {
+      "course_code": "MGNT4510",
+      "prefix_inferred": true,
+      "evidence": "DOTE3050#, FINA3020#, MGNT3580#, 4150#, 4510#, 4540#, 4570#, MKTG4070#, 4140#"
+    },
+    {
+      "course_code": "MGNT4540",
+      "prefix_inferred": true,
+      "evidence": "DOTE3050#, FINA3020#, MGNT3580#, 4150#, 4510#, 4540#, 4570#, MKTG4070#, 4140#"
+    },
+    {
+      "course_code": "MGNT4570",
+      "prefix_inferred": true,
+      "evidence": "DOTE3050#, FINA3020#, MGNT3580#, 4150#, 4510#, 4540#, 4570#, MKTG4070#, 4140#"
+    },
+    {
+      "course_code": "MKTG4070",
+      "prefix_inferred": false,
+      "evidence": "DOTE3050#, FINA3020#, MGNT3580#, 4150#, 4510#, 4540#, 4570#, MKTG4070#, 4140#"
+    },
+    {
+      "course_code": "MKTG4140",
+      "prefix_inferred": true,
+      "evidence": "DOTE3050#, FINA3020#, MGNT3580#, 4150#, 4510#, 4540#, 4570#, MKTG4070#, 4140#"
+    },
+    {
+      "course_code": "DOTE1030",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: DOTE1030, MGNT1020"
+    },
+    {
+      "course_code": "MGNT1020",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: DOTE1030, MGNT1020"
+    },
+    {
+      "course_code": "DOTE1040",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: DOTE1040"
+    },
+    {
+      "course_code": "ACCT2111",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ACCT2111, MGNT2511"
+    },
+    {
+      "course_code": "MGNT2511",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ACCT2111, MGNT2511"
+    },
+    {
+      "course_code": "ACCT2121",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ACCT2121, DOTE2011, MKTG2010"
+    },
+    {
+      "course_code": "DOTE2011",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ACCT2121, DOTE2011, MKTG2010"
+    },
+    {
+      "course_code": "MKTG2010",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ACCT2121, DOTE2011, MKTG2010"
+    },
+    {
+      "course_code": "ACCT3003",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ACCT3003, 3111, 3142, FINA2010"
+    },
+    {
+      "course_code": "ACCT3111",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ACCT3003, 3111, 3142, FINA2010"
+    },
+    {
+      "course_code": "ACCT3142",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ACCT3003, 3111, 3142, FINA2010"
+    },
+    {
+      "course_code": "FINA2010",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ACCT3003, 3111, 3142, FINA2010"
+    },
+    {
+      "course_code": "ACCT3112",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ACCT3112, 3121, 3151"
+    },
+    {
+      "course_code": "ACCT3121",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ACCT3112, 3121, 3151"
+    },
+    {
+      "course_code": "ACCT3151",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ACCT3112, 3121, 3151"
+    },
+    {
+      "course_code": "ACCT3152",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ACCT3152, 3161, 4111"
+    },
+    {
+      "course_code": "ACCT3161",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ACCT3152, 3161, 4111"
+    },
+    {
+      "course_code": "ACCT4111",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ACCT3152, 3161, 4111"
+    },
+    {
+      "course_code": "ACCT4131",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ACCT4131, MGNT2512, 4010"
+    },
+    {
+      "course_code": "MGNT2512",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ACCT4131, MGNT2512, 4010"
+    },
+    {
+      "course_code": "MGNT4010",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ACCT4131, MGNT2512, 4010"
+    },
+    {
+      "course_code": "ACCT4001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ACCT4001"
+    },
+    {
+      "course_code": "DOTE1030",
+      "prefix_inferred": false,
+      "evidence": "DOTE1030, 1040"
+    },
+    {
+      "course_code": "DOTE1040",
+      "prefix_inferred": true,
+      "evidence": "DOTE1030, 1040"
+    },
+    {
+      "course_code": "ACCT3003",
+      "prefix_inferred": false,
+      "evidence": "ACCT3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+    },
+    {
+      "course_code": "ACCT3111",
+      "prefix_inferred": true,
+      "evidence": "ACCT3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+    },
+    {
+      "course_code": "ACCT3112",
+      "prefix_inferred": true,
+      "evidence": "ACCT3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+    },
+    {
+      "course_code": "ACCT3121",
+      "prefix_inferred": true,
+      "evidence": "ACCT3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+    },
+    {
+      "course_code": "ACCT3142",
+      "prefix_inferred": true,
+      "evidence": "ACCT3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+    },
+    {
+      "course_code": "ACCT3151",
+      "prefix_inferred": true,
+      "evidence": "ACCT3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+    },
+    {
+      "course_code": "ACCT3152",
+      "prefix_inferred": true,
+      "evidence": "ACCT3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+    },
+    {
+      "course_code": "ACCT3161",
+      "prefix_inferred": true,
+      "evidence": "ACCT3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+    },
+    {
+      "course_code": "ACCT4001",
+      "prefix_inferred": true,
+      "evidence": "ACCT3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+    },
+    {
+      "course_code": "ACCT4111",
+      "prefix_inferred": true,
+      "evidence": "ACCT3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+    },
+    {
+      "course_code": "ACCT4131",
+      "prefix_inferred": true,
+      "evidence": "ACCT3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+    },
+    {
+      "course_code": "DOTE2011",
+      "prefix_inferred": false,
+      "evidence": "ACCT3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+    },
+    {
+      "course_code": "FINA2010",
+      "prefix_inferred": false,
+      "evidence": "ACCT3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+    },
+    {
+      "course_code": "MGNT4010",
+      "prefix_inferred": false,
+      "evidence": "ACCT3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+    },
+    {
+      "course_code": "MKTG2010",
+      "prefix_inferred": false,
+      "evidence": "ACCT3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#"
+    },
+    {
+      "course_code": "DOTE1030",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: DOTE1030"
+    },
+    {
+      "course_code": "ACCT3111",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ACCT3111, DOTE2011, FINA2010, MKTG2010"
+    },
+    {
+      "course_code": "DOTE2011",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ACCT3111, DOTE2011, FINA2010, MKTG2010"
+    },
+    {
+      "course_code": "FINA2010",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ACCT3111, DOTE2011, FINA2010, MKTG2010"
+    },
+    {
+      "course_code": "MKTG2010",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ACCT3111, DOTE2011, FINA2010, MKTG2010"
+    },
+    {
+      "course_code": "ACCT3003",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ACCT3003, 3112, 3121, 3142"
+    },
+    {
+      "course_code": "ACCT3112",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ACCT3003, 3112, 3121, 3142"
+    },
+    {
+      "course_code": "ACCT3121",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ACCT3003, 3112, 3121, 3142"
+    },
+    {
+      "course_code": "ACCT3142",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ACCT3003, 3112, 3121, 3142"
+    },
+    {
+      "course_code": "ACCT3151",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ACCT3151, 3161, 4131, MGNT4010"
+    },
+    {
+      "course_code": "ACCT3161",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ACCT3151, 3161, 4131, MGNT4010"
+    },
+    {
+      "course_code": "ACCT4131",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ACCT3151, 3161, 4131, MGNT4010"
+    },
+    {
+      "course_code": "MGNT4010",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ACCT3151, 3161, 4131, MGNT4010"
+    },
+    {
+      "course_code": "ACCT3152",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ACCT3152, 4001, 4111"
+    },
+    {
+      "course_code": "ACCT4001",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ACCT3152, 4001, 4111"
+    },
+    {
+      "course_code": "ACCT4111",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ACCT3152, 4001, 4111"
+    },
+    {
+      "course_code": "ACCT2111",
+      "prefix_inferred": false,
+      "evidence": "ACCT2111"
+    },
+    {
+      "course_code": "ACCT2121",
+      "prefix_inferred": false,
+      "evidence": "ACCT2121"
+    },
+    {
+      "course_code": "ACCT3003",
+      "prefix_inferred": false,
+      "evidence": "ACCT3003"
+    },
+    {
+      "course_code": "ACCT3004",
+      "prefix_inferred": false,
+      "evidence": "ACCT3004"
+    },
+    {
+      "course_code": "ACCT3005",
+      "prefix_inferred": false,
+      "evidence": "ACCT3005"
+    },
+    {
+      "course_code": "ACCT3111",
+      "prefix_inferred": false,
+      "evidence": "ACCT3111"
+    },
+    {
+      "course_code": "ACCT3112",
+      "prefix_inferred": false,
+      "evidence": "ACCT3112"
+    },
+    {
+      "course_code": "ACCT3121",
+      "prefix_inferred": false,
+      "evidence": "ACCT3121"
+    },
+    {
+      "course_code": "ACCT3142",
+      "prefix_inferred": false,
+      "evidence": "ACCT3142"
+    },
+    {
+      "course_code": "ACCT3151",
+      "prefix_inferred": false,
+      "evidence": "ACCT3151"
+    },
+    {
+      "course_code": "ACCT3152",
+      "prefix_inferred": false,
+      "evidence": "ACCT3152"
+    },
+    {
+      "course_code": "ACCT3161",
+      "prefix_inferred": false,
+      "evidence": "ACCT3161"
+    },
+    {
+      "course_code": "ACCT3241",
+      "prefix_inferred": false,
+      "evidence": "ACCT3241"
+    },
+    {
+      "course_code": "ACCT4001",
+      "prefix_inferred": false,
+      "evidence": "ACCT4001"
+    },
+    {
+      "course_code": "ACCT4011",
+      "prefix_inferred": false,
+      "evidence": "ACCT4011"
+    },
+    {
+      "course_code": "ACCT4111",
+      "prefix_inferred": false,
+      "evidence": "ACCT4111"
+    },
+    {
+      "course_code": "ACCT4131",
+      "prefix_inferred": false,
+      "evidence": "ACCT4131"
+    },
+    {
+      "course_code": "ACCT4211",
+      "prefix_inferred": false,
+      "evidence": "ACCT4211"
+    },
+    {
+      "course_code": "ACCT4212",
+      "prefix_inferred": false,
+      "evidence": "ACCT4212"
+    },
+    {
+      "course_code": "ACCT4213",
+      "prefix_inferred": false,
+      "evidence": "ACCT4213"
+    },
+    {
+      "course_code": "ACCT4215",
+      "prefix_inferred": false,
+      "evidence": "ACCT4215"
+    },
+    {
+      "course_code": "ACCT4221",
+      "prefix_inferred": false,
+      "evidence": "ACCT4221"
+    },
+    {
+      "course_code": "ACCT4231",
+      "prefix_inferred": false,
+      "evidence": "ACCT4231"
+    },
+    {
+      "course_code": "ACCT4232",
+      "prefix_inferred": false,
+      "evidence": "ACCT4232"
+    },
+    {
+      "course_code": "ACCT4243",
+      "prefix_inferred": false,
+      "evidence": "ACCT4243"
+    },
+    {
+      "course_code": "ACCT4244",
+      "prefix_inferred": false,
+      "evidence": "ACCT4244"
+    },
+    {
+      "course_code": "ACCT4251",
+      "prefix_inferred": false,
+      "evidence": "ACCT4251"
+    },
+    {
+      "course_code": "ACCT4252",
+      "prefix_inferred": false,
+      "evidence": "ACCT4252"
+    },
+    {
+      "course_code": "ACCT4253",
+      "prefix_inferred": false,
+      "evidence": "ACCT4253"
+    },
+    {
+      "course_code": "ACCT4261",
+      "prefix_inferred": false,
+      "evidence": "ACCT4261"
+    },
+    {
+      "course_code": "ACCT4262",
+      "prefix_inferred": false,
+      "evidence": "ACCT4262"
+    },
+    {
+      "course_code": "ACCT4263",
+      "prefix_inferred": false,
+      "evidence": "ACCT4263"
+    },
+    {
+      "course_code": "ACCT4271",
+      "prefix_inferred": false,
+      "evidence": "ACCT4271"
+    },
+    {
+      "course_code": "ACCT4272",
+      "prefix_inferred": false,
+      "evidence": "ACCT4272"
+    },
+    {
+      "course_code": "ACCT4281",
+      "prefix_inferred": false,
+      "evidence": "ACCT4281"
+    },
+    {
+      "course_code": "ACCT4282",
+      "prefix_inferred": false,
+      "evidence": "ACCT4282"
+    },
+    {
+      "course_code": "ACCT4290",
+      "prefix_inferred": false,
+      "evidence": "ACCT4290"
+    }
+  ],
+  "course_code_aliases": [],
+  "source": {
+    "system": "CUHK CUSIS Browse Program Information",
+    "url": "https://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/tt_dsp_acad_prog.aspx",
+    "source_text_file": "data/cuhk/2024/programmes/B_B_A_in_Professional_Accountancy__Faculty_of_Business_Administration.txt",
+    "reused_duplicate_entry": false,
+    "reused_from_faculty": null
+  },
+  "raw_text": "\n\nBrowse Program Information\n\n\n\n\n\n\nAcademic Program:\tB.B.A. in Professional Accountancy\nAcademic Year:\t2024\nLanguage:\t\nEnglish\nSimplified Chinese\nTraditional Chinese\n\n\n\nLearning Outcomes\nStudy Scheme\n \n\n\t\n\nProfessional Accountancy\n\nApplicable to students admitted in 2024-25\n\n\n\n\n \n\n\n\n\n \n\nMajor Programme Requirement\n\n \n\n\n\n\nStudents are required to complete a minimum of 69 units (72 units for Global Tax and Governance Stream / Finance for Accountants Stream / Accounting Analytics Stream / Global Accounting Stream) of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nFaculty Package:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nDOTE1030, 1040, MGNT1020\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nRequired Courses:\n\n\t\n\n51\n\n\n\n\n \n\n\t\n\nACCT2111*, 2121*, 3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT2511, 2512, 4010#, MKTG2010#\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nElective Courses:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\n9 units from the following:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n69\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\nGlobal Tax and Governance Stream\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nElective Courses:\n\n\t\n\n12\n\n\n\n\n \n\n\t\n\n12 units from the following:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nat least 2 courses from:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nACCT4261, 4262, 4263\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nat least 1 course from:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nACCT4251, 4252, 4253, 4271, 4272\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n72\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\nFinance for Accountants Stream\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nElective/Stream-specific Courses:\n\n\t\n\n12\n\n\n\n\n \n\n\t\n\n12 units from the following:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nFINA3070#, 3080#\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\n2 courses from:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nACCT4251, 4282, FINA3010#, 3020#, 3030#, 4040#, 4050#, 4110#\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n72\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\nAccounting Analytics Stream\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nElective/Stream-specific Courses\n\n\t\n\n12\n\n\n\n\n \n\n\t\n\n12 units from the following:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nACCT4242\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\n3 courses from:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nACCT3241, 4213, 4232, 4243, 4244, DOTE2021#, 4020#, 4070#, 4110#, 4220#, 4260#\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n72\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\nGlobal Accounting Stream\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nRequired Courses:\n\n\t\n\n54\n\n\n\n\n \n\n\t\n\nACCT2111*, 2121*, 3003, 3004, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, 4215 or 4290*, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nElective Courses:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\n9 units from the following, with at least 1 course from each of the groups:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nDOTE3050#, FINA3020#, MGNT3580#, 4150#, 4510#, 4540#, 4570#, MKTG4070#, 4140#\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n72\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\nExplanatory Notes:\n\n\n\n\n1.\n\n\t\n\nACCT courses at 2000 and above level (except those marked with *) as well as those labeled as # will be included in the calculation of Major GPA for honours classification if students specialize in the respective streams.\n\n\n\n\n2.\n\n\t\n\nApart from the above Major Programme Requirement, students are required to take at least 6 units of free elective courses not offered by the Faculty of Business Administration or not used to fulfill any minor programmes offered by the Faculty.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\n \n\n\n\n\n \n\n\t\n\nRecommended Course Pattern\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: DOTE1030, MGNT1020\n\n\t\n\n6\n\n\n\n\nMajor Required:\n\n\t\n\n \n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nFaculty Package: DOTE1040\n\n\t\n\n3\n\n\n\n\nMajor Required: ACCT2111, MGNT2511\n\n\t\n\n4\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: ACCT2121, DOTE2011, MKTG2010\n\n\t\n\n10\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: ACCT3003, 3111, 3142, FINA2010\n\n\t\n\n10\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nThird Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: ACCT3112, 3121, 3151\n\n\t\n\n9\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: ACCT3152, 3161, 4111\n\n\t\n\n9\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nFourth Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: ACCT4131, MGNT2512, 4010\n\n\t\n\n7\n\n\n\n\nMajor Elective(s): 1 course\n\n\t\n\n3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: ACCT4001\n\n\t\n\n2\n\n\n\n\nMajor Elective(s): 2 courses\n\n\t\n\n6\n\n\n\n\nTotal (including Faculty Package):\n\n\t\n\n69\n\n\n\n\n \n\n\n\n\n \n\nMajor Programme Requirement (for Associate Degree holders admitted to senior-year places)\n\n \n\n\n\n\nStudents are required to complete a minimum of 58 units (61 units for Global Tax and Governance Stream / Finance for Accountants Stream / Accounting Analytics Stream) of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nFaculty Package:\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nDOTE1030, 1040\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nRequired Courses:\n\n\t\n\n43\n\n\n\n\n \n\n\t\n\nACCT3003, 3111, 3112, 3121, 3142, 3151, 3152, 3161, 4001 (capstone course), 4111, 4131, DOTE2011#, FINA2010#, MGNT4010#, MKTG2010#\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nElective Courses:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\n9 units from the following:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nACCT3005, 3241, 4211, 4212, 4213, 4215, 4221, 4231, 4232, 4242, 4243, 4244, 4251, 4252, 4253, 4261, 4262, 4263, 4271, 4272, 4281, 4282, 4290*, DOTE3010#, MATH1610, 1620\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n58\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\nGlobal Tax and Governance Stream\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nElective Courses:\n\n\t\n\n12\n\n\n\n\n \n\n\t\n\n12 units from the following:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nat least 2 courses from:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nACCT4261, 4262, 4263\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nat least 1 course from:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nACCT4251, 4252, 4253, 4271, 4272\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n61\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\nFinance for Accountants Stream\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nElective/Stream-specific Courses:\n\n\t\n\n12\n\n\n\n\n \n\n\t\n\n12 units from the following:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nFINA3070#, 3080#\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\n2 courses from:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nACCT4251, 4282, FINA3010#, 3020#, 3030#, 4040#, 4050#, 4110#\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n61\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\nAccounting Analytics Stream\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nElective/Stream-specific Courses:\n\n\t\n\n12\n\n\n\n\n \n\n\t\n\n12 units from the following:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nACCT4242\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\n3 courses from:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nACCT3241, 4213, 4232, 4243, 4244, DOTE2021#, 4020#, 4070#, 4110#, 4220#, 4260#\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n61\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\nExplanatory Notes:\n\n\n\n\n1.\n\n\t\n\nACCT courses at 2000 and above level (except those marked with *) as well as those labeled as # will be included in the calculation of Major GPA for honours classification if students specialize in the respective streams.\n\n\n\n\n2.\n\n\t\n\nSubject to the approval of the Chairpersons/Directors of the Departments/Schools offering the courses, students may be exempted from up to 3 required courses at 1000 or 2000 level but NOT the units on the strength of the courses completed in AD programmes. No course exemption will be granted to courses at 3000 and above level. If exemption is granted to some of the required courses, students are required, at the full discretion of the Director of the School of Accountancy, to complete other major electives or courses at 3000 and above level offered by the Faculty of Business Administration so as to fulfill the unit requirement of the programme.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\n \n\n\n\n\n \n\n\t\n\nRecommended Course Pattern (for Associate Degree holders admitted to senior-year places)\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: DOTE1030\n\n\t\n\n3\n\n\n\n\nMajor Required: ACCT3111, DOTE2011, FINA2010, MKTG2010\n\n\t\n\n13\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nFaculty Package: DOTE1040\n\n\t\n\n3\n\n\n\n\nMajor Required: ACCT3003, 3112, 3121, 3142\n\n\t\n\n10\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: ACCT3151, 3161, 4131, MGNT4010\n\n\t\n\n12\n\n\n\n\nMajor Elective(s): 1 course\n\n\t\n\n3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: ACCT3152, 4001, 4111\n\n\t\n\n8\n\n\n\n\nMajor Elective(s): 2 courses\n\n\t\n\n6\n\n\n\n\nTotal (including Faculty Package):\n\n\t\n\n58\n\n\n\n\n \n\n\n\n\nCourse List\n\n \n\n\n\n\nCourse Code\n\n\t\n\nCourse Title\n\n\t\n\nUnit(s)\n\n\n\n\nACCT2111\n\n\t\n\nIntroductory Financial Accounting\n\n\t\n\n3\n\n\n\n\nACCT2121\n\n\t\n\nIntroductory Management Accounting\n\n\t\n\n3\n\n\n\n\nACCT3003\n\n\t\n\nProfessional Seminar Series\n\n\t\n\n1\n\n\n\n\nACCT3004\n\n\t\n\nAccounting Practicum and Experiential Learning\n\n\t\n\n2\n\n\n\n\nACCT3005\n\n\t\n\nAccounting Field Study and Experiential Learning\n\n\t\n\n2\n\n\n\n\nACCT3111\n\n\t\n\nFinancial Reporting I\n\n\t\n\n3\n\n\n\n\nACCT3112\n\n\t\n\nFinancial Reporting II\n\n\t\n\n3\n\n\n\n\nACCT3121\n\n\t\n\nCost and Management Accounting\n\n\t\n\n3\n\n\n\n\nACCT3142\n\n\t\n\nContemporary Accounting Information Systems\n\n\t\n\n3\n\n\n\n\nACCT3151\n\n\t\n\nBusiness Law\n\n\t\n\n3\n\n\n\n\nACCT3152\n\n\t\n\nCompany Law\n\n\t\n\n3\n\n\n\n\nACCT3161\n\n\t\n\nTaxation\n\n\t\n\n3\n\n\n\n\nACCT3241\n\n\t\n\nIntroduction to Python for Business and Accounting Analytics\n\n\t\n\n3\n\n\n\n\nACCT4001\n\n\t\n\nCapstone Project: Business Ethics and Entrepreneurship\n\n\t\n\n2\n\n\n\n\nACCT4011\n\n\t\n\nAdvanced Financial Accounting Studies\n\n\t\n\n3\n\n\n\n\nACCT4111\n\n\t\n\nAdvanced Financial Accounting\n\n\t\n\n3\n\n\n\n\nACCT4131\n\n\t\n\nAuditing\n\n\t\n\n3\n\n\n\n\nACCT4211\n\n\t\n\nAccounting Information in Capital Market\n\n\t\n\n3\n\n\n\n\nACCT4212\n\n\t\n\nChina Business Valuation and Analysis\n\n\t\n\n3\n\n\n\n\nACCT4213\n\n\t\n\nFinancial Statement Analysis and Valuation\n\n\t\n\n3\n\n\n\n\nACCT4215\n\n\t\n\nContemporary Accounting Issues in Global Market\n\n\t\n\n3\n\n\n\n\nACCT4221\n\n\t\n\nStrategic Management Accounting\n\n\t\n\n3\n\n\n\n\nACCT4231\n\n\t\n\nInternal Auditing and Risk Management\n\n\t\n\n3\n\n\n\n\nACCT4232\n\n\t\n\nForensic Accounting and Audit Analytics\n\n\t\n\n3\n\n\n\n\nACCT4242\n\n\t\n\nAccounting Data Analytics for Business\n\n\t\n\n3\n\n\n\n\nACCT4243\n\n\t\n\nData Visualization in Accounting\n\n\t\n\n3\n\n\n\n\nACCT4244\n\n\t\n\nBlockchain Fundamentals for Accountants\n\n\t\n\n3\n\n\n\n\nACCT4251\n\n\t\n\nRegulation and Compliance in the Financial Markets\n\n\t\n\n3\n\n\n\n\nACCT4252\n\n\t\n\nCorporate Insolvency and Restructuring\n\n\t\n\n3\n\n\n\n\nACCT4253\n\n\t\n\nChinese Legal Environment for Business\n\n\t\n\n3\n\n\n\n\nACCT4261\n\n\t\n\nTaxes and Business Strategy\n\n\t\n\n3\n\n\n\n\nACCT4262\n\n\t\n\nChina Taxation\n\n\t\n\n3\n\n\n\n\nACCT4263\n\n\t\n\nInternational Taxation\n\n\t\n\n3\n\n\n\n\nACCT4271\n\n\t\n\nCorporate Governance\n\n\t\n\n3\n\n\n\n\nACCT4272\n\n\t\n\nESG and Sustainability Accounting\n\n\t\n\n3\n\n\n\n\nACCT4281\n\n\t\n\nApplied Accounting and Financial Strategies\n\n\t\n\n3\n\n\n\n\nACCT4282\n\n\t\n\nReporting Issues in Financial Services Industry\n\n\t\n\n3\n\n\n\n\nACCT4290\n\n\t\n\nProfessional Accounting Internship\n\n\t\n\n3\n\n\n\n\n \n\n \n\n\n \n\nStudy Scheme\n\n\nLearning Outcomes\n \n\n\t\n\n1.          Major Programme:\n\nUpon completion of the Programme, students will:\n\n(1)   have effective business communication skills needed by accounting professionals (S);\n\n(2)   be able to solve business problems by analyzing, interpreting accounting, financial and other business information (K/S);\n\n(3)   have the ability to integrate business knowledge and solve accounting problems in a business environment (K/S);\n\n(4)   understand and identify business issues in a global environment (K/S);\n\n(5)   be aware of the ethical issues in relation to accounting practices (V).\n\nK = Knowledge outcomes  S = Skills outcomes  V = Values and attitudes outcomes\n\n \n\n \n\n \n\n \n\n\n"
+}

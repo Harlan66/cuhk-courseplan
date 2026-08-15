@@ -1,0 +1,1335 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-08-15T16:16:44.100310+00:00",
+  "purpose": "Machine-readable source extraction for the CUHK Business School 2026-27 guideline.",
+  "documents": [
+    {
+      "source_file": "data/curriculum/CUHK-Business-School-Guidelines-2026-27.pdf",
+      "source_sha_note": "Verify course codes against the page-level raw text before use.",
+      "metadata": {
+        "title": "Students are required to complete a minimum of 68 to 71 units as required by the individual concentration area",
+        "author": "Esther Li",
+        "producer": "Adobe PDF Library 11.0",
+        "page_count": 15
+      },
+      "extraction": {
+        "method": "pdfplumber_text_layer",
+        "quality": "text_layer_available",
+        "pages_needing_ocr": []
+      },
+      "course_mentions": [
+        {
+          "course_code": "ACCT2111",
+          "page": 4
+        },
+        {
+          "course_code": "ACCT2121",
+          "page": 4
+        },
+        {
+          "course_code": "ACCT2151",
+          "page": 4
+        },
+        {
+          "course_code": "DOTE1030",
+          "page": 4
+        },
+        {
+          "course_code": "DOTE1040",
+          "page": 4
+        },
+        {
+          "course_code": "DOTE2011",
+          "page": 4
+        },
+        {
+          "course_code": "DOTE2030",
+          "page": 4
+        },
+        {
+          "course_code": "DOTE2051",
+          "page": 4
+        },
+        {
+          "course_code": "FINA2010",
+          "page": 4
+        },
+        {
+          "course_code": "IBBA3040",
+          "page": 4
+        },
+        {
+          "course_code": "MGNT1020",
+          "page": 4
+        },
+        {
+          "course_code": "MGNT2511",
+          "page": 4
+        },
+        {
+          "course_code": "MGNT2512",
+          "page": 4
+        },
+        {
+          "course_code": "MGNT2611",
+          "page": 4
+        },
+        {
+          "course_code": "MGNT4010",
+          "page": 4
+        },
+        {
+          "course_code": "MKTG2010",
+          "page": 4
+        },
+        {
+          "course_code": "MKTG2000",
+          "page": 8
+        },
+        {
+          "course_code": "MKTG3000",
+          "page": 8
+        },
+        {
+          "course_code": "DOTE2021",
+          "page": 9
+        },
+        {
+          "course_code": "DOTE3000",
+          "page": 9
+        },
+        {
+          "course_code": "DOTE3010",
+          "page": 9
+        },
+        {
+          "course_code": "DOTE3030",
+          "page": 9
+        },
+        {
+          "course_code": "FINA2020",
+          "page": 9
+        },
+        {
+          "course_code": "MGNT1070",
+          "page": 9
+        },
+        {
+          "course_code": "MGNT2040",
+          "page": 9
+        },
+        {
+          "course_code": "MGNT3010",
+          "page": 9
+        },
+        {
+          "course_code": "MGNT3040",
+          "page": 9
+        },
+        {
+          "course_code": "MGNT3080",
+          "page": 9
+        },
+        {
+          "course_code": "MGNT3580",
+          "page": 9
+        },
+        {
+          "course_code": "MKTG3010",
+          "page": 9
+        },
+        {
+          "course_code": "MKTG3020",
+          "page": 9
+        },
+        {
+          "course_code": "MKTG3040",
+          "page": 9
+        },
+        {
+          "course_code": "MKTG4120",
+          "page": 9
+        },
+        {
+          "course_code": "ACCT2111",
+          "page": 10
+        },
+        {
+          "course_code": "ACCT2151",
+          "page": 10
+        },
+        {
+          "course_code": "ACCT3151",
+          "page": 10
+        },
+        {
+          "course_code": "DOTE2021",
+          "page": 10
+        },
+        {
+          "course_code": "IBBA3040",
+          "page": 10
+        },
+        {
+          "course_code": "MGNT2511",
+          "page": 10
+        },
+        {
+          "course_code": "MGNT3010",
+          "page": 10
+        },
+        {
+          "course_code": "DOTE1021",
+          "page": 12
+        },
+        {
+          "course_code": "DOTE1030",
+          "page": 12
+        },
+        {
+          "course_code": "DOTE2011",
+          "page": 12
+        },
+        {
+          "course_code": "DOTE2021",
+          "page": 12
+        },
+        {
+          "course_code": "DOTE2040",
+          "page": 12
+        },
+        {
+          "course_code": "DOTE3010",
+          "page": 12
+        },
+        {
+          "course_code": "DOTE3011",
+          "page": 12
+        },
+        {
+          "course_code": "DOTE3030",
+          "page": 12
+        },
+        {
+          "course_code": "DOTE3050",
+          "page": 12
+        },
+        {
+          "course_code": "DOTE3080",
+          "page": 12
+        },
+        {
+          "course_code": "DOTE4020",
+          "page": 12
+        },
+        {
+          "course_code": "DOTE4070",
+          "page": 12
+        },
+        {
+          "course_code": "DOTE4110",
+          "page": 12
+        },
+        {
+          "course_code": "DOTE4220",
+          "page": 12
+        },
+        {
+          "course_code": "DOTE4240",
+          "page": 12
+        },
+        {
+          "course_code": "DOTE4260",
+          "page": 12
+        },
+        {
+          "course_code": "DOTE4280",
+          "page": 12
+        },
+        {
+          "course_code": "ECON2121",
+          "page": 12
+        },
+        {
+          "course_code": "FINA2010",
+          "page": 12
+        },
+        {
+          "course_code": "FINA2200",
+          "page": 12
+        },
+        {
+          "course_code": "FINA2230",
+          "page": 12
+        },
+        {
+          "course_code": "FINA3010",
+          "page": 12
+        },
+        {
+          "course_code": "FINA3020",
+          "page": 12
+        },
+        {
+          "course_code": "FINA3030",
+          "page": 12
+        },
+        {
+          "course_code": "FINA3040",
+          "page": 12
+        },
+        {
+          "course_code": "FINA3060",
+          "page": 12
+        },
+        {
+          "course_code": "FINA3070",
+          "page": 12
+        },
+        {
+          "course_code": "FINA3080",
+          "page": 12
+        },
+        {
+          "course_code": "FINA3090",
+          "page": 12
+        },
+        {
+          "course_code": "FINA3210",
+          "page": 12
+        },
+        {
+          "course_code": "FINA3220",
+          "page": 12
+        },
+        {
+          "course_code": "FINA3221",
+          "page": 12
+        },
+        {
+          "course_code": "FINA3222",
+          "page": 12
+        },
+        {
+          "course_code": "FINA3230",
+          "page": 12
+        },
+        {
+          "course_code": "FINA3240",
+          "page": 12
+        },
+        {
+          "course_code": "FINA3250",
+          "page": 12
+        },
+        {
+          "course_code": "FINA3290",
+          "page": 12
+        },
+        {
+          "course_code": "FINA3295",
+          "page": 12
+        },
+        {
+          "course_code": "FINA3310",
+          "page": 12
+        },
+        {
+          "course_code": "FINA3320",
+          "page": 12
+        },
+        {
+          "course_code": "FINA3330",
+          "page": 12
+        },
+        {
+          "course_code": "FINA3340",
+          "page": 12
+        },
+        {
+          "course_code": "FINA3350",
+          "page": 12
+        },
+        {
+          "course_code": "FINA3360",
+          "page": 12
+        },
+        {
+          "course_code": "STAT2001",
+          "page": 12
+        },
+        {
+          "course_code": "STAT2006",
+          "page": 12
+        },
+        {
+          "course_code": "FINA2010",
+          "page": 13
+        },
+        {
+          "course_code": "FINA2210",
+          "page": 13
+        },
+        {
+          "course_code": "FINA2220",
+          "page": 13
+        },
+        {
+          "course_code": "FINA3070",
+          "page": 13
+        },
+        {
+          "course_code": "FINA3080",
+          "page": 13
+        },
+        {
+          "course_code": "FINA3220",
+          "page": 13
+        },
+        {
+          "course_code": "FINA3221",
+          "page": 13
+        },
+        {
+          "course_code": "FINA3222",
+          "page": 13
+        },
+        {
+          "course_code": "FINA3370",
+          "page": 13
+        },
+        {
+          "course_code": "FINA3398",
+          "page": 13
+        },
+        {
+          "course_code": "FINA3399",
+          "page": 13
+        },
+        {
+          "course_code": "FINA3420",
+          "page": 13
+        },
+        {
+          "course_code": "FINA4010",
+          "page": 13
+        },
+        {
+          "course_code": "FINA4020",
+          "page": 13
+        },
+        {
+          "course_code": "FINA4030",
+          "page": 13
+        },
+        {
+          "course_code": "FINA4040",
+          "page": 13
+        },
+        {
+          "course_code": "FINA4050",
+          "page": 13
+        },
+        {
+          "course_code": "FINA4060",
+          "page": 13
+        },
+        {
+          "course_code": "FINA4110",
+          "page": 13
+        },
+        {
+          "course_code": "FINA4120",
+          "page": 13
+        },
+        {
+          "course_code": "FINA4130",
+          "page": 13
+        },
+        {
+          "course_code": "FINA4140",
+          "page": 13
+        },
+        {
+          "course_code": "FINA4150",
+          "page": 13
+        },
+        {
+          "course_code": "FINA4160",
+          "page": 13
+        },
+        {
+          "course_code": "FINA4190",
+          "page": 13
+        },
+        {
+          "course_code": "FINA4210",
+          "page": 13
+        },
+        {
+          "course_code": "FINA4211",
+          "page": 13
+        },
+        {
+          "course_code": "FINA4220",
+          "page": 13
+        },
+        {
+          "course_code": "FINA4221",
+          "page": 13
+        },
+        {
+          "course_code": "FINA4250",
+          "page": 13
+        },
+        {
+          "course_code": "FINA4280",
+          "page": 13
+        },
+        {
+          "course_code": "FINA4310",
+          "page": 13
+        },
+        {
+          "course_code": "FINA4320",
+          "page": 13
+        },
+        {
+          "course_code": "FINA4330",
+          "page": 13
+        },
+        {
+          "course_code": "FINA4340",
+          "page": 13
+        },
+        {
+          "course_code": "FINA4350",
+          "page": 13
+        },
+        {
+          "course_code": "FINA4370",
+          "page": 13
+        },
+        {
+          "course_code": "STAT2001",
+          "page": 13
+        },
+        {
+          "course_code": "DOTE2010",
+          "page": 14
+        },
+        {
+          "course_code": "DOTE2011",
+          "page": 14
+        },
+        {
+          "course_code": "FINA2010",
+          "page": 14
+        },
+        {
+          "course_code": "FINA3020",
+          "page": 14
+        },
+        {
+          "course_code": "FINA3080",
+          "page": 14
+        },
+        {
+          "course_code": "FINA4380",
+          "page": 14
+        },
+        {
+          "course_code": "FINA4390",
+          "page": 14
+        },
+        {
+          "course_code": "FINA4400",
+          "page": 14
+        },
+        {
+          "course_code": "FINA4410",
+          "page": 14
+        },
+        {
+          "course_code": "FINA4420",
+          "page": 14
+        },
+        {
+          "course_code": "FINA4430",
+          "page": 14
+        },
+        {
+          "course_code": "HTMG1010",
+          "page": 14
+        },
+        {
+          "course_code": "MGNT1010",
+          "page": 14
+        },
+        {
+          "course_code": "MGNT1020",
+          "page": 14
+        },
+        {
+          "course_code": "MGNT1070",
+          "page": 14
+        },
+        {
+          "course_code": "MGNT2040",
+          "page": 14
+        },
+        {
+          "course_code": "MGNT2070",
+          "page": 14
+        },
+        {
+          "course_code": "MGNT2510",
+          "page": 14
+        },
+        {
+          "course_code": "MGNT3010",
+          "page": 14
+        },
+        {
+          "course_code": "MGNT3040",
+          "page": 14
+        },
+        {
+          "course_code": "MGNT3060",
+          "page": 14
+        },
+        {
+          "course_code": "MGNT3070",
+          "page": 14
+        },
+        {
+          "course_code": "MGNT3080",
+          "page": 14
+        },
+        {
+          "course_code": "MGNT3090",
+          "page": 14
+        },
+        {
+          "course_code": "MGNT3100",
+          "page": 14
+        },
+        {
+          "course_code": "MGNT3580",
+          "page": 14
+        },
+        {
+          "course_code": "MGNT4050",
+          "page": 14
+        },
+        {
+          "course_code": "MGNT4070",
+          "page": 14
+        },
+        {
+          "course_code": "MGNT4080",
+          "page": 14
+        },
+        {
+          "course_code": "MGNT4090",
+          "page": 14
+        },
+        {
+          "course_code": "MGNT4130",
+          "page": 14
+        },
+        {
+          "course_code": "MGNT4150",
+          "page": 14
+        },
+        {
+          "course_code": "MKTG2010",
+          "page": 14
+        },
+        {
+          "course_code": "MKTG3010",
+          "page": 14
+        },
+        {
+          "course_code": "MKTG3020",
+          "page": 14
+        },
+        {
+          "course_code": "MKTG3030",
+          "page": 14
+        },
+        {
+          "course_code": "MKTG3040",
+          "page": 14
+        },
+        {
+          "course_code": "MKTG3050",
+          "page": 14
+        },
+        {
+          "course_code": "MKTG3060",
+          "page": 14
+        },
+        {
+          "course_code": "MKTG4010",
+          "page": 14
+        },
+        {
+          "course_code": "MKTG4020",
+          "page": 14
+        },
+        {
+          "course_code": "MKTG4030",
+          "page": 14
+        },
+        {
+          "course_code": "MKTG4040",
+          "page": 14
+        },
+        {
+          "course_code": "MKTG4050",
+          "page": 14
+        },
+        {
+          "course_code": "MKTG4070",
+          "page": 14
+        },
+        {
+          "course_code": "MKTG4080",
+          "page": 14
+        },
+        {
+          "course_code": "MKTG4090",
+          "page": 14
+        },
+        {
+          "course_code": "MKTG4110",
+          "page": 14
+        },
+        {
+          "course_code": "MKTG4120",
+          "page": 14
+        },
+        {
+          "course_code": "MKTG4150",
+          "page": 14
+        },
+        {
+          "course_code": "STAT2006",
+          "page": 14
+        },
+        {
+          "course_code": "MGNT1020",
+          "page": 15
+        },
+        {
+          "course_code": "MGNT4170",
+          "page": 15
+        },
+        {
+          "course_code": "MGNT4510",
+          "page": 15
+        },
+        {
+          "course_code": "MGNT4540",
+          "page": 15
+        },
+        {
+          "course_code": "MGNT4570",
+          "page": 15
+        },
+        {
+          "course_code": "MKTG2010",
+          "page": 15
+        },
+        {
+          "course_code": "MKTG4170",
+          "page": 15
+        },
+        {
+          "course_code": "MKTG4180",
+          "page": 15
+        },
+        {
+          "course_code": "MKTG4190",
+          "page": 15
+        },
+        {
+          "course_code": "MKTG4200",
+          "page": 15
+        },
+        {
+          "course_code": "MTKG4160",
+          "page": 15
+        }
+      ],
+      "pages": [
+        {
+          "page": 1,
+          "text": "The Chinese University of Hong Kong\nCUHK Business School\nUndergraduate Office\nIntegrated BBA Programme\nInformation on Concentration Selection\nin 2026-27\nFor All IBBA Students\nA. Content\nAppendix Title\n1 Guidelines on Concentration Selection\n2 Recommended Course Patterns\n3 (a) Concentration Areas\n(b) Concentration Area Requirements\n4 Information on Concentration Application for 2026-27\n5 Available Major Elective Courses coded DOTE/ FINA/ MGNT/\nMKTG in 2026-27 (tentative)\nB. Enquiry\nPlease email to cuhkbba@cuhk.edu.hk.",
+          "headings": [
+            "The Chinese University of Hong Kong",
+            "CUHK Business School",
+            "Undergraduate Office",
+            "Integrated BBA Programme",
+            "Information on Concentration Selection",
+            "For All IBBA Students",
+            "Appendix Title",
+            "MKTG in 2026-27 (tentative)"
+          ],
+          "course_codes": [],
+          "extraction_status": "text_extracted"
+        },
+        {
+          "page": 2,
+          "text": "App. 1\nThe Chinese University of Hong Kong\nCUHK Business School\nUndergraduate Office\nIntegrated BBA Programme\nGuidelines on Concentration Selection\nA. About double concentrations\nThe BA Faculty encourages its most capable students to take two concentrations. This helps to\ndifferentiate an individual by providing them with a wider scope of knowledge and information. It\nalso highlights one’s time management and ability to comprehend different fields of expertise.\nStudents who do double concentrations come out with a highly competitive edge.\nTo successfully manage double concentrations, you should note several critical considerations.\nPlanning your coming years of study carefully will help you make sure that are maximizing the\ntime you spend here. The following guidelines will help you in your decision-making.\nB. Selecting a concentration\n1. Interest – Are you eager to acquire more knowledge in this concentration?\n2. Ability – Are you confident in your abilities to excel in this concentration?\n3. Career aspirations – Are you planning to pursue a career related to this concentration?\n4. Future development – Does this concentration align with your future career and personal\ndevelopment plans?\n5. Personal commitment/responsibility –Will you be able to commit the effort to excel in this\nconcentration? Will you be able to face problems that you may encounter?\nC. Reasons to take a single concentration\n1. You do not find a second subject that interests you.\n2. You plan to spend a significant portion of your time in various extracurricular activities.\n3. You are heavily engaged in a personal commitment.\n4. You are doing a minor programme.\n5. You have been admitted to or plan to participate in the Leadership Development\nProgramme.\n6. You would find it too challenging to manage your time.",
+          "headings": [
+            "App. 1",
+            "The Chinese University of Hong Kong",
+            "CUHK Business School",
+            "Undergraduate Office",
+            "Integrated BBA Programme",
+            "Guidelines on Concentration Selection"
+          ],
+          "course_codes": [],
+          "extraction_status": "text_extracted"
+        },
+        {
+          "page": 3,
+          "text": "D. Who should take double concentrations?\n1. You are highly competitive.\n2. You plan and organize your time well.\n3. You have a strong interest in learning about another field.\n4. You have clear personal study objectives/plan and are very sure of the path that you want\nto take.\n5. You are not having difficulty in handling your current course load.\n6. You previous term(s) academic results are strong.\nE. Important points to note\n1. Students should refer to the study scheme of their admission years for the requirements of\nconcentrations. The study scheme can be found at\nhttp://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/tt_dsp_acad_prog.aspx.\n2. One course cannot be used to fulfill the requirements of two concentration areas except\nfor specific courses as stipulated in the explanatory notes of the study scheme.\n3. Students are allowed to claim exemption of up to two courses within each declared\nconcentration area based on those course(s) completed during overseas exchange.\n4. If students do not declare their concentration under CUSIS during their graduation term,\nthe Registration and Examination Section (RES) will be unable to perform the graduation\ncheck for the fulfilment of graduation requirements.\nF. Planning for success\n1. Due to the limitations of timetable scheduling, there may be a higher possibility of\nclashing schedules between courses across different concentration areas. Enrollment\nin courses for any concentration areas will NOT be guaranteed. Taking concentration\ncourses starting from Year 2 is highly recommended.\n2. Prerequisites required for advanced courses should be carefully identified.\n3. Keep track of your progress.",
+          "headings": [],
+          "course_codes": [],
+          "extraction_status": "text_extracted"
+        },
+        {
+          "page": 4,
+          "text": "App. 2\nThe Chinese University of Hong Kong\nCUHK Business School\nUndergraduate Office\nIntegrated BBA Programme\nRecommended Course Patterns\nApplicable for Major Students admitted from 2025-26 (for reference only)\nOpting for Single Concentration\nYear 1: DOTE1030, DOTE1040, MGNT1020 and MGNT2511. 10 units\nYear 2: ACCT2111, DOTE2011, IBBA3040, MKTG2010, ACCT2121, FINA2010 and one\n20 units\nconcentration course.\nYear 3: ACCT2151 or 3151, DOTE2030, DOTE2051, MGNT2611 and two concentration courses. 16-17 units\nYear 4: MGNT2512, MGNT4010 and two to three concentration courses. 10-13 units\nTotal: 56-60 units\nOpting for Double Concentrations\nYear 1: DOTE1030, DOTE1040, MGNT1020 and MGNT2511. 10 units\nYear 2: ACCT2111, DOTE2011, IBBA3040, MKTG2010, ACCT2121, FINA2010 and two\n23 units\nconcentration courses.\nYear 3: ACCT2151 or 3151, DOTE2030, DOTE2051, MGNT2611 and three concentration courses. 19-20 units\nYear 4: MGNT2512, MGNT4010 and five to seven concentration courses. 19-25 units\nTotal: 71-78 units",
+          "headings": [
+            "App. 2",
+            "The Chinese University of Hong Kong",
+            "CUHK Business School",
+            "Undergraduate Office",
+            "Integrated BBA Programme",
+            "Recommended Course Patterns",
+            "Applicable for Major Students admitted from 2025-26 (for reference only)",
+            "Opting for Single Concentration",
+            "Year 2: ACCT2111, DOTE2011, IBBA3040, MKTG2010, ACCT2121, FINA2010 and one",
+            "Total: 56-60 units",
+            "Opting for Double Concentrations",
+            "Year 2: ACCT2111, DOTE2011, IBBA3040, MKTG2010, ACCT2121, FINA2010 and two",
+            "Total: 71-78 units"
+          ],
+          "course_codes": [
+            "ACCT2111",
+            "ACCT2121",
+            "ACCT2151",
+            "DOTE1030",
+            "DOTE1040",
+            "DOTE2011",
+            "DOTE2030",
+            "DOTE2051",
+            "FINA2010",
+            "IBBA3040",
+            "MGNT1020",
+            "MGNT2511",
+            "MGNT2512",
+            "MGNT2611",
+            "MGNT4010",
+            "MKTG2010"
+          ],
+          "extraction_status": "text_extracted"
+        },
+        {
+          "page": 5,
+          "text": "App. 3a\nCUHK BUSINESS SCHOOL 香港中文大學工商管理學院\nINTEGRATED BBA PROGRAMME工商管理學士綜合課程\nCONCENTRATION AREAS專修範圍簡介\nDepartment of Decisions, Operations and Technology 決策、營運與科技學系\nBusiness Analytics (BAN) [Academic Advisor for 2025-26: Prof. ZHANG Renyu Philip, DOTE\nDepartment]\nModern businesses need to make managerial decisions in the presence of vast amount of information\ngenerated through technology-based transactions in various business processes. These organizations\nuse data management, statistical methods and quantitative modeling skills to analyze their internal and\nexternal business environments and gain strategic advantages over their competitors. This\nconcentration will equip students with knowledge and tools that can help them derive useful\ninformation from business data and utilize the information intelligently in making faster and more\neffective business decisions.\n商務分析 (BAN)\n在各類商業活動中，隨着當代科技被廣泛應用並幫助記錄大量信息，企業管理層需\n要依據這些信息相應地作出決策。通過運用數據管理、統計方法和定量建模等工\n具，企業可以分析它們所處之商業環境，從而在行業競爭中取得戰略優勢。本專修\n範圍將培訓學生如何從商業數據中提取有價值的信息，並合理地運用這些信息以作\n出快速有效的商業決策。\nBusiness Economics (BEC) [Academic Advisor for 2025-26: Dr. YUEN Chi Lok Andrew, DOTE\nDepartment]\nIn order to maintain a competitive edge, business leaders are required to have an in-depth understanding\nof the dynamic environment in which it operates and the ability to quickly come up with insights and\nsolutions. The structured programme of this concentration is designed for those seeking to apply\nmanagerial economics to solving problems and understanding real-world business environments.\nCourses in this concentration provide an economic perspective on how enterprises operate in a market\nenvironment, particularly in corporate strategy formulation and decision-making. Emphasis will be on\nthe application of economic principles and theories to major business decisions. Advanced\nmacroeconomics and its applications on global economy will also be discussed.\n商業經濟學 (BEC)\n在充滿挑戰和機遇的環境中，商業領袖必須深入了解營商環境，隨機應變，方能維\n持企業競爭力。本範疇的課程設計，旨在教授同學運用企業經濟學了解營商環境，\n及解決其中主要問題。本範疇涵蓋企業運作的經濟理念，講解在特定的市場環境\n中，企業如何作制定決策和決定，特別著重重大商業決定背後應用的經濟原理。課\n程亦包括高階宏觀經濟學及其於環球經濟的應用。\nDepartment of Finance 金融學系\nFinance (FIN) [Academic Advisor for 2025-26: Dr. YUNG Hei Ming Haynes, FINA Department]\nThe Finance concentration consists of a comprehensive curriculum in finance, which covers\nmainstream subjects such as corporate finance, financial engineering, and financial institutions, and",
+          "headings": [
+            "CUHK BUSINESS SCHOOL 香港中文大學工商管理學院",
+            "INTEGRATED BBA PROGRAMME工商管理學士綜合課程",
+            "CONCENTRATION AREAS專修範圍簡介",
+            "Department of Decisions, Operations and Technology 決策、營運與科技學系",
+            "Department]",
+            "Department]",
+            "Department of Finance 金融學系",
+            "The Finance concentration consists of a comprehensive curriculum in finance, which covers"
+          ],
+          "course_codes": [],
+          "extraction_status": "text_extracted"
+        },
+        {
+          "page": 6,
+          "text": "related subjects such as insurance and real estate. To meet the need of different students, the Finance\nDepartment offers a long list of courses for this concentration. In response to the needs of Hong Kong\nand Mainland China's financial markets, course coverage is very much biased towards the Hong Kong\nand Mainland institutional environment. However, students will also be exposed to international issues\nand practices. Graduates with this concentration can work in business and finance areas or pursue\nadvanced studies in finance.\n金融學 (FIN)\n金融學全面涵蓋金融學的各個範疇，包括企業金融、金融工程學和金融機構等核心\n課題及保險和地產等相關課題。本範疇提供眾多課程供同學選擇，以迎合不同同學\n的需要。因應香港和內地的金融市場所需，課程特別著重香港和內地的制度環境。\n當然，國際問題和國際做法也會兼顧。本範疇畢業生將來可投身商界和金融界，或\n深造金融學。\nDepartment of Management管理學系\nHuman Resource Management (HRM) [Academic Advisor for 2025-26: Dr. TSUI Po Yung Anna,\nMGNT Department]\nThe Human Resource Management Concentration instills in students a systematic approach to\nmanaging organizations through the functions of planning and staffing, developing, motivating and\nretaining human resources. Students also learn the importance of leadership development, consulting\nand change management in enhancing organizational performance. Besides the core understanding of\norganizational behavior and human capital management, several professional human resource\nmanagement courses, such as Human Resource Planning and Staffing, Human Capital Training and\nDevelopment, Leadership Development as well as Management Consulting and Change Management\nare offered.\n人力資源管理學 (HRM)\n本範疇教授同學採用有系統的方法、學習人力資源的規劃和員工配置、培訓、激勵\n和保留去管理機構。同學亦會認識到 培育領導力及諮詢和變革管理的重要性，改進\n機構表現。除了講解人力資本管理和組織行為的核心課程，本範疇還包括數門人力\n資源管理課程，例如人力資源規劃與員工配置、人力資源培訓、領導力的培育、諮\n詢和變革管理等。\nManagement of International Business (MIB) [Academic Advisor for 2025-26: Dr. NG Wing Fung\nFrank, MGNT Department]\nWith a team of top ranked international business faculty and continuous commitment in offering\nunparalleled international business education, the MIB concentration has been welcome by students who\ndesire to work overseas or in a globally-connected organization, develop a global and\nculturally-sensitive business mindset, as well as leverage business opportunities and mitigate problems\narising from differences in countries and cultures. The MIB concentration holds a vision to prepare\nstudents for a career capitalizing on a global business worldview and opportunities spanning across\nborders. The unprecedented curriculum is composed of progressive and transformative learning with\ncourses that are designed to engage students in understanding global business environments, solving\nstrategic and management issues related to multi-cultural businesses or multinational corporations, as\nwell as keeping updated about current thematic global management concerns. In addition, MIB\nstudents will have vast inter-cultural interactions and networking opportunities via various experiential\nlearning initiatives throughout the curriculum. Students graduating from the concentration are adroit at\nleading teams and organizations in the global economy.\n國際企業管理學 (MIB)\n擁有著一支領導國際商業研究及不斷致力提供優質國際商業教育的團隊，國際企業\n管理學(MIB) 深受一群希望在海外或國際性企業工作、培養全球和文化敏感度高 的\n商業思維、及借助 國家和文化差異營造 商機和解決 問題的學生歡迎。 MIB 課程為\n學生建立一個從跨越國界的全球商業世界觀和機遇中獲益的事業作準備。 這與別不\n同的課程是由漸進性和變革性的學習組成，課程旨在讓學生瞭解全球商業環境、解",
+          "headings": [
+            "Department of Management管理學系",
+            "MGNT Department]",
+            "The Human Resource Management Concentration instills in students a systematic approach to",
+            "Development, Leadership Development as well as Management Consulting and Change Management",
+            "Frank, MGNT Department]"
+          ],
+          "course_codes": [],
+          "extraction_status": "text_extracted"
+        },
+        {
+          "page": 7,
+          "text": "決與多元文化業務 或跨國企業相關的策略和管理問題、以及探討當前全球管理的最\n新專題。此外，在整個課程中，學生將通過各種體驗式學習活動進行廣泛的跨文化\n互動和建立網路的機會。從這課程 畢業的學生特別善於領導全球經濟中的團隊和 企\n業。\nEntrepreneurship (ENT) [Academic Advisor for 2025-26: Dr. TONG Toni Maria, MGNT\nDepartment]\nThe Entrepreneurship Concentration (or the DING programme) centers on the mission “to put a ding in\nthe universe.” The concentration aims to equip students with a mindset and competence to create\nand/or lead an innovative organization around the world. The curriculum kicks off by entrepreneurial\n\"D\"iscovery with courses for the development of entrepreneurial mindset and strategic opportunity\nrecognition and exploitation. The second stage focuses on “Innovativeness”, “Newness”, and “Growth”:\nhow new business ideas and products can be developed to take advantage of multiple sources of\ninnovation such that new or existing organizations can grow and sustain in dynamic and competitive\nenvironments. The curriculum will wrap up by a capstone course that aims at providing experiential\nlearning to students to have real entrepreneurship practice and opportunities for networking. This\nconcentration prepares students for the success of exciting career in professions (in technology sector,\nbusiness consultancy, global and digital economy, and social enterprises or non-profit organizations),\nand life-goal pursuit that requires solid knowledge of entrepreneurship complemented by concrete skills\nand experiences.\n創業學 (ENT)\n創業學( 或 DING 課程) 圍繞著“為世界帶來改變”這中心使命。本範疇的目的是\n使學生具備在世界各地創建和領導創新組織的心態和能力。課程由創業 \"發現\"\n(\"D\"iscovery)啟動，來培養創業思維及策略機會的認可和應用。第二階段的重點是\n\"創新\" (\"I\"nnovativeness)、\"嶄新\" (\"N\"ewness) 和 \"增新\" (\"G\"rowth): 如何開發新\n的商業理念和產品，以利用多種創新來源，使初創或現有的企業能夠在不斷變化和\n充滿競爭的環境下成長和持續。課程將以一個頂峰項目課程完結。該課程旨在為學\n生提供體驗式學習，使他們有真正的創業實踐和建立網路的機會。本課程為學生成\n功在科技領域、諮詢服務、全球和數據經濟及社會企業或非營利組織的事業上作好\n準備，並輔助他們在人生目標追求上，獲得紮 實的創業知識，以及具體的技能和經\n驗。\nDepartment of Marketing市場學系\nMarketing (MKT) [Academic Advisor for 2025-26: Dr. LEE Kenneth Justin, MKTG Department]\nEmbark on an exhilarating journey into the world of marketing, perfect for those ignited by the spark\nof integrated marketing communications, advertising, brand management, and strategic marketing. Our\nmarketing concentration isn't just about learning; it's about experiencing the electric blend of\nmarketing theories and real-world practices.\nStep outside the classroom into a dynamic realm where you'll collaborate on projects with international\ncorporations, soak up knowledge at seminars by esteemed business leaders, and explore the inner\nworkings of those top influential companies. We're here to nurture your inherent potential and guide\nyou to become a trailblazer in the marketing sphere.\n市場學 (MKT)\n市場學非常適合那些對整合營銷傳播、廣告、品牌管理和戰略營銷充滿熱誠的人，\n它將使你踏上一場振奮人心的市場營銷之旅。它不僅僅是單純的課程學習，更是體\n驗市場營銷理論與實際操作的完美結合。\n走出課堂，你將進入一個充滿活力的領域。在這裏，您將與國際公司合作進行項目，\n吸收尊敬的商業領袖舉辦的研討會的知識，並探索最具有影響力的公司的運作模\n式。我們在這裏培養您與生俱來的潛力，並指導您成為市場營銷領域的開拓者。",
+          "headings": [
+            "Department]",
+            "Department of Marketing市場學系"
+          ],
+          "course_codes": [],
+          "extraction_status": "text_extracted"
+        },
+        {
+          "page": 8,
+          "text": "Big Data and Quantitative Marketing (BQM) [Academic Advisor for 2025-26: Prof. LIAO Chenxi,\nMKTG Department]\nIn the big data era, many organizations collect and maintain huge amount of customer data which can be\nanalyzed and applied to support marketing decisions. There is a strong demand in Hong Kong and the\nrest of Greater China for quantitative marketers who are well-versed in data analytics, statistic modeling\nand computer science knowledge while they speak the language of marketing. In view of this new\nmarketing trend, the Department of Marketing has offered a new concentration focused on big data and\nquantitative marketing to BBA students since Fall 2010. This concentration prepares students for an\nexciting career to work as quantitative marketers, business analysts, internet marketers, and managers of\nBIU (Business Intelligence Unit) in various industries.\n大數據與計量營銷學(BQM)\n在現今資訊年代，很多機構都擁有海量顧客數據，並分析及應用數據攺進營銷策\n略。不論在香港或大中華其餘區域，量化營銷人員的需求日増。量化營銷人員不單\n了解大數據，掌握數據分折技術，更重要的是要懂得如何應用數據與科技於營銷。\n市場學系於 2010-2011 年度開始提供大數據與計量營銷範疇課程。同學畢業後可在\n不同行業從事量化營銷，互聯網營銷，「商業智能」經理等專業。\nIntegrated BBA Programme工商管理學士綜合課程\nGeneral Business (GEB)\n(i) 3 units of DOTE/FINA/MGNT/MKTG courses at 2000 or above level; and\n(ii) 12 units of DOTE/FINA/MGNT/MKTG courses at 3000 or above level, excluding the courses\ntaken for fulfillment of requirement (i), with no more than three 1-unit FINA courses\n綜合商務(GEB)\n(i) 從 DOTE/FINA/MGNT/MKTG 2000 或以上程度的科目選修 3 學分；及\n(ii) 從 DOTE/FINA/MGNT/MKTG 3000 或以上程度的科目選修 12 學分，已用作符\n合(i)之選修科目除外，當中不可選修多於三科 1 學分的 FINA 科目\n* For details, please refer to the “Requirements of Concentration Area” in Appendix 3b.\n* 詳情請參考附件3b“專修範圍之規定”.\nNote: The following combination of concentrations is impermissible:\n(1) Marketing + Big Data and Quantitative Marketing",
+          "headings": [
+            "MKTG Department]",
+            "Integrated BBA Programme工商管理學士綜合課程",
+            "General Business (GEB)",
+            "Note: The following combination of concentrations is impermissible:"
+          ],
+          "course_codes": [
+            "MKTG2000",
+            "MKTG3000"
+          ],
+          "extraction_status": "text_extracted"
+        },
+        {
+          "page": 9,
+          "text": "App. 3b\nThe Chinese University of Hong Kong\nCUHK Business School\nUndergraduate Office\nIntegrated BBA Programme\nRequirements of Concentration Area\n(Applicable for students admitted in 2025 -26)*\na Business Economics (BEC)\n(i) DOTE2021, 4110;\n(ii) 2 courses selected from: DOTE3000, 3011, 3030, 3050, 3080, 3090, 4040, 4080; and\n(iii) 1 DOTE course at 3000 or above level, excluding the courses taken for fulfillment of requirement (i)\nor (ii)\nb Business Analytics (BAN)\n(i) DOTE2021, 2040, 4020;\n(ii) 1 course selected from: DOTE3010, 4070, 4240, 4260; and\n(iii) 1 course selected from: DOTE3030, 4030, 4110, 4220, 4280, MKTG4120\nc Finance (FIN)\n(i) DOTE2021 or FINA2020; and\n(ii) 15 units selected from: DOTE3010, FINA courses at 3000 or above level (with no more than three\n1-unit FINA courses)\nd Entrepreneurship (ENT)\n(i) MGNT1070, 2070; and\n(ii) 4 courses selected from: DOTE3010, MGNT3080, 4070, 4090, 4130, 4160, 4170, 4270, 4570, 4711,\n4712, 4713\ne Management of International Business (MIB)\n(i) MGNT3580, 4150; and\n(ii) 4 courses selected from: DOTE3010, MGNT3010, 3080, 3100, 4080, 4090, 4110, 4130, 4140, 4510,\n4530, 4540, 4550, 4570\nf Human Resource Management (HRM)\n(i) MGNT2040, 3010; and\n(ii) 4 courses selected from: DOTE3010, MGNT3040, 3060, 3090, 3100, 4050, 4060, 4080, 4110, 4130,\n4140\ng Marketing (MKT)\n(i) MKTG3010, 3020, 3030, 4040; and\n(ii) 2 courses selected from: DOTE3010, MKTG3040, 3050, 4010, 4020, 4030, 4050, 4070, 4080, 4090,\n4110, 4160, 4200\nh Big Data and Quantitative Marketing (BQM)\n(i) MKTG3010, 3060, 4080, 4090; and\n(ii) 2 courses selected from: DOTE3010, MKTG3020, 4030, 4050, 4120, 4150, 4160, 4170, 4180, 4190,\n4200\ni General Business (GEB)\n(i) 3 units of DOTE/FINA/MGNT/MKTG courses at 2000 or above level; and\n(ii) 12 units of DOTE/FINA/MGNT/MKTG courses at 3000 or above level, excluding the courses taken\nfor fulfillment of requirement (i), with no more than three 1-unit FINA courses\nRemarks: One course cannot be used to fulfill the requirements of two concentration areas except for specific\ncourses as stipulated in the explanatory notes of the study scheme (please refer to the next page).",
+          "headings": [
+            "The Chinese University of Hong Kong",
+            "CUHK Business School",
+            "Undergraduate Office",
+            "Integrated BBA Programme",
+            "Requirements of Concentration Area"
+          ],
+          "course_codes": [
+            "DOTE2021",
+            "DOTE3000",
+            "DOTE3010",
+            "DOTE3030",
+            "FINA2020",
+            "MGNT1070",
+            "MGNT2040",
+            "MGNT3010",
+            "MGNT3040",
+            "MGNT3080",
+            "MGNT3580",
+            "MKTG3010",
+            "MKTG3020",
+            "MKTG3040",
+            "MKTG4120"
+          ],
+          "extraction_status": "text_extracted"
+        },
+        {
+          "page": 10,
+          "text": "Explanatory Notes:\n1. ACCT/DOTE/FINA/IBBA/MGNT/MKTG courses at 2000 and above level (excluding\nACCT2111, 2121, IBBA3040, MGNT2511 and 2512) will be included in the calculation of\nMajor GPA for honours classification.\n2. Double concentrations in Marketing and Big Data and Quantitative Marketing are not allowed.\n3. DOTE2021 and the associated units can be used to satisfy concentration requirements of double\nconcentrations within (a) to (c).\nMGNT3010 and the associated units can be used to satisfy concentration requirements of double\nconcentrations within (e) and (f).\n4. Courses taken for the concentration requirements of General Business Concentration cannot be\ncounted towards the requirements of concentrations (a) to (h).\n5. Students claiming Entrepreneurship Concentration are not allowed to declare Minor in\nEntrepreneurship and Innovation.\n[a] ACCT2151 and 3151 are mutually exclusive. Students who would like to pursue a career in\naccounting profession are advised to take ACCT3151 instead of ACCT2151.\n* For students admitted in other years, please refer to the study scheme at\nhttp://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/tt_dsp_acad_prog.aspx",
+          "headings": [
+            "Explanatory Notes:",
+            "ACCT2111, 2121, IBBA3040, MGNT2511 and 2512) will be included in the calculation of"
+          ],
+          "course_codes": [
+            "ACCT2111",
+            "ACCT2151",
+            "ACCT3151",
+            "DOTE2021",
+            "IBBA3040",
+            "MGNT2511",
+            "MGNT3010"
+          ],
+          "extraction_status": "text_extracted"
+        },
+        {
+          "page": 11,
+          "text": "App. 4\nThe Chinese University of Hong Kong\nCUHK Business School\nUndergraduate Office\nIntegrated BBA Programme\nInformation on Concentration Application for 2026-27\nA. Important notes\n1. All IBBA students admitted in 2025-26 are required to submit an Online “Study Plan for\nProposed Concentration Area in 2026-27” to the Undergraduate Office through the following\nweb site: <https://www3.baf.cuhk.edu.hk/studyplan/start.php> from Monday, 2 February\n2026, 9:00 a.m. onwards. The deadline for submission is Monday, 9 February 2026, 3:00\np.m.\n2. All the information is of vital importance to departments for planning the course offerings for\n2026-27 and beyond. It will be reflected in the planning of the course offerings by departments\nfor 2026-27 and thereafter.\n3. Students should declare the concentration in CUSIS when they have already registered ALL\nthe concentration courses. The application period for the declaration of concentration will be\nannounced by the Registration and Examination Section (RES) afterwards.\nB. Timelines\nDate (in 2026) Event Remarks\nEmail for Videos and Presentation\n2 Feb\nFiles of IBBA Concentration\nInformation for 2026-27 is available https://www3.baf.cuhk.edu.hk/studypla\nFrom 2 Feb\non the website n/start.php#note\nhttps://www3.baf.cuhk.edu.hk/studypla\nOnline submission of “Study Plan for\n9:00 am, 2 Feb (Mon) to n/start.php\nProposed Concentration Area in\n3:00 pm, 9 Feb (Mon) (The password is different from OnePass.\n2026-27”\nFor new users, please click \"Get or Forget\nPassword\".)\nYour submission will be proceeded for\nAfter 9 Feb planning the course offering for ------\n2026-27 and thereafter\nC. Enquiry\nPlease email to cuhkbba@cuhk.edu.hk.",
+          "headings": [
+            "App. 4",
+            "The Chinese University of Hong Kong",
+            "CUHK Business School",
+            "Undergraduate Office",
+            "Integrated BBA Programme",
+            "Information on Concentration Application for 2026-27",
+            "Proposed Concentration Area in 2026-27” to the Undergraduate Office through the following",
+            "Date (in 2026) Event Remarks",
+            "Email for Videos and Presentation",
+            "Files of IBBA Concentration",
+            "From 2 Feb",
+            "Online submission of “Study Plan for",
+            "Proposed Concentration Area in",
+            "For new users, please click \"Get or Forget",
+            "Your submission will be proceeded for",
+            "After 9 Feb planning the course offering for ------"
+          ],
+          "course_codes": [],
+          "extraction_status": "text_extracted"
+        },
+        {
+          "page": 12,
+          "text": "App. 5\nThe Chinese University of Hong Kong\nCUHK Business School\nUndergraduate Office\nAvailable Major Elective Courses coded DOTE/FINA/MGNT/MKTG\nin 2026-27 (tentative)\nAll courses below are 3 units each, except for courses with *. (* 1-unit course)\nDOTE FINA\nCourse\nCourse Code Title Prerequisite Title Prerequisite\nCode\nFINA2010 or 2310\nDOTE2040 Business Analytics --- FINA3010 Financial Markets\nor permission from instructor\nDOTE1021 or DOTE2011 or\nArtificial Intelligence Empowered ECON2121 or FINA2230 or FINA2010 or 2310\nDOTE3010 FINA3020 International Finance\nBusiness STAT2001 or permission from or permission from instructor\ninstructor\nBehavioural Economics and DOTE1030 or Management of Financial FINA2010 or 2310\nDOTE3011 FINA3030\nBusiness Decisions equivalent course Institutions or permission from instructor\nCentral Banking and Regulation of FINA2010 or 2310\nDOTE3030 Business Forecasting DOTE2011 and DOTE2021 FINA3040\nFinancial Institutions or permission from instructor\nFINA2010 or 2310\nDOTE3050 Global Economics DOTE1030 and 1040 FINA3060 Real Estate Finance and Investment\nor permission from instructor\nDOTE1030 and 1040 or Corporate Finance: Theory and FINA2010 or 2310\nDOTE3080 Macroeconomics for Managers FINA3070\nequivalent courses Practice or permission from instructor\nInvestment Analysis and Portfolio FINA2010 or 2310\nDOTE4020 Decision Modeling and Analytics --- FINA3080\nManagement or permission from instructor\nData Management and Big Data Understanding China’s Financial FINA3010 or 3080\nDOTE4070 --- FINA3090\nAnalytics System or permission from instructor\nFINA2010 or 2310\nDOTE4110 Economic Analytics DOTE1030 FINA3210 Risk Management and Insurance\nor permission from instructor\nDOTE2011 and DOTE2021\nData Mining for Business\nDOTE4220 or DOTE2011 and DOTE2040 FINA3220 Life Contingencies I FINA2200 or 2210\nIntelligence\nor permission of instructor.\nSupply Chain and Logistics Basic Long-term Actuarial\nDOTE4240 --- FINA3221 FINA2200 or 2210\nAnalytics Mathematics\nBasic Short-term Actuarial FINA2230 or STAT2006 or\nDOTE4260 Business Process Analytics --- FINA3222\nMathematics permission from instructor\nDOTE4280 Network and Security --- FINA3230 Life and Health Insurance FINA3210\nCorporate Property and Liability\nFINA3240 FINA3210\nInsurance\nFINA3250 Derivatives for Actuaries I ---\nFINA2230 or STAT2006\nFINA3290 Linear Models for Actuaries\nor permission from instructor\nAdvanced Statistical Modeling for DOTE2021 or FINA2230 or\nFINA3295 STAT2006 or permission\nInsurance and Finance from instructor\nFINA2010 or 2310\nFINA3310* Introduction to Investment Banking\nor permission from instructor\nFINA2010 or 2310\nFINA3320* Introduction to Credit Rating\nor permission from instructor\nIntroduction to Alternative FINA2010 or 2310\nFINA3330*\nInvestment or permission from instructor\nTrading Strategies: Behavioral and FINA2010 or 2310\nFINA3340*\nTechnical Analysis or permission from instructor\nFINA2010 or 2310\nFINA3350* Foreign Exchange Market Practices\nor permission from instructor\nDerivative Warrants, Proprietary FINA2010 or 2310\nFINA3360*\nand Arbitrage Trading Concepts or permission from instructor",
+          "headings": [
+            "App. 5",
+            "The Chinese University of Hong Kong",
+            "CUHK Business School",
+            "Undergraduate Office",
+            "Available Major Elective Courses coded DOTE/FINA/MGNT/MKTG",
+            "DOTE FINA",
+            "Course",
+            "Course Code Title Prerequisite Title Prerequisite",
+            "Code",
+            "FINA2010 or 2310",
+            "DOTE2040 Business Analytics --- FINA3010 Financial Markets",
+            "DOTE1021 or DOTE2011 or",
+            "Artificial Intelligence Empowered ECON2121 or FINA2230 or FINA2010 or 2310",
+            "DOTE3010 FINA3020 International Finance",
+            "Business STAT2001 or permission from or permission from instructor",
+            "Behavioural Economics and DOTE1030 or Management of Financial FINA2010 or 2310",
+            "DOTE3011 FINA3030",
+            "Business Decisions equivalent course Institutions or permission from instructor",
+            "Central Banking and Regulation of FINA2010 or 2310",
+            "DOTE3030 Business Forecasting DOTE2011 and DOTE2021 FINA3040",
+            "Financial Institutions or permission from instructor",
+            "FINA2010 or 2310",
+            "DOTE3050 Global Economics DOTE1030 and 1040 FINA3060 Real Estate Finance and Investment",
+            "DOTE1030 and 1040 or Corporate Finance: Theory and FINA2010 or 2310",
+            "DOTE3080 Macroeconomics for Managers FINA3070",
+            "Investment Analysis and Portfolio FINA2010 or 2310",
+            "DOTE4020 Decision Modeling and Analytics --- FINA3080",
+            "Management or permission from instructor",
+            "Data Management and Big Data Understanding China’s Financial FINA3010 or 3080",
+            "DOTE4070 --- FINA3090",
+            "Analytics System or permission from instructor",
+            "FINA2010 or 2310",
+            "DOTE4110 Economic Analytics DOTE1030 FINA3210 Risk Management and Insurance",
+            "DOTE2011 and DOTE2021",
+            "Data Mining for Business",
+            "DOTE4220 or DOTE2011 and DOTE2040 FINA3220 Life Contingencies I FINA2200 or 2210",
+            "Intelligence",
+            "Supply Chain and Logistics Basic Long-term Actuarial",
+            "DOTE4240 --- FINA3221 FINA2200 or 2210",
+            "Analytics Mathematics",
+            "Basic Short-term Actuarial FINA2230 or STAT2006 or",
+            "DOTE4260 Business Process Analytics --- FINA3222",
+            "Mathematics permission from instructor",
+            "DOTE4280 Network and Security --- FINA3230 Life and Health Insurance FINA3210",
+            "Corporate Property and Liability",
+            "FINA3240 FINA3210",
+            "Insurance",
+            "FINA3250 Derivatives for Actuaries I ---",
+            "FINA2230 or STAT2006",
+            "FINA3290 Linear Models for Actuaries",
+            "Advanced Statistical Modeling for DOTE2021 or FINA2230 or",
+            "FINA3295 STAT2006 or permission",
+            "Insurance and Finance from instructor",
+            "FINA2010 or 2310",
+            "FINA3310* Introduction to Investment Banking",
+            "FINA2010 or 2310",
+            "FINA3320* Introduction to Credit Rating",
+            "Introduction to Alternative FINA2010 or 2310",
+            "FINA3330*",
+            "Investment or permission from instructor",
+            "Trading Strategies: Behavioral and FINA2010 or 2310",
+            "FINA3340*",
+            "Technical Analysis or permission from instructor",
+            "FINA2010 or 2310",
+            "FINA3350* Foreign Exchange Market Practices",
+            "Derivative Warrants, Proprietary FINA2010 or 2310",
+            "FINA3360*"
+          ],
+          "course_codes": [
+            "DOTE1021",
+            "DOTE1030",
+            "DOTE2011",
+            "DOTE2021",
+            "DOTE2040",
+            "DOTE3010",
+            "DOTE3011",
+            "DOTE3030",
+            "DOTE3050",
+            "DOTE3080",
+            "DOTE4020",
+            "DOTE4070",
+            "DOTE4110",
+            "DOTE4220",
+            "DOTE4240",
+            "DOTE4260",
+            "DOTE4280",
+            "ECON2121",
+            "FINA2010",
+            "FINA2200",
+            "FINA2230",
+            "FINA3010",
+            "FINA3020",
+            "FINA3030",
+            "FINA3040",
+            "FINA3060",
+            "FINA3070",
+            "FINA3080",
+            "FINA3090",
+            "FINA3210",
+            "FINA3220",
+            "FINA3221",
+            "FINA3222",
+            "FINA3230",
+            "FINA3240",
+            "FINA3250",
+            "FINA3290",
+            "FINA3295",
+            "FINA3310",
+            "FINA3320",
+            "FINA3330",
+            "FINA3340",
+            "FINA3350",
+            "FINA3360",
+            "STAT2001",
+            "STAT2006"
+          ],
+          "extraction_status": "text_extracted"
+        },
+        {
+          "page": 13,
+          "text": "Introduction to Bloomberg and FINA2010 or 2310\nFINA3370*\nReuters or permission from instructor\nFINA2010 or 2310\nFINA3398* Special Issues in Finance\nor permission from instructor\nFINA2010 or 2310\nFINA3399* Current Issues in Finance\nor permission from instructor\nFINA2010 or 2011 or 2110 or\nFINA3420 Credit Rating in Global Economy 2310 or permission from\ninstructor\nFINA2010 or 2310\nFINA4010 Security Analysis\nor permission from instructor\nFund Management and Asset FINA2010 or 2310\nFINA4020\nAllocation or permission from instructor\nFINA2010 or 2310\nFINA4030 Selected Topics in Finance\nor permission from instructor\nFINA3070\nFINA4040 Cases in Corporate Finance\nor permission from instructor\nFINA3070\nFINA4050 Mergers and Acquisitions\nor permission from instructor\nFINA 2010 or 2310\nFINA4060 China Finance\nor permission from instructor\nFINA3080 or\nFINA4110 Options and Futures\npermission from instructor\nFINA3080 or\nFINA4120 Fixed Income Securities Analysis\npermission from instructor\nFINA3080 or\nFINA4130 Empirical Finance\npermission from instructor\nFINA3080 or\nFINA4140 Computational Finance\npermission from instructor\nQuantitative Methods for FINA3080 or\nFINA4150\nFinancial Derivatives permission from instructor\nFINA3080 or\nFINA4160 Intermediate Financial Theory\npermission from instructor\nAt least two FINA41XX\nResearch Project in Quantitative\nFINA4190 courses or permission from\nFinance\ninstructor\nFINA3220 or\nFINA4210 Life Contingencies II\npermission from instructor\nAdvanced Long-term Actuarial FINA3221 or permission from\nFINA4211\nMathematics instructor.\nFINA2220 or STAT2001\nFINA4220 Non-life Actuarial Models\nor permission from instructor\nFINA4221\nAdvanced Short-term Actuarial FINA3222 or permission from\nMathematics instructor.\nFINA4250 Applications of Risk Models FINA3220\nFINA4280 Derivatives for Actuaries II FINA2210, 2220 and 3250\nFINA4310*\nChina Banking and Financial FINA2010 or 2310\nSystem or permission from instructor\nFINA4320* China Equity Securities Market\nFINA2010 or 2310\nor permission from instructor\nFINA4330* China Derivative Securities Market\nFINA2010 or 2310\nor permission from instructor\nFINA4340*\nStructured Products: Fundamentals FINA3080 or permission from\nand Analysis instructor\nFINA4350*\nBond Markets: Analysis and FINA3080 or permission from\nStrategies instructor\nFINA4370\nDerivatives Trading: Analysis and FINA3080 or permission from\nStrategies instructor",
+          "headings": [
+            "Introduction to Bloomberg and FINA2010 or 2310",
+            "FINA3370*",
+            "Reuters or permission from instructor",
+            "FINA2010 or 2310",
+            "FINA3398* Special Issues in Finance",
+            "FINA2010 or 2310",
+            "FINA3399* Current Issues in Finance",
+            "FINA2010 or 2011 or 2110 or",
+            "FINA3420 Credit Rating in Global Economy 2310 or permission from",
+            "FINA2010 or 2310",
+            "FINA4010 Security Analysis",
+            "Fund Management and Asset FINA2010 or 2310",
+            "FINA4020",
+            "Allocation or permission from instructor",
+            "FINA2010 or 2310",
+            "FINA4030 Selected Topics in Finance",
+            "FINA3070",
+            "FINA4040 Cases in Corporate Finance",
+            "FINA3070",
+            "FINA4050 Mergers and Acquisitions",
+            "FINA 2010 or 2310",
+            "FINA4060 China Finance",
+            "FINA3080 or",
+            "FINA4110 Options and Futures",
+            "FINA3080 or",
+            "FINA4120 Fixed Income Securities Analysis",
+            "FINA3080 or",
+            "FINA4130 Empirical Finance",
+            "FINA3080 or",
+            "FINA4140 Computational Finance",
+            "Quantitative Methods for FINA3080 or",
+            "FINA4150",
+            "Financial Derivatives permission from instructor",
+            "FINA3080 or",
+            "FINA4160 Intermediate Financial Theory",
+            "At least two FINA41XX",
+            "Research Project in Quantitative",
+            "FINA4190 courses or permission from",
+            "Finance",
+            "FINA3220 or",
+            "FINA4210 Life Contingencies II",
+            "Advanced Long-term Actuarial FINA3221 or permission from",
+            "FINA4211",
+            "FINA2220 or STAT2001",
+            "FINA4220 Non-life Actuarial Models",
+            "FINA4221",
+            "Advanced Short-term Actuarial FINA3222 or permission from",
+            "FINA4250 Applications of Risk Models FINA3220",
+            "FINA4280 Derivatives for Actuaries II FINA2210, 2220 and 3250",
+            "FINA4310*",
+            "China Banking and Financial FINA2010 or 2310",
+            "System or permission from instructor",
+            "FINA4320* China Equity Securities Market",
+            "FINA2010 or 2310",
+            "FINA4330* China Derivative Securities Market",
+            "FINA2010 or 2310",
+            "FINA4340*",
+            "Structured Products: Fundamentals FINA3080 or permission from",
+            "FINA4350*",
+            "Bond Markets: Analysis and FINA3080 or permission from",
+            "Strategies instructor",
+            "FINA4370",
+            "Derivatives Trading: Analysis and FINA3080 or permission from",
+            "Strategies instructor"
+          ],
+          "course_codes": [
+            "FINA2010",
+            "FINA2210",
+            "FINA2220",
+            "FINA3070",
+            "FINA3080",
+            "FINA3220",
+            "FINA3221",
+            "FINA3222",
+            "FINA3370",
+            "FINA3398",
+            "FINA3399",
+            "FINA3420",
+            "FINA4010",
+            "FINA4020",
+            "FINA4030",
+            "FINA4040",
+            "FINA4050",
+            "FINA4060",
+            "FINA4110",
+            "FINA4120",
+            "FINA4130",
+            "FINA4140",
+            "FINA4150",
+            "FINA4160",
+            "FINA4190",
+            "FINA4210",
+            "FINA4211",
+            "FINA4220",
+            "FINA4221",
+            "FINA4250",
+            "FINA4280",
+            "FINA4310",
+            "FINA4320",
+            "FINA4330",
+            "FINA4340",
+            "FINA4350",
+            "FINA4370",
+            "STAT2001"
+          ],
+          "extraction_status": "text_extracted"
+        },
+        {
+          "page": 14,
+          "text": "FINA4380\nAlgorithmic Trading Strategies, FINA3080 or permission from\nArbitrage and HFT instructor\nAt least 3 FINA courses at\nFINA4390 Banking and Finance Practicum 3000-level or above, and\npermission from instructor\nFINA4400 Behavioural Finance\nFINA2010 or 2310\nor permission from instructor\nFINA4410 Current Developments in FinTech\nFINA2010 or 2310\nor permission from instructor\nFINA4420\nFinancial Markets from a Macro FINA3020 or 3080\nPerspective or permission from instructor\nFINA4430\nComputerized Trading and Big FINA3080\nData or permission from instructor\n* 1-unit course\nAll courses below are 3 units each.\nMGNT MKTG\nCourse Code Title Prerequisite Course Code Title Prerequisite\nThe Founder's Journey: Entrepreneurial DOTE2010 or DOTE2011 or\nMGNT1070 --- MKTG3010 Marketing Research\nMindset and Design Thinking STAT2006 and MKTG2010\nHTMG1010 or MGNT1010\nMGNT2040 Managing Human Capital MKTG3020 Consumer Behaviour MKTG2010\nor MGNT1020\nIntegrated Marketing\nMGNT2070 Nuvention: New Venture Creation --- MKTG3030 MKTG2010\nCommunication\nMGNT3010 Organizational Behaviour HTMG1010 or MGNT1020 MKTG3040 Salesmanship and Sales Management MKTG2010\nMGNT2510 or 2511 and\nMGNT3040 Human Resource Planning and Staffing MGNT1020 MKTG3050 Global Marketing Management\nMKTG2010\nMGNT3060 Human Capital Training and Development MGNT1020 MKTG3060 Big Data Strategy in Marketing MKTG2010\nOpportunities' Catching: Strategic\nMGNT3070 --- MKTG4010 Organizational Marketing MKTG2010\nInsights and Analysis\nMGNT3080 Analytics for Management DOTE2011 MKTG4020 Retail and Channel Management MKTG2010\nMGNT3090 Human Capital Analytics DOTE2011 MKTG4030 Service Marketing MKTG2010\nMGNT3100 Business Negotiations --- MKTG4040 Strategic Marketing MKTG2010\nMGNT3580 Global Enterprise Management --- MKTG4050 Seminar in Marketing MKTG2010\nTalent Performance Management Systems\nMGNT4050 MGNT1020 MKTG4070 Marketing in China MKTG2010\nand Strategies\nMGNT4070 Social Innovation and Entrepreneurship --- MKTG4080 Digital Marketing MKTG2010\nMGNT4080 Leadership Development HTMG1010 or MGNT1020 MKTG4090 Marketing Analytics MKTG2010 and 3010\nMGNT4090 Technology and Innovation Management --- MKTG4110 Strategic Brand Management MKTG2010\nManagement Consulting and Change\nMGNT4130 HTMG1010 or MGNT1020 MKTG4120 Marketing Engineering MKTG2010 and 3010\nManagement\nMGNT4150 Global Strategy MGNT1020 MKTG4150 New Product Management MKTG2010",
+          "headings": [
+            "FINA4380",
+            "Algorithmic Trading Strategies, FINA3080 or permission from",
+            "Arbitrage and HFT instructor",
+            "At least 3 FINA courses at",
+            "FINA4390 Banking and Finance Practicum 3000-level or above, and",
+            "FINA4400 Behavioural Finance",
+            "FINA2010 or 2310",
+            "FINA4410 Current Developments in FinTech",
+            "FINA2010 or 2310",
+            "FINA4420",
+            "Financial Markets from a Macro FINA3020 or 3080",
+            "Perspective or permission from instructor",
+            "FINA4430",
+            "Computerized Trading and Big FINA3080",
+            "Data or permission from instructor",
+            "MGNT MKTG",
+            "Course Code Title Prerequisite Course Code Title Prerequisite",
+            "The Founder's Journey: Entrepreneurial DOTE2010 or DOTE2011 or",
+            "MGNT1070 --- MKTG3010 Marketing Research",
+            "Mindset and Design Thinking STAT2006 and MKTG2010",
+            "HTMG1010 or MGNT1010",
+            "MGNT2040 Managing Human Capital MKTG3020 Consumer Behaviour MKTG2010",
+            "Integrated Marketing",
+            "MGNT2070 Nuvention: New Venture Creation --- MKTG3030 MKTG2010",
+            "Communication",
+            "MGNT2510 or 2511 and",
+            "MGNT3040 Human Resource Planning and Staffing MGNT1020 MKTG3050 Global Marketing Management",
+            "MKTG2010",
+            "Opportunities' Catching: Strategic",
+            "MGNT3070 --- MKTG4010 Organizational Marketing MKTG2010",
+            "Insights and Analysis",
+            "MGNT3080 Analytics for Management DOTE2011 MKTG4020 Retail and Channel Management MKTG2010",
+            "MGNT3090 Human Capital Analytics DOTE2011 MKTG4030 Service Marketing MKTG2010",
+            "MGNT3100 Business Negotiations --- MKTG4040 Strategic Marketing MKTG2010",
+            "MGNT3580 Global Enterprise Management --- MKTG4050 Seminar in Marketing MKTG2010",
+            "Talent Performance Management Systems",
+            "MGNT4050 MGNT1020 MKTG4070 Marketing in China MKTG2010",
+            "MGNT4070 Social Innovation and Entrepreneurship --- MKTG4080 Digital Marketing MKTG2010",
+            "Management Consulting and Change",
+            "MGNT4130 HTMG1010 or MGNT1020 MKTG4120 Marketing Engineering MKTG2010 and 3010",
+            "Management",
+            "MGNT4150 Global Strategy MGNT1020 MKTG4150 New Product Management MKTG2010"
+          ],
+          "course_codes": [
+            "DOTE2010",
+            "DOTE2011",
+            "FINA2010",
+            "FINA3020",
+            "FINA3080",
+            "FINA4380",
+            "FINA4390",
+            "FINA4400",
+            "FINA4410",
+            "FINA4420",
+            "FINA4430",
+            "HTMG1010",
+            "MGNT1010",
+            "MGNT1020",
+            "MGNT1070",
+            "MGNT2040",
+            "MGNT2070",
+            "MGNT2510",
+            "MGNT3010",
+            "MGNT3040",
+            "MGNT3060",
+            "MGNT3070",
+            "MGNT3080",
+            "MGNT3090",
+            "MGNT3100",
+            "MGNT3580",
+            "MGNT4050",
+            "MGNT4070",
+            "MGNT4080",
+            "MGNT4090",
+            "MGNT4130",
+            "MGNT4150",
+            "MKTG2010",
+            "MKTG3010",
+            "MKTG3020",
+            "MKTG3030",
+            "MKTG3040",
+            "MKTG3050",
+            "MKTG3060",
+            "MKTG4010",
+            "MKTG4020",
+            "MKTG4030",
+            "MKTG4040",
+            "MKTG4050",
+            "MKTG4070",
+            "MKTG4080",
+            "MKTG4090",
+            "MKTG4110",
+            "MKTG4120",
+            "MKTG4150",
+            "STAT2006"
+          ],
+          "extraction_status": "text_extracted"
+        },
+        {
+          "page": 15,
+          "text": "MGNT4170 Entrepreneurship Launchpad --- MTKG4160 Pricing MKTG2010\nMGNT4510 China Business MGNT1020 MKTG4170 Customer Relationship Management MKTG2010\nMGNT4540 Asian Business MGNT1020 MKTG4180 Social Media Analytics MKTG2010 and 3010\nAt least 2 2000-level or\nabove courses in Faculty of Machine Learning and AI Practices\nMGNT4570 Global Entrepreneurship MKTG4190 MKTG2010 and 3010\nBusiness Administration or in Marketing\nDepartment of Economics\nBehavioral Decision Making and\nMKTG4200 MKTG2010\nConsumer Choice",
+          "headings": [
+            "MGNT4170 Entrepreneurship Launchpad --- MTKG4160 Pricing MKTG2010",
+            "MGNT4510 China Business MGNT1020 MKTG4170 Customer Relationship Management MKTG2010",
+            "MGNT4540 Asian Business MGNT1020 MKTG4180 Social Media Analytics MKTG2010 and 3010",
+            "At least 2 2000-level or",
+            "MGNT4570 Global Entrepreneurship MKTG4190 MKTG2010 and 3010",
+            "Business Administration or in Marketing",
+            "Department of Economics",
+            "Behavioral Decision Making and",
+            "MKTG4200 MKTG2010",
+            "Consumer Choice"
+          ],
+          "course_codes": [
+            "MGNT1020",
+            "MGNT4170",
+            "MGNT4510",
+            "MGNT4540",
+            "MGNT4570",
+            "MKTG2010",
+            "MKTG4170",
+            "MKTG4180",
+            "MKTG4190",
+            "MKTG4200",
+            "MTKG4160"
+          ],
+          "extraction_status": "text_extracted"
+        }
+      ]
+    }
+  ]
+}

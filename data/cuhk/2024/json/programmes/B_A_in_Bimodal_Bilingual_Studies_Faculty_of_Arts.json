@@ -1,0 +1,1581 @@
+{
+  "programme_id": "B_A_in_Bimodal_Bilingual_Studies__Faculty_of_Arts",
+  "academic_program": "B.A. in Bimodal Bilingual Studies",
+  "faculty": "Faculty of Arts",
+  "academic_year": 2024,
+  "admission_cohort": "2024-25",
+  "requirement_summary": {
+    "minimum_units_as_printed": "a minimum of 57 units",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Required Courses",
+        "units_as_printed": "6",
+        "course_mentions": [
+          {
+            "course_code": "BMBL1001",
+            "prefix_inferred": false,
+            "evidence": "BMBL1001, LING1000"
+          },
+          {
+            "course_code": "LING1000",
+            "prefix_inferred": false,
+            "evidence": "BMBL1001, LING1000"
+          },
+          {
+            "course_code": "BMBL2001",
+            "prefix_inferred": false,
+            "evidence": "BMBL2001, 2002, 2003"
+          },
+          {
+            "course_code": "BMBL2002",
+            "prefix_inferred": true,
+            "evidence": "BMBL2001, 2002, 2003"
+          },
+          {
+            "course_code": "BMBL2003",
+            "prefix_inferred": true,
+            "evidence": "BMBL2001, 2002, 2003"
+          },
+          {
+            "course_code": "BMBL1002",
+            "prefix_inferred": false,
+            "evidence": "BMBL1002[3001], 2004[4001]"
+          },
+          {
+            "course_code": "BMBL2004",
+            "prefix_inferred": true,
+            "evidence": "BMBL1002[3001], 2004[4001]"
+          },
+          {
+            "course_code": "HKSL1000",
+            "prefix_inferred": false,
+            "evidence": "(i) HKSL1000 and 1002[2000], or 1003[2050]"
+          },
+          {
+            "course_code": "HKSL1002",
+            "prefix_inferred": true,
+            "evidence": "(i) HKSL1000 and 1002[2000], or 1003[2050]"
+          },
+          {
+            "course_code": "HKSL1003",
+            "prefix_inferred": true,
+            "evidence": "(i) HKSL1000 and 1002[2000], or 1003[2050]"
+          },
+          {
+            "course_code": "HKSL2001",
+            "prefix_inferred": false,
+            "evidence": "(ii) HKSL2001 and 2002[3000], or 2003[3050]"
+          },
+          {
+            "course_code": "HKSL2002",
+            "prefix_inferred": true,
+            "evidence": "(ii) HKSL2001 and 2002[3000], or 2003[3050]"
+          },
+          {
+            "course_code": "HKSL2003",
+            "prefix_inferred": true,
+            "evidence": "(ii) HKSL2001 and 2002[3000], or 2003[3050]"
+          },
+          {
+            "course_code": "HKSL3001",
+            "prefix_inferred": false,
+            "evidence": "(iii) HKSL3001 and 3002"
+          },
+          {
+            "course_code": "HKSL3002",
+            "prefix_inferred": true,
+            "evidence": "(iii) HKSL3001 and 3002"
+          }
+        ],
+        "raw_text": "(a)\nIntroductory Courses:\nBMBL1001, LING1000\n6\n(b)\nSign Linguistics Courses:\nBMBL2001, 2002, 2003\n9\n(c)\nLanguage and Education for Deaf Children Courses:\nBMBL1002[3001], 2004[4001]\n6\n(d)\nHong Kong Sign Language Courses:\n(i) HKSL1000 and 1002[2000], or 1003[2050]\n(ii) HKSL2001 and 2002[3000], or 2003[3050]\n(iii) HKSL3001 and 3002\n6\n6\n6"
+      },
+      {
+        "number": 2,
+        "title": "Elective Courses",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "LING2003",
+            "prefix_inferred": false,
+            "evidence": "LING2003, 2004, 2005, 2006 or 3101"
+          },
+          {
+            "course_code": "LING2004",
+            "prefix_inferred": true,
+            "evidence": "LING2003, 2004, 2005, 2006 or 3101"
+          },
+          {
+            "course_code": "LING2005",
+            "prefix_inferred": true,
+            "evidence": "LING2003, 2004, 2005, 2006 or 3101"
+          },
+          {
+            "course_code": "LING2006",
+            "prefix_inferred": true,
+            "evidence": "LING2003, 2004, 2005, 2006 or 3101"
+          },
+          {
+            "course_code": "LING3101",
+            "prefix_inferred": true,
+            "evidence": "LING2003, 2004, 2005, 2006 or 3101"
+          },
+          {
+            "course_code": "BMBL4101",
+            "prefix_inferred": false,
+            "evidence": "BMBL4101 and 4102 (capstone courses)"
+          },
+          {
+            "course_code": "BMBL4102",
+            "prefix_inferred": true,
+            "evidence": "BMBL4101 and 4102 (capstone courses)"
+          },
+          {
+            "course_code": "BMBL4201",
+            "prefix_inferred": false,
+            "evidence": "BMBL4201 and 4202 (capstone courses)"
+          },
+          {
+            "course_code": "BMBL4202",
+            "prefix_inferred": true,
+            "evidence": "BMBL4201 and 4202 (capstone courses)"
+          },
+          {
+            "course_code": "CHED4220",
+            "prefix_inferred": false,
+            "evidence": "CHED4220, 4340, 4370, 4510, EDUC2120, 2210, 2220, 3140, 4330"
+          },
+          {
+            "course_code": "CHED4340",
+            "prefix_inferred": true,
+            "evidence": "CHED4220, 4340, 4370, 4510, EDUC2120, 2210, 2220, 3140, 4330"
+          },
+          {
+            "course_code": "CHED4370",
+            "prefix_inferred": true,
+            "evidence": "CHED4220, 4340, 4370, 4510, EDUC2120, 2210, 2220, 3140, 4330"
+          },
+          {
+            "course_code": "CHED4510",
+            "prefix_inferred": true,
+            "evidence": "CHED4220, 4340, 4370, 4510, EDUC2120, 2210, 2220, 3140, 4330"
+          },
+          {
+            "course_code": "EDUC2120",
+            "prefix_inferred": false,
+            "evidence": "CHED4220, 4340, 4370, 4510, EDUC2120, 2210, 2220, 3140, 4330"
+          },
+          {
+            "course_code": "EDUC2210",
+            "prefix_inferred": true,
+            "evidence": "CHED4220, 4340, 4370, 4510, EDUC2120, 2210, 2220, 3140, 4330"
+          },
+          {
+            "course_code": "EDUC2220",
+            "prefix_inferred": true,
+            "evidence": "CHED4220, 4340, 4370, 4510, EDUC2120, 2210, 2220, 3140, 4330"
+          },
+          {
+            "course_code": "EDUC3140",
+            "prefix_inferred": true,
+            "evidence": "CHED4220, 4340, 4370, 4510, EDUC2120, 2210, 2220, 3140, 4330"
+          },
+          {
+            "course_code": "EDUC4330",
+            "prefix_inferred": true,
+            "evidence": "CHED4220, 4340, 4370, 4510, EDUC2120, 2210, 2220, 3140, 4330"
+          },
+          {
+            "course_code": "SOWK1001",
+            "prefix_inferred": false,
+            "evidence": "SOWK1001, 1114, 1150, 2020, 2110, 2202, 2203, 2204"
+          },
+          {
+            "course_code": "SOWK1114",
+            "prefix_inferred": true,
+            "evidence": "SOWK1001, 1114, 1150, 2020, 2110, 2202, 2203, 2204"
+          },
+          {
+            "course_code": "SOWK1150",
+            "prefix_inferred": true,
+            "evidence": "SOWK1001, 1114, 1150, 2020, 2110, 2202, 2203, 2204"
+          },
+          {
+            "course_code": "SOWK2020",
+            "prefix_inferred": true,
+            "evidence": "SOWK1001, 1114, 1150, 2020, 2110, 2202, 2203, 2204"
+          },
+          {
+            "course_code": "SOWK2110",
+            "prefix_inferred": true,
+            "evidence": "SOWK1001, 1114, 1150, 2020, 2110, 2202, 2203, 2204"
+          },
+          {
+            "course_code": "SOWK2202",
+            "prefix_inferred": true,
+            "evidence": "SOWK1001, 1114, 1150, 2020, 2110, 2202, 2203, 2204"
+          },
+          {
+            "course_code": "SOWK2203",
+            "prefix_inferred": true,
+            "evidence": "SOWK1001, 1114, 1150, 2020, 2110, 2202, 2203, 2204"
+          },
+          {
+            "course_code": "SOWK2204",
+            "prefix_inferred": true,
+            "evidence": "SOWK1001, 1114, 1150, 2020, 2110, 2202, 2203, 2204"
+          },
+          {
+            "course_code": "BMBL3002",
+            "prefix_inferred": false,
+            "evidence": "BMBL3002, LING2301, TRAN1010, 1030, 1130, 2070, 2110, 2840"
+          },
+          {
+            "course_code": "LING2301",
+            "prefix_inferred": false,
+            "evidence": "BMBL3002, LING2301, TRAN1010, 1030, 1130, 2070, 2110, 2840"
+          },
+          {
+            "course_code": "TRAN1010",
+            "prefix_inferred": false,
+            "evidence": "BMBL3002, LING2301, TRAN1010, 1030, 1130, 2070, 2110, 2840"
+          },
+          {
+            "course_code": "TRAN1030",
+            "prefix_inferred": true,
+            "evidence": "BMBL3002, LING2301, TRAN1010, 1030, 1130, 2070, 2110, 2840"
+          },
+          {
+            "course_code": "TRAN1130",
+            "prefix_inferred": true,
+            "evidence": "BMBL3002, LING2301, TRAN1010, 1030, 1130, 2070, 2110, 2840"
+          },
+          {
+            "course_code": "TRAN2070",
+            "prefix_inferred": true,
+            "evidence": "BMBL3002, LING2301, TRAN1010, 1030, 1130, 2070, 2110, 2840"
+          },
+          {
+            "course_code": "TRAN2110",
+            "prefix_inferred": true,
+            "evidence": "BMBL3002, LING2301, TRAN1010, 1030, 1130, 2070, 2110, 2840"
+          },
+          {
+            "course_code": "TRAN2840",
+            "prefix_inferred": true,
+            "evidence": "BMBL3002, LING2301, TRAN1010, 1030, 1130, 2070, 2110, 2840"
+          },
+          {
+            "course_code": "LING3201",
+            "prefix_inferred": false,
+            "evidence": "LING3201, 3208, 4202, SLPA5106, 5602"
+          },
+          {
+            "course_code": "LING3208",
+            "prefix_inferred": true,
+            "evidence": "LING3201, 3208, 4202, SLPA5106, 5602"
+          },
+          {
+            "course_code": "LING4202",
+            "prefix_inferred": true,
+            "evidence": "LING3201, 3208, 4202, SLPA5106, 5602"
+          },
+          {
+            "course_code": "SLPA5106",
+            "prefix_inferred": false,
+            "evidence": "LING3201, 3208, 4202, SLPA5106, 5602"
+          },
+          {
+            "course_code": "SLPA5602",
+            "prefix_inferred": true,
+            "evidence": "LING3201, 3208, 4202, SLPA5106, 5602"
+          }
+        ],
+        "raw_text": "(a)\nAny three courses from:\nLING2003, 2004, 2005, 2006 or 3101\n9\n(b)\nTwo courses from either (i) or (ii):\n3\n(i)\nBMBL4101 and 4102 (capstone courses)\n(ii)\nBMBL4201 and 4202 (capstone courses)\n(c)\nAny 6 units of courses from the following four areas of study:\n6\n(i)\nArea I: Education\nCHED4220, 4340, 4370, 4510, EDUC2120, 2210, 2220, 3140, 4330\n(ii)\nArea II: Social Work\nSOWK1001, 1114, 1150, 2020, 2110, 2202, 2203, 2204\n(iii)\nArea III: Translation and Interpretation\nBMBL3002, LING2301, TRAN1010, 1030, 1130, 2070, 2110, 2840\n(iv)\nArea IV: Language and Communication Sciences\nLING3201, 3208, 4202, SLPA5106, 5602\nTotal:\n57\nExplanatory Notes:"
+      },
+      {
+        "number": 1,
+        "title": "Required Courses[a]",
+        "units_as_printed": "6",
+        "course_mentions": [
+          {
+            "course_code": "HKSL1000",
+            "prefix_inferred": false,
+            "evidence": "HKSL1000 and 1002[2000], or 1003[2050]"
+          },
+          {
+            "course_code": "HKSL1002",
+            "prefix_inferred": true,
+            "evidence": "HKSL1000 and 1002[2000], or 1003[2050]"
+          },
+          {
+            "course_code": "HKSL1003",
+            "prefix_inferred": true,
+            "evidence": "HKSL1000 and 1002[2000], or 1003[2050]"
+          },
+          {
+            "course_code": "HKSL2001",
+            "prefix_inferred": false,
+            "evidence": "HKSL2001 and 2002[3000], or 2003[3050][b]"
+          },
+          {
+            "course_code": "HKSL2002",
+            "prefix_inferred": true,
+            "evidence": "HKSL2001 and 2002[3000], or 2003[3050][b]"
+          },
+          {
+            "course_code": "HKSL2003",
+            "prefix_inferred": true,
+            "evidence": "HKSL2001 and 2002[3000], or 2003[3050][b]"
+          }
+        ],
+        "raw_text": "(a)\nHKSL1000 and 1002[2000], or 1003[2050]\n6\n(b)\nHKSL2001 and 2002[3000], or 2003[3050][b]\n6"
+      },
+      {
+        "number": 2,
+        "title": "Elective Courses",
+        "units_as_printed": "6",
+        "course_mentions": [
+          {
+            "course_code": "BMBL1001",
+            "prefix_inferred": false,
+            "evidence": "BMBL1001, 1002[3001], 2001, 2002, 2003, 2004[4001], 2005, 3002, 3003 or any HKSL courses other than HKSL1001 and those listed above"
+          },
+          {
+            "course_code": "BMBL1002",
+            "prefix_inferred": true,
+            "evidence": "BMBL1001, 1002[3001], 2001, 2002, 2003, 2004[4001], 2005, 3002, 3003 or any HKSL courses other than HKSL1001 and those listed above"
+          },
+          {
+            "course_code": "BMBL2001",
+            "prefix_inferred": true,
+            "evidence": "BMBL1001, 1002[3001], 2001, 2002, 2003, 2004[4001], 2005, 3002, 3003 or any HKSL courses other than HKSL1001 and those listed above"
+          },
+          {
+            "course_code": "BMBL2002",
+            "prefix_inferred": true,
+            "evidence": "BMBL1001, 1002[3001], 2001, 2002, 2003, 2004[4001], 2005, 3002, 3003 or any HKSL courses other than HKSL1001 and those listed above"
+          },
+          {
+            "course_code": "BMBL2003",
+            "prefix_inferred": true,
+            "evidence": "BMBL1001, 1002[3001], 2001, 2002, 2003, 2004[4001], 2005, 3002, 3003 or any HKSL courses other than HKSL1001 and those listed above"
+          },
+          {
+            "course_code": "BMBL2004",
+            "prefix_inferred": true,
+            "evidence": "BMBL1001, 1002[3001], 2001, 2002, 2003, 2004[4001], 2005, 3002, 3003 or any HKSL courses other than HKSL1001 and those listed above"
+          },
+          {
+            "course_code": "BMBL2005",
+            "prefix_inferred": true,
+            "evidence": "BMBL1001, 1002[3001], 2001, 2002, 2003, 2004[4001], 2005, 3002, 3003 or any HKSL courses other than HKSL1001 and those listed above"
+          },
+          {
+            "course_code": "BMBL3002",
+            "prefix_inferred": true,
+            "evidence": "BMBL1001, 1002[3001], 2001, 2002, 2003, 2004[4001], 2005, 3002, 3003 or any HKSL courses other than HKSL1001 and those listed above"
+          },
+          {
+            "course_code": "BMBL3003",
+            "prefix_inferred": true,
+            "evidence": "BMBL1001, 1002[3001], 2001, 2002, 2003, 2004[4001], 2005, 3002, 3003 or any HKSL courses other than HKSL1001 and those listed above"
+          },
+          {
+            "course_code": "HKSL1001",
+            "prefix_inferred": false,
+            "evidence": "BMBL1001, 1002[3001], 2001, 2002, 2003, 2004[4001], 2005, 3002, 3003 or any HKSL courses other than HKSL1001 and those listed above"
+          }
+        ],
+        "raw_text": "BMBL1001, 1002[3001], 2001, 2002, 2003, 2004[4001], 2005, 3002, 3003 or any HKSL courses other than HKSL1001 and those listed above\n6\nTotal:\n18\nExplanatory Notes:"
+      },
+      {
+        "number": 1,
+        "title": "This Minor Programme is not applicable to students who major in Bimodal Bilingual Studies.",
+        "units_as_printed": null,
+        "course_mentions": [],
+        "raw_text": ""
+      },
+      {
+        "number": 2,
+        "title": "Linguistics Major students can only take HKSL courses to fulfill the requirement of (2).",
+        "units_as_printed": "3",
+        "course_mentions": [
+          {
+            "course_code": "HKSL1000",
+            "prefix_inferred": false,
+            "evidence": "Students who have prior knowledge of Hong Kong Sign Language before admission may be exempted from taking HKSL1000, 1002[2000], 1003[2050], 2001, 2002[3000] and 2003[3050]. They should seek the advice of the Department to take substitute courses in accordance with their academic qualifications."
+          },
+          {
+            "course_code": "HKSL1002",
+            "prefix_inferred": true,
+            "evidence": "Students who have prior knowledge of Hong Kong Sign Language before admission may be exempted from taking HKSL1000, 1002[2000], 1003[2050], 2001, 2002[3000] and 2003[3050]. They should seek the advice of the Department to take substitute courses in accordance with their academic qualifications."
+          },
+          {
+            "course_code": "HKSL1003",
+            "prefix_inferred": true,
+            "evidence": "Students who have prior knowledge of Hong Kong Sign Language before admission may be exempted from taking HKSL1000, 1002[2000], 1003[2050], 2001, 2002[3000] and 2003[3050]. They should seek the advice of the Department to take substitute courses in accordance with their academic qualifications."
+          },
+          {
+            "course_code": "HKSL2001",
+            "prefix_inferred": true,
+            "evidence": "Students who have prior knowledge of Hong Kong Sign Language before admission may be exempted from taking HKSL1000, 1002[2000], 1003[2050], 2001, 2002[3000] and 2003[3050]. They should seek the advice of the Department to take substitute courses in accordance with their academic qualifications."
+          },
+          {
+            "course_code": "HKSL2002",
+            "prefix_inferred": true,
+            "evidence": "Students who have prior knowledge of Hong Kong Sign Language before admission may be exempted from taking HKSL1000, 1002[2000], 1003[2050], 2001, 2002[3000] and 2003[3050]. They should seek the advice of the Department to take substitute courses in accordance with their academic qualifications."
+          },
+          {
+            "course_code": "HKSL2003",
+            "prefix_inferred": true,
+            "evidence": "Students who have prior knowledge of Hong Kong Sign Language before admission may be exempted from taking HKSL1000, 1002[2000], 1003[2050], 2001, 2002[3000] and 2003[3050]. They should seek the advice of the Department to take substitute courses in accordance with their academic qualifications."
+          },
+          {
+            "course_code": "HKSL3050",
+            "prefix_inferred": false,
+            "evidence": "Students who take HKSL3050 will only be recognized as completing 3 units of courses at 3000 or above level by taking this course. They will have to complete an extra 3 units of courses at 3000 or above level to fulfill the relevant requirements."
+          },
+          {
+            "course_code": "BMBL1001",
+            "prefix_inferred": false,
+            "evidence": "BMBL1001"
+          },
+          {
+            "course_code": "BMBL1002",
+            "prefix_inferred": false,
+            "evidence": "BMBL1002[3001]"
+          },
+          {
+            "course_code": "BMBL2001",
+            "prefix_inferred": false,
+            "evidence": "BMBL2001"
+          },
+          {
+            "course_code": "BMBL2002",
+            "prefix_inferred": false,
+            "evidence": "BMBL2002"
+          },
+          {
+            "course_code": "BMBL2003",
+            "prefix_inferred": false,
+            "evidence": "BMBL2003"
+          },
+          {
+            "course_code": "BMBL2004",
+            "prefix_inferred": false,
+            "evidence": "BMBL2004[4001]"
+          },
+          {
+            "course_code": "BMBL2005",
+            "prefix_inferred": false,
+            "evidence": "BMBL2005"
+          },
+          {
+            "course_code": "BMBL3003",
+            "prefix_inferred": false,
+            "evidence": "BMBL3003"
+          },
+          {
+            "course_code": "BMBL4101",
+            "prefix_inferred": false,
+            "evidence": "BMBL4101"
+          },
+          {
+            "course_code": "BMBL4102",
+            "prefix_inferred": false,
+            "evidence": "BMBL4102"
+          },
+          {
+            "course_code": "BMBL4201",
+            "prefix_inferred": false,
+            "evidence": "BMBL4201"
+          },
+          {
+            "course_code": "BMBL4202",
+            "prefix_inferred": false,
+            "evidence": "BMBL4202"
+          },
+          {
+            "course_code": "HKSL1000",
+            "prefix_inferred": false,
+            "evidence": "HKSL1000"
+          },
+          {
+            "course_code": "HKSL1001",
+            "prefix_inferred": false,
+            "evidence": "HKSL1001"
+          },
+          {
+            "course_code": "HKSL1002",
+            "prefix_inferred": false,
+            "evidence": "HKSL1002[2000]"
+          },
+          {
+            "course_code": "HKSL1003",
+            "prefix_inferred": false,
+            "evidence": "HKSL1003[2050]"
+          },
+          {
+            "course_code": "HKSL1100",
+            "prefix_inferred": false,
+            "evidence": "HKSL1100"
+          },
+          {
+            "course_code": "HKSL2001",
+            "prefix_inferred": false,
+            "evidence": "HKSL2001"
+          },
+          {
+            "course_code": "HKSL2002",
+            "prefix_inferred": false,
+            "evidence": "HKSL2002[3000]"
+          },
+          {
+            "course_code": "HKSL2003",
+            "prefix_inferred": false,
+            "evidence": "HKSL2003[3050]"
+          },
+          {
+            "course_code": "HKSL3001",
+            "prefix_inferred": false,
+            "evidence": "HKSL3001"
+          },
+          {
+            "course_code": "HKSL3002",
+            "prefix_inferred": false,
+            "evidence": "HKSL3002"
+          },
+          {
+            "course_code": "HKSL3003",
+            "prefix_inferred": false,
+            "evidence": "HKSL3003"
+          },
+          {
+            "course_code": "HKSL3100",
+            "prefix_inferred": false,
+            "evidence": "HKSL3100"
+          },
+          {
+            "course_code": "LING1000",
+            "prefix_inferred": false,
+            "evidence": "LING1000"
+          },
+          {
+            "course_code": "LING2003",
+            "prefix_inferred": false,
+            "evidence": "LING2003"
+          },
+          {
+            "course_code": "LING2004",
+            "prefix_inferred": false,
+            "evidence": "LING2004"
+          },
+          {
+            "course_code": "LING2005",
+            "prefix_inferred": false,
+            "evidence": "LING2005"
+          },
+          {
+            "course_code": "LING2006",
+            "prefix_inferred": false,
+            "evidence": "LING2006"
+          },
+          {
+            "course_code": "LING3101",
+            "prefix_inferred": false,
+            "evidence": "LING3101"
+          },
+          {
+            "course_code": "CHED4220",
+            "prefix_inferred": false,
+            "evidence": "CHED4220"
+          },
+          {
+            "course_code": "CHED4340",
+            "prefix_inferred": false,
+            "evidence": "CHED4340"
+          },
+          {
+            "course_code": "CHED4370",
+            "prefix_inferred": false,
+            "evidence": "CHED4370"
+          },
+          {
+            "course_code": "CHED4510",
+            "prefix_inferred": false,
+            "evidence": "CHED4510"
+          },
+          {
+            "course_code": "EDUC2120",
+            "prefix_inferred": false,
+            "evidence": "EDUC2120"
+          },
+          {
+            "course_code": "EDUC2210",
+            "prefix_inferred": false,
+            "evidence": "EDUC2210"
+          },
+          {
+            "course_code": "EDUC2220",
+            "prefix_inferred": false,
+            "evidence": "EDUC2220"
+          },
+          {
+            "course_code": "EDUC3140",
+            "prefix_inferred": false,
+            "evidence": "EDUC3140"
+          },
+          {
+            "course_code": "EDUC4330",
+            "prefix_inferred": false,
+            "evidence": "EDUC4330"
+          },
+          {
+            "course_code": "SOWK1001",
+            "prefix_inferred": false,
+            "evidence": "SOWK1001"
+          },
+          {
+            "course_code": "SOWK1114",
+            "prefix_inferred": false,
+            "evidence": "SOWK1114"
+          },
+          {
+            "course_code": "SOWK1150",
+            "prefix_inferred": false,
+            "evidence": "SOWK1150"
+          },
+          {
+            "course_code": "SOWK2020",
+            "prefix_inferred": false,
+            "evidence": "SOWK2020"
+          },
+          {
+            "course_code": "SOWK2110",
+            "prefix_inferred": false,
+            "evidence": "SOWK2110"
+          },
+          {
+            "course_code": "SOWK2202",
+            "prefix_inferred": false,
+            "evidence": "SOWK2202"
+          },
+          {
+            "course_code": "SOWK2203",
+            "prefix_inferred": false,
+            "evidence": "SOWK2203"
+          },
+          {
+            "course_code": "SOWK2204",
+            "prefix_inferred": false,
+            "evidence": "SOWK2204"
+          },
+          {
+            "course_code": "BMBL3002",
+            "prefix_inferred": false,
+            "evidence": "BMBL3002"
+          },
+          {
+            "course_code": "LING2301",
+            "prefix_inferred": false,
+            "evidence": "LING2301"
+          },
+          {
+            "course_code": "TRAN1010",
+            "prefix_inferred": false,
+            "evidence": "TRAN1010"
+          },
+          {
+            "course_code": "TRAN1030",
+            "prefix_inferred": false,
+            "evidence": "TRAN1030"
+          },
+          {
+            "course_code": "TRAN1130",
+            "prefix_inferred": false,
+            "evidence": "TRAN1130"
+          },
+          {
+            "course_code": "TRAN2070",
+            "prefix_inferred": false,
+            "evidence": "TRAN2070"
+          },
+          {
+            "course_code": "TRAN2110",
+            "prefix_inferred": false,
+            "evidence": "TRAN2110"
+          },
+          {
+            "course_code": "TRAN2840",
+            "prefix_inferred": false,
+            "evidence": "TRAN2840"
+          },
+          {
+            "course_code": "LING3201",
+            "prefix_inferred": false,
+            "evidence": "LING3201"
+          },
+          {
+            "course_code": "LING3208",
+            "prefix_inferred": false,
+            "evidence": "LING3208"
+          },
+          {
+            "course_code": "LING4202",
+            "prefix_inferred": false,
+            "evidence": "LING4202"
+          },
+          {
+            "course_code": "SLPA5106",
+            "prefix_inferred": false,
+            "evidence": "SLPA5106"
+          },
+          {
+            "course_code": "SLPA5602",
+            "prefix_inferred": false,
+            "evidence": "SLPA5602"
+          }
+        ],
+        "raw_text": "[a]\nStudents who have prior knowledge of Hong Kong Sign Language before admission may be exempted from taking HKSL1000, 1002[2000], 1003[2050], 2001, 2002[3000] and 2003[3050]. They should seek the advice of the Department to take substitute courses in accordance with their academic qualifications.\n[b]\nStudents who take HKSL3050 will only be recognized as completing 3 units of courses at 3000 or above level by taking this course. They will have to complete an extra 3 units of courses at 3000 or above level to fulfill the relevant requirements.\n[ ]\nOld course code used in 2024-25 and before.\nCourse List\nCourse code\nCourse Title\nUnit(s)\nBMBL1001\nIntroduction to Sign Language and Bimodal Bilingualism\n3\nBMBL1002[3001]\nSign Language in Education\n3\nBMBL2001\nSign Linguistics I: Phonetics and Phonology\n3\nBMBL2002\nSign Linguistics II: Morphology and Morpho-syntax\n3\nBMBL2003\nSign Linguistics III: Syntax, Semantics and Pragmatics\n3\nBMBL2004[4001]\nLanguage Acquisition of Deaf Children\n3\nBMBL2005\nSign Language and the Mind\n3\nBMBL3003\nSpecial Topics in Sign Language Studies\n3\nBMBL4101\nResearch Project I\n0\nBMBL4102\nResearch Project II\n3\nBMBL4201\nService Learning I\n0\nBMBL4202\nService Learning II\n3\nHKSL1000\nHong Kong Sign Language I\n3\nHKSL1001\nHong Kong Sign Language Taster\n1\nHKSL1002[2000]\nHong Kong Sign Language II\n3\nHKSL1003[2050]\nHong Kong Sign Language I & II\n6\nHKSL1100\nExploring Deafhood\n3\nHKSL2001\nHong Kong Sign Language III\n3\nHKSL2002[3000]\nHong Kong Sign Language IV\n3\nHKSL2003[3050]\nHong Kong Sign Language III & IV\n6\nHKSL3001\nHong Kong Sign Language V\n3\nHKSL3002\nHong Kong Sign Language VI\n3\nHKSL3003\nHong Kong Sign Language V & VI\n6\nHKSL3100\nSpecial Topics in Hong Kong Sign Language\n3\nLING1000\nInvitation to Linguistics\n3\nLING2003\nPhonetics I\n3\nLING2004\nPhonology I\n3\nLING2005\nSyntax I\n3\nLING2006\nSemantics\n3\nLING3101\nMorphology\n3\nOther areas\nArea I: Education\nCHED4220\nHome-School-Community Collaboration for School Development\n3\nCHED4340\nSupporting Preschool Children with Special Educational Needs\n3\nCHED4370\nCounselling Young Children\n2\nCHED4510\nValues Education in Early Childhood Education\n2\nEDUC2120\nPrinciples and Implementation of Curriculum and Instructional Design\n3\nEDUC2210\nEducation and Society in Hong Kong\n2\nEDUC2220\nEducational Thought\n2\nEDUC3140\nCurricular Strategies for Tackling Individual Differences\n2\nEDUC4330\nSchool Guidance and Counselling\n2\nArea II: Social Work\nSOWK1001\nIntroduction to Social Work and Social Welfare\n3\nSOWK1114\nFrom Understanding to Empowering the Socially Disadvantaged\n3\nSOWK1150\nChoices In Life: An Invitation to Self-Development\n3\nSOWK2020\nPhilosophy and Principles of Social Work\n3\nSOWK2110\nHuman Behaviour and the Social Environment\n3\nSOWK2202\nSocial Work and Cultural Diversity\n3\nSOWK2203\nMission-driven Social Enterprise\n3\nSOWK2204\nSocial Innovation and Social Change for Good\n3\nArea III: Translation and Interpretation\nBMBL3002\nIntroduction to Sign Language Interpreting\n3\nLING2301\nLanguage and Society\n3\nTRAN1010\nPrinciples of Translation\n3\nTRAN1030\nIntroduction to Interpreting\n3\nTRAN1130\nTextual Analysis and Readings\n3\nTRAN2070\nIntroduction to Translation Studies\n3\nTRAN2110\nCulture and Translation\n3\nTRAN2840\nIntroduction to Legal Translation\n3\nArea IV: Language and Communication Sciences\nLING3201\nFirst Language Acquisition\n3\nLING3208\nLanguage Disorders\n3\nLING4202\nSpecial Topics in Language and Mind\n3\nSLPA5106\nAnatomy and Physiology of Speech, Language and Hearing\n3\nSLPA5602\nSpecial Topics in Speech-Language-Pathology\n3\n[ ] Old course code used in 2024-25 and before.\nStudy Scheme\nLearning Outcomes\n1. Major Programme:\nUpon completing the programme, students will have:\n1. Achieved a new understanding of how knowledge of language is organized and transmitted through the visual-spatial modality, as opposed to spoken languages, organized and transmitted in fundamentally different ways;\n2. Appreciated how this new understanding can potentially transform the society’s perception about sign language, giving it a linguistic status that is equal to spoken languages;\n3. To be able to evaluate critically the development of bimodal bilingualism in society from the perspective of information accessibility and effective communication in domains of education, social and public communication, child care, counselling and clinical services; and\n4. To be proficient in spoken languages and sign languages in order to undertake responsibilities in professional settings which call for such linguistic skills.\n2. Minor Programme:\nUpon completion of the programme, the student will have:\n1. a reasonable level of communicative competence in HKSL, including being able to comprehend and interact with deaf people in HKSL with a reasonable level of confidence;\n2. an understanding of the visual communication strategies of Deaf people;\n3. knowledge of Deaf culture and the readiness for appreciating linguistic and cultural diversity in society;\n4. an understanding that deafness is not a disability and the Deaf Community can be viewed as a linguistic minority group with its unique culture;\n5. a general understanding of the grammar of HKSL especially how it differs from the local spoken languages; and\n6. knowledge of the potential adoption of HKSL in social, education and professional practices."
+      }
+    ]
+  },
+  "all_course_mentions": [
+    {
+      "course_code": "BMBL1001",
+      "prefix_inferred": false,
+      "evidence": "BMBL1001, LING1000"
+    },
+    {
+      "course_code": "LING1000",
+      "prefix_inferred": false,
+      "evidence": "BMBL1001, LING1000"
+    },
+    {
+      "course_code": "BMBL2001",
+      "prefix_inferred": false,
+      "evidence": "BMBL2001, 2002, 2003"
+    },
+    {
+      "course_code": "BMBL2002",
+      "prefix_inferred": true,
+      "evidence": "BMBL2001, 2002, 2003"
+    },
+    {
+      "course_code": "BMBL2003",
+      "prefix_inferred": true,
+      "evidence": "BMBL2001, 2002, 2003"
+    },
+    {
+      "course_code": "BMBL1002",
+      "prefix_inferred": false,
+      "evidence": "BMBL1002[3001], 2004[4001]"
+    },
+    {
+      "course_code": "BMBL2004",
+      "prefix_inferred": true,
+      "evidence": "BMBL1002[3001], 2004[4001]"
+    },
+    {
+      "course_code": "HKSL1000",
+      "prefix_inferred": false,
+      "evidence": "(i) HKSL1000 and 1002[2000], or 1003[2050]"
+    },
+    {
+      "course_code": "HKSL1002",
+      "prefix_inferred": true,
+      "evidence": "(i) HKSL1000 and 1002[2000], or 1003[2050]"
+    },
+    {
+      "course_code": "HKSL1003",
+      "prefix_inferred": true,
+      "evidence": "(i) HKSL1000 and 1002[2000], or 1003[2050]"
+    },
+    {
+      "course_code": "HKSL2001",
+      "prefix_inferred": false,
+      "evidence": "(ii) HKSL2001 and 2002[3000], or 2003[3050]"
+    },
+    {
+      "course_code": "HKSL2002",
+      "prefix_inferred": true,
+      "evidence": "(ii) HKSL2001 and 2002[3000], or 2003[3050]"
+    },
+    {
+      "course_code": "HKSL2003",
+      "prefix_inferred": true,
+      "evidence": "(ii) HKSL2001 and 2002[3000], or 2003[3050]"
+    },
+    {
+      "course_code": "HKSL3001",
+      "prefix_inferred": false,
+      "evidence": "(iii) HKSL3001 and 3002"
+    },
+    {
+      "course_code": "HKSL3002",
+      "prefix_inferred": true,
+      "evidence": "(iii) HKSL3001 and 3002"
+    },
+    {
+      "course_code": "LING2003",
+      "prefix_inferred": false,
+      "evidence": "LING2003, 2004, 2005, 2006 or 3101"
+    },
+    {
+      "course_code": "LING2004",
+      "prefix_inferred": true,
+      "evidence": "LING2003, 2004, 2005, 2006 or 3101"
+    },
+    {
+      "course_code": "LING2005",
+      "prefix_inferred": true,
+      "evidence": "LING2003, 2004, 2005, 2006 or 3101"
+    },
+    {
+      "course_code": "LING2006",
+      "prefix_inferred": true,
+      "evidence": "LING2003, 2004, 2005, 2006 or 3101"
+    },
+    {
+      "course_code": "LING3101",
+      "prefix_inferred": true,
+      "evidence": "LING2003, 2004, 2005, 2006 or 3101"
+    },
+    {
+      "course_code": "BMBL4101",
+      "prefix_inferred": false,
+      "evidence": "BMBL4101 and 4102 (capstone courses)"
+    },
+    {
+      "course_code": "BMBL4102",
+      "prefix_inferred": true,
+      "evidence": "BMBL4101 and 4102 (capstone courses)"
+    },
+    {
+      "course_code": "BMBL4201",
+      "prefix_inferred": false,
+      "evidence": "BMBL4201 and 4202 (capstone courses)"
+    },
+    {
+      "course_code": "BMBL4202",
+      "prefix_inferred": true,
+      "evidence": "BMBL4201 and 4202 (capstone courses)"
+    },
+    {
+      "course_code": "CHED4220",
+      "prefix_inferred": false,
+      "evidence": "CHED4220, 4340, 4370, 4510, EDUC2120, 2210, 2220, 3140, 4330"
+    },
+    {
+      "course_code": "CHED4340",
+      "prefix_inferred": true,
+      "evidence": "CHED4220, 4340, 4370, 4510, EDUC2120, 2210, 2220, 3140, 4330"
+    },
+    {
+      "course_code": "CHED4370",
+      "prefix_inferred": true,
+      "evidence": "CHED4220, 4340, 4370, 4510, EDUC2120, 2210, 2220, 3140, 4330"
+    },
+    {
+      "course_code": "CHED4510",
+      "prefix_inferred": true,
+      "evidence": "CHED4220, 4340, 4370, 4510, EDUC2120, 2210, 2220, 3140, 4330"
+    },
+    {
+      "course_code": "EDUC2120",
+      "prefix_inferred": false,
+      "evidence": "CHED4220, 4340, 4370, 4510, EDUC2120, 2210, 2220, 3140, 4330"
+    },
+    {
+      "course_code": "EDUC2210",
+      "prefix_inferred": true,
+      "evidence": "CHED4220, 4340, 4370, 4510, EDUC2120, 2210, 2220, 3140, 4330"
+    },
+    {
+      "course_code": "EDUC2220",
+      "prefix_inferred": true,
+      "evidence": "CHED4220, 4340, 4370, 4510, EDUC2120, 2210, 2220, 3140, 4330"
+    },
+    {
+      "course_code": "EDUC3140",
+      "prefix_inferred": true,
+      "evidence": "CHED4220, 4340, 4370, 4510, EDUC2120, 2210, 2220, 3140, 4330"
+    },
+    {
+      "course_code": "EDUC4330",
+      "prefix_inferred": true,
+      "evidence": "CHED4220, 4340, 4370, 4510, EDUC2120, 2210, 2220, 3140, 4330"
+    },
+    {
+      "course_code": "SOWK1001",
+      "prefix_inferred": false,
+      "evidence": "SOWK1001, 1114, 1150, 2020, 2110, 2202, 2203, 2204"
+    },
+    {
+      "course_code": "SOWK1114",
+      "prefix_inferred": true,
+      "evidence": "SOWK1001, 1114, 1150, 2020, 2110, 2202, 2203, 2204"
+    },
+    {
+      "course_code": "SOWK1150",
+      "prefix_inferred": true,
+      "evidence": "SOWK1001, 1114, 1150, 2020, 2110, 2202, 2203, 2204"
+    },
+    {
+      "course_code": "SOWK2020",
+      "prefix_inferred": true,
+      "evidence": "SOWK1001, 1114, 1150, 2020, 2110, 2202, 2203, 2204"
+    },
+    {
+      "course_code": "SOWK2110",
+      "prefix_inferred": true,
+      "evidence": "SOWK1001, 1114, 1150, 2020, 2110, 2202, 2203, 2204"
+    },
+    {
+      "course_code": "SOWK2202",
+      "prefix_inferred": true,
+      "evidence": "SOWK1001, 1114, 1150, 2020, 2110, 2202, 2203, 2204"
+    },
+    {
+      "course_code": "SOWK2203",
+      "prefix_inferred": true,
+      "evidence": "SOWK1001, 1114, 1150, 2020, 2110, 2202, 2203, 2204"
+    },
+    {
+      "course_code": "SOWK2204",
+      "prefix_inferred": true,
+      "evidence": "SOWK1001, 1114, 1150, 2020, 2110, 2202, 2203, 2204"
+    },
+    {
+      "course_code": "BMBL3002",
+      "prefix_inferred": false,
+      "evidence": "BMBL3002, LING2301, TRAN1010, 1030, 1130, 2070, 2110, 2840"
+    },
+    {
+      "course_code": "LING2301",
+      "prefix_inferred": false,
+      "evidence": "BMBL3002, LING2301, TRAN1010, 1030, 1130, 2070, 2110, 2840"
+    },
+    {
+      "course_code": "TRAN1010",
+      "prefix_inferred": false,
+      "evidence": "BMBL3002, LING2301, TRAN1010, 1030, 1130, 2070, 2110, 2840"
+    },
+    {
+      "course_code": "TRAN1030",
+      "prefix_inferred": true,
+      "evidence": "BMBL3002, LING2301, TRAN1010, 1030, 1130, 2070, 2110, 2840"
+    },
+    {
+      "course_code": "TRAN1130",
+      "prefix_inferred": true,
+      "evidence": "BMBL3002, LING2301, TRAN1010, 1030, 1130, 2070, 2110, 2840"
+    },
+    {
+      "course_code": "TRAN2070",
+      "prefix_inferred": true,
+      "evidence": "BMBL3002, LING2301, TRAN1010, 1030, 1130, 2070, 2110, 2840"
+    },
+    {
+      "course_code": "TRAN2110",
+      "prefix_inferred": true,
+      "evidence": "BMBL3002, LING2301, TRAN1010, 1030, 1130, 2070, 2110, 2840"
+    },
+    {
+      "course_code": "TRAN2840",
+      "prefix_inferred": true,
+      "evidence": "BMBL3002, LING2301, TRAN1010, 1030, 1130, 2070, 2110, 2840"
+    },
+    {
+      "course_code": "LING3201",
+      "prefix_inferred": false,
+      "evidence": "LING3201, 3208, 4202, SLPA5106, 5602"
+    },
+    {
+      "course_code": "LING3208",
+      "prefix_inferred": true,
+      "evidence": "LING3201, 3208, 4202, SLPA5106, 5602"
+    },
+    {
+      "course_code": "LING4202",
+      "prefix_inferred": true,
+      "evidence": "LING3201, 3208, 4202, SLPA5106, 5602"
+    },
+    {
+      "course_code": "SLPA5106",
+      "prefix_inferred": false,
+      "evidence": "LING3201, 3208, 4202, SLPA5106, 5602"
+    },
+    {
+      "course_code": "SLPA5602",
+      "prefix_inferred": true,
+      "evidence": "LING3201, 3208, 4202, SLPA5106, 5602"
+    },
+    {
+      "course_code": "BMBL1001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BMBL1001, HKSL1000, LING1000"
+    },
+    {
+      "course_code": "HKSL1000",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BMBL1001, HKSL1000, LING1000"
+    },
+    {
+      "course_code": "LING1000",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BMBL1001, HKSL1000, LING1000"
+    },
+    {
+      "course_code": "BMBL2001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BMBL2001, HKSL1002[2000]"
+    },
+    {
+      "course_code": "HKSL1002",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BMBL2001, HKSL1002[2000]"
+    },
+    {
+      "course_code": "HKSL2003",
+      "prefix_inferred": false,
+      "evidence": "Major Required: HKSL2003[3050]"
+    },
+    {
+      "course_code": "BMBL1002",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BMBL1002[3001], 2003, HKSL3001"
+    },
+    {
+      "course_code": "BMBL2003",
+      "prefix_inferred": true,
+      "evidence": "Major Required: BMBL1002[3001], 2003, HKSL3001"
+    },
+    {
+      "course_code": "HKSL3001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BMBL1002[3001], 2003, HKSL3001"
+    },
+    {
+      "course_code": "BMBL4101",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): BMBL4101 or 4201; 1-2 courses from the four areas"
+    },
+    {
+      "course_code": "BMBL4201",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): BMBL4101 or 4201; 1-2 courses from the four areas"
+    },
+    {
+      "course_code": "BMBL2002",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BMBL2002, 2004[4001], HKSL3002"
+    },
+    {
+      "course_code": "BMBL2004",
+      "prefix_inferred": true,
+      "evidence": "Major Required: BMBL2002, 2004[4001], HKSL3002"
+    },
+    {
+      "course_code": "HKSL3002",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BMBL2002, 2004[4001], HKSL3002"
+    },
+    {
+      "course_code": "BMBL4102",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): BMBL4102 or 4202; 0-1 course from the four areas"
+    },
+    {
+      "course_code": "BMBL4202",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): BMBL4102 or 4202; 0-1 course from the four areas"
+    },
+    {
+      "course_code": "HKSL1000",
+      "prefix_inferred": false,
+      "evidence": "HKSL1000 and 1002[2000], or 1003[2050]"
+    },
+    {
+      "course_code": "HKSL1002",
+      "prefix_inferred": true,
+      "evidence": "HKSL1000 and 1002[2000], or 1003[2050]"
+    },
+    {
+      "course_code": "HKSL1003",
+      "prefix_inferred": true,
+      "evidence": "HKSL1000 and 1002[2000], or 1003[2050]"
+    },
+    {
+      "course_code": "HKSL2001",
+      "prefix_inferred": false,
+      "evidence": "HKSL2001 and 2002[3000], or 2003[3050][b]"
+    },
+    {
+      "course_code": "HKSL2002",
+      "prefix_inferred": true,
+      "evidence": "HKSL2001 and 2002[3000], or 2003[3050][b]"
+    },
+    {
+      "course_code": "HKSL2003",
+      "prefix_inferred": true,
+      "evidence": "HKSL2001 and 2002[3000], or 2003[3050][b]"
+    },
+    {
+      "course_code": "BMBL1001",
+      "prefix_inferred": false,
+      "evidence": "BMBL1001, 1002[3001], 2001, 2002, 2003, 2004[4001], 2005, 3002, 3003 or any HKSL courses other than HKSL1001 and those listed above"
+    },
+    {
+      "course_code": "BMBL1002",
+      "prefix_inferred": true,
+      "evidence": "BMBL1001, 1002[3001], 2001, 2002, 2003, 2004[4001], 2005, 3002, 3003 or any HKSL courses other than HKSL1001 and those listed above"
+    },
+    {
+      "course_code": "BMBL2001",
+      "prefix_inferred": true,
+      "evidence": "BMBL1001, 1002[3001], 2001, 2002, 2003, 2004[4001], 2005, 3002, 3003 or any HKSL courses other than HKSL1001 and those listed above"
+    },
+    {
+      "course_code": "BMBL2002",
+      "prefix_inferred": true,
+      "evidence": "BMBL1001, 1002[3001], 2001, 2002, 2003, 2004[4001], 2005, 3002, 3003 or any HKSL courses other than HKSL1001 and those listed above"
+    },
+    {
+      "course_code": "BMBL2003",
+      "prefix_inferred": true,
+      "evidence": "BMBL1001, 1002[3001], 2001, 2002, 2003, 2004[4001], 2005, 3002, 3003 or any HKSL courses other than HKSL1001 and those listed above"
+    },
+    {
+      "course_code": "BMBL2004",
+      "prefix_inferred": true,
+      "evidence": "BMBL1001, 1002[3001], 2001, 2002, 2003, 2004[4001], 2005, 3002, 3003 or any HKSL courses other than HKSL1001 and those listed above"
+    },
+    {
+      "course_code": "BMBL2005",
+      "prefix_inferred": true,
+      "evidence": "BMBL1001, 1002[3001], 2001, 2002, 2003, 2004[4001], 2005, 3002, 3003 or any HKSL courses other than HKSL1001 and those listed above"
+    },
+    {
+      "course_code": "BMBL3002",
+      "prefix_inferred": true,
+      "evidence": "BMBL1001, 1002[3001], 2001, 2002, 2003, 2004[4001], 2005, 3002, 3003 or any HKSL courses other than HKSL1001 and those listed above"
+    },
+    {
+      "course_code": "BMBL3003",
+      "prefix_inferred": true,
+      "evidence": "BMBL1001, 1002[3001], 2001, 2002, 2003, 2004[4001], 2005, 3002, 3003 or any HKSL courses other than HKSL1001 and those listed above"
+    },
+    {
+      "course_code": "HKSL1001",
+      "prefix_inferred": false,
+      "evidence": "BMBL1001, 1002[3001], 2001, 2002, 2003, 2004[4001], 2005, 3002, 3003 or any HKSL courses other than HKSL1001 and those listed above"
+    },
+    {
+      "course_code": "HKSL1000",
+      "prefix_inferred": false,
+      "evidence": "Students who have prior knowledge of Hong Kong Sign Language before admission may be exempted from taking HKSL1000, 1002[2000], 1003[2050], 2001, 2002[3000] and 2003[3050]. They should seek the advice of the Department to take substitute courses in accordance with their academic qualifications."
+    },
+    {
+      "course_code": "HKSL1002",
+      "prefix_inferred": true,
+      "evidence": "Students who have prior knowledge of Hong Kong Sign Language before admission may be exempted from taking HKSL1000, 1002[2000], 1003[2050], 2001, 2002[3000] and 2003[3050]. They should seek the advice of the Department to take substitute courses in accordance with their academic qualifications."
+    },
+    {
+      "course_code": "HKSL1003",
+      "prefix_inferred": true,
+      "evidence": "Students who have prior knowledge of Hong Kong Sign Language before admission may be exempted from taking HKSL1000, 1002[2000], 1003[2050], 2001, 2002[3000] and 2003[3050]. They should seek the advice of the Department to take substitute courses in accordance with their academic qualifications."
+    },
+    {
+      "course_code": "HKSL2001",
+      "prefix_inferred": true,
+      "evidence": "Students who have prior knowledge of Hong Kong Sign Language before admission may be exempted from taking HKSL1000, 1002[2000], 1003[2050], 2001, 2002[3000] and 2003[3050]. They should seek the advice of the Department to take substitute courses in accordance with their academic qualifications."
+    },
+    {
+      "course_code": "HKSL2002",
+      "prefix_inferred": true,
+      "evidence": "Students who have prior knowledge of Hong Kong Sign Language before admission may be exempted from taking HKSL1000, 1002[2000], 1003[2050], 2001, 2002[3000] and 2003[3050]. They should seek the advice of the Department to take substitute courses in accordance with their academic qualifications."
+    },
+    {
+      "course_code": "HKSL2003",
+      "prefix_inferred": true,
+      "evidence": "Students who have prior knowledge of Hong Kong Sign Language before admission may be exempted from taking HKSL1000, 1002[2000], 1003[2050], 2001, 2002[3000] and 2003[3050]. They should seek the advice of the Department to take substitute courses in accordance with their academic qualifications."
+    },
+    {
+      "course_code": "HKSL3050",
+      "prefix_inferred": false,
+      "evidence": "Students who take HKSL3050 will only be recognized as completing 3 units of courses at 3000 or above level by taking this course. They will have to complete an extra 3 units of courses at 3000 or above level to fulfill the relevant requirements."
+    },
+    {
+      "course_code": "BMBL1001",
+      "prefix_inferred": false,
+      "evidence": "BMBL1001"
+    },
+    {
+      "course_code": "BMBL1002",
+      "prefix_inferred": false,
+      "evidence": "BMBL1002[3001]"
+    },
+    {
+      "course_code": "BMBL2001",
+      "prefix_inferred": false,
+      "evidence": "BMBL2001"
+    },
+    {
+      "course_code": "BMBL2002",
+      "prefix_inferred": false,
+      "evidence": "BMBL2002"
+    },
+    {
+      "course_code": "BMBL2003",
+      "prefix_inferred": false,
+      "evidence": "BMBL2003"
+    },
+    {
+      "course_code": "BMBL2004",
+      "prefix_inferred": false,
+      "evidence": "BMBL2004[4001]"
+    },
+    {
+      "course_code": "BMBL2005",
+      "prefix_inferred": false,
+      "evidence": "BMBL2005"
+    },
+    {
+      "course_code": "BMBL3003",
+      "prefix_inferred": false,
+      "evidence": "BMBL3003"
+    },
+    {
+      "course_code": "BMBL4101",
+      "prefix_inferred": false,
+      "evidence": "BMBL4101"
+    },
+    {
+      "course_code": "BMBL4102",
+      "prefix_inferred": false,
+      "evidence": "BMBL4102"
+    },
+    {
+      "course_code": "BMBL4201",
+      "prefix_inferred": false,
+      "evidence": "BMBL4201"
+    },
+    {
+      "course_code": "BMBL4202",
+      "prefix_inferred": false,
+      "evidence": "BMBL4202"
+    },
+    {
+      "course_code": "HKSL1000",
+      "prefix_inferred": false,
+      "evidence": "HKSL1000"
+    },
+    {
+      "course_code": "HKSL1001",
+      "prefix_inferred": false,
+      "evidence": "HKSL1001"
+    },
+    {
+      "course_code": "HKSL1002",
+      "prefix_inferred": false,
+      "evidence": "HKSL1002[2000]"
+    },
+    {
+      "course_code": "HKSL1003",
+      "prefix_inferred": false,
+      "evidence": "HKSL1003[2050]"
+    },
+    {
+      "course_code": "HKSL1100",
+      "prefix_inferred": false,
+      "evidence": "HKSL1100"
+    },
+    {
+      "course_code": "HKSL2001",
+      "prefix_inferred": false,
+      "evidence": "HKSL2001"
+    },
+    {
+      "course_code": "HKSL2002",
+      "prefix_inferred": false,
+      "evidence": "HKSL2002[3000]"
+    },
+    {
+      "course_code": "HKSL2003",
+      "prefix_inferred": false,
+      "evidence": "HKSL2003[3050]"
+    },
+    {
+      "course_code": "HKSL3001",
+      "prefix_inferred": false,
+      "evidence": "HKSL3001"
+    },
+    {
+      "course_code": "HKSL3002",
+      "prefix_inferred": false,
+      "evidence": "HKSL3002"
+    },
+    {
+      "course_code": "HKSL3003",
+      "prefix_inferred": false,
+      "evidence": "HKSL3003"
+    },
+    {
+      "course_code": "HKSL3100",
+      "prefix_inferred": false,
+      "evidence": "HKSL3100"
+    },
+    {
+      "course_code": "LING1000",
+      "prefix_inferred": false,
+      "evidence": "LING1000"
+    },
+    {
+      "course_code": "LING2003",
+      "prefix_inferred": false,
+      "evidence": "LING2003"
+    },
+    {
+      "course_code": "LING2004",
+      "prefix_inferred": false,
+      "evidence": "LING2004"
+    },
+    {
+      "course_code": "LING2005",
+      "prefix_inferred": false,
+      "evidence": "LING2005"
+    },
+    {
+      "course_code": "LING2006",
+      "prefix_inferred": false,
+      "evidence": "LING2006"
+    },
+    {
+      "course_code": "LING3101",
+      "prefix_inferred": false,
+      "evidence": "LING3101"
+    },
+    {
+      "course_code": "CHED4220",
+      "prefix_inferred": false,
+      "evidence": "CHED4220"
+    },
+    {
+      "course_code": "CHED4340",
+      "prefix_inferred": false,
+      "evidence": "CHED4340"
+    },
+    {
+      "course_code": "CHED4370",
+      "prefix_inferred": false,
+      "evidence": "CHED4370"
+    },
+    {
+      "course_code": "CHED4510",
+      "prefix_inferred": false,
+      "evidence": "CHED4510"
+    },
+    {
+      "course_code": "EDUC2120",
+      "prefix_inferred": false,
+      "evidence": "EDUC2120"
+    },
+    {
+      "course_code": "EDUC2210",
+      "prefix_inferred": false,
+      "evidence": "EDUC2210"
+    },
+    {
+      "course_code": "EDUC2220",
+      "prefix_inferred": false,
+      "evidence": "EDUC2220"
+    },
+    {
+      "course_code": "EDUC3140",
+      "prefix_inferred": false,
+      "evidence": "EDUC3140"
+    },
+    {
+      "course_code": "EDUC4330",
+      "prefix_inferred": false,
+      "evidence": "EDUC4330"
+    },
+    {
+      "course_code": "SOWK1001",
+      "prefix_inferred": false,
+      "evidence": "SOWK1001"
+    },
+    {
+      "course_code": "SOWK1114",
+      "prefix_inferred": false,
+      "evidence": "SOWK1114"
+    },
+    {
+      "course_code": "SOWK1150",
+      "prefix_inferred": false,
+      "evidence": "SOWK1150"
+    },
+    {
+      "course_code": "SOWK2020",
+      "prefix_inferred": false,
+      "evidence": "SOWK2020"
+    },
+    {
+      "course_code": "SOWK2110",
+      "prefix_inferred": false,
+      "evidence": "SOWK2110"
+    },
+    {
+      "course_code": "SOWK2202",
+      "prefix_inferred": false,
+      "evidence": "SOWK2202"
+    },
+    {
+      "course_code": "SOWK2203",
+      "prefix_inferred": false,
+      "evidence": "SOWK2203"
+    },
+    {
+      "course_code": "SOWK2204",
+      "prefix_inferred": false,
+      "evidence": "SOWK2204"
+    },
+    {
+      "course_code": "BMBL3002",
+      "prefix_inferred": false,
+      "evidence": "BMBL3002"
+    },
+    {
+      "course_code": "LING2301",
+      "prefix_inferred": false,
+      "evidence": "LING2301"
+    },
+    {
+      "course_code": "TRAN1010",
+      "prefix_inferred": false,
+      "evidence": "TRAN1010"
+    },
+    {
+      "course_code": "TRAN1030",
+      "prefix_inferred": false,
+      "evidence": "TRAN1030"
+    },
+    {
+      "course_code": "TRAN1130",
+      "prefix_inferred": false,
+      "evidence": "TRAN1130"
+    },
+    {
+      "course_code": "TRAN2070",
+      "prefix_inferred": false,
+      "evidence": "TRAN2070"
+    },
+    {
+      "course_code": "TRAN2110",
+      "prefix_inferred": false,
+      "evidence": "TRAN2110"
+    },
+    {
+      "course_code": "TRAN2840",
+      "prefix_inferred": false,
+      "evidence": "TRAN2840"
+    },
+    {
+      "course_code": "LING3201",
+      "prefix_inferred": false,
+      "evidence": "LING3201"
+    },
+    {
+      "course_code": "LING3208",
+      "prefix_inferred": false,
+      "evidence": "LING3208"
+    },
+    {
+      "course_code": "LING4202",
+      "prefix_inferred": false,
+      "evidence": "LING4202"
+    },
+    {
+      "course_code": "SLPA5106",
+      "prefix_inferred": false,
+      "evidence": "SLPA5106"
+    },
+    {
+      "course_code": "SLPA5602",
+      "prefix_inferred": false,
+      "evidence": "SLPA5602"
+    }
+  ],
+  "course_code_aliases": [
+    {
+      "current_course_code": "BMBL1002",
+      "former_course_code": "BMBL3001",
+      "notation": "plain_bracket",
+      "evidence": "BMBL1002[3001], 2004[4001]"
+    },
+    {
+      "current_course_code": "HKSL1002",
+      "former_course_code": "HKSL2000",
+      "notation": "plain_bracket",
+      "evidence": "Major Required: BMBL2001, HKSL1002[2000]"
+    },
+    {
+      "current_course_code": "HKSL2003",
+      "former_course_code": "HKSL3050",
+      "notation": "plain_bracket",
+      "evidence": "Major Required: HKSL2003[3050]"
+    },
+    {
+      "current_course_code": "BMBL1002",
+      "former_course_code": "BMBL3001",
+      "notation": "plain_bracket",
+      "evidence": "Major Required: BMBL1002[3001], 2003, HKSL3001"
+    },
+    {
+      "current_course_code": "BMBL1002",
+      "former_course_code": "BMBL3001",
+      "notation": "plain_bracket",
+      "evidence": "BMBL1002[3001]"
+    },
+    {
+      "current_course_code": "BMBL2004",
+      "former_course_code": "BMBL4001",
+      "notation": "plain_bracket",
+      "evidence": "BMBL2004[4001]"
+    },
+    {
+      "current_course_code": "HKSL1002",
+      "former_course_code": "HKSL2000",
+      "notation": "plain_bracket",
+      "evidence": "HKSL1002[2000]"
+    },
+    {
+      "current_course_code": "HKSL1003",
+      "former_course_code": "HKSL2050",
+      "notation": "plain_bracket",
+      "evidence": "HKSL1003[2050]"
+    },
+    {
+      "current_course_code": "HKSL2002",
+      "former_course_code": "HKSL3000",
+      "notation": "plain_bracket",
+      "evidence": "HKSL2002[3000]"
+    },
+    {
+      "current_course_code": "HKSL2003",
+      "former_course_code": "HKSL3050",
+      "notation": "plain_bracket",
+      "evidence": "HKSL2003[3050]"
+    }
+  ],
+  "source": {
+    "system": "CUHK CUSIS Browse Program Information",
+    "url": "https://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/tt_dsp_acad_prog.aspx",
+    "source_text_file": "data/cuhk/2024/programmes/B_A_in_Bimodal_Bilingual_Studies__Faculty_of_Arts.txt",
+    "reused_duplicate_entry": false,
+    "reused_from_faculty": null
+  },
+  "raw_text": "\n\nBrowse Program Information\n\n\n\n\n\n\nAcademic Program:\tB.A. in Bimodal Bilingual Studies\nAcademic Year:\t2024\nLanguage:\t\nEnglish\nSimplified Chinese\nTraditional Chinese\n\n\n\nLearning Outcomes\nStudy Scheme\n \n\n\t\n\nBimodal Bilingual Studies\n\nApplicable to students admitted in 2024-25\n\n\n\n\n \n\n\n\n\n \n\nMajor Programme Requirement (for Associate Degree or Higher Diploma holders)\n\n \n\n\n\n\nStudents are required to complete a minimum of 57 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nRequired Courses:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nIntroductory Courses:\n\nBMBL1001, LING1000\n\n\t\n\n6\n\n\n\n\n(b)\n\n\t\n\nSign Linguistics Courses:\n\nBMBL2001, 2002, 2003\n\n\t\n\n9\n\n\n\n\n(c)\n\n\t\n\nLanguage and Education for Deaf Children Courses:\n\nBMBL1002[3001], 2004[4001]\n\n\t\n\n6\n\n\n\n\n(d)\n\n\t\n\nHong Kong Sign Language Courses:\n\n(i)        HKSL1000 and 1002[2000], or 1003[2050]\n\n(ii)     HKSL2001 and 2002[3000], or 2003[3050]\n\n(iii)   HKSL3001 and 3002\n\n\t\n\n \n\n6\n\n6\n\n6\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nElective Courses:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nAny three courses from:\n\nLING2003, 2004, 2005, 2006 or 3101\n\n\t\n\n9\n\n\n\n\n(b)\n\n\t\n\nTwo courses from either (i) or (ii):\n\n\t\n\n3\n\n\n\n\n \n\n\t\n\n(i)\n\n\t\n\nBMBL4101 and 4102 (capstone courses)\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(ii)\n\n\t\n\nBMBL4201 and 4202 (capstone courses)\n\n\t\n\n \n\n\n\n\n(c)\n\n\t\n\nAny 6 units of courses from the following four areas of study:\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\n(i)\n\n\t\n\nArea I: Education\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\nCHED4220, 4340, 4370, 4510, EDUC2120, 2210, 2220, 3140, 4330\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(ii)\n\n\t\n\nArea II: Social Work\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\nSOWK1001, 1114, 1150, 2020, 2110, 2202, 2203, 2204\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(iii)\n\n\t\n\nArea III: Translation and Interpretation\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\nBMBL3002, LING2301, TRAN1010, 1030, 1130, 2070, 2110, 2840\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(iv)\n\n\t\n\nArea IV: Language and Communication Sciences\n\nLING3201, 3208, 4202, SLPA5106, 5602\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n57\n\n\n\n\nExplanatory Notes:\n\n\n\n\n1.\n\n\t\n\nBMBL, CHED, EDUC, HKSL, LING, SLPA, SOWK and TRAN courses at 2000 and above level as included in the Major Programme Requirement will be included in the calculation of Major GPA for honours classification.\n\n\n\n\n2.\n\n\t\n\nFor students whose native language is Hong Kong Sign Language (HKSL) or who possess equivalent competence in HKSL, subject to the approval of the Major Department, they should take course(s) of a language other than English, Chinese and HKSL, and LING courses in place of the HKSL courses, as specified below:\n\n \n\n\n\n\n \n\n\t\n\nUnits of HKSL Courses Exempted\n\n\t\n\nCourse Substitution\n\n\n\n\n \n\n\t\n\n3 units\n\n\t\n\n3 units of course(s) of a language other than English, Chinese and HKSL  \n\n\n\n\n \n\n\t\n\n6 units\n\n\t\n\n6 units of course(s) of a language other than English, Chinese and HKSL  \n\n\n\n\n \n\n\t\n\n9 units and above\n\n\t\n\nat least 6 - 9 units of course(s) of a language other than English, Chinese and HKSL, and LING courses at 2000 or above level\n\n\n\n\n[ ] \n\n\t\n\nOld course code used in 2024-25 and before.\n\n\n\t\t\t\t\n\n\n\n\n \n\n\n\n\n \n\n\t\n\nRecommended Course Pattern\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: BMBL1001, HKSL1000, LING1000\n\n\t\n\n9\n\n\n\n\nMajor Elective(s): 1 – 2 LING courses\n\n\t\n\n3 - 6\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: BMBL2001, HKSL1002[2000]\n\n\t\n\n6\n\n\n\n\nMajor Elective(s): 1 – 2 LING courses\n\n\t\n\n3 - 6\n\n\n\n\nSummer Session\n\n\t\n\n \n\n\n\n\nMajor Required: HKSL2003[3050]\n\n\t\n\n6\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: BMBL1002[3001], 2003, HKSL3001\n\n\t\n\n9\n\n\n\n\nMajor Elective(s):   BMBL4101 or 4201; 1-2 courses from the four areas\n\n\t\n\n2-6\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: BMBL2002, 2004[4001], HKSL3002\n\n\t\n\n9\n\n\n\n\nMajor Elective(s):   BMBL4102 or 4202; 0-1 course from the four areas\n\n\t\n\n3-6\n\n\n\n\nTotal:\n\n\t\n\n57\n\n\n\n\n \n\nMinor Programme Title\n\nHong Kong Sign Language\n\n \n\n\n\n\n \n\nMinor Programme Requirement\n\n \n\n\n\n\nStudents are required to complete a minimum of 18 units of courses, with at least 6 units at 3000 or above level, as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nRequired Courses[a]:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nHKSL1000 and 1002[2000], or 1003[2050]\n\n\t\n\n6\n\n\n\n\n(b)\n\n\t\n\nHKSL2001 and 2002[3000], or 2003[3050][b]\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nElective Courses:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nBMBL1001, 1002[3001], 2001, 2002, 2003, 2004[4001], 2005, 3002, 3003 or any HKSL courses other than HKSL1001 and those listed above\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n18\n\n\n\n\nExplanatory Notes:\n\n\n\n\n1.\n\n\t\n\nThis Minor Programme is not applicable to students who major in Bimodal Bilingual Studies.\n\n\n\n\n2.\n\n\t\n\nLinguistics Major students can only take HKSL courses to fulfill the requirement of (2).\n\n\n\n\n[a]\n\n\t\n\nStudents who have prior knowledge of Hong Kong Sign Language before admission may be exempted from taking HKSL1000, 1002[2000], 1003[2050], 2001, 2002[3000] and 2003[3050]. They should seek the advice of the Department to take substitute courses in accordance with their academic qualifications.\n\n\n\n\n[b]\n\n\t\n\nStudents who take HKSL3050 will only be recognized as completing 3 units of courses at 3000 or above level by taking this course.  They will have to complete an extra 3 units of courses at 3000 or above level to fulfill the relevant requirements.\n\n\n\n\n[ ]\n\n\t\n\nOld course code used in 2024-25 and before.\n\n\n\n\n \n\n\n\n\nCourse List\n\n\n\n\nCourse code\n\n\t\n\nCourse Title\n\n\t\n\nUnit(s)\n\n\n\n\nBMBL1001\n\n\t\n\nIntroduction to Sign Language and Bimodal Bilingualism\n\n\t\n\n3\n\n\n\n\nBMBL1002[3001]\n\n\t\n\nSign Language in Education\n\n\t\n\n3\n\n\n\n\nBMBL2001\n\n\t\n\nSign Linguistics I: Phonetics and Phonology\n\n\t\n\n3\n\n\n\n\nBMBL2002\n\n\t\n\nSign Linguistics II: Morphology and Morpho-syntax\n\n\t\n\n3\n\n\n\n\nBMBL2003\n\n\t\n\nSign Linguistics III: Syntax, Semantics and Pragmatics\n\n\t\n\n3\n\n\n\n\nBMBL2004[4001]\n\n\t\n\nLanguage Acquisition of Deaf Children\n\n\t\n\n3\n\n\n\n\nBMBL2005\n\n\t\n\nSign Language and the Mind\n\n\t\n\n3\n\n\n\n\nBMBL3003\n\n\t\n\nSpecial Topics in Sign Language Studies\n\n\t\n\n3\n\n\n\n\nBMBL4101\n\n\t\n\nResearch Project I\n\n\t\n\n0\n\n\n\n\nBMBL4102\n\n\t\n\nResearch Project II\n\n\t\n\n3\n\n\n\n\nBMBL4201\n\n\t\n\nService Learning I\n\n\t\n\n0\n\n\n\n\nBMBL4202\n\n\t\n\nService Learning II\n\n\t\n\n3\n\n\n\n\nHKSL1000\n\n\t\n\nHong Kong Sign Language I\n\n\t\n\n3\n\n\n\n\nHKSL1001\n\n\t\n\nHong Kong Sign Language Taster\n\n\t\n\n1\n\n\n\n\nHKSL1002[2000]\n\n\t\n\nHong Kong Sign Language II\n\n\t\n\n3\n\n\n\n\nHKSL1003[2050]\n\n\t\n\nHong Kong Sign Language I & II\n\n\t\n\n6\n\n\n\n\nHKSL1100\n\n\t\n\nExploring Deafhood\n\n\t\n\n3\n\n\n\n\nHKSL2001\n\n\t\n\nHong Kong Sign Language III\n\n\t\n\n3\n\n\n\n\nHKSL2002[3000]\n\n\t\n\nHong Kong Sign Language IV\n\n\t\n\n3\n\n\n\n\nHKSL2003[3050]\n\n\t\n\nHong Kong Sign Language III & IV\n\n\t\n\n6\n\n\n\n\nHKSL3001\n\n\t\n\nHong Kong Sign Language V\n\n\t\n\n3\n\n\n\n\nHKSL3002\n\n\t\n\nHong Kong Sign Language VI\n\n\t\n\n3\n\n\n\n\nHKSL3003\n\n\t\n\nHong Kong Sign Language V & VI\n\n\t\n\n6\n\n\n\n\nHKSL3100\n\n\t\n\nSpecial Topics in Hong Kong Sign Language\n\n\t\n\n3\n\n\n\n\nLING1000\n\n\t\n\nInvitation to Linguistics\n\n\t\n\n3\n\n\n\n\nLING2003\n\n\t\n\nPhonetics I\n\n\t\n\n3\n\n\n\n\nLING2004\n\n\t\n\nPhonology I\n\n\t\n\n3\n\n\n\n\nLING2005\n\n\t\n\nSyntax I\n\n\t\n\n3\n\n\n\n\nLING2006\n\n\t\n\nSemantics\n\n\t\n\n3\n\n\n\n\nLING3101\n\n\t\n\nMorphology\n\n\t\n\n3\n\n\n\n\nOther areas\n\n\n\n\nArea I: Education\n\n\n\n\nCHED4220\n\n\t\n\nHome-School-Community Collaboration for School Development\n\n\t\n\n3\n\n\n\n\nCHED4340\n\n\t\n\nSupporting Preschool Children with Special Educational Needs\n\n\t\n\n3\n\n\n\n\nCHED4370\n\n\t\n\nCounselling Young Children\n\n\t\n\n2\n\n\n\n\nCHED4510\n\n\t\n\nValues Education in Early Childhood Education\n\n\t\n\n2\n\n\n\n\nEDUC2120\n\n\t\n\nPrinciples and Implementation of Curriculum and Instructional Design\n\n\t\n\n3\n\n\n\n\nEDUC2210\n\n\t\n\nEducation and Society in Hong Kong\n\n\t\n\n2\n\n\n\n\nEDUC2220\n\n\t\n\nEducational Thought\n\n\t\n\n2\n\n\n\n\nEDUC3140\n\n\t\n\nCurricular Strategies for Tackling Individual Differences\n\n\t\n\n2\n\n\n\n\nEDUC4330\n\n\t\n\nSchool Guidance and Counselling\n\n\t\n\n2\n\n\n\n\nArea II: Social Work\n\n\n\n\nSOWK1001\n\n\t\n\nIntroduction to Social Work and Social Welfare\n\n\t\n\n3\n\n\n\n\nSOWK1114\n\n\t\n\nFrom Understanding to Empowering the Socially Disadvantaged\n\n\t\n\n3\n\n\n\n\nSOWK1150\n\n\t\n\nChoices In Life: An Invitation to Self-Development\n\n\t\n\n3\n\n\n\n\nSOWK2020\n\n\t\n\nPhilosophy and Principles of Social Work\n\n\t\n\n3\n\n\n\n\nSOWK2110\n\n\t\n\nHuman Behaviour and the Social Environment\n\n\t\n\n3\n\n\n\n\nSOWK2202\n\n\t\n\nSocial Work and Cultural Diversity\n\n\t\n\n3\n\n\n\n\nSOWK2203\n\n\t\n\nMission-driven Social Enterprise\n\n\t\n\n3\n\n\n\n\nSOWK2204\n\n\t\n\nSocial Innovation and Social Change for Good\n\n\t\n\n3\n\n\n\n\nArea III: Translation and Interpretation\n\n\n\n\nBMBL3002\n\n\t\n\nIntroduction to Sign Language Interpreting\n\n\t\n\n3\n\n\n\n\nLING2301\n\n\t\n\nLanguage and Society\n\n\t\n\n3\n\n\n\n\nTRAN1010\n\n\t\n\nPrinciples of Translation\n\n\t\n\n3\n\n\n\n\nTRAN1030\n\n\t\n\nIntroduction to Interpreting\n\n\t\n\n3\n\n\n\n\nTRAN1130\n\n\t\n\nTextual Analysis and Readings\n\n\t\n\n3\n\n\n\n\nTRAN2070\n\n\t\n\nIntroduction to Translation Studies\n\n\t\n\n3\n\n\n\n\nTRAN2110\n\n\t\n\nCulture and Translation\n\n\t\n\n3\n\n\n\n\nTRAN2840\n\n\t\n\nIntroduction to Legal Translation\n\n\t\n\n3\n\n\n\n\nArea IV: Language and Communication Sciences\n\n\n\n\nLING3201\n\n\t\n\nFirst Language Acquisition\n\n\t\n\n3\n\n\n\n\nLING3208\n\n\t\n\nLanguage Disorders\n\n\t\n\n3\n\n\n\n\nLING4202\n\n\t\n\nSpecial Topics in Language and Mind\n\n\t\n\n3\n\n\n\n\nSLPA5106\n\n\t\n\nAnatomy and Physiology of Speech, Language and Hearing\n\n\t\n\n3\n\n\n\n\nSLPA5602\n\n\t\n\nSpecial Topics in Speech-Language-Pathology\n\n\t\n\n3\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n[ ]      Old course code used in 2024-25 and before.\n\n \n\n\n \n\nStudy Scheme\n\n\nLearning Outcomes\n \n\n\t\n\n \n\n1.          Major Programme:\n\nUpon completing the programme, students will have:\n\n1.      Achieved a new understanding of how knowledge of language is organized and transmitted through the visual-spatial modality, as opposed to spoken languages, organized and transmitted in fundamentally different ways;\n\n2.      Appreciated how this new understanding can potentially transform the society’s perception about sign language, giving it a linguistic status that is equal to spoken languages;\n\n3.      To be able to evaluate critically the development of bimodal bilingualism in society from the perspective of information accessibility and effective communication in domains of education, social and public communication, child care, counselling and clinical services; and\n\n4.      To be proficient in spoken languages and sign languages in order to undertake responsibilities in professional settings which call for such linguistic skills.\n\n\n\n\n \n\n\n\n\n2.             Minor Programme:\n\nUpon completion of the programme, the student will have:\n\n1.        a reasonable level of communicative competence in HKSL, including being able to comprehend and interact with deaf people in HKSL with a reasonable level of confidence;\n\n2.        an understanding of the visual communication strategies of Deaf people;\n\n3.        knowledge of Deaf culture and the readiness for appreciating linguistic and cultural diversity in society;\n\n4.        an understanding that deafness is not a disability and the Deaf Community can be viewed as a linguistic minority group with its unique culture;\n\n5.        a general understanding of the grammar of HKSL especially how it differs from the local spoken languages; and\n\n6.        knowledge of the potential adoption of HKSL in social, education and professional practices.\n\n \n\n \n\n\n"
+}

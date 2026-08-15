@@ -1,0 +1,42 @@
+{
+  "note": "These records are duplicate programme entries under another Faculty filter. The CUSIS detail page did not render for that duplicate entry; the saved text is copied from the same programme's successfully retrieved official CUSIS detail.",
+  "records": [
+    {
+      "programme": "B.Sc. in Aerospace Science and Earth Informatics & X Double Major Programme",
+      "faculty": "Faculty of Social Science",
+      "reusedFrom": "Faculty of Engineering",
+      "file": "B_Sc_in_Aerospace_Science_and_Earth_Informatics_X_Double_Major_Programme__Faculty_of_Social_Science.txt",
+      "verificationNote": "The Social Science listing previously produced an empty detail capture. The Engineering, Science and Others listings have byte-identical official detail text; this entry reuses that content and remains explicitly provenance-marked."
+    },
+    {
+      "programme": "B.Sc. in Learning Design and Technology",
+      "faculty": "Faculty of Engineering",
+      "reusedFrom": "Faculty of Science",
+      "file": "B_Sc_in_Learning_Design_and_Technology__Faculty_of_Engineering.txt"
+    },
+    {
+      "programme": "B.Sc. in Learning Design and Technology",
+      "faculty": "Others",
+      "reusedFrom": "Faculty of Science",
+      "file": "B_Sc_in_Learning_Design_and_Technology__Others.txt"
+    },
+    {
+      "programme": "B.Sc. in Mathematics and Information Engineering",
+      "faculty": "Others",
+      "reusedFrom": "Faculty of Science",
+      "file": "B_Sc_in_Mathematics_and_Information_Engineering__Others.txt"
+    },
+    {
+      "programme": "B.Sc. in Quantitative Finance and Risk Management Science",
+      "faculty": "Others",
+      "reusedFrom": "Faculty of Business Administration",
+      "file": "B_Sc_in_Quantitative_Finance_and_Risk_Management_Science__Others.txt"
+    },
+    {
+      "programme": "Interdisciplinary Major Programme in Global Economics and Finance",
+      "faculty": "Others",
+      "reusedFrom": "Faculty of Business Administration",
+      "file": "Interdisciplinary_Major_Programme_in_Global_Economics_and_Finance__Others.txt"
+    }
+  ]
+}

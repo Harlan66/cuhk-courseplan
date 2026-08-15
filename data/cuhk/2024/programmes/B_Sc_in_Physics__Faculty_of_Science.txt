@@ -1,0 +1,4483 @@
+
+
+Browse Program Information
+
+
+
+
+
+
+Academic Program:	B.Sc. in Physics
+Academic Year:	2024
+Language:	
+English
+Simplified Chinese
+Traditional Chinese
+
+
+
+Learning Outcomes
+Study Scheme
+ 
+
+	
+
+Physics
+
+Applicable to students admitted in 2024-25
+
+
+
+
+ 
+
+
+
+
+ 
+
+Students admitted to the Physics Major Programme through the broad-based admission scheme may apply to specialize in the Enrichment Stream in Theoretical Physics no sooner than their third year of attendance if they have obtained a GPA of 3.3 or above in all PHYS courses (excluding PHYS courses at 1000 level).  Students admitted to the Theoretical Physics Programme are placed in the Enrichment Stream in Theoretical Physics automatically, declaration is not required.  The minimum units required for the Enrichment Stream in Theoretical Physics is 72.
+
+ 
+
+
+
+
+Major Programme Requirement
+
+                                                                       
+
+	
+
+ 
+
+
+
+
+Students are required to complete a minimum of 71 units (72 units for Enrichment Stream in Theoretical Physics) of courses as follows:
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+Units
+
+
+
+
+1.
+
+	
+
+Faculty Package:
+
+	
+
+9
+
+
+
+
+ 
+
+	
+
+Group D: PHYS1111 or 1113
+
+Group C: MATH1010 or 1018
+
+A course from the following
+
+Group B: CHEM1070 or 1072 or 1280
+
+Group E: STAT1011 or 1012 
+
+Group A: LSCI1001 or 1002 or 1012
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+2.
+
+	
+
+Required Courses[a]:
+
+	
+
+ 
+
+
+
+
+(a)
+
+	
+Physics courses
+
+PHYS1122, 1712, 2041, 2051[b], 2510, 2520, 2711, 2722, 3011, 3021, 3022, 3031 (or 4031)[c][d], 3041, 3710, 4610 (capstone course) [e], 4801[f]
+
+	
+
+35
+
+
+
+
+(b)
+
+	
+Mathematics and Chemistry courses
+	
+
+3 or 6[g1]
+
+
+
+
+ 
+
+	
+(i)
+	
+
+One course from MATH2010, 2530
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+(ii)
+	
+
+One course from CHEM1070, 1072[g]
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+ 
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+3.
+
+	
+
+Elective Courses:
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+24 or 21 units[g2] of the following courses:
+
+	
+
+24 or 21[g2]
+
+
+
+
+ 
+
+	
+
+CSCI3320, EESC4010, 4520, MATH3290, 4030, PHYS2061[b][h] or equivalent, PHYS2401, 2610, 3023, 3031[c], 3051, 3061, 3403, 3410[h], 3420, 3430, 3440, 3610, 3630, 3730, 3810, 4011, 4021, 4031[c], 4041, 4050, 4051, 4061, 4420, 4430, 4440, 4450, 4460, 4470, 4480, 4490, 4491, 4492, 4620[e], 4630, 4710, 4711, 4712, 4802[f], 4811, 4812, and all PHYS and MSEG courses at 5000 level[i].  Students may seek approval from the Department to substitute up to 6 units of elective courses with relevant courses at the appropriate (typically 3000 or 4000) level offered by other programmes.
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+Total:
+
+	
+
+71
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Streams:
+
+Students may declare at most two of the following streams by taking the stream-specific courses.
+
+
+
+
+ 
+
+
+
+
+Enrichment Stream in Theoretical Physics
+
+	
+
+ 
+
+
+
+
+(a)
+
+	
+
+Required courses:
+
+PHYS2061[b][h], 3051, 4620[e], 4802
+
+	
+
+10
+
+ 
+
+
+
+
+(b)
+
+	
+
+Elective courses (of which at least two courses from MATH4030, PHYS4011, 4021[j], 4041[j], 4460):
+
+MATH3290, 4030, PHYS3031[c], 4011, 4021[j], 4031[c], 4041[j], 4050[j], 4051, 4061, 4420, 4430, 4460, 4470
+
+	
+
+15 or 12[g3]
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Astrophysics and Particle Physics Stream
+
+	
+
+ 
+
+
+
+
+(a)
+
+	
+
+Required courses:
+
+PHYS2401, 4430, 4460, 4470
+
+	
+
+12
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Computational and Data Physics Stream
+
+	
+
+ 
+
+
+
+
+(a)
+
+	
+
+Required courses:
+
+PHYS2061[b][h], 3061, 4061
+
+	
+
+9
+
+ 
+
+
+
+
+(b)
+
+	
+
+Elective courses:
+
+One course from CSCI3320, ELEG5491, PHYS5061, 5520, 5610
+
+	
+
+3
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Quantum Science and Technology Stream
+
+	
+
+ 
+
+
+
+
+(a)
+
+	
+
+Required courses:
+
+PHYS4021[j], 4031[c], 4050[j]
+
+	
+
+9
+
+ 
+
+
+
+
+(b)
+
+	
+
+Elective courses:
+
+Two courses from PHYS3023, 4440, 4450 (or 5320), 5510 (or 5430), 5550 (or 5590)
+
+	
+
+6
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+In addition to fulfilling the above Major Programme Requirement, students meeting the criteria as specified by the Faculty can take the following stream offered by the Faculty:
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Science, Technology And Research Stream
+
+ 
+
+
+
+
+Students are required to complete a minimum of 12 units of courses as follows:
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+Units
+
+
+
+
+1.
+
+	
+
+Required Courses:
+
+	
+
+ 
+
+
+
+
+(a)
+
+	
+
+One Faculty Package course:
+
+	
+
+3
+
+
+
+
+ 
+
+	
+
+Choose from the two remaining groups of the Faculty    Package that have not been used to fulfill the Major    Programme Requirement
+
+	
+
+ 
+
+
+
+
+(b)
+
+	
+
+Research courses:
+
+	
+
+6
+
+
+
+
+ 
+
+	
+
+STAR2000, 3000, 4000[k]
+
+	
+
+ 
+
+
+
+
+(c)
+
+	
+
+Seminar courses:
+
+	
+
+3
+
+
+
+
+ 
+
+	
+
+STAR2050, 3050, 4050
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+2.
+
+	
+
+Experiential Learning:
+
+	
+
+---
+
+
+
+
+ 
+
+	
+
+At least 4 consecutive weeks of outside Hong Kong exposure[l]
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+Total:
+
+	
+
+12
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Explanatory Notes:
+
+	
+
+ 
+
+
+
+
+1.
+
+	
+
+PHYS and MSEG courses at 2000 and above level will be included in the calculation of Major GPA for honours classification.
+
+
+
+
+2.
+
+	
+
+Students may choose to declare one, or up to two streams, including the Science, Technology And Research Stream.
+
+
+
+
+[a]
+
+	
+
+Upon written approval of the Department, students who have failed a required course in the final year of attendance may be allowed to take a substitute course at the same level as prescribed by the Department.
+
+
+
+
+[b]
+
+	
+
+Students can be exempted from taking PHYS courses by taking its closely related course as listed below to fulfill the requirement.  Units earned can be counted towards the Major Programme.
+
+ 
+
+PHYS courses
+
+	
+
+Closely related courses
+
+
+
+
+PHYS2051
+
+	
+
+Quantitative Methods for Basic Physics
+
+	
+
+MATH2020/ 2028
+
+ 
+
+	
+
+Advanced Calculus II/ Honours Advanced Calculus II
+
+
+
+
+PHYS2061
+
+	
+
+Basic Computational Physics
+
+	
+
+MATH3230
+
+	
+
+Numerical Analysis
+
+
+
+
+ 
+
+	
+
+ 
+
+
+
+
+[c]
+
+	
+
+Students who have taken both PHYS3031 and 4031 can use only one of the courses to fulfill the Elective Courses requirement.
+
+
+
+
+[d]
+
+	
+
+Students who are under the Quantum Science and Technology Stream should take PHYS4031.
+
+
+
+
+[e]
+
+	
+
+Upon approval of the Department, students who declare second major in Earth and Environmental Science may be allowed to use EESC4810 and/or EESC4820 to fulfill the requirement of PHYS4610 and/or PHYS4620.
+
+
+
+
+[f]
+
+	
+
+Students, who are not under the Enrichment Stream in Theoretical Physics, have not taken PHYS4801 may seek approval from the Department to substitute PHYS4801 with PHYS4802.  Students may also take both courses.  In this case, PHYS4802 will be used to fulfill the Elective Courses requirement.
+
+
+
+
+[g]
+
+	
+
+Students should note that CHEM1070/1072 is a required course. Students who do not take CHEM1070/1072 to fulfill the Faculty Package should include one of these courses here. For these students, the applicable units for [g1], [g2] and [g3] are 6, 21 and 12, respectively.
+
+
+
+
+[h]
+
+	
+
+Students may seek approval from the Department to substitute PHYS2061 with CSCI2800/1510/1520/1110/1120 and to substitute PHYS3410 with ELEG2202.
+
+
+
+
+[i]
+
+	
+
+PHYS and MSEG courses at 5000 level are offered by the Division of Physics and Division of Materials Science and Engineering respectively for postgraduate programmes.
+
+
+
+
+[j]
+
+	
+
+Students may seek approval from the Department to substitute PHYS4021 with PHYS5410, PHYS4041 with PHYS5420, and PHYS4050 with PHYS5430.
+
+
+
+
+[k]
+
+ 
+
+	
+
+Students may select research-oriented course(s), as approved by the Major Programme, to substitute up to 4 units for fulfillment of Research Courses requirement.
+
+
+
+
+[l]
+
+ 
+
+	
+
+Students must complete any exchange/research/internship programme(s) offered by the University, Colleges, the Faculty of Science or Major Programme, as approved by the Major Programme, to fulfill the Experiential Learning requirement.  Students are responsible for the extra costs incurred in the exchange/research/internship programme(s).
+
+ 
+
+
+					
+
+
+
+
+ 
+
+
+
+
+In view of the fact that students admitted through the broad-based admission scheme have more diverse academic backgrounds under the new senior secondary education system, two course patterns are recommended for students with different HKDSE preparations.  Course pattern A is suitable for students who have a better physics and mathematics preparation, e.g. those taken Physics as a single elective subject or done well in Combined Science with a physics component and an elective module in mathematics in HKDSE, whereas course pattern B is for students who prefer to take preparatory courses in physics and/or mathematics in the first semester of studies so as to be better prepared before taking the physics major courses.
+
+ 
+
+
+
+
+Physics
+
+
+
+
+ 
+
+	
+
+Recommended Course Pattern A
+
+	
+
+Units
+
+
+
+
+First Year of
+
+Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Faculty Package: PHYS1111 or 1113, MATH1010 or 1018, CHEM1070 or 1072 or 3rd Faculty Package course
+
+	
+
+9
+
+
+
+
+Major Required:
+
+	
+
+ 
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Faculty Package: 3rd Faculty Package course (if not taken CHEM1070 or 1072 in the 1st term)
+
+	
+
+0-3
+
+
+
+
+Major Required: MATH2010 or 2530, PHYS1122, 1712
+
+	
+
+7
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+Second Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS2041, 2051, 2510, 2711
+
+	
+
+9
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS2520, 2722, 3011
+
+	
+
+5
+
+
+
+
+Major Elective(s): Elective(s)
+
+	
+
+3-6
+
+
+
+
+Third Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS3021, 3041, 3710 (if not taking in the 2nd term)
+
+	
+
+6-7
+
+
+
+
+Major Elective(s): Elective(s)
+
+	
+
+3-6
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS3022, 3031 (if not taking PHYS4031 in the Fourth Year), 3710 (if not taken in the 1st term), 4802 (if not taking either PHYS4801 or 4802 in the Fourth Year)
+
+	
+
+3-8
+
+
+
+
+Major Elective(s): Elective(s)
+
+	
+
+0-3
+
+
+
+
+Fourth Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS4031 (if not taken PHYS3031 in the Third Year), 4610, 4801 (if not taken PHYS4802 and not taking PHYS4802 in the 2nd term)
+
+	
+
+3-7
+
+
+
+
+Major Elective(s): Elective(s)
+
+	
+
+6-9
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS4802 (if not taken either PHYS4801 or 4802)
+
+	
+
+0-1
+
+
+
+
+Major Elective(s): Electives
+
+	
+
+9-12
+
+
+
+
+Total (including Faculty Package):
+
+	
+
+71
+
+
+
+
+ 
+
+
+
+
+Physics
+
+
+
+
+ 
+
+	
+
+Recommended Course Pattern B
+
+	
+
+Units
+
+
+
+
+First Year of
+
+Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Faculty Package: CHEM1070 or 1072 or 3rd Faculty Package course
+
+	
+
+0-3
+
+
+
+
+Major Required:
+
+	
+
+ 
+
+
+
+
+Major Elective(s):   
+
+	
+
+ 
+
+
+
+
+Others: Remedial physics and/or mathematics courses (e.g. PHYS1002 as a preparatory course in physics); such remedial courses are not counted towards the physics major requirement
+
+	
+
+0-3
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Faculty Package: PHYS1111 or 1113, MATH1010 or 1018, CHEM1070 or 1072 (if not taken in the 1st term) or 3rd Faculty Package course
+
+	
+
+6-9
+
+
+
+
+Major Required: PHYS1712
+
+	
+
+1
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+Second Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS2041, 2051, 2510, 2711
+
+	
+
+9
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required: MATH2010 or 2530, PHYS1122, 2520, 2722, 3011 (or one elective course)
+
+	
+
+8-11
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+Third Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS3021, 3041, 3710 (if not taking in the 2nd term)
+
+	
+
+6-7
+
+
+
+
+Major Elective(s): Elective(s)
+
+	
+
+3-6
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS3011 (if not taken), 3022, 3031 (if not taking PHYS4031 in the Fourth Year), 3710 (if not taken in the 1st term), 4802 (if not taking either PHYS4801 or 4802 in the Fourth Year)
+
+	
+
+3-11
+
+
+
+
+Major Elective(s): Elective(s)
+
+	
+
+2-6
+
+
+
+
+Fourth Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS4031 (if not taken PHYS3031 in the Third Year), 4610, 4801 (if not taken PHYS4802 and not taking PHYS4802 in the 2nd term)
+
+	
+
+3-7
+
+
+
+
+Major Elective(s): Electives
+
+	
+
+9
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS4802 (if not taken either PHYS4801 or 4802)
+
+	
+
+0-1
+
+
+
+
+Major Elective(s): Electives
+
+	
+
+10
+
+
+
+
+Total (including Faculty Package):
+
+	
+
+71
+
+
+
+
+ 
+
+
+
+
+Physics (Enrichment Stream in Theoretical Physics)
+
+
+
+
+ 
+
+	
+
+Recommended Course Pattern
+
+	
+
+Units
+
+
+
+
+First Year of
+
+Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Faculty Package: PHYS1111 or 1113, MATH1010 or 1018, CHEM1070 or 1072 or 3rd Faculty Package course
+
+	
+
+9
+
+
+
+
+Major Required: PHYS2520
+
+	
+
+1
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Faculty Package: 3rd Faculty Package course (if not taken CHEM1070 or 1072 in the 1st term)
+
+	
+
+0-3
+
+
+
+
+Major Required: MATH2010 or 2530, PHYS1122, 1712
+
+	
+
+7
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+Second Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS2041, 2051, 2061, 2510, 2711
+
+	
+
+12
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS2722, 3011, 3051
+
+	
+
+7
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+Third Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS3021, 3041, 3710 (if not taking in the 2nd term)
+
+	
+
+6-7
+
+
+
+
+Major Elective(s): Elective(s)
+
+	
+
+3-6
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS3022, 3031 (if not taking PHYS4031 in the   Fourth Year), 3710 (if not taken in the 1st term)       
+
+	
+
+3-7
+
+
+
+
+Major Elective(s): Elective(s)
+
+	
+
+3-6
+
+
+
+
+Fourth Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS4031 (if not taken PHYS3031 in the Third Year), 4610, 4801
+
+	
+
+4-7
+
+
+
+
+Major Elective(s): Elective(s)
+
+	
+
+6-9
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS4620, 4802
+
+	
+
+4
+
+
+
+
+Major Elective(s): Electives
+
+	
+
+3-9
+
+
+
+
+Total (including Faculty Package):
+
+	
+
+72
+
+
+
+
+ 
+
+
+
+
+Physics (Astrophysics and Particle Physics Stream)
+
+
+
+
+ 
+
+	
+
+Recommended Course Pattern
+
+	
+
+Units
+
+
+
+
+First Year of
+
+Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Faculty Package: PHYS1111 or 1113, MATH1010 or 1018, CHEM1070 or 1072 or 3rd Faculty Package course
+
+	
+
+9
+
+
+
+
+Major Required:
+
+	
+
+ 
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Faculty Package: 3rd Faculty Package course (if not taken CHEM1070 or 1072 in the 1st term)
+
+	
+
+0-3
+
+
+
+
+Major Required: MATH2010 or 2530, PHYS1122, 1712
+
+	
+
+7
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+Second Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS2041, 2051, 2510, 2711
+
+	
+
+9
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS2401, 2520, 2722, 3011
+
+	
+
+8
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+Third Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS3021, 3041, 3710 (if not taking in the 2nd term)
+
+	
+
+6-7
+
+
+
+
+Major Elective(s): Elective(s)
+
+	
+
+3-6
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS3022, 3031 (if not taking PHYS4031 in the  Fourth Year), 3710 (if not taken in the 1st term), 4802 (if not taking either PHYS4801 or 4802 in the Fourth Year)
+
+	
+
+3-8
+
+
+
+
+Major Elective(s): Elective(s)
+
+	
+
+6
+
+
+
+
+Fourth Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS4031 (if not taken PHYS3031 in the Third Year), 4610, 4801 (if not taken PHYS4802 and not taking PHYS4802 in the 2nd term)
+
+	
+
+3-7
+
+
+
+
+Major Elective(s): Elective(s)
+
+	
+
+3-6
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS4430, 4460, 4470, 4802 (if not taken either
+
+PHYS4801 or 4802)
+
+	
+
+9-10
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+Total (including Faculty Package):
+
+	
+
+71
+
+
+
+
+ 
+
+
+
+
+Physics (Computational and Data Physics Stream)
+
+
+
+
+ 
+
+	
+
+Recommended Course Pattern
+
+	
+
+Units
+
+
+
+
+First Year of
+
+Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Faculty Package: PHYS1111 or 1113, MATH1010 or 1018, CHEM1070 or 1072 or 3rd Faculty Package course
+
+	
+
+9
+
+
+
+
+Major Required:
+
+	
+
+ 
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Faculty Package: 3rd Faculty Package course (if not taken CHEM1070 or 1072 in the 1st term)
+
+	
+
+0-3
+
+
+
+
+Major Required: MATH2010 or 2530, PHYS1122, 1712
+
+	
+
+7
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+Second Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS2041, 2051, 2061, 2510, 2711
+
+	
+
+12
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS2520, 2722, 3011
+
+	
+
+5
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+Third Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS3021, 3041, 3710 (if not taking in the 2nd term)
+
+	
+
+6-7
+
+
+
+
+Major Elective(s): Elective(s)
+
+	
+
+3-6
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS3022, 3031 (if not taking PHYS4031 in the Fourth Year), 3061, 3710 (if not taken in the 1st term), 4802 (if not taking either PHYS4801 or 4802 in the Fourth Year)
+
+	
+
+6-11
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+Fourth Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS4031 (if not taken PHYS3031 in the Third Year), 4061, 4610, 4801 (if not taken PHYS4802 and not taking PHYS4802 in the 2nd term)
+
+	
+
+6-10
+
+
+
+
+Major Elective(s): Elective(s)
+
+	
+
+3
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS4802 (if not taken either PHYS4801 or 4802)
+
+	
+
+0-1
+
+
+
+
+Major Elective(s): Electives
+
+	
+
+9
+
+
+
+
+Total (including Faculty Package):
+
+	
+
+71
+
+
+
+
+ 
+
+
+
+
+Physics (Quantum Science and Technology Stream)
+
+
+
+
+ 
+
+	
+
+Recommended Course Pattern
+
+	
+
+Units
+
+
+
+
+First Year of
+
+Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Faculty Package: PHYS1111 or 1113, MATH1010 or 1018, CHEM1070 or 1072 or 3rd Faculty Package course
+
+	
+
+9
+
+
+
+
+Major Required:
+
+	
+
+ 
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Faculty Package: 3rd Faculty Package course (if not taken CHEM1070 or 1072 in the 1st term)
+
+	
+
+0-3
+
+
+
+
+Major Required: MATH2010 or 2530, PHYS1122, 1712
+
+	
+
+7
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+Second Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS2041, 2051, 2510, 2711
+
+	
+
+9
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS2520, 2722, 3011
+
+	
+
+5
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+Third Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS3021, 3041, 3710 (if not taking in the 2nd term), 4031
+
+	
+
+9-10
+
+
+
+
+Major Elective(s): Elective(s)
+
+	
+
+3-6
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS3022, 3710 (if not taken in the 1st term), 4802 (if not taking either PHYS4801 or 4802 in the Fourth Year)
+
+	
+
+3-5
+
+
+
+
+Major Elective(s): Elective(s)
+
+	
+
+6
+
+
+
+
+Fourth Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS4021, 4050, 4610, 4801 (if not taken PHYS4802 and not taking PHYS4802 in the 2nd term)
+
+	
+
+9-10
+
+
+
+
+Major Elective(s): Elective(s)
+
+	
+
+3-6
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS4802 (if not taken either PHYS4801 or 4802)
+
+	
+
+0-1
+
+
+
+
+Major Elective(s): Electives
+
+	
+
+6
+
+
+
+
+Total (including Faculty Package):
+
+	
+
+71
+
+
+
+
+ 
+
+
+
+
+Physics ¾ Science, Technology And Research Stream
+
+
+
+
+ 
+
+	
+
+Recommended Course Pattern
+
+	
+
+Units
+
+
+
+
+First Year of
+
+Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Faculty Package: PHYS1111 or 1113, MATH1010 or 1018, CHEM1070 or 1072 or 3rd Faculty Package course
+
+	
+
+9
+
+
+
+
+Major Required:
+
+	
+
+ 
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Faculty Package: 3rd Faculty Package course (if not taken CHEM1070 or 1072 in the 1st term)
+
+	
+
+0-3
+
+
+
+
+4th Faculty Package course
+
+	
+
+3
+
+
+
+
+Major Required: MATH2010 or 2530, PHYS1122, 1712
+
+	
+
+7
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+Summer session
+
+STARS: STAR2050
+
+	
+
+ 
+
+1
+
+
+
+
+Second Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS2041, 2051, 2510, 2711
+
+	
+
+9
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+STARS: STAR2000
+
+	
+
+1
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS2520, 2722, 3011
+
+	
+
+5
+
+
+
+
+Major Elective(s): Elective(s)
+
+	
+
+3-6
+
+
+
+
+STARS: STAR3050
+
+	
+
+1
+
+
+
+
+Third Year of
+
+Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS3021, 3041, 3710 (if not taking in the 2nd term)
+
+	
+
+6-7
+
+
+
+
+Major Elective(s): Elective(s)
+
+	
+
+3-6
+
+
+
+
+STARS: STAR3000
+
+	
+
+2
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS3022, 3031 (if not taking PHYS4031 in the Fourth Year), 3710 (if not taken in the 1st term), 4802 (if not taking either PHYS4801 or 4802 in the Fourth Year)
+
+	
+
+3-8
+
+
+
+
+Major Elective(s): Elective(s)
+
+	
+
+6
+
+
+
+
+STARS: STAR4050
+
+	
+
+1
+
+
+
+
+Fourth Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS4031 (if not taken PHYS3031 in the Third Year), 4610, 4801 (if not taken PHYS4802 and not taking PHYS4802 in the 2nd term)
+
+	
+
+3-7
+
+
+
+
+Major Elective(s): Elective(s)
+
+	
+
+6-9
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required: PHYS4802 (if not taken either PHYS4801 or 4802)
+
+	
+
+0-1
+
+
+
+
+Major Elective(s): PHYS4620@ and other Electives
+
+	
+
+6-9
+
+
+
+
+Total (including Faculty Package):
+
+	
+
+80
+
+
+
+
+@ Students may take PHYS4620 as a substitute for STAR4000.
+
+
+
+
+ 
+
+
+
+
+Minor Programme Title
+
+Physics
+
+ 
+
+
+
+
+ 
+
+Minor Programme Requirement
+
+ 
+
+	
+
+ 
+
+
+
+
+Students are required to complete a minimum of 18 units of courses as follows: 
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+Units
+
+
+
+
+1.
+
+	
+
+Elective Courses (at least 9 units of PHYS courses at 3000 or above level)[a] :
+
+	
+
+18
+
+
+
+
+ 
+
+	
+
+PHYS1001[b] or 1002[b][c], 1111[b][c] or 1113[b][c], 1122, 2041[c], 2051[c], 2401, 3011, 3021, 3022, 3023, 3031, 3041, 3051, 3061, 3403, 3420, 3730, 4011, 4021, 4031, 4041, 4050, 4051, 4420, 4430, 4440, 4450, 4460, 4470
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+Total:
+
+	
+
+18
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Explanatory Notes:
+
+	
+
+ 
+
+
+
+
+[a]
+
+	
+
+Certain prerequisite/co-requisite conditions for PHYS courses may be waived for Minor students.  Intending Minor students should consult the Department of Physics.
+
+
+
+
+[b]
+
+	
+
+Students can only use PHYS1001 or 1002, PHYS1111 or 1113, but not both in the respective pair, to fulfill the requirements of this Minor Programme.
+
+
+
+
+[c]
+
+	
+
+Students can take either the PHYS course, or its corresponding equivalent or closely related course (with a maximum of 6 units), as listed below to fulfill the requirement, but not both:
+
+ 
+
+PHYS courses
+
+	
+
+Equivalent/closely related courses
+
+
+
+
+PHYS1002
+
+	
+
+General Physics
+
+	
+
+PHYS1003
+
+	
+
+General Physics for Engineers
+
+
+
+
+PHYS1111/1113
+
+	
+
+Introduction to Mechanics, Fluids, and Waves (University Physics I) /
+
+Mechanics, Fluids and Waves (University Physics I)
+
+	
+
+PHYS1110
+
+	
+
+Engineering Physics: Mechanics and Thermodynamics
+
+
+
+
+PHYS2041
+
+ 
+
+	
+
+University Physics III
+
+	
+
+ENGG1310 or 2520 or ESTR1003 or 2006
+
+	
+
+Engineering Physics: Electromagnetics, Optics and Modern Physics/
+
+Engineering Physics II
+
+
+
+
+PHYS2051
+
+	
+
+Quantitative Methods for Basic Physics
+
+	
+
+MATH2020/ 2028
+
+ 
+
+	
+
+Advanced Calculus II/ Honours Advanced Calculus II
+
+
+
+
+ 
+
+	
+
+ 
+
+
+
+
+ 
+
+
+
+
+Course List
+
+ 
+
+
+
+
+Course Code
+
+	
+
+Course Title
+
+	
+
+Unit(s)
+
+
+
+
+PHYS1001
+
+	
+
+Essential Physics
+
+	
+
+3
+
+
+
+
+PHYS1002
+
+	
+
+General Physics
+
+	
+
+3
+
+
+
+
+PHYS1003
+
+	
+
+General Physics for Engineers
+
+	
+
+3
+
+
+
+
+PHYS1004
+
+	
+
+Exploring the Physical World with STEM
+
+	
+
+3
+
+
+
+
+PHYS1110
+
+	
+
+Engineering Physics: Mechanics and Thermodynamics
+
+	
+
+3
+
+
+
+
+PHYS1111
+
+	
+
+Introduction to Mechanics, Fluids, and Waves (University Physics I)
+
+	
+
+3
+
+
+
+
+PHYS1113
+
+	
+
+Mechanics, Fluids and Waves (University Physics I)
+
+	
+
+3
+
+
+
+
+PHYS1122
+
+	
+
+University Physics II – Introduction to Optics and Modern Physics
+
+	
+
+3
+
+
+
+
+PHYS1712
+
+	
+
+Physics Laboratory I
+
+	
+
+1
+
+
+
+
+PHYS2041
+
+	
+
+University Physics III – Introduction to Heat and Electromagnetism
+
+	
+
+3
+
+
+
+
+PHYS2051
+
+	
+
+Quantitative Methods for Basic Physics
+
+	
+
+3
+
+
+
+
+PHYS2061
+
+	
+
+Basic Computational Physics
+
+	
+
+3
+
+
+
+
+PHYS2401
+
+	
+
+Introduction to Astronomy and Astrophysics
+
+	
+
+3
+
+
+
+
+PHYS2510
+
+	
+
+Student Centred Learning I
+
+	
+
+1
+
+
+
+
+PHYS2520
+
+	
+
+Student Centred Learning II
+
+	
+
+1
+
+
+
+
+PHYS2610
+
+	
+
+Short Project I
+
+	
+
+2
+
+
+
+
+PHYS2711
+
+	
+
+Physics Laboratory II
+
+	
+
+2
+
+
+
+
+PHYS2722
+
+	
+
+Physics Laboratory III
+
+	
+
+1
+
+
+
+
+PHYS3011
+
+	
+
+Classical Mechanics I
+
+	
+
+3
+
+
+
+
+PHYS3021
+
+	
+
+Quantum Mechanics I
+
+	
+
+3
+
+
+
+
+PHYS3022
+
+	
+
+Applied Quantum Mechanics
+
+	
+
+3
+
+
+
+
+PHYS3023
+
+	
+
+Introduction to Quantum Information Physics
+
+	
+
+3
+
+
+
+
+PHYS3031
+
+	
+
+Thermodynamics and Statistical Physics
+
+	
+
+3
+
+
+
+
+PHYS3041
+
+	
+
+Electromagnetic Theory I
+
+	
+
+3
+
+
+
+
+PHYS3051
+
+	
+
+Methods in Theoretical Physics I
+
+	
+
+3
+
+
+
+
+PHYS3061
+
+	
+
+Physics Simulations with AI Tools
+
+	
+
+3
+
+
+
+
+PHYS3403
+
+	
+
+Introduction to Soft and Living Matter Physics
+
+	
+
+3
+
+
+
+
+PHYS3410
+
+	
+
+Practical Electronics
+
+	
+
+3
+
+
+
+
+PHYS3420
+
+	
+
+Topics in Contemporary Physics
+
+	
+
+3
+
+
+
+
+PHYS3430
+
+	
+
+Radio Observational Astronomy
+
+	
+
+2
+
+
+
+
+PHYS3440
+
+	
+
+Optical Observational Astronomy
+
+	
+
+2
+
+
+
+
+PHYS3610
+
+	
+
+Short Project II
+
+	
+
+2
+
+
+
+
+PHYS3630
+
+	
+
+Other Physics Learning Experience I
+
+	
+
+1
+
+
+
+
+PHYS3710
+
+	
+
+Short Experimental Project I
+
+	
+
+1
+
+
+
+
+PHYS3730
+
+	
+
+Basic Instrumentation
+
+	
+
+3
+
+
+
+
+PHYS3810
+
+	
+
+Short Theoretical Project I
+
+	
+
+1
+
+
+
+
+PHYS4011
+
+	
+
+Classical Mechanics II
+
+	
+
+3
+
+
+
+
+PHYS4021
+
+	
+
+Quantum Mechanics II
+
+	
+
+3
+
+
+
+
+PHYS4031
+
+	
+
+Statistical Mechanics
+
+	
+
+3
+
+
+
+
+PHYS4041
+
+	
+
+Electromagnetic Theory II
+
+	
+
+3
+
+
+
+
+PHYS4050
+
+	
+
+Solid State Physics
+
+	
+
+3
+
+
+
+
+PHYS4051
+
+	
+
+Methods in Theoretical Physics II
+
+	
+
+3
+
+
+
+
+PHYS4061
+
+	
+
+Computational Physics and Machine Learning
+
+	
+
+3
+
+
+
+
+PHYS4420
+
+	
+
+Physics in Meteorology
+
+	
+
+3
+
+
+
+
+PHYS4430
+
+	
+
+Astrophysics
+
+	
+
+3
+
+
+
+
+PHYS4440
+
+	
+
+Topics in Nanoscience and Technology
+
+	
+
+3
+
+
+
+
+PHYS4450
+
+	
+
+Optical Physics
+
+	
+
+3
+
+
+
+
+PHYS4460
+
+	
+
+Relativity
+
+	
+
+3
+
+
+
+
+PHYS4470
+
+	
+
+Nuclear and Particle Physics
+
+	
+
+3
+
+
+
+
+PHYS4480
+
+	
+
+Special Topics I
+
+	
+
+3
+
+
+
+
+PHYS4490
+
+	
+
+Special Topics II
+
+	
+
+3
+
+
+
+
+PHYS4491
+
+	
+
+Special Topics III
+
+	
+
+3
+
+
+
+
+PHYS4492
+
+	
+
+Special Topics IV
+
+	
+
+3
+
+
+
+
+PHYS4610
+
+	
+
+Senior Project I
+
+	
+
+3
+
+
+
+
+PHYS4620
+
+	
+
+Senior Project II
+
+	
+
+3
+
+
+
+
+PHYS4630
+
+	
+
+Other Physics Learning Experience
+
+	
+
+2
+
+
+
+
+PHYS4710
+
+	
+
+Short Experimental Project II
+
+	
+
+1
+
+
+
+
+PHYS4711
+
+	
+
+Short Experimental Project III
+
+	
+
+1
+
+
+
+
+PHYS4712
+
+	
+
+Short Experimental Project IV
+
+	
+
+1
+
+
+
+
+PHYS4801
+
+	
+
+Seminar I
+
+	
+
+1
+
+
+
+
+PHYS4802
+
+	
+
+Seminar II
+
+	
+
+1
+
+
+
+
+PHYS4811
+
+	
+
+Short Theoretical Project II
+
+	
+
+1
+
+
+
+
+PHYS4812
+
+	
+
+Short Theoretical Project III
+
+	
+
+1
+
+
+
+
+STAR2000
+
+	
+
+Undergraduate Research in Science I
+
+	
+
+1
+
+
+
+
+STAR2050
+
+	
+
+Seminar I
+
+	
+
+1
+
+
+
+
+STAR3000
+
+	
+
+Undergraduate Research in Science II
+
+	
+
+2
+
+
+
+
+STAR3050
+
+	
+
+Seminar II
+
+	
+
+1
+
+
+
+
+STAR4000
+
+	
+
+Undergraduate Research in Science III
+
+	
+
+3
+
+
+
+
+STAR4050
+
+	
+
+Seminar III
+
+	
+
+1
+
+ 
+
+ 
+
+
+ 
+
+Study Scheme
+
+
+Learning Outcomes
+ 
+
+	
+
+ 
+
+1.
+
+	
+
+Major Programme:
+
+
+
+
+Knowledge Outcomes (Content)
+
+
+
+
+Graduates will have possessed fundamental knowledge of physics, including the following:
+
+
+
+
+(1)
+
+ 
+
+	
+
+basic concepts and principles in classical mechanics, electrodynamics, quantum mechanics and thermodynamics;
+
+
+
+
+(2)
+
+	
+
+mathematical (analytic and numerical) methods and experimental methods for physics.
+
+
+
+
+ 
+
+	
+
+ 
+
+
+
+
+Graduates are able to transfer and apply the acquired knowledge to different situations.
+
+
+
+
+ 
+
+	
+
+ 
+
+
+
+
+Skills Outcomes
+
+
+
+
+Professional Skills
+
+
+
+
+Graduates will have possessed the following professional skills to deal with representative physics problems and situations in different branches of physics at the undergraduate level:
+
+
+
+
+(1)
+
+	
+
+identifying the key factors and applying appropriate principles and assumptions in the formulation of physics problems;
+
+
+
+
+(2)
+
+	
+
+applying appropriate analytical and approximation methods;
+
+
+
+
+(3)
+
+	
+
+applying general experimental and measurement skills with prescribed procedures;
+
+
+
+
+(4)
+
+	
+
+analyzing experimental data and their level of uncertainty, and relating the experimental results with theoretical expectations;
+
+
+
+
+(5)
+
+	
+
+applying appropriate scientific programming skills; and
+
+
+
+
+(6)
+
+	
+
+reporting the solutions to physics problems, experimental or project studies concisely in speech and in writing. 
+
+
+
+
+ 
+
+	
+
+ 
+
+
+
+
+Generic Competencies
+
+
+
+
+Graduates will have acquired broad generic skills and good habits in their study, including
+
+
+
+
+(1)
+
+	
+
+the ability to identify the key issues and to attempt different methods in dealing with problems;
+
+
+
+
+(2)
+
+	
+
+the ability to manipulate precise and intricate concepts to construct logical arguments;
+
+
+
+
+(3)
+
+	
+
+the habit of paying attention to the details and their logical relationships when analyzing an issue;
+
+
+
+
+(4)
+
+	
+
+the ability to evaluate an issue critically based on evidence and scientific principles;
+
+
+
+
+(5)
+
+	
+
+being comfortable with numbers and formulas, and the ability to analyze an issue quantitatively;
+
+
+
+
+(6)
+
+	
+
+the ability to acquire knowledge effectively by self-study and to work independently;
+
+
+
+
+(7)
+
+	
+
+the ability to work effectively in a team;
+
+
+
+
+(8)
+
+	
+
+the ability to present information in a clear, concise and logical manner; and
+
+
+
+
+(9)
+
+	
+
+good time management skills.
+
+
+
+
+ 
+
+	
+
+ 
+
+
+
+
+Attitude/Value Outcomes
+
+
+
+
+Graduates will have developed positive attitudes and values, including
+
+
+
+
+(1)
+
+	
+
+appreciation of physics principles and theories, and the beauty of physics;
+
+
+
+
+(2)
+
+	
+
+awareness of the impact of physics on social, economical, and environmental issues;
+
+
+
+
+(3)
+
+	
+
+willingness to take up responsibility in study and work;
+
+
+
+
+(4)
+
+	
+
+confidence in his/her own capabilities; and
+
+
+
+
+(5)
+
+	
+
+motivation for life-long learning.
+
+
+
+
+ 
+
+	
+
+ 
+
+
+
+
+2.
+
+	
+
+Minor Programme:
+
+
+
+
+Upon the completion of the Minor Programme, students will have demonstrated basic understanding of fundamental issues related to the subject, acquired knowledge of some aspects of the subject with sufficient exposure and at a suitable level to allow further study in this subject or related subjects or to pursue a related career.
+
+
+
+
+ 
+
+ 
+
+ 
+
+

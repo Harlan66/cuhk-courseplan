@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "auditedAt": "2026-08-14",
+  "canonicalSourcePolicy": "CUSIS is the canonical source for course catalog, class offering and enrolment data. External official documents may supplement or cross-check records but must not silently overwrite CUSIS values.",
+  "currentExtractionScope": "CUSIS Teaching Timetable by Subject/Department result grid only",
+  "rowModels": {
+    "classes": "One row per class component, with all meeting occurrences aggregated into Meetings",
+    "meetings": "One row per displayed meeting/date group; class-level values are repeated"
+  },
+  "sourceFields": [
+    { "name": "Academic Term", "level": "term", "captured": true },
+    { "name": "Term Value", "level": "term", "captured": true, "note": "Internal CUSIS term identifier" },
+    { "name": "Queried Subject", "level": "query", "captured": true, "note": "Subject used for the timetable query" },
+    { "name": "Class Code", "level": "class", "captured": true },
+    { "name": "Class Nbr", "level": "class", "captured": true, "note": "Term-specific class identifier and detail-page link target" },
+    { "name": "Course Title", "level": "course", "captured": true },
+    { "name": "Units", "level": "course", "captured": true },
+    { "name": "Teaching Staff", "level": "class", "captured": true },
+    { "name": "Quota(s)", "level": "class", "captured": true, "note": "Only the displayed overall quota; reserved-quota partitions are not yet captured" },
+    { "name": "Vacancy", "level": "class", "captured": true },
+    { "name": "Course Component", "level": "component", "captured": true },
+    { "name": "Section Code", "level": "component", "captured": true },
+    { "name": "Language", "level": "class", "captured": true },
+    { "name": "Period", "level": "meeting", "captured": true },
+    { "name": "Room", "level": "meeting", "captured": true },
+    { "name": "Meeting Date", "level": "meeting", "captured": true },
+    { "name": "Add Consent", "level": "class", "captured": true },
+    { "name": "Drop Consent", "level": "class", "captured": true },
+    { "name": "Course Offering Dept", "level": "course", "captured": true }
+  ],
+  "derivedFields": [
+    { "name": "Meetings", "derivedFrom": ["Period", "Room", "Meeting Date"], "presentIn": "classes dataset" },
+    { "name": "Course Code", "derivedFrom": ["Class Code"], "status": "not materialized", "note": "Should be parsed and stored separately instead of repeatedly parsing in the UI" }
+  ],
+  "cusisFieldsNotYetExtracted": [
+    {
+      "group": "Class Nbr detail page",
+      "fields": [
+        "enrolment rules",
+        "waitlist quota",
+        "other comprehensive class information exposed on the detail page"
+      ],
+      "priority": "critical"
+    },
+    {
+      "group": "Quota(s) detail",
+      "fields": [
+        "reserved capacity partitions",
+        "eligible group or programme for each reserved quota",
+        "partition vacancy when exposed"
+      ],
+      "priority": "critical"
+    },
+    {
+      "group": "Browse Course Catalog",
+      "fields": [
+        "course description",
+        "grading basis",
+        "grade descriptor",
+        "learning outcomes",
+        "course syllabus",
+        "assessment types and current percentages",
+        "feedback for evaluation",
+        "required and recommended readings",
+        "prerequisites",
+        "corequisites",
+        "exclusions",
+        "course-level enrolment requirements",
+        "course attributes and components when exposed"
+      ],
+      "priority": "critical"
+    },
+    {
+      "group": "Personal validation",
+      "fields": [
+        "shopping-cart validation result",
+        "student-specific warning or error",
+        "waitlist eligibility and result",
+        "consent or approval requirement as applied to the student"
+      ],
+      "priority": "required-before-final-eligibility-claim"
+    }
+  ],
+  "datasetStatus": {
+    "2026-27 Term 1": {
+      "subjectQueries": 126,
+      "subjectsReturningRows": 88,
+      "subjectsReturningEmpty": 38,
+      "uniqueClassNumbers": 1691,
+      "classComponentRows": 2482,
+      "meetingRows": 3700,
+      "verificationStatus": "unverified"
+    },
+    "2026-27 Term 2": {
+      "subjectQueries": 126,
+      "subjectsReturningRows": 74,
+      "subjectsReturningEmpty": 52,
+      "uniqueClassNumbers": 1111,
+      "classComponentRows": 1563,
+      "meetingRows": 4289,
+      "verificationStatus": "unverified"
+    }
+  }
+}

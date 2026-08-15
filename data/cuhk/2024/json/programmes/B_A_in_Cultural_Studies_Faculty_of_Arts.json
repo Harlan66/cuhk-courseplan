@@ -1,0 +1,1485 @@
+{
+  "programme_id": "B_A_in_Cultural_Studies__Faculty_of_Arts",
+  "academic_program": "B.A. in Cultural Studies",
+  "faculty": "Faculty of Arts",
+  "academic_year": 2024,
+  "admission_cohort": "2024-25",
+  "requirement_summary": {
+    "minimum_units_as_printed": "a minimum of 69 units",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Faculty Package",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "CURE1000",
+            "prefix_inferred": false,
+            "evidence": "CURE1000 and any two courses from:"
+          },
+          {
+            "course_code": "ANTH1020",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "ARTS1005",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "ARTS1009",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "ARTS1010",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "BMBL1001",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CHES1101",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CHES1102",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CHLL1900",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CHLL1902",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CHLL1903",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CURE1110",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CURE1400",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "ENGE1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "FAAS1900",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "HIST1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "HIST1700",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "HIST1701",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "JASP1090",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "LING1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "MUSC1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "PHIL1110",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "THEO1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "TRAN1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          }
+        ],
+        "raw_text": "9\nCURE1000 and any two courses from:\nANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+      },
+      {
+        "number": 2,
+        "title": "Required Courses",
+        "units_as_printed": "18",
+        "course_mentions": [],
+        "raw_text": "18\nCURE 1009, 1010, 2001*[1001], 2006*[1006], 3007, 4008[3008]"
+      },
+      {
+        "number": 3,
+        "title": "Elective Courses",
+        "units_as_printed": "6",
+        "course_mentions": [
+          {
+            "course_code": "CURE4014",
+            "prefix_inferred": false,
+            "evidence": "Capstone courses: CURE4014 or 4038"
+          },
+          {
+            "course_code": "CURE4038",
+            "prefix_inferred": true,
+            "evidence": "Capstone courses: CURE4014 or 4038"
+          }
+        ],
+        "raw_text": "(a)\nAny two courses from Religious Studies Area(s)[a]\n6\n(b)\nCapstone courses: CURE4014 or 4038\n3\n(c)\nEleven CURE courses at 2000 or above level, with at least six courses from Cultural Studies Area(s), excluding the courses taken to fulfill Faculty Package, Required Courses, and Elective Courses 3(a) and (b), as well as CUREX4XX and X5XX of Cultural Management Programme\n33\nTotal:\n69\nExplanatory Notes:"
+      },
+      {
+        "number": 1,
+        "title": "Required Courses",
+        "units_as_printed": "18",
+        "course_mentions": [
+          {
+            "course_code": "CURE1009",
+            "prefix_inferred": false,
+            "evidence": "CURE1009, 1010, 2001*[1001], 2006*[1006], 3007, 4008[3008]"
+          },
+          {
+            "course_code": "CURE1010",
+            "prefix_inferred": true,
+            "evidence": "CURE1009, 1010, 2001*[1001], 2006*[1006], 3007, 4008[3008]"
+          },
+          {
+            "course_code": "CURE2001",
+            "prefix_inferred": true,
+            "evidence": "CURE1009, 1010, 2001*[1001], 2006*[1006], 3007, 4008[3008]"
+          },
+          {
+            "course_code": "CURE2006",
+            "prefix_inferred": true,
+            "evidence": "CURE1009, 1010, 2001*[1001], 2006*[1006], 3007, 4008[3008]"
+          },
+          {
+            "course_code": "CURE3007",
+            "prefix_inferred": true,
+            "evidence": "CURE1009, 1010, 2001*[1001], 2006*[1006], 3007, 4008[3008]"
+          },
+          {
+            "course_code": "CURE4008",
+            "prefix_inferred": true,
+            "evidence": "CURE1009, 1010, 2001*[1001], 2006*[1006], 3007, 4008[3008]"
+          }
+        ],
+        "raw_text": "18\nCURE1009, 1010, 2001*[1001], 2006*[1006], 3007, 4008[3008]"
+      },
+      {
+        "number": 2,
+        "title": "Elective Courses",
+        "units_as_printed": "3",
+        "course_mentions": [
+          {
+            "course_code": "CURE4014",
+            "prefix_inferred": false,
+            "evidence": "Capstone courses: CURE4014 or 4038"
+          },
+          {
+            "course_code": "CURE4038",
+            "prefix_inferred": true,
+            "evidence": "Capstone courses: CURE4014 or 4038"
+          }
+        ],
+        "raw_text": "(a)\nCapstone courses: CURE4014 or 4038\n3\n(b)\nTen CURE courses at 2000 or above level, excluding the courses taken to fulfill Required Courses, and Elective Course 2(a), as well as CUREX4XX and X5XX of Cultural Management Programme\n30\nTotal:\n51\nExplanatory Notes:"
+      },
+      {
+        "number": 1,
+        "title": "Elective Courses",
+        "units_as_printed": "3",
+        "course_mentions": [
+          {
+            "course_code": "CURE1009",
+            "prefix_inferred": false,
+            "evidence": "CURE1009, 1010, 2001[1001], 2006 [1006], 3007, 4008[3008]"
+          },
+          {
+            "course_code": "CURE1010",
+            "prefix_inferred": true,
+            "evidence": "CURE1009, 1010, 2001[1001], 2006 [1006], 3007, 4008[3008]"
+          },
+          {
+            "course_code": "CURE2001",
+            "prefix_inferred": true,
+            "evidence": "CURE1009, 1010, 2001[1001], 2006 [1006], 3007, 4008[3008]"
+          },
+          {
+            "course_code": "CURE2006",
+            "prefix_inferred": true,
+            "evidence": "CURE1009, 1010, 2001[1001], 2006 [1006], 3007, 4008[3008]"
+          },
+          {
+            "course_code": "CURE3007",
+            "prefix_inferred": true,
+            "evidence": "CURE1009, 1010, 2001[1001], 2006 [1006], 3007, 4008[3008]"
+          },
+          {
+            "course_code": "CURE4008",
+            "prefix_inferred": true,
+            "evidence": "CURE1009, 1010, 2001[1001], 2006 [1006], 3007, 4008[3008]"
+          }
+        ],
+        "raw_text": "(a)\nAny one course from the following:\n3\nCURE1009, 1010, 2001[1001], 2006 [1006], 3007, 4008[3008]\n(b)\nFive CURE courses at 2000 or above level from Cultural Studies Area(s), with at least 2 courses at 3000 or above level, excluding the course taken to fulfill requirement 1(a) above\n15\nTotal:\n18\nExplanatory Note:\n[ ]\nOld course code used in 2024-25 and before.\nMinor Programme Title\nFilm and Screen Studies\nMinor Programme Requirement\nStudents are required to complete a minimum of 18 units of courses as follows:\nUnits"
+      },
+      {
+        "number": 1,
+        "title": "Required Courses",
+        "units_as_printed": "3",
+        "course_mentions": [
+          {
+            "course_code": "CURE2006",
+            "prefix_inferred": false,
+            "evidence": "CURE2006[1006]"
+          }
+        ],
+        "raw_text": "CURE2006[1006]\n3"
+      },
+      {
+        "number": 2,
+        "title": "Elective Courses",
+        "units_as_printed": "15",
+        "course_mentions": [
+          {
+            "course_code": "CURE2024",
+            "prefix_inferred": false,
+            "evidence": "CURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200"
+          },
+          {
+            "course_code": "CURE2030",
+            "prefix_inferred": true,
+            "evidence": "CURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200"
+          },
+          {
+            "course_code": "CURE2039",
+            "prefix_inferred": true,
+            "evidence": "CURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200"
+          },
+          {
+            "course_code": "CURE2040",
+            "prefix_inferred": true,
+            "evidence": "CURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200"
+          },
+          {
+            "course_code": "CURE2066",
+            "prefix_inferred": true,
+            "evidence": "CURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200"
+          },
+          {
+            "course_code": "CURE3002",
+            "prefix_inferred": true,
+            "evidence": "CURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200"
+          },
+          {
+            "course_code": "CURE3026",
+            "prefix_inferred": true,
+            "evidence": "CURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200"
+          },
+          {
+            "course_code": "CURE3033",
+            "prefix_inferred": true,
+            "evidence": "CURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200"
+          },
+          {
+            "course_code": "CURE3034",
+            "prefix_inferred": true,
+            "evidence": "CURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200"
+          },
+          {
+            "course_code": "CURE3066",
+            "prefix_inferred": true,
+            "evidence": "CURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200"
+          },
+          {
+            "course_code": "CURE4021",
+            "prefix_inferred": true,
+            "evidence": "CURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200"
+          },
+          {
+            "course_code": "CURE4022",
+            "prefix_inferred": true,
+            "evidence": "CURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200"
+          },
+          {
+            "course_code": "CURE4027",
+            "prefix_inferred": true,
+            "evidence": "CURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200"
+          },
+          {
+            "course_code": "CURE4033",
+            "prefix_inferred": true,
+            "evidence": "CURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200"
+          },
+          {
+            "course_code": "CHES3101",
+            "prefix_inferred": false,
+            "evidence": "CURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200"
+          },
+          {
+            "course_code": "CHES3102",
+            "prefix_inferred": true,
+            "evidence": "CURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200"
+          },
+          {
+            "course_code": "COMM2932",
+            "prefix_inferred": false,
+            "evidence": "CURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200"
+          },
+          {
+            "course_code": "COMM3939",
+            "prefix_inferred": true,
+            "evidence": "CURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200"
+          },
+          {
+            "course_code": "JASP2200",
+            "prefix_inferred": false,
+            "evidence": "CURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200"
+          }
+        ],
+        "raw_text": "Five courses from the following, with at least three CURE courses and at least two courses at 3000 or above level:\nCURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200\n15\nTotal:\n18\nExplanatory Notes:"
+      },
+      {
+        "number": 1,
+        "title": "This Minor Programme is not applicable to students who major in Cultural Studies.",
+        "units_as_printed": "3",
+        "course_mentions": [
+          {
+            "course_code": "CURE1000",
+            "prefix_inferred": false,
+            "evidence": "CURE1000"
+          },
+          {
+            "course_code": "CURE1009",
+            "prefix_inferred": false,
+            "evidence": "CURE1009"
+          },
+          {
+            "course_code": "CURE1010",
+            "prefix_inferred": false,
+            "evidence": "CURE1010"
+          },
+          {
+            "course_code": "CURE2001",
+            "prefix_inferred": false,
+            "evidence": "CURE2001[1001]"
+          },
+          {
+            "course_code": "CURE2006",
+            "prefix_inferred": false,
+            "evidence": "CURE2006[1006]"
+          },
+          {
+            "course_code": "CURE3007",
+            "prefix_inferred": false,
+            "evidence": "CURE3007"
+          },
+          {
+            "course_code": "CURE4008",
+            "prefix_inferred": false,
+            "evidence": "CURE4008[3008]"
+          },
+          {
+            "course_code": "CURE4014",
+            "prefix_inferred": false,
+            "evidence": "CURE4014"
+          },
+          {
+            "course_code": "CURE4038",
+            "prefix_inferred": false,
+            "evidence": "CURE4038"
+          },
+          {
+            "course_code": "CURE1004",
+            "prefix_inferred": false,
+            "evidence": "CURE1004"
+          },
+          {
+            "course_code": "CURE2007",
+            "prefix_inferred": false,
+            "evidence": "CURE2007"
+          },
+          {
+            "course_code": "CURE2008",
+            "prefix_inferred": false,
+            "evidence": "CURE2008"
+          },
+          {
+            "course_code": "CURE2010",
+            "prefix_inferred": false,
+            "evidence": "CURE2010"
+          },
+          {
+            "course_code": "CURE2011",
+            "prefix_inferred": false,
+            "evidence": "CURE2011"
+          },
+          {
+            "course_code": "CURE2031",
+            "prefix_inferred": false,
+            "evidence": "CURE2031"
+          },
+          {
+            "course_code": "CURE2032",
+            "prefix_inferred": false,
+            "evidence": "CURE2032"
+          },
+          {
+            "course_code": "CURE2042",
+            "prefix_inferred": false,
+            "evidence": "CURE2042"
+          },
+          {
+            "course_code": "CURE2051",
+            "prefix_inferred": false,
+            "evidence": "CURE2051"
+          },
+          {
+            "course_code": "CURE3011",
+            "prefix_inferred": false,
+            "evidence": "CURE3011[3006]"
+          },
+          {
+            "course_code": "CURE3015",
+            "prefix_inferred": false,
+            "evidence": "CURE3015"
+          },
+          {
+            "course_code": "CURE3030",
+            "prefix_inferred": false,
+            "evidence": "CURE3030"
+          },
+          {
+            "course_code": "CURE3036",
+            "prefix_inferred": false,
+            "evidence": "CURE3036"
+          },
+          {
+            "course_code": "CURE3038",
+            "prefix_inferred": false,
+            "evidence": "CURE3038"
+          },
+          {
+            "course_code": "CURE4028",
+            "prefix_inferred": false,
+            "evidence": "CURE4028"
+          },
+          {
+            "course_code": "CURE2003",
+            "prefix_inferred": false,
+            "evidence": "CURE2003"
+          },
+          {
+            "course_code": "CURE2016",
+            "prefix_inferred": false,
+            "evidence": "CURE2016"
+          },
+          {
+            "course_code": "CURE2019",
+            "prefix_inferred": false,
+            "evidence": "CURE2019"
+          },
+          {
+            "course_code": "CURE2025",
+            "prefix_inferred": false,
+            "evidence": "CURE2025"
+          },
+          {
+            "course_code": "CURE3012",
+            "prefix_inferred": false,
+            "evidence": "CURE3012"
+          },
+          {
+            "course_code": "CURE3017",
+            "prefix_inferred": false,
+            "evidence": "CURE3017"
+          },
+          {
+            "course_code": "CURE3025",
+            "prefix_inferred": false,
+            "evidence": "CURE3025"
+          },
+          {
+            "course_code": "CURE3032",
+            "prefix_inferred": false,
+            "evidence": "CURE3032"
+          },
+          {
+            "course_code": "CURE3037",
+            "prefix_inferred": false,
+            "evidence": "CURE3037"
+          },
+          {
+            "course_code": "CURE4031",
+            "prefix_inferred": false,
+            "evidence": "CURE4031"
+          },
+          {
+            "course_code": "CURE2014",
+            "prefix_inferred": false,
+            "evidence": "CURE2014"
+          },
+          {
+            "course_code": "CURE2022",
+            "prefix_inferred": false,
+            "evidence": "CURE2022"
+          },
+          {
+            "course_code": "CURE2036",
+            "prefix_inferred": false,
+            "evidence": "CURE2036"
+          },
+          {
+            "course_code": "CURE2039",
+            "prefix_inferred": false,
+            "evidence": "CURE2039"
+          },
+          {
+            "course_code": "CURE2047",
+            "prefix_inferred": false,
+            "evidence": "CURE2047"
+          },
+          {
+            "course_code": "CURE3013",
+            "prefix_inferred": false,
+            "evidence": "CURE3013"
+          },
+          {
+            "course_code": "CURE4022",
+            "prefix_inferred": false,
+            "evidence": "CURE4022"
+          },
+          {
+            "course_code": "CURE2005",
+            "prefix_inferred": false,
+            "evidence": "CURE2005"
+          },
+          {
+            "course_code": "CURE2018",
+            "prefix_inferred": false,
+            "evidence": "CURE2018"
+          },
+          {
+            "course_code": "CURE2037",
+            "prefix_inferred": false,
+            "evidence": "CURE2037"
+          },
+          {
+            "course_code": "CURE3003",
+            "prefix_inferred": false,
+            "evidence": "CURE3003"
+          },
+          {
+            "course_code": "CURE3027",
+            "prefix_inferred": false,
+            "evidence": "CURE3027"
+          },
+          {
+            "course_code": "CURE2024",
+            "prefix_inferred": false,
+            "evidence": "CURE2024"
+          },
+          {
+            "course_code": "CURE2030",
+            "prefix_inferred": false,
+            "evidence": "CURE2030"
+          },
+          {
+            "course_code": "CURE2040",
+            "prefix_inferred": false,
+            "evidence": "CURE2040"
+          },
+          {
+            "course_code": "CURE2066",
+            "prefix_inferred": false,
+            "evidence": "CURE2066"
+          },
+          {
+            "course_code": "CURE3002",
+            "prefix_inferred": false,
+            "evidence": "CURE3002"
+          },
+          {
+            "course_code": "CURE3014",
+            "prefix_inferred": false,
+            "evidence": "CURE3014"
+          },
+          {
+            "course_code": "CURE3026",
+            "prefix_inferred": false,
+            "evidence": "CURE3026"
+          },
+          {
+            "course_code": "CURE3033",
+            "prefix_inferred": false,
+            "evidence": "CURE3033"
+          },
+          {
+            "course_code": "CURE3034",
+            "prefix_inferred": false,
+            "evidence": "CURE3034"
+          },
+          {
+            "course_code": "CURE3066",
+            "prefix_inferred": false,
+            "evidence": "CURE3066"
+          },
+          {
+            "course_code": "CURE4021",
+            "prefix_inferred": false,
+            "evidence": "CURE4021"
+          },
+          {
+            "course_code": "CURE4027",
+            "prefix_inferred": false,
+            "evidence": "CURE4027"
+          },
+          {
+            "course_code": "CURE4032",
+            "prefix_inferred": false,
+            "evidence": "CURE4032"
+          },
+          {
+            "course_code": "CURE4033",
+            "prefix_inferred": false,
+            "evidence": "CURE4033"
+          },
+          {
+            "course_code": "CURE4040",
+            "prefix_inferred": false,
+            "evidence": "CURE4040"
+          }
+        ],
+        "raw_text": "[ ]\nOld course code used in 2024-25 and before.\nCourse List\nCourse Code\nCourse Title\nUnit(s)\nCURE1000\nWhy Culture Matters\n3\nCURE1009\nResearch Methods in Public Humanities\n3\nCURE1010\nText and Image: A Critical Analysis\n3\nCURE2001[1001]\nIntroduction to Cultural Studies\n3\nCURE2006[1006]\nIntroduction to Film and Screen Studies\n3\nCURE3007\nGender and Sexuality in Cultural Studies\n3\nCURE4008[3008]\nGlobal Cultural Theories\n3\nCURE4014\nGraduation Thesis\n3\nCURE4038\nSummer Internship\n3\nElective Courses\nCultural Studies Area 1: Cultural Literacy and Practices\nCURE1004\nIntroduction to Public Humanities\n3\nCURE2007\nCelebrity, Stars and Hong Kong Popular Culture\n3\nCURE2008\nBeing Human in the Age of AI: An Introduction to Digital Ethics\n3\nCURE2010\nUnderstanding Digital Humanities\n3\nCURE2011\nDisability in Public Humanities\n3\nCURE2031\nUnderstanding Visual Culture\n3\nCURE2032\nYouth and Popular Culture\n3\nCURE2042\nXiqu and Culture\n3\nCURE2051\nUnderstanding Comic Art\n3\nCURE3011[3006]\nSpecial Topics in Cultural Studies\n3\nCURE3015\nSpecial Topics: Public Humanities Workshop\n3\nCURE3030\nCultural Criticism Workshop\n3\nCURE3036\nContemporary Art and Representation\n3\nCURE3038\nWriting Workshop: Cultural Criticism, Media Writing, and Transmedia Storytelling\n3\nCURE4028\nWorkshop in Creative Content\n3\nCultural Studies Area 2: Culture, Cities and Politics\nCURE2003\nCultural Studies of Space\n3\nCURE2016\nModernity and Urban Culture\n3\nCURE2019\nPower, Identity, and Inequality in Medicine\n3\nCURE2025\nContemporary Consumer Culture\n3\nCURE3012\nSpecial Topics in Cultural Studies II\n3\nCURE3017\nGlobalization and Cultural Production\n3\nCURE3025\nTechnoscience and Culture\n3\nCURE3032\nThe Politics and Culture of Nationalisms\n3\nCURE3037\nCommunity Making and Public Humanities\n3\nCURE4031\nArts, Propaganda and Social Action\n3\nCultural Studies Area 3: Gender, Sexuality and Body\nCURE2014\nBody Politics and Representations\n3\nCURE2022\nFeminisms: Thoughts and Movements\n3\nCURE2036\nQueer Theory and Culture\n3\nCURE2039\nTrans-Asian Bodies and Visual Fantasy Cultures\n3\nCURE2047\nPerformance Studies\n3\nCURE3013\nSpecial Topics in Cultural Studies III\n3\nCURE4022\nCritical Approaches to Pornography\n3\nCultural Studies Area 4: Cultural Industries and Ecology\nCURE2005\nCulture and Travel\n3\nCURE2018\nLiving in the Anthropocene: Nature, Culture and Power\n3\nCURE2037\nCultural Policy\n3\nCURE3003\nAnimals, Culture and Modern Society\n3\nCURE3027\nCultural & Creative Industries\n3\nCultural Studies Area 5: Film & Media Studies and Practices\nCURE2024\nTaiwan New Cinema and Beyond: Authorship, Transnationality, Historiography\n3\nCURE2030\nHong Kong Cinema\n3\nCURE2040\nTelevision Studies\n3\nCURE2066\nFoundation of Visual Design\n3\nCURE3002\nFilm and Literature: Inter-media Studies\n3\nCURE3014\nSpecial Topics in Cultural Studies IV\n3\nCURE3026\nNew Media and Cyberculture\n3\nCURE3033\nFilm and Cultural Politics in Southeast Asia\n3\nCURE3034\nKorean Media and Popular Culture\n3\nCURE3066\nVideo Production\n3\nCURE4021\nTime, Space and Identity in World Cinema\n3\nCURE4027\nFilm Classics: Aesthetics and Politics\n3\nCURE4032\nDigital Imaging, Book Production and Contemporary Arts\n3\nCURE4033\nDocumentary Studies: Theories and Practices\n3\nCURE4040\nAI, Arts and Technology\n3\n[ ] Old course code used in 2024-25 and before.\nStudy Scheme\nLearning Outcomes"
+      },
+      {
+        "number": 1,
+        "title": "Major programme",
+        "units_as_printed": null,
+        "course_mentions": [],
+        "raw_text": "Knowledge:\nGraduates will have acquired the following:\n(1)\nThe understanding of religion in its historical settings and contemporary contexts of modern living, globally and locally.\n(2)\nThe understanding of religion in its different dimensions.\n(3)\nThe understanding of religion through a crtical analysis.\n(4)\nA basic knowledge of major religious traditions in the world.\nSkills:\nGraduates will have acquired the following:\n(1)\nCommunication and presentational (oral and written) skills.\n(2)\nAnalytical and problem solving skills.\n(3)\nSocial skills and team-work skills.\n(4)\nSkills of critical intelligence and appreciative thinking.\n(5)\nSkills in cross-cultural understanding and intercultural literacy.\n(6)\nResearch skills.\nAttitude:\nGraduates will have acquired the following:\n(1)\nAwareness of the plurality and multi-faceted complexity within religious traditions of the issues of multiple and conflicting interpretations of religious traditions.\n(2)\nSelf-critical awareness of pre-suppositions and recognition.\n(3)\nA critical and yet sympathetic understanding and appreciation of religious traditions especially those to which one does not belong.\n(4)\nSensitivity to the ultimate concern and the religious dimension of human life."
+      },
+      {
+        "number": 2,
+        "title": "Minor programme",
+        "units_as_printed": null,
+        "course_mentions": [],
+        "raw_text": "1. Cultural Studies\nUpon the completion of the Minor programme, students will have demonstrated basic understanding of fundamental issues related to the subject, acquired knowledge of some aspects of the subject with sufficient exposure and at a suitable level to allow further study in this subject or related subjects or to pursue a related career\n2. Film and Screen Studies\nUpon completion of the programme, students will have acquired the following learning outcomes in three aspects:\nI. Knowledge outcomes:\na. Demonstrate a critical appreciation of some of the dominant concepts, methods, and debates informing the study of film and screen.\nb. Demonstrate a capacity to analyze the form and content of particular audio-visual products.\nc. Demonstrate an awareness of the variety of ways in which audio-visual products and aspects of individual and collective social lives are mutually constituted.\nd. Demonstrate an understanding of different traditions of film and screen practices in different national and international contexts.\nII. Skills outcomes:\na. Demonstrate skills in the close formal and structural analysis of different kinds of audio- visual products.\nb. Demonstrate skills in the research and evaluation of relevant critical and historical materials for the study of film and screen.\nc. Demonstrate an ability to interrelate texts and discourses specific to their own discipline with issues in the wider context of cultural and intellectual history.\nd. Demonstrate an ability to understand and analyze relevant theoretical ideas and to apply these ideas to audio-visual forms.\nIII. Attitude outcomes:\na. Through seminar work and group presentations, demonstrate communication skills and an ability to work both individually and in groups.\nb. Acknowledge the contested and provisional nature of knowledge and understanding and show openness towards diverse positions and respect for differing views."
+      }
+    ]
+  },
+  "all_course_mentions": [
+    {
+      "course_code": "CURE1000",
+      "prefix_inferred": false,
+      "evidence": "CURE1000 and any two courses from:"
+    },
+    {
+      "course_code": "ANTH1020",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "ARTS1005",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "ARTS1009",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "ARTS1010",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "BMBL1001",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CHES1101",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CHES1102",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CHLL1900",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CHLL1902",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CHLL1903",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CURE1110",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CURE1400",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "ENGE1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "FAAS1900",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "HIST1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "HIST1700",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "HIST1701",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "JASP1090",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "LING1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "MUSC1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "PHIL1110",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "THEO1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "TRAN1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CURE4014",
+      "prefix_inferred": false,
+      "evidence": "Capstone courses: CURE4014 or 4038"
+    },
+    {
+      "course_code": "CURE4038",
+      "prefix_inferred": true,
+      "evidence": "Capstone courses: CURE4014 or 4038"
+    },
+    {
+      "course_code": "CURE1000",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: CURE1000 and/or 1-2 Faculty Package course"
+    },
+    {
+      "course_code": "CURE2001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CURE2001[1001] and/or 1 course from CURE1010, 2006[1006]"
+    },
+    {
+      "course_code": "CURE1010",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CURE2001[1001] and/or 1 course from CURE1010, 2006[1006]"
+    },
+    {
+      "course_code": "CURE2006",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CURE2001[1001] and/or 1 course from CURE1010, 2006[1006]"
+    },
+    {
+      "course_code": "CURE1009",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CURE1009 and/or 1 course from CURE1010, 2006[1006]"
+    },
+    {
+      "course_code": "CURE1010",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CURE1009 and/or 1 course from CURE1010, 2006[1006]"
+    },
+    {
+      "course_code": "CURE2006",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CURE1009 and/or 1 course from CURE1010, 2006[1006]"
+    },
+    {
+      "course_code": "CURE1010",
+      "prefix_inferred": false,
+      "evidence": "Major Required: 1-2 courses from CURE1010, 2006[1006], 3007, 4008[3008]"
+    },
+    {
+      "course_code": "CURE2006",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 1-2 courses from CURE1010, 2006[1006], 3007, 4008[3008]"
+    },
+    {
+      "course_code": "CURE3007",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 1-2 courses from CURE1010, 2006[1006], 3007, 4008[3008]"
+    },
+    {
+      "course_code": "CURE4008",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 1-2 courses from CURE1010, 2006[1006], 3007, 4008[3008]"
+    },
+    {
+      "course_code": "CURE3007",
+      "prefix_inferred": false,
+      "evidence": "Major Required: 0-1 course from CURE3007, 4008[3008]"
+    },
+    {
+      "course_code": "CURE4008",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 0-1 course from CURE3007, 4008[3008]"
+    },
+    {
+      "course_code": "CURE4014",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): 0-1 course from CURE4014 or 4038, and/or 1-4 courses"
+    },
+    {
+      "course_code": "CURE4038",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 0-1 course from CURE4014 or 4038, and/or 1-4 courses"
+    },
+    {
+      "course_code": "CURE1009",
+      "prefix_inferred": false,
+      "evidence": "CURE1009, 1010, 2001*[1001], 2006*[1006], 3007, 4008[3008]"
+    },
+    {
+      "course_code": "CURE1010",
+      "prefix_inferred": true,
+      "evidence": "CURE1009, 1010, 2001*[1001], 2006*[1006], 3007, 4008[3008]"
+    },
+    {
+      "course_code": "CURE2001",
+      "prefix_inferred": true,
+      "evidence": "CURE1009, 1010, 2001*[1001], 2006*[1006], 3007, 4008[3008]"
+    },
+    {
+      "course_code": "CURE2006",
+      "prefix_inferred": true,
+      "evidence": "CURE1009, 1010, 2001*[1001], 2006*[1006], 3007, 4008[3008]"
+    },
+    {
+      "course_code": "CURE3007",
+      "prefix_inferred": true,
+      "evidence": "CURE1009, 1010, 2001*[1001], 2006*[1006], 3007, 4008[3008]"
+    },
+    {
+      "course_code": "CURE4008",
+      "prefix_inferred": true,
+      "evidence": "CURE1009, 1010, 2001*[1001], 2006*[1006], 3007, 4008[3008]"
+    },
+    {
+      "course_code": "CURE2001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CURE2001[1001] and/or 1-2 courses from CURE 1010, 2006[1006], 3007, 4008[3008]"
+    },
+    {
+      "course_code": "CURE1010",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CURE2001[1001] and/or 1-2 courses from CURE 1010, 2006[1006], 3007, 4008[3008]"
+    },
+    {
+      "course_code": "CURE2006",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CURE2001[1001] and/or 1-2 courses from CURE 1010, 2006[1006], 3007, 4008[3008]"
+    },
+    {
+      "course_code": "CURE3007",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CURE2001[1001] and/or 1-2 courses from CURE 1010, 2006[1006], 3007, 4008[3008]"
+    },
+    {
+      "course_code": "CURE4008",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CURE2001[1001] and/or 1-2 courses from CURE 1010, 2006[1006], 3007, 4008[3008]"
+    },
+    {
+      "course_code": "CURE1009",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CURE1009 and/or 1-2 courses from CURE1010, 2006[1006], 3007, 4008[3008]"
+    },
+    {
+      "course_code": "CURE1010",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CURE1009 and/or 1-2 courses from CURE1010, 2006[1006], 3007, 4008[3008]"
+    },
+    {
+      "course_code": "CURE2006",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CURE1009 and/or 1-2 courses from CURE1010, 2006[1006], 3007, 4008[3008]"
+    },
+    {
+      "course_code": "CURE3007",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CURE1009 and/or 1-2 courses from CURE1010, 2006[1006], 3007, 4008[3008]"
+    },
+    {
+      "course_code": "CURE4008",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CURE1009 and/or 1-2 courses from CURE1010, 2006[1006], 3007, 4008[3008]"
+    },
+    {
+      "course_code": "CURE1010",
+      "prefix_inferred": false,
+      "evidence": "Major Required: 1-3 courses from CURE1010, 2006[1006], 3007, 4008[3008]"
+    },
+    {
+      "course_code": "CURE2006",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 1-3 courses from CURE1010, 2006[1006], 3007, 4008[3008]"
+    },
+    {
+      "course_code": "CURE3007",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 1-3 courses from CURE1010, 2006[1006], 3007, 4008[3008]"
+    },
+    {
+      "course_code": "CURE4008",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 1-3 courses from CURE1010, 2006[1006], 3007, 4008[3008]"
+    },
+    {
+      "course_code": "CURE1009",
+      "prefix_inferred": false,
+      "evidence": "CURE1009, 1010, 2001[1001], 2006 [1006], 3007, 4008[3008]"
+    },
+    {
+      "course_code": "CURE1010",
+      "prefix_inferred": true,
+      "evidence": "CURE1009, 1010, 2001[1001], 2006 [1006], 3007, 4008[3008]"
+    },
+    {
+      "course_code": "CURE2001",
+      "prefix_inferred": true,
+      "evidence": "CURE1009, 1010, 2001[1001], 2006 [1006], 3007, 4008[3008]"
+    },
+    {
+      "course_code": "CURE2006",
+      "prefix_inferred": true,
+      "evidence": "CURE1009, 1010, 2001[1001], 2006 [1006], 3007, 4008[3008]"
+    },
+    {
+      "course_code": "CURE3007",
+      "prefix_inferred": true,
+      "evidence": "CURE1009, 1010, 2001[1001], 2006 [1006], 3007, 4008[3008]"
+    },
+    {
+      "course_code": "CURE4008",
+      "prefix_inferred": true,
+      "evidence": "CURE1009, 1010, 2001[1001], 2006 [1006], 3007, 4008[3008]"
+    },
+    {
+      "course_code": "CURE2006",
+      "prefix_inferred": false,
+      "evidence": "CURE2006[1006]"
+    },
+    {
+      "course_code": "CURE2024",
+      "prefix_inferred": false,
+      "evidence": "CURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200"
+    },
+    {
+      "course_code": "CURE2030",
+      "prefix_inferred": true,
+      "evidence": "CURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200"
+    },
+    {
+      "course_code": "CURE2039",
+      "prefix_inferred": true,
+      "evidence": "CURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200"
+    },
+    {
+      "course_code": "CURE2040",
+      "prefix_inferred": true,
+      "evidence": "CURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200"
+    },
+    {
+      "course_code": "CURE2066",
+      "prefix_inferred": true,
+      "evidence": "CURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200"
+    },
+    {
+      "course_code": "CURE3002",
+      "prefix_inferred": true,
+      "evidence": "CURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200"
+    },
+    {
+      "course_code": "CURE3026",
+      "prefix_inferred": true,
+      "evidence": "CURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200"
+    },
+    {
+      "course_code": "CURE3033",
+      "prefix_inferred": true,
+      "evidence": "CURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200"
+    },
+    {
+      "course_code": "CURE3034",
+      "prefix_inferred": true,
+      "evidence": "CURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200"
+    },
+    {
+      "course_code": "CURE3066",
+      "prefix_inferred": true,
+      "evidence": "CURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200"
+    },
+    {
+      "course_code": "CURE4021",
+      "prefix_inferred": true,
+      "evidence": "CURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200"
+    },
+    {
+      "course_code": "CURE4022",
+      "prefix_inferred": true,
+      "evidence": "CURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200"
+    },
+    {
+      "course_code": "CURE4027",
+      "prefix_inferred": true,
+      "evidence": "CURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200"
+    },
+    {
+      "course_code": "CURE4033",
+      "prefix_inferred": true,
+      "evidence": "CURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200"
+    },
+    {
+      "course_code": "CHES3101",
+      "prefix_inferred": false,
+      "evidence": "CURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200"
+    },
+    {
+      "course_code": "CHES3102",
+      "prefix_inferred": true,
+      "evidence": "CURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200"
+    },
+    {
+      "course_code": "COMM2932",
+      "prefix_inferred": false,
+      "evidence": "CURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200"
+    },
+    {
+      "course_code": "COMM3939",
+      "prefix_inferred": true,
+      "evidence": "CURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200"
+    },
+    {
+      "course_code": "JASP2200",
+      "prefix_inferred": false,
+      "evidence": "CURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200"
+    },
+    {
+      "course_code": "CURE1000",
+      "prefix_inferred": false,
+      "evidence": "CURE1000"
+    },
+    {
+      "course_code": "CURE1009",
+      "prefix_inferred": false,
+      "evidence": "CURE1009"
+    },
+    {
+      "course_code": "CURE1010",
+      "prefix_inferred": false,
+      "evidence": "CURE1010"
+    },
+    {
+      "course_code": "CURE2001",
+      "prefix_inferred": false,
+      "evidence": "CURE2001[1001]"
+    },
+    {
+      "course_code": "CURE3007",
+      "prefix_inferred": false,
+      "evidence": "CURE3007"
+    },
+    {
+      "course_code": "CURE4008",
+      "prefix_inferred": false,
+      "evidence": "CURE4008[3008]"
+    },
+    {
+      "course_code": "CURE4014",
+      "prefix_inferred": false,
+      "evidence": "CURE4014"
+    },
+    {
+      "course_code": "CURE4038",
+      "prefix_inferred": false,
+      "evidence": "CURE4038"
+    },
+    {
+      "course_code": "CURE1004",
+      "prefix_inferred": false,
+      "evidence": "CURE1004"
+    },
+    {
+      "course_code": "CURE2007",
+      "prefix_inferred": false,
+      "evidence": "CURE2007"
+    },
+    {
+      "course_code": "CURE2008",
+      "prefix_inferred": false,
+      "evidence": "CURE2008"
+    },
+    {
+      "course_code": "CURE2010",
+      "prefix_inferred": false,
+      "evidence": "CURE2010"
+    },
+    {
+      "course_code": "CURE2011",
+      "prefix_inferred": false,
+      "evidence": "CURE2011"
+    },
+    {
+      "course_code": "CURE2031",
+      "prefix_inferred": false,
+      "evidence": "CURE2031"
+    },
+    {
+      "course_code": "CURE2032",
+      "prefix_inferred": false,
+      "evidence": "CURE2032"
+    },
+    {
+      "course_code": "CURE2042",
+      "prefix_inferred": false,
+      "evidence": "CURE2042"
+    },
+    {
+      "course_code": "CURE2051",
+      "prefix_inferred": false,
+      "evidence": "CURE2051"
+    },
+    {
+      "course_code": "CURE3011",
+      "prefix_inferred": false,
+      "evidence": "CURE3011[3006]"
+    },
+    {
+      "course_code": "CURE3015",
+      "prefix_inferred": false,
+      "evidence": "CURE3015"
+    },
+    {
+      "course_code": "CURE3030",
+      "prefix_inferred": false,
+      "evidence": "CURE3030"
+    },
+    {
+      "course_code": "CURE3036",
+      "prefix_inferred": false,
+      "evidence": "CURE3036"
+    },
+    {
+      "course_code": "CURE3038",
+      "prefix_inferred": false,
+      "evidence": "CURE3038"
+    },
+    {
+      "course_code": "CURE4028",
+      "prefix_inferred": false,
+      "evidence": "CURE4028"
+    },
+    {
+      "course_code": "CURE2003",
+      "prefix_inferred": false,
+      "evidence": "CURE2003"
+    },
+    {
+      "course_code": "CURE2016",
+      "prefix_inferred": false,
+      "evidence": "CURE2016"
+    },
+    {
+      "course_code": "CURE2019",
+      "prefix_inferred": false,
+      "evidence": "CURE2019"
+    },
+    {
+      "course_code": "CURE2025",
+      "prefix_inferred": false,
+      "evidence": "CURE2025"
+    },
+    {
+      "course_code": "CURE3012",
+      "prefix_inferred": false,
+      "evidence": "CURE3012"
+    },
+    {
+      "course_code": "CURE3017",
+      "prefix_inferred": false,
+      "evidence": "CURE3017"
+    },
+    {
+      "course_code": "CURE3025",
+      "prefix_inferred": false,
+      "evidence": "CURE3025"
+    },
+    {
+      "course_code": "CURE3032",
+      "prefix_inferred": false,
+      "evidence": "CURE3032"
+    },
+    {
+      "course_code": "CURE3037",
+      "prefix_inferred": false,
+      "evidence": "CURE3037"
+    },
+    {
+      "course_code": "CURE4031",
+      "prefix_inferred": false,
+      "evidence": "CURE4031"
+    },
+    {
+      "course_code": "CURE2014",
+      "prefix_inferred": false,
+      "evidence": "CURE2014"
+    },
+    {
+      "course_code": "CURE2022",
+      "prefix_inferred": false,
+      "evidence": "CURE2022"
+    },
+    {
+      "course_code": "CURE2036",
+      "prefix_inferred": false,
+      "evidence": "CURE2036"
+    },
+    {
+      "course_code": "CURE2039",
+      "prefix_inferred": false,
+      "evidence": "CURE2039"
+    },
+    {
+      "course_code": "CURE2047",
+      "prefix_inferred": false,
+      "evidence": "CURE2047"
+    },
+    {
+      "course_code": "CURE3013",
+      "prefix_inferred": false,
+      "evidence": "CURE3013"
+    },
+    {
+      "course_code": "CURE4022",
+      "prefix_inferred": false,
+      "evidence": "CURE4022"
+    },
+    {
+      "course_code": "CURE2005",
+      "prefix_inferred": false,
+      "evidence": "CURE2005"
+    },
+    {
+      "course_code": "CURE2018",
+      "prefix_inferred": false,
+      "evidence": "CURE2018"
+    },
+    {
+      "course_code": "CURE2037",
+      "prefix_inferred": false,
+      "evidence": "CURE2037"
+    },
+    {
+      "course_code": "CURE3003",
+      "prefix_inferred": false,
+      "evidence": "CURE3003"
+    },
+    {
+      "course_code": "CURE3027",
+      "prefix_inferred": false,
+      "evidence": "CURE3027"
+    },
+    {
+      "course_code": "CURE2024",
+      "prefix_inferred": false,
+      "evidence": "CURE2024"
+    },
+    {
+      "course_code": "CURE2030",
+      "prefix_inferred": false,
+      "evidence": "CURE2030"
+    },
+    {
+      "course_code": "CURE2040",
+      "prefix_inferred": false,
+      "evidence": "CURE2040"
+    },
+    {
+      "course_code": "CURE2066",
+      "prefix_inferred": false,
+      "evidence": "CURE2066"
+    },
+    {
+      "course_code": "CURE3002",
+      "prefix_inferred": false,
+      "evidence": "CURE3002"
+    },
+    {
+      "course_code": "CURE3014",
+      "prefix_inferred": false,
+      "evidence": "CURE3014"
+    },
+    {
+      "course_code": "CURE3026",
+      "prefix_inferred": false,
+      "evidence": "CURE3026"
+    },
+    {
+      "course_code": "CURE3033",
+      "prefix_inferred": false,
+      "evidence": "CURE3033"
+    },
+    {
+      "course_code": "CURE3034",
+      "prefix_inferred": false,
+      "evidence": "CURE3034"
+    },
+    {
+      "course_code": "CURE3066",
+      "prefix_inferred": false,
+      "evidence": "CURE3066"
+    },
+    {
+      "course_code": "CURE4021",
+      "prefix_inferred": false,
+      "evidence": "CURE4021"
+    },
+    {
+      "course_code": "CURE4027",
+      "prefix_inferred": false,
+      "evidence": "CURE4027"
+    },
+    {
+      "course_code": "CURE4032",
+      "prefix_inferred": false,
+      "evidence": "CURE4032"
+    },
+    {
+      "course_code": "CURE4033",
+      "prefix_inferred": false,
+      "evidence": "CURE4033"
+    },
+    {
+      "course_code": "CURE4040",
+      "prefix_inferred": false,
+      "evidence": "CURE4040"
+    }
+  ],
+  "course_code_aliases": [
+    {
+      "current_course_code": "CURE2001",
+      "former_course_code": "CURE1001",
+      "notation": "plain_bracket",
+      "evidence": "Major Required: CURE2001[1001] and/or 1 course from CURE1010, 2006[1006]"
+    },
+    {
+      "current_course_code": "CURE2001",
+      "former_course_code": "CURE1001",
+      "notation": "plain_bracket",
+      "evidence": "Major Required: CURE2001[1001] and/or 1-2 courses from CURE 1010, 2006[1006], 3007, 4008[3008]"
+    },
+    {
+      "current_course_code": "CURE2006",
+      "former_course_code": "CURE1006",
+      "notation": "plain_bracket",
+      "evidence": "CURE2006[1006]"
+    },
+    {
+      "current_course_code": "CURE2001",
+      "former_course_code": "CURE1001",
+      "notation": "plain_bracket",
+      "evidence": "CURE2001[1001]"
+    },
+    {
+      "current_course_code": "CURE4008",
+      "former_course_code": "CURE3008",
+      "notation": "plain_bracket",
+      "evidence": "CURE4008[3008]"
+    },
+    {
+      "current_course_code": "CURE3011",
+      "former_course_code": "CURE3006",
+      "notation": "plain_bracket",
+      "evidence": "CURE3011[3006]"
+    }
+  ],
+  "source": {
+    "system": "CUHK CUSIS Browse Program Information",
+    "url": "https://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/tt_dsp_acad_prog.aspx",
+    "source_text_file": "data/cuhk/2024/programmes/B_A_in_Cultural_Studies__Faculty_of_Arts.txt",
+    "reused_duplicate_entry": false,
+    "reused_from_faculty": null
+  },
+  "raw_text": "\n\nBrowse Program Information\n\n\n\n\n\n\nAcademic Program:\tB.A. in Cultural Studies\nAcademic Year:\t2024\nLanguage:\t\nEnglish\nSimplified Chinese\nTraditional Chinese\n\n\n\nLearning Outcomes\nStudy Scheme\n \n\n\t\n\nCultural Studies\n\nApplicable to students admitted in 2024-25\n\n\n\n\n \n\n\n\n\n \n\nMajor Programme Requirement\n\n \n\n\n\n\nStudents are required to complete a minimum of 69 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nFaculty Package:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nCURE1000 and any two courses from:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nRequired Courses:\n\n\t\n\n18\n\n\n\n\n \n\n\t\n\nCURE 1009, 1010, 2001*[1001], 2006*[1006], 3007, 4008[3008]\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nElective Courses:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nAny two courses from Religious Studies Area(s)[a]\n\n\t\n\n6\n\n\n\n\n(b)\n\n\t\n\nCapstone courses: CURE4014 or 4038\n\n\t\n\n3\n\n\n\n\n(c)\n\n\t\n\nEleven CURE courses at 2000 or above level, with at least six courses from Cultural Studies Area(s), excluding the courses taken to fulfill Faculty Package, Required Courses, and Elective Courses 3(a) and (b), as well as CUREX4XX and X5XX of Cultural Management Programme\n\n\t\n\n33\n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n69\n\n\n\n\nExplanatory Notes:\n\n\n\n\n1.\n\n\t\n\nCURE courses at 2000 and above level will be included in the calculation of Major GPA for honours classification, excluding those marked with * in Required Courses, as well as CUREX4XX and X5XX of Cultural Management Programme.\n\n\n\n\n[a]\n\n\t\n\nFor Religious Studies Area(s) courses, please refer to the course list of Religious Studies Programme.\n\n\n\n\n[ ]\n\n\t\n\nOld course code used in 2024-25 and before.\n\n\n\n\n \n\n\n\n\n \n\n\t\n\nRecommended Course Pattern\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: CURE1000 and/or 1-2 Faculty Package course\n\n\t\n\n3-9\n\n\n\n\nMajor Required: CURE2001[1001] and/or 1 course from CURE1010, 2006[1006]\n\n\t\n\n3-6\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nFaculty Package: CURE1000 and/or 1-2 Faculty Package course\n\n\t\n\n3-9\n\n\n\n\nMajor Required: CURE1009 and/or 1 course from CURE1010, 2006[1006]\n\n\t\n\n3-6\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: 1-2 courses from CURE1010, 2006[1006], 3007, 4008[3008]\n\n\t\n\n3-6\n\n\n\n\nMajor Elective(s): 0-2 courses\n\n\t\n\n0-6\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: 1-2 courses from CURE1010, 2006[1006], 3007, 4008[3008]\n\n\t\n\n3-6\n\n\n\n\nMajor Elective(s): 0-2 courses\n\n\t\n\n0-6\n\n\n\n\nThird Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: 0-1 course from CURE3007, 4008[3008]\n\n\t\n\n0-3\n\n\n\n\nMajor Elective(s): 0-1 course from CURE4014 or 4038, and/or 1-4 courses\n\n\t\n\n3-15\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: 0-1 course from CURE3007, 4008[3008]\n\n\t\n\n0-3\n\n\n\n\nMajor Elective(s): 0-1 course from CURE4014 or 4038, and/or 1-4 courses\n\n\t\n\n3-15\n\n\n\n\nFourth Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: 0-1 course from CURE3007, 4008[3008]\n\n\t\n\n0-3\n\n\n\n\nMajor Elective(s): 0-5 courses\n\n\t\n\n0-15\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: 0-1 course from CURE3007, 4008[3008]\n\n\t\n\n0-3\n\n\n\n\nMajor Elective(s): 0-5 courses\n\n\t\n\n0-15\n\n\n\n\nTotal (including Faculty Package):\n\n\t\n\n69\n\n\n\n\n \n\n\n\n\n \n\nMajor Programme Requirement (for Associate Degree or Higher Diploma holders admitted to senior-year places)\n\n \n\n\n\n\nStudents are required to complete a minimum of 51 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nRequired Courses:\n\n\t\n\n18\n\n\n\n\n \n\n\t\n\nCURE1009, 1010, 2001*[1001], 2006*[1006], 3007, 4008[3008]\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nElective Courses:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nCapstone courses: CURE4014 or 4038\n\n\t\n\n3\n\n\n\n\n(b)\n\n\t\n\nTen CURE courses at 2000 or above level, excluding the courses taken to fulfill Required Courses, and Elective Course 2(a), as well as CUREX4XX and X5XX of Cultural Management Programme\n\n\t\n\n30\n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n51\n\n\n\n\nExplanatory Notes:\n\n\n\n\n1.\n\n\t\n\nCURE courses at 2000 and above level will be included in the calculation of Major GPA for honours classification, excluding those marked with * in Required Courses, as well as CUREX4XX and X5XX of Cultural Management Programme.\n\n\n\n\n[ ]\n\n\t\n\nOld course code used in 2024-25 and before.\n\n\n\n\n \n\n\n\n\n \n\n\t\n\nRecommended Course Pattern (for Associate Degree or Higher Diploma holders admitted to senior-year places)\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: CURE2001[1001] and/or 1-2 courses from CURE 1010, 2006[1006], 3007, 4008[3008]\n\n\t\n\n3-9\n\n\n\n\nMajor Elective(s): 0-4 courses\n\n\t\n\n0-12\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: CURE1009 and/or 1-2 courses from CURE1010, 2006[1006], 3007, 4008[3008]\n\n\t\n\n3-9\n\n\n\n\nMajor Elective(s): 0-4 courses\n\n\t\n\n0-12\n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: 1-3 courses from CURE 1010, 2006[1006], 3007, 4008[3008]\n\n\t\n\n3-9\n\n\n\n\nMajor Elective(s): 0-1 course from CURE4014 or 4038, and/or 1-4 courses\n\n\t\n\n3-15\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: 1-3 courses from CURE1010, 2006[1006], 3007, 4008[3008]\n\n\t\n\n3-9\n\n\n\n\nMajor Elective(s): 0-1 course from CURE4014 or 4038, and/or 1-4 courses\n\n\t\n\n3-15\n\n\n\n\nTotal:\n\n\t\n\n51\n\n\n\n\n \n\n\n\n\nMinor Programme Title\n\nCultural Studies\n\n \n\n\n\n\n \n\nMinor Programme Requirement\n\n \n\n\n\n\nStudents are required to complete a minimum of 18 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nElective Courses:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nAny one course from the following:\n\n\t\n\n3\n\n\n\n\n \n\n\t\n\nCURE1009, 1010, 2001[1001], 2006 [1006], 3007, 4008[3008]\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nFive CURE courses at 2000 or above level from Cultural Studies Area(s), with at least 2 courses at 3000 or above level, excluding the course taken to fulfill requirement 1(a) above\n\n\t\n\n15\n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n18\n\n\n\n\nExplanatory Note:\n\n\t\n\n \n\n\n\n\n[ ]\n\n\t\n\nOld course code used in 2024-25 and before.\n\n\t\n\n \n\n\n\n\n\n \n\n\n\n\nMinor Programme Title\n\nFilm and Screen Studies\n\n \n\n\n\n\n \n\nMinor Programme Requirement\n\n \n\n\t\n\n \n\n\n\n\nStudents are required to complete a minimum of 18 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nRequired Courses:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nCURE2006[1006]\n\n\t\n\n3\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nElective Courses:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nFive courses from the following, with at least three CURE courses and at least two courses at 3000 or above level:\n\nCURE2024, 2030, 2039, 2040, 2066, 3002, 3026, 3033, 3034, 3066, 4021, 4022, 4027, 4033, CHES3101, 3102, COMM2932, 3939 and JASP2200\n\n\t\n\n15\n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n18\n\n\n\n\nExplanatory Notes:\n\n\n\n\n1.\n\n\t\n\nThis Minor Programme is not applicable to students who major in Cultural Studies.\n\n\n\n\n[ ]\n\n\t\n\nOld course code used in 2024-25 and before.\n\n\n\n\n \n\n\n\n\nCourse List\n\n \n\n\n\n\nCourse Code\n\n\t\n\nCourse Title\n\n\t\n\nUnit(s)\n\n\n\n\nCURE1000\n\n\t\n\nWhy Culture Matters\n\n\t\n\n3\n\n\n\n\nCURE1009\n\n\t\n\nResearch Methods in Public Humanities\n\n\t\n\n3\n\n\n\n\nCURE1010\n\n\t\n\nText and Image: A Critical Analysis\n\n\t\n\n3\n\n\n\n\nCURE2001[1001]\n\n\t\n\nIntroduction to Cultural Studies\n\n\t\n\n3\n\n\n\n\nCURE2006[1006]\n\n\t\n\nIntroduction to Film and Screen Studies\n\n\t\n\n3\n\n\n\n\nCURE3007\n\n\t\n\nGender and Sexuality in Cultural Studies\n\n\t\n\n3\n\n\n\n\nCURE4008[3008]\n\n\t\n\nGlobal Cultural Theories\n\n\t\n\n3\n\n\n\n\nCURE4014\n\n\t\n\nGraduation Thesis\n\n\t\n\n3\n\n\n\n\nCURE4038\n\n\t\n\nSummer Internship\n\n\t\n\n3\n\n\n\n\nElective Courses\n\n\n\n\nCultural Studies Area 1: Cultural Literacy and Practices\n\n\n\n\nCURE1004\n\n\t\n\nIntroduction to Public Humanities\n\n\t\n\n3\n\n\n\n\nCURE2007\n\n\t\n\nCelebrity, Stars and Hong Kong Popular Culture\n\n\t\n\n3\n\n\n\n\nCURE2008\n\n\t\n\nBeing Human in the Age of AI: An Introduction to Digital Ethics\n\n\t\n\n3\n\n\n\n\nCURE2010\n\n\t\n\nUnderstanding Digital Humanities\n\n\t\n\n3\n\n\n\n\nCURE2011\n\n\t\n\nDisability in Public Humanities\n\n\t\n\n3\n\n\n\n\nCURE2031\n\n\t\n\nUnderstanding Visual Culture\n\n\t\n\n3\n\n\n\n\nCURE2032\n\n\t\n\nYouth and Popular Culture\n\n\t\n\n3\n\n\n\n\nCURE2042\n\n\t\n\nXiqu and Culture\n\n\t\n\n3\n\n\n\n\nCURE2051\n\n\t\n\nUnderstanding Comic Art\n\n\t\n\n3\n\n\n\n\nCURE3011[3006]\n\n\t\n\nSpecial Topics in Cultural Studies\n\n\t\n\n3\n\n\n\n\nCURE3015\n\n\t\n\nSpecial Topics: Public Humanities Workshop\n\n\t\n\n3\n\n\n\n\nCURE3030\n\n\t\n\nCultural Criticism Workshop\n\n\t\n\n3\n\n\n\n\nCURE3036\n\n\t\n\nContemporary Art and Representation\n\n\t\n\n3\n\n\n\n\nCURE3038\n\n\t\n\nWriting Workshop: Cultural Criticism, Media Writing, and Transmedia Storytelling\n\n\t\n\n3\n\n\n\n\nCURE4028\n\n\t\n\nWorkshop in Creative Content\n\n\t\n\n3\n\n\n\n\nCultural Studies Area 2: Culture, Cities and Politics\n\n\n\n\nCURE2003\n\n\t\n\nCultural Studies of Space\n\n\t\n\n3\n\n\n\n\nCURE2016\n\n\t\n\nModernity and Urban Culture\n\n\t\n\n3\n\n\n\n\nCURE2019\n\n\t\n\nPower, Identity, and Inequality in Medicine\n\n\t\n\n3\n\n\n\n\nCURE2025\n\n\t\n\nContemporary Consumer Culture\n\n\t\n\n3\n\n\n\n\nCURE3012\n\n\t\n\nSpecial Topics in Cultural Studies II\n\n\t\n\n3\n\n\n\n\nCURE3017\n\n\t\n\nGlobalization and Cultural Production\n\n\t\n\n3\n\n\n\n\nCURE3025\n\n\t\n\nTechnoscience and Culture\n\n\t\n\n3\n\n\n\n\nCURE3032\n\n\t\n\nThe Politics and Culture of Nationalisms\n\n\t\n\n3\n\n\n\n\nCURE3037\n\n\t\n\nCommunity Making and Public Humanities\n\n\t\n\n3\n\n\n\n\nCURE4031\n\n\t\n\nArts, Propaganda and Social Action\n\n\t\n\n3\n\n\n\n\nCultural Studies Area 3: Gender, Sexuality and Body\n\n\n\n\nCURE2014\n\n\t\n\nBody Politics and Representations\n\n\t\n\n3\n\n\n\n\nCURE2022\n\n\t\n\nFeminisms: Thoughts and Movements\n\n\t\n\n3\n\n\n\n\nCURE2036\n\n\t\n\nQueer Theory and Culture\n\n\t\n\n3\n\n\n\n\nCURE2039\n\n\t\n\nTrans-Asian Bodies and Visual Fantasy Cultures\n\n\t\n\n3\n\n\n\n\nCURE2047\n\n\t\n\nPerformance Studies\n\n\t\n\n3\n\n\n\n\nCURE3013\n\n\t\n\nSpecial Topics in Cultural Studies III\n\n\t\n\n3\n\n\n\n\nCURE4022\n\n\t\n\nCritical Approaches to Pornography\n\n\t\n\n3\n\n\n\n\nCultural Studies Area 4: Cultural Industries and Ecology\n\n\n\n\nCURE2005\n\n\t\n\nCulture and Travel\n\n\t\n\n3\n\n\n\n\nCURE2018\n\n\t\n\nLiving in the Anthropocene: Nature, Culture and Power\n\n\t\n\n3\n\n\n\n\nCURE2037\n\n\t\n\nCultural Policy\n\n\t\n\n3\n\n\n\n\nCURE3003\n\n\t\n\nAnimals, Culture and Modern Society\n\n\t\n\n3\n\n\n\n\nCURE3027\n\n\t\n\nCultural & Creative Industries\n\n\t\n\n3\n\n\n\n\nCultural Studies Area 5: Film & Media Studies and Practices\n\n\n\n\nCURE2024\n\n\t\n\nTaiwan New Cinema and Beyond: Authorship, Transnationality, Historiography\n\n\t\n\n3\n\n\n\n\nCURE2030\n\n\t\n\nHong Kong Cinema\n\n\t\n\n3\n\n\n\n\nCURE2040\n\n\t\n\nTelevision Studies\n\n\t\n\n3\n\n\n\n\nCURE2066\n\n\t\n\nFoundation of Visual Design\n\n\t\n\n3\n\n\n\n\nCURE3002\n\n\t\n\nFilm and Literature: Inter-media Studies\n\n\t\n\n3\n\n\n\n\nCURE3014\n\n\t\n\nSpecial Topics in Cultural Studies IV\n\n\t\n\n3\n\n\n\n\nCURE3026\n\n\t\n\nNew Media and Cyberculture\n\n\t\n\n3\n\n\n\n\nCURE3033\n\n\t\n\nFilm and Cultural Politics in Southeast Asia\n\n\t\n\n3\n\n\n\n\nCURE3034\n\n\t\n\nKorean Media and Popular Culture\n\n\t\n\n3\n\n\n\n\nCURE3066\n\n\t\n\nVideo Production\n\n\t\n\n3\n\n\n\n\nCURE4021\n\n\t\n\nTime, Space and Identity in World Cinema\n\n\t\n\n3\n\n\n\n\nCURE4027\n\n\t\n\nFilm Classics: Aesthetics and Politics\n\n\t\n\n3\n\n\n\n\nCURE4032\n\n\t\n\nDigital Imaging, Book Production and Contemporary Arts\n\n\t\n\n3\n\n\n\n\nCURE4033\n\n\t\n\nDocumentary Studies: Theories and Practices\n\n\t\n\n3\n\n\n\n\nCURE4040\n\n\t\n\nAI, Arts and Technology\n\n\t\n\n3\n\n\n\n\n \n\n\n\n\n[ ] Old course code used in 2024-25 and before.\n\n\n\n\n \n\n \n\n\n \n\nStudy Scheme\n\n\nLearning Outcomes\n \n\n\t\n\n1.\n\n\t\n\nMajor programme:\n\n\n\n\nKnowledge:\n\nGraduates will have acquired the following:\n\n\n\n\n(1)\n\n\t\n\nThe understanding of religion in its historical settings and contemporary contexts of modern living, globally and locally.\n\n\n\n\n(2)\n\n\t\n\nThe understanding of religion in its different dimensions.\n\n\n\n\n(3)\n\n\t\n\nThe understanding of religion through a crtical analysis.\n\n\n\n\n(4)\n\n\t\n\nA basic knowledge of major religious traditions in the world.\n\n\n\n\nSkills:\n\nGraduates will have acquired the following:\n\n\n\n\n(1)\n\n\t\n\nCommunication and presentational (oral and written) skills.\n\n\n\n\n(2)\n\n\t\n\nAnalytical and problem solving skills.\n\n\n\n\n(3)\n\n\t\n\nSocial skills and team-work skills.\n\n\n\n\n(4)\n\n\t\n\nSkills of critical intelligence and appreciative thinking.\n\n\n\n\n(5)\n\n\t\n\nSkills in cross-cultural understanding and intercultural literacy.\n\n\n\n\n(6)\n\n\t\n\nResearch skills.\n\n\n\n\nAttitude:\n\nGraduates will have acquired the following:\n\n\n\n\n(1)\n\n\t\n\nAwareness of the plurality and multi-faceted complexity within religious traditions of the issues of multiple and conflicting interpretations of religious traditions.\n\n\n\n\n(2)\n\n\t\n\nSelf-critical awareness of pre-suppositions and recognition.\n\n\n\n\n(3)\n\n\t\n\nA critical and yet sympathetic understanding and appreciation of religious traditions especially those to which one does not belong.\n\n\n\n\n(4)\n\n\t\n\nSensitivity to the ultimate concern and the religious dimension of human life.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nMinor programme:\n\n\n\n\n1.       Cultural Studies\n\nUpon the completion of the Minor programme, students will have demonstrated basic understanding of fundamental issues related to the subject, acquired knowledge of some aspects of the subject with sufficient exposure and at a suitable level to allow further study in this subject or related subjects or to pursue a related career\n\n\n\n\n \n\n\n\n\n2.       Film and Screen Studies\n\n\n\n\nUpon completion of the programme, students will have acquired the following learning outcomes in three aspects:\n\n \n\nI.               Knowledge outcomes:\n\na.              Demonstrate a critical appreciation of some of the dominant concepts, methods, and debates informing the study of film and screen.\n\nb.              Demonstrate a capacity to analyze the form and content of particular audio-visual products.\n\nc.              Demonstrate an awareness of the variety of ways in which audio-visual products and aspects of individual and collective social lives are mutually constituted.\n\nd.              Demonstrate an understanding of different traditions of film and screen practices in different national and international contexts.\n\n \n\nII.            Skills outcomes:\n\na.              Demonstrate skills in the close formal and structural analysis of different kinds of audio- visual products.\n\nb.              Demonstrate skills in the research and evaluation of relevant critical and historical materials for the study of film and screen.\n\nc.              Demonstrate an ability to interrelate texts and discourses specific to their own discipline with issues in the wider context of cultural and intellectual history.\n\n \n\nd.              Demonstrate an ability to understand and analyze relevant theoretical ideas and to apply these ideas to audio-visual forms.\n\n \n\nIII.          Attitude outcomes:\n\n \n\na.              Through seminar work and group presentations, demonstrate communication skills and an ability to work both individually and in groups.\n\nb.              Acknowledge the contested and provisional nature of knowledge and understanding and show openness towards diverse positions and respect for differing views.\n\n \n\n \n\n \n\n \n\n\n"
+}

@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "effectiveAcademicYear": "2026-27",
+  "scope": "Verified prerequisite rules currently collected from official programme, catalogue, and timetable sources; coverage is incomplete and must not be treated as a student profile.",
+  "source": {
+    "file": "CUHK-Business-School-Guidelines-2026-27.pdf",
+    "title": "Available Major Elective Courses coded DOTE/FINA/MGNT/MKTG in 2026-27 (tentative)",
+    "pages": [12, 14],
+    "downloadedAt": "2026-08-14",
+    "status": "official_tentative"
+  },
+  "expressionSchema": {
+    "allOf": "all listed conditions are required",
+    "anyOf": "at least one listed condition is required",
+    "course": "completed or otherwise accepted course",
+    "permissionFromInstructor": "manual consent route"
+  },
+  "courses": {
+    "DOTE2021": {"status":"unknown_not_in_source","reason":"Required course is not included in the 2026-27 major-elective prerequisite table."},
+    "DOTE2040": {"title":"Business Analytics","prerequisite":null,"verified":true,"sourcePage":12},
+    "DOTE4020": {"title":"Decision Modeling and Analytics","prerequisite":null,"verified":true,"sourcePage":12},
+    "DOTE4070": {"title":"Data Management and Big Data Analytics","prerequisite":null,"verified":true,"sourcePage":12},
+    "DOTE4240": {"title":"Supply Chain and Logistics Analytics","prerequisite":null,"verified":true,"sourcePage":12},
+    "DOTE4260": {"title":"Business Process Analytics","prerequisite":null,"verified":true,"sourcePage":12},
+    "DOTE3030": {"title":"Business Forecasting","prerequisite":{"allOf":[{"course":"DOTE2011"},{"course":"DOTE2021"}]},"verified":true,"sourcePage":12},
+    "DOTE4030": {"title":"Web Analytics","status":"legacy_or_not_listed_2026_27","prerequisite":"unknown","verified":false,"reason":"Present in the student's 2024-25 requirement pool but absent from the 2026-27 tentative major-elective table. Department confirmation is required before treating it as currently available."},
+    "DOTE4110": {"title":"Economic Analytics","prerequisite":{"course":"DOTE1030"},"verified":true,"sourcePage":12},
+    "DOTE4220": {"title":"Data Mining for Business Intelligence","prerequisite":{"anyOf":[{"allOf":[{"course":"DOTE2011"},{"course":"DOTE2021"}]},{"allOf":[{"course":"DOTE2011"},{"course":"DOTE2040"}]},{"permissionFromInstructor":true}]},"verified":true,"sourcePage":12},
+    "DOTE4280": {"title":"Network and Security","prerequisite":null,"verified":true,"sourcePage":12},
+    "MKTG4120": {"title":"Marketing Engineering","prerequisite":{"allOf":[{"course":"MKTG2010"},{"course":"MKTG3010"}]},"verified":true,"sourcePage":14},
+    "DOTE3010": {"title":"Artificial Intelligence Empowered Business","prerequisite":{"anyOf":[{"course":"DOTE1021"},{"course":"DOTE2011"},{"course":"ECON2121"},{"course":"FINA2230"},{"course":"STAT2001"},{"permissionFromInstructor":true}]},"verified":true,"sourcePage":12,"applicabilityWarning":"Listed in the 2025-26-admit BA pool, but not in this student's 2024-25 BA requirement pool."},
+    "ACCT2151": {"title":"Legal Environment for Business","prerequisite":null,"enrollmentRequirement":{"notForStudentsWhoHaveTaken":["ACCT3151"]},"verified":true,"ruleRefs":["MUTEX_ACCT2151_ACCT3151"],"source":{"file":"data/cuhk-timetable/snapshots/2026-08-15T01-38-53+08-00/raw/2420/course-catalog/ACCT2151.txt","capturedAt":"2026-08-14T17:48:29.339Z"}},
+    "ACCT3151": {"title":"Business Law","prerequisite":null,"enrollmentRequirement":{"notForStudentsWhoHaveTaken":["ACCT2151","LAWS1041","LAWS1042"]},"verified":true,"ruleRefs":["MUTEX_ACCT2151_ACCT3151"],"source":{"file":"data/cuhk-timetable/snapshots/2026-08-15T01-38-53+08-00/raw/2420/course-catalog/ACCT3151.txt","capturedAt":"2026-08-14T17:48:51.840Z"}},
+    "DOTE2030": {"status":"unknown_not_in_source","prerequisite":"unknown"},
+    "MGNT2512": {"status":"unknown_not_in_source","prerequisite":"unknown"},
+    "MGNT2611": {"status":"unknown_not_in_source","prerequisite":"unknown"},
+    "MGNT4010": {"status":"unknown_not_in_source","prerequisite":"unknown"},
+    "ELTU3012": {"status":"unknown_not_in_source","prerequisite":"unknown"}
+  }
+}

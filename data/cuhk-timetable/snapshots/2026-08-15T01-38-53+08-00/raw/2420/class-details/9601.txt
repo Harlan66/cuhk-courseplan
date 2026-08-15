@@ -1,0 +1,214 @@
+	Data Language:  
+English
+Simplified Chinese
+Traditional Chinese
+	
+														
+	
+Groupbox
+
+			
+	
+Teaching Timetable
+
+	
+Class Detail
+
+	
+ 
+
+
+	
+
+
+	
+
+	
+ACCT 3142 - B   Contemporary Accounting Information Systems
+
+
+	
+CUHK | 2026-27 Term 1 | Lecture
+
+	
+
+
+	
+Class Details
+
+				
+	
+								
+	
+
+	
+Status
+
+		
+Open
+
+	
+Class Number
+
+	
+9601
+
+	
+Session
+
+	
+Regular Academic Session
+
+	
+1
+
+	
+Units
+
+	
+3 units
+
+	
+Instruction Mode
+
+	
+In Person
+
+	
+P
+
+		
+Lecture Required
+
+	
+Class Components
+
+	
+<table class="PSTEXT"><tr><td>Lecture Required</td></tr></table>
+		
+				
+	
+Course ID
+
+		
+011056
+
+	
+Offer Nbr
+
+	
+1
+
+	
+Career
+	
+Undergraduate
+
+	
+UG
+
+	
+Dates
+
+	
+2026/8/1 - 2026/12/31
+
+	
+Grading
+	
+Graded
+
+		
+GRD
+
+	
+Campus
+	
+Main Campus
+
+	
+MAIN
+
+
+
+
+	
+Meeting Information
+
+
+Days & Times	Room	Instructor	Meeting Dates
+
+Tu 10:30 - 13:15
+	
+Esther Lee Bldg 206
+	
+Dr. WONG Ka Lok
+	
+9/8, 9/15, 9/22, 9/29, 10/6, 10/13, 10/20, 10/27, 11/3, 11/10, 11/17, 11/24, 12/1
+
+
+	
+Enrollment Information
+
+					
+	
+For UG PACC Major
+1. Pre-requisite: ACCT2111
+2. Not for students who have taken ACCT3141
+
+	
+Enrollment Requirements
+
+	
+			
+	
+Class Attributes
+		
+English only
+
+
+
+
+	
+Class Availability
+
+						
+	
+Class Capacity
+	
+50
+	
+Wait List Capacity
+	
+999
+
+	
+Enrollment Total
+	
+41
+	
+Wait List Total
+	
+0
+
+	
+Available Seats
+	
+9
+
+
+	
+Description
+
+	
+	
+This course will provide a framework for students to understand the functions of accounting information systems in contemporary business organizations. System documentation skills will be introduced to enable students to fully understand a company’s business processes and its internal controls. In addition, students will learn how to build accounting information system in a database management system environment using data modeling techniques.  The course will be supplemented by laboratory sessions.
+
+
+	
+	
+	
+Return to Teaching Timetable
+
+
+

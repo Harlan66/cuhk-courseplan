@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "CUHK Timetable Exporter",
+  "version": "0.1.0",
+  "description": "Export the authenticated CUHK undergraduate teaching timetable to CSV and JSON in one click.",
+  "permissions": ["downloads"],
+  "host_permissions": [
+    "https://cusis.cuhk.edu.hk/*",
+    "https://rgsntl.rgs.cuhk.edu.hk/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://cusis.cuhk.edu.hk/*"],
+      "js": ["parser.js", "content.js"],
+      "css": ["styles.css"],
+      "run_at": "document_idle",
+      "all_frames": false
+    }
+  ]
+}

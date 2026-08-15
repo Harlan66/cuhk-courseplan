@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "student": {
+    "displayName": null,
+    "academicYear": null,
+    "yearLevel": null,
+    "programme": null,
+    "concentration": null,
+    "college": null,
+    "courseExemptions": null,
+    "targetTerm": null,
+    "maximumUnits": null,
+    "planningPreferences": {}
+  },
+  "knownScheduleConstraints": [],
+  "source": { "type": "agent-onboarding", "status": "not_started" }
+}

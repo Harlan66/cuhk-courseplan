@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "studentApplicability": {
+    "admissionAcademicYear": "2024-25",
+    "programme": "Integrated BBA",
+    "concentration": "Business Analytics",
+    "graduationRequirementSource": "data/cuhk/2024/programmes/B_B_A_Integrated_BBA_Programme__Faculty_of_Business_Administration.txt",
+    "currentCourseRuleSource": "CUHK-Business-School-Guidelines-2026-27.pdf",
+    "precedence": [
+      "CUSIS live enrolment restrictions and department approval",
+      "2024-25 programme study scheme for graduation counting",
+      "2026-27 Business School guide for current prerequisite information"
+    ]
+  },
+  "courseCodeAliases": [
+    {
+      "oldSubject": "DSME",
+      "newSubject": "DOTE",
+      "effectiveFrom": "2024-25",
+      "mapping": "same_numeric_code",
+      "example": {"old":"DSME4020","new":"DOTE4020"},
+      "source": "CUHK Undergraduate Handbook course-list note"
+    }
+  ],
+  "requirementRules": [
+    {
+      "id": "BAN_REQUIRED_2024",
+      "type": "all_of",
+      "courses": ["DOTE2021", "DOTE2040", "DOTE4020"],
+      "appliesToAdmissionYear": "2024-25",
+      "source": {"file":"data/cuhk/2024/programmes/B_B_A_Integrated_BBA_Programme__Faculty_of_Business_Administration.txt","method":"official_webpage_dom_text","evidence":"DOTE2021, 2040, 4020"}
+    },
+    {
+      "id": "BAN_CHOICE_A_2024",
+      "type": "choose",
+      "required": 1,
+      "courses": ["DOTE4070", "DOTE4240", "DOTE4260"],
+      "appliesToAdmissionYear": "2024-25",
+      "source": {"file":"data/cuhk/2024/programmes/B_B_A_Integrated_BBA_Programme__Faculty_of_Business_Administration.txt","method":"official_webpage_dom_text","evidence":"one course selected from: DOTE4070, 4240, 4260; and"}
+    },
+    {
+      "id": "BAN_CHOICE_B_2024",
+      "type": "choose",
+      "required": 1,
+      "courses": ["DOTE3030", "DOTE4030", "DOTE4110", "DOTE4220", "DOTE4280", "MKTG4120"],
+      "appliesToAdmissionYear": "2024-25",
+      "source": {"file":"data/cuhk/2024/programmes/B_B_A_Integrated_BBA_Programme__Faculty_of_Business_Administration.txt","method":"official_webpage_dom_text","evidence":"one course selected from the second Business Analytics course pool"}
+    },
+    {
+      "id": "BAN_2026_GUIDE_DIFFERENCE",
+      "type": "version_difference",
+      "description": "The 2026-27 guide for students admitted in 2025-26 adds DOTE3010 to the first Business Analytics choice pool. It is not automatically applicable to a student admitted in 2024-25.",
+      "doNotAutoSubstitute": "DOTE3010",
+      "requires": "programme approval or an applicable revised study scheme",
+      "source": {"file":"CUHK-Business-School-Guidelines-2026-27.pdf","page":9}
+    }
+  ],
+  "exclusionAndSubstitutionRules": [
+    {
+      "id": "MUTEX_ACCT2151_ACCT3151",
+      "type": "mutually_exclusive",
+      "courses": ["ACCT2151", "ACCT3151"],
+      "satisfiesRequirement": "ACCT_CHOICE",
+      "choose": 1,
+      "advice": "Students intending to pursue the accounting profession are advised to take ACCT3151.",
+      "source": {"file":"data/cuhk/2024/programmes/B_B_A_Integrated_BBA_Programme__Faculty_of_Business_Administration.txt","method":"official_webpage_dom_text","evidence":"ACCT2151 and 3151 are mutually exclusive."}
+    },
+    {
+      "id": "FREE_ELECTIVE_NO_BAN_SUBSTITUTION",
+      "type": "no_substitution",
+      "from": "free_elective_credit",
+      "to": "business_analytics_concentration_requirement",
+      "description": "Free-elective credit counts toward total units but does not replace a specified Business Analytics requirement.",
+      "source": {"file":"obsidian-status-source.md","section":"自由选修"}
+    },
+    {
+      "id": "NO_IMPLICIT_COURSE_SUBSTITUTION",
+      "type": "approval_required",
+      "description": "A course outside a versioned requirement pool cannot be treated as a replacement solely because its content or title appears similar.",
+      "approvalAuthority": "programme or department"
+    }
+  ],
+  "doubleCountingRules": [
+    {
+      "id": "ONE_COURSE_ONE_CONCENTRATION_DEFAULT",
+      "type": "no_double_count",
+      "scope": "concentration_requirements",
+      "exceptions": ["DOUBLE_CONC_DOTE2021", "DOUBLE_CONC_MGNT3010"],
+      "source": {"file":"data/cuhk/2024/programmes/B_B_A_Integrated_BBA_Programme__Faculty_of_Business_Administration.txt","method":"official_webpage_dom_text","evidence":"concentration requirements and double-concentration exceptions"}
+    },
+    {
+      "id": "DOUBLE_CONC_DOTE2021",
+      "type": "double_count_exception",
+      "course": "DOTE2021",
+      "allowedAmong": ["Business Economics", "Business Analytics", "Finance"],
+      "source": {"file":"data/cuhk/2024/programmes/B_B_A_Integrated_BBA_Programme__Faculty_of_Business_Administration.txt","method":"official_webpage_dom_text","evidence":"DOTE2021 and the associated units can be used to satisfy concentration requirements of double concentrations within (a) to (c)."}
+    },
+    {
+      "id": "DOUBLE_CONC_MGNT3010",
+      "type": "double_count_exception",
+      "course": "MGNT3010",
+      "allowedAmong": ["Management of International Business", "Human Resource Management"],
+      "source": {"file":"data/cuhk/2024/programmes/B_B_A_Integrated_BBA_Programme__Faculty_of_Business_Administration.txt","method":"official_webpage_dom_text","evidence":"MGNT3010 and the associated units can be used to satisfy concentration requirements of double concentrations within (e) and (f)."}
+    },
+    {
+      "id": "GENERAL_BUSINESS_NO_REUSE",
+      "type": "no_double_count",
+      "description": "Courses counted toward General Business concentration cannot also count toward concentrations (a) through (h).",
+      "source": {"file":"data/cuhk/2024/programmes/B_B_A_Integrated_BBA_Programme__Faculty_of_Business_Administration.txt","method":"official_webpage_dom_text","evidence":"Courses taken for the concentration requirements of General Business Concentration cannot be counted towards the requirements of concentrations (a) to (h)."}
+    }
+  ],
+  "enrolmentDecisionPolicy": {
+    "statuses": ["eligible", "likely_eligible", "needs_consent", "needs_manual_confirmation", "ineligible"],
+    "unknownRuleBehavior": "needs_manual_confirmation",
+    "permissionAlternativeBehavior": "needs_consent",
+    "neverInferMissingPrerequisite": true,
+    "prerequisiteRecognition": {
+      "recognizedAutomatically": ["course completed at CUHK", "course exemption formally approved by CUHK"],
+      "notRecognizedAutomatically": ["similar or equivalent external course without approved exemption", "course redesignation without CUSIS recognition"],
+      "resolution": "contact RES or the course-offering department",
+      "source": "CUHK RES: CUSIS System Functions and Important Notes for Course Enrollment, July 2025"
+    },
+    "componentRule": "When a course requires both lecture and tutorial, both components must be added together unless the department pre-assigns the tutorial.",
+    "tbaRule": "TBA timetable entries remain unresolved and require department announcements.",
+    "liveFields": ["vacancy", "addConsent", "dropConsent", "reservedQuota", "career", "term", "section"]
+  }
+}

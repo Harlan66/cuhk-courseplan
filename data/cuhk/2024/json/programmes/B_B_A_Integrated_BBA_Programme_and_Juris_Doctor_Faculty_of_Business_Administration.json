@@ -1,0 +1,3351 @@
+{
+  "programme_id": "B_B_A_Integrated_BBA_Programme_and_Juris_Doctor__Faculty_of_Business_Administration",
+  "academic_program": "B.B.A. (Integrated BBA Programme) and Juris Doctor",
+  "faculty": "Faculty of Business Administration",
+  "academic_year": 2024,
+  "admission_cohort": "2024-25",
+  "requirement_summary": {
+    "minimum_units_as_printed": "a minimum of 70 units",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Faculty Package",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "DOTE1030",
+            "prefix_inferred": false,
+            "evidence": "DOTE1030, 1040, MGNT1020"
+          },
+          {
+            "course_code": "DOTE1040",
+            "prefix_inferred": true,
+            "evidence": "DOTE1030, 1040, MGNT1020"
+          },
+          {
+            "course_code": "MGNT1020",
+            "prefix_inferred": false,
+            "evidence": "DOTE1030, 1040, MGNT1020"
+          }
+        ],
+        "raw_text": "9\nDOTE1030, 1040, MGNT1020"
+      },
+      {
+        "number": 2,
+        "title": "Required Courses",
+        "units_as_printed": "28",
+        "course_mentions": [
+          {
+            "course_code": "ACCT2111",
+            "prefix_inferred": false,
+            "evidence": "ACCT2111, 2121, DOTE2011, 2030, 2051, FINA2010, IBBA3040, MGNT2511, 2512, 4010 (capstone course), MKTG2010"
+          },
+          {
+            "course_code": "ACCT2121",
+            "prefix_inferred": true,
+            "evidence": "ACCT2111, 2121, DOTE2011, 2030, 2051, FINA2010, IBBA3040, MGNT2511, 2512, 4010 (capstone course), MKTG2010"
+          },
+          {
+            "course_code": "DOTE2011",
+            "prefix_inferred": false,
+            "evidence": "ACCT2111, 2121, DOTE2011, 2030, 2051, FINA2010, IBBA3040, MGNT2511, 2512, 4010 (capstone course), MKTG2010"
+          },
+          {
+            "course_code": "DOTE2030",
+            "prefix_inferred": true,
+            "evidence": "ACCT2111, 2121, DOTE2011, 2030, 2051, FINA2010, IBBA3040, MGNT2511, 2512, 4010 (capstone course), MKTG2010"
+          },
+          {
+            "course_code": "DOTE2051",
+            "prefix_inferred": true,
+            "evidence": "ACCT2111, 2121, DOTE2011, 2030, 2051, FINA2010, IBBA3040, MGNT2511, 2512, 4010 (capstone course), MKTG2010"
+          },
+          {
+            "course_code": "FINA2010",
+            "prefix_inferred": false,
+            "evidence": "ACCT2111, 2121, DOTE2011, 2030, 2051, FINA2010, IBBA3040, MGNT2511, 2512, 4010 (capstone course), MKTG2010"
+          },
+          {
+            "course_code": "IBBA3040",
+            "prefix_inferred": false,
+            "evidence": "ACCT2111, 2121, DOTE2011, 2030, 2051, FINA2010, IBBA3040, MGNT2511, 2512, 4010 (capstone course), MKTG2010"
+          },
+          {
+            "course_code": "MGNT2511",
+            "prefix_inferred": false,
+            "evidence": "ACCT2111, 2121, DOTE2011, 2030, 2051, FINA2010, IBBA3040, MGNT2511, 2512, 4010 (capstone course), MKTG2010"
+          },
+          {
+            "course_code": "MGNT2512",
+            "prefix_inferred": true,
+            "evidence": "ACCT2111, 2121, DOTE2011, 2030, 2051, FINA2010, IBBA3040, MGNT2511, 2512, 4010 (capstone course), MKTG2010"
+          },
+          {
+            "course_code": "MGNT4010",
+            "prefix_inferred": true,
+            "evidence": "ACCT2111, 2121, DOTE2011, 2030, 2051, FINA2010, IBBA3040, MGNT2511, 2512, 4010 (capstone course), MKTG2010"
+          },
+          {
+            "course_code": "MKTG2010",
+            "prefix_inferred": false,
+            "evidence": "ACCT2111, 2121, DOTE2011, 2030, 2051, FINA2010, IBBA3040, MGNT2511, 2512, 4010 (capstone course), MKTG2010"
+          }
+        ],
+        "raw_text": "28\nACCT2111, 2121, DOTE2011, 2030, 2051, FINA2010, IBBA3040, MGNT2511, 2512, 4010 (capstone course), MKTG2010"
+      },
+      {
+        "number": 3,
+        "title": "Law Courses[a]",
+        "units_as_printed": "18",
+        "course_mentions": [
+          {
+            "course_code": "LAWS1020",
+            "prefix_inferred": false,
+            "evidence": "LAWS1020, 1030, 1041, 1042, 2131, 2132"
+          },
+          {
+            "course_code": "LAWS1030",
+            "prefix_inferred": true,
+            "evidence": "LAWS1020, 1030, 1041, 1042, 2131, 2132"
+          },
+          {
+            "course_code": "LAWS1041",
+            "prefix_inferred": true,
+            "evidence": "LAWS1020, 1030, 1041, 1042, 2131, 2132"
+          },
+          {
+            "course_code": "LAWS1042",
+            "prefix_inferred": true,
+            "evidence": "LAWS1020, 1030, 1041, 1042, 2131, 2132"
+          },
+          {
+            "course_code": "LAWS2131",
+            "prefix_inferred": true,
+            "evidence": "LAWS1020, 1030, 1041, 1042, 2131, 2132"
+          },
+          {
+            "course_code": "LAWS2132",
+            "prefix_inferred": true,
+            "evidence": "LAWS1020, 1030, 1041, 1042, 2131, 2132"
+          }
+        ],
+        "raw_text": "18\nLAWS1020, 1030, 1041, 1042, 2131, 2132"
+      },
+      {
+        "number": 4,
+        "title": "Elective Courses (Concentration)",
+        "units_as_printed": "15-18",
+        "course_mentions": [
+          {
+            "course_code": "DOTE2021",
+            "prefix_inferred": false,
+            "evidence": "DOTE2021, 4110;"
+          },
+          {
+            "course_code": "DOTE4110",
+            "prefix_inferred": true,
+            "evidence": "DOTE2021, 4110;"
+          },
+          {
+            "course_code": "DOTE3000",
+            "prefix_inferred": false,
+            "evidence": "two courses selected from: DOTE3000, 3011, 3030, 3050, 3080, 3090, 4040, 4080; and"
+          },
+          {
+            "course_code": "DOTE3011",
+            "prefix_inferred": true,
+            "evidence": "two courses selected from: DOTE3000, 3011, 3030, 3050, 3080, 3090, 4040, 4080; and"
+          },
+          {
+            "course_code": "DOTE3030",
+            "prefix_inferred": true,
+            "evidence": "two courses selected from: DOTE3000, 3011, 3030, 3050, 3080, 3090, 4040, 4080; and"
+          },
+          {
+            "course_code": "DOTE3050",
+            "prefix_inferred": true,
+            "evidence": "two courses selected from: DOTE3000, 3011, 3030, 3050, 3080, 3090, 4040, 4080; and"
+          },
+          {
+            "course_code": "DOTE3080",
+            "prefix_inferred": true,
+            "evidence": "two courses selected from: DOTE3000, 3011, 3030, 3050, 3080, 3090, 4040, 4080; and"
+          },
+          {
+            "course_code": "DOTE3090",
+            "prefix_inferred": true,
+            "evidence": "two courses selected from: DOTE3000, 3011, 3030, 3050, 3080, 3090, 4040, 4080; and"
+          },
+          {
+            "course_code": "DOTE4040",
+            "prefix_inferred": true,
+            "evidence": "two courses selected from: DOTE3000, 3011, 3030, 3050, 3080, 3090, 4040, 4080; and"
+          },
+          {
+            "course_code": "DOTE4080",
+            "prefix_inferred": true,
+            "evidence": "two courses selected from: DOTE3000, 3011, 3030, 3050, 3080, 3090, 4040, 4080; and"
+          },
+          {
+            "course_code": "DOTE2021",
+            "prefix_inferred": false,
+            "evidence": "DOTE2021, 2040, 4020;"
+          },
+          {
+            "course_code": "DOTE2040",
+            "prefix_inferred": true,
+            "evidence": "DOTE2021, 2040, 4020;"
+          },
+          {
+            "course_code": "DOTE4020",
+            "prefix_inferred": true,
+            "evidence": "DOTE2021, 2040, 4020;"
+          },
+          {
+            "course_code": "DOTE4070",
+            "prefix_inferred": false,
+            "evidence": "one course selected from: DOTE4070, 4240, 4260; and"
+          },
+          {
+            "course_code": "DOTE4240",
+            "prefix_inferred": true,
+            "evidence": "one course selected from: DOTE4070, 4240, 4260; and"
+          },
+          {
+            "course_code": "DOTE4260",
+            "prefix_inferred": true,
+            "evidence": "one course selected from: DOTE4070, 4240, 4260; and"
+          },
+          {
+            "course_code": "DOTE3030",
+            "prefix_inferred": false,
+            "evidence": "one course selected from: DOTE3030, 4030, 4110, 4220, 4280, MKTG4120"
+          },
+          {
+            "course_code": "DOTE4030",
+            "prefix_inferred": true,
+            "evidence": "one course selected from: DOTE3030, 4030, 4110, 4220, 4280, MKTG4120"
+          },
+          {
+            "course_code": "DOTE4110",
+            "prefix_inferred": true,
+            "evidence": "one course selected from: DOTE3030, 4030, 4110, 4220, 4280, MKTG4120"
+          },
+          {
+            "course_code": "DOTE4220",
+            "prefix_inferred": true,
+            "evidence": "one course selected from: DOTE3030, 4030, 4110, 4220, 4280, MKTG4120"
+          },
+          {
+            "course_code": "DOTE4280",
+            "prefix_inferred": true,
+            "evidence": "one course selected from: DOTE3030, 4030, 4110, 4220, 4280, MKTG4120"
+          },
+          {
+            "course_code": "MKTG4120",
+            "prefix_inferred": false,
+            "evidence": "one course selected from: DOTE3030, 4030, 4110, 4220, 4280, MKTG4120"
+          },
+          {
+            "course_code": "DOTE2021",
+            "prefix_inferred": false,
+            "evidence": "DOTE2021 or FINA2020; and"
+          },
+          {
+            "course_code": "FINA2020",
+            "prefix_inferred": false,
+            "evidence": "DOTE2021 or FINA2020; and"
+          },
+          {
+            "course_code": "MGNT1070",
+            "prefix_inferred": false,
+            "evidence": "MGNT1070, 2070; and"
+          },
+          {
+            "course_code": "MGNT2070",
+            "prefix_inferred": true,
+            "evidence": "MGNT1070, 2070; and"
+          },
+          {
+            "course_code": "MGNT3080",
+            "prefix_inferred": false,
+            "evidence": "four courses selected from: MGNT3080, 4070, 4090, 4130, 4160, 4170, 4270, 4570, 4711, 4712, 4713"
+          },
+          {
+            "course_code": "MGNT4070",
+            "prefix_inferred": true,
+            "evidence": "four courses selected from: MGNT3080, 4070, 4090, 4130, 4160, 4170, 4270, 4570, 4711, 4712, 4713"
+          },
+          {
+            "course_code": "MGNT4090",
+            "prefix_inferred": true,
+            "evidence": "four courses selected from: MGNT3080, 4070, 4090, 4130, 4160, 4170, 4270, 4570, 4711, 4712, 4713"
+          },
+          {
+            "course_code": "MGNT4130",
+            "prefix_inferred": true,
+            "evidence": "four courses selected from: MGNT3080, 4070, 4090, 4130, 4160, 4170, 4270, 4570, 4711, 4712, 4713"
+          },
+          {
+            "course_code": "MGNT4160",
+            "prefix_inferred": true,
+            "evidence": "four courses selected from: MGNT3080, 4070, 4090, 4130, 4160, 4170, 4270, 4570, 4711, 4712, 4713"
+          },
+          {
+            "course_code": "MGNT4170",
+            "prefix_inferred": true,
+            "evidence": "four courses selected from: MGNT3080, 4070, 4090, 4130, 4160, 4170, 4270, 4570, 4711, 4712, 4713"
+          },
+          {
+            "course_code": "MGNT4270",
+            "prefix_inferred": true,
+            "evidence": "four courses selected from: MGNT3080, 4070, 4090, 4130, 4160, 4170, 4270, 4570, 4711, 4712, 4713"
+          },
+          {
+            "course_code": "MGNT4570",
+            "prefix_inferred": true,
+            "evidence": "four courses selected from: MGNT3080, 4070, 4090, 4130, 4160, 4170, 4270, 4570, 4711, 4712, 4713"
+          },
+          {
+            "course_code": "MGNT4711",
+            "prefix_inferred": true,
+            "evidence": "four courses selected from: MGNT3080, 4070, 4090, 4130, 4160, 4170, 4270, 4570, 4711, 4712, 4713"
+          },
+          {
+            "course_code": "MGNT4712",
+            "prefix_inferred": true,
+            "evidence": "four courses selected from: MGNT3080, 4070, 4090, 4130, 4160, 4170, 4270, 4570, 4711, 4712, 4713"
+          },
+          {
+            "course_code": "MGNT4713",
+            "prefix_inferred": true,
+            "evidence": "four courses selected from: MGNT3080, 4070, 4090, 4130, 4160, 4170, 4270, 4570, 4711, 4712, 4713"
+          },
+          {
+            "course_code": "MGNT3580",
+            "prefix_inferred": false,
+            "evidence": "MGNT3580, 4150; and"
+          },
+          {
+            "course_code": "MGNT4150",
+            "prefix_inferred": true,
+            "evidence": "MGNT3580, 4150; and"
+          },
+          {
+            "course_code": "MGNT3010",
+            "prefix_inferred": false,
+            "evidence": "four courses selected from: MGNT3010, 3080, 3100, 4080, 4090, 4110, 4130, 4140, 4510, 4530, 4540, 4550, 4570"
+          },
+          {
+            "course_code": "MGNT3080",
+            "prefix_inferred": true,
+            "evidence": "four courses selected from: MGNT3010, 3080, 3100, 4080, 4090, 4110, 4130, 4140, 4510, 4530, 4540, 4550, 4570"
+          },
+          {
+            "course_code": "MGNT3100",
+            "prefix_inferred": true,
+            "evidence": "four courses selected from: MGNT3010, 3080, 3100, 4080, 4090, 4110, 4130, 4140, 4510, 4530, 4540, 4550, 4570"
+          },
+          {
+            "course_code": "MGNT4080",
+            "prefix_inferred": true,
+            "evidence": "four courses selected from: MGNT3010, 3080, 3100, 4080, 4090, 4110, 4130, 4140, 4510, 4530, 4540, 4550, 4570"
+          },
+          {
+            "course_code": "MGNT4090",
+            "prefix_inferred": true,
+            "evidence": "four courses selected from: MGNT3010, 3080, 3100, 4080, 4090, 4110, 4130, 4140, 4510, 4530, 4540, 4550, 4570"
+          },
+          {
+            "course_code": "MGNT4110",
+            "prefix_inferred": true,
+            "evidence": "four courses selected from: MGNT3010, 3080, 3100, 4080, 4090, 4110, 4130, 4140, 4510, 4530, 4540, 4550, 4570"
+          },
+          {
+            "course_code": "MGNT4130",
+            "prefix_inferred": true,
+            "evidence": "four courses selected from: MGNT3010, 3080, 3100, 4080, 4090, 4110, 4130, 4140, 4510, 4530, 4540, 4550, 4570"
+          },
+          {
+            "course_code": "MGNT4140",
+            "prefix_inferred": true,
+            "evidence": "four courses selected from: MGNT3010, 3080, 3100, 4080, 4090, 4110, 4130, 4140, 4510, 4530, 4540, 4550, 4570"
+          },
+          {
+            "course_code": "MGNT4510",
+            "prefix_inferred": true,
+            "evidence": "four courses selected from: MGNT3010, 3080, 3100, 4080, 4090, 4110, 4130, 4140, 4510, 4530, 4540, 4550, 4570"
+          },
+          {
+            "course_code": "MGNT4530",
+            "prefix_inferred": true,
+            "evidence": "four courses selected from: MGNT3010, 3080, 3100, 4080, 4090, 4110, 4130, 4140, 4510, 4530, 4540, 4550, 4570"
+          },
+          {
+            "course_code": "MGNT4540",
+            "prefix_inferred": true,
+            "evidence": "four courses selected from: MGNT3010, 3080, 3100, 4080, 4090, 4110, 4130, 4140, 4510, 4530, 4540, 4550, 4570"
+          },
+          {
+            "course_code": "MGNT4550",
+            "prefix_inferred": true,
+            "evidence": "four courses selected from: MGNT3010, 3080, 3100, 4080, 4090, 4110, 4130, 4140, 4510, 4530, 4540, 4550, 4570"
+          },
+          {
+            "course_code": "MGNT4570",
+            "prefix_inferred": true,
+            "evidence": "four courses selected from: MGNT3010, 3080, 3100, 4080, 4090, 4110, 4130, 4140, 4510, 4530, 4540, 4550, 4570"
+          },
+          {
+            "course_code": "MGNT2040",
+            "prefix_inferred": false,
+            "evidence": "MGNT2040, 3010; and"
+          },
+          {
+            "course_code": "MGNT3010",
+            "prefix_inferred": true,
+            "evidence": "MGNT2040, 3010; and"
+          },
+          {
+            "course_code": "MGNT3040",
+            "prefix_inferred": false,
+            "evidence": "four courses selected from: MGNT3040, 3060, 3090, 3100, 4050, 4060, 4080, 4110, 4130, 4140"
+          },
+          {
+            "course_code": "MGNT3060",
+            "prefix_inferred": true,
+            "evidence": "four courses selected from: MGNT3040, 3060, 3090, 3100, 4050, 4060, 4080, 4110, 4130, 4140"
+          },
+          {
+            "course_code": "MGNT3090",
+            "prefix_inferred": true,
+            "evidence": "four courses selected from: MGNT3040, 3060, 3090, 3100, 4050, 4060, 4080, 4110, 4130, 4140"
+          },
+          {
+            "course_code": "MGNT3100",
+            "prefix_inferred": true,
+            "evidence": "four courses selected from: MGNT3040, 3060, 3090, 3100, 4050, 4060, 4080, 4110, 4130, 4140"
+          },
+          {
+            "course_code": "MGNT4050",
+            "prefix_inferred": true,
+            "evidence": "four courses selected from: MGNT3040, 3060, 3090, 3100, 4050, 4060, 4080, 4110, 4130, 4140"
+          },
+          {
+            "course_code": "MGNT4060",
+            "prefix_inferred": true,
+            "evidence": "four courses selected from: MGNT3040, 3060, 3090, 3100, 4050, 4060, 4080, 4110, 4130, 4140"
+          },
+          {
+            "course_code": "MGNT4080",
+            "prefix_inferred": true,
+            "evidence": "four courses selected from: MGNT3040, 3060, 3090, 3100, 4050, 4060, 4080, 4110, 4130, 4140"
+          },
+          {
+            "course_code": "MGNT4110",
+            "prefix_inferred": true,
+            "evidence": "four courses selected from: MGNT3040, 3060, 3090, 3100, 4050, 4060, 4080, 4110, 4130, 4140"
+          },
+          {
+            "course_code": "MGNT4130",
+            "prefix_inferred": true,
+            "evidence": "four courses selected from: MGNT3040, 3060, 3090, 3100, 4050, 4060, 4080, 4110, 4130, 4140"
+          },
+          {
+            "course_code": "MGNT4140",
+            "prefix_inferred": true,
+            "evidence": "four courses selected from: MGNT3040, 3060, 3090, 3100, 4050, 4060, 4080, 4110, 4130, 4140"
+          },
+          {
+            "course_code": "MKTG3010",
+            "prefix_inferred": false,
+            "evidence": "MKTG3010, 3020, 3030, 4040; and"
+          },
+          {
+            "course_code": "MKTG3020",
+            "prefix_inferred": true,
+            "evidence": "MKTG3010, 3020, 3030, 4040; and"
+          },
+          {
+            "course_code": "MKTG3030",
+            "prefix_inferred": true,
+            "evidence": "MKTG3010, 3020, 3030, 4040; and"
+          },
+          {
+            "course_code": "MKTG4040",
+            "prefix_inferred": true,
+            "evidence": "MKTG3010, 3020, 3030, 4040; and"
+          },
+          {
+            "course_code": "MKTG3040",
+            "prefix_inferred": false,
+            "evidence": "two courses selected from: MKTG3040, 3050, 4010, 4020, 4030, 4050, 4070, 4080, 4090, 4110, 4160, 4200"
+          },
+          {
+            "course_code": "MKTG3050",
+            "prefix_inferred": true,
+            "evidence": "two courses selected from: MKTG3040, 3050, 4010, 4020, 4030, 4050, 4070, 4080, 4090, 4110, 4160, 4200"
+          },
+          {
+            "course_code": "MKTG4010",
+            "prefix_inferred": true,
+            "evidence": "two courses selected from: MKTG3040, 3050, 4010, 4020, 4030, 4050, 4070, 4080, 4090, 4110, 4160, 4200"
+          },
+          {
+            "course_code": "MKTG4020",
+            "prefix_inferred": true,
+            "evidence": "two courses selected from: MKTG3040, 3050, 4010, 4020, 4030, 4050, 4070, 4080, 4090, 4110, 4160, 4200"
+          },
+          {
+            "course_code": "MKTG4030",
+            "prefix_inferred": true,
+            "evidence": "two courses selected from: MKTG3040, 3050, 4010, 4020, 4030, 4050, 4070, 4080, 4090, 4110, 4160, 4200"
+          },
+          {
+            "course_code": "MKTG4050",
+            "prefix_inferred": true,
+            "evidence": "two courses selected from: MKTG3040, 3050, 4010, 4020, 4030, 4050, 4070, 4080, 4090, 4110, 4160, 4200"
+          },
+          {
+            "course_code": "MKTG4070",
+            "prefix_inferred": true,
+            "evidence": "two courses selected from: MKTG3040, 3050, 4010, 4020, 4030, 4050, 4070, 4080, 4090, 4110, 4160, 4200"
+          },
+          {
+            "course_code": "MKTG4080",
+            "prefix_inferred": true,
+            "evidence": "two courses selected from: MKTG3040, 3050, 4010, 4020, 4030, 4050, 4070, 4080, 4090, 4110, 4160, 4200"
+          },
+          {
+            "course_code": "MKTG4090",
+            "prefix_inferred": true,
+            "evidence": "two courses selected from: MKTG3040, 3050, 4010, 4020, 4030, 4050, 4070, 4080, 4090, 4110, 4160, 4200"
+          },
+          {
+            "course_code": "MKTG4110",
+            "prefix_inferred": true,
+            "evidence": "two courses selected from: MKTG3040, 3050, 4010, 4020, 4030, 4050, 4070, 4080, 4090, 4110, 4160, 4200"
+          },
+          {
+            "course_code": "MKTG4160",
+            "prefix_inferred": true,
+            "evidence": "two courses selected from: MKTG3040, 3050, 4010, 4020, 4030, 4050, 4070, 4080, 4090, 4110, 4160, 4200"
+          },
+          {
+            "course_code": "MKTG4200",
+            "prefix_inferred": true,
+            "evidence": "two courses selected from: MKTG3040, 3050, 4010, 4020, 4030, 4050, 4070, 4080, 4090, 4110, 4160, 4200"
+          },
+          {
+            "course_code": "MKTG3010",
+            "prefix_inferred": false,
+            "evidence": "MKTG3010, 3060, 4080, 4090; and"
+          },
+          {
+            "course_code": "MKTG3060",
+            "prefix_inferred": true,
+            "evidence": "MKTG3010, 3060, 4080, 4090; and"
+          },
+          {
+            "course_code": "MKTG4080",
+            "prefix_inferred": true,
+            "evidence": "MKTG3010, 3060, 4080, 4090; and"
+          },
+          {
+            "course_code": "MKTG4090",
+            "prefix_inferred": true,
+            "evidence": "MKTG3010, 3060, 4080, 4090; and"
+          },
+          {
+            "course_code": "MKTG3020",
+            "prefix_inferred": false,
+            "evidence": "two courses selected from: MKTG3020, 4030, 4050, 4120, 4150, 4160, 4170, 4180, 4190, 4200"
+          },
+          {
+            "course_code": "MKTG4030",
+            "prefix_inferred": true,
+            "evidence": "two courses selected from: MKTG3020, 4030, 4050, 4120, 4150, 4160, 4170, 4180, 4190, 4200"
+          },
+          {
+            "course_code": "MKTG4050",
+            "prefix_inferred": true,
+            "evidence": "two courses selected from: MKTG3020, 4030, 4050, 4120, 4150, 4160, 4170, 4180, 4190, 4200"
+          },
+          {
+            "course_code": "MKTG4120",
+            "prefix_inferred": true,
+            "evidence": "two courses selected from: MKTG3020, 4030, 4050, 4120, 4150, 4160, 4170, 4180, 4190, 4200"
+          },
+          {
+            "course_code": "MKTG4150",
+            "prefix_inferred": true,
+            "evidence": "two courses selected from: MKTG3020, 4030, 4050, 4120, 4150, 4160, 4170, 4180, 4190, 4200"
+          },
+          {
+            "course_code": "MKTG4160",
+            "prefix_inferred": true,
+            "evidence": "two courses selected from: MKTG3020, 4030, 4050, 4120, 4150, 4160, 4170, 4180, 4190, 4200"
+          },
+          {
+            "course_code": "MKTG4170",
+            "prefix_inferred": true,
+            "evidence": "two courses selected from: MKTG3020, 4030, 4050, 4120, 4150, 4160, 4170, 4180, 4190, 4200"
+          },
+          {
+            "course_code": "MKTG4180",
+            "prefix_inferred": true,
+            "evidence": "two courses selected from: MKTG3020, 4030, 4050, 4120, 4150, 4160, 4170, 4180, 4190, 4200"
+          },
+          {
+            "course_code": "MKTG4190",
+            "prefix_inferred": true,
+            "evidence": "two courses selected from: MKTG3020, 4030, 4050, 4120, 4150, 4160, 4170, 4180, 4190, 4200"
+          },
+          {
+            "course_code": "MKTG4200",
+            "prefix_inferred": true,
+            "evidence": "two courses selected from: MKTG3020, 4030, 4050, 4120, 4150, 4160, 4170, 4180, 4190, 4200"
+          }
+        ],
+        "raw_text": "15-18\nStudents must choose one concentration and take five or six courses among the courses prescribed under respective concentration areas as follows:\n(a)\nBusiness Economics\n(i)\nDOTE2021, 4110;\n(ii)\ntwo courses selected from: DOTE3000, 3011, 3030, 3050, 3080, 3090, 4040, 4080; and\n(iii)\none DOTE course at 3000 or above level, excluding the courses taken for fulfillment of requirement (i) or (ii)\n(b)\nBusiness Analytics\n(i)\nDOTE2021, 2040, 4020;\n(ii)\none course selected from: DOTE4070, 4240, 4260; and\n(iii)\none course selected from: DOTE3030, 4030, 4110, 4220, 4280, MKTG4120\n(c)\nFinance\n(i)\nDOTE2021 or FINA2020; and\n(ii)\n15 units of FINA courses at 3000 or above level, with no more than three 1-unit FINA courses\n(d)\nEntrepreneurship\n(i)\nMGNT1070, 2070; and\n(ii)\nfour courses selected from: MGNT3080, 4070, 4090, 4130, 4160, 4170, 4270, 4570, 4711, 4712, 4713\n(e)\nManagement of International Business\n(i)\nMGNT3580, 4150; and\n(ii)\nfour courses selected from: MGNT3010, 3080, 3100, 4080, 4090, 4110, 4130, 4140, 4510, 4530, 4540, 4550, 4570\n(f)\nHuman Resource Management\n(i)\nMGNT2040, 3010; and\n(ii)\nfour courses selected from: MGNT3040, 3060, 3090, 3100, 4050, 4060, 4080, 4110, 4130, 4140\n(g)\nMarketing\n(i)\nMKTG3010, 3020, 3030, 4040; and\n(ii)\ntwo courses selected from: MKTG3040, 3050, 4010, 4020, 4030, 4050, 4070, 4080, 4090, 4110, 4160, 4200\n(h)\nBig Data and Quantitative Marketing\n(i)\nMKTG3010, 3060, 4080, 4090; and\n(ii)\ntwo courses selected from: MKTG3020, 4030, 4050, 4120, 4150, 4160, 4170, 4180, 4190, 4200\n(i)\nGeneral Business\n(i)\n3 units of DOTE/FINA/MGNT/MKTG courses at 2000 or above level; and\n(ii)\n12 units of DOTE/FINA/MGNT/MKTG courses at 3000 or above level, excluding the courses taken for fulfillment of requirement (i), with no more than three 1-unit FINA courses\nTotal:\n70-73[b]\nExplanatory Notes:"
+      },
+      {
+        "number": 1,
+        "title": "Required Courses",
+        "units_as_printed": null,
+        "course_mentions": [
+          {
+            "course_code": "LAWS6001",
+            "prefix_inferred": false,
+            "evidence": "LAWS6001[a], 6004, 6006[b], 6007, 6901 or 6902[c]"
+          },
+          {
+            "course_code": "LAWS6004",
+            "prefix_inferred": true,
+            "evidence": "LAWS6001[a], 6004, 6006[b], 6007, 6901 or 6902[c]"
+          },
+          {
+            "course_code": "LAWS6006",
+            "prefix_inferred": true,
+            "evidence": "LAWS6001[a], 6004, 6006[b], 6007, 6901 or 6902[c]"
+          },
+          {
+            "course_code": "LAWS6007",
+            "prefix_inferred": true,
+            "evidence": "LAWS6001[a], 6004, 6006[b], 6007, 6901 or 6902[c]"
+          },
+          {
+            "course_code": "LAWS6901",
+            "prefix_inferred": true,
+            "evidence": "LAWS6001[a], 6004, 6006[b], 6007, 6901 or 6902[c]"
+          },
+          {
+            "course_code": "LAWS6902",
+            "prefix_inferred": true,
+            "evidence": "LAWS6001[a], 6004, 6006[b], 6007, 6901 or 6902[c]"
+          }
+        ],
+        "raw_text": "15 or 18\nLAWS6001[a], 6004, 6006[b], 6007, 6901 or 6902[c]"
+      },
+      {
+        "number": 2,
+        "title": "Elective Courses",
+        "units_as_printed": null,
+        "course_mentions": [
+          {
+            "course_code": "LAWS6011",
+            "prefix_inferred": false,
+            "evidence": "Elective courses which are pre-requisites for subsequent admission to the Postgraduate Certificate in Laws (PCLL) Programme: LAWS6011, 6013, 6015, 6017, 6018, 6019, 6020, 6021[e], 6022, 6023[f], 6024"
+          },
+          {
+            "course_code": "LAWS6013",
+            "prefix_inferred": true,
+            "evidence": "Elective courses which are pre-requisites for subsequent admission to the Postgraduate Certificate in Laws (PCLL) Programme: LAWS6011, 6013, 6015, 6017, 6018, 6019, 6020, 6021[e], 6022, 6023[f], 6024"
+          },
+          {
+            "course_code": "LAWS6015",
+            "prefix_inferred": true,
+            "evidence": "Elective courses which are pre-requisites for subsequent admission to the Postgraduate Certificate in Laws (PCLL) Programme: LAWS6011, 6013, 6015, 6017, 6018, 6019, 6020, 6021[e], 6022, 6023[f], 6024"
+          },
+          {
+            "course_code": "LAWS6017",
+            "prefix_inferred": true,
+            "evidence": "Elective courses which are pre-requisites for subsequent admission to the Postgraduate Certificate in Laws (PCLL) Programme: LAWS6011, 6013, 6015, 6017, 6018, 6019, 6020, 6021[e], 6022, 6023[f], 6024"
+          },
+          {
+            "course_code": "LAWS6018",
+            "prefix_inferred": true,
+            "evidence": "Elective courses which are pre-requisites for subsequent admission to the Postgraduate Certificate in Laws (PCLL) Programme: LAWS6011, 6013, 6015, 6017, 6018, 6019, 6020, 6021[e], 6022, 6023[f], 6024"
+          },
+          {
+            "course_code": "LAWS6019",
+            "prefix_inferred": true,
+            "evidence": "Elective courses which are pre-requisites for subsequent admission to the Postgraduate Certificate in Laws (PCLL) Programme: LAWS6011, 6013, 6015, 6017, 6018, 6019, 6020, 6021[e], 6022, 6023[f], 6024"
+          },
+          {
+            "course_code": "LAWS6020",
+            "prefix_inferred": true,
+            "evidence": "Elective courses which are pre-requisites for subsequent admission to the Postgraduate Certificate in Laws (PCLL) Programme: LAWS6011, 6013, 6015, 6017, 6018, 6019, 6020, 6021[e], 6022, 6023[f], 6024"
+          },
+          {
+            "course_code": "LAWS6021",
+            "prefix_inferred": true,
+            "evidence": "Elective courses which are pre-requisites for subsequent admission to the Postgraduate Certificate in Laws (PCLL) Programme: LAWS6011, 6013, 6015, 6017, 6018, 6019, 6020, 6021[e], 6022, 6023[f], 6024"
+          },
+          {
+            "course_code": "LAWS6022",
+            "prefix_inferred": true,
+            "evidence": "Elective courses which are pre-requisites for subsequent admission to the Postgraduate Certificate in Laws (PCLL) Programme: LAWS6011, 6013, 6015, 6017, 6018, 6019, 6020, 6021[e], 6022, 6023[f], 6024"
+          },
+          {
+            "course_code": "LAWS6023",
+            "prefix_inferred": true,
+            "evidence": "Elective courses which are pre-requisites for subsequent admission to the Postgraduate Certificate in Laws (PCLL) Programme: LAWS6011, 6013, 6015, 6017, 6018, 6019, 6020, 6021[e], 6022, 6023[f], 6024"
+          },
+          {
+            "course_code": "LAWS6024",
+            "prefix_inferred": true,
+            "evidence": "Elective courses which are pre-requisites for subsequent admission to the Postgraduate Certificate in Laws (PCLL) Programme: LAWS6011, 6013, 6015, 6017, 6018, 6019, 6020, 6021[e], 6022, 6023[f], 6024"
+          }
+        ],
+        "raw_text": "54 or 57\nStudents are required to take at least 54 or 57 units of courses from the following[d]:\n-\nElective courses which are pre-requisites for subsequent admission to the Postgraduate Certificate in Laws (PCLL) Programme: LAWS6011, 6013, 6015, 6017, 6018, 6019, 6020, 6021[e], 6022, 6023[f], 6024\n-\nOther elective courses offered under the JD programme\n-\nElective courses offered under the Master of Laws programmes\nTotal:\n72[g]\nExplanatory Notes:"
+      }
+    ]
+  },
+  "all_course_mentions": [
+    {
+      "course_code": "DOTE1030",
+      "prefix_inferred": false,
+      "evidence": "DOTE1030, 1040, MGNT1020"
+    },
+    {
+      "course_code": "DOTE1040",
+      "prefix_inferred": true,
+      "evidence": "DOTE1030, 1040, MGNT1020"
+    },
+    {
+      "course_code": "MGNT1020",
+      "prefix_inferred": false,
+      "evidence": "DOTE1030, 1040, MGNT1020"
+    },
+    {
+      "course_code": "ACCT2111",
+      "prefix_inferred": false,
+      "evidence": "ACCT2111, 2121, DOTE2011, 2030, 2051, FINA2010, IBBA3040, MGNT2511, 2512, 4010 (capstone course), MKTG2010"
+    },
+    {
+      "course_code": "ACCT2121",
+      "prefix_inferred": true,
+      "evidence": "ACCT2111, 2121, DOTE2011, 2030, 2051, FINA2010, IBBA3040, MGNT2511, 2512, 4010 (capstone course), MKTG2010"
+    },
+    {
+      "course_code": "DOTE2011",
+      "prefix_inferred": false,
+      "evidence": "ACCT2111, 2121, DOTE2011, 2030, 2051, FINA2010, IBBA3040, MGNT2511, 2512, 4010 (capstone course), MKTG2010"
+    },
+    {
+      "course_code": "DOTE2030",
+      "prefix_inferred": true,
+      "evidence": "ACCT2111, 2121, DOTE2011, 2030, 2051, FINA2010, IBBA3040, MGNT2511, 2512, 4010 (capstone course), MKTG2010"
+    },
+    {
+      "course_code": "DOTE2051",
+      "prefix_inferred": true,
+      "evidence": "ACCT2111, 2121, DOTE2011, 2030, 2051, FINA2010, IBBA3040, MGNT2511, 2512, 4010 (capstone course), MKTG2010"
+    },
+    {
+      "course_code": "FINA2010",
+      "prefix_inferred": false,
+      "evidence": "ACCT2111, 2121, DOTE2011, 2030, 2051, FINA2010, IBBA3040, MGNT2511, 2512, 4010 (capstone course), MKTG2010"
+    },
+    {
+      "course_code": "IBBA3040",
+      "prefix_inferred": false,
+      "evidence": "ACCT2111, 2121, DOTE2011, 2030, 2051, FINA2010, IBBA3040, MGNT2511, 2512, 4010 (capstone course), MKTG2010"
+    },
+    {
+      "course_code": "MGNT2511",
+      "prefix_inferred": false,
+      "evidence": "ACCT2111, 2121, DOTE2011, 2030, 2051, FINA2010, IBBA3040, MGNT2511, 2512, 4010 (capstone course), MKTG2010"
+    },
+    {
+      "course_code": "MGNT2512",
+      "prefix_inferred": true,
+      "evidence": "ACCT2111, 2121, DOTE2011, 2030, 2051, FINA2010, IBBA3040, MGNT2511, 2512, 4010 (capstone course), MKTG2010"
+    },
+    {
+      "course_code": "MGNT4010",
+      "prefix_inferred": true,
+      "evidence": "ACCT2111, 2121, DOTE2011, 2030, 2051, FINA2010, IBBA3040, MGNT2511, 2512, 4010 (capstone course), MKTG2010"
+    },
+    {
+      "course_code": "MKTG2010",
+      "prefix_inferred": false,
+      "evidence": "ACCT2111, 2121, DOTE2011, 2030, 2051, FINA2010, IBBA3040, MGNT2511, 2512, 4010 (capstone course), MKTG2010"
+    },
+    {
+      "course_code": "LAWS1020",
+      "prefix_inferred": false,
+      "evidence": "LAWS1020, 1030, 1041, 1042, 2131, 2132"
+    },
+    {
+      "course_code": "LAWS1030",
+      "prefix_inferred": true,
+      "evidence": "LAWS1020, 1030, 1041, 1042, 2131, 2132"
+    },
+    {
+      "course_code": "LAWS1041",
+      "prefix_inferred": true,
+      "evidence": "LAWS1020, 1030, 1041, 1042, 2131, 2132"
+    },
+    {
+      "course_code": "LAWS1042",
+      "prefix_inferred": true,
+      "evidence": "LAWS1020, 1030, 1041, 1042, 2131, 2132"
+    },
+    {
+      "course_code": "LAWS2131",
+      "prefix_inferred": true,
+      "evidence": "LAWS1020, 1030, 1041, 1042, 2131, 2132"
+    },
+    {
+      "course_code": "LAWS2132",
+      "prefix_inferred": true,
+      "evidence": "LAWS1020, 1030, 1041, 1042, 2131, 2132"
+    },
+    {
+      "course_code": "DOTE2021",
+      "prefix_inferred": false,
+      "evidence": "DOTE2021, 4110;"
+    },
+    {
+      "course_code": "DOTE4110",
+      "prefix_inferred": true,
+      "evidence": "DOTE2021, 4110;"
+    },
+    {
+      "course_code": "DOTE3000",
+      "prefix_inferred": false,
+      "evidence": "two courses selected from: DOTE3000, 3011, 3030, 3050, 3080, 3090, 4040, 4080; and"
+    },
+    {
+      "course_code": "DOTE3011",
+      "prefix_inferred": true,
+      "evidence": "two courses selected from: DOTE3000, 3011, 3030, 3050, 3080, 3090, 4040, 4080; and"
+    },
+    {
+      "course_code": "DOTE3030",
+      "prefix_inferred": true,
+      "evidence": "two courses selected from: DOTE3000, 3011, 3030, 3050, 3080, 3090, 4040, 4080; and"
+    },
+    {
+      "course_code": "DOTE3050",
+      "prefix_inferred": true,
+      "evidence": "two courses selected from: DOTE3000, 3011, 3030, 3050, 3080, 3090, 4040, 4080; and"
+    },
+    {
+      "course_code": "DOTE3080",
+      "prefix_inferred": true,
+      "evidence": "two courses selected from: DOTE3000, 3011, 3030, 3050, 3080, 3090, 4040, 4080; and"
+    },
+    {
+      "course_code": "DOTE3090",
+      "prefix_inferred": true,
+      "evidence": "two courses selected from: DOTE3000, 3011, 3030, 3050, 3080, 3090, 4040, 4080; and"
+    },
+    {
+      "course_code": "DOTE4040",
+      "prefix_inferred": true,
+      "evidence": "two courses selected from: DOTE3000, 3011, 3030, 3050, 3080, 3090, 4040, 4080; and"
+    },
+    {
+      "course_code": "DOTE4080",
+      "prefix_inferred": true,
+      "evidence": "two courses selected from: DOTE3000, 3011, 3030, 3050, 3080, 3090, 4040, 4080; and"
+    },
+    {
+      "course_code": "DOTE2021",
+      "prefix_inferred": false,
+      "evidence": "DOTE2021, 2040, 4020;"
+    },
+    {
+      "course_code": "DOTE2040",
+      "prefix_inferred": true,
+      "evidence": "DOTE2021, 2040, 4020;"
+    },
+    {
+      "course_code": "DOTE4020",
+      "prefix_inferred": true,
+      "evidence": "DOTE2021, 2040, 4020;"
+    },
+    {
+      "course_code": "DOTE4070",
+      "prefix_inferred": false,
+      "evidence": "one course selected from: DOTE4070, 4240, 4260; and"
+    },
+    {
+      "course_code": "DOTE4240",
+      "prefix_inferred": true,
+      "evidence": "one course selected from: DOTE4070, 4240, 4260; and"
+    },
+    {
+      "course_code": "DOTE4260",
+      "prefix_inferred": true,
+      "evidence": "one course selected from: DOTE4070, 4240, 4260; and"
+    },
+    {
+      "course_code": "DOTE3030",
+      "prefix_inferred": false,
+      "evidence": "one course selected from: DOTE3030, 4030, 4110, 4220, 4280, MKTG4120"
+    },
+    {
+      "course_code": "DOTE4030",
+      "prefix_inferred": true,
+      "evidence": "one course selected from: DOTE3030, 4030, 4110, 4220, 4280, MKTG4120"
+    },
+    {
+      "course_code": "DOTE4110",
+      "prefix_inferred": true,
+      "evidence": "one course selected from: DOTE3030, 4030, 4110, 4220, 4280, MKTG4120"
+    },
+    {
+      "course_code": "DOTE4220",
+      "prefix_inferred": true,
+      "evidence": "one course selected from: DOTE3030, 4030, 4110, 4220, 4280, MKTG4120"
+    },
+    {
+      "course_code": "DOTE4280",
+      "prefix_inferred": true,
+      "evidence": "one course selected from: DOTE3030, 4030, 4110, 4220, 4280, MKTG4120"
+    },
+    {
+      "course_code": "MKTG4120",
+      "prefix_inferred": false,
+      "evidence": "one course selected from: DOTE3030, 4030, 4110, 4220, 4280, MKTG4120"
+    },
+    {
+      "course_code": "DOTE2021",
+      "prefix_inferred": false,
+      "evidence": "DOTE2021 or FINA2020; and"
+    },
+    {
+      "course_code": "FINA2020",
+      "prefix_inferred": false,
+      "evidence": "DOTE2021 or FINA2020; and"
+    },
+    {
+      "course_code": "MGNT1070",
+      "prefix_inferred": false,
+      "evidence": "MGNT1070, 2070; and"
+    },
+    {
+      "course_code": "MGNT2070",
+      "prefix_inferred": true,
+      "evidence": "MGNT1070, 2070; and"
+    },
+    {
+      "course_code": "MGNT3080",
+      "prefix_inferred": false,
+      "evidence": "four courses selected from: MGNT3080, 4070, 4090, 4130, 4160, 4170, 4270, 4570, 4711, 4712, 4713"
+    },
+    {
+      "course_code": "MGNT4070",
+      "prefix_inferred": true,
+      "evidence": "four courses selected from: MGNT3080, 4070, 4090, 4130, 4160, 4170, 4270, 4570, 4711, 4712, 4713"
+    },
+    {
+      "course_code": "MGNT4090",
+      "prefix_inferred": true,
+      "evidence": "four courses selected from: MGNT3080, 4070, 4090, 4130, 4160, 4170, 4270, 4570, 4711, 4712, 4713"
+    },
+    {
+      "course_code": "MGNT4130",
+      "prefix_inferred": true,
+      "evidence": "four courses selected from: MGNT3080, 4070, 4090, 4130, 4160, 4170, 4270, 4570, 4711, 4712, 4713"
+    },
+    {
+      "course_code": "MGNT4160",
+      "prefix_inferred": true,
+      "evidence": "four courses selected from: MGNT3080, 4070, 4090, 4130, 4160, 4170, 4270, 4570, 4711, 4712, 4713"
+    },
+    {
+      "course_code": "MGNT4170",
+      "prefix_inferred": true,
+      "evidence": "four courses selected from: MGNT3080, 4070, 4090, 4130, 4160, 4170, 4270, 4570, 4711, 4712, 4713"
+    },
+    {
+      "course_code": "MGNT4270",
+      "prefix_inferred": true,
+      "evidence": "four courses selected from: MGNT3080, 4070, 4090, 4130, 4160, 4170, 4270, 4570, 4711, 4712, 4713"
+    },
+    {
+      "course_code": "MGNT4570",
+      "prefix_inferred": true,
+      "evidence": "four courses selected from: MGNT3080, 4070, 4090, 4130, 4160, 4170, 4270, 4570, 4711, 4712, 4713"
+    },
+    {
+      "course_code": "MGNT4711",
+      "prefix_inferred": true,
+      "evidence": "four courses selected from: MGNT3080, 4070, 4090, 4130, 4160, 4170, 4270, 4570, 4711, 4712, 4713"
+    },
+    {
+      "course_code": "MGNT4712",
+      "prefix_inferred": true,
+      "evidence": "four courses selected from: MGNT3080, 4070, 4090, 4130, 4160, 4170, 4270, 4570, 4711, 4712, 4713"
+    },
+    {
+      "course_code": "MGNT4713",
+      "prefix_inferred": true,
+      "evidence": "four courses selected from: MGNT3080, 4070, 4090, 4130, 4160, 4170, 4270, 4570, 4711, 4712, 4713"
+    },
+    {
+      "course_code": "MGNT3580",
+      "prefix_inferred": false,
+      "evidence": "MGNT3580, 4150; and"
+    },
+    {
+      "course_code": "MGNT4150",
+      "prefix_inferred": true,
+      "evidence": "MGNT3580, 4150; and"
+    },
+    {
+      "course_code": "MGNT3010",
+      "prefix_inferred": false,
+      "evidence": "four courses selected from: MGNT3010, 3080, 3100, 4080, 4090, 4110, 4130, 4140, 4510, 4530, 4540, 4550, 4570"
+    },
+    {
+      "course_code": "MGNT3080",
+      "prefix_inferred": true,
+      "evidence": "four courses selected from: MGNT3010, 3080, 3100, 4080, 4090, 4110, 4130, 4140, 4510, 4530, 4540, 4550, 4570"
+    },
+    {
+      "course_code": "MGNT3100",
+      "prefix_inferred": true,
+      "evidence": "four courses selected from: MGNT3010, 3080, 3100, 4080, 4090, 4110, 4130, 4140, 4510, 4530, 4540, 4550, 4570"
+    },
+    {
+      "course_code": "MGNT4080",
+      "prefix_inferred": true,
+      "evidence": "four courses selected from: MGNT3010, 3080, 3100, 4080, 4090, 4110, 4130, 4140, 4510, 4530, 4540, 4550, 4570"
+    },
+    {
+      "course_code": "MGNT4090",
+      "prefix_inferred": true,
+      "evidence": "four courses selected from: MGNT3010, 3080, 3100, 4080, 4090, 4110, 4130, 4140, 4510, 4530, 4540, 4550, 4570"
+    },
+    {
+      "course_code": "MGNT4110",
+      "prefix_inferred": true,
+      "evidence": "four courses selected from: MGNT3010, 3080, 3100, 4080, 4090, 4110, 4130, 4140, 4510, 4530, 4540, 4550, 4570"
+    },
+    {
+      "course_code": "MGNT4130",
+      "prefix_inferred": true,
+      "evidence": "four courses selected from: MGNT3010, 3080, 3100, 4080, 4090, 4110, 4130, 4140, 4510, 4530, 4540, 4550, 4570"
+    },
+    {
+      "course_code": "MGNT4140",
+      "prefix_inferred": true,
+      "evidence": "four courses selected from: MGNT3010, 3080, 3100, 4080, 4090, 4110, 4130, 4140, 4510, 4530, 4540, 4550, 4570"
+    },
+    {
+      "course_code": "MGNT4510",
+      "prefix_inferred": true,
+      "evidence": "four courses selected from: MGNT3010, 3080, 3100, 4080, 4090, 4110, 4130, 4140, 4510, 4530, 4540, 4550, 4570"
+    },
+    {
+      "course_code": "MGNT4530",
+      "prefix_inferred": true,
+      "evidence": "four courses selected from: MGNT3010, 3080, 3100, 4080, 4090, 4110, 4130, 4140, 4510, 4530, 4540, 4550, 4570"
+    },
+    {
+      "course_code": "MGNT4540",
+      "prefix_inferred": true,
+      "evidence": "four courses selected from: MGNT3010, 3080, 3100, 4080, 4090, 4110, 4130, 4140, 4510, 4530, 4540, 4550, 4570"
+    },
+    {
+      "course_code": "MGNT4550",
+      "prefix_inferred": true,
+      "evidence": "four courses selected from: MGNT3010, 3080, 3100, 4080, 4090, 4110, 4130, 4140, 4510, 4530, 4540, 4550, 4570"
+    },
+    {
+      "course_code": "MGNT4570",
+      "prefix_inferred": true,
+      "evidence": "four courses selected from: MGNT3010, 3080, 3100, 4080, 4090, 4110, 4130, 4140, 4510, 4530, 4540, 4550, 4570"
+    },
+    {
+      "course_code": "MGNT2040",
+      "prefix_inferred": false,
+      "evidence": "MGNT2040, 3010; and"
+    },
+    {
+      "course_code": "MGNT3010",
+      "prefix_inferred": true,
+      "evidence": "MGNT2040, 3010; and"
+    },
+    {
+      "course_code": "MGNT3040",
+      "prefix_inferred": false,
+      "evidence": "four courses selected from: MGNT3040, 3060, 3090, 3100, 4050, 4060, 4080, 4110, 4130, 4140"
+    },
+    {
+      "course_code": "MGNT3060",
+      "prefix_inferred": true,
+      "evidence": "four courses selected from: MGNT3040, 3060, 3090, 3100, 4050, 4060, 4080, 4110, 4130, 4140"
+    },
+    {
+      "course_code": "MGNT3090",
+      "prefix_inferred": true,
+      "evidence": "four courses selected from: MGNT3040, 3060, 3090, 3100, 4050, 4060, 4080, 4110, 4130, 4140"
+    },
+    {
+      "course_code": "MGNT3100",
+      "prefix_inferred": true,
+      "evidence": "four courses selected from: MGNT3040, 3060, 3090, 3100, 4050, 4060, 4080, 4110, 4130, 4140"
+    },
+    {
+      "course_code": "MGNT4050",
+      "prefix_inferred": true,
+      "evidence": "four courses selected from: MGNT3040, 3060, 3090, 3100, 4050, 4060, 4080, 4110, 4130, 4140"
+    },
+    {
+      "course_code": "MGNT4060",
+      "prefix_inferred": true,
+      "evidence": "four courses selected from: MGNT3040, 3060, 3090, 3100, 4050, 4060, 4080, 4110, 4130, 4140"
+    },
+    {
+      "course_code": "MGNT4080",
+      "prefix_inferred": true,
+      "evidence": "four courses selected from: MGNT3040, 3060, 3090, 3100, 4050, 4060, 4080, 4110, 4130, 4140"
+    },
+    {
+      "course_code": "MGNT4110",
+      "prefix_inferred": true,
+      "evidence": "four courses selected from: MGNT3040, 3060, 3090, 3100, 4050, 4060, 4080, 4110, 4130, 4140"
+    },
+    {
+      "course_code": "MGNT4130",
+      "prefix_inferred": true,
+      "evidence": "four courses selected from: MGNT3040, 3060, 3090, 3100, 4050, 4060, 4080, 4110, 4130, 4140"
+    },
+    {
+      "course_code": "MGNT4140",
+      "prefix_inferred": true,
+      "evidence": "four courses selected from: MGNT3040, 3060, 3090, 3100, 4050, 4060, 4080, 4110, 4130, 4140"
+    },
+    {
+      "course_code": "MKTG3010",
+      "prefix_inferred": false,
+      "evidence": "MKTG3010, 3020, 3030, 4040; and"
+    },
+    {
+      "course_code": "MKTG3020",
+      "prefix_inferred": true,
+      "evidence": "MKTG3010, 3020, 3030, 4040; and"
+    },
+    {
+      "course_code": "MKTG3030",
+      "prefix_inferred": true,
+      "evidence": "MKTG3010, 3020, 3030, 4040; and"
+    },
+    {
+      "course_code": "MKTG4040",
+      "prefix_inferred": true,
+      "evidence": "MKTG3010, 3020, 3030, 4040; and"
+    },
+    {
+      "course_code": "MKTG3040",
+      "prefix_inferred": false,
+      "evidence": "two courses selected from: MKTG3040, 3050, 4010, 4020, 4030, 4050, 4070, 4080, 4090, 4110, 4160, 4200"
+    },
+    {
+      "course_code": "MKTG3050",
+      "prefix_inferred": true,
+      "evidence": "two courses selected from: MKTG3040, 3050, 4010, 4020, 4030, 4050, 4070, 4080, 4090, 4110, 4160, 4200"
+    },
+    {
+      "course_code": "MKTG4010",
+      "prefix_inferred": true,
+      "evidence": "two courses selected from: MKTG3040, 3050, 4010, 4020, 4030, 4050, 4070, 4080, 4090, 4110, 4160, 4200"
+    },
+    {
+      "course_code": "MKTG4020",
+      "prefix_inferred": true,
+      "evidence": "two courses selected from: MKTG3040, 3050, 4010, 4020, 4030, 4050, 4070, 4080, 4090, 4110, 4160, 4200"
+    },
+    {
+      "course_code": "MKTG4030",
+      "prefix_inferred": true,
+      "evidence": "two courses selected from: MKTG3040, 3050, 4010, 4020, 4030, 4050, 4070, 4080, 4090, 4110, 4160, 4200"
+    },
+    {
+      "course_code": "MKTG4050",
+      "prefix_inferred": true,
+      "evidence": "two courses selected from: MKTG3040, 3050, 4010, 4020, 4030, 4050, 4070, 4080, 4090, 4110, 4160, 4200"
+    },
+    {
+      "course_code": "MKTG4070",
+      "prefix_inferred": true,
+      "evidence": "two courses selected from: MKTG3040, 3050, 4010, 4020, 4030, 4050, 4070, 4080, 4090, 4110, 4160, 4200"
+    },
+    {
+      "course_code": "MKTG4080",
+      "prefix_inferred": true,
+      "evidence": "two courses selected from: MKTG3040, 3050, 4010, 4020, 4030, 4050, 4070, 4080, 4090, 4110, 4160, 4200"
+    },
+    {
+      "course_code": "MKTG4090",
+      "prefix_inferred": true,
+      "evidence": "two courses selected from: MKTG3040, 3050, 4010, 4020, 4030, 4050, 4070, 4080, 4090, 4110, 4160, 4200"
+    },
+    {
+      "course_code": "MKTG4110",
+      "prefix_inferred": true,
+      "evidence": "two courses selected from: MKTG3040, 3050, 4010, 4020, 4030, 4050, 4070, 4080, 4090, 4110, 4160, 4200"
+    },
+    {
+      "course_code": "MKTG4160",
+      "prefix_inferred": true,
+      "evidence": "two courses selected from: MKTG3040, 3050, 4010, 4020, 4030, 4050, 4070, 4080, 4090, 4110, 4160, 4200"
+    },
+    {
+      "course_code": "MKTG4200",
+      "prefix_inferred": true,
+      "evidence": "two courses selected from: MKTG3040, 3050, 4010, 4020, 4030, 4050, 4070, 4080, 4090, 4110, 4160, 4200"
+    },
+    {
+      "course_code": "MKTG3010",
+      "prefix_inferred": false,
+      "evidence": "MKTG3010, 3060, 4080, 4090; and"
+    },
+    {
+      "course_code": "MKTG3060",
+      "prefix_inferred": true,
+      "evidence": "MKTG3010, 3060, 4080, 4090; and"
+    },
+    {
+      "course_code": "MKTG4080",
+      "prefix_inferred": true,
+      "evidence": "MKTG3010, 3060, 4080, 4090; and"
+    },
+    {
+      "course_code": "MKTG4090",
+      "prefix_inferred": true,
+      "evidence": "MKTG3010, 3060, 4080, 4090; and"
+    },
+    {
+      "course_code": "MKTG3020",
+      "prefix_inferred": false,
+      "evidence": "two courses selected from: MKTG3020, 4030, 4050, 4120, 4150, 4160, 4170, 4180, 4190, 4200"
+    },
+    {
+      "course_code": "MKTG4030",
+      "prefix_inferred": true,
+      "evidence": "two courses selected from: MKTG3020, 4030, 4050, 4120, 4150, 4160, 4170, 4180, 4190, 4200"
+    },
+    {
+      "course_code": "MKTG4050",
+      "prefix_inferred": true,
+      "evidence": "two courses selected from: MKTG3020, 4030, 4050, 4120, 4150, 4160, 4170, 4180, 4190, 4200"
+    },
+    {
+      "course_code": "MKTG4120",
+      "prefix_inferred": true,
+      "evidence": "two courses selected from: MKTG3020, 4030, 4050, 4120, 4150, 4160, 4170, 4180, 4190, 4200"
+    },
+    {
+      "course_code": "MKTG4150",
+      "prefix_inferred": true,
+      "evidence": "two courses selected from: MKTG3020, 4030, 4050, 4120, 4150, 4160, 4170, 4180, 4190, 4200"
+    },
+    {
+      "course_code": "MKTG4160",
+      "prefix_inferred": true,
+      "evidence": "two courses selected from: MKTG3020, 4030, 4050, 4120, 4150, 4160, 4170, 4180, 4190, 4200"
+    },
+    {
+      "course_code": "MKTG4170",
+      "prefix_inferred": true,
+      "evidence": "two courses selected from: MKTG3020, 4030, 4050, 4120, 4150, 4160, 4170, 4180, 4190, 4200"
+    },
+    {
+      "course_code": "MKTG4180",
+      "prefix_inferred": true,
+      "evidence": "two courses selected from: MKTG3020, 4030, 4050, 4120, 4150, 4160, 4170, 4180, 4190, 4200"
+    },
+    {
+      "course_code": "MKTG4190",
+      "prefix_inferred": true,
+      "evidence": "two courses selected from: MKTG3020, 4030, 4050, 4120, 4150, 4160, 4170, 4180, 4190, 4200"
+    },
+    {
+      "course_code": "MKTG4200",
+      "prefix_inferred": true,
+      "evidence": "two courses selected from: MKTG3020, 4030, 4050, 4120, 4150, 4160, 4170, 4180, 4190, 4200"
+    },
+    {
+      "course_code": "ACCT2111",
+      "prefix_inferred": false,
+      "evidence": "ACCT/DOTE/FINA/IBBA/MGNT/MKTG courses at 2000 and above level (excluding ACCT2111, 2121, IBBA3040, MGNT2511 and 2512) will be included in the calculation of Major GPA for honours classification."
+    },
+    {
+      "course_code": "ACCT2121",
+      "prefix_inferred": true,
+      "evidence": "ACCT/DOTE/FINA/IBBA/MGNT/MKTG courses at 2000 and above level (excluding ACCT2111, 2121, IBBA3040, MGNT2511 and 2512) will be included in the calculation of Major GPA for honours classification."
+    },
+    {
+      "course_code": "IBBA3040",
+      "prefix_inferred": false,
+      "evidence": "ACCT/DOTE/FINA/IBBA/MGNT/MKTG courses at 2000 and above level (excluding ACCT2111, 2121, IBBA3040, MGNT2511 and 2512) will be included in the calculation of Major GPA for honours classification."
+    },
+    {
+      "course_code": "MGNT2511",
+      "prefix_inferred": false,
+      "evidence": "ACCT/DOTE/FINA/IBBA/MGNT/MKTG courses at 2000 and above level (excluding ACCT2111, 2121, IBBA3040, MGNT2511 and 2512) will be included in the calculation of Major GPA for honours classification."
+    },
+    {
+      "course_code": "MGNT2512",
+      "prefix_inferred": true,
+      "evidence": "ACCT/DOTE/FINA/IBBA/MGNT/MKTG courses at 2000 and above level (excluding ACCT2111, 2121, IBBA3040, MGNT2511 and 2512) will be included in the calculation of Major GPA for honours classification."
+    },
+    {
+      "course_code": "MGNT2611",
+      "prefix_inferred": false,
+      "evidence": "In addition to fulfilling the major programme requirement of the 1st degree, students are advised to take MGNT2611 as an elective course."
+    },
+    {
+      "course_code": "LAWS6001",
+      "prefix_inferred": false,
+      "evidence": "LAWS6001[a], 6004, 6006[b], 6007, 6901 or 6902[c]"
+    },
+    {
+      "course_code": "LAWS6004",
+      "prefix_inferred": true,
+      "evidence": "LAWS6001[a], 6004, 6006[b], 6007, 6901 or 6902[c]"
+    },
+    {
+      "course_code": "LAWS6006",
+      "prefix_inferred": true,
+      "evidence": "LAWS6001[a], 6004, 6006[b], 6007, 6901 or 6902[c]"
+    },
+    {
+      "course_code": "LAWS6007",
+      "prefix_inferred": true,
+      "evidence": "LAWS6001[a], 6004, 6006[b], 6007, 6901 or 6902[c]"
+    },
+    {
+      "course_code": "LAWS6901",
+      "prefix_inferred": true,
+      "evidence": "LAWS6001[a], 6004, 6006[b], 6007, 6901 or 6902[c]"
+    },
+    {
+      "course_code": "LAWS6902",
+      "prefix_inferred": true,
+      "evidence": "LAWS6001[a], 6004, 6006[b], 6007, 6901 or 6902[c]"
+    },
+    {
+      "course_code": "LAWS6011",
+      "prefix_inferred": false,
+      "evidence": "Elective courses which are pre-requisites for subsequent admission to the Postgraduate Certificate in Laws (PCLL) Programme: LAWS6011, 6013, 6015, 6017, 6018, 6019, 6020, 6021[e], 6022, 6023[f], 6024"
+    },
+    {
+      "course_code": "LAWS6013",
+      "prefix_inferred": true,
+      "evidence": "Elective courses which are pre-requisites for subsequent admission to the Postgraduate Certificate in Laws (PCLL) Programme: LAWS6011, 6013, 6015, 6017, 6018, 6019, 6020, 6021[e], 6022, 6023[f], 6024"
+    },
+    {
+      "course_code": "LAWS6015",
+      "prefix_inferred": true,
+      "evidence": "Elective courses which are pre-requisites for subsequent admission to the Postgraduate Certificate in Laws (PCLL) Programme: LAWS6011, 6013, 6015, 6017, 6018, 6019, 6020, 6021[e], 6022, 6023[f], 6024"
+    },
+    {
+      "course_code": "LAWS6017",
+      "prefix_inferred": true,
+      "evidence": "Elective courses which are pre-requisites for subsequent admission to the Postgraduate Certificate in Laws (PCLL) Programme: LAWS6011, 6013, 6015, 6017, 6018, 6019, 6020, 6021[e], 6022, 6023[f], 6024"
+    },
+    {
+      "course_code": "LAWS6018",
+      "prefix_inferred": true,
+      "evidence": "Elective courses which are pre-requisites for subsequent admission to the Postgraduate Certificate in Laws (PCLL) Programme: LAWS6011, 6013, 6015, 6017, 6018, 6019, 6020, 6021[e], 6022, 6023[f], 6024"
+    },
+    {
+      "course_code": "LAWS6019",
+      "prefix_inferred": true,
+      "evidence": "Elective courses which are pre-requisites for subsequent admission to the Postgraduate Certificate in Laws (PCLL) Programme: LAWS6011, 6013, 6015, 6017, 6018, 6019, 6020, 6021[e], 6022, 6023[f], 6024"
+    },
+    {
+      "course_code": "LAWS6020",
+      "prefix_inferred": true,
+      "evidence": "Elective courses which are pre-requisites for subsequent admission to the Postgraduate Certificate in Laws (PCLL) Programme: LAWS6011, 6013, 6015, 6017, 6018, 6019, 6020, 6021[e], 6022, 6023[f], 6024"
+    },
+    {
+      "course_code": "LAWS6021",
+      "prefix_inferred": true,
+      "evidence": "Elective courses which are pre-requisites for subsequent admission to the Postgraduate Certificate in Laws (PCLL) Programme: LAWS6011, 6013, 6015, 6017, 6018, 6019, 6020, 6021[e], 6022, 6023[f], 6024"
+    },
+    {
+      "course_code": "LAWS6022",
+      "prefix_inferred": true,
+      "evidence": "Elective courses which are pre-requisites for subsequent admission to the Postgraduate Certificate in Laws (PCLL) Programme: LAWS6011, 6013, 6015, 6017, 6018, 6019, 6020, 6021[e], 6022, 6023[f], 6024"
+    },
+    {
+      "course_code": "LAWS6023",
+      "prefix_inferred": true,
+      "evidence": "Elective courses which are pre-requisites for subsequent admission to the Postgraduate Certificate in Laws (PCLL) Programme: LAWS6011, 6013, 6015, 6017, 6018, 6019, 6020, 6021[e], 6022, 6023[f], 6024"
+    },
+    {
+      "course_code": "LAWS6024",
+      "prefix_inferred": true,
+      "evidence": "Elective courses which are pre-requisites for subsequent admission to the Postgraduate Certificate in Laws (PCLL) Programme: LAWS6011, 6013, 6015, 6017, 6018, 6019, 6020, 6021[e], 6022, 6023[f], 6024"
+    },
+    {
+      "course_code": "LAWS1020",
+      "prefix_inferred": false,
+      "evidence": "Students who have completed LAWS1020 and 1030 in their first three years of studies in the BBA-JD programme will be exempted from LAWS6001."
+    },
+    {
+      "course_code": "LAWS1030",
+      "prefix_inferred": true,
+      "evidence": "Students who have completed LAWS1020 and 1030 in their first three years of studies in the BBA-JD programme will be exempted from LAWS6001."
+    },
+    {
+      "course_code": "LAWS6001",
+      "prefix_inferred": false,
+      "evidence": "Students who have completed LAWS1020 and 1030 in their first three years of studies in the BBA-JD programme will be exempted from LAWS6001."
+    },
+    {
+      "course_code": "LAWS6089",
+      "prefix_inferred": false,
+      "evidence": "Students may take LAWS6089 to substitute LAWS6006."
+    },
+    {
+      "course_code": "LAWS6006",
+      "prefix_inferred": false,
+      "evidence": "Students may take LAWS6089 to substitute LAWS6006."
+    },
+    {
+      "course_code": "LAWS6901",
+      "prefix_inferred": false,
+      "evidence": "Students are required to take either LAWS6901 (3-unit course) or 6902 (6-unit course). The extra 3 units completed in LAWS6902 will be counted towards the total units required for graduation."
+    },
+    {
+      "course_code": "LAWS6902",
+      "prefix_inferred": true,
+      "evidence": "Students are required to take either LAWS6901 (3-unit course) or 6902 (6-unit course). The extra 3 units completed in LAWS6902 will be counted towards the total units required for graduation."
+    },
+    {
+      "course_code": "LAWS6012",
+      "prefix_inferred": false,
+      "evidence": "LAWS6012 and 6014 will no longer be pre-requisites for admission to the PCLL Programme with effect from 2021-22. Students may still take the two courses as elective courses offered under the JD Programme."
+    },
+    {
+      "course_code": "LAWS6014",
+      "prefix_inferred": true,
+      "evidence": "LAWS6012 and 6014 will no longer be pre-requisites for admission to the PCLL Programme with effect from 2021-22. Students may still take the two courses as elective courses offered under the JD Programme."
+    },
+    {
+      "course_code": "LAWS1041",
+      "prefix_inferred": false,
+      "evidence": "Students who have completed LAWS1041 and 1042 in their first three years of studies in the BBA-JD programme will be exempted from LAWS6021."
+    },
+    {
+      "course_code": "LAWS1042",
+      "prefix_inferred": true,
+      "evidence": "Students who have completed LAWS1041 and 1042 in their first three years of studies in the BBA-JD programme will be exempted from LAWS6021."
+    },
+    {
+      "course_code": "LAWS6021",
+      "prefix_inferred": false,
+      "evidence": "Students who have completed LAWS1041 and 1042 in their first three years of studies in the BBA-JD programme will be exempted from LAWS6021."
+    },
+    {
+      "course_code": "LAWS2131",
+      "prefix_inferred": false,
+      "evidence": "Students who have completed LAWS2131 and 2132 in their first three years of studies in the BBA-JD programme will be exempted from LAWS6023."
+    },
+    {
+      "course_code": "LAWS2132",
+      "prefix_inferred": true,
+      "evidence": "Students who have completed LAWS2131 and 2132 in their first three years of studies in the BBA-JD programme will be exempted from LAWS6023."
+    },
+    {
+      "course_code": "LAWS6023",
+      "prefix_inferred": false,
+      "evidence": "Students who have completed LAWS2131 and 2132 in their first three years of studies in the BBA-JD programme will be exempted from LAWS6023."
+    },
+    {
+      "course_code": "LAWS1020",
+      "prefix_inferred": false,
+      "evidence": "Students who have completed LAWS1020, 1030, 1041, 1042, 2131 and 2132 are required to complete a minimum of 63 units in order to fulfill the programme requirement."
+    },
+    {
+      "course_code": "LAWS1030",
+      "prefix_inferred": true,
+      "evidence": "Students who have completed LAWS1020, 1030, 1041, 1042, 2131 and 2132 are required to complete a minimum of 63 units in order to fulfill the programme requirement."
+    },
+    {
+      "course_code": "LAWS1041",
+      "prefix_inferred": true,
+      "evidence": "Students who have completed LAWS1020, 1030, 1041, 1042, 2131 and 2132 are required to complete a minimum of 63 units in order to fulfill the programme requirement."
+    },
+    {
+      "course_code": "LAWS1042",
+      "prefix_inferred": true,
+      "evidence": "Students who have completed LAWS1020, 1030, 1041, 1042, 2131 and 2132 are required to complete a minimum of 63 units in order to fulfill the programme requirement."
+    },
+    {
+      "course_code": "LAWS2131",
+      "prefix_inferred": true,
+      "evidence": "Students who have completed LAWS1020, 1030, 1041, 1042, 2131 and 2132 are required to complete a minimum of 63 units in order to fulfill the programme requirement."
+    },
+    {
+      "course_code": "LAWS2132",
+      "prefix_inferred": true,
+      "evidence": "Students who have completed LAWS1020, 1030, 1041, 1042, 2131 and 2132 are required to complete a minimum of 63 units in order to fulfill the programme requirement."
+    },
+    {
+      "course_code": "DOTE1030",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: DOTE1030, MGNT1020"
+    },
+    {
+      "course_code": "MGNT1020",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: DOTE1030, MGNT1020"
+    },
+    {
+      "course_code": "LAWS1020",
+      "prefix_inferred": false,
+      "evidence": "Law Course(s): LAWS1020"
+    },
+    {
+      "course_code": "DOTE1040",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: DOTE1040"
+    },
+    {
+      "course_code": "MGNT2511",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MGNT2511, MKTG2010"
+    },
+    {
+      "course_code": "MKTG2010",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MGNT2511, MKTG2010"
+    },
+    {
+      "course_code": "LAWS1030",
+      "prefix_inferred": false,
+      "evidence": "Law Course(s): LAWS1030"
+    },
+    {
+      "course_code": "ACCT2111",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ACCT2111, DOTE2011, IBBA3040"
+    },
+    {
+      "course_code": "DOTE2011",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ACCT2111, DOTE2011, IBBA3040"
+    },
+    {
+      "course_code": "IBBA3040",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ACCT2111, DOTE2011, IBBA3040"
+    },
+    {
+      "course_code": "LAWS1041",
+      "prefix_inferred": false,
+      "evidence": "Law Course(s): LAWS1041"
+    },
+    {
+      "course_code": "ACCT2121",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ACCT2121, FINA2010"
+    },
+    {
+      "course_code": "FINA2010",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ACCT2121, FINA2010"
+    },
+    {
+      "course_code": "LAWS1042",
+      "prefix_inferred": false,
+      "evidence": "Law Course(s): LAWS1042"
+    },
+    {
+      "course_code": "DOTE2030",
+      "prefix_inferred": false,
+      "evidence": "Major Required: DOTE2030"
+    },
+    {
+      "course_code": "LAWS2131",
+      "prefix_inferred": false,
+      "evidence": "Law Course(s): LAWS2131"
+    },
+    {
+      "course_code": "DOTE2051",
+      "prefix_inferred": false,
+      "evidence": "Major Required: DOTE2051"
+    },
+    {
+      "course_code": "LAWS2132",
+      "prefix_inferred": false,
+      "evidence": "Law Course(s): LAWS2132"
+    },
+    {
+      "course_code": "MGNT4010",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MGNT4010, 2512"
+    },
+    {
+      "course_code": "MGNT2512",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MGNT4010, 2512"
+    },
+    {
+      "course_code": "LAWS6001",
+      "prefix_inferred": false,
+      "evidence": "Required: LAWS6001#, 6004"
+    },
+    {
+      "course_code": "LAWS6004",
+      "prefix_inferred": true,
+      "evidence": "Required: LAWS6001#, 6004"
+    },
+    {
+      "course_code": "LAWS6015",
+      "prefix_inferred": false,
+      "evidence": "Elective(s): LAWS6015^, 6021^#, 6022^"
+    },
+    {
+      "course_code": "LAWS6021",
+      "prefix_inferred": true,
+      "evidence": "Elective(s): LAWS6015^, 6021^#, 6022^"
+    },
+    {
+      "course_code": "LAWS6022",
+      "prefix_inferred": true,
+      "evidence": "Elective(s): LAWS6015^, 6021^#, 6022^"
+    },
+    {
+      "course_code": "LAWS6018",
+      "prefix_inferred": false,
+      "evidence": "Elective(s): LAWS6018^, 6020^, 6023^#, any two LAWS courses"
+    },
+    {
+      "course_code": "LAWS6020",
+      "prefix_inferred": true,
+      "evidence": "Elective(s): LAWS6018^, 6020^, 6023^#, any two LAWS courses"
+    },
+    {
+      "course_code": "LAWS6023",
+      "prefix_inferred": true,
+      "evidence": "Elective(s): LAWS6018^, 6020^, 6023^#, any two LAWS courses"
+    },
+    {
+      "course_code": "LAWS6006",
+      "prefix_inferred": false,
+      "evidence": "Required: LAWS6006"
+    },
+    {
+      "course_code": "LAWS6011",
+      "prefix_inferred": false,
+      "evidence": "Elective(s): LAWS6011^, 6019^, any three LAWS courses"
+    },
+    {
+      "course_code": "LAWS6019",
+      "prefix_inferred": true,
+      "evidence": "Elective(s): LAWS6011^, 6019^, any three LAWS courses"
+    },
+    {
+      "course_code": "LAWS6007",
+      "prefix_inferred": false,
+      "evidence": "Required: LAWS6007, 6901 or 6902"
+    },
+    {
+      "course_code": "LAWS6901",
+      "prefix_inferred": true,
+      "evidence": "Required: LAWS6007, 6901 or 6902"
+    },
+    {
+      "course_code": "LAWS6902",
+      "prefix_inferred": true,
+      "evidence": "Required: LAWS6007, 6901 or 6902"
+    },
+    {
+      "course_code": "LAWS6013",
+      "prefix_inferred": false,
+      "evidence": "Elective(s): LAWS6013^, 6017^, any one LAWS course"
+    },
+    {
+      "course_code": "LAWS6017",
+      "prefix_inferred": true,
+      "evidence": "Elective(s): LAWS6013^, 6017^, any one LAWS course"
+    },
+    {
+      "course_code": "LAWS6024",
+      "prefix_inferred": false,
+      "evidence": "Elective(s): LAWS6024^, any one LAWS course"
+    },
+    {
+      "course_code": "LAWS1020",
+      "prefix_inferred": false,
+      "evidence": "# Students who have completed LAWS1020, 1030, 1041, 1042, 2131 and 2132 in their first three years of studies in the BBA programme will be exempted from LAWS6001, 6021 and 6023 in the JD programme."
+    },
+    {
+      "course_code": "LAWS1030",
+      "prefix_inferred": true,
+      "evidence": "# Students who have completed LAWS1020, 1030, 1041, 1042, 2131 and 2132 in their first three years of studies in the BBA programme will be exempted from LAWS6001, 6021 and 6023 in the JD programme."
+    },
+    {
+      "course_code": "LAWS1041",
+      "prefix_inferred": true,
+      "evidence": "# Students who have completed LAWS1020, 1030, 1041, 1042, 2131 and 2132 in their first three years of studies in the BBA programme will be exempted from LAWS6001, 6021 and 6023 in the JD programme."
+    },
+    {
+      "course_code": "LAWS1042",
+      "prefix_inferred": true,
+      "evidence": "# Students who have completed LAWS1020, 1030, 1041, 1042, 2131 and 2132 in their first three years of studies in the BBA programme will be exempted from LAWS6001, 6021 and 6023 in the JD programme."
+    },
+    {
+      "course_code": "LAWS2131",
+      "prefix_inferred": true,
+      "evidence": "# Students who have completed LAWS1020, 1030, 1041, 1042, 2131 and 2132 in their first three years of studies in the BBA programme will be exempted from LAWS6001, 6021 and 6023 in the JD programme."
+    },
+    {
+      "course_code": "LAWS2132",
+      "prefix_inferred": true,
+      "evidence": "# Students who have completed LAWS1020, 1030, 1041, 1042, 2131 and 2132 in their first three years of studies in the BBA programme will be exempted from LAWS6001, 6021 and 6023 in the JD programme."
+    },
+    {
+      "course_code": "LAWS6001",
+      "prefix_inferred": false,
+      "evidence": "# Students who have completed LAWS1020, 1030, 1041, 1042, 2131 and 2132 in their first three years of studies in the BBA programme will be exempted from LAWS6001, 6021 and 6023 in the JD programme."
+    },
+    {
+      "course_code": "LAWS6021",
+      "prefix_inferred": true,
+      "evidence": "# Students who have completed LAWS1020, 1030, 1041, 1042, 2131 and 2132 in their first three years of studies in the BBA programme will be exempted from LAWS6001, 6021 and 6023 in the JD programme."
+    },
+    {
+      "course_code": "LAWS6023",
+      "prefix_inferred": true,
+      "evidence": "# Students who have completed LAWS1020, 1030, 1041, 1042, 2131 and 2132 in their first three years of studies in the BBA programme will be exempted from LAWS6001, 6021 and 6023 in the JD programme."
+    },
+    {
+      "course_code": "LAWS1020",
+      "prefix_inferred": false,
+      "evidence": "** Students who have completed LAWS1020, 1030, 1041, 1042, 2131 and 2132 are required to complete a minimum of 63 units in order to fulfill the programme requirement."
+    },
+    {
+      "course_code": "LAWS1030",
+      "prefix_inferred": true,
+      "evidence": "** Students who have completed LAWS1020, 1030, 1041, 1042, 2131 and 2132 are required to complete a minimum of 63 units in order to fulfill the programme requirement."
+    },
+    {
+      "course_code": "LAWS1041",
+      "prefix_inferred": true,
+      "evidence": "** Students who have completed LAWS1020, 1030, 1041, 1042, 2131 and 2132 are required to complete a minimum of 63 units in order to fulfill the programme requirement."
+    },
+    {
+      "course_code": "LAWS1042",
+      "prefix_inferred": true,
+      "evidence": "** Students who have completed LAWS1020, 1030, 1041, 1042, 2131 and 2132 are required to complete a minimum of 63 units in order to fulfill the programme requirement."
+    },
+    {
+      "course_code": "LAWS2131",
+      "prefix_inferred": true,
+      "evidence": "** Students who have completed LAWS1020, 1030, 1041, 1042, 2131 and 2132 are required to complete a minimum of 63 units in order to fulfill the programme requirement."
+    },
+    {
+      "course_code": "LAWS2132",
+      "prefix_inferred": true,
+      "evidence": "** Students who have completed LAWS1020, 1030, 1041, 1042, 2131 and 2132 are required to complete a minimum of 63 units in order to fulfill the programme requirement."
+    },
+    {
+      "course_code": "ACCT2111",
+      "prefix_inferred": false,
+      "evidence": "ACCT2111"
+    },
+    {
+      "course_code": "ACCT2121",
+      "prefix_inferred": false,
+      "evidence": "ACCT2121"
+    },
+    {
+      "course_code": "DOTE1030",
+      "prefix_inferred": false,
+      "evidence": "DOTE1030"
+    },
+    {
+      "course_code": "DOTE1035",
+      "prefix_inferred": false,
+      "evidence": "DOTE1035"
+    },
+    {
+      "course_code": "DOTE1040",
+      "prefix_inferred": false,
+      "evidence": "DOTE1040"
+    },
+    {
+      "course_code": "DOTE2011",
+      "prefix_inferred": false,
+      "evidence": "DOTE2011"
+    },
+    {
+      "course_code": "DOTE2021",
+      "prefix_inferred": false,
+      "evidence": "DOTE2021"
+    },
+    {
+      "course_code": "DOTE2030",
+      "prefix_inferred": false,
+      "evidence": "DOTE2030"
+    },
+    {
+      "course_code": "DOTE2051",
+      "prefix_inferred": false,
+      "evidence": "DOTE2051"
+    },
+    {
+      "course_code": "DOTE3000",
+      "prefix_inferred": false,
+      "evidence": "DOTE3000"
+    },
+    {
+      "course_code": "DOTE3011",
+      "prefix_inferred": false,
+      "evidence": "DOTE3011"
+    },
+    {
+      "course_code": "DOTE3030",
+      "prefix_inferred": false,
+      "evidence": "DOTE3030"
+    },
+    {
+      "course_code": "DOTE3050",
+      "prefix_inferred": false,
+      "evidence": "DOTE3050"
+    },
+    {
+      "course_code": "DOTE3080",
+      "prefix_inferred": false,
+      "evidence": "DOTE3080"
+    },
+    {
+      "course_code": "DOTE3090",
+      "prefix_inferred": false,
+      "evidence": "DOTE3090"
+    },
+    {
+      "course_code": "DOTE4020",
+      "prefix_inferred": false,
+      "evidence": "DOTE4020"
+    },
+    {
+      "course_code": "DOTE4030",
+      "prefix_inferred": false,
+      "evidence": "DOTE4030"
+    },
+    {
+      "course_code": "DOTE4040",
+      "prefix_inferred": false,
+      "evidence": "DOTE4040"
+    },
+    {
+      "course_code": "DOTE4070",
+      "prefix_inferred": false,
+      "evidence": "DOTE4070"
+    },
+    {
+      "course_code": "DOTE4080",
+      "prefix_inferred": false,
+      "evidence": "DOTE4080"
+    },
+    {
+      "course_code": "DOTE4110",
+      "prefix_inferred": false,
+      "evidence": "DOTE4110"
+    },
+    {
+      "course_code": "DOTE4140",
+      "prefix_inferred": false,
+      "evidence": "DOTE4140"
+    },
+    {
+      "course_code": "DOTE4220",
+      "prefix_inferred": false,
+      "evidence": "DOTE4220"
+    },
+    {
+      "course_code": "DOTE4240",
+      "prefix_inferred": false,
+      "evidence": "DOTE4240"
+    },
+    {
+      "course_code": "DOTE4260",
+      "prefix_inferred": false,
+      "evidence": "DOTE4260"
+    },
+    {
+      "course_code": "DOTE4280",
+      "prefix_inferred": false,
+      "evidence": "DOTE4280"
+    },
+    {
+      "course_code": "FINA2010",
+      "prefix_inferred": false,
+      "evidence": "FINA2010"
+    },
+    {
+      "course_code": "FINA2020",
+      "prefix_inferred": false,
+      "evidence": "FINA2020"
+    },
+    {
+      "course_code": "FINA2210",
+      "prefix_inferred": false,
+      "evidence": "FINA2210"
+    },
+    {
+      "course_code": "FINA3010",
+      "prefix_inferred": false,
+      "evidence": "FINA3010"
+    },
+    {
+      "course_code": "FINA3020",
+      "prefix_inferred": false,
+      "evidence": "FINA3020"
+    },
+    {
+      "course_code": "FINA3030",
+      "prefix_inferred": false,
+      "evidence": "FINA3030"
+    },
+    {
+      "course_code": "FINA3040",
+      "prefix_inferred": false,
+      "evidence": "FINA3040"
+    },
+    {
+      "course_code": "FINA3060",
+      "prefix_inferred": false,
+      "evidence": "FINA3060"
+    },
+    {
+      "course_code": "FINA3070",
+      "prefix_inferred": false,
+      "evidence": "FINA3070"
+    },
+    {
+      "course_code": "FINA3080",
+      "prefix_inferred": false,
+      "evidence": "FINA3080"
+    },
+    {
+      "course_code": "FINA3210",
+      "prefix_inferred": false,
+      "evidence": "FINA3210"
+    },
+    {
+      "course_code": "FINA3220",
+      "prefix_inferred": false,
+      "evidence": "FINA3220"
+    },
+    {
+      "course_code": "FINA3230",
+      "prefix_inferred": false,
+      "evidence": "FINA3230"
+    },
+    {
+      "course_code": "FINA3240",
+      "prefix_inferred": false,
+      "evidence": "FINA3240"
+    },
+    {
+      "course_code": "FINA3250",
+      "prefix_inferred": false,
+      "evidence": "FINA3250"
+    },
+    {
+      "course_code": "FINA3280",
+      "prefix_inferred": false,
+      "evidence": "FINA3280"
+    },
+    {
+      "course_code": "FINA3310",
+      "prefix_inferred": false,
+      "evidence": "FINA3310"
+    },
+    {
+      "course_code": "FINA3330",
+      "prefix_inferred": false,
+      "evidence": "FINA3330"
+    },
+    {
+      "course_code": "FINA3340",
+      "prefix_inferred": false,
+      "evidence": "FINA3340"
+    },
+    {
+      "course_code": "FINA3350",
+      "prefix_inferred": false,
+      "evidence": "FINA3350"
+    },
+    {
+      "course_code": "FINA3398",
+      "prefix_inferred": false,
+      "evidence": "FINA3398"
+    },
+    {
+      "course_code": "FINA3399",
+      "prefix_inferred": false,
+      "evidence": "FINA3399"
+    },
+    {
+      "course_code": "FINA4010",
+      "prefix_inferred": false,
+      "evidence": "FINA4010"
+    },
+    {
+      "course_code": "FINA4020",
+      "prefix_inferred": false,
+      "evidence": "FINA4020"
+    },
+    {
+      "course_code": "FINA4030",
+      "prefix_inferred": false,
+      "evidence": "FINA4030"
+    },
+    {
+      "course_code": "FINA4040",
+      "prefix_inferred": false,
+      "evidence": "FINA4040"
+    },
+    {
+      "course_code": "FINA4050",
+      "prefix_inferred": false,
+      "evidence": "FINA4050"
+    },
+    {
+      "course_code": "FINA4060",
+      "prefix_inferred": false,
+      "evidence": "FINA4060"
+    },
+    {
+      "course_code": "FINA4110",
+      "prefix_inferred": false,
+      "evidence": "FINA4110"
+    },
+    {
+      "course_code": "FINA4120",
+      "prefix_inferred": false,
+      "evidence": "FINA4120"
+    },
+    {
+      "course_code": "FINA4130",
+      "prefix_inferred": false,
+      "evidence": "FINA4130"
+    },
+    {
+      "course_code": "FINA4140",
+      "prefix_inferred": false,
+      "evidence": "FINA4140"
+    },
+    {
+      "course_code": "FINA4150",
+      "prefix_inferred": false,
+      "evidence": "FINA4150"
+    },
+    {
+      "course_code": "FINA4160",
+      "prefix_inferred": false,
+      "evidence": "FINA4160"
+    },
+    {
+      "course_code": "FINA4190",
+      "prefix_inferred": false,
+      "evidence": "FINA4190"
+    },
+    {
+      "course_code": "FINA4210",
+      "prefix_inferred": false,
+      "evidence": "FINA4210"
+    },
+    {
+      "course_code": "FINA4220",
+      "prefix_inferred": false,
+      "evidence": "FINA4220"
+    },
+    {
+      "course_code": "FINA4230",
+      "prefix_inferred": false,
+      "evidence": "FINA4230"
+    },
+    {
+      "course_code": "FINA4240",
+      "prefix_inferred": false,
+      "evidence": "FINA4240"
+    },
+    {
+      "course_code": "FINA4250",
+      "prefix_inferred": false,
+      "evidence": "FINA4250"
+    },
+    {
+      "course_code": "FINA4260",
+      "prefix_inferred": false,
+      "evidence": "FINA4260"
+    },
+    {
+      "course_code": "FINA4270",
+      "prefix_inferred": false,
+      "evidence": "FINA4270"
+    },
+    {
+      "course_code": "FINA4280",
+      "prefix_inferred": false,
+      "evidence": "FINA4280"
+    },
+    {
+      "course_code": "FINA4291",
+      "prefix_inferred": false,
+      "evidence": "FINA4291"
+    },
+    {
+      "course_code": "FINA4310",
+      "prefix_inferred": false,
+      "evidence": "FINA4310"
+    },
+    {
+      "course_code": "FINA4320",
+      "prefix_inferred": false,
+      "evidence": "FINA4320"
+    },
+    {
+      "course_code": "FINA4330",
+      "prefix_inferred": false,
+      "evidence": "FINA4330"
+    },
+    {
+      "course_code": "FINA4340",
+      "prefix_inferred": false,
+      "evidence": "FINA4340"
+    },
+    {
+      "course_code": "FINA4350",
+      "prefix_inferred": false,
+      "evidence": "FINA4350"
+    },
+    {
+      "course_code": "FINA4370",
+      "prefix_inferred": false,
+      "evidence": "FINA4370"
+    },
+    {
+      "course_code": "FINA4380",
+      "prefix_inferred": false,
+      "evidence": "FINA4380"
+    },
+    {
+      "course_code": "FINA4390",
+      "prefix_inferred": false,
+      "evidence": "FINA4390"
+    },
+    {
+      "course_code": "IBBA3020",
+      "prefix_inferred": false,
+      "evidence": "IBBA3020"
+    },
+    {
+      "course_code": "IBBA3040",
+      "prefix_inferred": false,
+      "evidence": "IBBA3040"
+    },
+    {
+      "course_code": "LAWS1020",
+      "prefix_inferred": false,
+      "evidence": "LAWS1020"
+    },
+    {
+      "course_code": "LAWS1030",
+      "prefix_inferred": false,
+      "evidence": "LAWS1030"
+    },
+    {
+      "course_code": "LAWS1041",
+      "prefix_inferred": false,
+      "evidence": "LAWS1041"
+    },
+    {
+      "course_code": "LAWS1042",
+      "prefix_inferred": false,
+      "evidence": "LAWS1042"
+    },
+    {
+      "course_code": "LAWS2131",
+      "prefix_inferred": false,
+      "evidence": "LAWS2131"
+    },
+    {
+      "course_code": "LAWS2132",
+      "prefix_inferred": false,
+      "evidence": "LAWS2132"
+    },
+    {
+      "course_code": "LAWS6001",
+      "prefix_inferred": false,
+      "evidence": "LAWS6001"
+    },
+    {
+      "course_code": "LAWS6002",
+      "prefix_inferred": false,
+      "evidence": "LAWS6002"
+    },
+    {
+      "course_code": "LAWS6003",
+      "prefix_inferred": false,
+      "evidence": "LAWS6003"
+    },
+    {
+      "course_code": "LAWS6004",
+      "prefix_inferred": false,
+      "evidence": "LAWS6004"
+    },
+    {
+      "course_code": "LAWS6005",
+      "prefix_inferred": false,
+      "evidence": "LAWS6005"
+    },
+    {
+      "course_code": "LAWS6006",
+      "prefix_inferred": false,
+      "evidence": "LAWS6006"
+    },
+    {
+      "course_code": "LAWS6007",
+      "prefix_inferred": false,
+      "evidence": "LAWS6007"
+    },
+    {
+      "course_code": "LAWS6011",
+      "prefix_inferred": false,
+      "evidence": "LAWS6011"
+    },
+    {
+      "course_code": "LAWS6012",
+      "prefix_inferred": false,
+      "evidence": "LAWS6012"
+    },
+    {
+      "course_code": "LAWS6013",
+      "prefix_inferred": false,
+      "evidence": "LAWS6013"
+    },
+    {
+      "course_code": "LAWS6014",
+      "prefix_inferred": false,
+      "evidence": "LAWS6014"
+    },
+    {
+      "course_code": "LAWS6015",
+      "prefix_inferred": false,
+      "evidence": "LAWS6015"
+    },
+    {
+      "course_code": "LAWS6017",
+      "prefix_inferred": false,
+      "evidence": "LAWS6017"
+    },
+    {
+      "course_code": "LAWS6018",
+      "prefix_inferred": false,
+      "evidence": "LAWS6018"
+    },
+    {
+      "course_code": "LAWS6019",
+      "prefix_inferred": false,
+      "evidence": "LAWS6019"
+    },
+    {
+      "course_code": "LAWS6020",
+      "prefix_inferred": false,
+      "evidence": "LAWS6020"
+    },
+    {
+      "course_code": "LAWS6021",
+      "prefix_inferred": false,
+      "evidence": "LAWS6021"
+    },
+    {
+      "course_code": "LAWS6022",
+      "prefix_inferred": false,
+      "evidence": "LAWS6022"
+    },
+    {
+      "course_code": "LAWS6023",
+      "prefix_inferred": false,
+      "evidence": "LAWS6023"
+    },
+    {
+      "course_code": "LAWS6024",
+      "prefix_inferred": false,
+      "evidence": "LAWS6024"
+    },
+    {
+      "course_code": "LAWS6031",
+      "prefix_inferred": false,
+      "evidence": "LAWS6031"
+    },
+    {
+      "course_code": "LAWS6032",
+      "prefix_inferred": false,
+      "evidence": "LAWS6032"
+    },
+    {
+      "course_code": "LAWS6033",
+      "prefix_inferred": false,
+      "evidence": "LAWS6033"
+    },
+    {
+      "course_code": "LAWS6034",
+      "prefix_inferred": false,
+      "evidence": "LAWS6034"
+    },
+    {
+      "course_code": "LAWS6035",
+      "prefix_inferred": false,
+      "evidence": "LAWS6035"
+    },
+    {
+      "course_code": "LAWS6036",
+      "prefix_inferred": false,
+      "evidence": "LAWS6036"
+    },
+    {
+      "course_code": "LAWS6037",
+      "prefix_inferred": false,
+      "evidence": "LAWS6037"
+    },
+    {
+      "course_code": "LAWS6038",
+      "prefix_inferred": false,
+      "evidence": "LAWS6038"
+    },
+    {
+      "course_code": "LAWS6039",
+      "prefix_inferred": false,
+      "evidence": "LAWS6039"
+    },
+    {
+      "course_code": "LAWS6040",
+      "prefix_inferred": false,
+      "evidence": "LAWS6040"
+    },
+    {
+      "course_code": "LAWS6041",
+      "prefix_inferred": false,
+      "evidence": "LAWS6041"
+    },
+    {
+      "course_code": "LAWS6042",
+      "prefix_inferred": false,
+      "evidence": "LAWS6042"
+    },
+    {
+      "course_code": "LAWS6043",
+      "prefix_inferred": false,
+      "evidence": "LAWS6043"
+    },
+    {
+      "course_code": "LAWS6044",
+      "prefix_inferred": false,
+      "evidence": "LAWS6044"
+    },
+    {
+      "course_code": "LAWS6045",
+      "prefix_inferred": false,
+      "evidence": "LAWS6045"
+    },
+    {
+      "course_code": "LAWS6046",
+      "prefix_inferred": false,
+      "evidence": "LAWS6046"
+    },
+    {
+      "course_code": "LAWS6047",
+      "prefix_inferred": false,
+      "evidence": "LAWS6047"
+    },
+    {
+      "course_code": "LAWS6048",
+      "prefix_inferred": false,
+      "evidence": "LAWS6048"
+    },
+    {
+      "course_code": "LAWS6050",
+      "prefix_inferred": false,
+      "evidence": "LAWS6050"
+    },
+    {
+      "course_code": "LAWS6051",
+      "prefix_inferred": false,
+      "evidence": "LAWS6051"
+    },
+    {
+      "course_code": "LAWS6053",
+      "prefix_inferred": false,
+      "evidence": "LAWS6053"
+    },
+    {
+      "course_code": "LAWS6054",
+      "prefix_inferred": false,
+      "evidence": "LAWS6054"
+    },
+    {
+      "course_code": "LAWS6055",
+      "prefix_inferred": false,
+      "evidence": "LAWS6055"
+    },
+    {
+      "course_code": "LAWS6056",
+      "prefix_inferred": false,
+      "evidence": "LAWS6056"
+    },
+    {
+      "course_code": "LAWS6057",
+      "prefix_inferred": false,
+      "evidence": "LAWS6057"
+    },
+    {
+      "course_code": "LAWS6058",
+      "prefix_inferred": false,
+      "evidence": "LAWS6058"
+    },
+    {
+      "course_code": "LAWS6059",
+      "prefix_inferred": false,
+      "evidence": "LAWS6059"
+    },
+    {
+      "course_code": "LAWS6060",
+      "prefix_inferred": false,
+      "evidence": "LAWS6060"
+    },
+    {
+      "course_code": "LAWS6061",
+      "prefix_inferred": false,
+      "evidence": "LAWS6061"
+    },
+    {
+      "course_code": "LAWS6062",
+      "prefix_inferred": false,
+      "evidence": "LAWS6062"
+    },
+    {
+      "course_code": "LAWS6063",
+      "prefix_inferred": false,
+      "evidence": "LAWS6063"
+    },
+    {
+      "course_code": "LAWS6064",
+      "prefix_inferred": false,
+      "evidence": "LAWS6064"
+    },
+    {
+      "course_code": "LAWS6065",
+      "prefix_inferred": false,
+      "evidence": "LAWS6065"
+    },
+    {
+      "course_code": "LAWS6066",
+      "prefix_inferred": false,
+      "evidence": "LAWS6066"
+    },
+    {
+      "course_code": "LAWS6067",
+      "prefix_inferred": false,
+      "evidence": "LAWS6067"
+    },
+    {
+      "course_code": "LAWS6068",
+      "prefix_inferred": false,
+      "evidence": "LAWS6068"
+    },
+    {
+      "course_code": "LAWS6069",
+      "prefix_inferred": false,
+      "evidence": "LAWS6069"
+    },
+    {
+      "course_code": "LAWS6070",
+      "prefix_inferred": false,
+      "evidence": "LAWS6070"
+    },
+    {
+      "course_code": "LAWS6071",
+      "prefix_inferred": false,
+      "evidence": "LAWS6071"
+    },
+    {
+      "course_code": "LAWS6072",
+      "prefix_inferred": false,
+      "evidence": "LAWS6072"
+    },
+    {
+      "course_code": "LAWS6073",
+      "prefix_inferred": false,
+      "evidence": "LAWS6073"
+    },
+    {
+      "course_code": "LAWS6074",
+      "prefix_inferred": false,
+      "evidence": "LAWS6074"
+    },
+    {
+      "course_code": "LAWS6075",
+      "prefix_inferred": false,
+      "evidence": "LAWS6075"
+    },
+    {
+      "course_code": "LAWS6076",
+      "prefix_inferred": false,
+      "evidence": "LAWS6076"
+    },
+    {
+      "course_code": "LAWS6077",
+      "prefix_inferred": false,
+      "evidence": "LAWS6077"
+    },
+    {
+      "course_code": "LAWS6079",
+      "prefix_inferred": false,
+      "evidence": "LAWS6079"
+    },
+    {
+      "course_code": "LAWS6080",
+      "prefix_inferred": false,
+      "evidence": "LAWS6080"
+    },
+    {
+      "course_code": "LAWS6082",
+      "prefix_inferred": false,
+      "evidence": "LAWS6082"
+    },
+    {
+      "course_code": "LAWS6083",
+      "prefix_inferred": false,
+      "evidence": "LAWS6083"
+    },
+    {
+      "course_code": "LAWS6084",
+      "prefix_inferred": false,
+      "evidence": "LAWS6084"
+    },
+    {
+      "course_code": "LAWS6085",
+      "prefix_inferred": false,
+      "evidence": "LAWS6085"
+    },
+    {
+      "course_code": "LAWS6086",
+      "prefix_inferred": false,
+      "evidence": "LAWS6086"
+    },
+    {
+      "course_code": "LAWS6087",
+      "prefix_inferred": false,
+      "evidence": "LAWS6087"
+    },
+    {
+      "course_code": "LAWS6088",
+      "prefix_inferred": false,
+      "evidence": "LAWS6088"
+    },
+    {
+      "course_code": "LAWS6089",
+      "prefix_inferred": false,
+      "evidence": "LAWS6089"
+    },
+    {
+      "course_code": "LAWS6090",
+      "prefix_inferred": false,
+      "evidence": "LAWS6090"
+    },
+    {
+      "course_code": "LAWS6091",
+      "prefix_inferred": false,
+      "evidence": "LAWS6091"
+    },
+    {
+      "course_code": "LAWS6092",
+      "prefix_inferred": false,
+      "evidence": "LAWS6092"
+    },
+    {
+      "course_code": "LAWS6101",
+      "prefix_inferred": false,
+      "evidence": "LAWS6101"
+    },
+    {
+      "course_code": "LAWS6102",
+      "prefix_inferred": false,
+      "evidence": "LAWS6102"
+    },
+    {
+      "course_code": "LAWS6103",
+      "prefix_inferred": false,
+      "evidence": "LAWS6103"
+    },
+    {
+      "course_code": "LAWS6104",
+      "prefix_inferred": false,
+      "evidence": "LAWS6104"
+    },
+    {
+      "course_code": "LAWS6111",
+      "prefix_inferred": false,
+      "evidence": "LAWS6111"
+    },
+    {
+      "course_code": "LAWS6112",
+      "prefix_inferred": false,
+      "evidence": "LAWS6112"
+    },
+    {
+      "course_code": "LAWS6113",
+      "prefix_inferred": false,
+      "evidence": "LAWS6113"
+    },
+    {
+      "course_code": "LAWS6114",
+      "prefix_inferred": false,
+      "evidence": "LAWS6114"
+    },
+    {
+      "course_code": "LAWS6115",
+      "prefix_inferred": false,
+      "evidence": "LAWS6115"
+    },
+    {
+      "course_code": "LAWS6116",
+      "prefix_inferred": false,
+      "evidence": "LAWS6116"
+    },
+    {
+      "course_code": "LAWS6117",
+      "prefix_inferred": false,
+      "evidence": "LAWS6117"
+    },
+    {
+      "course_code": "LAWS6118",
+      "prefix_inferred": false,
+      "evidence": "LAWS6118"
+    },
+    {
+      "course_code": "LAWS6119",
+      "prefix_inferred": false,
+      "evidence": "LAWS6119"
+    },
+    {
+      "course_code": "LAWS6120",
+      "prefix_inferred": false,
+      "evidence": "LAWS6120"
+    },
+    {
+      "course_code": "LAWS6121",
+      "prefix_inferred": false,
+      "evidence": "LAWS6121"
+    },
+    {
+      "course_code": "LAWS6122",
+      "prefix_inferred": false,
+      "evidence": "LAWS6122"
+    },
+    {
+      "course_code": "LAWS6123",
+      "prefix_inferred": false,
+      "evidence": "LAWS6123"
+    },
+    {
+      "course_code": "LAWS6124",
+      "prefix_inferred": false,
+      "evidence": "LAWS6124"
+    },
+    {
+      "course_code": "LAWS6125",
+      "prefix_inferred": false,
+      "evidence": "LAWS6125"
+    },
+    {
+      "course_code": "LAWS6126",
+      "prefix_inferred": false,
+      "evidence": "LAWS6126"
+    },
+    {
+      "course_code": "LAWS6127",
+      "prefix_inferred": false,
+      "evidence": "LAWS6127"
+    },
+    {
+      "course_code": "LAWS6128",
+      "prefix_inferred": false,
+      "evidence": "LAWS6128"
+    },
+    {
+      "course_code": "LAWS6129",
+      "prefix_inferred": false,
+      "evidence": "LAWS6129"
+    },
+    {
+      "course_code": "LAWS6130",
+      "prefix_inferred": false,
+      "evidence": "LAWS6130"
+    },
+    {
+      "course_code": "LAWS6131",
+      "prefix_inferred": false,
+      "evidence": "LAWS6131"
+    },
+    {
+      "course_code": "LAWS6132",
+      "prefix_inferred": false,
+      "evidence": "LAWS6132"
+    },
+    {
+      "course_code": "LAWS6133",
+      "prefix_inferred": false,
+      "evidence": "LAWS6133"
+    },
+    {
+      "course_code": "LAWS6134",
+      "prefix_inferred": false,
+      "evidence": "LAWS6134"
+    },
+    {
+      "course_code": "LAWS6201",
+      "prefix_inferred": false,
+      "evidence": "LAWS6201"
+    },
+    {
+      "course_code": "LAWS6211",
+      "prefix_inferred": false,
+      "evidence": "LAWS6211"
+    },
+    {
+      "course_code": "LAWS6212",
+      "prefix_inferred": false,
+      "evidence": "LAWS6212"
+    },
+    {
+      "course_code": "LAWS6213",
+      "prefix_inferred": false,
+      "evidence": "LAWS6213"
+    },
+    {
+      "course_code": "LAWS6214",
+      "prefix_inferred": false,
+      "evidence": "LAWS6214"
+    },
+    {
+      "course_code": "LAWS6215",
+      "prefix_inferred": false,
+      "evidence": "LAWS6215"
+    },
+    {
+      "course_code": "LAWS6216",
+      "prefix_inferred": false,
+      "evidence": "LAWS6216"
+    },
+    {
+      "course_code": "LAWS6217",
+      "prefix_inferred": false,
+      "evidence": "LAWS6217"
+    },
+    {
+      "course_code": "LAWS6218",
+      "prefix_inferred": false,
+      "evidence": "LAWS6218"
+    },
+    {
+      "course_code": "LAWS6219",
+      "prefix_inferred": false,
+      "evidence": "LAWS6219"
+    },
+    {
+      "course_code": "LAWS6220",
+      "prefix_inferred": false,
+      "evidence": "LAWS6220"
+    },
+    {
+      "course_code": "LAWS6221",
+      "prefix_inferred": false,
+      "evidence": "LAWS6221"
+    },
+    {
+      "course_code": "LAWS6222",
+      "prefix_inferred": false,
+      "evidence": "LAWS6222"
+    },
+    {
+      "course_code": "LAWS6301",
+      "prefix_inferred": false,
+      "evidence": "LAWS6301"
+    },
+    {
+      "course_code": "LAWS6302",
+      "prefix_inferred": false,
+      "evidence": "LAWS6302"
+    },
+    {
+      "course_code": "LAWS6303",
+      "prefix_inferred": false,
+      "evidence": "LAWS6303"
+    },
+    {
+      "course_code": "LAWS6304",
+      "prefix_inferred": false,
+      "evidence": "LAWS6304"
+    },
+    {
+      "course_code": "LAWS6311",
+      "prefix_inferred": false,
+      "evidence": "LAWS6311"
+    },
+    {
+      "course_code": "LAWS6312",
+      "prefix_inferred": false,
+      "evidence": "LAWS6312"
+    },
+    {
+      "course_code": "LAWS6313",
+      "prefix_inferred": false,
+      "evidence": "LAWS6313"
+    },
+    {
+      "course_code": "LAWS6314",
+      "prefix_inferred": false,
+      "evidence": "LAWS6314"
+    },
+    {
+      "course_code": "LAWS6315",
+      "prefix_inferred": false,
+      "evidence": "LAWS6315"
+    },
+    {
+      "course_code": "LAWS6316",
+      "prefix_inferred": false,
+      "evidence": "LAWS6316"
+    },
+    {
+      "course_code": "LAWS6317",
+      "prefix_inferred": false,
+      "evidence": "LAWS6317"
+    },
+    {
+      "course_code": "LAWS6318",
+      "prefix_inferred": false,
+      "evidence": "LAWS6318"
+    },
+    {
+      "course_code": "LAWS6319",
+      "prefix_inferred": false,
+      "evidence": "LAWS6319"
+    },
+    {
+      "course_code": "LAWS6320",
+      "prefix_inferred": false,
+      "evidence": "LAWS6320"
+    },
+    {
+      "course_code": "LAWS6321",
+      "prefix_inferred": false,
+      "evidence": "LAWS6321"
+    },
+    {
+      "course_code": "LAWS6322",
+      "prefix_inferred": false,
+      "evidence": "LAWS6322"
+    },
+    {
+      "course_code": "LAWS6323",
+      "prefix_inferred": false,
+      "evidence": "LAWS6323"
+    },
+    {
+      "course_code": "LAWS6324",
+      "prefix_inferred": false,
+      "evidence": "LAWS6324"
+    },
+    {
+      "course_code": "LAWS6325",
+      "prefix_inferred": false,
+      "evidence": "LAWS6325"
+    },
+    {
+      "course_code": "LAWS6326",
+      "prefix_inferred": false,
+      "evidence": "LAWS6326"
+    },
+    {
+      "course_code": "LAWS6327",
+      "prefix_inferred": false,
+      "evidence": "LAWS6327"
+    },
+    {
+      "course_code": "LAWS6328",
+      "prefix_inferred": false,
+      "evidence": "LAWS6328"
+    },
+    {
+      "course_code": "LAWS6329",
+      "prefix_inferred": false,
+      "evidence": "LAWS6329"
+    },
+    {
+      "course_code": "LAWS6330",
+      "prefix_inferred": false,
+      "evidence": "LAWS6330"
+    },
+    {
+      "course_code": "LAWS6331",
+      "prefix_inferred": false,
+      "evidence": "LAWS6331"
+    },
+    {
+      "course_code": "LAWS6332",
+      "prefix_inferred": false,
+      "evidence": "LAWS6332"
+    },
+    {
+      "course_code": "LAWS6333",
+      "prefix_inferred": false,
+      "evidence": "LAWS6333"
+    },
+    {
+      "course_code": "LAWS6334",
+      "prefix_inferred": false,
+      "evidence": "LAWS6334"
+    },
+    {
+      "course_code": "LAWS6335",
+      "prefix_inferred": false,
+      "evidence": "LAWS6335"
+    },
+    {
+      "course_code": "LAWS6336",
+      "prefix_inferred": false,
+      "evidence": "LAWS6336"
+    },
+    {
+      "course_code": "LAWS6337",
+      "prefix_inferred": false,
+      "evidence": "LAWS6337"
+    },
+    {
+      "course_code": "LAWS6338",
+      "prefix_inferred": false,
+      "evidence": "LAWS6338"
+    },
+    {
+      "course_code": "LAWS6339",
+      "prefix_inferred": false,
+      "evidence": "LAWS6339"
+    },
+    {
+      "course_code": "LAWS6340",
+      "prefix_inferred": false,
+      "evidence": "LAWS6340"
+    },
+    {
+      "course_code": "LAWS6401",
+      "prefix_inferred": false,
+      "evidence": "LAWS6401"
+    },
+    {
+      "course_code": "LAWS6402",
+      "prefix_inferred": false,
+      "evidence": "LAWS6402"
+    },
+    {
+      "course_code": "LAWS6411",
+      "prefix_inferred": false,
+      "evidence": "LAWS6411"
+    },
+    {
+      "course_code": "LAWS6412",
+      "prefix_inferred": false,
+      "evidence": "LAWS6412"
+    },
+    {
+      "course_code": "LAWS6413",
+      "prefix_inferred": false,
+      "evidence": "LAWS6413"
+    },
+    {
+      "course_code": "LAWS6414",
+      "prefix_inferred": false,
+      "evidence": "LAWS6414"
+    },
+    {
+      "course_code": "LAWS6415",
+      "prefix_inferred": false,
+      "evidence": "LAWS6415"
+    },
+    {
+      "course_code": "LAWS6416",
+      "prefix_inferred": false,
+      "evidence": "LAWS6416"
+    },
+    {
+      "course_code": "LAWS6501",
+      "prefix_inferred": false,
+      "evidence": "LAWS6501"
+    },
+    {
+      "course_code": "LAWS6901",
+      "prefix_inferred": false,
+      "evidence": "LAWS6901"
+    },
+    {
+      "course_code": "LAWS6902",
+      "prefix_inferred": false,
+      "evidence": "LAWS6902"
+    },
+    {
+      "course_code": "MGNT1010",
+      "prefix_inferred": false,
+      "evidence": "MGNT1010"
+    },
+    {
+      "course_code": "MGNT1020",
+      "prefix_inferred": false,
+      "evidence": "MGNT1020"
+    },
+    {
+      "course_code": "MGNT1070",
+      "prefix_inferred": false,
+      "evidence": "MGNT1070"
+    },
+    {
+      "course_code": "MGNT2040",
+      "prefix_inferred": false,
+      "evidence": "MGNT2040"
+    },
+    {
+      "course_code": "MGNT2070",
+      "prefix_inferred": false,
+      "evidence": "MGNT2070"
+    },
+    {
+      "course_code": "MGNT2511",
+      "prefix_inferred": false,
+      "evidence": "MGNT2511"
+    },
+    {
+      "course_code": "MGNT2512",
+      "prefix_inferred": false,
+      "evidence": "MGNT2512"
+    },
+    {
+      "course_code": "MGNT2611",
+      "prefix_inferred": false,
+      "evidence": "MGNT2611"
+    },
+    {
+      "course_code": "MGNT3010",
+      "prefix_inferred": false,
+      "evidence": "MGNT3010"
+    },
+    {
+      "course_code": "MGNT3040",
+      "prefix_inferred": false,
+      "evidence": "MGNT3040"
+    },
+    {
+      "course_code": "MGNT3060",
+      "prefix_inferred": false,
+      "evidence": "MGNT3060"
+    },
+    {
+      "course_code": "MGNT3070",
+      "prefix_inferred": false,
+      "evidence": "MGNT3070"
+    },
+    {
+      "course_code": "MGNT3080",
+      "prefix_inferred": false,
+      "evidence": "MGNT3080"
+    },
+    {
+      "course_code": "MGNT3090",
+      "prefix_inferred": false,
+      "evidence": "MGNT3090"
+    },
+    {
+      "course_code": "MGNT3100",
+      "prefix_inferred": false,
+      "evidence": "MGNT3100"
+    },
+    {
+      "course_code": "MGNT3580",
+      "prefix_inferred": false,
+      "evidence": "MGNT3580"
+    },
+    {
+      "course_code": "MGNT4010",
+      "prefix_inferred": false,
+      "evidence": "MGNT4010"
+    },
+    {
+      "course_code": "MGNT4040",
+      "prefix_inferred": false,
+      "evidence": "MGNT4040"
+    },
+    {
+      "course_code": "MGNT4050",
+      "prefix_inferred": false,
+      "evidence": "MGNT4050"
+    },
+    {
+      "course_code": "MGNT4060",
+      "prefix_inferred": false,
+      "evidence": "MGNT4060"
+    },
+    {
+      "course_code": "MGNT4070",
+      "prefix_inferred": false,
+      "evidence": "MGNT4070"
+    },
+    {
+      "course_code": "MGNT4080",
+      "prefix_inferred": false,
+      "evidence": "MGNT4080"
+    },
+    {
+      "course_code": "MGNT4090",
+      "prefix_inferred": false,
+      "evidence": "MGNT4090"
+    },
+    {
+      "course_code": "MGNT4110",
+      "prefix_inferred": false,
+      "evidence": "MGNT4110"
+    },
+    {
+      "course_code": "MGNT4120",
+      "prefix_inferred": false,
+      "evidence": "MGNT4120"
+    },
+    {
+      "course_code": "MGNT4130",
+      "prefix_inferred": false,
+      "evidence": "MGNT4130"
+    },
+    {
+      "course_code": "MGNT4140",
+      "prefix_inferred": false,
+      "evidence": "MGNT4140"
+    },
+    {
+      "course_code": "MGNT4150",
+      "prefix_inferred": false,
+      "evidence": "MGNT4150"
+    },
+    {
+      "course_code": "MGNT4160",
+      "prefix_inferred": false,
+      "evidence": "MGNT4160"
+    },
+    {
+      "course_code": "MGNT4170",
+      "prefix_inferred": false,
+      "evidence": "MGNT4170"
+    },
+    {
+      "course_code": "MGNT4270",
+      "prefix_inferred": false,
+      "evidence": "MGNT4270"
+    },
+    {
+      "course_code": "MGNT4510",
+      "prefix_inferred": false,
+      "evidence": "MGNT4510"
+    },
+    {
+      "course_code": "MGNT4520",
+      "prefix_inferred": false,
+      "evidence": "MGNT4520"
+    },
+    {
+      "course_code": "MGNT4530",
+      "prefix_inferred": false,
+      "evidence": "MGNT4530"
+    },
+    {
+      "course_code": "MGNT4540",
+      "prefix_inferred": false,
+      "evidence": "MGNT4540"
+    },
+    {
+      "course_code": "MGNT4550",
+      "prefix_inferred": false,
+      "evidence": "MGNT4550"
+    },
+    {
+      "course_code": "MGNT4570",
+      "prefix_inferred": false,
+      "evidence": "MGNT4570"
+    },
+    {
+      "course_code": "MGNT4600",
+      "prefix_inferred": false,
+      "evidence": "MGNT4600"
+    },
+    {
+      "course_code": "MGNT4620",
+      "prefix_inferred": false,
+      "evidence": "MGNT4620"
+    },
+    {
+      "course_code": "MGNT4711",
+      "prefix_inferred": false,
+      "evidence": "MGNT4711"
+    },
+    {
+      "course_code": "MGNT4712",
+      "prefix_inferred": false,
+      "evidence": "MGNT4712"
+    },
+    {
+      "course_code": "MGNT4713",
+      "prefix_inferred": false,
+      "evidence": "MGNT4713"
+    },
+    {
+      "course_code": "MKTG2010",
+      "prefix_inferred": false,
+      "evidence": "MKTG2010"
+    },
+    {
+      "course_code": "MKTG3010",
+      "prefix_inferred": false,
+      "evidence": "MKTG3010"
+    },
+    {
+      "course_code": "MKTG3020",
+      "prefix_inferred": false,
+      "evidence": "MKTG3020"
+    },
+    {
+      "course_code": "MKTG3030",
+      "prefix_inferred": false,
+      "evidence": "MKTG3030"
+    },
+    {
+      "course_code": "MKTG3040",
+      "prefix_inferred": false,
+      "evidence": "MKTG3040"
+    },
+    {
+      "course_code": "MKTG3050",
+      "prefix_inferred": false,
+      "evidence": "MKTG3050"
+    },
+    {
+      "course_code": "MKTG3060",
+      "prefix_inferred": false,
+      "evidence": "MKTG3060"
+    },
+    {
+      "course_code": "MKTG4010",
+      "prefix_inferred": false,
+      "evidence": "MKTG4010"
+    },
+    {
+      "course_code": "MKTG4020",
+      "prefix_inferred": false,
+      "evidence": "MKTG4020"
+    },
+    {
+      "course_code": "MKTG4030",
+      "prefix_inferred": false,
+      "evidence": "MKTG4030"
+    },
+    {
+      "course_code": "MKTG4040",
+      "prefix_inferred": false,
+      "evidence": "MKTG4040"
+    },
+    {
+      "course_code": "MKTG4050",
+      "prefix_inferred": false,
+      "evidence": "MKTG4050"
+    },
+    {
+      "course_code": "MKTG4070",
+      "prefix_inferred": false,
+      "evidence": "MKTG4070"
+    },
+    {
+      "course_code": "MKTG4080",
+      "prefix_inferred": false,
+      "evidence": "MKTG4080"
+    },
+    {
+      "course_code": "MKTG4090",
+      "prefix_inferred": false,
+      "evidence": "MKTG4090"
+    },
+    {
+      "course_code": "MKTG4110",
+      "prefix_inferred": false,
+      "evidence": "MKTG4110"
+    },
+    {
+      "course_code": "MKTG4120",
+      "prefix_inferred": false,
+      "evidence": "MKTG4120"
+    },
+    {
+      "course_code": "MKTG4150",
+      "prefix_inferred": false,
+      "evidence": "MKTG4150"
+    },
+    {
+      "course_code": "MKTG4160",
+      "prefix_inferred": false,
+      "evidence": "MKTG4160"
+    },
+    {
+      "course_code": "MKTG4170",
+      "prefix_inferred": false,
+      "evidence": "MKTG4170"
+    },
+    {
+      "course_code": "MKTG4180",
+      "prefix_inferred": false,
+      "evidence": "MKTG4180"
+    },
+    {
+      "course_code": "MKTG4190",
+      "prefix_inferred": false,
+      "evidence": "MKTG4190"
+    },
+    {
+      "course_code": "MKTG4200",
+      "prefix_inferred": false,
+      "evidence": "MKTG4200"
+    }
+  ],
+  "course_code_aliases": [],
+  "source": {
+    "system": "CUHK CUSIS Browse Program Information",
+    "url": "https://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/tt_dsp_acad_prog.aspx",
+    "source_text_file": "data/cuhk/2024/programmes/B_B_A_Integrated_BBA_Programme_and_Juris_Doctor__Faculty_of_Business_Administration.txt",
+    "reused_duplicate_entry": false,
+    "reused_from_faculty": null
+  },
+  "raw_text": "\n\nBrowse Program Information\n\n\n\n\n\n\nAcademic Program:\tB.B.A. (Integrated BBA Programme) and Juris Doctor\nAcademic Year:\t2024\nLanguage:\t\nEnglish\nSimplified Chinese\nTraditional Chinese\n\n\n\nLearning Outcomes\nStudy Scheme\n \n\n\t\n\nBachelor of Business Administration (Integrated BBA Programme) and Juris Doctor\n\nApplicable to students admitted in 2024-25\n\n\n\n\n \n\n\n\n\n \n\n1st Degree: Bachelor of Business Administration (Integrated BBA Programme)\n\n\n\n\n \n\n\n\n\nMajor Programme Requirement\n\n\n\n\n \n\n\n\n\nStudents are required to complete a minimum of 70 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nFaculty Package:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nDOTE1030, 1040, MGNT1020\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nRequired Courses:\n\n\t\n\n28\n\n\n\n\n \n\n\t\n\nACCT2111, 2121, DOTE2011, 2030, 2051, FINA2010, IBBA3040, MGNT2511, 2512, 4010 (capstone course), MKTG2010\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nLaw Courses[a]:\n\n\t\n\n18\n\n\n\n\n \n\n\t\n\nLAWS1020, 1030, 1041, 1042, 2131, 2132\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n4.\n\n\t\n\nElective Courses (Concentration):\n\n\t\n\n15-18\n\n\n\n\n \n\n\t\n\nStudents must choose one concentration and take five or six courses among the courses prescribed under respective concentration areas as follows:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nBusiness Economics\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(i)\n\n\t\n\nDOTE2021, 4110;\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(ii)\n\n\t\n\ntwo courses selected from: DOTE3000, 3011, 3030, 3050, 3080, 3090, 4040, 4080; and\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(iii)\n\n\t\n\none DOTE course at 3000 or above level, excluding the courses taken for fulfillment of requirement (i) or (ii)\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nBusiness Analytics\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(i)\n\n\t\n\nDOTE2021, 2040, 4020;\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(ii)\n\n\t\n\none course selected from: DOTE4070, 4240, 4260; and\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(iii)\n\n\t\n\none course selected from: DOTE3030, 4030, 4110, 4220, 4280, MKTG4120\n\n\t\n\n \n\n\n\n\n(c)\n\n\t\n\nFinance\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(i)\n\n\t\n\nDOTE2021 or FINA2020; and\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(ii)\n\n\t\n\n15 units of FINA courses at 3000 or above level, with no more than three 1-unit FINA courses\n\n\t\n\n \n\n\n\n\n(d)\n\n\t\n\nEntrepreneurship\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(i)\n\n\t\n\nMGNT1070, 2070; and\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(ii)\n\n\t\n\nfour courses selected from: MGNT3080, 4070, 4090, 4130, 4160, 4170, 4270, 4570, 4711, 4712, 4713\n\n\t\n\n \n\n\n\n\n(e)\n\n\t\n\nManagement of International Business\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(i)\n\n\t\n\nMGNT3580, 4150; and\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(ii)\n\n\t\n\nfour courses selected from: MGNT3010, 3080, 3100, 4080, 4090, 4110, 4130, 4140, 4510, 4530, 4540, 4550, 4570\n\n\t\n\n \n\n\n\n\n(f)\n\n\t\n\nHuman Resource Management\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(i)\n\n\t\n\nMGNT2040, 3010; and\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(ii)\n\n\t\n\nfour courses selected from: MGNT3040, 3060, 3090, 3100, 4050, 4060, 4080, 4110, 4130, 4140\n\n\t\n\n \n\n\n\n\n(g)\n\n\t\n\nMarketing\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(i)\n\n\t\n\nMKTG3010, 3020, 3030, 4040; and\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(ii)\n\n\t\n\ntwo courses selected from: MKTG3040, 3050, 4010, 4020, 4030, 4050, 4070, 4080, 4090, 4110, 4160, 4200\n\n\t\n\n \n\n\n\n\n(h)\n\n\t\n\nBig Data and Quantitative Marketing\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(i)\n\n\t\n\nMKTG3010, 3060, 4080, 4090; and\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(ii)\n\n\t\n\ntwo courses selected from: MKTG3020, 4030, 4050, 4120, 4150, 4160, 4170, 4180, 4190, 4200\n\n\t\n\n \n\n\n\n\n(i)\n\n\t\n\nGeneral Business\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(i)\n\n\t\n\n3 units of DOTE/FINA/MGNT/MKTG courses at 2000 or above level; and\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(ii)\n\n\t\n\n12 units of DOTE/FINA/MGNT/MKTG courses at 3000 or above level, excluding the courses taken for fulfillment of requirement (i), with no more than three 1-unit FINA courses\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n70-73[b]\n\n\n\n\nExplanatory Notes:\n\n\n\n\n1.\n\n\t\n\nACCT/DOTE/FINA/IBBA/MGNT/MKTG courses at 2000 and above level (excluding ACCT2111, 2121, IBBA3040, MGNT2511 and 2512) will be included in the calculation of Major GPA for honours classification.\n\n\n\n\n2.\n\n\t\n\nStudents claiming Entrepreneurship Concentration are not allowed to declare Minor in Entrepreneurship and Innovation.\n\n\n\n\n3.\n\n\t\n\nIn addition to fulfilling the major programme requirement of the 1st degree, students are advised to take MGNT2611 as an elective course.\n\n\n\n\n[a]\n\n\t\n\nStudents who have completed 18 units of LAWS courses will be exempted from 9 units of the equivalent courses in the Juris Doctor (JD) programme.\n\n\n\n\n[b]\n\n\t\n\nStudents who choose one of the following concentrations: (i) Finance, (ii) Entrepreneurship, (iii) Management of International Business, (iv) Human Resource Management, (v) Marketing, or (vi) Big Data and Quantitative Marketing are required to complete a minimum of 73 units in order to fulfill the Major programme requirement.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\n2nd Degree: Juris Doctor\n\n\n\n\n \n\n\n\n\nProgramme Requirement\n\n\n\n\n \n\n\n\n\nStudents are required to complete a minimum of 72 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nRequired Courses:\n\n\t\n\n15 or 18\n\n\n\n\n \n\n\t\n\nLAWS6001[a], 6004, 6006[b], 6007, 6901 or 6902[c]\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nElective Courses:\n\n\t\n\n54 or 57\n\n\n\n\n \n\n\t\n\nStudents are required to take at least 54 or 57 units of courses from the following[d]:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n-\n\n\t\n\nElective courses which are pre-requisites for subsequent admission to the Postgraduate Certificate in Laws (PCLL) Programme: LAWS6011, 6013, 6015, 6017, 6018, 6019, 6020, 6021[e], 6022, 6023[f], 6024\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n-\n\n\t\n\nOther elective courses offered under the JD programme\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n-\n\n\t\n\nElective courses offered under the Master of Laws programmes\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n72[g]\n\n\n\n\nExplanatory Notes:\n\n\n\n\n1.\n\n\t\n\nTo be eligible to proceed to the fifth year for the JD degree, students must achieve a minimum CGPA (to be specified by the Faculty of Law) after completion of the fourth year. Students may choose to opt out from the double degree programme and complete a BBA degree or a BBA degree with a Minor in Law in four years, subject to the fulfillment of the requirements specified in the relevant study scheme.\n\n\n\n\n[a]\n\n\t\n\nStudents who have completed LAWS1020 and 1030 in their first three years of studies in the BBA-JD programme will be exempted from LAWS6001.\n\n\n\n\n[b]\n\n\t\n\nStudents may take LAWS6089 to substitute LAWS6006.\n\n\n\n\n[c]\n\n\t\n\nStudents are required to take either LAWS6901 (3-unit course) or 6902 (6-unit course). The extra 3 units completed in LAWS6902 will be counted towards the total units required for graduation.\n\n\n\n\n[d]\n\n\t\n\nLAWS6012 and 6014 will no longer be pre-requisites for admission to the PCLL Programme with effect from 2021-22. Students may still take the two courses as elective courses offered under the JD Programme.\n\n\n\n\n[e]\n\n\t\n\nStudents who have completed LAWS1041 and 1042 in their first three years of studies in the BBA-JD programme will be exempted from LAWS6021.\n\n\n\n\n[f]\n\n\t\n\nStudents who have completed LAWS2131 and 2132 in their first three years of studies in the BBA-JD programme will be exempted from LAWS6023.\n\n\n\n\n[g]\n\n\t\n\nStudents who have completed LAWS1020, 1030, 1041, 1042, 2131 and 2132 are required to complete a minimum of 63 units in order to fulfill the programme requirement.\n\n\n\n\n \n\n\t\n\n \n\n\n\t\t\t\t\n\n\n\n\n \n\n\n\n\n \n\n\t\n\nRecommended Course Pattern\n\n\n\n\n \n\n\t\n\nMajor Programme Requirement of\n\n1st degree: Bachelor of Business Administration (Integrated BBA Programme)\n\n\t\n\nUnits\n\n\t\n\nProgramme Requirement of 2nd degree: Juris Doctor\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\nFaculty Package: DOTE1030, MGNT1020\n\n\t\n\n6\n\n \n\n\n\n\nMajor Required:\n\n\t\n\n \n\n\n\n\nLaw Course(s): LAWS1020\n\n\t\n\n3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\nFaculty Package: DOTE1040\n\n\t\n\n3\n\n \n\n\n\n\nMajor Required: MGNT2511, MKTG2010\n\n\t\n\n4\n\n \n\n\n\n\nLaw Course(s): LAWS1030\n\n\t\n\n3\n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\nMajor Required: ACCT2111, DOTE2011, IBBA3040\n\n\t\n\n8\n\n \n\n\n\n\nLaw Course(s): LAWS1041\n\n\t\n\n3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\nMajor Required: ACCT2121, FINA2010\n\n\t\n\n6\n\n \n\n\n\n\nLaw Course(s): LAWS1042\n\n\t\n\n3\n\n\n\n\nThird Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\nMajor Required: DOTE2030\n\n\t\n\n3\n\n \n\n\n\n\nMajor Elective(s): 1-2 courses\n\n\t\n\n3-6\n\n \n\n\n\n\nLaw Course(s): LAWS2131\n\n\t\n\n3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\nMajor Required: DOTE2051\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): 2 courses\n\n\t\n\n6\n\n\n\n\nLaw Course(s): LAWS2132\n\n\t\n\n3\n\n\n\n\nFourth Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: MGNT4010, 2512\n\n\t\n\n4\n\n\t\n\nRequired: LAWS6001#, 6004\n\n\t\n\n3 or 6\n\n\n\n\nMajor Elective(s): 1 course\n\n\t\n\n3\n\n\t\n\nElective(s): LAWS6015^, 6021^#, 6022^\n\n\t\n\n6 or 9\n\n\n\n\n2nd term\n\n\t\n\n \n\n\t\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required:\n\n\t\n\n \n\n\t\n\nRequired:\n\n\t\n\n \n\n\n\n\nMajor Elective(s): 1 course\n\n\t\n\n3\n\n\t\n\nElective(s): LAWS6018^, 6020^, 6023^#, any two LAWS courses\n\n\t\n\n12 or 15\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nSummer session\n\n\t\n\n \n\n\n\n\nRequired: LAWS6006\n\n\t\n\n3\n\n\n\n\nElective(s): any one LAWS course\n\n\t\n\n3\n\n\n\n\nFifth Year of Attendance@\n\n \n\n \n\n\t\n\n \n\n \n\n\t\n\n \n\n \n\n\t\n\n1st term @\n\n\t\n\n \n\n\n\n\nRequired:\n\n\t\n\n \n\n\n\n\nElective(s): LAWS6011^, 6019^, any three LAWS courses\n\n\t\n\n15\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nRequired: LAWS6007, 6901 or 6902\n\n\t\n\n6 or 9\n\n \n\n\n\n\nElective(s): LAWS6013^, 6017^, any one LAWS course\n\n\t\n\n6 or 9\n\n\n\n\nSummer session\n\n\t\n\n \n\n\n\n\nRequired:\n\n\t\n\n \n\n\n\n\nElective(s): LAWS6024^, any one LAWS course\n\n\t\n\n6\n\n\n\n\nTotal (including Faculty Package):\n\n\t\n\n70-73*\n\n\t\n\nTotal :\n\n\t\n\n72**\n\n\n\n\n \n\n^ Elective courses which are pre-requisites for subsequent admission to the PCLL Programme. Students may take other elective courses in place of these 11 courses for fulfillment of programme requirement, as detailed in the study scheme.\n\n# Students who have completed LAWS1020, 1030, 1041, 1042, 2131 and 2132 in their first three years of studies in the BBA programme will be exempted from LAWS6001, 6021 and 6023 in the JD programme.\n\n@ To be eligible to proceed to the fifth year to complete the JD degree, students must achieve a minimum CGPA (to be specified by the Faculty of Law) after completion of the fourth year. Students may choose to opt out from the double degree programme and complete a BBA or a BBA with a Minor in Law in four years, subject to the fulfillment of the requirements specified in the relevant study scheme.\n\n* Students who choose any one of the following concentrations: (i) Finance, (ii) Entrepreneurship, (iii) Management of International Business, (iv) Human Resource Management, (v) Marketing, or (vi) Big Data and Quantitative Marketing are required to complete a minimum of 73 units in order to fulfill the Major programme requirement.\n\n** Students who have completed LAWS1020, 1030, 1041, 1042, 2131 and 2132 are required to complete a minimum of 63 units in order to fulfill the programme requirement.\n\n \n\n\n\n\n \n\n\n\n\nCourse List\n\n \n\n\n\n\nCourse Code\n\n\t\n\nCourse Title\n\n\t\n\nUnit(s)\n\n\n\n\nACCT2111\n\n\t\n\nIntroductory Financial Accounting\n\n\t\n\n3\n\n\n\n\nACCT2121\n\n\t\n\nIntroductory Management Accounting\n\n\t\n\n3\n\n\n\n\nDOTE1030\n\n\t\n\nEconomics for Business Studies I\n\n\t\n\n3\n\n\n\n\nDOTE1035\n\n\t\n\nFundamentals of Business Economics\n\n\t\n\n3\n\n\n\n\nDOTE1040\n\n\t\n\nEconomics for Business Studies II\n\n\t\n\n3\n\n\n\n\nDOTE2011\n\n\t\n\nStatistical Analysis for Business Decisions\n\n\t\n\n4\n\n\n\n\nDOTE2021\n\n\t\n\nApplied Econometrics for Business Decisions\n\n\t\n\n3\n\n\n\n\nDOTE2030\n\n\t\n\nOperations Management\n\n\t\n\n3\n\n\n\n\nDOTE2051\n\n\t\n\nBusiness Information Systems\n\n\t\n\n3\n\n\n\n\nDOTE3000\n\n\t\n\nCurrent Topics in Business Economics\n\n\t\n\n3\n\n\n\n\nDOTE3011\n\n\t\n\nBehavioral Economics and Business Decisions\n\n\t\n\n3\n\n\n\n\nDOTE3030\n\n\t\n\nBusiness Forecasting\n\n\t\n\n3\n\n\n\n\nDOTE3050\n\n\t\n\nGlobal Economics\n\n\t\n\n3\n\n\n\n\nDOTE3080\n\n\t\n\nMacroeconomics for Managers\n\n\t\n\n3\n\n\n\n\nDOTE3090\n\n\t\n\nGame Theory for Business Strategy\n\n\t\n\n3\n\n\n\n\nDOTE4020\n\n\t\n\nDecision Modeling and Analytics\n\n\t\n\n3\n\n\n\n\nDOTE4030\n\n\t\n\nWeb Analytics\n\n\t\n\n3\n\n\n\n\nDOTE4040\n\n\t\n\nManagerial Economics in the Information Age\n\n\t\n\n3\n\n\n\n\nDOTE4070\n\n\t\n\nData Management and Big Data Analytics\n\n\t\n\n3\n\n\n\n\nDOTE4080\n\n\t\n\nGuided Research in Business Economics\n\n\t\n\n3\n\n\n\n\nDOTE4110\n\n\t\n\nEconomic Analytics\n\n\t\n\n3\n\n\n\n\nDOTE4140\n\n\t\n\nData Communications and Networking\n\n\t\n\n3\n\n\n\n\nDOTE4220\n\n\t\n\nData Mining for Business Intelligence\n\n\t\n\n3\n\n\n\n\nDOTE4240\n\n\t\n\nSupply Chain and Logistics Analytics\n\n\t\n\n3\n\n\n\n\nDOTE4260\n\n\t\n\nBusiness Process Analytics\n\n\t\n\n3\n\n\n\n\nDOTE4280\n\n\t\n\nNetwork and Security\n\n\t\n\n3\n\n\n\n\nFINA2010\n\n\t\n\nFinancial Management\n\n\t\n\n3\n\n\n\n\nFINA2020\n\n\t\n\nIntroduction to Empirical Methods in Finance\n\n\t\n\n3\n\n\n\n\nFINA2210\n\n\t\n\nInterest Theory and Finance\n\n\t\n\n3\n\n\n\n\nFINA3010\n\n\t\n\nFinancial Markets\n\n\t\n\n3\n\n\n\n\nFINA3020\n\n\t\n\nInternational Finance\n\n\t\n\n3\n\n\n\n\nFINA3030\n\n\t\n\nManagement of Financial Institutions\n\n\t\n\n3\n\n\n\n\nFINA3040\n\n\t\n\nCentral Banking and Regulation of Financial Institutions\n\n\t\n\n3\n\n\n\n\nFINA3060\n\n\t\n\nReal Estate Finance and Investment\n\n\t\n\n3\n\n\n\n\nFINA3070\n\n\t\n\nCorporate Finance: Theory and Practice\n\n\t\n\n3\n\n\n\n\nFINA3080\n\n\t\n\nInvestment Analysis and Portfolio Management\n\n\t\n\n3\n\n\n\n\nFINA3210\n\n\t\n\nRisk Management and Insurance\n\n\t\n\n3\n\n\n\n\nFINA3220\n\n\t\n\nLife Contingencies I\n\n\t\n\n3\n\n\n\n\nFINA3230\n\n\t\n\nLife and Health Insurance\n\n\t\n\n3\n\n\n\n\nFINA3240\n\n\t\n\nCorporate Property and Liability Insurance\n\n\t\n\n3\n\n\n\n\nFINA3250\n\n\t\n\nDerivatives for Actuaries I\n\n\t\n\n3\n\n\n\n\nFINA3280\n\n\t\n\nInsurance Company Operations and Management\n\n\t\n\n3\n\n\n\n\nFINA3310\n\n\t\n\nIntroduction to Investment Banking\n\n\t\n\n1\n\n\n\n\nFINA3330\n\n\t\n\nIntroduction to Alternative Investment\n\n\t\n\n1\n\n\n\n\nFINA3340\n\n\t\n\nTrading Strategies: Behavioral and Technical Analysis\n\n\t\n\n1\n\n\n\n\nFINA3350\n\n\t\n\nForeign Exchange Market Practices\n\n\t\n\n1\n\n\n\n\nFINA3398\n\n\t\n\nSpecial Issues in Finance\n\n\t\n\n1\n\n\n\n\nFINA3399\n\n\t\n\nCurrent Issues in Finance\n\n\t\n\n1\n\n\n\n\nFINA4010\n\n\t\n\nSecurity Analysis\n\n\t\n\n3\n\n\n\n\nFINA4020\n\n\t\n\nFund Management and Asset Allocation\n\n\t\n\n3\n\n\n\n\nFINA4030\n\n\t\n\nSelected Topics in Finance\n\n\t\n\n3\n\n\n\n\nFINA4040\n\n\t\n\nCases in Corporate Finance\n\n\t\n\n3\n\n\n\n\nFINA4050\n\n\t\n\nMergers and Acquisitions\n\n\t\n\n3\n\n\n\n\nFINA4060\n\n\t\n\nChina Finance\n\n\t\n\n3\n\n\n\n\nFINA4110\n\n\t\n\nOptions and Futures\n\n\t\n\n3\n\n\n\n\nFINA4120\n\n\t\n\nFixed Income Securities Analysis\n\n\t\n\n3\n\n\n\n\nFINA4130\n\n\t\n\nEmpirical Finance\n\n\t\n\n3\n\n\n\n\nFINA4140\n\n\t\n\nComputational Finance\n\n\t\n\n3\n\n\n\n\nFINA4150\n\n\t\n\nQuantitative Methods for Financial Derivatives\n\n\t\n\n3\n\n\n\n\nFINA4160\n\n\t\n\nIntermediate Financial Theory\n\n\t\n\n3\n\n\n\n\nFINA4190\n\n\t\n\nResearch Project in Quantitative Finance\n\n\t\n\n3\n\n\n\n\nFINA4210\n\n\t\n\nLife Contingencies II\n\n\t\n\n3\n\n\n\n\nFINA4220\n\n\t\n\nNon-life Actuarial Models\n\n\t\n\n3\n\n\n\n\nFINA4230\n\n\t\n\nReinsurance and Alternative Risk Transfer\n\n\t\n\n3\n\n\n\n\nFINA4240\n\n\t\n\nEmployee Benefits, Retirement and Estate Planning\n\n\t\n\n3\n\n\n\n\nFINA4250\n\n\t\n\nApplications of Risk Models\n\n\t\n\n3\n\n\n\n\nFINA4260\n\n\t\n\nConstruction and Evaluation of Actuarial Models II\n\n\t\n\n3\n\n\n\n\nFINA4270\n\n\t\n\nResearch Project in Insurance, Financial and Actuarial Analysis\n\n\t\n\n3\n\n\n\n\nFINA4280\n\n\t\n\nDerivatives for Actuaries II\n\n\t\n\n3\n\n\n\n\nFINA4291\n\n\t\n\nInternship in Insurance and Financial Institutions\n\n\t\n\n3\n\n\n\n\nFINA4310\n\n\t\n\nChina Banking and Financial System\n\n\t\n\n1\n\n\n\n\nFINA4320\n\n\t\n\nChina Equity Securities Market\n\n\t\n\n1\n\n\n\n\nFINA4330\n\n\t\n\nChina Derivative Securities Market\n\n\t\n\n1\n\n\n\n\nFINA4340\n\n\t\n\nStructured Products: Fundamentals and Analysis\n\n\t\n\n1\n\n\n\n\nFINA4350\n\n\t\n\nBond Markets: Analysis and Strategies\n\n\t\n\n1\n\n\n\n\nFINA4370\n\n\t\n\nDerivatives Trading: Analysis and Strategies\n\n\t\n\n3\n\n\n\n\nFINA4380\n\n\t\n\nAlgorithmic Trading Strategies, Arbitrage and HFT\n\n\t\n\n3\n\n\n\n\nFINA4390\n\n\t\n\nBanking and Finance Practicum\n\n\t\n\n3\n\n\n\n\nIBBA3020\n\n\t\n\nCorporate Social Responsibilities: Distinguished Speaker Series\n\n\t\n\n1\n\n\n\n\nIBBA3040\n\n\t\n\nBusiness Lecture Series\n\n\t\n\n1\n\n\n\n\nLAWS1020\n\n\t\n\nHong Kong Legal System\n\n\t\n\n3\n\n\n\n\nLAWS1030\n\n\t\n\nLegal System of the PRC\n\n\t\n\n3\n\n\n\n\nLAWS1041\n\n\t\n\nContract I\n\n\t\n\n3\n\n\n\n\nLAWS1042\n\n\t\n\nContract II\n\n\t\n\n3\n\n\n\n\nLAWS2131\n\n\t\n\nTort I\n\n\t\n\n3\n\n\n\n\nLAWS2132\n\n\t\n\nTort II\n\n\t\n\n3\n\n\n\n\nLAWS6001\n\n\t\n\nLegal System\n\n\t\n\n3\n\n\n\n\nLAWS6002\n\n\t\n\nJurisprudence\n\n\t\n\n3\n\n\n\n\nLAWS6003\n\n\t\n\nThe Individual, the Community and the Law\n\n\t\n\n3\n\n\n\n\nLAWS6004\n\n\t\n\nLegal Research, Analysis and Writing\n\n\t\n\n3\n\n\n\n\nLAWS6005\n\n\t\n\nEthics and Professional Virtue\n\n\t\n\n3\n\n\n\n\nLAWS6006\n\n\t\n\nComparative Legal Studies\n\n\t\n\n3\n\n\n\n\nLAWS6007\n\n\t\n\nEthics and Jurisprudence\n\n\t\n\n3\n\n\n\n\nLAWS6011\n\n\t\n\nPrinciples of Company Law\n\n\t\n\n3\n\n\n\n\nLAWS6012\n\n\t\n\nPrinciples of Civil Procedure\n\n\t\n\n3\n\n\n\n\nLAWS6013\n\n\t\n\nPrinciples of Evidence\n\n\t\n\n3\n\n\n\n\nLAWS6014\n\n\t\n\nPrinciples of Criminal Procedure\n\n\t\n\n3\n\n\n\n\nLAWS6015\n\n\t\n\nPrinciples of Constitutional Law\n\n\t\n\n3\n\n\n\n\nLAWS6017\n\n\t\n\nPrinciples of Commercial Law\n\n\t\n\n3\n\n\n\n\nLAWS6018\n\n\t\n\nPrinciples of Equity and Trusts\n\n\t\n\n3\n\n\n\n\nLAWS6019\n\n\t\n\nPrinciples of Land Law\n\n\t\n\n3\n\n\n\n\nLAWS6020\n\n\t\n\nPrinciples of Administrative Law\n\n\t\n\n3\n\n\n\n\nLAWS6021 \n\n\t\n\nPrinciples of Contract \n\n\t\n\n3\n\n\n\n\nLAWS6022\n\n\t\n\nPrinciples of Criminal Law\n\n\t\n\n3\n\n\n\n\nLAWS6023\n\n\t\n\nPrinciples of Tort \n\n\t\n\n3\n\n\n\n\nLAWS6024\n\n\t\n\nPrinciples of Property Law\n\n\t\n\n3\n\n\n\n\nLAWS6031\n\n\t\n\nIssues in Company Law\n\n\t\n\n3\n\n\n\n\nLAWS6032\n\n\t\n\nIssues in Contract\n\n\t\n\n3\n\n\n\n\nLAWS6033\n\n\t\n\nIssues in Criminal Law\n\n\t\n\n3\n\n\n\n\nLAWS6034\n\n\t\n\nIssues in Equity and Trusts\n\n\t\n\n3\n\n\n\n\nLAWS6035\n\n\t\n\nIssues in Land Law\n\n\t\n\n3\n\n\n\n\nLAWS6036\n\n\t\n\nPrinciples of International Law\n\n\t\n\n3\n\n\n\n\nLAWS6037\n\n\t\n\nInternational Legal Advocacy II\n\n\t\n\n6\n\n\n\n\nLAWS6038\n\n\t\n\nAustralian Constitutional Law\n\n\t\n\n3\n\n\n\n\nLAWS6039\n\n\t\n\nCanadian Constitutional Law\n\n\t\n\n3\n\n\n\n\nLAWS6040\n\n\t\n\nConflict of Laws\n\n\t\n\n3\n\n\n\n\nLAWS6041\n\n\t\n\nInterviewing and Counselling\n\n\t\n\n3\n\n\n\n\nLAWS6042\n\n\t\n\nDispute Resolution\n\n\t\n\n3\n\n\n\n\nLAWS6043\n\n\t\n\nComparative Constitutional Traditions\n\n\t\n\n3\n\n\n\n\nLAWS6044\n\n\t\n\nPrinciples of Environmental Law\n\n\t\n\n3\n\n\n\n\nLAWS6045\n\n\t\n\nIssues in Human Rights\n\n\t\n\n3\n\n\n\n\nLAWS6046\n\n\t\n\nLaw and Literature\n\n\t\n\n3\n\n\n\n\nLAWS6047\n\n\t\n\nPrinciples of Employment Law\n\n\t\n\n3\n\n\n\n\nLAWS6048\n\n\t\n\nInternational Legal Advocacy I\n\n\t\n\n3\n\n\n\n\nLAWS6050\n\n\t\n\nMooting\n\n\t\n\n3\n\n\n\n\nLAWS6051\n\n\t\n\nPrinciples of Remedies\n\n\t\n\n3\n\n\n\n\nLAWS6053\n\n\t\n\nRefugee Rights Clinic\n\n\t\n\n3\n\n\n\n\nLAWS6054\n\n\t\n\nPrinciples of Family Law\n\n\t\n\n3\n\n\n\n\nLAWS6055\n\n\t\n\nPrinciples of Mediation\n\n\t\n\n3\n\n\n\n\nLAWS6056\n\n\t\n\nPrinciples of Revenue Law\n\n\t\n\n3\n\n\n\n\nLAWS6057\n\n\t\n\nIssues in Tort\n\n\t\n\n3\n\n\n\n\nLAWS6058\n\n\t\n\nPrinciples of Intellectual Property\n\n\t\n\n3\n\n\n\n\nLAWS6059\n\n\t\n\nPrinciples of Securities Regulation\n\n\t\n\n3\n\n\n\n\nLAWS6060\n\n\t\n\nSecured Transactions and the Law\n\n\t\n\n3\n\n\n\n\nLAWS6061\n\n\t\n\nNon-Marine Insurance Law\n\n\t\n\n3\n\n\n\n\nLAWS6062\n\n\t\n\nPrinciples of Corporate Crime and Social Responsibility\n\n\t\n\n3\n\n\n\n\nLAWS6063\n\n\t\n\nPrinciples of Construction Law\n\n\t\n\n3\n\n\n\n\nLAWS6064\n\n\t\n\nIssues in International Law\n\n\t\n\n3\n\n\n\n\nLAWS6065\n\n\t\n\nPrinciples of Aviation Law\n\n\t\n\n3\n\n\n\n\nLAWS6066\n\n\t\n\nHuman Rights in PRC Law and Society\n\n\t\n\n3\n\n\n\n\nLAWS6067\n\n\t\n\nPrinciples of Corporate Insolvency\n\n\t\n\n3\n\n\n\n\nLAWS6068\n\n\t\n\nInternational and Foreign Law Summer School (Sydney)\n\n\t\n\n3\n\n\n\n\nLAWS6069\n\n\t\n\nPrinciples of Information & Privacy Law\n\n\t\n\n3\n\n\n\n\nLAWS6070\n\n\t\n\nPrinciples of Family Law: Matrimonial Law\n\n\t\n\n3\n\n\n\n\nLAWS6071\n\n\t\n\nPrinciples of Family Law: Child Law\n\n\t\n\n3\n\n\n\n\nLAWS6072\n\n\t\n\nThe Clinic for Public Interest Advocacy\n\n\t\n\n3\n\n\n\n\nLAWS6073\n\n\t\n\nRome: Law and History\n\n\t\n\n3\n\n\n\n\nLAWS6074\n\n\t\n\nLaw of the Sea\n\n\t\n\n3\n\n\n\n\nLAWS6075\n\n\t\n\nGlobal issues in Law\n\n\t\n\n3\n\n\n\n\nLAWS6076\n\n\t\n\nIssues in Administrative Law\n\n\t\n\n3\n\n\n\n\nLAWS6077\n\n\t\n\nComparative Conflict of Laws\n\n\t\n\n3\n\n\n\n\nLAWS6079\n\n\t\n\nElder Law\n\n\t\n\n3\n\n\n\n\nLAWS6080\n\n\t\n\nClimate Law\n\n\t\n\n3\n\n\n\n\nLAWS6082\n\n\t\n\nBusiness Taxation: Principles and Practice\n\n\t\n\n3\n\n\n\n\nLAWS6083\n\n\t\n\nNew Ventures Legal Clinic\n\n\t\n\n3\n\n\n\n\nLAWS6084\n\n\t\n\nEconomics for Competition Law\n\n\t\n\n3\n\n\n\n\nLAWS6085\n\n\t\n\nIssues in Property Law\n\n\t\n\n3\n\n\n\n\nLAWS6086\n\n\t\n\nChinese Law on Corporate Finance\n\n\t\n\n3\n\n\n\n\nLAWS6087\n\n\t\n\nMediation Practice\n\n\t\n\n3\n\n\n\n\nLAWS6088\n\n\t\n\nThe Laws and Legal System of the United States\n\n\t\n\n3\n\n\n\n\nLAWS6089\n\n\t\n\nLegal Technologies\n\n\t\n\n3\n\n\n\n\nLAWS6090\n\n\t\n\nLaw and Film\n\n\t\n\n3\n\n\n\n\nLAWS6091\n\n\t\n\nPrinciples of Digital Technology and Law\n\n\t\n\n3\n\n\n\n\nLAWS6092\n\n\t\n\nCISG: Law and Practice\n\n\t\n\n3\n\n\n\n\nLAWS6101\n\n\t\n\nLegal System and Methods in China\n\n\t\n\n3\n\n\n\n\nLAWS6102\n\n\t\n\nChinese Civil Law\n\n\t\n\n3\n\n\n\n\nLAWS6103\n\n\t\n\nChinese Contract Law\n\n\t\n\n3\n\n\n\n\nLAWS6104\n\n\t\n\nChinese Company Law\n\n\t\n\n3\n\n\n\n\nLAWS6111\n\n\t\n\nChinese Foreign Trade and Investment Law\n\n\t\n\n3\n\n\n\n\nLAWS6112\n\n\t\n\nChinese Practice on International Law\n\n\t\n\n3\n\n\n\n\nLAWS6113\n\n\t\n\nPrivate International Law in China\n\n\t\n\n3\n\n\n\n\nLAWS6114\n\n\t\n\nChinese Civil Procedure Law\n\n\t\n\n3\n\n\n\n\nLAWS6115\n\n\t\n\nChinese Securities Regulation\n\n\t\n\n3\n\n\n\n\nLAWS6116\n\n\t\n\nChinese Intellectual Property Law\n\n\t\n\n3\n\n\n\n\nLAWS6117\n\n\t\n\nChinese Banking Law\n\n\t\n\n3\n\n\n\n\nLAWS6118\n\n\t\n\nChinese Tax Law\n\n\t\n\n3\n\n\n\n\nLAWS6119\n\n\t\n\nChinese Environmental Law\n\n\t\n\n3\n\n\n\n\nLAWS6120\n\n\t\n\nDispute Resolution in China\n\n\t\n\n3\n\n\n\n\nLAWS6121\n\n\t\n\nChinese Constitutional and Administrative Law\n\n\t\n\n3\n\n\n\n\nLAWS6122\n\n\t\n\nChinese Politics and Law\n\n\t\n\n3\n\n\n\n\nLAWS6123\n\n\t\n\nChinese Finance and Law\n\n\t\n\n3\n\n\n\n\nLAWS6124\n\n\t\n\nChinese Accounting and Law\n\n\t\n\n3\n\n\n\n\nLAWS6125\n\n\t\n\nProperty Law in China\n\n\t\n\n3\n\n\n\n\nLAWS6126\n\n\t\n\nChinese Economy and Law\n\n\t\n\n3\n\n\n\n\nLAWS6127\n\n\t\n\nChinese Commercial Law\n\n\t\n\n3\n\n\n\n\nLAWS6128\n\n\t\n\nChinese Financial Law\n\n\t\n\n3\n\n\n\n\nLAWS6129\n\n\t\n\nChinese Law Internship\n\n\t\n\n3\n\n\n\n\nLAWS6130\n\n\t\n\nChinese Investment Law\n\n\t\n\n3\n\n\n\n\nLAWS6131\n\n\t\n\nChinese Employment Law\n\n\t\n\n3\n\n\n\n\nLAWS6132\n\n\t\n\nCriminal Justice and Society in China\n\n\t\n\n3\n\n\n\n\nLAWS6133\n\n\t\n\nGlobal Issues in Law\n\n\t\n\n3\n\n\n\n\nLAWS6134\n\n\t\n\nChinese Law and Society in an Age of Digital Technologies and Artificial Intelligence\n\n\t\n\n3\n\n\n\n\nLAWS6201\n\n\t\n\nCommon Law: Origins and Development\n\n\t\n\n3\n\n\n\n\nLAWS6211\n\n\t\n\nHistory, Culture and the Law\n\n\t\n\n3\n\n\n\n\nLAWS6212\n\n\t\n\nCrime and the Sanctioning Process\n\n\t\n\n3\n\n\n\n\nLAWS6213\n\n\t\n\nComparative Legal Traditions\n\n\t\n\n3\n\n\n\n\nLAWS6214\n\n\t\n\nCopyright, Digital Subject Matter & Information Technology\n\n\t\n\n3\n\n\n\n\nLAWS6215\n\n\t\n\nCommon Law: Globalization and Convergence\n\n\t\n\n3\n\n\n\n\nLAWS6216\n\n\t\n\nComparative Constitutional Law\n\n\t\n\n3\n\n\n\n\nLAWS6217\n\n\t\n\nPrinciples of Unjust Enrichment\n\n\t\n\n3\n\n\n\n\nLAWS6218\n\n\t\n\nPrinciples of Art, Antiquities, Cultural Heritage and the Law\n\n\t\n\n3\n\n\n\n\nLAWS6219\n\n\t\n\nGlobal Issues in Law\n\n\t\n\n3\n\n\n\n\nLAWS6220\n\n\t\n\nCyberlaw and Intellectual Property: Principles and Practice\n\n\t\n\n3\n\n\n\n\nLAWS6221\n\n\t\n\nTransnational Law After Empire\n\n\t\n\n3\n\n\n\n\nLAWS6222\n\n\t\n\nColonial Governance and the Rule of Law\n\n\t\n\n3\n\n\n\n\nLAWS6301\n\n\t\n\nLaw of International Business Transactions I\n\n\t\n\n3\n\n\n\n\nLAWS6302\n\n\t\n\nLaw of International Business Transactions II\n\n\t\n\n3\n\n\n\n\nLAWS6303\n\n\t\n\nTrans-national Legal Problems\n\n\t\n\n3\n\n\n\n\nLAWS6304\n\n\t\n\nInternational Economic Development and the Law\n\n\t\n\n3\n\n\n\n\nLAWS6311\n\n\t\n\nWorld Trade Law\n\n\t\n\n3\n\n\n\n\nLAWS6312\n\n\t\n\nInternational Financial and Banking Law\n\n\t\n\n3\n\n\n\n\nLAWS6313\n\n\t\n\nInternational Taxation\n\n\t\n\n3\n\n\n\n\nLAWS6314\n\n\t\n\nThe Law of Electronic Commerce\n\n\t\n\n3\n\n\n\n\nLAWS6315\n\n\t\n\nPrinciples of Competition Law\n\n\t\n\n3\n\n\n\n\nLAWS6316\n\n\t\n\nShipping Law\n\n\t\n\n3\n\n\n\n\nLAWS6317\n\n\t\n\nInternational Commercial Arbitration\n\n\t\n\n3\n\n\n\n\nLAWS6318\n\n\t\n\nInternational and Comparative Intellectual Property Law\n\n\t\n\n3\n\n\n\n\nLAWS6319\n\n\t\n\nInternational Environmental Law\n\n\t\n\n3\n\n\n\n\nLAWS6320\n\n\t\n\nComparative Contract Law\n\n\t\n\n3\n\n\n\n\nLAWS6321\n\n\t\n\nComparative Corporate Governance\n\n\t\n\n3\n\n\n\n\nLAWS6322\n\n\t\n\nComparative Company Law\n\n\t\n\n3\n\n\n\n\nLAWS6323\n\n\t\n\nBusiness and the Law in Hong Kong\n\n\t\n\n3\n\n\n\n\nLAWS6324\n\n\t\n\nEuropean Union Law\n\n\t\n\n3\n\n\n\n\nLAWS6325\n\n\t\n\nInternational Relations\n\n\t\n\n3\n\n\n\n\nLAWS6326\n\n\t\n\nInternational Finance and Accounting\n\n\t\n\n3\n\n\n\n\nLAWS6327\n\n\t\n\nInternational Economics\n\n\t\n\n3\n\n\n\n\nLAWS6328\n\n\t\n\nInternational Economic Law Skills\n\n\t\n\n3\n\n\n\n\nLAWS6329\n\n\t\n\nInternational Investment Law - Policy and Development\n\n\t\n\n3\n\n\n\n\nLAWS6330\n\n\t\n\nPreferential Trade Agreements: Theory and Practice\n\n\t\n\n3\n\n\n\n\nLAWS6331\n\n\t\n\nInternational and Comparative Energy Law\n\n\t\n\n3\n\n\n\n\nLAWS6332\n\n\t\n\nGlobal Issues in Law\n\n\t\n\n3\n\n\n\n\nLAWS6333\n\n\t\n\nIssues of Tax Policy\n\n\t\n\n3\n\n\n\n\nLAWS6334\n\n\t\n\nMerger Control\n\n\t\n\n3\n\n\n\n\nLAWS6335\n\n\t\n\nIssues in Competition Law\n\n\t\n\n3\n\n\n\n\nLAWS6336\n\n\t\n\nInvestor-State Dispute Settlement\n\n\t\n\n3\n\n\n\n\nLAWS6337\n\n\t\n\nLaw and Practice of Investment Arbitration\n\n\t\n\n3\n\n\n\n\nLAWS6338\n\n\t\n\nInternational Economic Law and the Legal Profession\n\n\t\n\n3\n\n\n\n\nLAWS6339\n\n\t\n\nConflicts in International Commercial Litigation\n\n\t\n\n3\n\n\n\n\nLAWS6340\n\n\t\n\nThe Law of the Digital Economy\n\n\t\n\n3\n\n\n\n\nLAWS6401\n\n\t\n\nProject Finance and Infrastructure Law\n\n\t\n\n3\n\n\n\n\nLAWS6402\n\n\t\n\nClean Technology Law\n\n\t\n\n3\n\n\n\n\nLAWS6411\n\n\t\n\nClean Energy and Climate Law\n\n\t\n\n3\n\n\n\n\nLAWS6412\n\n\t\n\nOil and Gas Law\n\n\t\n\n3\n\n\n\n\nLAWS6413\n\n\t\n\nDispute Resolution in the Energy and Natural Resources Sector\n\n\t\n\n3\n\n\n\n\nLAWS6414\n\n\t\n\nDisaster Law\n\n\t\n\n3\n\n\n\n\nLAWS6415\n\n\t\n\nFinancial Markets: Law and Operation\n\n\t\n\n3\n\n\n\n\nLAWS6416\n\n\t\n\nChinese Energy Law\n\n\t\n\n3\n\n\n\n\nLAWS6501\n\n\t\n\nLaw and History\n\n\t\n\n3\n\n\n\n\nLAWS6901\n\n\t\n\nIndependent Research\n\n\t\n\n3\n\n\n\n\nLAWS6902\n\n\t\n\nIndependent Research Dissertation\n\n\t\n\n6\n\n\n\n\nMGNT1010\n\n\t\n\nIntroduction to Business\n\n\t\n\n3\n\n\n\n\nMGNT1020\n\n\t\n\nManagement\n\n\t\n\n3\n\n\n\n\nMGNT1070\n\n\t\n\nThe Founder’s Journey: Entrepreneurial Mindset and Design Thinking\n\n\t\n\n3\n\n\n\n\nMGNT2040\n\n\t\n\nManaging Human Capital\n\n\t\n\n3\n\n\n\n\nMGNT2070\n\n\t\n\nNUvention: New Venture Creation\n\n\t\n\n3\n\n\n\n\nMGNT2511\n\n\t\n\nGlobal Experiential Learning I\n\n\t\n\n1\n\n\n\n\nMGNT2512\n\n\t\n\nGlobal Experiential Learning II\n\n\t\n\n1\n\n\n\n\nMGNT2611\n\n\t\n\nBusiness Sustainability\n\n\t\n\n2\n\n\n\n\nMGNT3010\n\n\t\n\nOrganizational Behaviour\n\n\t\n\n3\n\n\n\n\nMGNT3040\n\n\t\n\nHuman Resource Planning and Staffing\n\n\t\n\n3\n\n\n\n\nMGNT3060\n\n\t\n\nHuman Capital Training and Development\n\n\t\n\n3\n\n\n\n\nMGNT3070\n\n\t\n\nOpportunities’ Catching: Strategic Insights and Analytics\n\n\t\n\n3\n\n\n\n\nMGNT3080\n\n\t\n\nAnalytics for Management\n\n\t\n\n3\n\n\n\n\nMGNT3090\n\n\t\n\nHuman Capital Analytics\n\n\t\n\n3\n\n\n\n\nMGNT3100\n\n\t\n\nBusiness Negotiations\n\n\t\n\n3\n\n\n\n\nMGNT3580\n\n\t\n\nGlobal Enterprise Management\n\n\t\n\n3\n\n\n\n\nMGNT4010\n\n\t\n\nStrategic Management\n\n\t\n\n3\n\n\n\n\nMGNT4040\n\n\t\n\nEntrepreneurship and New Venture Management\n\n\t\n\n3\n\n\n\n\nMGNT4050\n\n\t\n\nTalent Performance Management Systems and Strategies\n\n\t\n\n3\n\n\n\n\nMGNT4060\n\n\t\n\nManaging Employment Relations\n\n\t\n\n3\n\n\n\n\nMGNT4070\n\n\t\n\nSocial Innovation and Entrepreneurship\n\n\t\n\n3\n\n\n\n\nMGNT4080\n\n\t\n\nLeadership Development\n\n\t\n\n3\n\n\n\n\nMGNT4090\n\n\t\n\nTechnology and Innovation Management\n\n\t\n\n3\n\n\n\n\nMGNT4110\n\n\t\n\nSelected Topics in Management\n\n\t\n\n3\n\n\n\n\nMGNT4120\n\n\t\n\nManagement of Chinese Firms\n\n\t\n\n3\n\n\n\n\nMGNT4130\n\n\t\n\nManagement Consulting and Change Management\n\n\t\n\n3\n\n\n\n\nMGNT4140\n\n\t\n\nGlobal Strategic Human Resource Management\n\n\t\n\n3\n\n\n\n\nMGNT4150\n\n\t\n\nGlobal Strategy\n\n\t\n\n3\n\n\n\n\nMGNT4160\n\n\t\n\nAdvanced Social Entrepreneurship and Impact Investment\n\n\t\n\n3\n\n\n\n\nMGNT4170\n\n\t\n\nEntrepreneurship Launchpad\n\n\t\n\n3\n\n\n\n\nMGNT4270\n\n\t\n\nSpecial Topics in Entrepreneurship\n\n\t\n\n3\n\n\n\n\nMGNT4510\n\n\t\n\nChina Business\n\n\t\n\n3\n\n\n\n\nMGNT4520\n\n\t\n\nGlobal Chinese Business Network\n\n\t\n\n3\n\n\n\n\nMGNT4530\n\n\t\n\nJapanese Business\n\n\t\n\n3\n\n\n\n\nMGNT4540\n\n\t\n\nAsian Business\n\n\t\n\n3\n\n\n\n\nMGNT4550\n\n\t\n\nEuropean Business\n\n\t\n\n3\n\n\n\n\nMGNT4570\n\n\t\n\nGlobal Entrepreneurship\n\n\t\n\n3\n\n\n\n\nMGNT4600\n\n\t\n\nSelected Topics in International Business\n\n\t\n\n3\n\n\n\n\nMGNT4620\n\n\t\n\nAnalysis of Management Topics\n\n\t\n\n3\n\n\n\n\nMGNT4711\n\n\t\n\nEntrepreneurship Practicum Workshop\n\n\t\n\n3\n\n\n\n\nMGNT4712\n\n\t\n\nFamily Business and Wealth Management\n\n\t\n\n3\n\n\n\n\nMGNT4713\n\n\t\n\nEntrepreneurial Financing and Startup Fund-Raising\n\n\t\n\n3\n\n\n\n\nMKTG2010\n\n\t\n\nMarketing Management\n\n\t\n\n3\n\n\n\n\nMKTG3010\n\n\t\n\nMarketing Research\n\n\t\n\n3\n\n\n\n\nMKTG3020\n\n\t\n\nConsumer Behaviour\n\n\t\n\n3\n\n\n\n\nMKTG3030\n\n\t\n\nIntegrated Marketing Communication\n\n\t\n\n3\n\n\n\n\nMKTG3040\n\n\t\n\nSalesmanship and Sales Management\n\n\t\n\n3\n\n\n\n\nMKTG3050\n\n\t\n\nGlobal Marketing Management\n\n\t\n\n3\n\n\n\n\nMKTG3060\n\n\t\n\nBig Data Strategy in Marketing\n\n\t\n\n3\n\n\n\n\nMKTG4010\n\n\t\n\nOrganizational Marketing\n\n\t\n\n3\n\n\n\n\nMKTG4020\n\n\t\n\nRetail and Channel Management\n\n\t\n\n3\n\n\n\n\nMKTG4030\n\n\t\n\nService Marketing\n\n\t\n\n3\n\n\n\n\nMKTG4040\n\n\t\n\nStrategic Marketing\n\n\t\n\n3\n\n\n\n\nMKTG4050\n\n\t\n\nSeminar in Marketing\n\n\t\n\n3\n\n\n\n\nMKTG4070\n\n\t\n\nMarketing in China\n\n\t\n\n3\n\n\n\n\nMKTG4080\n\n\t\n\nDigital Marketing\n\n\t\n\n3\n\n\n\n\nMKTG4090\n\n\t\n\nMarketing Analytics\n\n\t\n\n3\n\n\n\n\nMKTG4110\n\n\t\n\nStrategic Brand Management\n\n\t\n\n3\n\n\n\n\nMKTG4120\n\n\t\n\nMarketing Engineering\n\n\t\n\n3\n\n\n\n\nMKTG4150\n\n\t\n\nNew Product Management\n\n\t\n\n3\n\n\n\n\nMKTG4160\n\n\t\n\nPricing\n\n\t\n\n3\n\n\n\n\nMKTG4170\n\n\t\n\nCustomer Relationship Management\n\n\t\n\n3\n\n\n\n\nMKTG4180\n\n\t\n\nSocial Media Analytics\n\n\t\n\n3\n\n\n\n\nMKTG4190\n\n\t\n\nMachine Learning Practices in Marketing\n\n\t\n\n3\n\n\n\n\nMKTG4200\n\n\t\n\nBehavioral Decision Making and Consumer Choice\n\n\t\n\n3\n\n\n\n\n \n\n\n \n\nStudy Scheme\n\n\nLearning Outcomes\n \n\n\t\n\n1.          Major Programme:\n\nUpon completion of the BBA programme, students will have acquired:\n\n1. effective business communication skills (S);\n\n2. effective analytical skills which support them in making business decisions (S);\n\n3. the ability to integrate business knowledge and solve problems in a business environment (K/S);\n\n4. the ability to propose business strategies in a global environment (S);\n\n5. awareness of the ethical issues in a business context (V);\n\n6. an understanding of the legal landscape in which business is conducted (K).\n\n \n\n2.          JD Programme:\n\nUpon completion of the JD programme, students will have acquired:\n\n1. an understanding of the law and legal system of Hong Kong, with particular emphasis on the law in action and the dynamic interplay between law and other social phenomena. (K, V)\n\n2. an appreciation of the common law system and its values, and its interaction with the law of China, the East Asian region and the wider world. (K, V)\n\n3. a strong sense of ethics, civic duty, social and professional responsibility. (V)\n\n4. awareness of the strengths and weaknesses of law as a means of regulating society in the context of competing and conflicting interests. (K, V)\n\n5. acquired and improved skills of legal analysis and reasoning; skills of legal research; skills of oral and written expression of legal ideas; and the general critical and evaluative faculties appropriate to a postgraduate degree in law. (S)\n\n \n\nK = Knowledge outcomes; S = Skills outcomes; V = Values outcomes\n\n \n\nNote: The expected learning outcomes for the JD programme are only available in English.\n\n \n\n \n\n \n\n\n"
+}

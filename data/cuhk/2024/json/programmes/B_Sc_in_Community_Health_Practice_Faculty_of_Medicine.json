@@ -1,0 +1,579 @@
+{
+  "programme_id": "B_Sc_in_Community_Health_Practice__Faculty_of_Medicine",
+  "academic_program": "B.Sc. in Community Health Practice",
+  "faculty": "Faculty of Medicine",
+  "academic_year": 2024,
+  "admission_cohort": "2024-25",
+  "requirement_summary": {
+    "minimum_units_as_printed": "a minimum of 52 units",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Required Courses",
+        "units_as_printed": "46",
+        "course_mentions": [
+          {
+            "course_code": "CHPR3001",
+            "prefix_inferred": false,
+            "evidence": "CHPR3001, 3002, 3008, 4001, 4002, 4003, 4004, 4005, 4008, 4901[a], 4902[a], GRON3211#, PHPC1001#, 1012#, 1017#, 2015#, 2017#"
+          },
+          {
+            "course_code": "CHPR3002",
+            "prefix_inferred": true,
+            "evidence": "CHPR3001, 3002, 3008, 4001, 4002, 4003, 4004, 4005, 4008, 4901[a], 4902[a], GRON3211#, PHPC1001#, 1012#, 1017#, 2015#, 2017#"
+          },
+          {
+            "course_code": "CHPR3008",
+            "prefix_inferred": true,
+            "evidence": "CHPR3001, 3002, 3008, 4001, 4002, 4003, 4004, 4005, 4008, 4901[a], 4902[a], GRON3211#, PHPC1001#, 1012#, 1017#, 2015#, 2017#"
+          },
+          {
+            "course_code": "CHPR4001",
+            "prefix_inferred": true,
+            "evidence": "CHPR3001, 3002, 3008, 4001, 4002, 4003, 4004, 4005, 4008, 4901[a], 4902[a], GRON3211#, PHPC1001#, 1012#, 1017#, 2015#, 2017#"
+          },
+          {
+            "course_code": "CHPR4002",
+            "prefix_inferred": true,
+            "evidence": "CHPR3001, 3002, 3008, 4001, 4002, 4003, 4004, 4005, 4008, 4901[a], 4902[a], GRON3211#, PHPC1001#, 1012#, 1017#, 2015#, 2017#"
+          },
+          {
+            "course_code": "CHPR4003",
+            "prefix_inferred": true,
+            "evidence": "CHPR3001, 3002, 3008, 4001, 4002, 4003, 4004, 4005, 4008, 4901[a], 4902[a], GRON3211#, PHPC1001#, 1012#, 1017#, 2015#, 2017#"
+          },
+          {
+            "course_code": "CHPR4004",
+            "prefix_inferred": true,
+            "evidence": "CHPR3001, 3002, 3008, 4001, 4002, 4003, 4004, 4005, 4008, 4901[a], 4902[a], GRON3211#, PHPC1001#, 1012#, 1017#, 2015#, 2017#"
+          },
+          {
+            "course_code": "CHPR4005",
+            "prefix_inferred": true,
+            "evidence": "CHPR3001, 3002, 3008, 4001, 4002, 4003, 4004, 4005, 4008, 4901[a], 4902[a], GRON3211#, PHPC1001#, 1012#, 1017#, 2015#, 2017#"
+          },
+          {
+            "course_code": "CHPR4008",
+            "prefix_inferred": true,
+            "evidence": "CHPR3001, 3002, 3008, 4001, 4002, 4003, 4004, 4005, 4008, 4901[a], 4902[a], GRON3211#, PHPC1001#, 1012#, 1017#, 2015#, 2017#"
+          },
+          {
+            "course_code": "CHPR4901",
+            "prefix_inferred": true,
+            "evidence": "CHPR3001, 3002, 3008, 4001, 4002, 4003, 4004, 4005, 4008, 4901[a], 4902[a], GRON3211#, PHPC1001#, 1012#, 1017#, 2015#, 2017#"
+          },
+          {
+            "course_code": "CHPR4902",
+            "prefix_inferred": true,
+            "evidence": "CHPR3001, 3002, 3008, 4001, 4002, 4003, 4004, 4005, 4008, 4901[a], 4902[a], GRON3211#, PHPC1001#, 1012#, 1017#, 2015#, 2017#"
+          },
+          {
+            "course_code": "GRON3211",
+            "prefix_inferred": false,
+            "evidence": "CHPR3001, 3002, 3008, 4001, 4002, 4003, 4004, 4005, 4008, 4901[a], 4902[a], GRON3211#, PHPC1001#, 1012#, 1017#, 2015#, 2017#"
+          },
+          {
+            "course_code": "PHPC1001",
+            "prefix_inferred": false,
+            "evidence": "CHPR3001, 3002, 3008, 4001, 4002, 4003, 4004, 4005, 4008, 4901[a], 4902[a], GRON3211#, PHPC1001#, 1012#, 1017#, 2015#, 2017#"
+          },
+          {
+            "course_code": "PHPC1012",
+            "prefix_inferred": true,
+            "evidence": "CHPR3001, 3002, 3008, 4001, 4002, 4003, 4004, 4005, 4008, 4901[a], 4902[a], GRON3211#, PHPC1001#, 1012#, 1017#, 2015#, 2017#"
+          },
+          {
+            "course_code": "PHPC1017",
+            "prefix_inferred": true,
+            "evidence": "CHPR3001, 3002, 3008, 4001, 4002, 4003, 4004, 4005, 4008, 4901[a], 4902[a], GRON3211#, PHPC1001#, 1012#, 1017#, 2015#, 2017#"
+          },
+          {
+            "course_code": "PHPC2015",
+            "prefix_inferred": true,
+            "evidence": "CHPR3001, 3002, 3008, 4001, 4002, 4003, 4004, 4005, 4008, 4901[a], 4902[a], GRON3211#, PHPC1001#, 1012#, 1017#, 2015#, 2017#"
+          },
+          {
+            "course_code": "PHPC2017",
+            "prefix_inferred": true,
+            "evidence": "CHPR3001, 3002, 3008, 4001, 4002, 4003, 4004, 4005, 4008, 4901[a], 4902[a], GRON3211#, PHPC1001#, 1012#, 1017#, 2015#, 2017#"
+          }
+        ],
+        "raw_text": "CHPR3001, 3002, 3008, 4001, 4002, 4003, 4004, 4005, 4008, 4901[a], 4902[a], GRON3211#, PHPC1001#, 1012#, 1017#, 2015#, 2017#\n46"
+      },
+      {
+        "number": 2,
+        "title": "Elective Courses",
+        "units_as_printed": "6",
+        "course_mentions": [
+          {
+            "course_code": "CHPR4011",
+            "prefix_inferred": false,
+            "evidence": "CHPR4011, 4012, PHPC2007#, 2009#, 2020#, 3010#, 3018#, 3034#, 4025#, 4032#, 4033#, 4040#, 4041#, 4042#, 4043#"
+          },
+          {
+            "course_code": "CHPR4012",
+            "prefix_inferred": true,
+            "evidence": "CHPR4011, 4012, PHPC2007#, 2009#, 2020#, 3010#, 3018#, 3034#, 4025#, 4032#, 4033#, 4040#, 4041#, 4042#, 4043#"
+          },
+          {
+            "course_code": "PHPC2007",
+            "prefix_inferred": false,
+            "evidence": "CHPR4011, 4012, PHPC2007#, 2009#, 2020#, 3010#, 3018#, 3034#, 4025#, 4032#, 4033#, 4040#, 4041#, 4042#, 4043#"
+          },
+          {
+            "course_code": "PHPC2009",
+            "prefix_inferred": true,
+            "evidence": "CHPR4011, 4012, PHPC2007#, 2009#, 2020#, 3010#, 3018#, 3034#, 4025#, 4032#, 4033#, 4040#, 4041#, 4042#, 4043#"
+          },
+          {
+            "course_code": "PHPC2020",
+            "prefix_inferred": true,
+            "evidence": "CHPR4011, 4012, PHPC2007#, 2009#, 2020#, 3010#, 3018#, 3034#, 4025#, 4032#, 4033#, 4040#, 4041#, 4042#, 4043#"
+          },
+          {
+            "course_code": "PHPC3010",
+            "prefix_inferred": true,
+            "evidence": "CHPR4011, 4012, PHPC2007#, 2009#, 2020#, 3010#, 3018#, 3034#, 4025#, 4032#, 4033#, 4040#, 4041#, 4042#, 4043#"
+          },
+          {
+            "course_code": "PHPC3018",
+            "prefix_inferred": true,
+            "evidence": "CHPR4011, 4012, PHPC2007#, 2009#, 2020#, 3010#, 3018#, 3034#, 4025#, 4032#, 4033#, 4040#, 4041#, 4042#, 4043#"
+          },
+          {
+            "course_code": "PHPC3034",
+            "prefix_inferred": true,
+            "evidence": "CHPR4011, 4012, PHPC2007#, 2009#, 2020#, 3010#, 3018#, 3034#, 4025#, 4032#, 4033#, 4040#, 4041#, 4042#, 4043#"
+          },
+          {
+            "course_code": "PHPC4025",
+            "prefix_inferred": true,
+            "evidence": "CHPR4011, 4012, PHPC2007#, 2009#, 2020#, 3010#, 3018#, 3034#, 4025#, 4032#, 4033#, 4040#, 4041#, 4042#, 4043#"
+          },
+          {
+            "course_code": "PHPC4032",
+            "prefix_inferred": true,
+            "evidence": "CHPR4011, 4012, PHPC2007#, 2009#, 2020#, 3010#, 3018#, 3034#, 4025#, 4032#, 4033#, 4040#, 4041#, 4042#, 4043#"
+          },
+          {
+            "course_code": "PHPC4033",
+            "prefix_inferred": true,
+            "evidence": "CHPR4011, 4012, PHPC2007#, 2009#, 2020#, 3010#, 3018#, 3034#, 4025#, 4032#, 4033#, 4040#, 4041#, 4042#, 4043#"
+          },
+          {
+            "course_code": "PHPC4040",
+            "prefix_inferred": true,
+            "evidence": "CHPR4011, 4012, PHPC2007#, 2009#, 2020#, 3010#, 3018#, 3034#, 4025#, 4032#, 4033#, 4040#, 4041#, 4042#, 4043#"
+          },
+          {
+            "course_code": "PHPC4041",
+            "prefix_inferred": true,
+            "evidence": "CHPR4011, 4012, PHPC2007#, 2009#, 2020#, 3010#, 3018#, 3034#, 4025#, 4032#, 4033#, 4040#, 4041#, 4042#, 4043#"
+          },
+          {
+            "course_code": "PHPC4042",
+            "prefix_inferred": true,
+            "evidence": "CHPR4011, 4012, PHPC2007#, 2009#, 2020#, 3010#, 3018#, 3034#, 4025#, 4032#, 4033#, 4040#, 4041#, 4042#, 4043#"
+          },
+          {
+            "course_code": "PHPC4043",
+            "prefix_inferred": true,
+            "evidence": "CHPR4011, 4012, PHPC2007#, 2009#, 2020#, 3010#, 3018#, 3034#, 4025#, 4032#, 4033#, 4040#, 4041#, 4042#, 4043#"
+          },
+          {
+            "course_code": "ANTH4330",
+            "prefix_inferred": false,
+            "evidence": "ANTH4330#, GPAD3255#, SOCI3227#, SPED2540#, 4560#, 4570#"
+          },
+          {
+            "course_code": "GPAD3255",
+            "prefix_inferred": false,
+            "evidence": "ANTH4330#, GPAD3255#, SOCI3227#, SPED2540#, 4560#, 4570#"
+          },
+          {
+            "course_code": "SOCI3227",
+            "prefix_inferred": false,
+            "evidence": "ANTH4330#, GPAD3255#, SOCI3227#, SPED2540#, 4560#, 4570#"
+          },
+          {
+            "course_code": "SPED2540",
+            "prefix_inferred": false,
+            "evidence": "ANTH4330#, GPAD3255#, SOCI3227#, SPED2540#, 4560#, 4570#"
+          },
+          {
+            "course_code": "SPED4560",
+            "prefix_inferred": true,
+            "evidence": "ANTH4330#, GPAD3255#, SOCI3227#, SPED2540#, 4560#, 4570#"
+          },
+          {
+            "course_code": "SPED4570",
+            "prefix_inferred": true,
+            "evidence": "ANTH4330#, GPAD3255#, SOCI3227#, SPED2540#, 4560#, 4570#"
+          }
+        ],
+        "raw_text": "6 units of courses chosen from the following, with a maximum of 1 course from Group B:\nGroup A:\nCHPR4011, 4012, PHPC2007#, 2009#, 2020#, 3010#, 3018#, 3034#, 4025#, 4032#, 4033#, 4040#, 4041#, 4042#, 4043#\nGroup B:\nANTH4330#, GPAD3255#, SOCI3227#, SPED2540#, 4560#, 4570#\n6\nTotal:\n52\nExplanatory Notes:"
+      }
+    ]
+  },
+  "all_course_mentions": [
+    {
+      "course_code": "CHPR3001",
+      "prefix_inferred": false,
+      "evidence": "CHPR3001, 3002, 3008, 4001, 4002, 4003, 4004, 4005, 4008, 4901[a], 4902[a], GRON3211#, PHPC1001#, 1012#, 1017#, 2015#, 2017#"
+    },
+    {
+      "course_code": "CHPR3002",
+      "prefix_inferred": true,
+      "evidence": "CHPR3001, 3002, 3008, 4001, 4002, 4003, 4004, 4005, 4008, 4901[a], 4902[a], GRON3211#, PHPC1001#, 1012#, 1017#, 2015#, 2017#"
+    },
+    {
+      "course_code": "CHPR3008",
+      "prefix_inferred": true,
+      "evidence": "CHPR3001, 3002, 3008, 4001, 4002, 4003, 4004, 4005, 4008, 4901[a], 4902[a], GRON3211#, PHPC1001#, 1012#, 1017#, 2015#, 2017#"
+    },
+    {
+      "course_code": "CHPR4001",
+      "prefix_inferred": true,
+      "evidence": "CHPR3001, 3002, 3008, 4001, 4002, 4003, 4004, 4005, 4008, 4901[a], 4902[a], GRON3211#, PHPC1001#, 1012#, 1017#, 2015#, 2017#"
+    },
+    {
+      "course_code": "CHPR4002",
+      "prefix_inferred": true,
+      "evidence": "CHPR3001, 3002, 3008, 4001, 4002, 4003, 4004, 4005, 4008, 4901[a], 4902[a], GRON3211#, PHPC1001#, 1012#, 1017#, 2015#, 2017#"
+    },
+    {
+      "course_code": "CHPR4003",
+      "prefix_inferred": true,
+      "evidence": "CHPR3001, 3002, 3008, 4001, 4002, 4003, 4004, 4005, 4008, 4901[a], 4902[a], GRON3211#, PHPC1001#, 1012#, 1017#, 2015#, 2017#"
+    },
+    {
+      "course_code": "CHPR4004",
+      "prefix_inferred": true,
+      "evidence": "CHPR3001, 3002, 3008, 4001, 4002, 4003, 4004, 4005, 4008, 4901[a], 4902[a], GRON3211#, PHPC1001#, 1012#, 1017#, 2015#, 2017#"
+    },
+    {
+      "course_code": "CHPR4005",
+      "prefix_inferred": true,
+      "evidence": "CHPR3001, 3002, 3008, 4001, 4002, 4003, 4004, 4005, 4008, 4901[a], 4902[a], GRON3211#, PHPC1001#, 1012#, 1017#, 2015#, 2017#"
+    },
+    {
+      "course_code": "CHPR4008",
+      "prefix_inferred": true,
+      "evidence": "CHPR3001, 3002, 3008, 4001, 4002, 4003, 4004, 4005, 4008, 4901[a], 4902[a], GRON3211#, PHPC1001#, 1012#, 1017#, 2015#, 2017#"
+    },
+    {
+      "course_code": "CHPR4901",
+      "prefix_inferred": true,
+      "evidence": "CHPR3001, 3002, 3008, 4001, 4002, 4003, 4004, 4005, 4008, 4901[a], 4902[a], GRON3211#, PHPC1001#, 1012#, 1017#, 2015#, 2017#"
+    },
+    {
+      "course_code": "CHPR4902",
+      "prefix_inferred": true,
+      "evidence": "CHPR3001, 3002, 3008, 4001, 4002, 4003, 4004, 4005, 4008, 4901[a], 4902[a], GRON3211#, PHPC1001#, 1012#, 1017#, 2015#, 2017#"
+    },
+    {
+      "course_code": "GRON3211",
+      "prefix_inferred": false,
+      "evidence": "CHPR3001, 3002, 3008, 4001, 4002, 4003, 4004, 4005, 4008, 4901[a], 4902[a], GRON3211#, PHPC1001#, 1012#, 1017#, 2015#, 2017#"
+    },
+    {
+      "course_code": "PHPC1001",
+      "prefix_inferred": false,
+      "evidence": "CHPR3001, 3002, 3008, 4001, 4002, 4003, 4004, 4005, 4008, 4901[a], 4902[a], GRON3211#, PHPC1001#, 1012#, 1017#, 2015#, 2017#"
+    },
+    {
+      "course_code": "PHPC1012",
+      "prefix_inferred": true,
+      "evidence": "CHPR3001, 3002, 3008, 4001, 4002, 4003, 4004, 4005, 4008, 4901[a], 4902[a], GRON3211#, PHPC1001#, 1012#, 1017#, 2015#, 2017#"
+    },
+    {
+      "course_code": "PHPC1017",
+      "prefix_inferred": true,
+      "evidence": "CHPR3001, 3002, 3008, 4001, 4002, 4003, 4004, 4005, 4008, 4901[a], 4902[a], GRON3211#, PHPC1001#, 1012#, 1017#, 2015#, 2017#"
+    },
+    {
+      "course_code": "PHPC2015",
+      "prefix_inferred": true,
+      "evidence": "CHPR3001, 3002, 3008, 4001, 4002, 4003, 4004, 4005, 4008, 4901[a], 4902[a], GRON3211#, PHPC1001#, 1012#, 1017#, 2015#, 2017#"
+    },
+    {
+      "course_code": "PHPC2017",
+      "prefix_inferred": true,
+      "evidence": "CHPR3001, 3002, 3008, 4001, 4002, 4003, 4004, 4005, 4008, 4901[a], 4902[a], GRON3211#, PHPC1001#, 1012#, 1017#, 2015#, 2017#"
+    },
+    {
+      "course_code": "CHPR4011",
+      "prefix_inferred": false,
+      "evidence": "CHPR4011, 4012, PHPC2007#, 2009#, 2020#, 3010#, 3018#, 3034#, 4025#, 4032#, 4033#, 4040#, 4041#, 4042#, 4043#"
+    },
+    {
+      "course_code": "CHPR4012",
+      "prefix_inferred": true,
+      "evidence": "CHPR4011, 4012, PHPC2007#, 2009#, 2020#, 3010#, 3018#, 3034#, 4025#, 4032#, 4033#, 4040#, 4041#, 4042#, 4043#"
+    },
+    {
+      "course_code": "PHPC2007",
+      "prefix_inferred": false,
+      "evidence": "CHPR4011, 4012, PHPC2007#, 2009#, 2020#, 3010#, 3018#, 3034#, 4025#, 4032#, 4033#, 4040#, 4041#, 4042#, 4043#"
+    },
+    {
+      "course_code": "PHPC2009",
+      "prefix_inferred": true,
+      "evidence": "CHPR4011, 4012, PHPC2007#, 2009#, 2020#, 3010#, 3018#, 3034#, 4025#, 4032#, 4033#, 4040#, 4041#, 4042#, 4043#"
+    },
+    {
+      "course_code": "PHPC2020",
+      "prefix_inferred": true,
+      "evidence": "CHPR4011, 4012, PHPC2007#, 2009#, 2020#, 3010#, 3018#, 3034#, 4025#, 4032#, 4033#, 4040#, 4041#, 4042#, 4043#"
+    },
+    {
+      "course_code": "PHPC3010",
+      "prefix_inferred": true,
+      "evidence": "CHPR4011, 4012, PHPC2007#, 2009#, 2020#, 3010#, 3018#, 3034#, 4025#, 4032#, 4033#, 4040#, 4041#, 4042#, 4043#"
+    },
+    {
+      "course_code": "PHPC3018",
+      "prefix_inferred": true,
+      "evidence": "CHPR4011, 4012, PHPC2007#, 2009#, 2020#, 3010#, 3018#, 3034#, 4025#, 4032#, 4033#, 4040#, 4041#, 4042#, 4043#"
+    },
+    {
+      "course_code": "PHPC3034",
+      "prefix_inferred": true,
+      "evidence": "CHPR4011, 4012, PHPC2007#, 2009#, 2020#, 3010#, 3018#, 3034#, 4025#, 4032#, 4033#, 4040#, 4041#, 4042#, 4043#"
+    },
+    {
+      "course_code": "PHPC4025",
+      "prefix_inferred": true,
+      "evidence": "CHPR4011, 4012, PHPC2007#, 2009#, 2020#, 3010#, 3018#, 3034#, 4025#, 4032#, 4033#, 4040#, 4041#, 4042#, 4043#"
+    },
+    {
+      "course_code": "PHPC4032",
+      "prefix_inferred": true,
+      "evidence": "CHPR4011, 4012, PHPC2007#, 2009#, 2020#, 3010#, 3018#, 3034#, 4025#, 4032#, 4033#, 4040#, 4041#, 4042#, 4043#"
+    },
+    {
+      "course_code": "PHPC4033",
+      "prefix_inferred": true,
+      "evidence": "CHPR4011, 4012, PHPC2007#, 2009#, 2020#, 3010#, 3018#, 3034#, 4025#, 4032#, 4033#, 4040#, 4041#, 4042#, 4043#"
+    },
+    {
+      "course_code": "PHPC4040",
+      "prefix_inferred": true,
+      "evidence": "CHPR4011, 4012, PHPC2007#, 2009#, 2020#, 3010#, 3018#, 3034#, 4025#, 4032#, 4033#, 4040#, 4041#, 4042#, 4043#"
+    },
+    {
+      "course_code": "PHPC4041",
+      "prefix_inferred": true,
+      "evidence": "CHPR4011, 4012, PHPC2007#, 2009#, 2020#, 3010#, 3018#, 3034#, 4025#, 4032#, 4033#, 4040#, 4041#, 4042#, 4043#"
+    },
+    {
+      "course_code": "PHPC4042",
+      "prefix_inferred": true,
+      "evidence": "CHPR4011, 4012, PHPC2007#, 2009#, 2020#, 3010#, 3018#, 3034#, 4025#, 4032#, 4033#, 4040#, 4041#, 4042#, 4043#"
+    },
+    {
+      "course_code": "PHPC4043",
+      "prefix_inferred": true,
+      "evidence": "CHPR4011, 4012, PHPC2007#, 2009#, 2020#, 3010#, 3018#, 3034#, 4025#, 4032#, 4033#, 4040#, 4041#, 4042#, 4043#"
+    },
+    {
+      "course_code": "ANTH4330",
+      "prefix_inferred": false,
+      "evidence": "ANTH4330#, GPAD3255#, SOCI3227#, SPED2540#, 4560#, 4570#"
+    },
+    {
+      "course_code": "GPAD3255",
+      "prefix_inferred": false,
+      "evidence": "ANTH4330#, GPAD3255#, SOCI3227#, SPED2540#, 4560#, 4570#"
+    },
+    {
+      "course_code": "SOCI3227",
+      "prefix_inferred": false,
+      "evidence": "ANTH4330#, GPAD3255#, SOCI3227#, SPED2540#, 4560#, 4570#"
+    },
+    {
+      "course_code": "SPED2540",
+      "prefix_inferred": false,
+      "evidence": "ANTH4330#, GPAD3255#, SOCI3227#, SPED2540#, 4560#, 4570#"
+    },
+    {
+      "course_code": "SPED4560",
+      "prefix_inferred": true,
+      "evidence": "ANTH4330#, GPAD3255#, SOCI3227#, SPED2540#, 4560#, 4570#"
+    },
+    {
+      "course_code": "SPED4570",
+      "prefix_inferred": true,
+      "evidence": "ANTH4330#, GPAD3255#, SOCI3227#, SPED2540#, 4560#, 4570#"
+    },
+    {
+      "course_code": "CHPR3001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CHPR3001, PHPC1001, 2015, 2017"
+    },
+    {
+      "course_code": "PHPC1001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CHPR3001, PHPC1001, 2015, 2017"
+    },
+    {
+      "course_code": "PHPC2015",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHPR3001, PHPC1001, 2015, 2017"
+    },
+    {
+      "course_code": "PHPC2017",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHPR3001, PHPC1001, 2015, 2017"
+    },
+    {
+      "course_code": "CHPR3002",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CHPR3002, 3008, 4002, PHPC1012, 1017"
+    },
+    {
+      "course_code": "CHPR3008",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHPR3002, 3008, 4002, PHPC1012, 1017"
+    },
+    {
+      "course_code": "CHPR4002",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHPR3002, 3008, 4002, PHPC1012, 1017"
+    },
+    {
+      "course_code": "PHPC1012",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CHPR3002, 3008, 4002, PHPC1012, 1017"
+    },
+    {
+      "course_code": "PHPC1017",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHPR3002, 3008, 4002, PHPC1012, 1017"
+    },
+    {
+      "course_code": "PHPC3010",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): PHPC3010 or 3018"
+    },
+    {
+      "course_code": "PHPC3018",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): PHPC3010 or 3018"
+    },
+    {
+      "course_code": "CHPR4003",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CHPR4003, 4008, 4901, GRON3211"
+    },
+    {
+      "course_code": "CHPR4008",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHPR4003, 4008, 4901, GRON3211"
+    },
+    {
+      "course_code": "CHPR4901",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHPR4003, 4008, 4901, GRON3211"
+    },
+    {
+      "course_code": "GRON3211",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CHPR4003, 4008, 4901, GRON3211"
+    },
+    {
+      "course_code": "CHPR4001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CHPR4001, 4004, 4005, 4902"
+    },
+    {
+      "course_code": "CHPR4004",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHPR4001, 4004, 4005, 4902"
+    },
+    {
+      "course_code": "CHPR4005",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHPR4001, 4004, 4005, 4902"
+    },
+    {
+      "course_code": "CHPR4902",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHPR4001, 4004, 4005, 4902"
+    },
+    {
+      "course_code": "CHPR3001",
+      "prefix_inferred": false,
+      "evidence": "CHPR3001"
+    },
+    {
+      "course_code": "CHPR3002",
+      "prefix_inferred": false,
+      "evidence": "CHPR3002"
+    },
+    {
+      "course_code": "CHPR3008",
+      "prefix_inferred": false,
+      "evidence": "CHPR3008"
+    },
+    {
+      "course_code": "CHPR4001",
+      "prefix_inferred": false,
+      "evidence": "CHPR4001"
+    },
+    {
+      "course_code": "CHPR4002",
+      "prefix_inferred": false,
+      "evidence": "CHPR4002"
+    },
+    {
+      "course_code": "CHPR4003",
+      "prefix_inferred": false,
+      "evidence": "CHPR4003"
+    },
+    {
+      "course_code": "CHPR4004",
+      "prefix_inferred": false,
+      "evidence": "CHPR4004"
+    },
+    {
+      "course_code": "CHPR4005",
+      "prefix_inferred": false,
+      "evidence": "CHPR4005"
+    },
+    {
+      "course_code": "CHPR4008",
+      "prefix_inferred": false,
+      "evidence": "CHPR4008"
+    },
+    {
+      "course_code": "CHPR4011",
+      "prefix_inferred": false,
+      "evidence": "CHPR4011"
+    },
+    {
+      "course_code": "CHPR4012",
+      "prefix_inferred": false,
+      "evidence": "CHPR4012"
+    },
+    {
+      "course_code": "CHPR4901",
+      "prefix_inferred": false,
+      "evidence": "CHPR4901"
+    },
+    {
+      "course_code": "CHPR4902",
+      "prefix_inferred": false,
+      "evidence": "CHPR4902"
+    }
+  ],
+  "course_code_aliases": [],
+  "source": {
+    "system": "CUHK CUSIS Browse Program Information",
+    "url": "https://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/tt_dsp_acad_prog.aspx",
+    "source_text_file": "data/cuhk/2024/programmes/B_Sc_in_Community_Health_Practice__Faculty_of_Medicine.txt",
+    "reused_duplicate_entry": false,
+    "reused_from_faculty": null
+  },
+  "raw_text": "\n\nBrowse Program Information\n\n\n\n\n\n\nAcademic Program:\tB.Sc. in Community Health Practice\nAcademic Year:\t2024\nLanguage:\t\nEnglish\nSimplified Chinese\nTraditional Chinese\n\n\n\nLearning Outcomes\nStudy Scheme\n \n\n\t\n\nCommunity Health Practice\n\nApplicable to students admitted in 2024-25\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\n\n\n \n\nMajor Programme Requirement (for Associate Degree or Higher Diploma holders admitted to senior-year places)\n\n \n\n\n\n\nStudents are required to complete a minimum of 52 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nRequired Courses:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nCHPR3001, 3002, 3008, 4001, 4002, 4003, 4004, 4005, 4008, 4901[a], 4902[a], GRON3211#, PHPC1001#, 1012#, 1017#, 2015#, 2017#\n\n\t\n\n46\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nElective Courses:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n6 units of courses chosen from the following, with a maximum of 1 course from Group B:\n\nGroup A:\n\nCHPR4011, 4012, PHPC2007#, 2009#, 2020#, 3010#, 3018#, 3034#, 4025#, 4032#, 4033#, 4040#, 4041#, 4042#, 4043#\n\nGroup B:\n\nANTH4330#, GPAD3255#, SOCI3227#, SPED2540#, 4560#, 4570#\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n52\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\nExplanatory Notes:\n\n\n\n\n1.\n\n\t\n\nCHPR courses at 2000 and above level as well as those labeled as # will be included in the calculation of Major GPA for honours classification.\n\n\n\n\n[a]\n\n\t\n\nCapstone courses\n\n\n\n\n \n\n\t\n\n \n\n\n\n\n \n\n\n\n\n \n\n\t\n\nRecommended Course Pattern\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\nMajor Required: CHPR3001, PHPC1001, 2015, 2017\n\nMajor Elective(s):\n\n\t\n\n \n\n11\n\n\n\n\n2nd term\n\nMajor Required: CHPR3002, 3008, 4002, PHPC1012, 1017\n\nMajor Elective(s): 0-3 units\n\n\t\n\n \n\n12\n\n0-3\n\n\n\n\nSummer Session\n\nMajor Elective(s): PHPC3010 or 3018\n\n\t\n\n \n\n0-3\n\n\n\n\nSecond Year of\n\nAttendance\n\n\t\n\n1st term\n\nMajor Required: CHPR4003, 4008, 4901, GRON3211\n\nMajor Elective(s):\n\n\t\n\n \n\n12\n\n \n\n\n\n\n2nd term\n\nMajor Required: CHPR4001, 4004, 4005, 4902\n\nMajor Elective(s): 0-3 units\n\n\t\n\n \n\n11\n\n0-3\n\n\n\n\nTotal: \n\n\t\n\n52\n\n\n\n\n \n\n\n\n\nCourse List\n\n \n\n\n\n\nCourse Code\n\n\t\n\nCourse Title\n\n\t\n\nUnit(s)\n\n\n\n\nCHPR3001\n\n\t\n\nContemporary Health Issues\n\n\t\n\n3\n\n\n\n\nCHPR3002\n\n\t\n\nHealth Education and Health Behaviours\n\n\t\n\n3\n\n\n\n\nCHPR3008\n\n\t\n\nFoundations of Health Promotion\n\n\t\n\n2\n\n\n\n\nCHPR4001\n\n\t\n\nSettings-Approach for Health Promotion\n\n\t\n\n2\n\n\n\n\nCHPR4002\n\n\t\n\nHealth Communication\n\n\t\n\n3\n\n\n\n\nCHPR4003\n\n\t\n\nResearch Methods in Community Health\n\n\t\n\n3\n\n\n\n\nCHPR4004\n\n\t\n\nManagement of Non-Governmental Organisations\n\n\t\n\n1\n\n\n\n\nCHPR4005\n\n\t\n\nSocial Marketing Methods\n\n\t\n\n3\n\n\n\n\nCHPR4008\n\n\t\n\nHealth Promotion Planning and Evaluation\n\n\t\n\n3\n\n\n\n\nCHPR4011\n\n\t\n\nFood Security: Global and Local Perspectives\n\n\t\n\n3\n\n\n\n\nCHPR4012\n\n\t\n\nMental Health as a Public Health Issue\n\n\t\n\n3\n\n\n\n\nCHPR4901\n\n\t\n\nPracticum in Community Health Practice I\n\n\t\n\n3\n\n\n\n\nCHPR4902\n\n\t\n\nPracticum in Community Health Practice II\n\n\t\n\n5\n\n \n\n \n\n \n\n\n \n\nStudy Scheme\n\n\nLearning Outcomes\n \n\n\t\n\n1.      Major Programme\n\nAt the end of the programme, students should be able to:\n\n \n\nK\n\n\t\n\n Knowledge outcomes\n\n\n\n\nK.1\n\n\t\n\nDescribe the fundamental concepts in community health\n\n\n\n\nK.2\n\n\t\n\nExplain the theoretical models and frameworks related to health promotion\n\n\n\n\nK.3\n\n\t\n\nDescribe the roles of individuals and families with self-care and self-management skills, and the community in diseases prevention and health promotion\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nS\n\n\t\n\nSkill outcomes\n\n\n\n\nS.1\n\n\t\n\nAssess individual and community needs for health promotion\n\n\n\n\nS.2\n\n\t\n\nPlan effective health promotion programme\n\n\n\n\nS.3\n\n\t\n\nImplement health promotion plan\n\n\n\n\nS.4\n\n\t\n\nConduct evaluation and research related to health promotion\n\n\n\n\nS.5\n\n\t\n\nAdminister and manage health promotion programme\n\n\n\n\nS.6\n\n\t\n\nServe as a health promotion resource person\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nV\n\n\t\n\nValue outcomes\n\n\n\n\nV.1\n\n\t\n\nDemonstrate respect for cultural diversity and sensitivity\n\n\n\n\nV.2\n\n\t\n\nDemonstrate dedication to sustainable development\n\n\n\n\nV.3\n\n\t\n\nDemonstrate care for social equity and justice\n\n \n\n \n\n\n"
+}

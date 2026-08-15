@@ -1,0 +1,2555 @@
+{
+  "programme_id": "B_S_Sc_in_Economics__Faculty_of_Social_Science",
+  "academic_program": "B.S.Sc. in Economics",
+  "faculty": "Faculty of Social Science",
+  "academic_year": 2024,
+  "admission_cohort": "2024-25",
+  "requirement_summary": {
+    "minimum_units_as_printed": "a minimum of 72 units",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Faculty Package",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "ECON2011",
+            "prefix_inferred": false,
+            "evidence": "ECON2011 and any two courses, offered by two different Programmes/Departments/Schools, chosen from the following:"
+          },
+          {
+            "course_code": "ARCH1001",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "ARCH1002",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "ARCH1003",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "COMM1110",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "COMM1120",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "COMM1150",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "COMM1500",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "DSPS1001",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "DSPS1003",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "DSPS1004",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "GLSD1001",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "GPAD1020",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "GPAD1076",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "GPAD1077",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "GRMD1302",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "GRMD1401",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "GRMD1402",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "PSYC1000",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "PSYC1630",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "SOCI1001",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "SOCI1201",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "SOSC1001",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "SOSC1002",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "SOSC1003",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "SOWK1001",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "SOWK1113",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "SOWK1114",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "URSP1001",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "URSP1002",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          }
+        ],
+        "raw_text": "9\nECON2011 and any two courses, offered by two different Programmes/Departments/Schools, chosen from the following:\nARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+      },
+      {
+        "number": 2,
+        "title": "Required Courses",
+        "units_as_printed": "27",
+        "course_mentions": [
+          {
+            "course_code": "ECON1101",
+            "prefix_inferred": false,
+            "evidence": "ECON1101[a], 1111, 1902, 2021, 2121, 2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+          },
+          {
+            "course_code": "ECON1111",
+            "prefix_inferred": true,
+            "evidence": "ECON1101[a], 1111, 1902, 2021, 2121, 2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+          },
+          {
+            "course_code": "ECON1902",
+            "prefix_inferred": true,
+            "evidence": "ECON1101[a], 1111, 1902, 2021, 2121, 2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+          },
+          {
+            "course_code": "ECON2021",
+            "prefix_inferred": true,
+            "evidence": "ECON1101[a], 1111, 1902, 2021, 2121, 2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+          },
+          {
+            "course_code": "ECON2121",
+            "prefix_inferred": true,
+            "evidence": "ECON1101[a], 1111, 1902, 2021, 2121, 2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+          },
+          {
+            "course_code": "ECON2901",
+            "prefix_inferred": true,
+            "evidence": "ECON1101[a], 1111, 1902, 2021, 2121, 2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+          },
+          {
+            "course_code": "ECON3011",
+            "prefix_inferred": true,
+            "evidence": "ECON1101[a], 1111, 1902, 2021, 2121, 2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+          },
+          {
+            "course_code": "ECON3021",
+            "prefix_inferred": true,
+            "evidence": "ECON1101[a], 1111, 1902, 2021, 2121, 2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+          },
+          {
+            "course_code": "ECON3121",
+            "prefix_inferred": true,
+            "evidence": "ECON1101[a], 1111, 1902, 2021, 2121, 2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+          },
+          {
+            "course_code": "ECON4901",
+            "prefix_inferred": true,
+            "evidence": "ECON1101[a], 1111, 1902, 2021, 2121, 2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+          },
+          {
+            "course_code": "ECON4903",
+            "prefix_inferred": true,
+            "evidence": "ECON1101[a], 1111, 1902, 2021, 2121, 2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+          }
+        ],
+        "raw_text": "27\nECON1101[a], 1111, 1902, 2021, 2121, 2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+      },
+      {
+        "number": 3,
+        "title": "Elective Courses[b][c]",
+        "units_as_printed": "36",
+        "course_mentions": [
+          {
+            "course_code": "ECON4010",
+            "prefix_inferred": false,
+            "evidence": "ECON4010 and 4020"
+          },
+          {
+            "course_code": "ECON4020",
+            "prefix_inferred": true,
+            "evidence": "ECON4010 and 4020"
+          },
+          {
+            "course_code": "ECON3160",
+            "prefix_inferred": false,
+            "evidence": "At least 3 units from ECON3160, 4110, 4120, 4910 and 4920"
+          },
+          {
+            "course_code": "ECON4110",
+            "prefix_inferred": true,
+            "evidence": "At least 3 units from ECON3160, 4110, 4120, 4910 and 4920"
+          },
+          {
+            "course_code": "ECON4120",
+            "prefix_inferred": true,
+            "evidence": "At least 3 units from ECON3160, 4110, 4120, 4910 and 4920"
+          },
+          {
+            "course_code": "ECON4910",
+            "prefix_inferred": true,
+            "evidence": "At least 3 units from ECON3160, 4110, 4120, 4910 and 4920"
+          },
+          {
+            "course_code": "ECON4920",
+            "prefix_inferred": true,
+            "evidence": "At least 3 units from ECON3160, 4110, 4120, 4910 and 4920"
+          },
+          {
+            "course_code": "ECON3410",
+            "prefix_inferred": false,
+            "evidence": "ECON3410 and 3420"
+          },
+          {
+            "course_code": "ECON3420",
+            "prefix_inferred": true,
+            "evidence": "ECON3410 and 3420"
+          },
+          {
+            "course_code": "ECON3140",
+            "prefix_inferred": false,
+            "evidence": "At least 9 units from ECON3140, 3520, 3540, 3580, 3620, 4120, 4450 and 4470"
+          },
+          {
+            "course_code": "ECON3520",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3140, 3520, 3540, 3580, 3620, 4120, 4450 and 4470"
+          },
+          {
+            "course_code": "ECON3540",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3140, 3520, 3540, 3580, 3620, 4120, 4450 and 4470"
+          },
+          {
+            "course_code": "ECON3580",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3140, 3520, 3540, 3580, 3620, 4120, 4450 and 4470"
+          },
+          {
+            "course_code": "ECON3620",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3140, 3520, 3540, 3580, 3620, 4120, 4450 and 4470"
+          },
+          {
+            "course_code": "ECON4120",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3140, 3520, 3540, 3580, 3620, 4120, 4450 and 4470"
+          },
+          {
+            "course_code": "ECON4450",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3140, 3520, 3540, 3580, 3620, 4120, 4450 and 4470"
+          },
+          {
+            "course_code": "ECON4470",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3140, 3520, 3540, 3580, 3620, 4120, 4450 and 4470"
+          },
+          {
+            "course_code": "ECON3480",
+            "prefix_inferred": false,
+            "evidence": "ECON3480 and 3590"
+          },
+          {
+            "course_code": "ECON3590",
+            "prefix_inferred": true,
+            "evidence": "ECON3480 and 3590"
+          },
+          {
+            "course_code": "ECON3320",
+            "prefix_inferred": false,
+            "evidence": "At least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120"
+          },
+          {
+            "course_code": "ECON3380",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120"
+          },
+          {
+            "course_code": "ECON3430",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120"
+          },
+          {
+            "course_code": "ECON3470",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120"
+          },
+          {
+            "course_code": "ECON3570",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120"
+          },
+          {
+            "course_code": "ECON3610",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120"
+          },
+          {
+            "course_code": "ECON3620",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120"
+          },
+          {
+            "course_code": "ECON3630",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120"
+          },
+          {
+            "course_code": "ECON4120",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120"
+          },
+          {
+            "course_code": "ECON3310",
+            "prefix_inferred": false,
+            "evidence": "ECON3310 and 3460"
+          },
+          {
+            "course_code": "ECON3460",
+            "prefix_inferred": true,
+            "evidence": "ECON3310 and 3460"
+          },
+          {
+            "course_code": "ECON3250",
+            "prefix_inferred": false,
+            "evidence": "At least 9 units from ECON3250, 3350, 3370 and 3580"
+          },
+          {
+            "course_code": "ECON3350",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3250, 3350, 3370 and 3580"
+          },
+          {
+            "course_code": "ECON3370",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3250, 3350, 3370 and 3580"
+          },
+          {
+            "course_code": "ECON3580",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3250, 3350, 3370 and 3580"
+          },
+          {
+            "course_code": "ECON4120",
+            "prefix_inferred": false,
+            "evidence": "ECON4120, 4130 and 4140"
+          },
+          {
+            "course_code": "ECON4130",
+            "prefix_inferred": true,
+            "evidence": "ECON4120, 4130 and 4140"
+          },
+          {
+            "course_code": "ECON4140",
+            "prefix_inferred": true,
+            "evidence": "ECON4120, 4130 and 4140"
+          },
+          {
+            "course_code": "CSCI3320",
+            "prefix_inferred": false,
+            "evidence": "At least 6 units from CSCI3320, 4190, IERG3280/ESTR3302, SEEM4630 and 4730"
+          },
+          {
+            "course_code": "CSCI4190",
+            "prefix_inferred": true,
+            "evidence": "At least 6 units from CSCI3320, 4190, IERG3280/ESTR3302, SEEM4630 and 4730"
+          },
+          {
+            "course_code": "IERG3280",
+            "prefix_inferred": false,
+            "evidence": "At least 6 units from CSCI3320, 4190, IERG3280/ESTR3302, SEEM4630 and 4730"
+          },
+          {
+            "course_code": "ESTR3302",
+            "prefix_inferred": false,
+            "evidence": "At least 6 units from CSCI3320, 4190, IERG3280/ESTR3302, SEEM4630 and 4730"
+          },
+          {
+            "course_code": "SEEM4630",
+            "prefix_inferred": false,
+            "evidence": "At least 6 units from CSCI3320, 4190, IERG3280/ESTR3302, SEEM4630 and 4730"
+          },
+          {
+            "course_code": "SEEM4730",
+            "prefix_inferred": true,
+            "evidence": "At least 6 units from CSCI3320, 4190, IERG3280/ESTR3302, SEEM4630 and 4730"
+          }
+        ],
+        "raw_text": "36\n36 units of elective ECON courses at 3000 or above level\nTotal:\n72\nConcentration Area:\nStudents may choose to declare one, or up to two concentration areas by taking at least 15 units in the relevant area(s):\nEconomic Theory\n(a)\nRequired Courses:\n6\nECON4010 and 4020\n(b)\nElective Courses:\n9\n(i)\nAt least 3 units from ECON3160, 4110, 4120, 4910 and 4920\n(ii)\nup to 6 units MATH courses at 3000 or above level[d]\nFinancial Economics\n(a)\nRequired Courses:\n6\nECON3410 and 3420\n(b)\nElective Courses:\n9\nAt least 9 units from ECON3140, 3520, 3540, 3580, 3620, 4120, 4450 and 4470\nBusiness Economics\n(a)\nRequired Courses:\n6\nECON3480 and 3590\n(b)\nElective Courses:\n9\nAt least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120\nChinese Economy\n(a)\nRequired Courses:\n6\nECON3310 and 3460\n(b)\nElective Courses:\n9\nAt least 9 units from ECON3250, 3350, 3370 and 3580\nData Analytics\n(a)\nRequired Courses:\n9\nECON4120, 4130 and 4140\n(b)\nElective Courses:\n6\nAt least 6 units from CSCI3320, 4190, IERG3280/ESTR3302, SEEM4630 and 4730\nFor students taking two concentration areas, the courses must not overlap and count towards both concentration areas. In addition to the courses listed above, the Department may approve the inclusion of relevant selected topics courses or courses at 5000 or above level in the concentration areas.\nExplanatory Notes:"
+      },
+      {
+        "number": 1,
+        "title": "Required Courses",
+        "units_as_printed": "15",
+        "course_mentions": [
+          {
+            "course_code": "ECON2901",
+            "prefix_inferred": false,
+            "evidence": "ECON2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+          },
+          {
+            "course_code": "ECON3011",
+            "prefix_inferred": true,
+            "evidence": "ECON2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+          },
+          {
+            "course_code": "ECON3021",
+            "prefix_inferred": true,
+            "evidence": "ECON2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+          },
+          {
+            "course_code": "ECON3121",
+            "prefix_inferred": true,
+            "evidence": "ECON2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+          },
+          {
+            "course_code": "ECON4901",
+            "prefix_inferred": true,
+            "evidence": "ECON2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+          },
+          {
+            "course_code": "ECON4903",
+            "prefix_inferred": true,
+            "evidence": "ECON2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+          },
+          {
+            "course_code": "ECON1101",
+            "prefix_inferred": false,
+            "evidence": "ECON1101, 1111, 2011, 2021 and 2121"
+          },
+          {
+            "course_code": "ECON1111",
+            "prefix_inferred": true,
+            "evidence": "ECON1101, 1111, 2011, 2021 and 2121"
+          },
+          {
+            "course_code": "ECON2011",
+            "prefix_inferred": true,
+            "evidence": "ECON1101, 1111, 2011, 2021 and 2121"
+          },
+          {
+            "course_code": "ECON2021",
+            "prefix_inferred": true,
+            "evidence": "ECON1101, 1111, 2011, 2021 and 2121"
+          },
+          {
+            "course_code": "ECON2121",
+            "prefix_inferred": true,
+            "evidence": "ECON1101, 1111, 2011, 2021 and 2121"
+          }
+        ],
+        "raw_text": "(a)\nECON2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)\n15\n(b)\nAt least 8 units from the following[a]:\n8\nECON1101, 1111, 2011, 2021 and 2121"
+      },
+      {
+        "number": 2,
+        "title": "Elective Courses[b][c]",
+        "units_as_printed": "33",
+        "course_mentions": [
+          {
+            "course_code": "ECON4010",
+            "prefix_inferred": false,
+            "evidence": "ECON4010 and 4020"
+          },
+          {
+            "course_code": "ECON4020",
+            "prefix_inferred": true,
+            "evidence": "ECON4010 and 4020"
+          },
+          {
+            "course_code": "ECON3160",
+            "prefix_inferred": false,
+            "evidence": "At least 3 units from ECON3160, 4110, 4120, 4910 and 4920"
+          },
+          {
+            "course_code": "ECON4110",
+            "prefix_inferred": true,
+            "evidence": "At least 3 units from ECON3160, 4110, 4120, 4910 and 4920"
+          },
+          {
+            "course_code": "ECON4120",
+            "prefix_inferred": true,
+            "evidence": "At least 3 units from ECON3160, 4110, 4120, 4910 and 4920"
+          },
+          {
+            "course_code": "ECON4910",
+            "prefix_inferred": true,
+            "evidence": "At least 3 units from ECON3160, 4110, 4120, 4910 and 4920"
+          },
+          {
+            "course_code": "ECON4920",
+            "prefix_inferred": true,
+            "evidence": "At least 3 units from ECON3160, 4110, 4120, 4910 and 4920"
+          },
+          {
+            "course_code": "ECON3410",
+            "prefix_inferred": false,
+            "evidence": "ECON3410 and 3420"
+          },
+          {
+            "course_code": "ECON3420",
+            "prefix_inferred": true,
+            "evidence": "ECON3410 and 3420"
+          },
+          {
+            "course_code": "ECON3140",
+            "prefix_inferred": false,
+            "evidence": "At least 9 units from ECON3140, 3520, 3540, 3580, 3620, 4120, 4450 and 4470"
+          },
+          {
+            "course_code": "ECON3520",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3140, 3520, 3540, 3580, 3620, 4120, 4450 and 4470"
+          },
+          {
+            "course_code": "ECON3540",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3140, 3520, 3540, 3580, 3620, 4120, 4450 and 4470"
+          },
+          {
+            "course_code": "ECON3580",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3140, 3520, 3540, 3580, 3620, 4120, 4450 and 4470"
+          },
+          {
+            "course_code": "ECON3620",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3140, 3520, 3540, 3580, 3620, 4120, 4450 and 4470"
+          },
+          {
+            "course_code": "ECON4120",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3140, 3520, 3540, 3580, 3620, 4120, 4450 and 4470"
+          },
+          {
+            "course_code": "ECON4450",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3140, 3520, 3540, 3580, 3620, 4120, 4450 and 4470"
+          },
+          {
+            "course_code": "ECON4470",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3140, 3520, 3540, 3580, 3620, 4120, 4450 and 4470"
+          },
+          {
+            "course_code": "ECON3480",
+            "prefix_inferred": false,
+            "evidence": "ECON3480 and 3590"
+          },
+          {
+            "course_code": "ECON3590",
+            "prefix_inferred": true,
+            "evidence": "ECON3480 and 3590"
+          },
+          {
+            "course_code": "ECON3320",
+            "prefix_inferred": false,
+            "evidence": "At least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120"
+          },
+          {
+            "course_code": "ECON3380",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120"
+          },
+          {
+            "course_code": "ECON3430",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120"
+          },
+          {
+            "course_code": "ECON3470",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120"
+          },
+          {
+            "course_code": "ECON3570",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120"
+          },
+          {
+            "course_code": "ECON3610",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120"
+          },
+          {
+            "course_code": "ECON3620",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120"
+          },
+          {
+            "course_code": "ECON3630",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120"
+          },
+          {
+            "course_code": "ECON4120",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120"
+          },
+          {
+            "course_code": "ECON3310",
+            "prefix_inferred": false,
+            "evidence": "ECON3310 and 3460"
+          },
+          {
+            "course_code": "ECON3460",
+            "prefix_inferred": true,
+            "evidence": "ECON3310 and 3460"
+          },
+          {
+            "course_code": "ECON3250",
+            "prefix_inferred": false,
+            "evidence": "At least 9 units from ECON3250, 3350, 3370 and 3580"
+          },
+          {
+            "course_code": "ECON3350",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3250, 3350, 3370 and 3580"
+          },
+          {
+            "course_code": "ECON3370",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3250, 3350, 3370 and 3580"
+          },
+          {
+            "course_code": "ECON3580",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3250, 3350, 3370 and 3580"
+          },
+          {
+            "course_code": "ECON4120",
+            "prefix_inferred": false,
+            "evidence": "ECON4120, 4130 and 4140"
+          },
+          {
+            "course_code": "ECON4130",
+            "prefix_inferred": true,
+            "evidence": "ECON4120, 4130 and 4140"
+          },
+          {
+            "course_code": "ECON4140",
+            "prefix_inferred": true,
+            "evidence": "ECON4120, 4130 and 4140"
+          },
+          {
+            "course_code": "CSCI3320",
+            "prefix_inferred": false,
+            "evidence": "At least 6 units from CSCI3320, 4190, IERG3280/ESTR3302, SEEM4630 and 4730"
+          },
+          {
+            "course_code": "CSCI4190",
+            "prefix_inferred": true,
+            "evidence": "At least 6 units from CSCI3320, 4190, IERG3280/ESTR3302, SEEM4630 and 4730"
+          },
+          {
+            "course_code": "IERG3280",
+            "prefix_inferred": false,
+            "evidence": "At least 6 units from CSCI3320, 4190, IERG3280/ESTR3302, SEEM4630 and 4730"
+          },
+          {
+            "course_code": "ESTR3302",
+            "prefix_inferred": false,
+            "evidence": "At least 6 units from CSCI3320, 4190, IERG3280/ESTR3302, SEEM4630 and 4730"
+          },
+          {
+            "course_code": "SEEM4630",
+            "prefix_inferred": false,
+            "evidence": "At least 6 units from CSCI3320, 4190, IERG3280/ESTR3302, SEEM4630 and 4730"
+          },
+          {
+            "course_code": "SEEM4730",
+            "prefix_inferred": true,
+            "evidence": "At least 6 units from CSCI3320, 4190, IERG3280/ESTR3302, SEEM4630 and 4730"
+          }
+        ],
+        "raw_text": "33\n33 units of elective ECON courses at 3000 or above level\nTotal:\n56\nConcentration Area:\nStudents may choose to declare one, or up to two concentration areas by taking at least 15 units in the relevant area(s):\nEconomic Theory\n(a)\nRequired Courses:\n6\nECON4010 and 4020\n(b)\nElective Courses:\n9\n(i)\nAt least 3 units from ECON3160, 4110, 4120, 4910 and 4920\n(ii)\nup to 6 units MATH courses at 3000 or above level[d]\nFinancial Economics\n(a)\nRequired Courses:\n6\nECON3410 and 3420\n(b)\nElective Courses:\n9\nAt least 9 units from ECON3140, 3520, 3540, 3580, 3620, 4120, 4450 and 4470\nBusiness Economics\n(a)\nRequired Courses:\n6\nECON3480 and 3590\n(b)\nElective Courses:\n9\nAt least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120\nChinese Economy\n(a)\nRequired Courses:\n6\nECON3310 and 3460\n(b)\nElective Courses:\n9\nAt least 9 units from ECON3250, 3350, 3370 and 3580\nData Analytics\n(a)\nRequired Courses:\n9\nECON4120, 4130 and 4140\n(b)\nElective Courses:\n6\nAt least 6 units from CSCI3320, 4190, IERG3280/ESTR3302, SEEM4630 and 4730\nFor students taking two concentration areas, the courses must not overlap and count towards both concentration areas. In addition to the courses listed above, the Department may approve the inclusion of relevant selected topics courses or courses at 5000 or above level in the concentration areas.\nExplanatory Notes:"
+      },
+      {
+        "number": 1,
+        "title": "Required Courses",
+        "units_as_printed": "15",
+        "course_mentions": [
+          {
+            "course_code": "ECON2901",
+            "prefix_inferred": false,
+            "evidence": "ECON2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+          },
+          {
+            "course_code": "ECON3011",
+            "prefix_inferred": true,
+            "evidence": "ECON2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+          },
+          {
+            "course_code": "ECON3021",
+            "prefix_inferred": true,
+            "evidence": "ECON2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+          },
+          {
+            "course_code": "ECON3121",
+            "prefix_inferred": true,
+            "evidence": "ECON2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+          },
+          {
+            "course_code": "ECON4901",
+            "prefix_inferred": true,
+            "evidence": "ECON2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+          },
+          {
+            "course_code": "ECON4903",
+            "prefix_inferred": true,
+            "evidence": "ECON2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+          },
+          {
+            "course_code": "ECON1101",
+            "prefix_inferred": false,
+            "evidence": "ECON1101, 1111, 2011, 2021 and 2121"
+          },
+          {
+            "course_code": "ECON1111",
+            "prefix_inferred": true,
+            "evidence": "ECON1101, 1111, 2011, 2021 and 2121"
+          },
+          {
+            "course_code": "ECON2011",
+            "prefix_inferred": true,
+            "evidence": "ECON1101, 1111, 2011, 2021 and 2121"
+          },
+          {
+            "course_code": "ECON2021",
+            "prefix_inferred": true,
+            "evidence": "ECON1101, 1111, 2011, 2021 and 2121"
+          },
+          {
+            "course_code": "ECON2121",
+            "prefix_inferred": true,
+            "evidence": "ECON1101, 1111, 2011, 2021 and 2121"
+          }
+        ],
+        "raw_text": "(a)\nECON2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)\n15\n(b)\nAt least 3 units from the following[a]:\n3\nECON1101, 1111, 2011, 2021 and 2121"
+      },
+      {
+        "number": 2,
+        "title": "Elective Courses[b][c]",
+        "units_as_printed": "33",
+        "course_mentions": [
+          {
+            "course_code": "ECON4010",
+            "prefix_inferred": false,
+            "evidence": "ECON4010 and 4020"
+          },
+          {
+            "course_code": "ECON4020",
+            "prefix_inferred": true,
+            "evidence": "ECON4010 and 4020"
+          },
+          {
+            "course_code": "ECON3160",
+            "prefix_inferred": false,
+            "evidence": "At least 3 units from ECON3160, 4110, 4120, 4910 and 4920"
+          },
+          {
+            "course_code": "ECON4110",
+            "prefix_inferred": true,
+            "evidence": "At least 3 units from ECON3160, 4110, 4120, 4910 and 4920"
+          },
+          {
+            "course_code": "ECON4120",
+            "prefix_inferred": true,
+            "evidence": "At least 3 units from ECON3160, 4110, 4120, 4910 and 4920"
+          },
+          {
+            "course_code": "ECON4910",
+            "prefix_inferred": true,
+            "evidence": "At least 3 units from ECON3160, 4110, 4120, 4910 and 4920"
+          },
+          {
+            "course_code": "ECON4920",
+            "prefix_inferred": true,
+            "evidence": "At least 3 units from ECON3160, 4110, 4120, 4910 and 4920"
+          },
+          {
+            "course_code": "ECON3410",
+            "prefix_inferred": false,
+            "evidence": "ECON3410 and 3420"
+          },
+          {
+            "course_code": "ECON3420",
+            "prefix_inferred": true,
+            "evidence": "ECON3410 and 3420"
+          },
+          {
+            "course_code": "ECON3140",
+            "prefix_inferred": false,
+            "evidence": "At least 9 units from ECON3140, 3520, 3540, 3580, 3620, 4120, 4450 and 4470"
+          },
+          {
+            "course_code": "ECON3520",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3140, 3520, 3540, 3580, 3620, 4120, 4450 and 4470"
+          },
+          {
+            "course_code": "ECON3540",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3140, 3520, 3540, 3580, 3620, 4120, 4450 and 4470"
+          },
+          {
+            "course_code": "ECON3580",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3140, 3520, 3540, 3580, 3620, 4120, 4450 and 4470"
+          },
+          {
+            "course_code": "ECON3620",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3140, 3520, 3540, 3580, 3620, 4120, 4450 and 4470"
+          },
+          {
+            "course_code": "ECON4120",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3140, 3520, 3540, 3580, 3620, 4120, 4450 and 4470"
+          },
+          {
+            "course_code": "ECON4450",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3140, 3520, 3540, 3580, 3620, 4120, 4450 and 4470"
+          },
+          {
+            "course_code": "ECON4470",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3140, 3520, 3540, 3580, 3620, 4120, 4450 and 4470"
+          },
+          {
+            "course_code": "ECON3480",
+            "prefix_inferred": false,
+            "evidence": "ECON3480 and 3590"
+          },
+          {
+            "course_code": "ECON3590",
+            "prefix_inferred": true,
+            "evidence": "ECON3480 and 3590"
+          },
+          {
+            "course_code": "ECON3320",
+            "prefix_inferred": false,
+            "evidence": "At least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120"
+          },
+          {
+            "course_code": "ECON3380",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120"
+          },
+          {
+            "course_code": "ECON3430",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120"
+          },
+          {
+            "course_code": "ECON3470",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120"
+          },
+          {
+            "course_code": "ECON3570",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120"
+          },
+          {
+            "course_code": "ECON3610",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120"
+          },
+          {
+            "course_code": "ECON3620",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120"
+          },
+          {
+            "course_code": "ECON3630",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120"
+          },
+          {
+            "course_code": "ECON4120",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120"
+          },
+          {
+            "course_code": "ECON3310",
+            "prefix_inferred": false,
+            "evidence": "ECON3310 and 3460"
+          },
+          {
+            "course_code": "ECON3460",
+            "prefix_inferred": true,
+            "evidence": "ECON3310 and 3460"
+          },
+          {
+            "course_code": "ECON3250",
+            "prefix_inferred": false,
+            "evidence": "At least 9 units from ECON3250, 3350, 3370 and 3580"
+          },
+          {
+            "course_code": "ECON3350",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3250, 3350, 3370 and 3580"
+          },
+          {
+            "course_code": "ECON3370",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3250, 3350, 3370 and 3580"
+          },
+          {
+            "course_code": "ECON3580",
+            "prefix_inferred": true,
+            "evidence": "At least 9 units from ECON3250, 3350, 3370 and 3580"
+          },
+          {
+            "course_code": "ECON4120",
+            "prefix_inferred": false,
+            "evidence": "ECON4120, 4130 and 4140"
+          },
+          {
+            "course_code": "ECON4130",
+            "prefix_inferred": true,
+            "evidence": "ECON4120, 4130 and 4140"
+          },
+          {
+            "course_code": "ECON4140",
+            "prefix_inferred": true,
+            "evidence": "ECON4120, 4130 and 4140"
+          },
+          {
+            "course_code": "CSCI3320",
+            "prefix_inferred": false,
+            "evidence": "At least 6 units from CSCI3320, 4190, IERG3280/ESTR3302, SEEM4630 and 4730"
+          },
+          {
+            "course_code": "CSCI4190",
+            "prefix_inferred": true,
+            "evidence": "At least 6 units from CSCI3320, 4190, IERG3280/ESTR3302, SEEM4630 and 4730"
+          },
+          {
+            "course_code": "IERG3280",
+            "prefix_inferred": false,
+            "evidence": "At least 6 units from CSCI3320, 4190, IERG3280/ESTR3302, SEEM4630 and 4730"
+          },
+          {
+            "course_code": "ESTR3302",
+            "prefix_inferred": false,
+            "evidence": "At least 6 units from CSCI3320, 4190, IERG3280/ESTR3302, SEEM4630 and 4730"
+          },
+          {
+            "course_code": "SEEM4630",
+            "prefix_inferred": false,
+            "evidence": "At least 6 units from CSCI3320, 4190, IERG3280/ESTR3302, SEEM4630 and 4730"
+          },
+          {
+            "course_code": "SEEM4730",
+            "prefix_inferred": true,
+            "evidence": "At least 6 units from CSCI3320, 4190, IERG3280/ESTR3302, SEEM4630 and 4730"
+          }
+        ],
+        "raw_text": "33\n33 units of elective ECON courses at 3000 or above level\nTotal:\n51\nConcentration Area:\nStudents may choose to declare one, or up to two concentration areas by taking at least 15 units in the relevant area(s):\nEconomic Theory\n(a)\nRequired Courses:\n6\nECON4010 and 4020\n(b)\nElective Courses:\n9\n(i)\nAt least 3 units from ECON3160, 4110, 4120, 4910 and 4920\n(ii)\nup to 6 units MATH courses at 3000 or above level[d]\nFinancial Economics\n(a)\nRequired Courses:\n6\nECON3410 and 3420\n(b)\nElective Courses:\n9\nAt least 9 units from ECON3140, 3520, 3540, 3580, 3620, 4120, 4450 and 4470\nBusiness Economics\n(a)\nRequired Courses:\n6\nECON3480 and 3590\n(b)\nElective Courses:\n9\nAt least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120\nChinese Economy\n(a)\nRequired Courses:\n6\nECON3310 and 3460\n(b)\nElective Courses:\n9\nAt least 9 units from ECON3250, 3350, 3370 and 3580\nData Analytics\n(a)\nRequired courses:\n9\nECON4120, 4130 and 4140\n(b)\nElective courses:\n6\nAt least 6 units from CSCI3320, 4190, IERG3280/ESTR3302, SEEM4630 and 4730\nFor students taking two concentration areas, the courses must not overlap and count towards both concentration areas. In addition to the courses listed above, the Department may approve the inclusion of relevant selected topics courses or courses at 5000 or above level in the concentration areas.\nExplanatory Notes:"
+      },
+      {
+        "number": 1,
+        "title": "Required Courses[a]",
+        "units_as_printed": "6",
+        "course_mentions": [
+          {
+            "course_code": "ECON2011",
+            "prefix_inferred": false,
+            "evidence": "ECON2011, 2021"
+          },
+          {
+            "course_code": "ECON2021",
+            "prefix_inferred": true,
+            "evidence": "ECON2011, 2021"
+          }
+        ],
+        "raw_text": "6\nECON2011, 2021"
+      },
+      {
+        "number": 2,
+        "title": "Elective Courses",
+        "units_as_printed": "12",
+        "course_mentions": [
+          {
+            "course_code": "DOTE1030",
+            "prefix_inferred": false,
+            "evidence": "Students who have passed DOTE1030 are exempted from ECON2011, in which case ECON2011 is to be replaced by any ECON course at 3000 or above level."
+          },
+          {
+            "course_code": "ECON2011",
+            "prefix_inferred": false,
+            "evidence": "Students who have passed DOTE1030 are exempted from ECON2011, in which case ECON2011 is to be replaced by any ECON course at 3000 or above level."
+          },
+          {
+            "course_code": "DOTE1040",
+            "prefix_inferred": false,
+            "evidence": "Students who have passed DOTE1040 are exempted from ECON2021, in which case ECON2021 is to be replaced by any ECON course at 3000 or above level."
+          },
+          {
+            "course_code": "ECON2021",
+            "prefix_inferred": false,
+            "evidence": "Students who have passed DOTE1040 are exempted from ECON2021, in which case ECON2021 is to be replaced by any ECON course at 3000 or above level."
+          },
+          {
+            "course_code": "ECON1010",
+            "prefix_inferred": false,
+            "evidence": "ECON1010"
+          },
+          {
+            "course_code": "ECON1101",
+            "prefix_inferred": false,
+            "evidence": "ECON1101"
+          },
+          {
+            "course_code": "ECON1111",
+            "prefix_inferred": false,
+            "evidence": "ECON1111"
+          },
+          {
+            "course_code": "ECON1210",
+            "prefix_inferred": false,
+            "evidence": "ECON1210"
+          },
+          {
+            "course_code": "ECON1220",
+            "prefix_inferred": false,
+            "evidence": "ECON1220"
+          },
+          {
+            "course_code": "ECON1310",
+            "prefix_inferred": false,
+            "evidence": "ECON1310"
+          },
+          {
+            "course_code": "ECON1420",
+            "prefix_inferred": false,
+            "evidence": "ECON1420"
+          },
+          {
+            "course_code": "ECON1902",
+            "prefix_inferred": false,
+            "evidence": "ECON1902"
+          },
+          {
+            "course_code": "ECON2011",
+            "prefix_inferred": false,
+            "evidence": "ECON2011"
+          },
+          {
+            "course_code": "ECON2021",
+            "prefix_inferred": false,
+            "evidence": "ECON2021"
+          },
+          {
+            "course_code": "ECON2121",
+            "prefix_inferred": false,
+            "evidence": "ECON2121"
+          },
+          {
+            "course_code": "ECON2901",
+            "prefix_inferred": false,
+            "evidence": "ECON2901"
+          },
+          {
+            "course_code": "ECON3011",
+            "prefix_inferred": false,
+            "evidence": "ECON3011"
+          },
+          {
+            "course_code": "ECON3021",
+            "prefix_inferred": false,
+            "evidence": "ECON3021"
+          },
+          {
+            "course_code": "ECON3121",
+            "prefix_inferred": false,
+            "evidence": "ECON3121"
+          },
+          {
+            "course_code": "ECON3140",
+            "prefix_inferred": false,
+            "evidence": "ECON3140"
+          },
+          {
+            "course_code": "ECON3150",
+            "prefix_inferred": false,
+            "evidence": "ECON3150"
+          },
+          {
+            "course_code": "ECON3160",
+            "prefix_inferred": false,
+            "evidence": "ECON3160"
+          },
+          {
+            "course_code": "ECON3230",
+            "prefix_inferred": false,
+            "evidence": "ECON3230"
+          },
+          {
+            "course_code": "ECON3240",
+            "prefix_inferred": false,
+            "evidence": "ECON3240"
+          },
+          {
+            "course_code": "ECON3250",
+            "prefix_inferred": false,
+            "evidence": "ECON3250"
+          },
+          {
+            "course_code": "ECON3260",
+            "prefix_inferred": false,
+            "evidence": "ECON3260"
+          },
+          {
+            "course_code": "ECON3310",
+            "prefix_inferred": false,
+            "evidence": "ECON3310"
+          },
+          {
+            "course_code": "ECON3320",
+            "prefix_inferred": false,
+            "evidence": "ECON3320"
+          },
+          {
+            "course_code": "ECON3350",
+            "prefix_inferred": false,
+            "evidence": "ECON3350"
+          },
+          {
+            "course_code": "ECON3360",
+            "prefix_inferred": false,
+            "evidence": "ECON3360"
+          },
+          {
+            "course_code": "ECON3370",
+            "prefix_inferred": false,
+            "evidence": "ECON3370"
+          },
+          {
+            "course_code": "ECON3380",
+            "prefix_inferred": false,
+            "evidence": "ECON3380"
+          },
+          {
+            "course_code": "ECON3410",
+            "prefix_inferred": false,
+            "evidence": "ECON3410"
+          },
+          {
+            "course_code": "ECON3420",
+            "prefix_inferred": false,
+            "evidence": "ECON3420"
+          },
+          {
+            "course_code": "ECON3430",
+            "prefix_inferred": false,
+            "evidence": "ECON3430"
+          },
+          {
+            "course_code": "ECON3440",
+            "prefix_inferred": false,
+            "evidence": "ECON3440"
+          },
+          {
+            "course_code": "ECON3460",
+            "prefix_inferred": false,
+            "evidence": "ECON3460"
+          },
+          {
+            "course_code": "ECON3470",
+            "prefix_inferred": false,
+            "evidence": "ECON3470"
+          },
+          {
+            "course_code": "ECON3480",
+            "prefix_inferred": false,
+            "evidence": "ECON3480"
+          },
+          {
+            "course_code": "ECON3500",
+            "prefix_inferred": false,
+            "evidence": "ECON3500"
+          },
+          {
+            "course_code": "ECON3510",
+            "prefix_inferred": false,
+            "evidence": "ECON3510"
+          },
+          {
+            "course_code": "ECON3520",
+            "prefix_inferred": false,
+            "evidence": "ECON3520"
+          },
+          {
+            "course_code": "ECON3530",
+            "prefix_inferred": false,
+            "evidence": "ECON3530"
+          },
+          {
+            "course_code": "ECON3540",
+            "prefix_inferred": false,
+            "evidence": "ECON3540"
+          },
+          {
+            "course_code": "ECON3570",
+            "prefix_inferred": false,
+            "evidence": "ECON3570"
+          },
+          {
+            "course_code": "ECON3580",
+            "prefix_inferred": false,
+            "evidence": "ECON3580"
+          },
+          {
+            "course_code": "ECON3590",
+            "prefix_inferred": false,
+            "evidence": "ECON3590"
+          },
+          {
+            "course_code": "ECON3610",
+            "prefix_inferred": false,
+            "evidence": "ECON3610"
+          },
+          {
+            "course_code": "ECON3620",
+            "prefix_inferred": false,
+            "evidence": "ECON3620"
+          },
+          {
+            "course_code": "ECON3630",
+            "prefix_inferred": false,
+            "evidence": "ECON3630"
+          },
+          {
+            "course_code": "ECON4010",
+            "prefix_inferred": false,
+            "evidence": "ECON4010"
+          },
+          {
+            "course_code": "ECON4020",
+            "prefix_inferred": false,
+            "evidence": "ECON4020"
+          },
+          {
+            "course_code": "ECON4110",
+            "prefix_inferred": false,
+            "evidence": "ECON4110"
+          },
+          {
+            "course_code": "ECON4120",
+            "prefix_inferred": false,
+            "evidence": "ECON4120"
+          },
+          {
+            "course_code": "ECON4130",
+            "prefix_inferred": false,
+            "evidence": "ECON4130"
+          },
+          {
+            "course_code": "ECON4140",
+            "prefix_inferred": false,
+            "evidence": "ECON4140"
+          },
+          {
+            "course_code": "ECON4430",
+            "prefix_inferred": false,
+            "evidence": "ECON4430"
+          },
+          {
+            "course_code": "ECON4450",
+            "prefix_inferred": false,
+            "evidence": "ECON4450"
+          },
+          {
+            "course_code": "ECON4460",
+            "prefix_inferred": false,
+            "evidence": "ECON4460"
+          },
+          {
+            "course_code": "ECON4470",
+            "prefix_inferred": false,
+            "evidence": "ECON4470"
+          },
+          {
+            "course_code": "ECON4810",
+            "prefix_inferred": false,
+            "evidence": "ECON4810"
+          },
+          {
+            "course_code": "ECON4820",
+            "prefix_inferred": false,
+            "evidence": "ECON4820"
+          },
+          {
+            "course_code": "ECON4830",
+            "prefix_inferred": false,
+            "evidence": "ECON4830"
+          },
+          {
+            "course_code": "ECON4840",
+            "prefix_inferred": false,
+            "evidence": "ECON4840"
+          },
+          {
+            "course_code": "ECON4850",
+            "prefix_inferred": false,
+            "evidence": "ECON4850"
+          },
+          {
+            "course_code": "ECON4860",
+            "prefix_inferred": false,
+            "evidence": "ECON4860"
+          },
+          {
+            "course_code": "ECON4901",
+            "prefix_inferred": false,
+            "evidence": "ECON4901"
+          },
+          {
+            "course_code": "ECON4903",
+            "prefix_inferred": false,
+            "evidence": "ECON4903"
+          },
+          {
+            "course_code": "ECON4910",
+            "prefix_inferred": false,
+            "evidence": "ECON4910"
+          },
+          {
+            "course_code": "ECON4920",
+            "prefix_inferred": false,
+            "evidence": "ECON4920"
+          }
+        ],
+        "raw_text": "12\n12 units of courses selected from any ECON course at 3000 or above level\nTotal:\n18\nExplanatory Note:\n[a]\nStudents who have passed DOTE1030 are exempted from ECON2011, in which case ECON2011 is to be replaced by any ECON course at 3000 or above level.\nStudents who have passed DOTE1040 are exempted from ECON2021, in which case ECON2021 is to be replaced by any ECON course at 3000 or above level.\nCourse List\nCourse Code\nCourse Title\nUnit(s)\nECON1010\nPerspectives in Economics\n3\nECON1101\nMathematical Methods in Economics I\n2\nECON1111\nMathematical Methods in Economics II\n2\nECON1210\nEconomics and Society\n3\nECON1220\nContemporary Economic Thinking\n3\nECON1310\nCurrent Hong Kong Economic Issues\n3\nECON1420\nBasic Banking and Finance\n3\nECON1902\nA Guide to Learning Economics\n2\nECON2011\nBasic Microeconomics\n3\nECON2021\nBasic Macroeconomics\n3\nECON2121\nMethods of Economic Statistics\n3\nECON2901\nGuided Study in Current Economic Problems I\n2\nECON3011\nIntermediate Microeconomic Theory\n3\nECON3021\nIntermediate Macroeconomic Theory\n3\nECON3121\nIntroductory Econometrics\n3\nECON3140\nFinancial Data Analysis\n3\nECON3150\nMathematical Methods in Economics III\n3\nECON3160\nGame Theory\n3\nECON3230\nNew Political Economy\n3\nECON3240\nEconomics of Transition\n3\nECON3250\nChinese Economy: Heritage and Change\n3\nECON3260\nHistory of Economic Thought\n3\nECON3310\nEconomy of China\n3\nECON3320\nAsia-Pacific Economies\n3\nECON3350\nChina and the World Economy\n3\nECON3360\nChinese Economy in Transition\n3\nECON3370\nBusiness Environment of China\n3\nECON3380\nEconomy of Hong Kong\n3\nECON3410\nMoney and Banking\n3\nECON3420\nFinancial Economics\n3\nECON3430\nPublic Finance\n3\nECON3440\nUrban Economics\n3\nECON3460\nDevelopment Economics\n3\nECON3470\nLabour Economics\n3\nECON3480\nIndustrial Organization\n3\nECON3500\nEconomics of Social and Environmental Issues\n3\nECON3510\nFamily Economics\n3\nECON3520\nEconomics of Capital Markets\n3\nECON3530\nInternational Economic Relations\n3\nECON3540\nFoundations of Corporate Finance\n3\nECON3570\nInformation Technology and Economy\n3\nECON3580\nEmerging Financial Markets of China\n3\nECON3590\nBusiness Economics\n3\nECON3610\nInternational Trade\n3\nECON3620\nInternational Macroeconomics\n3\nECON3630\nLaw and Economics\n3\nECON4010\nAdvanced Topics in Microeconomics\n3\nECON4020\nAdvanced Macroeconomics\n3\nECON4110\nIntroductory Mathematical Economics\n3\nECON4120\nApplied Forecasting Methods\n3\nECON4130\nMachine Learning Methods in Economics\n3\nECON4140\nCapstone Project in Data Analytics\n3\nECON4430\nWelfare Economics\n3\nECON4450\nEconomics of Derivatives\n3\nECON4460\nEconomic Growth and Technological Change\n3\nECON4470\nEconomics of Behavioural Finance\n3\nECON4810\nSelected Topics in Economics I\n3\nECON4820\nSelected Topics in Economics II\n3\nECON4830\nSelected Topics in Economics III\n3\nECON4840\nSelected Topics in Economics IV\n3\nECON4850\nSelected Topics in Economics V\n3\nECON4860\nSelected Topics in Economics VI\n3\nECON4901\nGuided Study in Current Economic Problems II\n2\nECON4903\nEconomics in Practice\n2\nECON4910\nSenior Thesis Research I\n3\nECON4920\nSenior Thesis Research II\n3\nStudy Scheme\nLearning Outcomes\n1. Major Programme:\nGraduates of this programme will achieve the following Knowledge, Skills, and Values and Attitudes Outcomes.\nKnowledge Outcomes\nKnowledge of basic economic theory and real-world economic issues including:\n(1) Using powerful analytical tools to interpret complex economic phenomena;\n(2) issues related to Greater-China and the world economy in an age of globalization, with an appreciation of the power and limitations of theory;\nSkills Outcomes\nCompetence in basic statistics, econometrics, and mathematics, including:\n(1) the ability to apply empirical and mathematical tools in testing economic theory and analyzing real-world economic issues, and to make informed judgments on controversial economic issues and policy debates; and\n(2) the ability to understand and predict emerging economic trends in an age of globalization so as to facilitate career planning and the management of personal, corporate, and public finance in response to challenges from a fast-changing world.\nCompetence in a set of generic skills essential to the modern age, including:\n(1) the ability to articulate ideas in verbal and written form;\n(2) bilingual proficiency in meeting the challenges of globalization and Hong Kong as a gateway to China;\n(3) logical and critical thinking as a foundation for life-long learning and future professional development; and\n(4) interpersonal communications and collaboration skills.\nValues and Attitudes Outcomes\nA set of personal attributes conducive to good work and personal ethics for the 21st century, including:\n(1) honesty and integrity, with emphasis on respecting intellectual property rights;\n(2) cross-cultural sensitivity and tolerance as personal attributes needed to thrive in an increasingly internationalized workforce;\n(3) the ability to engage in rational discussions in an increasingly transparent and participatory society; and\n(4) embracing the philosophy of life-long learning.\n2. Minor Programme:\nUpon the completion of the Minor Programme in Economics, students will have demonstrated basic understanding of fundamental issues related to economics such as:\nl fundamental theories that explain market behaviour and changes in economic variables at the micro and macro levels,\nl the scientific approach of testing theories using empirical data, and\nl the sensitivity to emerging economic trends that affect career planning and the management of personal and corporate finance in a fast-changing world.\nStudents will have acquired knowledge of basic aspects of economics with sufficient exposure and at a suitable level to allow further study in economics-related subjects or to pursue a related career."
+      }
+    ]
+  },
+  "all_course_mentions": [
+    {
+      "course_code": "ECON2011",
+      "prefix_inferred": false,
+      "evidence": "ECON2011 and any two courses, offered by two different Programmes/Departments/Schools, chosen from the following:"
+    },
+    {
+      "course_code": "ARCH1001",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "ARCH1002",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "ARCH1003",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "COMM1110",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "COMM1120",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "COMM1150",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "COMM1500",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "DSPS1001",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "DSPS1003",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "DSPS1004",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "GLSD1001",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "GPAD1020",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "GPAD1076",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "GPAD1077",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "GRMD1302",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "GRMD1401",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "GRMD1402",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "PSYC1000",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "PSYC1630",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "SOCI1001",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "SOCI1201",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "SOSC1001",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "SOSC1002",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "SOSC1003",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "SOWK1001",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "SOWK1113",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "SOWK1114",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "URSP1001",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "URSP1002",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "ECON1101",
+      "prefix_inferred": false,
+      "evidence": "ECON1101[a], 1111, 1902, 2021, 2121, 2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+    },
+    {
+      "course_code": "ECON1111",
+      "prefix_inferred": true,
+      "evidence": "ECON1101[a], 1111, 1902, 2021, 2121, 2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+    },
+    {
+      "course_code": "ECON1902",
+      "prefix_inferred": true,
+      "evidence": "ECON1101[a], 1111, 1902, 2021, 2121, 2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+    },
+    {
+      "course_code": "ECON2021",
+      "prefix_inferred": true,
+      "evidence": "ECON1101[a], 1111, 1902, 2021, 2121, 2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+    },
+    {
+      "course_code": "ECON2121",
+      "prefix_inferred": true,
+      "evidence": "ECON1101[a], 1111, 1902, 2021, 2121, 2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+    },
+    {
+      "course_code": "ECON2901",
+      "prefix_inferred": true,
+      "evidence": "ECON1101[a], 1111, 1902, 2021, 2121, 2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+    },
+    {
+      "course_code": "ECON3011",
+      "prefix_inferred": true,
+      "evidence": "ECON1101[a], 1111, 1902, 2021, 2121, 2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+    },
+    {
+      "course_code": "ECON3021",
+      "prefix_inferred": true,
+      "evidence": "ECON1101[a], 1111, 1902, 2021, 2121, 2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+    },
+    {
+      "course_code": "ECON3121",
+      "prefix_inferred": true,
+      "evidence": "ECON1101[a], 1111, 1902, 2021, 2121, 2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+    },
+    {
+      "course_code": "ECON4901",
+      "prefix_inferred": true,
+      "evidence": "ECON1101[a], 1111, 1902, 2021, 2121, 2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+    },
+    {
+      "course_code": "ECON4903",
+      "prefix_inferred": true,
+      "evidence": "ECON1101[a], 1111, 1902, 2021, 2121, 2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+    },
+    {
+      "course_code": "ECON4010",
+      "prefix_inferred": false,
+      "evidence": "ECON4010 and 4020"
+    },
+    {
+      "course_code": "ECON4020",
+      "prefix_inferred": true,
+      "evidence": "ECON4010 and 4020"
+    },
+    {
+      "course_code": "ECON3160",
+      "prefix_inferred": false,
+      "evidence": "At least 3 units from ECON3160, 4110, 4120, 4910 and 4920"
+    },
+    {
+      "course_code": "ECON4110",
+      "prefix_inferred": true,
+      "evidence": "At least 3 units from ECON3160, 4110, 4120, 4910 and 4920"
+    },
+    {
+      "course_code": "ECON4120",
+      "prefix_inferred": true,
+      "evidence": "At least 3 units from ECON3160, 4110, 4120, 4910 and 4920"
+    },
+    {
+      "course_code": "ECON4910",
+      "prefix_inferred": true,
+      "evidence": "At least 3 units from ECON3160, 4110, 4120, 4910 and 4920"
+    },
+    {
+      "course_code": "ECON4920",
+      "prefix_inferred": true,
+      "evidence": "At least 3 units from ECON3160, 4110, 4120, 4910 and 4920"
+    },
+    {
+      "course_code": "ECON3410",
+      "prefix_inferred": false,
+      "evidence": "ECON3410 and 3420"
+    },
+    {
+      "course_code": "ECON3420",
+      "prefix_inferred": true,
+      "evidence": "ECON3410 and 3420"
+    },
+    {
+      "course_code": "ECON3140",
+      "prefix_inferred": false,
+      "evidence": "At least 9 units from ECON3140, 3520, 3540, 3580, 3620, 4120, 4450 and 4470"
+    },
+    {
+      "course_code": "ECON3520",
+      "prefix_inferred": true,
+      "evidence": "At least 9 units from ECON3140, 3520, 3540, 3580, 3620, 4120, 4450 and 4470"
+    },
+    {
+      "course_code": "ECON3540",
+      "prefix_inferred": true,
+      "evidence": "At least 9 units from ECON3140, 3520, 3540, 3580, 3620, 4120, 4450 and 4470"
+    },
+    {
+      "course_code": "ECON3580",
+      "prefix_inferred": true,
+      "evidence": "At least 9 units from ECON3140, 3520, 3540, 3580, 3620, 4120, 4450 and 4470"
+    },
+    {
+      "course_code": "ECON3620",
+      "prefix_inferred": true,
+      "evidence": "At least 9 units from ECON3140, 3520, 3540, 3580, 3620, 4120, 4450 and 4470"
+    },
+    {
+      "course_code": "ECON4120",
+      "prefix_inferred": true,
+      "evidence": "At least 9 units from ECON3140, 3520, 3540, 3580, 3620, 4120, 4450 and 4470"
+    },
+    {
+      "course_code": "ECON4450",
+      "prefix_inferred": true,
+      "evidence": "At least 9 units from ECON3140, 3520, 3540, 3580, 3620, 4120, 4450 and 4470"
+    },
+    {
+      "course_code": "ECON4470",
+      "prefix_inferred": true,
+      "evidence": "At least 9 units from ECON3140, 3520, 3540, 3580, 3620, 4120, 4450 and 4470"
+    },
+    {
+      "course_code": "ECON3480",
+      "prefix_inferred": false,
+      "evidence": "ECON3480 and 3590"
+    },
+    {
+      "course_code": "ECON3590",
+      "prefix_inferred": true,
+      "evidence": "ECON3480 and 3590"
+    },
+    {
+      "course_code": "ECON3320",
+      "prefix_inferred": false,
+      "evidence": "At least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120"
+    },
+    {
+      "course_code": "ECON3380",
+      "prefix_inferred": true,
+      "evidence": "At least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120"
+    },
+    {
+      "course_code": "ECON3430",
+      "prefix_inferred": true,
+      "evidence": "At least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120"
+    },
+    {
+      "course_code": "ECON3470",
+      "prefix_inferred": true,
+      "evidence": "At least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120"
+    },
+    {
+      "course_code": "ECON3570",
+      "prefix_inferred": true,
+      "evidence": "At least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120"
+    },
+    {
+      "course_code": "ECON3610",
+      "prefix_inferred": true,
+      "evidence": "At least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120"
+    },
+    {
+      "course_code": "ECON3620",
+      "prefix_inferred": true,
+      "evidence": "At least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120"
+    },
+    {
+      "course_code": "ECON3630",
+      "prefix_inferred": true,
+      "evidence": "At least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120"
+    },
+    {
+      "course_code": "ECON4120",
+      "prefix_inferred": true,
+      "evidence": "At least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120"
+    },
+    {
+      "course_code": "ECON3310",
+      "prefix_inferred": false,
+      "evidence": "ECON3310 and 3460"
+    },
+    {
+      "course_code": "ECON3460",
+      "prefix_inferred": true,
+      "evidence": "ECON3310 and 3460"
+    },
+    {
+      "course_code": "ECON3250",
+      "prefix_inferred": false,
+      "evidence": "At least 9 units from ECON3250, 3350, 3370 and 3580"
+    },
+    {
+      "course_code": "ECON3350",
+      "prefix_inferred": true,
+      "evidence": "At least 9 units from ECON3250, 3350, 3370 and 3580"
+    },
+    {
+      "course_code": "ECON3370",
+      "prefix_inferred": true,
+      "evidence": "At least 9 units from ECON3250, 3350, 3370 and 3580"
+    },
+    {
+      "course_code": "ECON3580",
+      "prefix_inferred": true,
+      "evidence": "At least 9 units from ECON3250, 3350, 3370 and 3580"
+    },
+    {
+      "course_code": "ECON4120",
+      "prefix_inferred": false,
+      "evidence": "ECON4120, 4130 and 4140"
+    },
+    {
+      "course_code": "ECON4130",
+      "prefix_inferred": true,
+      "evidence": "ECON4120, 4130 and 4140"
+    },
+    {
+      "course_code": "ECON4140",
+      "prefix_inferred": true,
+      "evidence": "ECON4120, 4130 and 4140"
+    },
+    {
+      "course_code": "CSCI3320",
+      "prefix_inferred": false,
+      "evidence": "At least 6 units from CSCI3320, 4190, IERG3280/ESTR3302, SEEM4630 and 4730"
+    },
+    {
+      "course_code": "CSCI4190",
+      "prefix_inferred": true,
+      "evidence": "At least 6 units from CSCI3320, 4190, IERG3280/ESTR3302, SEEM4630 and 4730"
+    },
+    {
+      "course_code": "IERG3280",
+      "prefix_inferred": false,
+      "evidence": "At least 6 units from CSCI3320, 4190, IERG3280/ESTR3302, SEEM4630 and 4730"
+    },
+    {
+      "course_code": "ESTR3302",
+      "prefix_inferred": false,
+      "evidence": "At least 6 units from CSCI3320, 4190, IERG3280/ESTR3302, SEEM4630 and 4730"
+    },
+    {
+      "course_code": "SEEM4630",
+      "prefix_inferred": false,
+      "evidence": "At least 6 units from CSCI3320, 4190, IERG3280/ESTR3302, SEEM4630 and 4730"
+    },
+    {
+      "course_code": "SEEM4730",
+      "prefix_inferred": true,
+      "evidence": "At least 6 units from CSCI3320, 4190, IERG3280/ESTR3302, SEEM4630 and 4730"
+    },
+    {
+      "course_code": "ECON1101",
+      "prefix_inferred": false,
+      "evidence": "Students who have obtained grade 3 or above in both the compulsory part and Module 1 (Calculus and Statistics) of the HKDSE Mathematics examination may, upon application, be exempted from ECON1101, in which case the Major Programme Requirement will be reduced by 2 units."
+    },
+    {
+      "course_code": "ECON1101",
+      "prefix_inferred": false,
+      "evidence": "Students who have obtained grade 3 or above in both the compulsory part and Module 2 (Algebra and Calculus) of the HKDSE Mathematics examination are not required to take ECON1101. The Major Programme Requirement for these students will be reduced by 2 units."
+    },
+    {
+      "course_code": "ECON1101",
+      "prefix_inferred": false,
+      "evidence": "Students who have obtained (i) grade B or above in GCE Mathematics (AL) and grade B or above in GCE Further Mathematics (AL) or (ii) grade B or above in GCE Mathematics (AL) and grade B or above in GCE Pure Mathematics (AL) are not required to take ECON1101. The Major Programme Requirement for these students will be reduced by 2 units."
+    },
+    {
+      "course_code": "ECON2011",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: ECON2011 and/or 1 Faculty Package course"
+    },
+    {
+      "course_code": "ECON1101",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ECON1101, 1902"
+    },
+    {
+      "course_code": "ECON1902",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ECON1101, 1902"
+    },
+    {
+      "course_code": "ECON1111",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ECON1111, 2021"
+    },
+    {
+      "course_code": "ECON2021",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ECON1111, 2021"
+    },
+    {
+      "course_code": "ECON2121",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ECON2121, 3011 or 3021"
+    },
+    {
+      "course_code": "ECON3011",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ECON2121, 3011 or 3021"
+    },
+    {
+      "course_code": "ECON3021",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ECON2121, 3011 or 3021"
+    },
+    {
+      "course_code": "ECON2901",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ECON2901, 3011 or 3021"
+    },
+    {
+      "course_code": "ECON3011",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ECON2901, 3011 or 3021"
+    },
+    {
+      "course_code": "ECON3021",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ECON2901, 3011 or 3021"
+    },
+    {
+      "course_code": "ECON3121",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ECON3121"
+    },
+    {
+      "course_code": "ECON4901",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ECON4901"
+    },
+    {
+      "course_code": "ECON4903",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ECON4903"
+    },
+    {
+      "course_code": "ECON2011",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: ECON2011, 1 Faculty Package course"
+    },
+    {
+      "course_code": "ELTU1001",
+      "prefix_inferred": false,
+      "evidence": "University Core Requirements: ELTU1001, 1 College GE course[c], 1 PHED course, 1 UGFH or UGFN course, [Understanding China] or [Hong Kong in the Wider Constitutional Order]"
+    },
+    {
+      "course_code": "ECON1111",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ECON1111, 2021, 2121, 2901"
+    },
+    {
+      "course_code": "ECON2021",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ECON1111, 2021, 2121, 2901"
+    },
+    {
+      "course_code": "ECON2121",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ECON1111, 2021, 2121, 2901"
+    },
+    {
+      "course_code": "ECON2901",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ECON1111, 2021, 2121, 2901"
+    },
+    {
+      "course_code": "CHLT1001",
+      "prefix_inferred": false,
+      "evidence": "University Core Requirements: 1 PHED course, CHLT1001, ENGG1003, [Understanding China] or [Hong Kong in the Wider Constitutional Order]"
+    },
+    {
+      "course_code": "ENGG1003",
+      "prefix_inferred": false,
+      "evidence": "University Core Requirements: 1 PHED course, CHLT1001, ENGG1003, [Understanding China] or [Hong Kong in the Wider Constitutional Order]"
+    },
+    {
+      "course_code": "ECON3011",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ECON3011"
+    },
+    {
+      "course_code": "ELTU2020",
+      "prefix_inferred": false,
+      "evidence": "University Core Requirements: ELTU2020, CHLT1002,"
+    },
+    {
+      "course_code": "CHLT1002",
+      "prefix_inferred": false,
+      "evidence": "University Core Requirements: ELTU2020, CHLT1002,"
+    },
+    {
+      "course_code": "ECON4901",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ECON4901, 4903[f]"
+    },
+    {
+      "course_code": "ECON4903",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ECON4901, 4903[f]"
+    },
+    {
+      "course_code": "ECON4010",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): 1 course from ECON4010, 4020, 4110 or 4120, 5 ECON courses at 3000 or above level"
+    },
+    {
+      "course_code": "ECON4020",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 1 course from ECON4010, 4020, 4110 or 4120, 5 ECON courses at 3000 or above level"
+    },
+    {
+      "course_code": "ECON4110",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 1 course from ECON4010, 4020, 4110 or 4120, 5 ECON courses at 3000 or above level"
+    },
+    {
+      "course_code": "ECON4120",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 1 course from ECON4010, 4020, 4110 or 4120, 5 ECON courses at 3000 or above level"
+    },
+    {
+      "course_code": "ECON1101",
+      "prefix_inferred": false,
+      "evidence": "In addition to ECON1101, 1111 and 2121, students are required to take MATH1550 to fulfil 10 units of Mathematics requirements of the Bachelor of Economics Programme at THU. In this connection, students need to take a total of 108-109 units (instead of 105-106 units) at CUHK."
+    },
+    {
+      "course_code": "ECON1111",
+      "prefix_inferred": true,
+      "evidence": "In addition to ECON1101, 1111 and 2121, students are required to take MATH1550 to fulfil 10 units of Mathematics requirements of the Bachelor of Economics Programme at THU. In this connection, students need to take a total of 108-109 units (instead of 105-106 units) at CUHK."
+    },
+    {
+      "course_code": "ECON2121",
+      "prefix_inferred": true,
+      "evidence": "In addition to ECON1101, 1111 and 2121, students are required to take MATH1550 to fulfil 10 units of Mathematics requirements of the Bachelor of Economics Programme at THU. In this connection, students need to take a total of 108-109 units (instead of 105-106 units) at CUHK."
+    },
+    {
+      "course_code": "MATH1550",
+      "prefix_inferred": false,
+      "evidence": "In addition to ECON1101, 1111 and 2121, students are required to take MATH1550 to fulfil 10 units of Mathematics requirements of the Bachelor of Economics Programme at THU. In this connection, students need to take a total of 108-109 units (instead of 105-106 units) at CUHK."
+    },
+    {
+      "course_code": "ECON3021",
+      "prefix_inferred": false,
+      "evidence": "Courses 30510763 (Intermediate Macroeconomics) and 30510973 (Econometrics (1)) taken at THU can be transferred to fulfil the requirements of ECON3021 and 3121."
+    },
+    {
+      "course_code": "ECON3121",
+      "prefix_inferred": true,
+      "evidence": "Courses 30510763 (Intermediate Macroeconomics) and 30510973 (Econometrics (1)) taken at THU can be transferred to fulfil the requirements of ECON3021 and 3121."
+    },
+    {
+      "course_code": "ECON4901",
+      "prefix_inferred": false,
+      "evidence": "Course 40510620 (Diploma Project (Thesis)) taken at THU can be transferred to fulfil the requirements of ECON4901 and 4903."
+    },
+    {
+      "course_code": "ECON4903",
+      "prefix_inferred": true,
+      "evidence": "Course 40510620 (Diploma Project (Thesis)) taken at THU can be transferred to fulfil the requirements of ECON4901 and 4903."
+    },
+    {
+      "course_code": "ENGG1003",
+      "prefix_inferred": false,
+      "evidence": "University Core Requirements: 1 PHED course, ENGG1003, [Understanding China] or [Hong Kong in the Wider Constitutional Order]"
+    },
+    {
+      "course_code": "ELTU2020",
+      "prefix_inferred": false,
+      "evidence": "University Core Requirements: ELTU2020, 1 UGFH or UGFN course"
+    },
+    {
+      "course_code": "ECON4901",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ECON4901, 4903[g]"
+    },
+    {
+      "course_code": "ECON4903",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ECON4901, 4903[g]"
+    },
+    {
+      "course_code": "ECON1101",
+      "prefix_inferred": false,
+      "evidence": "In addition to ECON1101, 1111 and 2121, students are required to take MATH1550 to fulfil 10 units of Mathematics requirements of the Bachelor of Economics Programme at THU. In this connection, students need to take a total of 103-104 units (instead of 100-101 units) at CUHK."
+    },
+    {
+      "course_code": "ECON1111",
+      "prefix_inferred": true,
+      "evidence": "In addition to ECON1101, 1111 and 2121, students are required to take MATH1550 to fulfil 10 units of Mathematics requirements of the Bachelor of Economics Programme at THU. In this connection, students need to take a total of 103-104 units (instead of 100-101 units) at CUHK."
+    },
+    {
+      "course_code": "ECON2121",
+      "prefix_inferred": true,
+      "evidence": "In addition to ECON1101, 1111 and 2121, students are required to take MATH1550 to fulfil 10 units of Mathematics requirements of the Bachelor of Economics Programme at THU. In this connection, students need to take a total of 103-104 units (instead of 100-101 units) at CUHK."
+    },
+    {
+      "course_code": "MATH1550",
+      "prefix_inferred": false,
+      "evidence": "In addition to ECON1101, 1111 and 2121, students are required to take MATH1550 to fulfil 10 units of Mathematics requirements of the Bachelor of Economics Programme at THU. In this connection, students need to take a total of 103-104 units (instead of 100-101 units) at CUHK."
+    },
+    {
+      "course_code": "ECON2901",
+      "prefix_inferred": false,
+      "evidence": "ECON2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+    },
+    {
+      "course_code": "ECON3011",
+      "prefix_inferred": true,
+      "evidence": "ECON2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+    },
+    {
+      "course_code": "ECON3021",
+      "prefix_inferred": true,
+      "evidence": "ECON2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+    },
+    {
+      "course_code": "ECON3121",
+      "prefix_inferred": true,
+      "evidence": "ECON2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+    },
+    {
+      "course_code": "ECON4901",
+      "prefix_inferred": true,
+      "evidence": "ECON2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+    },
+    {
+      "course_code": "ECON4903",
+      "prefix_inferred": true,
+      "evidence": "ECON2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)"
+    },
+    {
+      "course_code": "ECON1101",
+      "prefix_inferred": false,
+      "evidence": "ECON1101, 1111, 2011, 2021 and 2121"
+    },
+    {
+      "course_code": "ECON1111",
+      "prefix_inferred": true,
+      "evidence": "ECON1101, 1111, 2011, 2021 and 2121"
+    },
+    {
+      "course_code": "ECON2011",
+      "prefix_inferred": true,
+      "evidence": "ECON1101, 1111, 2011, 2021 and 2121"
+    },
+    {
+      "course_code": "ECON2021",
+      "prefix_inferred": true,
+      "evidence": "ECON1101, 1111, 2011, 2021 and 2121"
+    },
+    {
+      "course_code": "ECON2121",
+      "prefix_inferred": true,
+      "evidence": "ECON1101, 1111, 2011, 2021 and 2121"
+    },
+    {
+      "course_code": "ECON1101",
+      "prefix_inferred": false,
+      "evidence": "Major Required: 1-2 course(s) from ECON1101 and 2011"
+    },
+    {
+      "course_code": "ECON2011",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 1-2 course(s) from ECON1101 and 2011"
+    },
+    {
+      "course_code": "ECON1111",
+      "prefix_inferred": false,
+      "evidence": "Major Required: 1-4 course(s) from ECON1111, 2021, 2121 and 2901"
+    },
+    {
+      "course_code": "ECON2021",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 1-4 course(s) from ECON1111, 2021, 2121 and 2901"
+    },
+    {
+      "course_code": "ECON2121",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 1-4 course(s) from ECON1111, 2021, 2121 and 2901"
+    },
+    {
+      "course_code": "ECON2901",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 1-4 course(s) from ECON1111, 2021, 2121 and 2901"
+    },
+    {
+      "course_code": "ECON3011",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ECON3011 and 4901"
+    },
+    {
+      "course_code": "ECON4901",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ECON3011 and 4901"
+    },
+    {
+      "course_code": "ECON3021",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ECON3021, 3121 and 4903"
+    },
+    {
+      "course_code": "ECON3121",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ECON3021, 3121 and 4903"
+    },
+    {
+      "course_code": "ECON4903",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ECON3021, 3121 and 4903"
+    },
+    {
+      "course_code": "ECON2011",
+      "prefix_inferred": false,
+      "evidence": "ECON2011, 2021"
+    },
+    {
+      "course_code": "ECON2021",
+      "prefix_inferred": true,
+      "evidence": "ECON2011, 2021"
+    },
+    {
+      "course_code": "DOTE1030",
+      "prefix_inferred": false,
+      "evidence": "Students who have passed DOTE1030 are exempted from ECON2011, in which case ECON2011 is to be replaced by any ECON course at 3000 or above level."
+    },
+    {
+      "course_code": "ECON2011",
+      "prefix_inferred": false,
+      "evidence": "Students who have passed DOTE1030 are exempted from ECON2011, in which case ECON2011 is to be replaced by any ECON course at 3000 or above level."
+    },
+    {
+      "course_code": "DOTE1040",
+      "prefix_inferred": false,
+      "evidence": "Students who have passed DOTE1040 are exempted from ECON2021, in which case ECON2021 is to be replaced by any ECON course at 3000 or above level."
+    },
+    {
+      "course_code": "ECON2021",
+      "prefix_inferred": false,
+      "evidence": "Students who have passed DOTE1040 are exempted from ECON2021, in which case ECON2021 is to be replaced by any ECON course at 3000 or above level."
+    },
+    {
+      "course_code": "ECON1010",
+      "prefix_inferred": false,
+      "evidence": "ECON1010"
+    },
+    {
+      "course_code": "ECON1101",
+      "prefix_inferred": false,
+      "evidence": "ECON1101"
+    },
+    {
+      "course_code": "ECON1111",
+      "prefix_inferred": false,
+      "evidence": "ECON1111"
+    },
+    {
+      "course_code": "ECON1210",
+      "prefix_inferred": false,
+      "evidence": "ECON1210"
+    },
+    {
+      "course_code": "ECON1220",
+      "prefix_inferred": false,
+      "evidence": "ECON1220"
+    },
+    {
+      "course_code": "ECON1310",
+      "prefix_inferred": false,
+      "evidence": "ECON1310"
+    },
+    {
+      "course_code": "ECON1420",
+      "prefix_inferred": false,
+      "evidence": "ECON1420"
+    },
+    {
+      "course_code": "ECON1902",
+      "prefix_inferred": false,
+      "evidence": "ECON1902"
+    },
+    {
+      "course_code": "ECON2011",
+      "prefix_inferred": false,
+      "evidence": "ECON2011"
+    },
+    {
+      "course_code": "ECON2021",
+      "prefix_inferred": false,
+      "evidence": "ECON2021"
+    },
+    {
+      "course_code": "ECON2121",
+      "prefix_inferred": false,
+      "evidence": "ECON2121"
+    },
+    {
+      "course_code": "ECON2901",
+      "prefix_inferred": false,
+      "evidence": "ECON2901"
+    },
+    {
+      "course_code": "ECON3011",
+      "prefix_inferred": false,
+      "evidence": "ECON3011"
+    },
+    {
+      "course_code": "ECON3021",
+      "prefix_inferred": false,
+      "evidence": "ECON3021"
+    },
+    {
+      "course_code": "ECON3121",
+      "prefix_inferred": false,
+      "evidence": "ECON3121"
+    },
+    {
+      "course_code": "ECON3140",
+      "prefix_inferred": false,
+      "evidence": "ECON3140"
+    },
+    {
+      "course_code": "ECON3150",
+      "prefix_inferred": false,
+      "evidence": "ECON3150"
+    },
+    {
+      "course_code": "ECON3160",
+      "prefix_inferred": false,
+      "evidence": "ECON3160"
+    },
+    {
+      "course_code": "ECON3230",
+      "prefix_inferred": false,
+      "evidence": "ECON3230"
+    },
+    {
+      "course_code": "ECON3240",
+      "prefix_inferred": false,
+      "evidence": "ECON3240"
+    },
+    {
+      "course_code": "ECON3250",
+      "prefix_inferred": false,
+      "evidence": "ECON3250"
+    },
+    {
+      "course_code": "ECON3260",
+      "prefix_inferred": false,
+      "evidence": "ECON3260"
+    },
+    {
+      "course_code": "ECON3310",
+      "prefix_inferred": false,
+      "evidence": "ECON3310"
+    },
+    {
+      "course_code": "ECON3320",
+      "prefix_inferred": false,
+      "evidence": "ECON3320"
+    },
+    {
+      "course_code": "ECON3350",
+      "prefix_inferred": false,
+      "evidence": "ECON3350"
+    },
+    {
+      "course_code": "ECON3360",
+      "prefix_inferred": false,
+      "evidence": "ECON3360"
+    },
+    {
+      "course_code": "ECON3370",
+      "prefix_inferred": false,
+      "evidence": "ECON3370"
+    },
+    {
+      "course_code": "ECON3380",
+      "prefix_inferred": false,
+      "evidence": "ECON3380"
+    },
+    {
+      "course_code": "ECON3410",
+      "prefix_inferred": false,
+      "evidence": "ECON3410"
+    },
+    {
+      "course_code": "ECON3420",
+      "prefix_inferred": false,
+      "evidence": "ECON3420"
+    },
+    {
+      "course_code": "ECON3430",
+      "prefix_inferred": false,
+      "evidence": "ECON3430"
+    },
+    {
+      "course_code": "ECON3440",
+      "prefix_inferred": false,
+      "evidence": "ECON3440"
+    },
+    {
+      "course_code": "ECON3460",
+      "prefix_inferred": false,
+      "evidence": "ECON3460"
+    },
+    {
+      "course_code": "ECON3470",
+      "prefix_inferred": false,
+      "evidence": "ECON3470"
+    },
+    {
+      "course_code": "ECON3480",
+      "prefix_inferred": false,
+      "evidence": "ECON3480"
+    },
+    {
+      "course_code": "ECON3500",
+      "prefix_inferred": false,
+      "evidence": "ECON3500"
+    },
+    {
+      "course_code": "ECON3510",
+      "prefix_inferred": false,
+      "evidence": "ECON3510"
+    },
+    {
+      "course_code": "ECON3520",
+      "prefix_inferred": false,
+      "evidence": "ECON3520"
+    },
+    {
+      "course_code": "ECON3530",
+      "prefix_inferred": false,
+      "evidence": "ECON3530"
+    },
+    {
+      "course_code": "ECON3540",
+      "prefix_inferred": false,
+      "evidence": "ECON3540"
+    },
+    {
+      "course_code": "ECON3570",
+      "prefix_inferred": false,
+      "evidence": "ECON3570"
+    },
+    {
+      "course_code": "ECON3580",
+      "prefix_inferred": false,
+      "evidence": "ECON3580"
+    },
+    {
+      "course_code": "ECON3590",
+      "prefix_inferred": false,
+      "evidence": "ECON3590"
+    },
+    {
+      "course_code": "ECON3610",
+      "prefix_inferred": false,
+      "evidence": "ECON3610"
+    },
+    {
+      "course_code": "ECON3620",
+      "prefix_inferred": false,
+      "evidence": "ECON3620"
+    },
+    {
+      "course_code": "ECON3630",
+      "prefix_inferred": false,
+      "evidence": "ECON3630"
+    },
+    {
+      "course_code": "ECON4010",
+      "prefix_inferred": false,
+      "evidence": "ECON4010"
+    },
+    {
+      "course_code": "ECON4020",
+      "prefix_inferred": false,
+      "evidence": "ECON4020"
+    },
+    {
+      "course_code": "ECON4110",
+      "prefix_inferred": false,
+      "evidence": "ECON4110"
+    },
+    {
+      "course_code": "ECON4120",
+      "prefix_inferred": false,
+      "evidence": "ECON4120"
+    },
+    {
+      "course_code": "ECON4130",
+      "prefix_inferred": false,
+      "evidence": "ECON4130"
+    },
+    {
+      "course_code": "ECON4140",
+      "prefix_inferred": false,
+      "evidence": "ECON4140"
+    },
+    {
+      "course_code": "ECON4430",
+      "prefix_inferred": false,
+      "evidence": "ECON4430"
+    },
+    {
+      "course_code": "ECON4450",
+      "prefix_inferred": false,
+      "evidence": "ECON4450"
+    },
+    {
+      "course_code": "ECON4460",
+      "prefix_inferred": false,
+      "evidence": "ECON4460"
+    },
+    {
+      "course_code": "ECON4470",
+      "prefix_inferred": false,
+      "evidence": "ECON4470"
+    },
+    {
+      "course_code": "ECON4810",
+      "prefix_inferred": false,
+      "evidence": "ECON4810"
+    },
+    {
+      "course_code": "ECON4820",
+      "prefix_inferred": false,
+      "evidence": "ECON4820"
+    },
+    {
+      "course_code": "ECON4830",
+      "prefix_inferred": false,
+      "evidence": "ECON4830"
+    },
+    {
+      "course_code": "ECON4840",
+      "prefix_inferred": false,
+      "evidence": "ECON4840"
+    },
+    {
+      "course_code": "ECON4850",
+      "prefix_inferred": false,
+      "evidence": "ECON4850"
+    },
+    {
+      "course_code": "ECON4860",
+      "prefix_inferred": false,
+      "evidence": "ECON4860"
+    },
+    {
+      "course_code": "ECON4901",
+      "prefix_inferred": false,
+      "evidence": "ECON4901"
+    },
+    {
+      "course_code": "ECON4903",
+      "prefix_inferred": false,
+      "evidence": "ECON4903"
+    },
+    {
+      "course_code": "ECON4910",
+      "prefix_inferred": false,
+      "evidence": "ECON4910"
+    },
+    {
+      "course_code": "ECON4920",
+      "prefix_inferred": false,
+      "evidence": "ECON4920"
+    }
+  ],
+  "course_code_aliases": [],
+  "source": {
+    "system": "CUHK CUSIS Browse Program Information",
+    "url": "https://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/tt_dsp_acad_prog.aspx",
+    "source_text_file": "data/cuhk/2024/programmes/B_S_Sc_in_Economics__Faculty_of_Social_Science.txt",
+    "reused_duplicate_entry": false,
+    "reused_from_faculty": null
+  },
+  "raw_text": "\n\nBrowse Program Information\n\n\n\n\n\n\nAcademic Program:\tB.S.Sc. in Economics\nAcademic Year:\t2024\nLanguage:\t\nEnglish\nSimplified Chinese\nTraditional Chinese\n\n\n\nLearning Outcomes\nStudy Scheme\n \n\n\t\n\nEconomics\n\nApplicable to students admitted in 2024-25\n\n\n\n\n \n\n\n\n\n \n\nMajor Programme Requirement\n\n \n\n\n\n\nStudents are required to complete a minimum of 72 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nFaculty Package:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nECON2011 and any two courses, offered by two different Programmes/Departments/Schools, chosen from the following:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, DSPS1001, 1003, 1004, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nRequired Courses:\n\n\t\n\n27\n\n\n\n\n \n\n\t\n\nECON1101[a], 1111, 1902, 2021, 2121, 2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nElective Courses[b][c]:\n\n\t\n\n36\n\n\n\n\n \n\n\t\n\n36 units of elective ECON courses at 3000 or above level\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n72\n\n\n\n\n \n\n\n\n\nConcentration Area:\n\n\n\n\nStudents may choose to declare one, or up to two concentration areas by taking at least 15 units in the relevant area(s):\n\n\n\n\nEconomic Theory\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nRequired Courses:\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nECON4010 and 4020\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nElective Courses:\n\n\t\n\n9\n\n\n\n\n(i)\n\n\t\n\nAt least 3 units from ECON3160, 4110, 4120, 4910 and 4920\n\n\t\n\n \n\n\n\n\n(ii)\n\n\t\n\nup to 6 units MATH courses at 3000 or above level[d]\n\n\t\n\n \n\n\n\n\nFinancial Economics\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nRequired Courses:\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nECON3410 and 3420\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nElective Courses:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nAt least 9 units from ECON3140, 3520, 3540, 3580, 3620, 4120, 4450 and 4470\n\n\t\n\n \n\n\n\n\nBusiness Economics\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nRequired Courses:\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nECON3480 and 3590\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nElective Courses:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nAt least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120\n\n\t\n\n \n\n\n\n\nChinese Economy\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nRequired Courses:\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nECON3310 and 3460\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nElective Courses:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nAt least 9 units from ECON3250, 3350, 3370 and 3580\n\n\t\n\n \n\n\n\n\nData Analytics\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nRequired Courses:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nECON4120, 4130 and 4140\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nElective Courses:\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nAt least 6 units from CSCI3320, 4190, IERG3280/ESTR3302, SEEM4630 and 4730\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\nFor students taking two concentration areas, the courses must not overlap and count towards both concentration areas. In addition to the courses listed above, the Department may approve the inclusion of relevant selected topics courses or courses at 5000 or above level in the concentration areas.\n\n\n\n\n \n\n\n\n\nExplanatory Notes:\n\n\n\n\n1.\n\n\t\n\nECON courses at 2000 and above level will be included in the calculation of Major GPA for honours classification.\n\n\n\n\n[a]\n\n\t\n\nStudents who have obtained grade 3 or above in both the compulsory part and Module 1 (Calculus and Statistics) of the HKDSE Mathematics examination may, upon application, be exempted from ECON1101, in which case the Major Programme Requirement will be reduced by 2 units. \n\nStudents who have obtained grade 3 or above in both the compulsory part and Module 2 (Algebra and Calculus) of the HKDSE Mathematics examination are not required to take ECON1101. The Major Programme Requirement for these students will be reduced by 2 units.\n\nStudents who have obtained (i) grade B or above in GCE Mathematics (AL) and grade B or above in GCE Further Mathematics (AL) or (ii) grade B or above in GCE Mathematics (AL) and grade B or above in GCE Pure Mathematics (AL) are not required to take ECON1101. The Major Programme Requirement for these students will be reduced by 2 units. \n\n\n\n\n[b]\n\n\t\n\nStudents are allowed to take ECON courses at 5000 or above level to fulfill the Elective Courses requirement, subject to the consent of the course instructor.\n\n\n\n\n[c]\n\n\t\n\nStudents may declare a concentration area (i) after the requisite courses for the concentration area have been completed, or (ii) in the same term that the requisite courses are expected to be completed. Upon completion of all requisite courses for a concentration area, such concentration area will be indicated on academic transcripts.\n\n\n\n\n[d]\n\n\t\n\nStudents are required to declare which MATH course is to be counted towards the requirement of the Economic Theory concentration area at their final term of attendance.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\n \n\n\n\n\n \n\n\t\n\nRecommended Course Pattern\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: ECON2011 and/or 1 Faculty Package course\n\n\t\n\n3-6\n\n\n\n\nMajor Required: ECON1101, 1902\n\n\t\n\n4\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nFaculty Package: 1-2 course(s)\n\n\t\n\n3-6\n\n\n\n\nMajor Required: ECON1111, 2021\n\n\t\n\n5\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: ECON2121, 3011 or 3021\n\n\t\n\n6\n\n\n\n\nMajor Elective(s): 1-2 course(s)\n\n\t\n\n3-6\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: ECON2901, 3011 or 3021\n\n\t\n\n5\n\n\n\n\nMajor Elective(s): 1-2 course(s)\n\n\t\n\n3-6\n\n\n\n\nThird Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: ECON3121\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): 2-3 courses\n\n\t\n\n6-9\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required:\n\n\t\n\n \n\n\n\n\nMajor Elective(s): 2-4 courses\n\n\t\n\n6-12\n\n\n\n\nFourth Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: ECON4901\n\n\t\n\n2\n\n\n\n\nMajor Elective(s): 2-3 courses\n\n\t\n\n6-9\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: ECON4903\n\n\t\n\n2\n\n\n\n\nMajor Elective(s): 2-3 courses\n\n\t\n\n6-9\n\n\n\n\nTotal (including Faculty Package):\n\n\t\n\n72\n\n\n\n\n \n\n\n\n\n \n\n\t\n\nRecommended Course Pattern for Hong Kong/Macau/ Taiwan Students in fulfilment of requirements of the Dual Undergraduate Degree Programme (DDP) with Tsinghua University (THU) (Bachelor of Economics)[a]\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n(Study at CUHK)[b]\n\n\t\n\n1st term[b]\n\n\t\n\n \n\n\n\n\nFaculty Package: ECON2011, 1 Faculty Package course\n\n\t\n\n6\n\n\n\n\nMajor Required: ECON1101, 1902\n\n\t\n\n4\n\n\n\n\nUniversity Core Requirements: ELTU1001, 1 College GE course[c], 1 PHED course, 1 UGFH or UGFN course, [Understanding China] or [Hong Kong in the Wider Constitutional Order]\n\n\t\n\n10-11\n\n\n\n\n2nd term[b]\n\n\t\n\n \n\n\n\n\nFaculty Package: 1 course\n\n\t\n\n3\n\n\n\n\nMajor Required: ECON1111, 2021, 2121, 2901\n\n\t\n\n10\n\n\n\n\nUniversity Core Requirements: 1 PHED course, CHLT1001, ENGG1003, [Understanding China] or [Hong Kong in the Wider Constitutional Order]\n\n\t\n\n8\n\n\n\n\nSummer Session\n\n\t\n\n \n\n\n\n\nUniversity Core Requirements: 1 UGEA course, 1 UGEB course\n\n\t\n\n4\n\n\n\n\nSecond Year (1st term) of Attendance\n\n(Study at CUHK)\n\n\t\n\n1st term[d]\n\n\t\n\n \n\n\n\n\nMajor Required: ECON3011\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): 2 ECON courses at 3000 or above level\n\n\t\n\n6\n\n\n\n\nUniversity Core Requirements: ELTU2020, CHLT1002,\n\n1 UGFH or UGFN course\n\n\t\n\n8\n\n\n\n\nSecond Year (2nd term), Third Year, and Fourth Year (1st term) of Attendance\n\n(Study at THU)\n\n\t\n\n2 years at THU\n\n\t\n\n88 units\n\n(with 24 units for fulfilment of the Major requirements to be transferred to CUHK)\n\n \n\n\n\n\nMajor Required Courses (9 units)[e]\n\n\n\n\nMajor Elective Courses (30 units)\n\n\n\n\nPE Courses (2 units)\n\n\n\n\nIT Course (3 units)\n\n\n\n\nPolitical Thinking Courses (3 units)\n\n\n\n\nStudent Self-Development Courses (17 units)\n\n\n\n\nThesis Training (15 units)[f]\n\n\n\n\nPractice Training: Military Theory (2 units)[g], Military Skills (2 units)[g], Internship Courses (5 units)\n\n\n\n\nFourth Year (2nd term) of Attendance\n\n(Study at CUHK)[h]\n\n\t\n\n2nd term[b]\n\n\t\n\n \n\n\n\n\nMajor Required: ECON4901, 4903[f]\n\n\t\n\n-\n\n\n\n\nMajor Elective(s): 1 course from ECON4010, 4020, 4110 or 4120, 5 ECON courses at 3000 or above level\n\n\t\n\n18\n\n\n\n\nUniversity Core Requirements: 0-1 College GE course[c]\n\n\t\n\n0-2\n\n\n\n\nUnits taken at CUHK:\n\n\t\n\n81-82\n\n\n\n\nUnits taken at THU and recognized by CUHK:\n\n\t\n\n24\n\n\n\n\nTotal:\n\n\t\n\n105-106\n\n[d][i]\n\n\n\n\nExplanatory Notes:\n\n\n\n\n1.\n\n \n\n\t\n\nSubject to approval by the Major Programme concerned, students may opt out of the Dual Degree Programme. The decision to opt out is irrevocable. Students who have opted out are required to complete and fulfill all graduation requirements of the Major Programme at CUHK. Students should be aware that such decision may result in a delay in graduation. Courses and units completed at the Host Institution can be transferred back for fulfillment of CUHK requirements, in accordance with the course mapping table.\n\n\n\n\n[a]\n\n\t\n\nSince most of the senior year courses will not be taken at CUHK, students will not be offered choices of concentration area(s).\n\n\n\n\n[b]\n\n\t\n\nStudents taking a term or a year load exceeding the maximum will need to seek approval from the Registrar.\n\n\n\n\n[c]\n\n\t\n\nThe recommended course pattern of College GE courses varies slightly depending on student’s college affiliation.\n\n\n\n\n[d]\n\n\t\n\nIn addition to ECON1101, 1111 and 2121, students are required to take MATH1550 to fulfil 10 units of Mathematics requirements of the Bachelor of Economics Programme at THU. In this connection, students need to take a total of 108-109 units (instead of 105-106 units) at CUHK.\n\n\n\n\n[e]\n\n\t\n\nCourses 30510763 (Intermediate Macroeconomics) and 30510973 (Econometrics (1)) taken at THU can be transferred to fulfil the requirements of ECON3021 and 3121.\n\n\n\n\n[f]\n\n\t\n\nCourse 40510620 (Diploma Project (Thesis)) taken at THU can be transferred to fulfil the requirements of ECON4901 and 4903.\n\n\n\n\n[g]\n\n\t\n\nCourses 12090052 (Military Theory, 2 units) and 12090062 (Military Skills, 2 units) are optional for Taiwan students. Taiwan students who do not take these two courses can take another course 12530033 (Freshman Orientation and Training, 3 units) at THU.\n\n\n\n\n[h]\n\n\t\n\nBased on the design of the DDP, students can choose to take their final CUHK term in the 1st term or 2nd term of the fourth year.\n\n\n\n\n[i]\n\n\t\n\nStudents are required to complete at least 48 units (out of 72) of major courses.\n\n\n\n\n \n\n\t\n\n \n\n\n\t\t\t\n\n\n\n\n \n\n\n\n\n \n\n\t\n\nRecommended Course Pattern for Mainland Students in fulfilment of requirements of the DDP with THU (Bachelor of Economics)[a]\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n(Study at CUHK)[b]\n\n\t\n\n1st term[b]\n\n\t\n\n \n\n\n\n\nFaculty Package: ECON2011, 1 Faculty Package course\n\n\t\n\n6\n\n\n\n\nMajor Required: ECON1101, 1902\n\n\t\n\n4\n\n\n\n\nUniversity Core Requirements: ELTU1001, 1 College GE course[c], 1 PHED course, 1 UGFH or UGFN course, [Understanding China] or [Hong Kong in the Wider Constitutional Order]\n\n\t\n\n10-11\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nFaculty Package: 1 course\n\n\t\n\n3\n\n\n\n\nMajor Required: ECON1111, 2021, 2121, 2901\n\n\t\n\n10\n\n\n\n\nUniversity Core Requirements: 1 PHED course, ENGG1003, [Understanding China] or [Hong Kong in the Wider Constitutional Order]\n\n\t\n\n5\n\n\n\n\nSummer Session\n\n\t\n\n \n\n\n\n\nUniversity Core Requirements: 1 UGEA course, 1 UGEB course\n\n\t\n\n4\n\n\n\n\nSecond Year (1st term) of Attendance\n\n(Study at CUHK)\n\n\t\n\n1st term[d]\n\n\t\n\n \n\n\n\n\nMajor Required: ECON3011\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): 2 ECON courses at 3000 or above level\n\n\t\n\n6\n\n\n\n\nUniversity Core Requirements: ELTU2020, 1 UGFH or UGFN course\n\n\t\n\n6\n\n\n\n\nSecond Year (2nd term), Third Year, and Fourth Year (1st term) of Attendance\n\n(Study at THU)\n\n\t\n\n2 years at THU\n\n\t\n\n93 units\n\n(with 24 units for fulfilment of the Major requirements to be transferred to CUHK)\n\n \n\n\n\n\nMajor Required Courses (9 units)[e]\n\n\n\n\nMajor Elective Courses (30 units)\n\n\n\n\nChinese Course (2 units)[f]\n\n\n\n\nPE Courses (2 units)\n\n\n\n\nIT Course (3 units)\n\n\n\n\nPolitical Thinking Courses (17 units)\n\n\n\n\nStudent Self-Development Courses (6 units)\n\n\n\n\nThesis Training (15 units)[g]\n\n\n\n\nPractice Training: Military Theory (2 units), Military Skills (2 units), Internship Courses (5 units)\n\n\n\n\nFourth Year (2nd term) of Attendance\n\n(Study at CUHK)[h]\n\n\t\n\n2nd term[b]\n\n\t\n\n \n\n\n\n\nMajor Required: ECON4901, 4903[g]\n\n\t\n\n-\n\n\n\n\nMajor Elective(s): 1 course from ECON4010, 4020, 4110 or 4120, 5 ECON courses at 3000 or above level\n\n\t\n\n18\n\n\n\n\nUniversity Core Requirements: 0-1 College GE course[c]\n\n\t\n\n 0-2\n\n\n\n\nUnits taken at CUHK:\n\n\t\n\n76-77\n\n\n\n\nUnits taken at THU and recognized by CUHK:\n\n\t\n\n24\n\n\n\n\nTotal:\n\n\t\n\n100-101\n\n[d][i]\n\n\n\n\nExplanatory Notes:\n\n\n\n\n[a]\n\n\t\n\nSince most of the senior year courses will not be taken at CUHK, students will not be offered choices of concentration area(s).\n\n\n\n\n[b]\n\n\t\n\nStudents taking a term or a year load exceeding the maximum will need to seek approval from the Registrar.\n\n\n\n\n[c]\n\n\t\n\nThe recommended course pattern of College GE courses varies slightly depending on student’s college affiliation.\n\n\n\n\n[d]\n\n\t\n\nIn addition to ECON1101, 1111 and 2121, students are required to take MATH1550 to fulfil 10 units of Mathematics requirements of the Bachelor of Economics Programme at THU. In this connection, students need to take a total of 103-104 units (instead of 100-101 units) at CUHK.\n\n\n\n\n[e]\n\n\t\n\nCourses 30510763 (Intermediate Macroeconomics) and 30510973 (Econometrics (1)) taken at THU can be transferred to fulfil the requirements of ECON3021 and 3121.\n\n\n\n\n[f]\n\n\t\n\nStudents who have completed either the course 10691342 (寫作與溝通, 2 units) or 10510072 (中文寫作, 2 units) at THU can be recognized as fulfilling the Chinese language requirements at CUHK.\n\n\n\n\n[g]\n\n\t\n\nCourse 40510620 (Diploma Project (Thesis)) taken at THU can be transferred to fulfil the requirements of ECON4901 and 4903.\n\n\n\n\n[h]\n\n\t\n\nBased on the design of the DDP, students can choose to take their final CUHK term in the 1st term or 2nd term of the fourth year.\n\n\n\n\n[i]\n\n\t\n\nStudents are required to complete at least 48 units (out of 72) of major courses.\n\n\n\n\n \n\n\t\n\n \n\n\n\t\t\t\n\n\n\n\n \n\n\n\n\n \n\n\t\n\nRecommended Course Pattern for International Students in fulfilment of requirements of the DDP with THU (Bachelor of Economics)[a]\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n(Study at CUHK)[b]\n\n\t\n\n1st term[b]\n\n\t\n\n \n\n\n\n\nFaculty Package: ECON2011, 1 Faculty Package course\n\n\t\n\n6\n\n\n\n\nMajor Required: ECON1101, 1902\n\n\t\n\n4\n\n\n\n\nUniversity Core Requirements: ELTU1001, 1 College GE course[c], 1 PHED course, 1 UGFH or UGFN course, [Understanding China] or [Hong Kong in the Wider Constitutional Order]\n\n\t\n\n10-11\n\n\n\n\n2nd term[b]\n\n\t\n\n \n\n\n\n\nFaculty Package: 1 course\n\n\t\n\n3\n\n\n\n\nMajor Required: ECON1111, 2021, 2121, 2901\n\n\t\n\n10\n\n\n\n\nUniversity Core Requirements: 1 PHED course, CHLT1001, ENGG1003, [Understanding China] or [Hong Kong in the Wider Constitutional Order]\n\n\t\n\n8\n\n\n\n\nSummer Session\n\n\t\n\n \n\n\n\n\nUniversity Core Requirements: 1 UGEA course, 1 UGEB course\n\n\t\n\n4\n\n\n\n\nSecond Year (1st term) of Attendance\n\n(Study at CUHK)\n\n\t\n\n1st term[d]\n\n\t\n\n \n\n\n\n\nMajor Required: ECON3011\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): 2 ECON courses at 3000 or above level\n\n\t\n\n6\n\n\n\n\nUniversity Core Requirements: ELTU2020, CHLT1002,\n\n1 UGFH or UGFN course\n\n\t\n\n8\n\n\n\n\nSecond Year (2nd term), Third Year, and Fourth Year (1st term) of Attendance\n\n(Study at THU)\n\n\t\n\n2 years at THU\n\n\t\n\n86 units\n\n(with 24 units for fulfilment of the Major requirements to be transferred to CUHK)\n\n \n\n\n\n\nMajor Required Courses (9 units)[e]\n\n\n\n\nMajor Elective Courses (30 units)\n\n\n\n\nPE Courses (2 units)\n\n\n\n\nIT Course (3 units)\n\n\n\n\nStudent Self-Development Courses (21 units)\n\n\n\n\nThesis Training (15 units)[f]\n\n\n\n\nPractice Training: Freshman Orientation and Training (1 unit), Internship Courses (5 units)\n\n\n\n\nFourth Year (2nd term) of Attendance\n\n(Study at CUHK)[g]\n\n\t\n\n2nd term[b]\n\n\t\n\n \n\n\n\n\nMajor Required: ECON4901, 4903[f]\n\n\t\n\n-\n\n\n\n\nMajor Elective(s): 1 course from ECON4010, 4020, 4110 or 4120, 5 ECON courses at 3000 or above level\n\n\t\n\n18\n\n\n\n\nUniversity Core Requirements: 0-1 College GE course[c]\n\n\t\n\n0-2\n\n\n\n\nUnits taken at CUHK:\n\n\t\n\n81-82\n\n\n\n\nUnits taken at THU and recognized by CUHK:\n\n\t\n\n24\n\n\n\n\nTotal:\n\n\t\n\n105-106\n\n[d][h]\n\n\n\n\nExplanatory Notes:\n\n\n\n\n1.\n\n\t\n\nSubject to approval by the Major Programme concerned, students may opt out of the Dual Degree Programme. The decision to opt out is irrevocable. Students who have opted out are required to complete and fulfill all graduation requirements of the Major Programme at CUHK. Students should be aware that such decision may result in a delay in graduation. Courses and units completed at the Host Institution can be transferred back for fulfillment of CUHK requirements, in accordance with the course mapping table.\n\n\n\n\n[a]\n\n\t\n\nSince most of the senior year courses will not be taken at CUHK, students will not be offered choices of concentration area(s).\n\n\n\n\n[b]\n\n\t\n\nStudents taking a term or a year load exceeding the maximum will need to seek approval from the Registrar.\n\n\n\n\n[c]\n\n\t\n\nThe recommended course pattern of College GE courses varies slightly depending on student’s college affiliation.\n\n\n\n\n[d]\n\n\t\n\nIn addition to ECON1101, 1111 and 2121, students are required to take MATH1550 to fulfil 10 units of Mathematics requirements of the Bachelor of Economics Programme at THU. In this connection, students need to take a total of 108-109 units (instead of 105-106 units) at CUHK.\n\n\n\n\n[e]\n\n\t\n\nCourses 30510763 (Intermediate Macroeconomics) and 30510973 (Econometrics (1)) taken at THU can be transferred to fulfil the requirements of ECON3021 and 3121.\n\n\n\n\n[f]\n\n\t\n\nCourse 40510620 (Diploma Project (Thesis)) taken at THU can be transferred to fulfil the requirements of ECON4901 and 4903.\n\n\n\n\n[g]\n\n\t\n\nBased on the design of the DDP, students can choose to take their final CUHK term in the 1st term or 2nd term of the fourth year.\n\n\n\n\n[h]\n\n\t\n\nStudents are required to complete at least 48 units (out of 72) of major courses.\n\n\n\n\n \n\n\t\n\n \n\n\n\t\t\t\n\n\n\n\n \n\n\n\n\n \n\nMajor Programme Requirement (for Associate Degree holders admitted to senior-year places)\n\n \n\n\n\n\nStudents are required to complete a minimum of 56 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nRequired Courses:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nECON2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)\n\n\t\n\n15\n\n\n\n\n(b)\n\n\t\n\nAt least 8 units from the following[a]:\n\n\t\n\n8\n\n\n\n\n \n\n\t\n\nECON1101, 1111, 2011, 2021 and 2121\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nElective Courses[b][c]:\n\n\t\n\n33\n\n\n\n\n \n\n\t\n\n33 units of elective ECON courses at 3000 or above level\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n56\n\n\n\n\n \n\n\n\n\nConcentration Area:\n\n\n\n\nStudents may choose to declare one, or up to two concentration areas by taking at least 15 units in the relevant area(s):\n\n\n\n\nEconomic Theory\n\n\n\n\n(a)\n\n\t\n\nRequired Courses:\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nECON4010 and 4020\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nElective Courses:\n\n\t\n\n9\n\n\n\n\n(i)\n\n\t\n\nAt least 3 units from ECON3160, 4110, 4120, 4910 and 4920\n\n\t\n\n \n\n\n\n\n(ii)\n\n\t\n\nup to 6 units MATH courses at 3000 or above level[d]\n\n\t\n\n \n\n\n\n\nFinancial Economics\n\n\n\n\n(a)\n\n\t\n\nRequired Courses:\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nECON3410 and 3420\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nElective Courses:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nAt least 9 units from ECON3140, 3520, 3540, 3580, 3620, 4120, 4450 and 4470\n\n\t\n\n \n\n\n\n\nBusiness Economics\n\n\n\n\n(a)\n\n\t\n\nRequired Courses:\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nECON3480 and 3590\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nElective Courses:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nAt least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120\n\n\t\n\n \n\n\n\n\nChinese Economy\n\n\n\n\n(a)\n\n\t\n\nRequired Courses:\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nECON3310 and 3460\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nElective Courses:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nAt least 9 units from ECON3250, 3350, 3370 and 3580\n\n\t\n\n \n\n\n\n\nData Analytics\n\n\n\n\n(a)\n\n\t\n\nRequired Courses:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nECON4120, 4130 and 4140\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nElective Courses:\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nAt least 6 units from CSCI3320, 4190, IERG3280/ESTR3302, SEEM4630 and 4730\n\n\t\n\n \n\n\n\n\n \n\n\n\n\nFor students taking two concentration areas, the courses must not overlap and count towards both concentration areas. In addition to the courses listed above, the Department may approve the inclusion of relevant selected topics courses or courses at 5000 or above level in the concentration areas.\n\n\n\n\n \n\n\n\n\nExplanatory Notes:\n\n\n\n\n1.\n\n\t\n\nECON courses at 2000 and above level will be included in the calculation of Major GPA for honours classification.\n\n\n\n\n[a]\n\n\t\n\nDepending on their academic background, holders of associate degrees are advised to take additional foundation courses beyond the 8 units required as appropriate.\n\n\n\n\n[b]\n\n\t\n\nStudents are allowed to take ECON courses at 5000 or above level to fulfill the Elective Courses requirement, subject to the consent of the course instructor.\n\n\n\n\n[c]\n\n\t\n\nStudents may declare a concentration area (i) after the requisite courses for the concentration area have been completed, or (ii) in the same term that the requisite courses are expected to be completed. Upon completion of all requisite courses for a concentration area, such concentration area will be indicated on academic transcripts.\n\n\n\n\n[d]\n\n\t\n\nStudents are required to declare which MATH course is to be counted towards the requirement of the Economic Theory concentration area at their final term of attendance.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\n \n\n\n\n\n \n\n\t\n\nRecommended Course Pattern (for Associate Degree holders admitted to senior-year places)\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: 1-2 course(s) from ECON1101 and 2011\n\n\t\n\n2-5\n\n\n\n\nMajor Elective(s): 2-3 courses\n\n\t\n\n6-9\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: 1-4 course(s) from ECON1111, 2021, 2121 and 2901\n\n\t\n\n2-10\n\n \n\n\n\n\nMajor Elective(s): 2-3 courses\n\n\t\n\n6-9\n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: ECON3011 and 4901\n\n\t\n\n5\n\n\n\n\nMajor Elective(s): 2-3 courses\n\n\t\n\n6-9\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: ECON3021, 3121 and 4903\n\n\t\n\n8\n\n\n\n\nMajor Elective(s): 2-3 courses\n\n\t\n\n6-9\n\n\n\n\nTotal:\n\n\t\n\n56\n\n\n\n\n \n\n\n\n\n \n\nMajor Programme Requirement (for Higher Diploma holders admitted to senior-year places)\n\n \n\n\n\n\nStudents are required to complete a minimum of 51 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nRequired Courses:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nECON2901, 3011, 3021, 3121, 4901 and 4903 (capstone course)\n\n\t\n\n15\n\n\n\n\n(b)\n\n\t\n\nAt least 3 units from the following[a]:\n\n\t\n\n3\n\n\n\n\n \n\n\t\n\nECON1101, 1111, 2011, 2021 and 2121\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nElective Courses[b][c]:\n\n\t\n\n33\n\n\n\n\n \n\n\t\n\n33 units of elective ECON courses at 3000 or above level\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n51\n\n\n\n\n \n\n\n\n\nConcentration Area:\n\n\n\n\nStudents may choose to declare one, or up to two concentration areas by taking at least 15 units in the relevant area(s):\n\n\n\n\nEconomic Theory\n\n\n\n\n(a)\n\n\t\n\nRequired Courses:\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nECON4010 and 4020\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nElective Courses:\n\n\t\n\n9\n\n\n\n\n(i)\n\n\t\n\nAt least 3 units from ECON3160, 4110, 4120, 4910 and 4920\n\n\t\n\n \n\n\n\n\n(ii)\n\n\t\n\nup to 6 units MATH courses at 3000 or above level[d]\n\n\t\n\n \n\n\n\n\nFinancial Economics\n\n\n\n\n(a)\n\n\t\n\nRequired Courses:\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nECON3410 and 3420\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nElective Courses:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nAt least 9 units from ECON3140, 3520, 3540, 3580, 3620, 4120, 4450 and 4470\n\n\t\n\n \n\n\n\n\nBusiness Economics\n\n\n\n\n(a)\n\n\t\n\nRequired Courses:\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nECON3480 and 3590\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nElective Courses:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nAt least 9 units from ECON3320, 3380, 3430, 3470, 3570, 3610, 3620, 3630 and 4120\n\n\t\n\n \n\n\n\n\nChinese Economy\n\n\n\n\n(a)\n\n\t\n\nRequired Courses:\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nECON3310 and 3460\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nElective Courses:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nAt least 9 units from ECON3250, 3350, 3370 and 3580\n\n\t\n\n \n\n\n\n\nData Analytics\n\n\n\n\n(a)\n\n\t\n\nRequired courses:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nECON4120, 4130 and 4140\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nElective courses:\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nAt least 6 units from CSCI3320, 4190, IERG3280/ESTR3302, SEEM4630 and 4730\n\n\t\n\n \n\n\n\n\n \n\n\n\n\nFor students taking two concentration areas, the courses must not overlap and count towards both concentration areas. In addition to the courses listed above, the Department may approve the inclusion of relevant selected topics courses or courses at 5000 or above level in the concentration areas.\n\n\n\n\n \n\n\n\n\nExplanatory Notes:\n\n\n\n\n1.\n\n\t\n\nECON courses at 2000 and above level will be included in the calculation of Major GPA for honours classification.\n\n\n\n\n[a]\n\n\t\n\nDepending on their academic background, holders of higher diplomas are advised to take additional foundation courses beyond the 3 units required as appropriate.\n\n\n\n\n[b]\n\n\t\n\nStudents are allowed to take ECON courses at 5000 or above level to fulfill the Elective Courses requirement, subject to the consent of the course instructor.\n\n\n\n\n[c]\n\n\t\n\nStudents may declare a concentration area (i) after the requisite courses for the concentration area have been completed, or (ii) in the same term that the requisite courses are expected to be completed. Upon completion of all requisite courses for a concentration area, such concentration area will be indicated on academic transcripts.\n\n\n\n\n[d]\n\n\t\n\nStudents are required to declare which MATH course is to be counted towards the requirement of the Economic Theory concentration area at their final term of attendance.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\n \n\n\n\n\n \n\n\t\n\nRecommended Course Pattern (for Higher Diploma holders admitted to senior-year places)\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: 1-2 course(s) from ECON1101 and 2011\n\n\t\n\n2-5\n\n\n\n\nMajor Elective(s): 2-3 courses\n\n\t\n\n6-9\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: 1-4 course(s) from ECON1111, 2021, 2121 and 2901\n\n\t\n\n2-10\n\n \n\n\n\n\nMajor Elective(s): 2-3 courses\n\n\t\n\n6-9\n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: ECON3011 and 4901\n\n\t\n\n5\n\n\n\n\nMajor Elective(s): 2-3 courses\n\n\t\n\n6-9\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: ECON3021, 3121 and 4903\n\n\t\n\n8\n\n\n\n\nMajor Elective(s): 2-3 courses\n\n\t\n\n6-9\n\n\n\n\nTotal:\n\n\t\n\n51\n\n\n\n\n \n\n\n\n\nMinor Programme Title\n\nEconomics\n\n \n\n\n\n\n \n\nMinor Programme Requirement\n\n \n\n\n\n\nStudents are required to complete a minimum of 18 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nRequired Courses[a]:\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nECON2011, 2021\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nElective Courses:\n\n\t\n\n12\n\n\n\n\n \n\n\t\n\n12 units of courses selected from any ECON course at 3000 or above level\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n18\n\n\n\n\nExplanatory Note:\n\n\n\n\n[a]\n\n\t\n\nStudents who have passed DOTE1030 are exempted from ECON2011, in which case ECON2011 is to be replaced by any ECON course at 3000 or above level.\n\nStudents who have passed DOTE1040 are exempted from ECON2021, in which case ECON2021 is to be replaced by any ECON course at 3000 or above level.\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\n\n\nCourse List\n\n \n\n\n\n\nCourse Code\n\n\t\n\nCourse Title\n\n\t\n\nUnit(s)\n\n\n\n\nECON1010\n\n\t\n\nPerspectives in Economics\n\n\t\n\n3\n\n\n\n\nECON1101\n\n\t\n\nMathematical Methods in Economics I\n\n\t\n\n2\n\n\n\n\nECON1111\n\n\t\n\nMathematical Methods in Economics II\n\n\t\n\n2\n\n\n\n\nECON1210\n\n\t\n\nEconomics and Society\n\n\t\n\n3\n\n\n\n\nECON1220\n\n\t\n\nContemporary Economic Thinking\n\n\t\n\n3\n\n\n\n\nECON1310\n\n\t\n\nCurrent Hong Kong Economic Issues\n\n\t\n\n3\n\n\n\n\nECON1420\n\n\t\n\nBasic Banking and Finance\n\n\t\n\n3\n\n\n\n\nECON1902\n\n\t\n\nA Guide to Learning Economics\n\n\t\n\n2\n\n\n\n\nECON2011\n\n\t\n\nBasic Microeconomics\n\n\t\n\n3\n\n\n\n\nECON2021\n\n\t\n\nBasic Macroeconomics\n\n\t\n\n3\n\n\n\n\nECON2121\n\n\t\n\nMethods of Economic Statistics\n\n\t\n\n3\n\n\n\n\nECON2901\n\n\t\n\nGuided Study in Current Economic Problems I\n\n\t\n\n2\n\n\n\n\nECON3011\n\n\t\n\nIntermediate Microeconomic Theory\n\n\t\n\n3\n\n\n\n\nECON3021\n\n\t\n\nIntermediate Macroeconomic Theory\n\n\t\n\n3\n\n\n\n\nECON3121\n\n\t\n\nIntroductory Econometrics\n\n\t\n\n3\n\n\n\n\nECON3140\n\n\t\n\nFinancial Data Analysis\n\n\t\n\n3\n\n\n\n\nECON3150\n\n\t\n\nMathematical Methods in Economics III\n\n\t\n\n3\n\n\n\n\nECON3160\n\n\t\n\nGame Theory\n\n\t\n\n3\n\n\n\n\nECON3230\n\n\t\n\nNew Political Economy\n\n\t\n\n3\n\n\n\n\nECON3240\n\n\t\n\nEconomics of Transition\n\n\t\n\n3\n\n\n\n\nECON3250\n\n\t\n\nChinese Economy: Heritage and Change\n\n\t\n\n3\n\n\n\n\nECON3260\n\n\t\n\nHistory of Economic Thought\n\n\t\n\n3\n\n\n\n\nECON3310\n\n\t\n\nEconomy of China\n\n\t\n\n3\n\n\n\n\nECON3320\n\n\t\n\nAsia-Pacific Economies\n\n\t\n\n3\n\n\n\n\nECON3350\n\n\t\n\nChina and the World Economy\n\n\t\n\n3\n\n\n\n\nECON3360\n\n\t\n\nChinese Economy in Transition\n\n\t\n\n3\n\n\n\n\nECON3370\n\n\t\n\nBusiness Environment of China\n\n\t\n\n3\n\n\n\n\nECON3380\n\n\t\n\nEconomy of Hong Kong\n\n\t\n\n3\n\n\n\n\nECON3410\n\n\t\n\nMoney and Banking\n\n\t\n\n3\n\n\n\n\nECON3420\n\n\t\n\nFinancial Economics\n\n\t\n\n3\n\n\n\n\nECON3430\n\n\t\n\nPublic Finance\n\n\t\n\n3\n\n\n\n\nECON3440\n\n\t\n\nUrban Economics\n\n\t\n\n3\n\n\n\n\nECON3460\n\n\t\n\nDevelopment Economics\n\n\t\n\n3\n\n\n\n\nECON3470\n\n\t\n\nLabour Economics\n\n\t\n\n3\n\n\n\n\nECON3480\n\n\t\n\nIndustrial Organization\n\n\t\n\n3\n\n\n\n\nECON3500\n\n\t\n\nEconomics of Social and Environmental Issues\n\n\t\n\n3\n\n\n\n\nECON3510\n\n\t\n\nFamily Economics\n\n\t\n\n3\n\n\n\n\nECON3520\n\n\t\n\nEconomics of Capital Markets\n\n\t\n\n3\n\n\n\n\nECON3530\n\n\t\n\nInternational Economic Relations\n\n\t\n\n3\n\n\n\n\nECON3540\n\n\t\n\nFoundations of Corporate Finance\n\n\t\n\n3\n\n\n\n\nECON3570\n\n\t\n\nInformation Technology and Economy\n\n\t\n\n3\n\n\n\n\nECON3580\n\n\t\n\nEmerging Financial Markets of China\n\n\t\n\n3\n\n\n\n\nECON3590\n\n\t\n\nBusiness Economics\n\n\t\n\n3\n\n\n\n\nECON3610\n\n\t\n\nInternational Trade\n\n\t\n\n3\n\n\n\n\nECON3620\n\n\t\n\nInternational Macroeconomics\n\n\t\n\n3\n\n\n\n\nECON3630\n\n\t\n\nLaw and Economics\n\n\t\n\n3\n\n\n\n\nECON4010\n\n\t\n\nAdvanced Topics in Microeconomics\n\n\t\n\n3\n\n\n\n\nECON4020\n\n\t\n\nAdvanced Macroeconomics\n\n\t\n\n3\n\n\n\n\nECON4110\n\n\t\n\nIntroductory Mathematical Economics\n\n\t\n\n3\n\n\n\n\nECON4120\n\n\t\n\nApplied Forecasting Methods\n\n\t\n\n3\n\n\n\n\nECON4130\n\n\t\n\nMachine Learning Methods in Economics\n\n\t\n\n3\n\n\n\n\nECON4140\n\n\t\n\nCapstone Project in Data Analytics\n\n\t\n\n3\n\n\n\n\nECON4430\n\n\t\n\nWelfare Economics\n\n\t\n\n3\n\n\n\n\nECON4450\n\n\t\n\nEconomics of Derivatives\n\n\t\n\n3\n\n\n\n\nECON4460\n\n\t\n\nEconomic Growth and Technological Change\n\n\t\n\n3\n\n\n\n\nECON4470\n\n\t\n\nEconomics of Behavioural Finance\n\n\t\n\n3\n\n\n\n\nECON4810\n\n\t\n\nSelected Topics in Economics I\n\n\t\n\n3\n\n\n\n\nECON4820\n\n\t\n\nSelected Topics in Economics II\n\n\t\n\n3\n\n\n\n\nECON4830\n\n\t\n\nSelected Topics in Economics III\n\n\t\n\n3\n\n\n\n\nECON4840\n\n\t\n\nSelected Topics in Economics IV\n\n\t\n\n3\n\n\n\n\nECON4850\n\n\t\n\nSelected Topics in Economics V\n\n\t\n\n3\n\n\n\n\nECON4860\n\n\t\n\nSelected Topics in Economics VI\n\n\t\n\n3\n\n\n\n\nECON4901\n\n\t\n\nGuided Study in Current Economic Problems II\n\n\t\n\n2\n\n\n\n\nECON4903\n\n\t\n\nEconomics in Practice\n\n\t\n\n2\n\n\n\n\nECON4910\n\n\t\n\nSenior Thesis Research I\n\n\t\n\n3\n\n\n\n\nECON4920\n\n\t\n\nSenior Thesis Research II\n\n\t\n\n3\n\n \n\n\n \n\nStudy Scheme\n\n\nLearning Outcomes\n \n\n\t\n\n \n\n1.          Major Programme:\n\nGraduates of this programme will achieve the following Knowledge, Skills, and Values and Attitudes Outcomes. \n\n \n\nKnowledge Outcomes\n\nKnowledge of basic economic theory and real-world economic issues including: \n\n(1)   Using powerful analytical tools to interpret complex economic phenomena;\n\n(2)   issues related to Greater-China and the world economy in an age of globalization, with an appreciation of the power and limitations of theory;\n\n \n\nSkills Outcomes\n\nCompetence in basic statistics, econometrics, and mathematics, including:\n\n(1)   the ability to apply empirical and mathematical tools in testing economic theory and analyzing real-world economic issues, and to make informed judgments on controversial economic issues and policy debates; and\n\n(2)   the ability to understand and predict emerging economic trends in an age of globalization so as to facilitate career planning and the management of  personal, corporate, and public finance in response to challenges from a fast-changing world.\n\n \n\nCompetence in a set of generic skills essential to the modern age, including:\n\n(1)   the ability to articulate ideas in verbal and written form;\n\n(2)   bilingual proficiency in meeting the challenges of globalization and Hong Kong as a gateway to China;\n\n(3)   logical and critical thinking as a foundation for life-long learning and future professional development; and\n\n(4)   interpersonal communications and collaboration skills.\n\n \n\nValues and Attitudes Outcomes\n\nA set of personal attributes conducive to good work and personal ethics for the 21st century, including:\n\n(1)   honesty and integrity, with emphasis on respecting intellectual property rights; \n\n(2)   cross-cultural sensitivity and tolerance as personal attributes needed to thrive in an increasingly internationalized workforce;\n\n(3)   the ability to engage in rational discussions in an increasingly transparent and participatory society; and\n\n(4)   embracing the philosophy of life-long learning.\n\n \n\n2.          Minor Programme:\n\nUpon the completion of the Minor Programme in Economics, students will have demonstrated basic understanding of fundamental issues related to economics such as:\n\nl   fundamental theories that explain market behaviour and changes in economic variables at the micro and macro levels,\n\nl   the scientific approach of testing theories using empirical data, and\n\nl   the sensitivity to emerging economic trends that affect career planning and the management of personal and corporate finance in a fast-changing world.\n\n \n\nStudents will have acquired knowledge of basic aspects of economics with sufficient exposure and at a suitable level to allow further study in economics-related subjects or to pursue a related career.\n\n \n\n \n\n\n"
+}

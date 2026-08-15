@@ -1,0 +1,2452 @@
+
+
+Browse Program Information
+
+
+
+
+
+
+Academic Program:	B.Sc. in Risk Management Science
+Academic Year:	2024
+Language:	
+English
+Simplified Chinese
+Traditional Chinese
+
+
+
+Learning Outcomes
+Study Scheme
+ 
+
+	
+
+Risk Management Science
+
+Applicable to students admitted in 2024-25
+
+
+
+
+ 
+
+
+
+
+ 
+
+There is one enrichment stream in the Risk Management Science Programme: Risk Analytics Stream.  Students who got a total score of 30 or above in the best five HKDSE subjects or have obtained a cumulative GPA of 3.7 or above in the first or second year of attendance may apply for specializing in the Risk Analytics Stream.
+
+ 
+
+
+
+
+Major Programme Requirement
+
+ 
+
+
+
+
+Students are required to complete a minimum of 72 units of courses as follows:
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+Units
+
+
+
+
+1.
+
+	
+
+Faculty Package:
+
+	
+
+9
+
+
+
+
+ 
+
+	
+
+Group C: MATH1010 (preferred) or 1018
+
+Group E: STAT1011
+
+One course from the following
+
+Group A: LSCI1001 or 1002 or 1012
+
+Group B: CHEM1070 or 1072 or 1280
+
+Group D: PHYS1001 or 1002 or 1111 or 1113, or
+
+Courses from Faculty Package of the Faculty of Business Administration: DOTE1031 or 1040 or HTMG1010 or MGNT1020
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+2.
+
+	
+
+Required Courses:
+
+	
+
+42
+
+
+
+
+ 
+
+	
+
+ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008# 
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+3.
+
+	
+
+Elective Courses:
+
+	
+
+21
+
+
+
+
+(a)
+
+	
+
+One course from CSCI1510, 1520, 1530, 1540, 1550, 1580 or STAT2005
+
+	
+
+ 
+
+
+
+
+(b)
+
+ 
+
+ 
+
+ 
+
+	
+
+Choose five courses from the following list, with at least two RMSC courses:
+
+CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#
+
+	
+
+ 
+
+
+
+
+(c)
+
+	
+
+One capstone/research course from RMSC4102 or 4202
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+Total:
+
+	
+
+72
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Explanatory Notes:
+
+	
+
+ 
+
+
+
+
+1.
+
+	
+
+RMSC courses at 2000 and above level as well as those labelled as # will be included in the calculation of Major GPA for honours classification.
+
+
+
+
+2.
+
+	
+
+Students admitted to the Dual Undergraduate Degree Programme (DDP) with The University of Edinburgh (UoE) are required to follow the major programme requirement and will not be able to declare a stream.
+
+
+
+
+[a]
+
+	
+
+Students may take ECON1010 as a substitute for DOTE1030.
+
+
+
+
+[b]
+
+	
+
+Students may take RMSC3001 as a substitute for FINA3080.
+
+
+
+
+[c]
+
+	
+
+Students may take CSCI2100# as a substitute for CSCI2520.
+
+
+
+
+ 
+
+	
+
+ 
+
+
+
+
+Risk Analytics Stream
+
+ 
+
+
+
+
+Students are required to complete a minimum of 72 units of courses as follows:
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+Units
+
+
+
+
+1.
+
+	
+
+Faculty Package:
+
+Group C: MATH1010 (preferred) or 1018
+
+Group E: STAT1011
+
+One course from the following
+
+Group A: LSCI1001 or 1002 or 1012
+
+Group B: CHEM1070 or 1072 or 1280
+
+Group D: PHYS1001 or 1002 or 1111 or 1113, or
+
+Courses from Faculty Package of the Faculty of Business Administration: DOTE1031 or 1040 or HTMG1010 or MGNT1020
+
+	
+
+9
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+2.
+
+	
+
+Required Courses:
+
+	
+
+48
+
+
+
+
+(a)
+
+	
+
+ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#
+
+	
+
+ 
+
+
+
+
+(b)
+
+	
+
+One course from CSCI1510, 1520, 1530, 1540, 1550 or 1580
+
+	
+
+ 
+
+
+
+
+(c)
+
+	
+
+One course from CSCI2510, 2720 or 3100
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+3.
+
+	
+
+Elective Courses:
+
+	
+
+  15
+
+
+
+
+(a)
+
+	
+
+Two courses from the following list:
+
+CSCI2520#[c], 3150#, 3160#, 3170#, 3230#, 3320#, 4130#, 4160#, 4180#, 4190#, 4230#, 5030#, 5150#, 5510#, ENGG5108#
+
+	
+
+ 
+
+
+
+
+(b)
+
+	
+
+Two courses from the following list:
+
+RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#
+
+	
+
+ 
+
+
+
+
+(c)
+
+	
+
+One capstone/research course from RMSC4112 or 4212
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+Total:
+
+	
+
+  72
+
+
+
+
+ 
+
+
+
+
+Explanatory Notes:
+
+
+
+
+1.
+
+	
+
+RMSC courses at 2000 and above level as well as those labelled as # will be included in the calculation of Major GPA for honours classification.
+
+
+
+
+[a]
+
+	
+
+Students may take ECON1010 as a substitute for DOTE1030.
+
+
+
+
+[b]
+
+	
+
+Students may take RMSC3001 as a substitute for FINA3080.
+
+
+
+
+[c]
+
+	
+
+Students may take CSCI2100# as a substitute for CSCI2520.
+
+
+
+
+ 
+
+	
+
+ 
+
+
+
+
+ 
+
+
+
+
+ Risk Management Science
+
+
+
+
+ 
+
+	
+
+Recommended Course Pattern
+
+	
+
+Units
+
+
+
+
+First Year of
+
+Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Faculty Package: Group E: STAT1011
+
+	
+
+3
+
+
+
+
+Major Required: ACCT1111 or 2111, DOTE1030, RMSC1101
+
+	
+
+7
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Faculty Package: Group C: MATH1010
+
+	
+
+6
+
+
+
+
+One course from Science Faculty Package A, B, D or
+
+BA Faculty Package: DOTE1031 or 1040 or HTMG1010 or MGNT1020
+
+	
+
+ 
+
+
+
+
+Major Required: FINA2010
+
+	
+
+3
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+Second Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: MATH1630, RMSC2001, STAT2001
+
+	
+
+9
+
+
+
+
+Major Elective(s): STAT2005
+
+	
+
+0-3
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required: MATH2010, RMSC2101, STAT2006
+
+	
+
+7
+
+
+
+
+Major Elective(s): One CSCI course at 1000 level (if STAT2005 not taken)
+
+	
+
+0-3
+
+
+
+
+Third Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: FINA3080 (if RMSC3001 not taken), RMSC4003, STAT3007, 3008
+
+	
+
+9-12
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required: RMSC3001 (if FINA3080 not taken), 3101, 4001
+
+	
+
+4-7
+
+
+
+
+Major Elective(s): One ECON or FINA course, one MATH course
+
+	
+
+6
+
+
+
+
+Fourth Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required:
+
+	
+
+ 
+
+
+
+
+Major Elective(s): RMSC4202, two RMSC courses
+
+	
+
+6-9
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required:
+
+	
+
+ 
+
+
+
+
+Major Elective(s): RMSC4102 (if RMSC4202 not taken), one RMSC or STAT course
+
+	
+
+3-6
+
+
+
+
+Total (including Faculty Package):
+
+	
+
+72
+
+
+
+
+ 
+
+
+
+
+Risk Management Science (Risk Analytics Stream)
+
+
+
+
+ 
+
+	
+
+Recommended Course Pattern
+
+	
+
+Units
+
+
+
+
+First Year of
+
+Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Faculty Package: Group E: STAT1011
+
+	
+
+3
+
+
+
+
+Major Required: ACCT1111 or 2111, DOTE1030, RMSC1101
+
+	
+
+7
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Faculty Package: Group C: MATH1010
+
+	
+
+6
+
+
+
+
+A course from Science Faculty Package A, B, D or
+
+BA Faculty Package: DOTE1031 or 1040 or HTMG1010 or MGNT1020
+
+	
+
+ 
+
+
+
+
+Major Required: FINA2010
+
+	
+
+3
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+Second Year of Attendance
+
+	
+
+1st term
+
+	
+
+
+Major Required: CSCI2510 or 2720 or 3100, MATH1630, RMSC2001, STAT2001
+
+	
+
+9-12
+
+
+
+
+Major Elective(s): One CSCI course at 1000 level
+
+	
+
+3
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required: CSCI2510 or 2720 or 3100 (if not taken), MATH2010, RMSC2101, STAT2006
+
+	
+
+7-10
+
+
+
+
+Major Elective(s): CSCI2520
+
+	
+
+3
+
+
+
+
+Third Year of Attendance
+
+	
+
+1st  term
+
+	
+
+
+Major Required: FINA3080 (if RMSC3001 not taken), RMSC4003, STAT3007, 3008
+
+	
+
+9-12
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required: RMSC3001 (if FINA3080 not taken), 3101, 4001
+
+	
+
+4-7
+
+
+
+
+Major Elective(s): One CSCI or ENGG course, one RMSC or STAT course at 4000 level
+
+	
+
+6
+
+
+
+
+Fourth Year of Attendance
+
+	
+
+1st term
+
+	
+
+
+Major Required:
+
+	
+
+ 
+
+
+
+
+Major Elective(s): RMSC4212, one RMSC or STAT course at 4000 level
+
+	
+
+3-6
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required:
+
+	
+
+ 
+
+
+
+
+Major Elective(s): RMSC4112 (if RMSC4212 not taken)
+
+	
+
+0-3
+
+
+
+
+Total (including Faculty Package):
+
+	
+
+72
+
+
+
+
+ 
+
+
+
+	
+
+Recommended Course Pattern for CUHK students in fulfillment of requirements of the Dual Undergraduate Degree Programme (DDP) with The University of Edinburgh (UoE) (BSc in Mathematics and Business)
+
+	
+
+Units
+
+
+
+
+First Year of Attendance (Study at CUHK)
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Faculty Package: STAT1011
+
+	
+
+3
+
+
+
+
+Major Required: ACCT1111, DOTE1030, RMSC1101
+
+	
+
+7
+
+
+
+
+University Core Requirements: 1 College GE course[a], ELTU1001, 1 PHED course
+
+	
+
+6-7
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Faculty Package: DOTE1040, MATH1010
+
+	
+
+6
+
+
+
+
+Major Required: FINA2010
+
+	
+
+3
+
+
+
+
+University Core Requirements: CHLT1001, ENGG1003, 1 PHED course
+
+	
+
+7
+
+
+
+
+Summer session
+
+	
+
+ 
+
+
+
+
+Major Required: MATH1030
+
+	
+
+3
+
+
+
+
+University Core Requirements: 1 UGFH or UGFN course
+
+	
+
+3
+
+
+
+
+Second Year of Attendance
+
+(Study at CUHK)
+
+	
+
+1st term[b]
+
+	
+
+ 
+
+
+
+
+Major Required: RMSC2001, STAT2001
+
+	
+
+6
+
+
+
+
+Major Elective(s): CSCI1510, 1520, 1530 or 1540
+
+	
+
+3
+
+
+
+
+Free Elective(s): MATH1050
+
+	
+
+3
+
+
+
+
+University Core Requirements: 0-1 College GE course[a], ELTU2018,  1 UGFH or UGFN course
+
+	
+
+6-8
+
+
+
+
+2nd term[b]
+
+	
+
+ 
+
+
+
+
+Major Required: MATH2010, RMSC2101, 3001, 3101, STAT2006
+
+	
+
+11
+
+
+
+
+Major Elective(s): CSCI2100 or 2520, FINA3210
+
+	
+
+6
+
+
+
+
+University Core Requirements: CHLT1002, UGCP1001 or 1002
+
+	
+
+3
+
+
+
+
+Summer session[b]
+
+	
+
+ 
+
+
+
+
+University Core Requirements: 1 UGEA course[c], 1 UGEC course[c], UGCP1001 or 1002
+
+	
+
+5
+
+
+
+
+Third Year of Attendance
+
+(Study at UoE)
+
+	
+
+1st term
+
+Major Required: CMSE10002 (20 units)[d], MATH10066 (20 units)
+
+Major Elective(s): MATH10007 (10 units)[e], 10095 (10 units)[f]
+
+	
+
+60 units
+
+(with 9 units for fulfillment of the Major requirements to be transferred to CUHK)
+
+
+
+
+2nd term
+
+Major Required: MATH10068 (20 units)
+
+Major Elective(s): BUST10023 (20 units)[g], MATH10003 (10 units)[h], 1 elective course (10 units)
+
+	
+
+60 units
+
+(with 6 units for fulfillment of the Major requirements to be transferred to CUHK)
+
+
+
+
+Fourth Year of Attendance
+
+(Study at UoE)
+
+	
+
+1st term
+
+Major Required: MATH10031 (40 units)[i]
+
+Major Elective(s): MATH11187 (10 units)[j]
+
+	
+
+50 units
+
+(with 6 units for fulfillment of the Major requirements to be transferred to CUHK)
+
+
+
+
+2nd term
+
+Major Required: BUST10012 (20 units), 10149 (20 units)
+
+Major Elective(s): MATH11202 (10 units)[k], 11205 (10 units)[l],  11131 (10 units)[m]
+
+	
+
+70 units
+
+(with 9 units for fulfillment of the Major requirements to be transferred to CUHK)
+
+
+
+
+Units taken at CUHK:
+
+	
+
+82-83
+
+
+
+
+Units taken at UoE and recognized by CUHK:
+
+	
+
+30
+
+
+
+
+Total:
+
+	
+
+112-113[n]
+
+Explanatory Notes:
+
+
+
+
+1.
+
+	
+
+Subject to approval by the Major Programme concerned, students may opt out of the Dual Degree Programme. The decision to opt out is irrevocable. Students who have opted out are required to complete and fulfill all graduation requirements of the Major Programme at CUHK. Students should be aware that such decision may result in a delay in graduation. Courses and units completed at the Host Institution can be transferred back for fulfillment of CUHK requirements, in accordance with the course mapping table.
+
+
+
+
+[a]
+
+	
+
+The recommended course pattern of College GE courses varies slightly depending on students’ College affiliation. Students who are required to take 4 units of College GE should take two 2-unit courses at different terms.
+
+
+
+
+[b]
+
+	
+
+Students taking a term and a year load exceeding the maximum will need to seek approval from the Registrar.
+
+
+
+
+[c]
+
+	
+
+Students should take one 2-unit UGEA course and one 2-unit UGEC course.
+
+
+
+
+[d]
+
+	
+
+CMSE10002 taken at UoE can be transferred to fulfill the requirement of RMSC4003.
+
+
+
+
+[e]
+
+	
+
+MATH10007 taken at UoE can be transferred to fulfill the requirement of STAT3007.
+
+
+
+
+[f]
+
+	
+
+MATH10095 taken at UoE can be transferred to fulfill the requirement of STAT4003.
+
+
+
+
+[g]
+
+	
+
+BUST10023 taken at UoE can be transferred to fulfill the requirement of RMSC4007.
+
+
+
+
+[h]
+
+	
+
+MATH10003 taken at UoE can be transferred to fulfill the requirement of RMSC4005.
+
+
+
+
+[i]
+
+	
+
+MATH10031 taken at UoE can be transferred to fulfill the requirement of RMSC4202.
+
+
+
+
+[j]
+
+	
+
+MATH11187 taken at UoE can be transferred to fulfill the requirement of STAT3008.
+
+
+
+
+[k]
+
+	
+
+MATH11202 taken at UoE can be transferred to fulfill the requirement of RMSC4001.
+
+
+
+
+[l]
+
+	
+
+MATH11205 taken at UoE can be transferred to fulfill the requirement of RMSC4002.
+
+
+
+
+[m]
+
+	
+
+MATH11131 taken at UoE can be transferred to fulfill the requirement of STAT4005.
+
+
+
+
+[n]
+
+	
+
+Students are required to complete at least 48 units (out of 72) of major courses offered by CUHK.
+
+ 
+
+
+
+
+ 
+
+
+
+
+Minor Programme Title
+
+Risk Management Science
+
+ 
+
+
+
+
+ 
+
+Minor Programme Requirement
+
+ 
+
+	
+
+ 
+
+
+
+
+Students are required to complete a minimum of 21 units of courses as follows:
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+Units
+
+
+
+
+1.
+
+	
+
+Required Course:
+
+	
+
+3
+
+
+
+
+ 
+
+	
+
+RMSC2001
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+2.
+
+	
+
+Elective Courses:
+
+	
+
+ 
+
+
+
+
+(a)
+
+	
+
+STAT1011[a]
+
+	
+
+3
+
+
+
+
+(b)
+
+	
+
+STAT2102[a]
+
+	
+
+3
+
+
+
+
+(c)
+
+	
+
+STAT2005 or one course from CSCI1510, 1520, 1530, 1540, 1550, 1580
+
+	
+
+3
+
+
+
+
+(d)
+
+	
+
+Three courses from RMSC4001, 4002, 4003, 4004, 4005, 4007, STAT4004
+
+	
+
+9
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+Total:
+
+	
+
+21
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Explanatory Notes:
+
+
+
+
+[a]
+
+	
+
+Students can take either the STAT course or its corresponding equivalent or closely related course, but not both, as listed below to fulfill the requirement:
+
+ 
+
+STAT courses
+
+	
+
+Equivalent/closely related courses
+
+
+
+
+STAT1011
+
+	
+
+Introduction to Statistics
+
+	
+
+STAT1012
+
+	
+
+Statistics for Life Sciences
+
+
+
+
+STAT2001
+
+	
+
+Basic Concepts in Statistics and Probability I
+
+
+
+
+DOTE2011
+
+	
+
+Statistical Analysis for Business Decisions
+
+
+
+
+FINA2220
+
+	
+
+Quantitative Methods for Actuarial Analysis I
+
+
+
+
+ENGG2760 and 2780 (4 units) or ESTR2018 and 2020 (4 units)
+
+	
+
+Probability for Engineers (ENGG2760/ESTR2018)
+
+Statistics for Engineers (ENGG2780/ESTR2020)
+
+
+
+
+ECON2121
+
+	
+
+Methods of Economic Statistics
+
+
+
+
+GRMD2102
+
+	
+
+Fundamental Statistics for Geographers
+
+
+
+
+SOCI2004
+
+	
+
+Social Statistics
+
+
+
+
+STAT2102
+
+	
+
+Basic Statistical Concepts and Methods II
+
+	
+
+STAT2006
+
+	
+
+Basic Concepts in Statistics and Probability II
+
+
+
+
+DOTE2021
+
+	
+
+Applied Econometrics for Business Decisions
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+
+Course List
+
+ 
+
+
+
+
+Course Code
+
+	
+
+Course Title
+
+	
+
+Unit(s)
+
+
+
+
+RMSC1101
+
+	
+
+Elementary Concepts in Risk Management
+
+	
+
+1
+
+
+
+
+RMSC2001
+
+	
+
+Introduction to Risk Management
+
+	
+
+3
+
+
+
+
+RMSC2101
+
+	
+
+Introductory Topics in Risk Management
+
+	
+
+1
+
+
+
+
+RMSC3001
+
+	
+
+Principles of Credit Risk Management
+
+	
+
+3
+
+
+
+
+RMSC3101
+
+	
+
+Special Topics in Risk Management
+
+	
+
+1
+
+
+
+
+RMSC4001
+
+	
+
+Simulation Methods for Risk Management Science and Finance
+
+	
+
+3
+
+
+
+
+RMSC4002
+
+	
+
+Financial Data Analytics with Machine Learning
+
+	
+
+3
+
+
+
+
+RMSC4003
+
+	
+
+Statistical Modelling in Financial Markets
+
+	
+
+3
+
+
+
+
+RMSC4004
+
+	
+
+Theory of Risk and Insurance
+
+	
+
+3
+
+
+
+
+RMSC4005
+
+	
+
+Stochastic Calculus for Finance and Risk
+
+	
+
+3
+
+
+
+
+RMSC4006
+
+	
+
+Operational Risk Management
+
+	
+
+3
+
+
+
+
+RMSC4007
+
+	
+
+Risk Management with Derivatives Concepts
+
+	
+
+3
+
+
+
+
+RMSC4102
+
+	
+
+Research Project
+
+	
+
+3
+
+
+
+
+RMSC4112
+
+	
+
+Research Project in Risk Analytics
+
+	
+
+3
+
+
+
+
+RMSC4202
+
+	
+
+Practicum
+
+	
+
+3
+
+
+
+
+RMSC4212
+
+	
+
+Practicum in Risk Analytics
+
+	
+
+3
+
+ 
+
+
+ 
+
+Study Scheme
+
+
+Learning Outcomes
+ 
+
+	
+
+ 
+
+1.
+
+	
+
+Major Programme:
+
+
+
+
+Graduates will have acquired the following:
+
+
+
+
+Knowledge:
+
+
+
+
+(1)
+
+	
+
+Knowledge of calculating risk and risk measures from a scientific perspective and their role in finance, insurance and related fields
+
+
+
+
+(2)
+
+	
+
+Background knowledge of accounting, economics for business studies, financial management and investment analysis
+
+
+
+
+(3)
+
+	
+
+Knowledge of mathematical tools for statistical analysis
+
+
+
+
+(4)
+
+	
+
+Knowledge of computer programming
+
+
+
+
+ 
+
+	
+
+ 
+
+
+
+
+Professional Skills:
+
+
+
+
+(1)
+
+	
+
+Ability to apply knowledge of statistics, accounting, economics and business studies to risk management
+
+
+
+
+(2)
+
+	
+
+Ability to articulate and convey concepts of risk and risk management to both layman and professional
+
+
+
+
+(3)
+
+	
+
+Ability to identify appropriate risk management measures
+
+
+
+
+(4)
+
+	
+
+Simulation skills for risk management
+
+
+
+
+(5)
+
+	
+
+Statistical skills for data analysis
+
+
+
+
+ 
+
+	
+
+ 
+
+
+
+
+General Competencies:
+
+
+
+
+(1)
+
+	
+
+Competence in Chinese and English languages
+
+
+
+
+(2)
+
+	
+
+Competence in using information technology
+
+
+
+
+(3)
+
+	
+
+Analytical skills
+
+
+
+
+(4)
+
+	
+
+Self-learning skills
+
+
+
+
+ 
+
+	
+
+ 
+
+
+
+
+Attitude/Value:
+
+
+
+
+(1)
+
+	
+
+Recognize the importance of risk management
+
+
+
+
+(2)
+
+	
+
+Appropriate attitude towards uncertainty
+
+
+
+
+(3)
+
+	
+
+High ethical standards
+
+
+
+
+ 
+
+	
+
+ 
+
+
+
+
+2.
+
+	
+
+Minor Programme:
+
+
+
+
+Upon the completion of the Minor Programme, students will have demonstrated basic understanding of fundamental issues related to Risk Management Science, acquired knowledge of calculating risk and risk measures from a scientific perspective and their role in finance, insurance and related fields.
+
+
+
+
+ 
+
+	
+
+ 
+
+
+
+
+ 
+
+ 
+
+ 
+
+

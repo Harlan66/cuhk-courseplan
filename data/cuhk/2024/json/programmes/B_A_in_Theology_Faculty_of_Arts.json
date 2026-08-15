@@ -1,0 +1,908 @@
+{
+  "programme_id": "B_A_in_Theology__Faculty_of_Arts",
+  "academic_program": "B.A. in Theology",
+  "faculty": "Faculty of Arts",
+  "academic_year": 2024,
+  "admission_cohort": "2024-25",
+  "requirement_summary": {
+    "minimum_units_as_printed": "a minimum of 70 units",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Faculty Package",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "ANTH1020",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "ARTS1005",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "ARTS1009",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "ARTS1010",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "BMBL1001",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CHES1101",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CHES1102",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CHLL1900",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CHLL1902",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CHLL1903",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CURE1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CURE1110",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CURE1400",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "ENGE1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "FAAS1900",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "HIST1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "HIST1700",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "HIST1701",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "JASP1090",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "LING1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "MUSC1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "THEO1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "TRAN1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          }
+        ],
+        "raw_text": "9\nAny three courses from:\nANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+      },
+      {
+        "number": 2,
+        "title": "Required Courses",
+        "units_as_printed": "28",
+        "course_mentions": [
+          {
+            "course_code": "CURE1122",
+            "prefix_inferred": false,
+            "evidence": "CURE1122, PHIL1110, THEO1211, 1212, 2235, 2236, 2241, 3221"
+          },
+          {
+            "course_code": "PHIL1110",
+            "prefix_inferred": false,
+            "evidence": "CURE1122, PHIL1110, THEO1211, 1212, 2235, 2236, 2241, 3221"
+          },
+          {
+            "course_code": "THEO1211",
+            "prefix_inferred": false,
+            "evidence": "CURE1122, PHIL1110, THEO1211, 1212, 2235, 2236, 2241, 3221"
+          },
+          {
+            "course_code": "THEO1212",
+            "prefix_inferred": true,
+            "evidence": "CURE1122, PHIL1110, THEO1211, 1212, 2235, 2236, 2241, 3221"
+          },
+          {
+            "course_code": "THEO2235",
+            "prefix_inferred": true,
+            "evidence": "CURE1122, PHIL1110, THEO1211, 1212, 2235, 2236, 2241, 3221"
+          },
+          {
+            "course_code": "THEO2236",
+            "prefix_inferred": true,
+            "evidence": "CURE1122, PHIL1110, THEO1211, 1212, 2235, 2236, 2241, 3221"
+          },
+          {
+            "course_code": "THEO2241",
+            "prefix_inferred": true,
+            "evidence": "CURE1122, PHIL1110, THEO1211, 1212, 2235, 2236, 2241, 3221"
+          },
+          {
+            "course_code": "THEO3221",
+            "prefix_inferred": true,
+            "evidence": "CURE1122, PHIL1110, THEO1211, 1212, 2235, 2236, 2241, 3221"
+          },
+          {
+            "course_code": "THEO4241",
+            "prefix_inferred": false,
+            "evidence": "Capstone Courses: THEO4241, 4242"
+          },
+          {
+            "course_code": "THEO4242",
+            "prefix_inferred": true,
+            "evidence": "Capstone Courses: THEO4241, 4242"
+          }
+        ],
+        "raw_text": "28\nCURE1122, PHIL1110, THEO1211, 1212, 2235, 2236, 2241, 3221\nCapstone Courses: THEO4241, 4242"
+      },
+      {
+        "number": 3,
+        "title": "Elective Courses",
+        "units_as_printed": "9",
+        "course_mentions": [],
+        "raw_text": "(a)\nOne course from each of Theological Studies Areas 2, 4 and 5\n9\n(b)\nAt least two courses at 2000 or above level from each of Theological Studies Areas 1 and 3\n12\n(c)\n12 units of elective courses chosen from the following:\n12\nAll THEO courses other than those taken in 2, 3(a) and (b) above, and all CURE courses except those listed under Cultural Studies Areas\nTotal:\n70\nExplanatory Notes:"
+      },
+      {
+        "number": 1,
+        "title": "Elective Courses",
+        "units_as_printed": "18",
+        "course_mentions": [
+          {
+            "course_code": "THEO1000",
+            "prefix_inferred": false,
+            "evidence": "THEO1000"
+          },
+          {
+            "course_code": "THEO1211",
+            "prefix_inferred": false,
+            "evidence": "THEO1211"
+          },
+          {
+            "course_code": "THEO1212",
+            "prefix_inferred": false,
+            "evidence": "THEO1212"
+          },
+          {
+            "course_code": "THEO2211",
+            "prefix_inferred": false,
+            "evidence": "THEO2211"
+          },
+          {
+            "course_code": "THEO2212",
+            "prefix_inferred": false,
+            "evidence": "THEO2212"
+          },
+          {
+            "course_code": "THEO2213",
+            "prefix_inferred": false,
+            "evidence": "THEO2213"
+          },
+          {
+            "course_code": "THEO2214",
+            "prefix_inferred": false,
+            "evidence": "THEO2214"
+          },
+          {
+            "course_code": "THEO2215",
+            "prefix_inferred": false,
+            "evidence": "THEO2215"
+          },
+          {
+            "course_code": "THEO2216",
+            "prefix_inferred": false,
+            "evidence": "THEO2216"
+          },
+          {
+            "course_code": "THEO3213",
+            "prefix_inferred": false,
+            "evidence": "THEO3213"
+          },
+          {
+            "course_code": "THEO3214",
+            "prefix_inferred": false,
+            "evidence": "THEO3214"
+          },
+          {
+            "course_code": "THEO3215",
+            "prefix_inferred": false,
+            "evidence": "THEO3215"
+          },
+          {
+            "course_code": "THEO3216",
+            "prefix_inferred": false,
+            "evidence": "THEO3216"
+          },
+          {
+            "course_code": "THEO3217",
+            "prefix_inferred": false,
+            "evidence": "THEO3217"
+          },
+          {
+            "course_code": "THEO3218",
+            "prefix_inferred": false,
+            "evidence": "THEO3218"
+          },
+          {
+            "course_code": "THEO2221",
+            "prefix_inferred": false,
+            "evidence": "THEO2221"
+          },
+          {
+            "course_code": "THEO3220",
+            "prefix_inferred": false,
+            "evidence": "THEO3220"
+          },
+          {
+            "course_code": "THEO3221",
+            "prefix_inferred": false,
+            "evidence": "THEO3221"
+          },
+          {
+            "course_code": "THEO3222",
+            "prefix_inferred": false,
+            "evidence": "THEO3222"
+          },
+          {
+            "course_code": "THEO3229",
+            "prefix_inferred": false,
+            "evidence": "THEO3229"
+          },
+          {
+            "course_code": "THEO2231",
+            "prefix_inferred": false,
+            "evidence": "THEO2231"
+          },
+          {
+            "course_code": "THEO2234",
+            "prefix_inferred": false,
+            "evidence": "THEO2234"
+          },
+          {
+            "course_code": "THEO2235",
+            "prefix_inferred": false,
+            "evidence": "THEO2235"
+          },
+          {
+            "course_code": "THEO2236",
+            "prefix_inferred": false,
+            "evidence": "THEO2236"
+          },
+          {
+            "course_code": "THEO3235",
+            "prefix_inferred": false,
+            "evidence": "THEO3235"
+          },
+          {
+            "course_code": "THEO3236",
+            "prefix_inferred": false,
+            "evidence": "THEO3236"
+          },
+          {
+            "course_code": "THEO2241",
+            "prefix_inferred": false,
+            "evidence": "THEO2241"
+          },
+          {
+            "course_code": "THEO3240",
+            "prefix_inferred": false,
+            "evidence": "THEO3240"
+          },
+          {
+            "course_code": "THEO3241",
+            "prefix_inferred": false,
+            "evidence": "THEO3241"
+          },
+          {
+            "course_code": "THEO3242",
+            "prefix_inferred": false,
+            "evidence": "THEO3242"
+          },
+          {
+            "course_code": "THEO3244",
+            "prefix_inferred": false,
+            "evidence": "THEO3244"
+          },
+          {
+            "course_code": "THEO3245",
+            "prefix_inferred": false,
+            "evidence": "THEO3245"
+          },
+          {
+            "course_code": "THEO3246",
+            "prefix_inferred": false,
+            "evidence": "THEO3246"
+          },
+          {
+            "course_code": "THEO3247",
+            "prefix_inferred": false,
+            "evidence": "THEO3247"
+          },
+          {
+            "course_code": "THEO3248",
+            "prefix_inferred": false,
+            "evidence": "THEO3248"
+          },
+          {
+            "course_code": "THEO4241",
+            "prefix_inferred": false,
+            "evidence": "THEO4241"
+          },
+          {
+            "course_code": "THEO4242",
+            "prefix_inferred": false,
+            "evidence": "THEO4242"
+          },
+          {
+            "course_code": "THEO2251",
+            "prefix_inferred": false,
+            "evidence": "THEO2251"
+          },
+          {
+            "course_code": "THEO3252",
+            "prefix_inferred": false,
+            "evidence": "THEO3252"
+          },
+          {
+            "course_code": "THEO3254",
+            "prefix_inferred": false,
+            "evidence": "THEO3254"
+          },
+          {
+            "course_code": "THEO3255",
+            "prefix_inferred": false,
+            "evidence": "THEO3255"
+          },
+          {
+            "course_code": "THEO3256",
+            "prefix_inferred": false,
+            "evidence": "THEO3256"
+          }
+        ],
+        "raw_text": "18\nSix THEO courses with at least one course at 2000 or above level and another two courses at 3000 or above level.\nTotal:\n18\nCourse List\nCourse Code\nCourse Title\nUnit(s)\nFaculty Package Course\nTHEO1000\nApproaches to Christian Studies\n3\nArea 1: Biblical Studies\nTHEO1211\nIntroduction to the Hebrew Bible\n3\nTHEO1212\nIntroduction to the New Testament\n3\nTHEO2211\nPentateuchal Studies\n3\nTHEO2212\nProphetic Literature\n3\nTHEO2213\nWisdom and the Psalms\n3\nTHEO2214\nSynoptic Gospels\n3\nTHEO2215\nJohannine Literature\n3\nTHEO2216\nPauline Letters\n3\nTHEO3213\nBiblical Studies: Special Topics I\n3\nTHEO3214\nBiblical Studies: Special Topics II\n3\nTHEO3215\nNew Testament Greek I\n3\nTHEO3216\nNew Testament Greek II\n3\nTHEO3217\nBiblical Hebrew I\n3\nTHEO3218\nBiblical Hebrew II\n3\nArea 2: History of Christianity\nTHEO2221\nEarly and Medieval Church\n3\nTHEO3220\nHistory of Christianity: Special Topics I\n3\nTHEO3221\nHistory of Christianity in China\n3\nTHEO3222\nHistory of Christianity in Hong Kong\n3\nTHEO3229\nHistory of Christianity: Special Topics II\n3\nArea 3: Theology\nTHEO2231\nHumanity and Salvation\n3\nTHEO2234\nCatholic Dogmatic\n3\nTHEO2235\nSystematic Theology I\n3\nTHEO2236\nSystematic Theology II\n3\nTHEO3235\nTheological Studies: Special Topics I\n3\nTHEO3236\nTheological Studies: Special Topics II\n3\nArea 4: Pastoral Studies\nTHEO2241\nPastoral Theology\n3\nTHEO3240\nLocal Church Study\n3\nTHEO3241\nHomiletics\n3\nTHEO3242\nDenominational Tradition and Polity\n3\nTHEO3244\nLiturgics\n3\nTHEO3245\nPreaching\n2\nTHEO3246\nDeath and Dying\n3\nTHEO3247\nPastoral Studies: Special Topics I\n3\nTHEO3248\nPastoral Studies: Special Topics II\n3\nTHEO4241\nField Education I\n2\nTHEO4242\nField Education II\n2\nArea 5: Christianity and Society\nTHEO2251\nFoundation of Religious Education\n3\nTHEO3252\nApproaches to Mission Studies\n3\nTHEO3254\nChristian Ethics\n3\nTHEO3255\nChristianity and Society: Special Topics I\n3\nTHEO3256\nChristianity and Society: Special Topics II\n3\nStudy Scheme\nLearning Outcomes"
+      },
+      {
+        "number": 1,
+        "title": "Major Programme",
+        "units_as_printed": null,
+        "course_mentions": [],
+        "raw_text": "Upon completion of their studies, students will have\n(1)\na critical understanding and appreciation of the interpretation of the Bible and Christian faith (K/S/V);\n(2)\nknowledge and appreciation of Christian literature (K/S/V);\n(3)\nunderstanding of the correlation between application of Christian belief and contemporary life contexts (S/V);\n(4)\na self-reflective attitude on student’s own belief and value (S/V); and\n(5)\na foundation and life-long interest in learning the knowledge of Christianity (K/S/V).\nK = Knowledge outcomes; S = Skills outcomes; V = Value and attitude outcomes"
+      },
+      {
+        "number": 2,
+        "title": "Minor Programme",
+        "units_as_printed": null,
+        "course_mentions": [],
+        "raw_text": "Upon the completion of the Minor Programme, students will have demonstrated basic understanding of fundamental issues related to the subject, acquired knowledge of some aspects of the subject with sufficient exposure and at a suitable level to allow further study in this subject or related subjects or to pursue a related career."
+      }
+    ]
+  },
+  "all_course_mentions": [
+    {
+      "course_code": "ANTH1020",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "ARTS1005",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "ARTS1009",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "ARTS1010",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "BMBL1001",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CHES1101",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CHES1102",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CHLL1900",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CHLL1902",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CHLL1903",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CURE1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CURE1110",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CURE1400",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "ENGE1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "FAAS1900",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "HIST1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "HIST1700",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "HIST1701",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "JASP1090",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "LING1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "MUSC1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "THEO1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "TRAN1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CURE1122",
+      "prefix_inferred": false,
+      "evidence": "CURE1122, PHIL1110, THEO1211, 1212, 2235, 2236, 2241, 3221"
+    },
+    {
+      "course_code": "PHIL1110",
+      "prefix_inferred": false,
+      "evidence": "CURE1122, PHIL1110, THEO1211, 1212, 2235, 2236, 2241, 3221"
+    },
+    {
+      "course_code": "THEO1211",
+      "prefix_inferred": false,
+      "evidence": "CURE1122, PHIL1110, THEO1211, 1212, 2235, 2236, 2241, 3221"
+    },
+    {
+      "course_code": "THEO1212",
+      "prefix_inferred": true,
+      "evidence": "CURE1122, PHIL1110, THEO1211, 1212, 2235, 2236, 2241, 3221"
+    },
+    {
+      "course_code": "THEO2235",
+      "prefix_inferred": true,
+      "evidence": "CURE1122, PHIL1110, THEO1211, 1212, 2235, 2236, 2241, 3221"
+    },
+    {
+      "course_code": "THEO2236",
+      "prefix_inferred": true,
+      "evidence": "CURE1122, PHIL1110, THEO1211, 1212, 2235, 2236, 2241, 3221"
+    },
+    {
+      "course_code": "THEO2241",
+      "prefix_inferred": true,
+      "evidence": "CURE1122, PHIL1110, THEO1211, 1212, 2235, 2236, 2241, 3221"
+    },
+    {
+      "course_code": "THEO3221",
+      "prefix_inferred": true,
+      "evidence": "CURE1122, PHIL1110, THEO1211, 1212, 2235, 2236, 2241, 3221"
+    },
+    {
+      "course_code": "THEO4241",
+      "prefix_inferred": false,
+      "evidence": "Capstone Courses: THEO4241, 4242"
+    },
+    {
+      "course_code": "THEO4242",
+      "prefix_inferred": true,
+      "evidence": "Capstone Courses: THEO4241, 4242"
+    },
+    {
+      "course_code": "THEO1211",
+      "prefix_inferred": false,
+      "evidence": "Major Required: THEO1211"
+    },
+    {
+      "course_code": "THEO1212",
+      "prefix_inferred": false,
+      "evidence": "Major Required: THEO1212"
+    },
+    {
+      "course_code": "CURE1122",
+      "prefix_inferred": false,
+      "evidence": "Major Required: 1 course from CURE1122, PHIL1110, THEO2235 and 2236"
+    },
+    {
+      "course_code": "PHIL1110",
+      "prefix_inferred": false,
+      "evidence": "Major Required: 1 course from CURE1122, PHIL1110, THEO2235 and 2236"
+    },
+    {
+      "course_code": "THEO2235",
+      "prefix_inferred": false,
+      "evidence": "Major Required: 1 course from CURE1122, PHIL1110, THEO2235 and 2236"
+    },
+    {
+      "course_code": "THEO2236",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 1 course from CURE1122, PHIL1110, THEO2235 and 2236"
+    },
+    {
+      "course_code": "THEO3221",
+      "prefix_inferred": false,
+      "evidence": "Major Required: THEO3221 and 1 course from CURE1122, PHIL1110, THEO2235 and 2236"
+    },
+    {
+      "course_code": "CURE1122",
+      "prefix_inferred": false,
+      "evidence": "Major Required: THEO3221 and 1 course from CURE1122, PHIL1110, THEO2235 and 2236"
+    },
+    {
+      "course_code": "PHIL1110",
+      "prefix_inferred": false,
+      "evidence": "Major Required: THEO3221 and 1 course from CURE1122, PHIL1110, THEO2235 and 2236"
+    },
+    {
+      "course_code": "THEO2235",
+      "prefix_inferred": false,
+      "evidence": "Major Required: THEO3221 and 1 course from CURE1122, PHIL1110, THEO2235 and 2236"
+    },
+    {
+      "course_code": "THEO2236",
+      "prefix_inferred": true,
+      "evidence": "Major Required: THEO3221 and 1 course from CURE1122, PHIL1110, THEO2235 and 2236"
+    },
+    {
+      "course_code": "THEO2241",
+      "prefix_inferred": false,
+      "evidence": "Major Required: THEO2241 and 1 course from CURE1122, PHIL1110, THEO2235 and 2236"
+    },
+    {
+      "course_code": "CURE1122",
+      "prefix_inferred": false,
+      "evidence": "Major Required: THEO2241 and 1 course from CURE1122, PHIL1110, THEO2235 and 2236"
+    },
+    {
+      "course_code": "PHIL1110",
+      "prefix_inferred": false,
+      "evidence": "Major Required: THEO2241 and 1 course from CURE1122, PHIL1110, THEO2235 and 2236"
+    },
+    {
+      "course_code": "THEO2235",
+      "prefix_inferred": false,
+      "evidence": "Major Required: THEO2241 and 1 course from CURE1122, PHIL1110, THEO2235 and 2236"
+    },
+    {
+      "course_code": "THEO2236",
+      "prefix_inferred": true,
+      "evidence": "Major Required: THEO2241 and 1 course from CURE1122, PHIL1110, THEO2235 and 2236"
+    },
+    {
+      "course_code": "THEO4241",
+      "prefix_inferred": false,
+      "evidence": "Major Required: THEO4241"
+    },
+    {
+      "course_code": "THEO4242",
+      "prefix_inferred": false,
+      "evidence": "Major Required: THEO4242"
+    },
+    {
+      "course_code": "THEO1000",
+      "prefix_inferred": false,
+      "evidence": "THEO1000"
+    },
+    {
+      "course_code": "THEO1211",
+      "prefix_inferred": false,
+      "evidence": "THEO1211"
+    },
+    {
+      "course_code": "THEO1212",
+      "prefix_inferred": false,
+      "evidence": "THEO1212"
+    },
+    {
+      "course_code": "THEO2211",
+      "prefix_inferred": false,
+      "evidence": "THEO2211"
+    },
+    {
+      "course_code": "THEO2212",
+      "prefix_inferred": false,
+      "evidence": "THEO2212"
+    },
+    {
+      "course_code": "THEO2213",
+      "prefix_inferred": false,
+      "evidence": "THEO2213"
+    },
+    {
+      "course_code": "THEO2214",
+      "prefix_inferred": false,
+      "evidence": "THEO2214"
+    },
+    {
+      "course_code": "THEO2215",
+      "prefix_inferred": false,
+      "evidence": "THEO2215"
+    },
+    {
+      "course_code": "THEO2216",
+      "prefix_inferred": false,
+      "evidence": "THEO2216"
+    },
+    {
+      "course_code": "THEO3213",
+      "prefix_inferred": false,
+      "evidence": "THEO3213"
+    },
+    {
+      "course_code": "THEO3214",
+      "prefix_inferred": false,
+      "evidence": "THEO3214"
+    },
+    {
+      "course_code": "THEO3215",
+      "prefix_inferred": false,
+      "evidence": "THEO3215"
+    },
+    {
+      "course_code": "THEO3216",
+      "prefix_inferred": false,
+      "evidence": "THEO3216"
+    },
+    {
+      "course_code": "THEO3217",
+      "prefix_inferred": false,
+      "evidence": "THEO3217"
+    },
+    {
+      "course_code": "THEO3218",
+      "prefix_inferred": false,
+      "evidence": "THEO3218"
+    },
+    {
+      "course_code": "THEO2221",
+      "prefix_inferred": false,
+      "evidence": "THEO2221"
+    },
+    {
+      "course_code": "THEO3220",
+      "prefix_inferred": false,
+      "evidence": "THEO3220"
+    },
+    {
+      "course_code": "THEO3221",
+      "prefix_inferred": false,
+      "evidence": "THEO3221"
+    },
+    {
+      "course_code": "THEO3222",
+      "prefix_inferred": false,
+      "evidence": "THEO3222"
+    },
+    {
+      "course_code": "THEO3229",
+      "prefix_inferred": false,
+      "evidence": "THEO3229"
+    },
+    {
+      "course_code": "THEO2231",
+      "prefix_inferred": false,
+      "evidence": "THEO2231"
+    },
+    {
+      "course_code": "THEO2234",
+      "prefix_inferred": false,
+      "evidence": "THEO2234"
+    },
+    {
+      "course_code": "THEO2235",
+      "prefix_inferred": false,
+      "evidence": "THEO2235"
+    },
+    {
+      "course_code": "THEO2236",
+      "prefix_inferred": false,
+      "evidence": "THEO2236"
+    },
+    {
+      "course_code": "THEO3235",
+      "prefix_inferred": false,
+      "evidence": "THEO3235"
+    },
+    {
+      "course_code": "THEO3236",
+      "prefix_inferred": false,
+      "evidence": "THEO3236"
+    },
+    {
+      "course_code": "THEO2241",
+      "prefix_inferred": false,
+      "evidence": "THEO2241"
+    },
+    {
+      "course_code": "THEO3240",
+      "prefix_inferred": false,
+      "evidence": "THEO3240"
+    },
+    {
+      "course_code": "THEO3241",
+      "prefix_inferred": false,
+      "evidence": "THEO3241"
+    },
+    {
+      "course_code": "THEO3242",
+      "prefix_inferred": false,
+      "evidence": "THEO3242"
+    },
+    {
+      "course_code": "THEO3244",
+      "prefix_inferred": false,
+      "evidence": "THEO3244"
+    },
+    {
+      "course_code": "THEO3245",
+      "prefix_inferred": false,
+      "evidence": "THEO3245"
+    },
+    {
+      "course_code": "THEO3246",
+      "prefix_inferred": false,
+      "evidence": "THEO3246"
+    },
+    {
+      "course_code": "THEO3247",
+      "prefix_inferred": false,
+      "evidence": "THEO3247"
+    },
+    {
+      "course_code": "THEO3248",
+      "prefix_inferred": false,
+      "evidence": "THEO3248"
+    },
+    {
+      "course_code": "THEO4241",
+      "prefix_inferred": false,
+      "evidence": "THEO4241"
+    },
+    {
+      "course_code": "THEO4242",
+      "prefix_inferred": false,
+      "evidence": "THEO4242"
+    },
+    {
+      "course_code": "THEO2251",
+      "prefix_inferred": false,
+      "evidence": "THEO2251"
+    },
+    {
+      "course_code": "THEO3252",
+      "prefix_inferred": false,
+      "evidence": "THEO3252"
+    },
+    {
+      "course_code": "THEO3254",
+      "prefix_inferred": false,
+      "evidence": "THEO3254"
+    },
+    {
+      "course_code": "THEO3255",
+      "prefix_inferred": false,
+      "evidence": "THEO3255"
+    },
+    {
+      "course_code": "THEO3256",
+      "prefix_inferred": false,
+      "evidence": "THEO3256"
+    }
+  ],
+  "course_code_aliases": [],
+  "source": {
+    "system": "CUHK CUSIS Browse Program Information",
+    "url": "https://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/tt_dsp_acad_prog.aspx",
+    "source_text_file": "data/cuhk/2024/programmes/B_A_in_Theology__Faculty_of_Arts.txt",
+    "reused_duplicate_entry": false,
+    "reused_from_faculty": null
+  },
+  "raw_text": "\n\nBrowse Program Information\n\n\n\n\n\n\nAcademic Program:\tB.A. in Theology\nAcademic Year:\t2024\nLanguage:\t\nEnglish\nSimplified Chinese\nTraditional Chinese\n\n\n\nLearning Outcomes\nStudy Scheme\n \n\n\t\n\nTheology\n\nApplicable to students admitted in 2024-25\n\n\n\n\n \n\n \n\nMajor Programme Requirement\n\n \n\n\n\n\nStudents are required to complete a minimum of 70 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nFaculty Package:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nAny three courses from:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nRequired Courses:\n\n\t\n\n28\n\n\n\n\n \n\n\t\n\nCURE1122, PHIL1110, THEO1211, 1212, 2235, 2236, 2241, 3221\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nCapstone Courses: THEO4241, 4242\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nElective Courses:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nOne course from each of Theological Studies Areas 2, 4 and 5\n\n\t\n\n9\n\n\n\n\n(b)\n\n\t\n\nAt least two courses at 2000 or above level from each of Theological Studies Areas 1 and 3\n\n\t\n\n12\n\n\n\n\n(c)\n\n\t\n\n12 units of elective courses chosen from the following:\n\n\t\n\n12\n\n\n\n\n \n\n\t\n\nAll THEO courses other than those taken in 2, 3(a) and (b) above, and all CURE courses except those listed under Cultural Studies Areas\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n70\n\n\n\n\nExplanatory Notes:\n\n\n\n\n1.\n\n\t\n\nTHEO and CURE courses at 2000 and above level will be included in the calculation of the Major GPA for honours classification.\n\n\n\n\n2.\n\n\t\n\nStudents in their final year of attendance are allowed to take THEO and CURE courses at 5000 or above level, subject to the approval of the Director of Divinity School of Chung Chi College and the Chairman of the Department of Cultural and Religious Studies.\n\n\n\n\n[ ]\n\n\t\n\nOld course code used in 2024-25 and before.\n\n\n\n\n \n\n\n\n\n \n\n \n\n\t\n\nRecommended Course Pattern\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: 1st Faculty Package course\n\n\t\n\n3\n\n\n\n\nMajor Required: THEO1211\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): 1 course\n\n\t\n\n3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nFaculty Package: 2nd Faculty Package course\n\n\t\n\n3\n\n\n\n\nMajor Required: THEO1212\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): 1 course\n\n\t\n\n3\n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: 3rd Faculty Package course\n\n\t\n\n3\n\n\n\n\nMajor Required: 1 course from CURE1122, PHIL1110, THEO2235 and 2236\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): 1 course\n\n\t\n\n3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: THEO3221 and 1 course from CURE1122, PHIL1110, THEO2235 and 2236\n\n\t\n\n6\n\n\n\n\nMajor Elective(s): 1 course\n\n\t\n\n3\n\n\n\n\nThird Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: THEO2241 and 1 course from CURE1122, PHIL1110, THEO2235 and 2236\n\n\t\n\n6\n\n\n\n\nMajor Elective(s): 1 course\n\n\t\n\n3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: 1 course from CURE1122, PHIL1110, THEO2235 and 2236\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): 1 course\n\n\t\n\n3\n\n\n\n\nFourth Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: THEO4241\n\n\t\n\n2\n\n\n\n\nMajor Elective(s): 3 courses\n\n\t\n\n9\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: THEO4242\n\n\t\n\n2\n\n\n\n\nMajor Elective(s): 2 courses\n\n\t\n\n6\n\n\n\n\nTotal (including Faculty Package):\n\n\t\n\n70\n\n\n\n\n \n\n\n\n\nMinor Programme Title\n\nTheology\n\n \n\n\n\n\n \n\nMinor Programme Requirement\n\n \n\n\n\n\nStudents are required to complete a minimum of 18 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nElective Courses:\n\n\t\n\n18\n\n\n\n\n \n\n\t\n\nSix THEO courses with at least one course at 2000 or above level and another two courses at 3000 or above level.\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n18\n\n\n\n\n \n\n\t\n\n \n\n\n\n\n \n\n\n\n\n \n\nCourse List\n\n \n\n\n\n\nCourse Code\n\n\t\n\nCourse Title\n\n\t\n\nUnit(s)\n\n\n\n\nFaculty Package Course\n\n\n\n\nTHEO1000\n\n\t\n\nApproaches to Christian Studies\n\n\t\n\n3\n\n\n\n\nArea 1: Biblical Studies\n\n\n\n\nTHEO1211\n\n\t\n\nIntroduction to the Hebrew Bible\n\n\t\n\n3\n\n\n\n\nTHEO1212\n\n\t\n\nIntroduction to the New Testament\n\n\t\n\n3\n\n\n\n\nTHEO2211\n\n\t\n\nPentateuchal Studies\n\n\t\n\n3\n\n\n\n\nTHEO2212\n\n\t\n\nProphetic Literature\n\n\t\n\n3\n\n\n\n\nTHEO2213\n\n\t\n\nWisdom and the Psalms\n\n\t\n\n3\n\n\n\n\nTHEO2214\n\n\t\n\nSynoptic Gospels\n\n\t\n\n3\n\n\n\n\nTHEO2215\n\n\t\n\nJohannine Literature\n\n\t\n\n3\n\n\n\n\nTHEO2216\n\n\t\n\nPauline Letters\n\n\t\n\n3\n\n\n\n\nTHEO3213\n\n\t\n\nBiblical Studies: Special Topics I\n\n\t\n\n3\n\n\n\n\nTHEO3214\n\n\t\n\nBiblical Studies: Special Topics II\n\n\t\n\n3\n\n\n\n\nTHEO3215\n\n\t\n\nNew Testament Greek I\n\n\t\n\n3\n\n\n\n\nTHEO3216\n\n\t\n\nNew Testament Greek II\n\n\t\n\n3\n\n\n\n\nTHEO3217\n\n\t\n\nBiblical Hebrew I\n\n\t\n\n3\n\n\n\n\nTHEO3218\n\n\t\n\nBiblical Hebrew II\n\n\t\n\n3\n\n\n\n\nArea 2: History of Christianity\n\n\n\n\nTHEO2221\n\n\t\n\nEarly and Medieval Church\n\n\t\n\n3\n\n\n\n\nTHEO3220\n\n\t\n\nHistory of Christianity: Special Topics I\n\n\t\n\n3\n\n\n\n\nTHEO3221\n\n\t\n\nHistory of Christianity in China\n\n\t\n\n3\n\n\n\n\nTHEO3222\n\n\t\n\nHistory of Christianity in Hong Kong\n\n\t\n\n3\n\n\n\n\nTHEO3229\n\n\t\n\nHistory of Christianity: Special Topics II\n\n\t\n\n3\n\n\n\n\nArea 3: Theology\n\n\n\n\nTHEO2231\n\n\t\n\nHumanity and Salvation\n\n\t\n\n3\n\n\n\n\nTHEO2234\n\n\t\n\nCatholic Dogmatic\n\n\t\n\n3\n\n\n\n\nTHEO2235\n\n\t\n\nSystematic Theology I\n\n\t\n\n3\n\n\n\n\nTHEO2236\n\n\t\n\nSystematic Theology II\n\n\t\n\n3\n\n\n\n\nTHEO3235\n\n\t\n\nTheological Studies: Special Topics I\n\n\t\n\n3\n\n\n\n\nTHEO3236\n\n\t\n\nTheological Studies: Special Topics II\n\n\t\n\n3\n\n\n\n\nArea 4: Pastoral Studies\n\n\n\n\nTHEO2241\n\n\t\n\nPastoral Theology\n\n\t\n\n3\n\n\n\n\nTHEO3240\n\n\t\n\nLocal Church Study\n\n\t\n\n3\n\n\n\n\nTHEO3241\n\n\t\n\nHomiletics\n\n\t\n\n3\n\n\n\n\nTHEO3242\n\n\t\n\nDenominational Tradition and Polity\n\n\t\n\n3\n\n\n\n\nTHEO3244\n\n\t\n\nLiturgics\n\n\t\n\n3\n\n\n\n\nTHEO3245\n\n\t\n\nPreaching\n\n\t\n\n2\n\n\n\n\nTHEO3246\n\n\t\n\nDeath and Dying\n\n\t\n\n3\n\n\n\n\nTHEO3247\n\n\t\n\nPastoral Studies: Special Topics I\n\n\t\n\n3\n\n\n\n\nTHEO3248\n\n\t\n\nPastoral Studies: Special Topics II\n\n\t\n\n3\n\n\n\n\nTHEO4241\n\n\t\n\nField Education I\n\n\t\n\n2\n\n\n\n\nTHEO4242\n\n\t\n\nField Education II\n\n\t\n\n2\n\n\n\n\nArea 5: Christianity and Society\n\n\n\n\nTHEO2251\n\n\t\n\nFoundation of Religious Education\n\n\t\n\n3\n\n\n\n\nTHEO3252\n\n\t\n\nApproaches to Mission Studies\n\n\t\n\n3\n\n\n\n\nTHEO3254\n\n\t\n\nChristian Ethics\n\n\t\n\n3\n\n\n\n\nTHEO3255\n\n\t\n\nChristianity and Society: Special Topics I\n\n\t\n\n3\n\n\n\n\nTHEO3256\n\n\t\n\nChristianity and Society: Special Topics II\n\n\t\n\n3\n\n \n\n\n \n\nStudy Scheme\n\n\nLearning Outcomes\n \n\n\t\n\n \n\n1.\n\n\t\n\nMajor Programme:\n\n\n\n\nUpon completion of their studies, students will have\n\n\n\n\n(1)\n\n\t\n\na critical understanding and appreciation of the interpretation of the Bible and Christian faith (K/S/V);\n\n\n\n\n(2)\n\n\t\n\nknowledge and appreciation of Christian literature (K/S/V); \n\n\n\n\n(3)\n\n\t\n\nunderstanding of the correlation between application of Christian belief and contemporary life contexts (S/V); \n\n\n\n\n(4)\n\n\t\n\na self-reflective attitude on student’s own belief and value (S/V); and\n\n\n\n\n(5)\n\n\t\n\na foundation and life-long interest in learning the knowledge of Christianity (K/S/V).\n\n\n\n\nK = Knowledge outcomes; S = Skills outcomes; V = Value and attitude outcomes\n\n \n\n\n\n\n2.\n\n\t\n\nMinor Programme:\n\n\n\n\nUpon the completion of the Minor Programme, students will have demonstrated basic understanding of fundamental issues related to the subject, acquired knowledge of some aspects of the subject with sufficient exposure and at a suitable level to allow further study in this subject or related subjects or to pursue a related career.\n\n \n\n \n\n \n\n\n"
+}

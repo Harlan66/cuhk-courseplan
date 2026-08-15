@@ -1,0 +1,3266 @@
+{
+  "programme_id": "B_Sc_in_Chemistry__Faculty_of_Science",
+  "academic_program": "B.Sc. in Chemistry",
+  "faculty": "Faculty of Science",
+  "academic_year": 2024,
+  "admission_cohort": "2024-25",
+  "requirement_summary": {
+    "minimum_units_as_printed": "a minimum of 68 units",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Faculty Package",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "CHEM1070",
+            "prefix_inferred": false,
+            "evidence": "Group B: CHEM1070"
+          },
+          {
+            "course_code": "PHYS1001",
+            "prefix_inferred": false,
+            "evidence": "Group D: PHYS1001 or 1002 or 1111"
+          },
+          {
+            "course_code": "PHYS1002",
+            "prefix_inferred": true,
+            "evidence": "Group D: PHYS1001 or 1002 or 1111"
+          },
+          {
+            "course_code": "PHYS1111",
+            "prefix_inferred": true,
+            "evidence": "Group D: PHYS1001 or 1002 or 1111"
+          },
+          {
+            "course_code": "LSCI1001",
+            "prefix_inferred": false,
+            "evidence": "Group A: LSCI1001 or 1002 or 1012"
+          },
+          {
+            "course_code": "LSCI1002",
+            "prefix_inferred": true,
+            "evidence": "Group A: LSCI1001 or 1002 or 1012"
+          },
+          {
+            "course_code": "LSCI1012",
+            "prefix_inferred": true,
+            "evidence": "Group A: LSCI1001 or 1002 or 1012"
+          },
+          {
+            "course_code": "MATH1520",
+            "prefix_inferred": false,
+            "evidence": "Group C: MATH1520 (preferred) or 1010 (preferred) or 1018 or 1550"
+          },
+          {
+            "course_code": "MATH1010",
+            "prefix_inferred": true,
+            "evidence": "Group C: MATH1520 (preferred) or 1010 (preferred) or 1018 or 1550"
+          },
+          {
+            "course_code": "MATH1018",
+            "prefix_inferred": true,
+            "evidence": "Group C: MATH1520 (preferred) or 1010 (preferred) or 1018 or 1550"
+          },
+          {
+            "course_code": "MATH1550",
+            "prefix_inferred": true,
+            "evidence": "Group C: MATH1520 (preferred) or 1010 (preferred) or 1018 or 1550"
+          },
+          {
+            "course_code": "STAT1011",
+            "prefix_inferred": false,
+            "evidence": "Group E: STAT1011 or 1012"
+          },
+          {
+            "course_code": "STAT1012",
+            "prefix_inferred": true,
+            "evidence": "Group E: STAT1011 or 1012"
+          }
+        ],
+        "raw_text": "9\nGroup B: CHEM1070\nGroup D: PHYS1001 or 1002 or 1111\nA course from the following:\nGroup A: LSCI1001 or 1002 or 1012\nGroup C: MATH1520 (preferred) or 1010 (preferred) or 1018 or 1550\nGroup E: STAT1011 or 1012"
+      },
+      {
+        "number": 2,
+        "title": "Required Courses",
+        "units_as_printed": "49",
+        "course_mentions": [
+          {
+            "course_code": "CHEM1300",
+            "prefix_inferred": false,
+            "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+          },
+          {
+            "course_code": "CHEM2110",
+            "prefix_inferred": true,
+            "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+          },
+          {
+            "course_code": "CHEM2120",
+            "prefix_inferred": true,
+            "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+          },
+          {
+            "course_code": "CHEM2200",
+            "prefix_inferred": true,
+            "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+          },
+          {
+            "course_code": "CHEM2270",
+            "prefix_inferred": true,
+            "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+          },
+          {
+            "course_code": "CHEM2300",
+            "prefix_inferred": true,
+            "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+          },
+          {
+            "course_code": "CHEM2310",
+            "prefix_inferred": true,
+            "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+          },
+          {
+            "course_code": "CHEM2400",
+            "prefix_inferred": true,
+            "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+          },
+          {
+            "course_code": "CHEM2860",
+            "prefix_inferred": true,
+            "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+          },
+          {
+            "course_code": "CHEM2870",
+            "prefix_inferred": true,
+            "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+          },
+          {
+            "course_code": "CHEM3130",
+            "prefix_inferred": true,
+            "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+          },
+          {
+            "course_code": "CHEM3220",
+            "prefix_inferred": true,
+            "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+          },
+          {
+            "course_code": "CHEM3320",
+            "prefix_inferred": true,
+            "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+          },
+          {
+            "course_code": "CHEM3410",
+            "prefix_inferred": true,
+            "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+          },
+          {
+            "course_code": "CHEM3810",
+            "prefix_inferred": true,
+            "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+          },
+          {
+            "course_code": "CHEM3830",
+            "prefix_inferred": true,
+            "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+          },
+          {
+            "course_code": "CHEM3860",
+            "prefix_inferred": true,
+            "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+          },
+          {
+            "course_code": "CHEM3870",
+            "prefix_inferred": true,
+            "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+          },
+          {
+            "course_code": "CHEM4030",
+            "prefix_inferred": true,
+            "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+          },
+          {
+            "course_code": "CHEM4040",
+            "prefix_inferred": true,
+            "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+          }
+        ],
+        "raw_text": "49\nCHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+      },
+      {
+        "number": 3,
+        "title": "Elective Courses",
+        "units_as_printed": "10",
+        "course_mentions": [
+          {
+            "course_code": "CHEM3230",
+            "prefix_inferred": false,
+            "evidence": "One course from: CHEM3230 or 3340"
+          },
+          {
+            "course_code": "CHEM3340",
+            "prefix_inferred": true,
+            "evidence": "One course from: CHEM3230 or 3340"
+          },
+          {
+            "course_code": "CHEM3420",
+            "prefix_inferred": false,
+            "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+          },
+          {
+            "course_code": "CHEM3820",
+            "prefix_inferred": true,
+            "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+          },
+          {
+            "course_code": "CHEM3840",
+            "prefix_inferred": true,
+            "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+          },
+          {
+            "course_code": "CHEM4100",
+            "prefix_inferred": true,
+            "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+          },
+          {
+            "course_code": "CHEM4101",
+            "prefix_inferred": true,
+            "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+          },
+          {
+            "course_code": "CHEM4200",
+            "prefix_inferred": true,
+            "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+          },
+          {
+            "course_code": "CHEM4280",
+            "prefix_inferred": true,
+            "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+          },
+          {
+            "course_code": "CHEM4300",
+            "prefix_inferred": true,
+            "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+          },
+          {
+            "course_code": "CHEM4303",
+            "prefix_inferred": true,
+            "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+          },
+          {
+            "course_code": "CHEM4400",
+            "prefix_inferred": true,
+            "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+          },
+          {
+            "course_code": "CHEM4440",
+            "prefix_inferred": true,
+            "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+          },
+          {
+            "course_code": "CHEM4471",
+            "prefix_inferred": true,
+            "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+          },
+          {
+            "course_code": "CHEM4630",
+            "prefix_inferred": true,
+            "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+          },
+          {
+            "course_code": "CHEM4640",
+            "prefix_inferred": true,
+            "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+          },
+          {
+            "course_code": "CHEM4710",
+            "prefix_inferred": true,
+            "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+          },
+          {
+            "course_code": "CHEM4730",
+            "prefix_inferred": true,
+            "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+          },
+          {
+            "course_code": "CHEM4780",
+            "prefix_inferred": true,
+            "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+          },
+          {
+            "course_code": "CHEM4784",
+            "prefix_inferred": true,
+            "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+          },
+          {
+            "course_code": "CHEM4785",
+            "prefix_inferred": true,
+            "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+          },
+          {
+            "course_code": "CHEM4786",
+            "prefix_inferred": true,
+            "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+          },
+          {
+            "course_code": "CHEM4788",
+            "prefix_inferred": true,
+            "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+          },
+          {
+            "course_code": "CHEM5300",
+            "prefix_inferred": false,
+            "evidence": "CHEM5300, 5301, 5303, 5540, 5550, 5560, 5620, 5642, 5680, 5780, 5784, 5785, 5910, 5920"
+          },
+          {
+            "course_code": "CHEM5301",
+            "prefix_inferred": true,
+            "evidence": "CHEM5300, 5301, 5303, 5540, 5550, 5560, 5620, 5642, 5680, 5780, 5784, 5785, 5910, 5920"
+          },
+          {
+            "course_code": "CHEM5303",
+            "prefix_inferred": true,
+            "evidence": "CHEM5300, 5301, 5303, 5540, 5550, 5560, 5620, 5642, 5680, 5780, 5784, 5785, 5910, 5920"
+          },
+          {
+            "course_code": "CHEM5540",
+            "prefix_inferred": true,
+            "evidence": "CHEM5300, 5301, 5303, 5540, 5550, 5560, 5620, 5642, 5680, 5780, 5784, 5785, 5910, 5920"
+          },
+          {
+            "course_code": "CHEM5550",
+            "prefix_inferred": true,
+            "evidence": "CHEM5300, 5301, 5303, 5540, 5550, 5560, 5620, 5642, 5680, 5780, 5784, 5785, 5910, 5920"
+          },
+          {
+            "course_code": "CHEM5560",
+            "prefix_inferred": true,
+            "evidence": "CHEM5300, 5301, 5303, 5540, 5550, 5560, 5620, 5642, 5680, 5780, 5784, 5785, 5910, 5920"
+          },
+          {
+            "course_code": "CHEM5620",
+            "prefix_inferred": true,
+            "evidence": "CHEM5300, 5301, 5303, 5540, 5550, 5560, 5620, 5642, 5680, 5780, 5784, 5785, 5910, 5920"
+          },
+          {
+            "course_code": "CHEM5642",
+            "prefix_inferred": true,
+            "evidence": "CHEM5300, 5301, 5303, 5540, 5550, 5560, 5620, 5642, 5680, 5780, 5784, 5785, 5910, 5920"
+          },
+          {
+            "course_code": "CHEM5680",
+            "prefix_inferred": true,
+            "evidence": "CHEM5300, 5301, 5303, 5540, 5550, 5560, 5620, 5642, 5680, 5780, 5784, 5785, 5910, 5920"
+          },
+          {
+            "course_code": "CHEM5780",
+            "prefix_inferred": true,
+            "evidence": "CHEM5300, 5301, 5303, 5540, 5550, 5560, 5620, 5642, 5680, 5780, 5784, 5785, 5910, 5920"
+          },
+          {
+            "course_code": "CHEM5784",
+            "prefix_inferred": true,
+            "evidence": "CHEM5300, 5301, 5303, 5540, 5550, 5560, 5620, 5642, 5680, 5780, 5784, 5785, 5910, 5920"
+          },
+          {
+            "course_code": "CHEM5785",
+            "prefix_inferred": true,
+            "evidence": "CHEM5300, 5301, 5303, 5540, 5550, 5560, 5620, 5642, 5680, 5780, 5784, 5785, 5910, 5920"
+          },
+          {
+            "course_code": "CHEM5910",
+            "prefix_inferred": true,
+            "evidence": "CHEM5300, 5301, 5303, 5540, 5550, 5560, 5620, 5642, 5680, 5780, 5784, 5785, 5910, 5920"
+          },
+          {
+            "course_code": "CHEM5920",
+            "prefix_inferred": true,
+            "evidence": "CHEM5300, 5301, 5303, 5540, 5550, 5560, 5620, 5642, 5680, 5780, 5784, 5785, 5910, 5920"
+          },
+          {
+            "course_code": "BCHE3050",
+            "prefix_inferred": false,
+            "evidence": "BCHE3050#, CMBI4002#, ENSC4525#, 4535#, EESC3220#, PHYS3021#, 3022#, 4031#, 4440#"
+          },
+          {
+            "course_code": "CMBI4002",
+            "prefix_inferred": false,
+            "evidence": "BCHE3050#, CMBI4002#, ENSC4525#, 4535#, EESC3220#, PHYS3021#, 3022#, 4031#, 4440#"
+          },
+          {
+            "course_code": "ENSC4525",
+            "prefix_inferred": false,
+            "evidence": "BCHE3050#, CMBI4002#, ENSC4525#, 4535#, EESC3220#, PHYS3021#, 3022#, 4031#, 4440#"
+          },
+          {
+            "course_code": "ENSC4535",
+            "prefix_inferred": true,
+            "evidence": "BCHE3050#, CMBI4002#, ENSC4525#, 4535#, EESC3220#, PHYS3021#, 3022#, 4031#, 4440#"
+          },
+          {
+            "course_code": "EESC3220",
+            "prefix_inferred": false,
+            "evidence": "BCHE3050#, CMBI4002#, ENSC4525#, 4535#, EESC3220#, PHYS3021#, 3022#, 4031#, 4440#"
+          },
+          {
+            "course_code": "PHYS3021",
+            "prefix_inferred": false,
+            "evidence": "BCHE3050#, CMBI4002#, ENSC4525#, 4535#, EESC3220#, PHYS3021#, 3022#, 4031#, 4440#"
+          },
+          {
+            "course_code": "PHYS3022",
+            "prefix_inferred": true,
+            "evidence": "BCHE3050#, CMBI4002#, ENSC4525#, 4535#, EESC3220#, PHYS3021#, 3022#, 4031#, 4440#"
+          },
+          {
+            "course_code": "PHYS4031",
+            "prefix_inferred": true,
+            "evidence": "BCHE3050#, CMBI4002#, ENSC4525#, 4535#, EESC3220#, PHYS3021#, 3022#, 4031#, 4440#"
+          },
+          {
+            "course_code": "PHYS4440",
+            "prefix_inferred": true,
+            "evidence": "BCHE3050#, CMBI4002#, ENSC4525#, 4535#, EESC3220#, PHYS3021#, 3022#, 4031#, 4440#"
+          }
+        ],
+        "raw_text": "10\n(a)\nOne course from: CHEM3230 or 3340\n(b)\n8 units from the following lists, of which at most one CHEM course at 3000 level and one non-CHEM course:\nUndergraduate electives:\nCHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788\nCHEM courses at 5000 level (with approval from the Department):\nCHEM5300, 5301, 5303, 5540, 5550, 5560, 5620, 5642, 5680, 5780, 5784, 5785, 5910, 5920\nNon-CHEM courses:\nBCHE3050#, CMBI4002#, ENSC4525#, 4535#, EESC3220#, PHYS3021#, 3022#, 4031#, 4440#\nTotal:\n68\nIn addition to fulfilling the above Major Programme Requirement, students meeting the criteria as specified by the Faculty can take the following stream offered by the Faculty:\nScience, Technology And Research Stream\nStudents are required to complete a minimum of 12 units of courses as follows:\nUnits"
+      },
+      {
+        "number": 1,
+        "title": "Required Courses",
+        "units_as_printed": "3",
+        "course_mentions": [
+          {
+            "course_code": "STAR2000",
+            "prefix_inferred": false,
+            "evidence": "STAR2000, 3000, 4000[a]"
+          },
+          {
+            "course_code": "STAR3000",
+            "prefix_inferred": true,
+            "evidence": "STAR2000, 3000, 4000[a]"
+          },
+          {
+            "course_code": "STAR4000",
+            "prefix_inferred": true,
+            "evidence": "STAR2000, 3000, 4000[a]"
+          },
+          {
+            "course_code": "STAR2050",
+            "prefix_inferred": false,
+            "evidence": "STAR2050, 3050, 4050"
+          },
+          {
+            "course_code": "STAR3050",
+            "prefix_inferred": true,
+            "evidence": "STAR2050, 3050, 4050"
+          },
+          {
+            "course_code": "STAR4050",
+            "prefix_inferred": true,
+            "evidence": "STAR2050, 3050, 4050"
+          }
+        ],
+        "raw_text": "(a)\nOne Faculty Package Course:\n3\nChoose from the two remaining groups of the Faculty Package that have not been used to fulfill the Faculty Package Requirement\n(b)\nResearch Courses:\n6\nSTAR2000, 3000, 4000[a]\n(c)\nSeminar Courses:\n3\nSTAR2050, 3050, 4050"
+      },
+      {
+        "number": 2,
+        "title": "Experiential Learning",
+        "units_as_printed": "12",
+        "course_mentions": [],
+        "raw_text": "---\nAt least 4 consecutive weeks of outside Hong Kong exposure[b]\nTotal:\n12\nExplanatory Notes:"
+      },
+      {
+        "number": 1,
+        "title": "Faculty Package",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "LSCI1002",
+            "prefix_inferred": false,
+            "evidence": "Group A: LSCI1002"
+          },
+          {
+            "course_code": "CHEM1070",
+            "prefix_inferred": false,
+            "evidence": "Group B: CHEM1070"
+          },
+          {
+            "course_code": "PHYS1002",
+            "prefix_inferred": false,
+            "evidence": "Group D: PHYS1002 (preferred) or 1001 or 1111"
+          },
+          {
+            "course_code": "PHYS1001",
+            "prefix_inferred": true,
+            "evidence": "Group D: PHYS1002 (preferred) or 1001 or 1111"
+          },
+          {
+            "course_code": "PHYS1111",
+            "prefix_inferred": true,
+            "evidence": "Group D: PHYS1002 (preferred) or 1001 or 1111"
+          }
+        ],
+        "raw_text": "9\nGroup A: LSCI1002\nGroup B: CHEM1070\nGroup D: PHYS1002 (preferred) or 1001 or 1111"
+      },
+      {
+        "number": 2,
+        "title": "Required Courses",
+        "units_as_printed": "29",
+        "course_mentions": [
+          {
+            "course_code": "CHEM1300",
+            "prefix_inferred": false,
+            "evidence": "CHEM1300, 2110, 2120, 2200, 2300, 2400, 2868, 2878, 3130, 3220, 3320, 3410"
+          },
+          {
+            "course_code": "CHEM2110",
+            "prefix_inferred": true,
+            "evidence": "CHEM1300, 2110, 2120, 2200, 2300, 2400, 2868, 2878, 3130, 3220, 3320, 3410"
+          },
+          {
+            "course_code": "CHEM2120",
+            "prefix_inferred": true,
+            "evidence": "CHEM1300, 2110, 2120, 2200, 2300, 2400, 2868, 2878, 3130, 3220, 3320, 3410"
+          },
+          {
+            "course_code": "CHEM2200",
+            "prefix_inferred": true,
+            "evidence": "CHEM1300, 2110, 2120, 2200, 2300, 2400, 2868, 2878, 3130, 3220, 3320, 3410"
+          },
+          {
+            "course_code": "CHEM2300",
+            "prefix_inferred": true,
+            "evidence": "CHEM1300, 2110, 2120, 2200, 2300, 2400, 2868, 2878, 3130, 3220, 3320, 3410"
+          },
+          {
+            "course_code": "CHEM2400",
+            "prefix_inferred": true,
+            "evidence": "CHEM1300, 2110, 2120, 2200, 2300, 2400, 2868, 2878, 3130, 3220, 3320, 3410"
+          },
+          {
+            "course_code": "CHEM2868",
+            "prefix_inferred": true,
+            "evidence": "CHEM1300, 2110, 2120, 2200, 2300, 2400, 2868, 2878, 3130, 3220, 3320, 3410"
+          },
+          {
+            "course_code": "CHEM2878",
+            "prefix_inferred": true,
+            "evidence": "CHEM1300, 2110, 2120, 2200, 2300, 2400, 2868, 2878, 3130, 3220, 3320, 3410"
+          },
+          {
+            "course_code": "CHEM3130",
+            "prefix_inferred": true,
+            "evidence": "CHEM1300, 2110, 2120, 2200, 2300, 2400, 2868, 2878, 3130, 3220, 3320, 3410"
+          },
+          {
+            "course_code": "CHEM3220",
+            "prefix_inferred": true,
+            "evidence": "CHEM1300, 2110, 2120, 2200, 2300, 2400, 2868, 2878, 3130, 3220, 3320, 3410"
+          },
+          {
+            "course_code": "CHEM3320",
+            "prefix_inferred": true,
+            "evidence": "CHEM1300, 2110, 2120, 2200, 2300, 2400, 2868, 2878, 3130, 3220, 3320, 3410"
+          },
+          {
+            "course_code": "CHEM3410",
+            "prefix_inferred": true,
+            "evidence": "CHEM1300, 2110, 2120, 2200, 2300, 2400, 2868, 2878, 3130, 3220, 3320, 3410"
+          },
+          {
+            "course_code": "BCHE2030",
+            "prefix_inferred": false,
+            "evidence": "BCHE2030, BIOL2120#, 2210#, 2410#, 2420#, 3012, 3022, 3560#, 3570#, 3610#, 3620#, 4010, LSCI1012, 2002"
+          },
+          {
+            "course_code": "BIOL2120",
+            "prefix_inferred": false,
+            "evidence": "BCHE2030, BIOL2120#, 2210#, 2410#, 2420#, 3012, 3022, 3560#, 3570#, 3610#, 3620#, 4010, LSCI1012, 2002"
+          },
+          {
+            "course_code": "BIOL2210",
+            "prefix_inferred": true,
+            "evidence": "BCHE2030, BIOL2120#, 2210#, 2410#, 2420#, 3012, 3022, 3560#, 3570#, 3610#, 3620#, 4010, LSCI1012, 2002"
+          },
+          {
+            "course_code": "BIOL2410",
+            "prefix_inferred": true,
+            "evidence": "BCHE2030, BIOL2120#, 2210#, 2410#, 2420#, 3012, 3022, 3560#, 3570#, 3610#, 3620#, 4010, LSCI1012, 2002"
+          },
+          {
+            "course_code": "BIOL2420",
+            "prefix_inferred": true,
+            "evidence": "BCHE2030, BIOL2120#, 2210#, 2410#, 2420#, 3012, 3022, 3560#, 3570#, 3610#, 3620#, 4010, LSCI1012, 2002"
+          },
+          {
+            "course_code": "BIOL3012",
+            "prefix_inferred": true,
+            "evidence": "BCHE2030, BIOL2120#, 2210#, 2410#, 2420#, 3012, 3022, 3560#, 3570#, 3610#, 3620#, 4010, LSCI1012, 2002"
+          },
+          {
+            "course_code": "BIOL3022",
+            "prefix_inferred": true,
+            "evidence": "BCHE2030, BIOL2120#, 2210#, 2410#, 2420#, 3012, 3022, 3560#, 3570#, 3610#, 3620#, 4010, LSCI1012, 2002"
+          },
+          {
+            "course_code": "BIOL3560",
+            "prefix_inferred": true,
+            "evidence": "BCHE2030, BIOL2120#, 2210#, 2410#, 2420#, 3012, 3022, 3560#, 3570#, 3610#, 3620#, 4010, LSCI1012, 2002"
+          },
+          {
+            "course_code": "BIOL3570",
+            "prefix_inferred": true,
+            "evidence": "BCHE2030, BIOL2120#, 2210#, 2410#, 2420#, 3012, 3022, 3560#, 3570#, 3610#, 3620#, 4010, LSCI1012, 2002"
+          },
+          {
+            "course_code": "BIOL3610",
+            "prefix_inferred": true,
+            "evidence": "BCHE2030, BIOL2120#, 2210#, 2410#, 2420#, 3012, 3022, 3560#, 3570#, 3610#, 3620#, 4010, LSCI1012, 2002"
+          },
+          {
+            "course_code": "BIOL3620",
+            "prefix_inferred": true,
+            "evidence": "BCHE2030, BIOL2120#, 2210#, 2410#, 2420#, 3012, 3022, 3560#, 3570#, 3610#, 3620#, 4010, LSCI1012, 2002"
+          },
+          {
+            "course_code": "BIOL4010",
+            "prefix_inferred": true,
+            "evidence": "BCHE2030, BIOL2120#, 2210#, 2410#, 2420#, 3012, 3022, 3560#, 3570#, 3610#, 3620#, 4010, LSCI1012, 2002"
+          },
+          {
+            "course_code": "LSCI1012",
+            "prefix_inferred": false,
+            "evidence": "BCHE2030, BIOL2120#, 2210#, 2410#, 2420#, 3012, 3022, 3560#, 3570#, 3610#, 3620#, 4010, LSCI1012, 2002"
+          },
+          {
+            "course_code": "LSCI2002",
+            "prefix_inferred": true,
+            "evidence": "BCHE2030, BIOL2120#, 2210#, 2410#, 2420#, 3012, 3022, 3560#, 3570#, 3610#, 3620#, 4010, LSCI1012, 2002"
+          }
+        ],
+        "raw_text": "(a)\n1st Major: Chemistry\n29\nCHEM1300, 2110, 2120, 2200, 2300, 2400, 2868, 2878, 3130, 3220, 3320, 3410\n(b)\n2nd Major: Biology\n32\nBCHE2030, BIOL2120#, 2210#, 2410#, 2420#, 3012, 3022, 3560#, 3570#, 3610#, 3620#, 4010, LSCI1012, 2002"
+      },
+      {
+        "number": 3,
+        "title": "Elective Courses",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "CHEM3810",
+            "prefix_inferred": false,
+            "evidence": "Two laboratory courses from CHEM3810, 3830, 3860, 3870"
+          },
+          {
+            "course_code": "CHEM3830",
+            "prefix_inferred": true,
+            "evidence": "Two laboratory courses from CHEM3810, 3830, 3860, 3870"
+          },
+          {
+            "course_code": "CHEM3860",
+            "prefix_inferred": true,
+            "evidence": "Two laboratory courses from CHEM3810, 3830, 3860, 3870"
+          },
+          {
+            "course_code": "CHEM3870",
+            "prefix_inferred": true,
+            "evidence": "Two laboratory courses from CHEM3810, 3830, 3860, 3870"
+          },
+          {
+            "course_code": "CHEM3230",
+            "prefix_inferred": false,
+            "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+          },
+          {
+            "course_code": "CHEM3340",
+            "prefix_inferred": true,
+            "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+          },
+          {
+            "course_code": "CHEM3420",
+            "prefix_inferred": true,
+            "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+          },
+          {
+            "course_code": "CHEM4100",
+            "prefix_inferred": true,
+            "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+          },
+          {
+            "course_code": "CHEM4101",
+            "prefix_inferred": true,
+            "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+          },
+          {
+            "course_code": "CHEM4110",
+            "prefix_inferred": true,
+            "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+          },
+          {
+            "course_code": "CHEM4200",
+            "prefix_inferred": true,
+            "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+          },
+          {
+            "course_code": "CHEM4300",
+            "prefix_inferred": true,
+            "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+          },
+          {
+            "course_code": "CHEM4303",
+            "prefix_inferred": true,
+            "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+          },
+          {
+            "course_code": "CHEM4400",
+            "prefix_inferred": true,
+            "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+          },
+          {
+            "course_code": "CHEM4440",
+            "prefix_inferred": true,
+            "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+          },
+          {
+            "course_code": "CHEM4630",
+            "prefix_inferred": true,
+            "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+          },
+          {
+            "course_code": "CHEM4640",
+            "prefix_inferred": true,
+            "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+          },
+          {
+            "course_code": "CHEM4710",
+            "prefix_inferred": true,
+            "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+          },
+          {
+            "course_code": "CHEM4780",
+            "prefix_inferred": true,
+            "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+          },
+          {
+            "course_code": "CHEM4784",
+            "prefix_inferred": true,
+            "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+          },
+          {
+            "course_code": "CHEM4785",
+            "prefix_inferred": true,
+            "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+          },
+          {
+            "course_code": "CHEM4786",
+            "prefix_inferred": true,
+            "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+          },
+          {
+            "course_code": "CHEM4788",
+            "prefix_inferred": true,
+            "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+          },
+          {
+            "course_code": "ENSC4525",
+            "prefix_inferred": false,
+            "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+          },
+          {
+            "course_code": "ENSC4535",
+            "prefix_inferred": true,
+            "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+          },
+          {
+            "course_code": "BIOL2213",
+            "prefix_inferred": false,
+            "evidence": "One laboratory course from BIOL2213, 2313"
+          },
+          {
+            "course_code": "BIOL2313",
+            "prefix_inferred": true,
+            "evidence": "One laboratory course from BIOL2213, 2313"
+          },
+          {
+            "course_code": "BIOL3310",
+            "prefix_inferred": false,
+            "evidence": "BIOL3310, 3410, 3510, 3530, 3630, 3710, 4120, 4230, 4240, 4260, 4310, 4420, 4510, 4610, 4901, LSCI3520"
+          },
+          {
+            "course_code": "BIOL3410",
+            "prefix_inferred": true,
+            "evidence": "BIOL3310, 3410, 3510, 3530, 3630, 3710, 4120, 4230, 4240, 4260, 4310, 4420, 4510, 4610, 4901, LSCI3520"
+          },
+          {
+            "course_code": "BIOL3510",
+            "prefix_inferred": true,
+            "evidence": "BIOL3310, 3410, 3510, 3530, 3630, 3710, 4120, 4230, 4240, 4260, 4310, 4420, 4510, 4610, 4901, LSCI3520"
+          },
+          {
+            "course_code": "BIOL3530",
+            "prefix_inferred": true,
+            "evidence": "BIOL3310, 3410, 3510, 3530, 3630, 3710, 4120, 4230, 4240, 4260, 4310, 4420, 4510, 4610, 4901, LSCI3520"
+          },
+          {
+            "course_code": "BIOL3630",
+            "prefix_inferred": true,
+            "evidence": "BIOL3310, 3410, 3510, 3530, 3630, 3710, 4120, 4230, 4240, 4260, 4310, 4420, 4510, 4610, 4901, LSCI3520"
+          },
+          {
+            "course_code": "BIOL3710",
+            "prefix_inferred": true,
+            "evidence": "BIOL3310, 3410, 3510, 3530, 3630, 3710, 4120, 4230, 4240, 4260, 4310, 4420, 4510, 4610, 4901, LSCI3520"
+          },
+          {
+            "course_code": "BIOL4120",
+            "prefix_inferred": true,
+            "evidence": "BIOL3310, 3410, 3510, 3530, 3630, 3710, 4120, 4230, 4240, 4260, 4310, 4420, 4510, 4610, 4901, LSCI3520"
+          },
+          {
+            "course_code": "BIOL4230",
+            "prefix_inferred": true,
+            "evidence": "BIOL3310, 3410, 3510, 3530, 3630, 3710, 4120, 4230, 4240, 4260, 4310, 4420, 4510, 4610, 4901, LSCI3520"
+          },
+          {
+            "course_code": "BIOL4240",
+            "prefix_inferred": true,
+            "evidence": "BIOL3310, 3410, 3510, 3530, 3630, 3710, 4120, 4230, 4240, 4260, 4310, 4420, 4510, 4610, 4901, LSCI3520"
+          },
+          {
+            "course_code": "BIOL4260",
+            "prefix_inferred": true,
+            "evidence": "BIOL3310, 3410, 3510, 3530, 3630, 3710, 4120, 4230, 4240, 4260, 4310, 4420, 4510, 4610, 4901, LSCI3520"
+          },
+          {
+            "course_code": "BIOL4310",
+            "prefix_inferred": true,
+            "evidence": "BIOL3310, 3410, 3510, 3530, 3630, 3710, 4120, 4230, 4240, 4260, 4310, 4420, 4510, 4610, 4901, LSCI3520"
+          },
+          {
+            "course_code": "BIOL4420",
+            "prefix_inferred": true,
+            "evidence": "BIOL3310, 3410, 3510, 3530, 3630, 3710, 4120, 4230, 4240, 4260, 4310, 4420, 4510, 4610, 4901, LSCI3520"
+          },
+          {
+            "course_code": "BIOL4510",
+            "prefix_inferred": true,
+            "evidence": "BIOL3310, 3410, 3510, 3530, 3630, 3710, 4120, 4230, 4240, 4260, 4310, 4420, 4510, 4610, 4901, LSCI3520"
+          },
+          {
+            "course_code": "BIOL4610",
+            "prefix_inferred": true,
+            "evidence": "BIOL3310, 3410, 3510, 3530, 3630, 3710, 4120, 4230, 4240, 4260, 4310, 4420, 4510, 4610, 4901, LSCI3520"
+          },
+          {
+            "course_code": "BIOL4901",
+            "prefix_inferred": true,
+            "evidence": "BIOL3310, 3410, 3510, 3530, 3630, 3710, 4120, 4230, 4240, 4260, 4310, 4420, 4510, 4610, 4901, LSCI3520"
+          },
+          {
+            "course_code": "LSCI3520",
+            "prefix_inferred": false,
+            "evidence": "BIOL3310, 3410, 3510, 3530, 3630, 3710, 4120, 4230, 4240, 4260, 4310, 4420, 4510, 4610, 4901, LSCI3520"
+          }
+        ],
+        "raw_text": "(a)\n1st Major: Chemistry\n9\ni)\nTwo laboratory courses from CHEM3810, 3830, 3860, 3870\nii)\nAt least 5 units chosen from the following, of which at most one CHEM course at 3000 level:\nCHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#\n(b)\n2nd Major: Biology\n6\ni)\nOne laboratory course from BIOL2213, 2313\nii)\nAt least 5 units chosen from the following:\nBIOL3310, 3410, 3510, 3530, 3630, 3710, 4120, 4230, 4240, 4260, 4310, 4420, 4510, 4610, 4901, LSCI3520"
+      },
+      {
+        "number": 4,
+        "title": "Research Component/ Capstone Course/ Final Year Project[a]",
+        "units_as_printed": "4",
+        "course_mentions": [
+          {
+            "course_code": "CHEM4030",
+            "prefix_inferred": false,
+            "evidence": "CHEM4030, 4040"
+          },
+          {
+            "course_code": "CHEM4040",
+            "prefix_inferred": true,
+            "evidence": "CHEM4030, 4040"
+          }
+        ],
+        "raw_text": "4\nCHEM4030, 4040\nTotal:\n89\nExplanatory Notes:"
+      },
+      {
+        "number": 1,
+        "title": "Required Courses",
+        "units_as_printed": "18",
+        "course_mentions": [
+          {
+            "course_code": "CHEM2120",
+            "prefix_inferred": false,
+            "evidence": "CHEM2120, 2200, 2300, 2400, 2860, 2870"
+          },
+          {
+            "course_code": "CHEM2200",
+            "prefix_inferred": true,
+            "evidence": "CHEM2120, 2200, 2300, 2400, 2860, 2870"
+          },
+          {
+            "course_code": "CHEM2300",
+            "prefix_inferred": true,
+            "evidence": "CHEM2120, 2200, 2300, 2400, 2860, 2870"
+          },
+          {
+            "course_code": "CHEM2400",
+            "prefix_inferred": true,
+            "evidence": "CHEM2120, 2200, 2300, 2400, 2860, 2870"
+          },
+          {
+            "course_code": "CHEM2860",
+            "prefix_inferred": true,
+            "evidence": "CHEM2120, 2200, 2300, 2400, 2860, 2870"
+          },
+          {
+            "course_code": "CHEM2870",
+            "prefix_inferred": true,
+            "evidence": "CHEM2120, 2200, 2300, 2400, 2860, 2870"
+          }
+        ],
+        "raw_text": "18\nCHEM2120, 2200, 2300, 2400, 2860, 2870"
+      },
+      {
+        "number": 2,
+        "title": "Elective Courses",
+        "units_as_printed": "6",
+        "course_mentions": [
+          {
+            "course_code": "CHEM3130",
+            "prefix_inferred": false,
+            "evidence": "At least six units from: CHEM3130, 3220, 3320, 3410, 4788, ENSC4525, 4535"
+          },
+          {
+            "course_code": "CHEM3220",
+            "prefix_inferred": true,
+            "evidence": "At least six units from: CHEM3130, 3220, 3320, 3410, 4788, ENSC4525, 4535"
+          },
+          {
+            "course_code": "CHEM3320",
+            "prefix_inferred": true,
+            "evidence": "At least six units from: CHEM3130, 3220, 3320, 3410, 4788, ENSC4525, 4535"
+          },
+          {
+            "course_code": "CHEM3410",
+            "prefix_inferred": true,
+            "evidence": "At least six units from: CHEM3130, 3220, 3320, 3410, 4788, ENSC4525, 4535"
+          },
+          {
+            "course_code": "CHEM4788",
+            "prefix_inferred": true,
+            "evidence": "At least six units from: CHEM3130, 3220, 3320, 3410, 4788, ENSC4525, 4535"
+          },
+          {
+            "course_code": "ENSC4525",
+            "prefix_inferred": false,
+            "evidence": "At least six units from: CHEM3130, 3220, 3320, 3410, 4788, ENSC4525, 4535"
+          },
+          {
+            "course_code": "ENSC4535",
+            "prefix_inferred": true,
+            "evidence": "At least six units from: CHEM3130, 3220, 3320, 3410, 4788, ENSC4525, 4535"
+          },
+          {
+            "course_code": "CHEM1070",
+            "prefix_inferred": false,
+            "evidence": "CHEM1070"
+          },
+          {
+            "course_code": "CHEM1072",
+            "prefix_inferred": false,
+            "evidence": "CHEM1072"
+          },
+          {
+            "course_code": "CHEM1280",
+            "prefix_inferred": false,
+            "evidence": "CHEM1280"
+          },
+          {
+            "course_code": "CHEM1300",
+            "prefix_inferred": false,
+            "evidence": "CHEM1300"
+          },
+          {
+            "course_code": "CHEM1380",
+            "prefix_inferred": false,
+            "evidence": "CHEM1380"
+          },
+          {
+            "course_code": "CHEM1870",
+            "prefix_inferred": false,
+            "evidence": "CHEM1870"
+          },
+          {
+            "course_code": "CHEM2110",
+            "prefix_inferred": false,
+            "evidence": "CHEM2110"
+          },
+          {
+            "course_code": "CHEM2120",
+            "prefix_inferred": false,
+            "evidence": "CHEM2120"
+          },
+          {
+            "course_code": "CHEM2200",
+            "prefix_inferred": false,
+            "evidence": "CHEM2200"
+          },
+          {
+            "course_code": "CHEM2270",
+            "prefix_inferred": false,
+            "evidence": "CHEM2270"
+          },
+          {
+            "course_code": "CHEM2300",
+            "prefix_inferred": false,
+            "evidence": "CHEM2300"
+          },
+          {
+            "course_code": "CHEM2310",
+            "prefix_inferred": false,
+            "evidence": "CHEM2310"
+          },
+          {
+            "course_code": "CHEM2382",
+            "prefix_inferred": false,
+            "evidence": "CHEM2382"
+          },
+          {
+            "course_code": "CHEM2400",
+            "prefix_inferred": false,
+            "evidence": "CHEM2400"
+          },
+          {
+            "course_code": "CHEM2860",
+            "prefix_inferred": false,
+            "evidence": "CHEM2860"
+          },
+          {
+            "course_code": "CHEM2868",
+            "prefix_inferred": false,
+            "evidence": "CHEM2868"
+          },
+          {
+            "course_code": "CHEM2870",
+            "prefix_inferred": false,
+            "evidence": "CHEM2870"
+          },
+          {
+            "course_code": "CHEM2878",
+            "prefix_inferred": false,
+            "evidence": "CHEM2878"
+          },
+          {
+            "course_code": "CHEM3130",
+            "prefix_inferred": false,
+            "evidence": "CHEM3130"
+          },
+          {
+            "course_code": "CHEM3220",
+            "prefix_inferred": false,
+            "evidence": "CHEM3220"
+          },
+          {
+            "course_code": "CHEM3230",
+            "prefix_inferred": false,
+            "evidence": "CHEM3230"
+          },
+          {
+            "course_code": "CHEM3320",
+            "prefix_inferred": false,
+            "evidence": "CHEM3320"
+          },
+          {
+            "course_code": "CHEM3340",
+            "prefix_inferred": false,
+            "evidence": "CHEM3340"
+          },
+          {
+            "course_code": "CHEM3410",
+            "prefix_inferred": false,
+            "evidence": "CHEM3410"
+          },
+          {
+            "course_code": "CHEM3420",
+            "prefix_inferred": false,
+            "evidence": "CHEM3420"
+          },
+          {
+            "course_code": "CHEM3810",
+            "prefix_inferred": false,
+            "evidence": "CHEM3810"
+          },
+          {
+            "course_code": "CHEM3820",
+            "prefix_inferred": false,
+            "evidence": "CHEM3820"
+          },
+          {
+            "course_code": "CHEM3830",
+            "prefix_inferred": false,
+            "evidence": "CHEM3830"
+          },
+          {
+            "course_code": "CHEM3840",
+            "prefix_inferred": false,
+            "evidence": "CHEM3840"
+          },
+          {
+            "course_code": "CHEM3860",
+            "prefix_inferred": false,
+            "evidence": "CHEM3860"
+          },
+          {
+            "course_code": "CHEM3870",
+            "prefix_inferred": false,
+            "evidence": "CHEM3870"
+          },
+          {
+            "course_code": "CHEM3880",
+            "prefix_inferred": false,
+            "evidence": "CHEM3880"
+          },
+          {
+            "course_code": "CHEM4010",
+            "prefix_inferred": false,
+            "evidence": "CHEM4010"
+          },
+          {
+            "course_code": "CHEM4020",
+            "prefix_inferred": false,
+            "evidence": "CHEM4020"
+          },
+          {
+            "course_code": "CHEM4030",
+            "prefix_inferred": false,
+            "evidence": "CHEM4030"
+          },
+          {
+            "course_code": "CHEM4040",
+            "prefix_inferred": false,
+            "evidence": "CHEM4040"
+          },
+          {
+            "course_code": "CHEM4100",
+            "prefix_inferred": false,
+            "evidence": "CHEM4100"
+          },
+          {
+            "course_code": "CHEM4101",
+            "prefix_inferred": false,
+            "evidence": "CHEM4101"
+          },
+          {
+            "course_code": "CHEM4200",
+            "prefix_inferred": false,
+            "evidence": "CHEM4200"
+          },
+          {
+            "course_code": "CHEM4280",
+            "prefix_inferred": false,
+            "evidence": "CHEM4280"
+          },
+          {
+            "course_code": "CHEM4300",
+            "prefix_inferred": false,
+            "evidence": "CHEM4300"
+          },
+          {
+            "course_code": "CHEM4303",
+            "prefix_inferred": false,
+            "evidence": "CHEM4303"
+          },
+          {
+            "course_code": "CHEM4400",
+            "prefix_inferred": false,
+            "evidence": "CHEM4400"
+          },
+          {
+            "course_code": "CHEM4440",
+            "prefix_inferred": false,
+            "evidence": "CHEM4440"
+          },
+          {
+            "course_code": "CHEM4470",
+            "prefix_inferred": false,
+            "evidence": "CHEM4470"
+          },
+          {
+            "course_code": "CHEM4471",
+            "prefix_inferred": false,
+            "evidence": "CHEM4471"
+          },
+          {
+            "course_code": "CHEM4480",
+            "prefix_inferred": false,
+            "evidence": "CHEM4480"
+          },
+          {
+            "course_code": "CHEM4490",
+            "prefix_inferred": false,
+            "evidence": "CHEM4490"
+          },
+          {
+            "course_code": "CHEM4630",
+            "prefix_inferred": false,
+            "evidence": "CHEM4630"
+          },
+          {
+            "course_code": "CHEM4640",
+            "prefix_inferred": false,
+            "evidence": "CHEM4640"
+          },
+          {
+            "course_code": "CHEM4710",
+            "prefix_inferred": false,
+            "evidence": "CHEM4710"
+          },
+          {
+            "course_code": "CHEM4730",
+            "prefix_inferred": false,
+            "evidence": "CHEM4730"
+          },
+          {
+            "course_code": "CHEM4780",
+            "prefix_inferred": false,
+            "evidence": "CHEM4780"
+          },
+          {
+            "course_code": "CHEM4784",
+            "prefix_inferred": false,
+            "evidence": "CHEM4784"
+          },
+          {
+            "course_code": "CHEM4785",
+            "prefix_inferred": false,
+            "evidence": "CHEM4785"
+          },
+          {
+            "course_code": "CHEM4786",
+            "prefix_inferred": false,
+            "evidence": "CHEM4786"
+          },
+          {
+            "course_code": "CHEM4788",
+            "prefix_inferred": false,
+            "evidence": "CHEM4788"
+          },
+          {
+            "course_code": "CHEM4960",
+            "prefix_inferred": false,
+            "evidence": "CHEM4960"
+          },
+          {
+            "course_code": "CHEM4970",
+            "prefix_inferred": false,
+            "evidence": "CHEM4970"
+          },
+          {
+            "course_code": "CHEM4980",
+            "prefix_inferred": false,
+            "evidence": "CHEM4980"
+          },
+          {
+            "course_code": "CHEM4990",
+            "prefix_inferred": false,
+            "evidence": "CHEM4990"
+          },
+          {
+            "course_code": "CHEM5300",
+            "prefix_inferred": false,
+            "evidence": "CHEM5300"
+          },
+          {
+            "course_code": "CHEM5301",
+            "prefix_inferred": false,
+            "evidence": "CHEM5301"
+          },
+          {
+            "course_code": "CHEM5303",
+            "prefix_inferred": false,
+            "evidence": "CHEM5303"
+          },
+          {
+            "course_code": "CHEM5540",
+            "prefix_inferred": false,
+            "evidence": "CHEM5540"
+          },
+          {
+            "course_code": "CHEM5550",
+            "prefix_inferred": false,
+            "evidence": "CHEM5550"
+          },
+          {
+            "course_code": "CHEM5560",
+            "prefix_inferred": false,
+            "evidence": "CHEM5560"
+          },
+          {
+            "course_code": "CHEM5620",
+            "prefix_inferred": false,
+            "evidence": "CHEM5620"
+          },
+          {
+            "course_code": "CHEM5642",
+            "prefix_inferred": false,
+            "evidence": "CHEM5642"
+          },
+          {
+            "course_code": "CHEM5680",
+            "prefix_inferred": false,
+            "evidence": "CHEM5680"
+          },
+          {
+            "course_code": "CHEM5780",
+            "prefix_inferred": false,
+            "evidence": "CHEM5780"
+          },
+          {
+            "course_code": "CHEM5784",
+            "prefix_inferred": false,
+            "evidence": "CHEM5784"
+          },
+          {
+            "course_code": "CHEM5785",
+            "prefix_inferred": false,
+            "evidence": "CHEM5785"
+          },
+          {
+            "course_code": "CHEM5910",
+            "prefix_inferred": false,
+            "evidence": "CHEM5910"
+          },
+          {
+            "course_code": "CHEM5920",
+            "prefix_inferred": false,
+            "evidence": "CHEM5920"
+          },
+          {
+            "course_code": "STAR2000",
+            "prefix_inferred": false,
+            "evidence": "STAR2000"
+          },
+          {
+            "course_code": "STAR2050",
+            "prefix_inferred": false,
+            "evidence": "STAR2050"
+          },
+          {
+            "course_code": "STAR3000",
+            "prefix_inferred": false,
+            "evidence": "STAR3000"
+          },
+          {
+            "course_code": "STAR3050",
+            "prefix_inferred": false,
+            "evidence": "STAR3050"
+          },
+          {
+            "course_code": "STAR4000",
+            "prefix_inferred": false,
+            "evidence": "STAR4000"
+          },
+          {
+            "course_code": "STAR4050",
+            "prefix_inferred": false,
+            "evidence": "STAR4050"
+          }
+        ],
+        "raw_text": "At least six units from: CHEM3130, 3220, 3320, 3410, 4788, ENSC4525, 4535\n6\nTotal:\n24\nCourse List\nCourse Code\nCourse Title\nUnit(s)\nCHEM1070\nPrinciples of Modern Chemistry\n3\nCHEM1072\nGeneral Chemistry\n3\nCHEM1280\nIntroduction to Organic Chemistry and Biomolecules\n3\nCHEM1300\nFundamentals in Physical Chemistry\n2\nCHEM1380\nBasic Chemistry for Engineers\n3\nCHEM1870\nChemistry Laboratory: STEM and Daily Life\n2\nCHEM2110\nFundamentals of Spectroscopic Analysis\n2\nCHEM2120\nMain Group Chemistry\n2\nCHEM2200\nOrganic Functional Groups: Structure and Reactivity\n3\nCHEM2270\nStudent Oriented Teaching\n1\nCHEM2300\nThermodynamics and Chemical Equilibrium\n3\nCHEM2310\nAtoms and Molecules\n3\nCHEM2382\nChemistry of Life\n2\nCHEM2400\nAnalytical Chemistry\n2\nCHEM2860\nIntegrated Chemistry Laboratory I\n4\nCHEM2868\nBasic Integrated Chemistry Laboratory I\n2\nCHEM2870\nIntegrated Chemistry Laboratory II\n4\nCHEM2878\nBasic Integrated Chemistry Laboratory II\n2\nCHEM3130\nTransition Metal Chemistry\n3\nCHEM3220\nOrganic Reactions: Reactivity and Selectivity\n2\nCHEM3230\nConjugated Molecules and Synthetic Polymers\n2\nCHEM3320\nChemical Kinetics\n3\nCHEM3340\nMaterials Chemistry\n2\nCHEM3410\nInstrumental Analysis\n3\nCHEM3420\nAccreditation of Laboratory Tests\n2\nCHEM3810\nOrganic Chemistry Laboratory\n2\nCHEM3820\nAdvanced Organic Chemistry Laboratory\n2\nCHEM3830\nPhysical Chemistry Laboratory I\n2\nCHEM3840\nPhysical Chemistry Laboratory II\n2\nCHEM3860\nTransition Metal Chemistry Laboratory\n2\nCHEM3870\nInstrumental Analysis Laboratory\n2\nCHEM3880\nQuality Testing Laboratory\n2\nCHEM4010\nProblem-based Learning in Testing and Accreditation I\n0\nCHEM4020\nProblem-based Learning in Testing and Accreditation II\n4\nCHEM4030\nProblem-based Learning in Chemistry I\n0\nCHEM4040\nProblem-based Learning in Chemistry II\n4\nCHEM4100\nAdvanced Inorganic Chemistry\n3\nCHEM4101\nOrganic Electronics: Theory and Applications\n2\nCHEM4200\nBioorganic Chemistry and Chemical Biology\n2\nCHEM4280\nChemistry in Biofuel\n2\nCHEM4300\nAdvanced Physical Chemistry\n2\nCHEM4303\nIntroduction to Nanoscience and Nanotechnology\n2\nCHEM4400\nAdvanced Analytical Chemistry\n2\nCHEM4440\nFood Testing and Environmental Analysis\n3\nCHEM4470\nInternship in Accredited Laboratory\n2\nCHEM4471\nInternship\n1\nCHEM4480\nUndergraduate Special Project I\n2\nCHEM4490\nUndergraduate Special Project II\n2\nCHEM4630\nAsymmetric Organic Synthesis\n2\nCHEM4640\nPharmaceutical Chemistry\n2\nCHEM4710\nQuantum Chemistry\n2\nCHEM4730\nSpecial Topics in Chemistry\n2\nCHEM4780\nMass Spectrometry\n2\nCHEM4784\nBioanalytical Methods\n2\nCHEM4785\nIndustrial Chemistry\n2\nCHEM4786\nPrinciples and Applications of Coating Chemistry\n2\nCHEM4788\nChemical Applications in Forensic Science\n2\nCHEM4960\nResearch in Chemical Science I\n2\nCHEM4970\nResearch in Chemical Science II\n2\nCHEM4980\nUndergraduate Thesis I\n0\nCHEM4990\nUndergraduate Thesis II\n4\nCHEM5300\nAdvanced Quantum Mechanics and Computational Chemistry\n2\nCHEM5301\nColloids and Surface Chemistry\n2\nCHEM5303\nRecent Development of Nanoscience and Nanotechnology\n2\nCHEM5540\nBioinorganic Chemistry\n2\nCHEM5550\nOrganometallic Chemistry of f-Block Elements\n2\nCHEM5560\nOrganometallic Chemistry & Catalysis of d-Block Elements\n2\nCHEM5620\nSynthetic Methods in Organic Chemistry\n2\nCHEM5642\nSupramolecular Chemistry\n2\nCHEM5680\nAdvanced Chemical Biology\n3\nCHEM5780\nMass Spectrometry of Biomolecules\n2\nCHEM5784\nInstrumental Analysis of Biomolecules\n2\nCHEM5785\nElectrochemical Energy Conversion and Storage\n2\nCHEM5910\nCurrent Topics in Chemistry\n2\nCHEM5920\nComputational Chemistry\n2\nSTAR2000\nUndergraduate Research in Science I\n1\nSTAR2050\nSeminar I\n1\nSTAR3000\nUndergraduate Research in Science II\n2\nSTAR3050\nSeminar II\n1\nSTAR4000\nUndergraduate Research in Science III\n3\nSTAR4050\nSeminar III\n1\nStudy Scheme\nLearning Outcomes"
+      },
+      {
+        "number": 1,
+        "title": "Major Programme",
+        "units_as_printed": null,
+        "course_mentions": [],
+        "raw_text": "I.\nChemistry\nA.\nKnowledge Outcomes\nGraduates should possess fundamental knowledge of the following:\n(1)\nchemistry principles, concepts, and applications of inorganic chemistry, organic chemistry, physical chemistry, and analytical chemistry; and\n(2)\nmathematical techniques required in chemical science.\nGraduates should have the ability of applying the acquired knowledge in exploring chemistry-related problems.\nB.\nSkills Outcomes\nProfessional Skills\nGraduates should have a good mastery of professional skills, including the following:\n(1)\nability of recognizing key factors and applying appropriate assumption to formulate solutions for chemistry problems;\n(2)\nbasic mathematical skills for handling experimental data and quantitative arguments in physical chemistry;\n(3)\nability of determining molecular structure based on spectroscopic measurements;\n(4)\nability to implement safety measures in conducting chemical laboratory works;\n(5)\nability to operate instruments in chemistry laboratories;\n(6)\nability in carrying out prescribed procedures using suited experimental skills and instrumentation;\n(7)\nability to conduct literature reviews/experimental works and to report scientific findings in both oral and written formats; and\n(8)\ncompetence in using commercial computer software for graphical depiction of molecular systems.\nGraduates should be able to investigate chemistry disciplines using combinations of the above skills.\nGeneric Skills\nGraduates should have acquired the following generic skills:\n(1)\nproblem solving skills including ability to identify key issues and formulate feasible solutions of problems based on logical analysis and critical thinking;\n(2)\nability to sort out complex observations to construct logical proposition;\n(3)\nability of formulating logical sequence in arguments;\n(4)\ncritical evaluation of issues based on evidence and scientific logic;\n(5)\nability of analyzing issues quantitatively with the sense of level of uncertainty and reliability;\n(6)\nability to acquire new knowledge by self-study and to conduct independent work with logical planning;\n(7)\ninterpersonal skills including the ability to work effectively in a group;\n(8)\ninformation retrieval skills through library and internet; and\n(9)\ntime management skills.\nC.\nAttitude/Value Outcomes\nGraduates should have developed the following attitudes and values:\n(1)\nappreciation of the beauty of chemistry and its importance as a central science;\n(2)\ncuriosity and interest in scientific exploration;\n(3)\nawareness of impacts of chemistry in environmental, social, economical, industrial, and technological aspects;\n(4)\nawareness of chemical safety;\n(5)\nconfidence in ability of solving problems;\n(6)\nmotivation and ability for life-long learning; and\n(7)\nsense of taking responsibility in study and work environments.\nII.\nEnrichment Stream\nA.\nKnowledge Outcomes\nGraduates should possess fundamental knowledge of the following:\n(1)\nchemistry principles, concepts, and applications of inorganic chemistry, organic chemistry, physical chemistry, and analytical chemistry;\n(2)\nin-depth understanding of disciplines in chemistry to establish an integral picture of chemical science; and\n(3)\nmathematical techniques required in chemical science.\nWith a solid background in chemistry, graduates should have the ability of applying the acquired knowledge in studying chemistry-related problems as well as pursuing a research-oriented career.\nB.\nSkills Outcomes\nProfessional Skills\nGraduates should have a good mastery of professional skills, including the following:\n(1)\nability of recognizing key factors and applying appropriate assumption to formulate solutions for chemistry problems;\n(2)\nawareness of recent advances in chemical sciences;\n(3)\nbasic mathematical skills for handling experimental data and quantitative arguments in physical chemistry;\n(4)\nability of determining molecular structure based on spectroscopic measurements;\n(5)\nability to implement safety measures in conducting chemical laboratory works;\n(6)\nability to operate instruments in chemistry laboratories;\n(7)\nability in carrying out prescribed procedures using suited experimental skills and instrumentation;\n(8)\nability to conduct literature reviews/experimental works and to report scientific findings in both oral and written formats; and\n(9)\ncompetence in using commercial computer software for graphical depiction of molecular systems.\nGraduates should be able to pursue a research-oriented career in chemistry-related disciplines using combinations of the above skills.\nGeneric Skills\nGraduates should have acquired the following generic skills:\n(1)\nproblem solving skills including ability to identify key issues and formulate feasible solutions of problems based on logical analysis and critical thinking;\n(2)\nability to sort out complex observations to construct logical proposition;\n(3)\nability of formulating logical sequence in arguments;\n(4)\ncritical evaluation of issues based on evidence and scientific logic;\n(5)\nability of analyzing issues quantitatively with the sense of level of uncertainty and reliability;\n(6)\nability to acquire new knowledge by self-study and to conduct independent work with logical planning;\n(7)\ninterpersonal skills including the ability to work effectively in a group;\n(8)\ninformation retrieval skills through library and internet; and\n(9)\ntime management skills.\nC.\nAttitude/Value Outcomes\nGraduates should have developed the following attitudes and values:\n(1)\nappreciation of the beauty of chemistry and its importance as a central science;\n(2)\ncuriosity and interest in scientific exploration;\n(3)\nawareness of impacts of chemistry in environmental, social, economical, industrial, and technological aspects;\n(4)\nawareness of chemical safety;\n(5)\nconfidence in ability of solving problems;\n(6)\nmotivation and ability for life-long learning; and\n(7)\nsense of taking responsibility in study and work environments.\nIII.\nTesting and Accreditation Stream\nA.\nKnowledge Outcomes\nGraduates should possess fundamental knowledge of the following:\n(1)\nchemistry principles, concepts, and applications of inorganic chemistry, organic chemistry, physical chemistry, and analytical chemistry;\n(2)\nin-depth understanding of analytical chemistry and its application in chemical testing; and\n(3)\nmathematical techniques required in chemical science.\nGraduates should have the ability of applying the acquired knowledge to solve problems in accredited chemical testing.\nB.\nSkills Outcomes\nProfessional Skills\nGraduates should have a good mastery of professional skills, including the following:\n(1)\nability of recognizing key factors and applying appropriate assumption to formulate solutions for chemistry problems;\n(2)\nbasic mathematical skills for handling experimental data and quantitative arguments in physical chemistry;\n(3)\nawareness of recent developments in testing industry;\n(4)\nability of applying spectroscopic measurements for chemical testing;\n(5)\nability to implement safety measures in conducting chemical laboratory work;\n(6)\nability to operate instruments in chemistry laboratories;\n(7)\nability in carrying out prescribed procedures using suited experimental skills and instrumentation;\n(8)\nability to conduct literature reviews/experimental works and to report scientific findings in both oral and written formats; and\n(9)\ncompetence in using commercial computer software for graphical depiction of molecular systems.\nGraduates should be able to perform accredited chemical tests and resolve related issues using combinations of the above skills.\nGeneric Skills\nGraduates should have acquired the following generic skills:\n(1)\nproblem solving skills including ability to identify key issues and formulate feasible solutions of problems based on logical analysis and critical thinking;\n(2)\nability to sort out complex observations to construct logical proposition;\n(3)\nability of formulating logical sequence in arguments;\n(4)\ncritical evaluation of issues based on evidence and scientific logic;\n(5)\nability of analyzing issues quantitatively with the sense of level of uncertainty and reliability;\n(6)\nability to acquire new knowledge by self-study and to conduct independent work with logical planning;\n(7)\ninterpersonal skills including the ability to work effectively in a group;\n(8)\ninformation retrieval skills through library and internet; and\n(9)\ntime management skills.\nC.\nAttitude/Value Outcomes\nGraduates should have developed the following attitudes and values:\n(1)\nappreciation of the beauty of chemistry and its importance as a central science;\n(2)\ncuriosity and interest in scientific exploration;\n(3)\nawareness of impacts of chemistry in environmental, social, economical, industrial, and technological aspects;\n(4)\nawareness of chemical safety;\n(5)\nconfidence in ability of solving problems;\n(6)\nmotivation and ability for life-long learning; and\n(7)\nsense of taking responsibility in study and work environments."
+      },
+      {
+        "number": 2,
+        "title": "Chemistry and Biology Double Major Programme",
+        "units_as_printed": null,
+        "course_mentions": [],
+        "raw_text": "Upon completion of the programme, students will have acquired the abilities as follows:\nKnowledge outcomes\nTo train our students to have fundamental and advanced knowledge of modern biological sciences and the ability of applying the acquired knowledge in exploring chemistry-related problems. Specifically, they include:\n(1)\nBasic knowledge in biology, including diversity and functioning of various living organisms\n(2)\nIn‐depth understanding in at least one major area of biology, such as physiology, ecology and evolution, and human biology\n(3)\nChemistry principles, concepts, and applications of inorganic chemistry, organic chemistry, physical chemistry, and analytical chemistry\n(4)\nMathematical techniques required in chemical science\nSkills outcomes\nWith our team of teaching staff coming from different professional backgrounds and with teaching styles, students will be exposed to various learning activities and challenges throughout their 4 years of study, during which they can develop professional skills and generic attributes including active learning, self-learning, effective communication, critical thinking, team playing, as well as analytical and problem-solving skills. Specifically, they include:\n(1)\nBasic laboratory/field techniques in at least one major line of modern biological research, including molecular biology, physiology and field biology\n(2)\nAbility of recognizing key factors and applying appropriate assumption to formulate solutions for chemistry problems\n(3)\nBasic mathematical skills for handling experimental data and quantitative arguments in physical chemistry\n(4)\nAbility of determining molecular structure based on spectroscopic measurements\n(5)\nAbility to implement safety measures in conducting chemical laboratory works\n(6)\nAbility to operate instruments in chemistry laboratories\n(7)\nAbility in carrying out prescribed procedures using suited experimental skills and instrumentation\n(8)\nAbility to conduct literature reviews/experimental works and to report scientific findings in both oral and written formats\n(9)\nCompetence in using commercial computer software for graphical depiction of molecular systems\n(10)\nProblem solving skills including ability to identify key issues and formulate feasible solutions of problems based on logical analysis and critical thinking\n(11)\nAbility to sort out complex observations to construct logical proposition\n(12)\nAbility of formulating logical sequence in arguments\n(13)\nCritical evaluation of issues based on evidence and scientific logic\n(14)\nAbility of analysing issues quantitatively with the sense of level of uncertainty and reliability\n(15)\nAbility to acquire new knowledge by self-study and to conduct independent work with logical planning\n(16)\nInterpersonal skills including the ability to work effectively in a group\n(17)\nInformation retrieval skills through library and internet\n(18)\nTime management skills\nValues and attitude outcomes\nV = We also concern about the well-being of our students. Apart from the long-established academic advisory system, there are ample chances for teachers and students to meet and exchange ideas formally and informally. These activities, organised by the programme, Biology Society, Chemistry Society or Alumni Association of the Department of Biology, The Chinese University of Hong Kong (CUBIOAA), include tea parties, dinners, BBQ, and career talks. From these, we believe our students are primed with positive values, and will be open and respectful to different views or ideas, so as to act as positive contributors in our society, no matter what fields and positions they are in. Our students also have the ability to appreciate the nature, and diversity of life and thus, would contributing to preserving our mother Earth. Specifically, they include:\n(1)\nAppreciation of biological knowledge and the beauty of chemistry and their importance as central science\n(2)\nSense of biological conservation and other environmental issues\n(3)\nAwareness on the latest developments and advancements in biology\n(4)\nAwareness of impacts of chemistry in environmental, social, economic, industrial, and technological aspects\n(5)\nAwareness of chemical safety\n(6)\nCuriosity and interest in scientific exploration\n(7)\nConfidence in ability of solving problems\n(8)\nMotivation and ability for life-long learning\n(9)\nSense of taking responsibility in study and work environments"
+      },
+      {
+        "number": 3,
+        "title": "Minor Programme",
+        "units_as_printed": null,
+        "course_mentions": [],
+        "raw_text": "Upon the completion of the Chemistry Minor Programme, students will have demonstrated basic understanding of fundamental issues related to Chemistry such as Analytical Chemistry, Inorganic Chemistry, Organic Chemistry and Physical Chemistry. They will have acquired knowledge of some aspects of the subjects with sufficient exposure and at a suitable level to allow further study in other areas in Science.\nWhile most skills and attitudes expected of a graduate would have been developed through the Major Programme, graduates who have been awarded a Minor will have developed the basic technical skills and attitudes towards issues in Chemistry. They will also be aware of the latest developments in Chemistry, and the impact of Chemistry in social, industrial, environmental and technological contexts."
+      }
+    ]
+  },
+  "all_course_mentions": [
+    {
+      "course_code": "CHEM1070",
+      "prefix_inferred": false,
+      "evidence": "Group B: CHEM1070"
+    },
+    {
+      "course_code": "PHYS1001",
+      "prefix_inferred": false,
+      "evidence": "Group D: PHYS1001 or 1002 or 1111"
+    },
+    {
+      "course_code": "PHYS1002",
+      "prefix_inferred": true,
+      "evidence": "Group D: PHYS1001 or 1002 or 1111"
+    },
+    {
+      "course_code": "PHYS1111",
+      "prefix_inferred": true,
+      "evidence": "Group D: PHYS1001 or 1002 or 1111"
+    },
+    {
+      "course_code": "LSCI1001",
+      "prefix_inferred": false,
+      "evidence": "Group A: LSCI1001 or 1002 or 1012"
+    },
+    {
+      "course_code": "LSCI1002",
+      "prefix_inferred": true,
+      "evidence": "Group A: LSCI1001 or 1002 or 1012"
+    },
+    {
+      "course_code": "LSCI1012",
+      "prefix_inferred": true,
+      "evidence": "Group A: LSCI1001 or 1002 or 1012"
+    },
+    {
+      "course_code": "MATH1520",
+      "prefix_inferred": false,
+      "evidence": "Group C: MATH1520 (preferred) or 1010 (preferred) or 1018 or 1550"
+    },
+    {
+      "course_code": "MATH1010",
+      "prefix_inferred": true,
+      "evidence": "Group C: MATH1520 (preferred) or 1010 (preferred) or 1018 or 1550"
+    },
+    {
+      "course_code": "MATH1018",
+      "prefix_inferred": true,
+      "evidence": "Group C: MATH1520 (preferred) or 1010 (preferred) or 1018 or 1550"
+    },
+    {
+      "course_code": "MATH1550",
+      "prefix_inferred": true,
+      "evidence": "Group C: MATH1520 (preferred) or 1010 (preferred) or 1018 or 1550"
+    },
+    {
+      "course_code": "STAT1011",
+      "prefix_inferred": false,
+      "evidence": "Group E: STAT1011 or 1012"
+    },
+    {
+      "course_code": "STAT1012",
+      "prefix_inferred": true,
+      "evidence": "Group E: STAT1011 or 1012"
+    },
+    {
+      "course_code": "CHEM1300",
+      "prefix_inferred": false,
+      "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+    },
+    {
+      "course_code": "CHEM2110",
+      "prefix_inferred": true,
+      "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+    },
+    {
+      "course_code": "CHEM2120",
+      "prefix_inferred": true,
+      "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+    },
+    {
+      "course_code": "CHEM2200",
+      "prefix_inferred": true,
+      "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+    },
+    {
+      "course_code": "CHEM2270",
+      "prefix_inferred": true,
+      "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+    },
+    {
+      "course_code": "CHEM2300",
+      "prefix_inferred": true,
+      "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+    },
+    {
+      "course_code": "CHEM2310",
+      "prefix_inferred": true,
+      "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+    },
+    {
+      "course_code": "CHEM2400",
+      "prefix_inferred": true,
+      "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+    },
+    {
+      "course_code": "CHEM2860",
+      "prefix_inferred": true,
+      "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+    },
+    {
+      "course_code": "CHEM2870",
+      "prefix_inferred": true,
+      "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+    },
+    {
+      "course_code": "CHEM3130",
+      "prefix_inferred": true,
+      "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+    },
+    {
+      "course_code": "CHEM3220",
+      "prefix_inferred": true,
+      "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+    },
+    {
+      "course_code": "CHEM3320",
+      "prefix_inferred": true,
+      "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+    },
+    {
+      "course_code": "CHEM3410",
+      "prefix_inferred": true,
+      "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+    },
+    {
+      "course_code": "CHEM3810",
+      "prefix_inferred": true,
+      "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+    },
+    {
+      "course_code": "CHEM3830",
+      "prefix_inferred": true,
+      "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+    },
+    {
+      "course_code": "CHEM3860",
+      "prefix_inferred": true,
+      "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+    },
+    {
+      "course_code": "CHEM3870",
+      "prefix_inferred": true,
+      "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+    },
+    {
+      "course_code": "CHEM4030",
+      "prefix_inferred": true,
+      "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+    },
+    {
+      "course_code": "CHEM4040",
+      "prefix_inferred": true,
+      "evidence": "CHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)"
+    },
+    {
+      "course_code": "CHEM3230",
+      "prefix_inferred": false,
+      "evidence": "One course from: CHEM3230 or 3340"
+    },
+    {
+      "course_code": "CHEM3340",
+      "prefix_inferred": true,
+      "evidence": "One course from: CHEM3230 or 3340"
+    },
+    {
+      "course_code": "CHEM3420",
+      "prefix_inferred": false,
+      "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+    },
+    {
+      "course_code": "CHEM3820",
+      "prefix_inferred": true,
+      "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+    },
+    {
+      "course_code": "CHEM3840",
+      "prefix_inferred": true,
+      "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+    },
+    {
+      "course_code": "CHEM4100",
+      "prefix_inferred": true,
+      "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+    },
+    {
+      "course_code": "CHEM4101",
+      "prefix_inferred": true,
+      "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+    },
+    {
+      "course_code": "CHEM4200",
+      "prefix_inferred": true,
+      "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+    },
+    {
+      "course_code": "CHEM4280",
+      "prefix_inferred": true,
+      "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+    },
+    {
+      "course_code": "CHEM4300",
+      "prefix_inferred": true,
+      "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+    },
+    {
+      "course_code": "CHEM4303",
+      "prefix_inferred": true,
+      "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+    },
+    {
+      "course_code": "CHEM4400",
+      "prefix_inferred": true,
+      "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+    },
+    {
+      "course_code": "CHEM4440",
+      "prefix_inferred": true,
+      "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+    },
+    {
+      "course_code": "CHEM4471",
+      "prefix_inferred": true,
+      "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+    },
+    {
+      "course_code": "CHEM4630",
+      "prefix_inferred": true,
+      "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+    },
+    {
+      "course_code": "CHEM4640",
+      "prefix_inferred": true,
+      "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+    },
+    {
+      "course_code": "CHEM4710",
+      "prefix_inferred": true,
+      "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+    },
+    {
+      "course_code": "CHEM4730",
+      "prefix_inferred": true,
+      "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+    },
+    {
+      "course_code": "CHEM4780",
+      "prefix_inferred": true,
+      "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+    },
+    {
+      "course_code": "CHEM4784",
+      "prefix_inferred": true,
+      "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+    },
+    {
+      "course_code": "CHEM4785",
+      "prefix_inferred": true,
+      "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+    },
+    {
+      "course_code": "CHEM4786",
+      "prefix_inferred": true,
+      "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+    },
+    {
+      "course_code": "CHEM4788",
+      "prefix_inferred": true,
+      "evidence": "CHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788"
+    },
+    {
+      "course_code": "CHEM5300",
+      "prefix_inferred": false,
+      "evidence": "CHEM5300, 5301, 5303, 5540, 5550, 5560, 5620, 5642, 5680, 5780, 5784, 5785, 5910, 5920"
+    },
+    {
+      "course_code": "CHEM5301",
+      "prefix_inferred": true,
+      "evidence": "CHEM5300, 5301, 5303, 5540, 5550, 5560, 5620, 5642, 5680, 5780, 5784, 5785, 5910, 5920"
+    },
+    {
+      "course_code": "CHEM5303",
+      "prefix_inferred": true,
+      "evidence": "CHEM5300, 5301, 5303, 5540, 5550, 5560, 5620, 5642, 5680, 5780, 5784, 5785, 5910, 5920"
+    },
+    {
+      "course_code": "CHEM5540",
+      "prefix_inferred": true,
+      "evidence": "CHEM5300, 5301, 5303, 5540, 5550, 5560, 5620, 5642, 5680, 5780, 5784, 5785, 5910, 5920"
+    },
+    {
+      "course_code": "CHEM5550",
+      "prefix_inferred": true,
+      "evidence": "CHEM5300, 5301, 5303, 5540, 5550, 5560, 5620, 5642, 5680, 5780, 5784, 5785, 5910, 5920"
+    },
+    {
+      "course_code": "CHEM5560",
+      "prefix_inferred": true,
+      "evidence": "CHEM5300, 5301, 5303, 5540, 5550, 5560, 5620, 5642, 5680, 5780, 5784, 5785, 5910, 5920"
+    },
+    {
+      "course_code": "CHEM5620",
+      "prefix_inferred": true,
+      "evidence": "CHEM5300, 5301, 5303, 5540, 5550, 5560, 5620, 5642, 5680, 5780, 5784, 5785, 5910, 5920"
+    },
+    {
+      "course_code": "CHEM5642",
+      "prefix_inferred": true,
+      "evidence": "CHEM5300, 5301, 5303, 5540, 5550, 5560, 5620, 5642, 5680, 5780, 5784, 5785, 5910, 5920"
+    },
+    {
+      "course_code": "CHEM5680",
+      "prefix_inferred": true,
+      "evidence": "CHEM5300, 5301, 5303, 5540, 5550, 5560, 5620, 5642, 5680, 5780, 5784, 5785, 5910, 5920"
+    },
+    {
+      "course_code": "CHEM5780",
+      "prefix_inferred": true,
+      "evidence": "CHEM5300, 5301, 5303, 5540, 5550, 5560, 5620, 5642, 5680, 5780, 5784, 5785, 5910, 5920"
+    },
+    {
+      "course_code": "CHEM5784",
+      "prefix_inferred": true,
+      "evidence": "CHEM5300, 5301, 5303, 5540, 5550, 5560, 5620, 5642, 5680, 5780, 5784, 5785, 5910, 5920"
+    },
+    {
+      "course_code": "CHEM5785",
+      "prefix_inferred": true,
+      "evidence": "CHEM5300, 5301, 5303, 5540, 5550, 5560, 5620, 5642, 5680, 5780, 5784, 5785, 5910, 5920"
+    },
+    {
+      "course_code": "CHEM5910",
+      "prefix_inferred": true,
+      "evidence": "CHEM5300, 5301, 5303, 5540, 5550, 5560, 5620, 5642, 5680, 5780, 5784, 5785, 5910, 5920"
+    },
+    {
+      "course_code": "CHEM5920",
+      "prefix_inferred": true,
+      "evidence": "CHEM5300, 5301, 5303, 5540, 5550, 5560, 5620, 5642, 5680, 5780, 5784, 5785, 5910, 5920"
+    },
+    {
+      "course_code": "BCHE3050",
+      "prefix_inferred": false,
+      "evidence": "BCHE3050#, CMBI4002#, ENSC4525#, 4535#, EESC3220#, PHYS3021#, 3022#, 4031#, 4440#"
+    },
+    {
+      "course_code": "CMBI4002",
+      "prefix_inferred": false,
+      "evidence": "BCHE3050#, CMBI4002#, ENSC4525#, 4535#, EESC3220#, PHYS3021#, 3022#, 4031#, 4440#"
+    },
+    {
+      "course_code": "ENSC4525",
+      "prefix_inferred": false,
+      "evidence": "BCHE3050#, CMBI4002#, ENSC4525#, 4535#, EESC3220#, PHYS3021#, 3022#, 4031#, 4440#"
+    },
+    {
+      "course_code": "ENSC4535",
+      "prefix_inferred": true,
+      "evidence": "BCHE3050#, CMBI4002#, ENSC4525#, 4535#, EESC3220#, PHYS3021#, 3022#, 4031#, 4440#"
+    },
+    {
+      "course_code": "EESC3220",
+      "prefix_inferred": false,
+      "evidence": "BCHE3050#, CMBI4002#, ENSC4525#, 4535#, EESC3220#, PHYS3021#, 3022#, 4031#, 4440#"
+    },
+    {
+      "course_code": "PHYS3021",
+      "prefix_inferred": false,
+      "evidence": "BCHE3050#, CMBI4002#, ENSC4525#, 4535#, EESC3220#, PHYS3021#, 3022#, 4031#, 4440#"
+    },
+    {
+      "course_code": "PHYS3022",
+      "prefix_inferred": true,
+      "evidence": "BCHE3050#, CMBI4002#, ENSC4525#, 4535#, EESC3220#, PHYS3021#, 3022#, 4031#, 4440#"
+    },
+    {
+      "course_code": "PHYS4031",
+      "prefix_inferred": true,
+      "evidence": "BCHE3050#, CMBI4002#, ENSC4525#, 4535#, EESC3220#, PHYS3021#, 3022#, 4031#, 4440#"
+    },
+    {
+      "course_code": "PHYS4440",
+      "prefix_inferred": true,
+      "evidence": "BCHE3050#, CMBI4002#, ENSC4525#, 4535#, EESC3220#, PHYS3021#, 3022#, 4031#, 4440#"
+    },
+    {
+      "course_code": "STAR2000",
+      "prefix_inferred": false,
+      "evidence": "STAR2000, 3000, 4000[a]"
+    },
+    {
+      "course_code": "STAR3000",
+      "prefix_inferred": true,
+      "evidence": "STAR2000, 3000, 4000[a]"
+    },
+    {
+      "course_code": "STAR4000",
+      "prefix_inferred": true,
+      "evidence": "STAR2000, 3000, 4000[a]"
+    },
+    {
+      "course_code": "STAR2050",
+      "prefix_inferred": false,
+      "evidence": "STAR2050, 3050, 4050"
+    },
+    {
+      "course_code": "STAR3050",
+      "prefix_inferred": true,
+      "evidence": "STAR2050, 3050, 4050"
+    },
+    {
+      "course_code": "STAR4050",
+      "prefix_inferred": true,
+      "evidence": "STAR2050, 3050, 4050"
+    },
+    {
+      "course_code": "CHEM1870",
+      "prefix_inferred": false,
+      "evidence": "Potential students majoring in Chemistry are strongly recommended to take CHEM1870 as basic training to prepare for laboratory classes in upper years."
+    },
+    {
+      "course_code": "CHEM4480",
+      "prefix_inferred": false,
+      "evidence": "A student in the final year of attendance may, under special circumstances and with written approval from the Department, select CHEM4480 and/or 4490 to substitute up to 4 units of any courses in the Chemistry Programme."
+    },
+    {
+      "course_code": "CHEM4490",
+      "prefix_inferred": true,
+      "evidence": "A student in the final year of attendance may, under special circumstances and with written approval from the Department, select CHEM4480 and/or 4490 to substitute up to 4 units of any courses in the Chemistry Programme."
+    },
+    {
+      "course_code": "CHEM4980",
+      "prefix_inferred": false,
+      "evidence": "Students in their final year of attendance may, subject to approval by the Department, select CHEM4980/4990 and submit an undergraduate thesis in place of CHEM4030/4040."
+    },
+    {
+      "course_code": "CHEM4990",
+      "prefix_inferred": true,
+      "evidence": "Students in their final year of attendance may, subject to approval by the Department, select CHEM4980/4990 and submit an undergraduate thesis in place of CHEM4030/4040."
+    },
+    {
+      "course_code": "CHEM4030",
+      "prefix_inferred": false,
+      "evidence": "Students in their final year of attendance may, subject to approval by the Department, select CHEM4980/4990 and submit an undergraduate thesis in place of CHEM4030/4040."
+    },
+    {
+      "course_code": "CHEM4040",
+      "prefix_inferred": true,
+      "evidence": "Students in their final year of attendance may, subject to approval by the Department, select CHEM4980/4990 and submit an undergraduate thesis in place of CHEM4030/4040."
+    },
+    {
+      "course_code": "CHEM1070",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: CHEM1070, PHYS1001 or 1002 or 1111"
+    },
+    {
+      "course_code": "PHYS1001",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: CHEM1070, PHYS1001 or 1002 or 1111"
+    },
+    {
+      "course_code": "PHYS1002",
+      "prefix_inferred": true,
+      "evidence": "Faculty Package: CHEM1070, PHYS1001 or 1002 or 1111"
+    },
+    {
+      "course_code": "PHYS1111",
+      "prefix_inferred": true,
+      "evidence": "Faculty Package: CHEM1070, PHYS1001 or 1002 or 1111"
+    },
+    {
+      "course_code": "CHEM1300",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CHEM1300"
+    },
+    {
+      "course_code": "CHEM2120",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CHEM2120, 2200, 2300, 2860"
+    },
+    {
+      "course_code": "CHEM2200",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHEM2120, 2200, 2300, 2860"
+    },
+    {
+      "course_code": "CHEM2300",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHEM2120, 2200, 2300, 2860"
+    },
+    {
+      "course_code": "CHEM2860",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHEM2120, 2200, 2300, 2860"
+    },
+    {
+      "course_code": "CHEM2110",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CHEM2110, 2270, 2310, 2400, 2870"
+    },
+    {
+      "course_code": "CHEM2270",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHEM2110, 2270, 2310, 2400, 2870"
+    },
+    {
+      "course_code": "CHEM2310",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHEM2110, 2270, 2310, 2400, 2870"
+    },
+    {
+      "course_code": "CHEM2400",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHEM2110, 2270, 2310, 2400, 2870"
+    },
+    {
+      "course_code": "CHEM2870",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHEM2110, 2270, 2310, 2400, 2870"
+    },
+    {
+      "course_code": "CHEM3220",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CHEM3220, 3320, 3410, 3810, 3830, 3870"
+    },
+    {
+      "course_code": "CHEM3320",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHEM3220, 3320, 3410, 3810, 3830, 3870"
+    },
+    {
+      "course_code": "CHEM3410",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHEM3220, 3320, 3410, 3810, 3830, 3870"
+    },
+    {
+      "course_code": "CHEM3810",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHEM3220, 3320, 3410, 3810, 3830, 3870"
+    },
+    {
+      "course_code": "CHEM3830",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHEM3220, 3320, 3410, 3810, 3830, 3870"
+    },
+    {
+      "course_code": "CHEM3870",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHEM3220, 3320, 3410, 3810, 3830, 3870"
+    },
+    {
+      "course_code": "CHEM3130",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CHEM3130, 3860"
+    },
+    {
+      "course_code": "CHEM3860",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHEM3130, 3860"
+    },
+    {
+      "course_code": "CHEM3230",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): CHEM3230 or 3340, one elective course"
+    },
+    {
+      "course_code": "CHEM3340",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): CHEM3230 or 3340, one elective course"
+    },
+    {
+      "course_code": "CHEM4030",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CHEM4030"
+    },
+    {
+      "course_code": "CHEM4040",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CHEM4040"
+    },
+    {
+      "course_code": "MATH1520",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: MATH1520 or 1010 or 1018 or 1550, a course from Group A or E"
+    },
+    {
+      "course_code": "MATH1010",
+      "prefix_inferred": true,
+      "evidence": "Faculty Package: MATH1520 or 1010 or 1018 or 1550, a course from Group A or E"
+    },
+    {
+      "course_code": "MATH1018",
+      "prefix_inferred": true,
+      "evidence": "Faculty Package: MATH1520 or 1010 or 1018 or 1550, a course from Group A or E"
+    },
+    {
+      "course_code": "MATH1550",
+      "prefix_inferred": true,
+      "evidence": "Faculty Package: MATH1520 or 1010 or 1018 or 1550, a course from Group A or E"
+    },
+    {
+      "course_code": "STAR2000",
+      "prefix_inferred": false,
+      "evidence": "STARS: STAR2000, 2050"
+    },
+    {
+      "course_code": "STAR2050",
+      "prefix_inferred": true,
+      "evidence": "STARS: STAR2000, 2050"
+    },
+    {
+      "course_code": "STAR3050",
+      "prefix_inferred": false,
+      "evidence": "STARS: STAR3050"
+    },
+    {
+      "course_code": "STAR3000",
+      "prefix_inferred": false,
+      "evidence": "STARS: STAR3000"
+    },
+    {
+      "course_code": "STAR4050",
+      "prefix_inferred": false,
+      "evidence": "STARS: STAR4050"
+    },
+    {
+      "course_code": "STAR4000",
+      "prefix_inferred": false,
+      "evidence": "STARS: STAR4000@"
+    },
+    {
+      "course_code": "CHEM4980",
+      "prefix_inferred": false,
+      "evidence": "@ Students may take CHEM4980/4990 as a substitute for STAR4000."
+    },
+    {
+      "course_code": "CHEM4990",
+      "prefix_inferred": true,
+      "evidence": "@ Students may take CHEM4980/4990 as a substitute for STAR4000."
+    },
+    {
+      "course_code": "STAR4000",
+      "prefix_inferred": false,
+      "evidence": "@ Students may take CHEM4980/4990 as a substitute for STAR4000."
+    },
+    {
+      "course_code": "ELTU1001",
+      "prefix_inferred": false,
+      "evidence": "University Core Requirements: ELTU1001, 1 College GE course[b], 1 UGFN course, 1 PHED course, UGCP1001"
+    },
+    {
+      "course_code": "UGCP1001",
+      "prefix_inferred": false,
+      "evidence": "University Core Requirements: ELTU1001, 1 College GE course[b], 1 UGFN course, 1 PHED course, UGCP1001"
+    },
+    {
+      "course_code": "CHEM1280",
+      "prefix_inferred": false,
+      "evidence": "Free Elective(s): CHEM1280[c]"
+    },
+    {
+      "course_code": "LSCI1001",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: LSCI1001 or 1002 or MATH1520"
+    },
+    {
+      "course_code": "LSCI1002",
+      "prefix_inferred": true,
+      "evidence": "Faculty Package: LSCI1001 or 1002 or MATH1520"
+    },
+    {
+      "course_code": "MATH1520",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: LSCI1001 or 1002 or MATH1520"
+    },
+    {
+      "course_code": "CHEM1300",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CHEM1300, 2110, 2400"
+    },
+    {
+      "course_code": "CHEM2110",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHEM1300, 2110, 2400"
+    },
+    {
+      "course_code": "CHEM2400",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHEM1300, 2110, 2400"
+    },
+    {
+      "course_code": "CHLT1001",
+      "prefix_inferred": false,
+      "evidence": "University Core Requirements: CHLT1001, 0-1 College GE course[b], 1 PHED course, ENGG1003"
+    },
+    {
+      "course_code": "ENGG1003",
+      "prefix_inferred": false,
+      "evidence": "University Core Requirements: CHLT1001, 0-1 College GE course[b], 1 PHED course, ENGG1003"
+    },
+    {
+      "course_code": "LSCI1001",
+      "prefix_inferred": false,
+      "evidence": "Free Elective(s): LSCI1001 or 1002 or MATH1520[c]"
+    },
+    {
+      "course_code": "LSCI1002",
+      "prefix_inferred": true,
+      "evidence": "Free Elective(s): LSCI1001 or 1002 or MATH1520[c]"
+    },
+    {
+      "course_code": "MATH1520",
+      "prefix_inferred": false,
+      "evidence": "Free Elective(s): LSCI1001 or 1002 or MATH1520[c]"
+    },
+    {
+      "course_code": "CHEM2120",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CHEM2120, 2200, 2300, 2860, 3320, 3410"
+    },
+    {
+      "course_code": "CHEM2200",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHEM2120, 2200, 2300, 2860, 3320, 3410"
+    },
+    {
+      "course_code": "CHEM2300",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHEM2120, 2200, 2300, 2860, 3320, 3410"
+    },
+    {
+      "course_code": "CHEM2860",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHEM2120, 2200, 2300, 2860, 3320, 3410"
+    },
+    {
+      "course_code": "CHEM3320",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHEM2120, 2200, 2300, 2860, 3320, 3410"
+    },
+    {
+      "course_code": "CHEM3410",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHEM2120, 2200, 2300, 2860, 3320, 3410"
+    },
+    {
+      "course_code": "ELTU2018",
+      "prefix_inferred": false,
+      "evidence": "University Core Requirements: ELTU2018 or 2019"
+    },
+    {
+      "course_code": "ELTU2019",
+      "prefix_inferred": true,
+      "evidence": "University Core Requirements: ELTU2018 or 2019"
+    },
+    {
+      "course_code": "CHEM2270",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CHEM2270, 2310, 2870, 3130"
+    },
+    {
+      "course_code": "CHEM2310",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHEM2270, 2310, 2870, 3130"
+    },
+    {
+      "course_code": "CHEM2870",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHEM2270, 2310, 2870, 3130"
+    },
+    {
+      "course_code": "CHEM3130",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHEM2270, 2310, 2870, 3130"
+    },
+    {
+      "course_code": "CHEM3230",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): CHEM3230 or 3340"
+    },
+    {
+      "course_code": "CHEM3340",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): CHEM3230 or 3340"
+    },
+    {
+      "course_code": "CHLT1002",
+      "prefix_inferred": false,
+      "evidence": "University Core Requirements: CHLT1002, 1 UGFH course, UGCP1002"
+    },
+    {
+      "course_code": "UGCP1002",
+      "prefix_inferred": false,
+      "evidence": "University Core Requirements: CHLT1002, 1 UGFH course, UGCP1002"
+    },
+    {
+      "course_code": "LSCI1002",
+      "prefix_inferred": false,
+      "evidence": "Group A: LSCI1002"
+    },
+    {
+      "course_code": "PHYS1002",
+      "prefix_inferred": false,
+      "evidence": "Group D: PHYS1002 (preferred) or 1001 or 1111"
+    },
+    {
+      "course_code": "PHYS1001",
+      "prefix_inferred": true,
+      "evidence": "Group D: PHYS1002 (preferred) or 1001 or 1111"
+    },
+    {
+      "course_code": "PHYS1111",
+      "prefix_inferred": true,
+      "evidence": "Group D: PHYS1002 (preferred) or 1001 or 1111"
+    },
+    {
+      "course_code": "CHEM1300",
+      "prefix_inferred": false,
+      "evidence": "CHEM1300, 2110, 2120, 2200, 2300, 2400, 2868, 2878, 3130, 3220, 3320, 3410"
+    },
+    {
+      "course_code": "CHEM2110",
+      "prefix_inferred": true,
+      "evidence": "CHEM1300, 2110, 2120, 2200, 2300, 2400, 2868, 2878, 3130, 3220, 3320, 3410"
+    },
+    {
+      "course_code": "CHEM2120",
+      "prefix_inferred": true,
+      "evidence": "CHEM1300, 2110, 2120, 2200, 2300, 2400, 2868, 2878, 3130, 3220, 3320, 3410"
+    },
+    {
+      "course_code": "CHEM2200",
+      "prefix_inferred": true,
+      "evidence": "CHEM1300, 2110, 2120, 2200, 2300, 2400, 2868, 2878, 3130, 3220, 3320, 3410"
+    },
+    {
+      "course_code": "CHEM2300",
+      "prefix_inferred": true,
+      "evidence": "CHEM1300, 2110, 2120, 2200, 2300, 2400, 2868, 2878, 3130, 3220, 3320, 3410"
+    },
+    {
+      "course_code": "CHEM2400",
+      "prefix_inferred": true,
+      "evidence": "CHEM1300, 2110, 2120, 2200, 2300, 2400, 2868, 2878, 3130, 3220, 3320, 3410"
+    },
+    {
+      "course_code": "CHEM2868",
+      "prefix_inferred": true,
+      "evidence": "CHEM1300, 2110, 2120, 2200, 2300, 2400, 2868, 2878, 3130, 3220, 3320, 3410"
+    },
+    {
+      "course_code": "CHEM2878",
+      "prefix_inferred": true,
+      "evidence": "CHEM1300, 2110, 2120, 2200, 2300, 2400, 2868, 2878, 3130, 3220, 3320, 3410"
+    },
+    {
+      "course_code": "CHEM3130",
+      "prefix_inferred": true,
+      "evidence": "CHEM1300, 2110, 2120, 2200, 2300, 2400, 2868, 2878, 3130, 3220, 3320, 3410"
+    },
+    {
+      "course_code": "CHEM3220",
+      "prefix_inferred": true,
+      "evidence": "CHEM1300, 2110, 2120, 2200, 2300, 2400, 2868, 2878, 3130, 3220, 3320, 3410"
+    },
+    {
+      "course_code": "CHEM3320",
+      "prefix_inferred": true,
+      "evidence": "CHEM1300, 2110, 2120, 2200, 2300, 2400, 2868, 2878, 3130, 3220, 3320, 3410"
+    },
+    {
+      "course_code": "CHEM3410",
+      "prefix_inferred": true,
+      "evidence": "CHEM1300, 2110, 2120, 2200, 2300, 2400, 2868, 2878, 3130, 3220, 3320, 3410"
+    },
+    {
+      "course_code": "BCHE2030",
+      "prefix_inferred": false,
+      "evidence": "BCHE2030, BIOL2120#, 2210#, 2410#, 2420#, 3012, 3022, 3560#, 3570#, 3610#, 3620#, 4010, LSCI1012, 2002"
+    },
+    {
+      "course_code": "BIOL2120",
+      "prefix_inferred": false,
+      "evidence": "BCHE2030, BIOL2120#, 2210#, 2410#, 2420#, 3012, 3022, 3560#, 3570#, 3610#, 3620#, 4010, LSCI1012, 2002"
+    },
+    {
+      "course_code": "BIOL2210",
+      "prefix_inferred": true,
+      "evidence": "BCHE2030, BIOL2120#, 2210#, 2410#, 2420#, 3012, 3022, 3560#, 3570#, 3610#, 3620#, 4010, LSCI1012, 2002"
+    },
+    {
+      "course_code": "BIOL2410",
+      "prefix_inferred": true,
+      "evidence": "BCHE2030, BIOL2120#, 2210#, 2410#, 2420#, 3012, 3022, 3560#, 3570#, 3610#, 3620#, 4010, LSCI1012, 2002"
+    },
+    {
+      "course_code": "BIOL2420",
+      "prefix_inferred": true,
+      "evidence": "BCHE2030, BIOL2120#, 2210#, 2410#, 2420#, 3012, 3022, 3560#, 3570#, 3610#, 3620#, 4010, LSCI1012, 2002"
+    },
+    {
+      "course_code": "BIOL3012",
+      "prefix_inferred": true,
+      "evidence": "BCHE2030, BIOL2120#, 2210#, 2410#, 2420#, 3012, 3022, 3560#, 3570#, 3610#, 3620#, 4010, LSCI1012, 2002"
+    },
+    {
+      "course_code": "BIOL3022",
+      "prefix_inferred": true,
+      "evidence": "BCHE2030, BIOL2120#, 2210#, 2410#, 2420#, 3012, 3022, 3560#, 3570#, 3610#, 3620#, 4010, LSCI1012, 2002"
+    },
+    {
+      "course_code": "BIOL3560",
+      "prefix_inferred": true,
+      "evidence": "BCHE2030, BIOL2120#, 2210#, 2410#, 2420#, 3012, 3022, 3560#, 3570#, 3610#, 3620#, 4010, LSCI1012, 2002"
+    },
+    {
+      "course_code": "BIOL3570",
+      "prefix_inferred": true,
+      "evidence": "BCHE2030, BIOL2120#, 2210#, 2410#, 2420#, 3012, 3022, 3560#, 3570#, 3610#, 3620#, 4010, LSCI1012, 2002"
+    },
+    {
+      "course_code": "BIOL3610",
+      "prefix_inferred": true,
+      "evidence": "BCHE2030, BIOL2120#, 2210#, 2410#, 2420#, 3012, 3022, 3560#, 3570#, 3610#, 3620#, 4010, LSCI1012, 2002"
+    },
+    {
+      "course_code": "BIOL3620",
+      "prefix_inferred": true,
+      "evidence": "BCHE2030, BIOL2120#, 2210#, 2410#, 2420#, 3012, 3022, 3560#, 3570#, 3610#, 3620#, 4010, LSCI1012, 2002"
+    },
+    {
+      "course_code": "BIOL4010",
+      "prefix_inferred": true,
+      "evidence": "BCHE2030, BIOL2120#, 2210#, 2410#, 2420#, 3012, 3022, 3560#, 3570#, 3610#, 3620#, 4010, LSCI1012, 2002"
+    },
+    {
+      "course_code": "LSCI1012",
+      "prefix_inferred": false,
+      "evidence": "BCHE2030, BIOL2120#, 2210#, 2410#, 2420#, 3012, 3022, 3560#, 3570#, 3610#, 3620#, 4010, LSCI1012, 2002"
+    },
+    {
+      "course_code": "LSCI2002",
+      "prefix_inferred": true,
+      "evidence": "BCHE2030, BIOL2120#, 2210#, 2410#, 2420#, 3012, 3022, 3560#, 3570#, 3610#, 3620#, 4010, LSCI1012, 2002"
+    },
+    {
+      "course_code": "CHEM3810",
+      "prefix_inferred": false,
+      "evidence": "Two laboratory courses from CHEM3810, 3830, 3860, 3870"
+    },
+    {
+      "course_code": "CHEM3830",
+      "prefix_inferred": true,
+      "evidence": "Two laboratory courses from CHEM3810, 3830, 3860, 3870"
+    },
+    {
+      "course_code": "CHEM3860",
+      "prefix_inferred": true,
+      "evidence": "Two laboratory courses from CHEM3810, 3830, 3860, 3870"
+    },
+    {
+      "course_code": "CHEM3870",
+      "prefix_inferred": true,
+      "evidence": "Two laboratory courses from CHEM3810, 3830, 3860, 3870"
+    },
+    {
+      "course_code": "CHEM3230",
+      "prefix_inferred": false,
+      "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+    },
+    {
+      "course_code": "CHEM3340",
+      "prefix_inferred": true,
+      "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+    },
+    {
+      "course_code": "CHEM3420",
+      "prefix_inferred": true,
+      "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+    },
+    {
+      "course_code": "CHEM4100",
+      "prefix_inferred": true,
+      "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+    },
+    {
+      "course_code": "CHEM4101",
+      "prefix_inferred": true,
+      "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+    },
+    {
+      "course_code": "CHEM4110",
+      "prefix_inferred": true,
+      "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+    },
+    {
+      "course_code": "CHEM4200",
+      "prefix_inferred": true,
+      "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+    },
+    {
+      "course_code": "CHEM4300",
+      "prefix_inferred": true,
+      "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+    },
+    {
+      "course_code": "CHEM4303",
+      "prefix_inferred": true,
+      "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+    },
+    {
+      "course_code": "CHEM4400",
+      "prefix_inferred": true,
+      "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+    },
+    {
+      "course_code": "CHEM4440",
+      "prefix_inferred": true,
+      "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+    },
+    {
+      "course_code": "CHEM4630",
+      "prefix_inferred": true,
+      "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+    },
+    {
+      "course_code": "CHEM4640",
+      "prefix_inferred": true,
+      "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+    },
+    {
+      "course_code": "CHEM4710",
+      "prefix_inferred": true,
+      "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+    },
+    {
+      "course_code": "CHEM4780",
+      "prefix_inferred": true,
+      "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+    },
+    {
+      "course_code": "CHEM4784",
+      "prefix_inferred": true,
+      "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+    },
+    {
+      "course_code": "CHEM4785",
+      "prefix_inferred": true,
+      "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+    },
+    {
+      "course_code": "CHEM4786",
+      "prefix_inferred": true,
+      "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+    },
+    {
+      "course_code": "CHEM4788",
+      "prefix_inferred": true,
+      "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+    },
+    {
+      "course_code": "ENSC4525",
+      "prefix_inferred": false,
+      "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+    },
+    {
+      "course_code": "ENSC4535",
+      "prefix_inferred": true,
+      "evidence": "CHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#"
+    },
+    {
+      "course_code": "BIOL2213",
+      "prefix_inferred": false,
+      "evidence": "One laboratory course from BIOL2213, 2313"
+    },
+    {
+      "course_code": "BIOL2313",
+      "prefix_inferred": true,
+      "evidence": "One laboratory course from BIOL2213, 2313"
+    },
+    {
+      "course_code": "BIOL3310",
+      "prefix_inferred": false,
+      "evidence": "BIOL3310, 3410, 3510, 3530, 3630, 3710, 4120, 4230, 4240, 4260, 4310, 4420, 4510, 4610, 4901, LSCI3520"
+    },
+    {
+      "course_code": "BIOL3410",
+      "prefix_inferred": true,
+      "evidence": "BIOL3310, 3410, 3510, 3530, 3630, 3710, 4120, 4230, 4240, 4260, 4310, 4420, 4510, 4610, 4901, LSCI3520"
+    },
+    {
+      "course_code": "BIOL3510",
+      "prefix_inferred": true,
+      "evidence": "BIOL3310, 3410, 3510, 3530, 3630, 3710, 4120, 4230, 4240, 4260, 4310, 4420, 4510, 4610, 4901, LSCI3520"
+    },
+    {
+      "course_code": "BIOL3530",
+      "prefix_inferred": true,
+      "evidence": "BIOL3310, 3410, 3510, 3530, 3630, 3710, 4120, 4230, 4240, 4260, 4310, 4420, 4510, 4610, 4901, LSCI3520"
+    },
+    {
+      "course_code": "BIOL3630",
+      "prefix_inferred": true,
+      "evidence": "BIOL3310, 3410, 3510, 3530, 3630, 3710, 4120, 4230, 4240, 4260, 4310, 4420, 4510, 4610, 4901, LSCI3520"
+    },
+    {
+      "course_code": "BIOL3710",
+      "prefix_inferred": true,
+      "evidence": "BIOL3310, 3410, 3510, 3530, 3630, 3710, 4120, 4230, 4240, 4260, 4310, 4420, 4510, 4610, 4901, LSCI3520"
+    },
+    {
+      "course_code": "BIOL4120",
+      "prefix_inferred": true,
+      "evidence": "BIOL3310, 3410, 3510, 3530, 3630, 3710, 4120, 4230, 4240, 4260, 4310, 4420, 4510, 4610, 4901, LSCI3520"
+    },
+    {
+      "course_code": "BIOL4230",
+      "prefix_inferred": true,
+      "evidence": "BIOL3310, 3410, 3510, 3530, 3630, 3710, 4120, 4230, 4240, 4260, 4310, 4420, 4510, 4610, 4901, LSCI3520"
+    },
+    {
+      "course_code": "BIOL4240",
+      "prefix_inferred": true,
+      "evidence": "BIOL3310, 3410, 3510, 3530, 3630, 3710, 4120, 4230, 4240, 4260, 4310, 4420, 4510, 4610, 4901, LSCI3520"
+    },
+    {
+      "course_code": "BIOL4260",
+      "prefix_inferred": true,
+      "evidence": "BIOL3310, 3410, 3510, 3530, 3630, 3710, 4120, 4230, 4240, 4260, 4310, 4420, 4510, 4610, 4901, LSCI3520"
+    },
+    {
+      "course_code": "BIOL4310",
+      "prefix_inferred": true,
+      "evidence": "BIOL3310, 3410, 3510, 3530, 3630, 3710, 4120, 4230, 4240, 4260, 4310, 4420, 4510, 4610, 4901, LSCI3520"
+    },
+    {
+      "course_code": "BIOL4420",
+      "prefix_inferred": true,
+      "evidence": "BIOL3310, 3410, 3510, 3530, 3630, 3710, 4120, 4230, 4240, 4260, 4310, 4420, 4510, 4610, 4901, LSCI3520"
+    },
+    {
+      "course_code": "BIOL4510",
+      "prefix_inferred": true,
+      "evidence": "BIOL3310, 3410, 3510, 3530, 3630, 3710, 4120, 4230, 4240, 4260, 4310, 4420, 4510, 4610, 4901, LSCI3520"
+    },
+    {
+      "course_code": "BIOL4610",
+      "prefix_inferred": true,
+      "evidence": "BIOL3310, 3410, 3510, 3530, 3630, 3710, 4120, 4230, 4240, 4260, 4310, 4420, 4510, 4610, 4901, LSCI3520"
+    },
+    {
+      "course_code": "BIOL4901",
+      "prefix_inferred": true,
+      "evidence": "BIOL3310, 3410, 3510, 3530, 3630, 3710, 4120, 4230, 4240, 4260, 4310, 4420, 4510, 4610, 4901, LSCI3520"
+    },
+    {
+      "course_code": "LSCI3520",
+      "prefix_inferred": false,
+      "evidence": "BIOL3310, 3410, 3510, 3530, 3630, 3710, 4120, 4230, 4240, 4260, 4310, 4420, 4510, 4610, 4901, LSCI3520"
+    },
+    {
+      "course_code": "CHEM4030",
+      "prefix_inferred": false,
+      "evidence": "CHEM4030, 4040"
+    },
+    {
+      "course_code": "CHEM4040",
+      "prefix_inferred": true,
+      "evidence": "CHEM4030, 4040"
+    },
+    {
+      "course_code": "CHEM1070",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: CHEM1070, LSCI1002, PHYS1002/1111"
+    },
+    {
+      "course_code": "LSCI1002",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: CHEM1070, LSCI1002, PHYS1002/1111"
+    },
+    {
+      "course_code": "PHYS1002",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: CHEM1070, LSCI1002, PHYS1002/1111"
+    },
+    {
+      "course_code": "PHYS1111",
+      "prefix_inferred": true,
+      "evidence": "Faculty Package: CHEM1070, LSCI1002, PHYS1002/1111"
+    },
+    {
+      "course_code": "PHYS1001",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: PHYS1001 (if not taken PHYS1002/1111)"
+    },
+    {
+      "course_code": "PHYS1002",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: PHYS1001 (if not taken PHYS1002/1111)"
+    },
+    {
+      "course_code": "PHYS1111",
+      "prefix_inferred": true,
+      "evidence": "Faculty Package: PHYS1001 (if not taken PHYS1002/1111)"
+    },
+    {
+      "course_code": "CHEM1300",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CHEM1300, LSCI1012"
+    },
+    {
+      "course_code": "LSCI1012",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CHEM1300, LSCI1012"
+    },
+    {
+      "course_code": "CHEM2120",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CHEM2120, 2200, 2300, 2868, LSCI2002"
+    },
+    {
+      "course_code": "CHEM2200",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHEM2120, 2200, 2300, 2868, LSCI2002"
+    },
+    {
+      "course_code": "CHEM2300",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHEM2120, 2200, 2300, 2868, LSCI2002"
+    },
+    {
+      "course_code": "CHEM2868",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHEM2120, 2200, 2300, 2868, LSCI2002"
+    },
+    {
+      "course_code": "LSCI2002",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CHEM2120, 2200, 2300, 2868, LSCI2002"
+    },
+    {
+      "course_code": "BIOL2210",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BIOL2210, CHEM2110, 2400, 2878, LSCI1012 (if not taken)"
+    },
+    {
+      "course_code": "CHEM2110",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BIOL2210, CHEM2110, 2400, 2878, LSCI1012 (if not taken)"
+    },
+    {
+      "course_code": "CHEM2400",
+      "prefix_inferred": true,
+      "evidence": "Major Required: BIOL2210, CHEM2110, 2400, 2878, LSCI1012 (if not taken)"
+    },
+    {
+      "course_code": "CHEM2878",
+      "prefix_inferred": true,
+      "evidence": "Major Required: BIOL2210, CHEM2110, 2400, 2878, LSCI1012 (if not taken)"
+    },
+    {
+      "course_code": "LSCI1012",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BIOL2210, CHEM2110, 2400, 2878, LSCI1012 (if not taken)"
+    },
+    {
+      "course_code": "BIOL2213",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): BIOL2213[a]"
+    },
+    {
+      "course_code": "BCHE2030",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BCHE2030, BIOL2120, CHEM3220, 3320, 3410"
+    },
+    {
+      "course_code": "BIOL2120",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BCHE2030, BIOL2120, CHEM3220, 3320, 3410"
+    },
+    {
+      "course_code": "CHEM3220",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BCHE2030, BIOL2120, CHEM3220, 3320, 3410"
+    },
+    {
+      "course_code": "CHEM3320",
+      "prefix_inferred": true,
+      "evidence": "Major Required: BCHE2030, BIOL2120, CHEM3220, 3320, 3410"
+    },
+    {
+      "course_code": "CHEM3410",
+      "prefix_inferred": true,
+      "evidence": "Major Required: BCHE2030, BIOL2120, CHEM3220, 3320, 3410"
+    },
+    {
+      "course_code": "CHEM3810",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): CHEM3810/3830/3870[b]"
+    },
+    {
+      "course_code": "CHEM3830",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): CHEM3810/3830/3870[b]"
+    },
+    {
+      "course_code": "CHEM3870",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): CHEM3810/3830/3870[b]"
+    },
+    {
+      "course_code": "BIOL2410",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BIOL2410, 2420, CHEM3130"
+    },
+    {
+      "course_code": "BIOL2420",
+      "prefix_inferred": true,
+      "evidence": "Major Required: BIOL2410, 2420, CHEM3130"
+    },
+    {
+      "course_code": "CHEM3130",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BIOL2410, 2420, CHEM3130"
+    },
+    {
+      "course_code": "BIOL2313",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): BIOL2313[a], CHEM3860[b]"
+    },
+    {
+      "course_code": "CHEM3860",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): BIOL2313[a], CHEM3860[b]"
+    },
+    {
+      "course_code": "BIOL3012",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BIOL3012, 3560, 3610, 4010, CHEM4030"
+    },
+    {
+      "course_code": "BIOL3560",
+      "prefix_inferred": true,
+      "evidence": "Major Required: BIOL3012, 3560, 3610, 4010, CHEM4030"
+    },
+    {
+      "course_code": "BIOL3610",
+      "prefix_inferred": true,
+      "evidence": "Major Required: BIOL3012, 3560, 3610, 4010, CHEM4030"
+    },
+    {
+      "course_code": "BIOL4010",
+      "prefix_inferred": true,
+      "evidence": "Major Required: BIOL3012, 3560, 3610, 4010, CHEM4030"
+    },
+    {
+      "course_code": "CHEM4030",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BIOL3012, 3560, 3610, 4010, CHEM4030"
+    },
+    {
+      "course_code": "BIOL3022",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BIOL3022, 3570, 3620, CHEM4040"
+    },
+    {
+      "course_code": "BIOL3570",
+      "prefix_inferred": true,
+      "evidence": "Major Required: BIOL3022, 3570, 3620, CHEM4040"
+    },
+    {
+      "course_code": "BIOL3620",
+      "prefix_inferred": true,
+      "evidence": "Major Required: BIOL3022, 3570, 3620, CHEM4040"
+    },
+    {
+      "course_code": "CHEM4040",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BIOL3022, 3570, 3620, CHEM4040"
+    },
+    {
+      "course_code": "CHEM2120",
+      "prefix_inferred": false,
+      "evidence": "CHEM2120, 2200, 2300, 2400, 2860, 2870"
+    },
+    {
+      "course_code": "CHEM2200",
+      "prefix_inferred": true,
+      "evidence": "CHEM2120, 2200, 2300, 2400, 2860, 2870"
+    },
+    {
+      "course_code": "CHEM2300",
+      "prefix_inferred": true,
+      "evidence": "CHEM2120, 2200, 2300, 2400, 2860, 2870"
+    },
+    {
+      "course_code": "CHEM2400",
+      "prefix_inferred": true,
+      "evidence": "CHEM2120, 2200, 2300, 2400, 2860, 2870"
+    },
+    {
+      "course_code": "CHEM2860",
+      "prefix_inferred": true,
+      "evidence": "CHEM2120, 2200, 2300, 2400, 2860, 2870"
+    },
+    {
+      "course_code": "CHEM2870",
+      "prefix_inferred": true,
+      "evidence": "CHEM2120, 2200, 2300, 2400, 2860, 2870"
+    },
+    {
+      "course_code": "CHEM3130",
+      "prefix_inferred": false,
+      "evidence": "At least six units from: CHEM3130, 3220, 3320, 3410, 4788, ENSC4525, 4535"
+    },
+    {
+      "course_code": "CHEM3220",
+      "prefix_inferred": true,
+      "evidence": "At least six units from: CHEM3130, 3220, 3320, 3410, 4788, ENSC4525, 4535"
+    },
+    {
+      "course_code": "CHEM3320",
+      "prefix_inferred": true,
+      "evidence": "At least six units from: CHEM3130, 3220, 3320, 3410, 4788, ENSC4525, 4535"
+    },
+    {
+      "course_code": "CHEM3410",
+      "prefix_inferred": true,
+      "evidence": "At least six units from: CHEM3130, 3220, 3320, 3410, 4788, ENSC4525, 4535"
+    },
+    {
+      "course_code": "CHEM4788",
+      "prefix_inferred": true,
+      "evidence": "At least six units from: CHEM3130, 3220, 3320, 3410, 4788, ENSC4525, 4535"
+    },
+    {
+      "course_code": "ENSC4525",
+      "prefix_inferred": false,
+      "evidence": "At least six units from: CHEM3130, 3220, 3320, 3410, 4788, ENSC4525, 4535"
+    },
+    {
+      "course_code": "ENSC4535",
+      "prefix_inferred": true,
+      "evidence": "At least six units from: CHEM3130, 3220, 3320, 3410, 4788, ENSC4525, 4535"
+    },
+    {
+      "course_code": "CHEM1070",
+      "prefix_inferred": false,
+      "evidence": "CHEM1070"
+    },
+    {
+      "course_code": "CHEM1072",
+      "prefix_inferred": false,
+      "evidence": "CHEM1072"
+    },
+    {
+      "course_code": "CHEM1280",
+      "prefix_inferred": false,
+      "evidence": "CHEM1280"
+    },
+    {
+      "course_code": "CHEM1300",
+      "prefix_inferred": false,
+      "evidence": "CHEM1300"
+    },
+    {
+      "course_code": "CHEM1380",
+      "prefix_inferred": false,
+      "evidence": "CHEM1380"
+    },
+    {
+      "course_code": "CHEM1870",
+      "prefix_inferred": false,
+      "evidence": "CHEM1870"
+    },
+    {
+      "course_code": "CHEM2110",
+      "prefix_inferred": false,
+      "evidence": "CHEM2110"
+    },
+    {
+      "course_code": "CHEM2120",
+      "prefix_inferred": false,
+      "evidence": "CHEM2120"
+    },
+    {
+      "course_code": "CHEM2200",
+      "prefix_inferred": false,
+      "evidence": "CHEM2200"
+    },
+    {
+      "course_code": "CHEM2270",
+      "prefix_inferred": false,
+      "evidence": "CHEM2270"
+    },
+    {
+      "course_code": "CHEM2300",
+      "prefix_inferred": false,
+      "evidence": "CHEM2300"
+    },
+    {
+      "course_code": "CHEM2310",
+      "prefix_inferred": false,
+      "evidence": "CHEM2310"
+    },
+    {
+      "course_code": "CHEM2382",
+      "prefix_inferred": false,
+      "evidence": "CHEM2382"
+    },
+    {
+      "course_code": "CHEM2400",
+      "prefix_inferred": false,
+      "evidence": "CHEM2400"
+    },
+    {
+      "course_code": "CHEM2860",
+      "prefix_inferred": false,
+      "evidence": "CHEM2860"
+    },
+    {
+      "course_code": "CHEM2868",
+      "prefix_inferred": false,
+      "evidence": "CHEM2868"
+    },
+    {
+      "course_code": "CHEM2870",
+      "prefix_inferred": false,
+      "evidence": "CHEM2870"
+    },
+    {
+      "course_code": "CHEM2878",
+      "prefix_inferred": false,
+      "evidence": "CHEM2878"
+    },
+    {
+      "course_code": "CHEM3130",
+      "prefix_inferred": false,
+      "evidence": "CHEM3130"
+    },
+    {
+      "course_code": "CHEM3220",
+      "prefix_inferred": false,
+      "evidence": "CHEM3220"
+    },
+    {
+      "course_code": "CHEM3230",
+      "prefix_inferred": false,
+      "evidence": "CHEM3230"
+    },
+    {
+      "course_code": "CHEM3320",
+      "prefix_inferred": false,
+      "evidence": "CHEM3320"
+    },
+    {
+      "course_code": "CHEM3340",
+      "prefix_inferred": false,
+      "evidence": "CHEM3340"
+    },
+    {
+      "course_code": "CHEM3410",
+      "prefix_inferred": false,
+      "evidence": "CHEM3410"
+    },
+    {
+      "course_code": "CHEM3420",
+      "prefix_inferred": false,
+      "evidence": "CHEM3420"
+    },
+    {
+      "course_code": "CHEM3810",
+      "prefix_inferred": false,
+      "evidence": "CHEM3810"
+    },
+    {
+      "course_code": "CHEM3820",
+      "prefix_inferred": false,
+      "evidence": "CHEM3820"
+    },
+    {
+      "course_code": "CHEM3830",
+      "prefix_inferred": false,
+      "evidence": "CHEM3830"
+    },
+    {
+      "course_code": "CHEM3840",
+      "prefix_inferred": false,
+      "evidence": "CHEM3840"
+    },
+    {
+      "course_code": "CHEM3860",
+      "prefix_inferred": false,
+      "evidence": "CHEM3860"
+    },
+    {
+      "course_code": "CHEM3870",
+      "prefix_inferred": false,
+      "evidence": "CHEM3870"
+    },
+    {
+      "course_code": "CHEM3880",
+      "prefix_inferred": false,
+      "evidence": "CHEM3880"
+    },
+    {
+      "course_code": "CHEM4010",
+      "prefix_inferred": false,
+      "evidence": "CHEM4010"
+    },
+    {
+      "course_code": "CHEM4020",
+      "prefix_inferred": false,
+      "evidence": "CHEM4020"
+    },
+    {
+      "course_code": "CHEM4030",
+      "prefix_inferred": false,
+      "evidence": "CHEM4030"
+    },
+    {
+      "course_code": "CHEM4040",
+      "prefix_inferred": false,
+      "evidence": "CHEM4040"
+    },
+    {
+      "course_code": "CHEM4100",
+      "prefix_inferred": false,
+      "evidence": "CHEM4100"
+    },
+    {
+      "course_code": "CHEM4101",
+      "prefix_inferred": false,
+      "evidence": "CHEM4101"
+    },
+    {
+      "course_code": "CHEM4200",
+      "prefix_inferred": false,
+      "evidence": "CHEM4200"
+    },
+    {
+      "course_code": "CHEM4280",
+      "prefix_inferred": false,
+      "evidence": "CHEM4280"
+    },
+    {
+      "course_code": "CHEM4300",
+      "prefix_inferred": false,
+      "evidence": "CHEM4300"
+    },
+    {
+      "course_code": "CHEM4303",
+      "prefix_inferred": false,
+      "evidence": "CHEM4303"
+    },
+    {
+      "course_code": "CHEM4400",
+      "prefix_inferred": false,
+      "evidence": "CHEM4400"
+    },
+    {
+      "course_code": "CHEM4440",
+      "prefix_inferred": false,
+      "evidence": "CHEM4440"
+    },
+    {
+      "course_code": "CHEM4470",
+      "prefix_inferred": false,
+      "evidence": "CHEM4470"
+    },
+    {
+      "course_code": "CHEM4471",
+      "prefix_inferred": false,
+      "evidence": "CHEM4471"
+    },
+    {
+      "course_code": "CHEM4480",
+      "prefix_inferred": false,
+      "evidence": "CHEM4480"
+    },
+    {
+      "course_code": "CHEM4490",
+      "prefix_inferred": false,
+      "evidence": "CHEM4490"
+    },
+    {
+      "course_code": "CHEM4630",
+      "prefix_inferred": false,
+      "evidence": "CHEM4630"
+    },
+    {
+      "course_code": "CHEM4640",
+      "prefix_inferred": false,
+      "evidence": "CHEM4640"
+    },
+    {
+      "course_code": "CHEM4710",
+      "prefix_inferred": false,
+      "evidence": "CHEM4710"
+    },
+    {
+      "course_code": "CHEM4730",
+      "prefix_inferred": false,
+      "evidence": "CHEM4730"
+    },
+    {
+      "course_code": "CHEM4780",
+      "prefix_inferred": false,
+      "evidence": "CHEM4780"
+    },
+    {
+      "course_code": "CHEM4784",
+      "prefix_inferred": false,
+      "evidence": "CHEM4784"
+    },
+    {
+      "course_code": "CHEM4785",
+      "prefix_inferred": false,
+      "evidence": "CHEM4785"
+    },
+    {
+      "course_code": "CHEM4786",
+      "prefix_inferred": false,
+      "evidence": "CHEM4786"
+    },
+    {
+      "course_code": "CHEM4788",
+      "prefix_inferred": false,
+      "evidence": "CHEM4788"
+    },
+    {
+      "course_code": "CHEM4960",
+      "prefix_inferred": false,
+      "evidence": "CHEM4960"
+    },
+    {
+      "course_code": "CHEM4970",
+      "prefix_inferred": false,
+      "evidence": "CHEM4970"
+    },
+    {
+      "course_code": "CHEM4980",
+      "prefix_inferred": false,
+      "evidence": "CHEM4980"
+    },
+    {
+      "course_code": "CHEM4990",
+      "prefix_inferred": false,
+      "evidence": "CHEM4990"
+    },
+    {
+      "course_code": "CHEM5300",
+      "prefix_inferred": false,
+      "evidence": "CHEM5300"
+    },
+    {
+      "course_code": "CHEM5301",
+      "prefix_inferred": false,
+      "evidence": "CHEM5301"
+    },
+    {
+      "course_code": "CHEM5303",
+      "prefix_inferred": false,
+      "evidence": "CHEM5303"
+    },
+    {
+      "course_code": "CHEM5540",
+      "prefix_inferred": false,
+      "evidence": "CHEM5540"
+    },
+    {
+      "course_code": "CHEM5550",
+      "prefix_inferred": false,
+      "evidence": "CHEM5550"
+    },
+    {
+      "course_code": "CHEM5560",
+      "prefix_inferred": false,
+      "evidence": "CHEM5560"
+    },
+    {
+      "course_code": "CHEM5620",
+      "prefix_inferred": false,
+      "evidence": "CHEM5620"
+    },
+    {
+      "course_code": "CHEM5642",
+      "prefix_inferred": false,
+      "evidence": "CHEM5642"
+    },
+    {
+      "course_code": "CHEM5680",
+      "prefix_inferred": false,
+      "evidence": "CHEM5680"
+    },
+    {
+      "course_code": "CHEM5780",
+      "prefix_inferred": false,
+      "evidence": "CHEM5780"
+    },
+    {
+      "course_code": "CHEM5784",
+      "prefix_inferred": false,
+      "evidence": "CHEM5784"
+    },
+    {
+      "course_code": "CHEM5785",
+      "prefix_inferred": false,
+      "evidence": "CHEM5785"
+    },
+    {
+      "course_code": "CHEM5910",
+      "prefix_inferred": false,
+      "evidence": "CHEM5910"
+    },
+    {
+      "course_code": "CHEM5920",
+      "prefix_inferred": false,
+      "evidence": "CHEM5920"
+    },
+    {
+      "course_code": "STAR2000",
+      "prefix_inferred": false,
+      "evidence": "STAR2000"
+    },
+    {
+      "course_code": "STAR2050",
+      "prefix_inferred": false,
+      "evidence": "STAR2050"
+    },
+    {
+      "course_code": "STAR3000",
+      "prefix_inferred": false,
+      "evidence": "STAR3000"
+    },
+    {
+      "course_code": "STAR3050",
+      "prefix_inferred": false,
+      "evidence": "STAR3050"
+    },
+    {
+      "course_code": "STAR4000",
+      "prefix_inferred": false,
+      "evidence": "STAR4000"
+    },
+    {
+      "course_code": "STAR4050",
+      "prefix_inferred": false,
+      "evidence": "STAR4050"
+    }
+  ],
+  "course_code_aliases": [],
+  "source": {
+    "system": "CUHK CUSIS Browse Program Information",
+    "url": "https://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/tt_dsp_acad_prog.aspx",
+    "source_text_file": "data/cuhk/2024/programmes/B_Sc_in_Chemistry__Faculty_of_Science.txt",
+    "reused_duplicate_entry": false,
+    "reused_from_faculty": null
+  },
+  "raw_text": "\n\nBrowse Program Information\n\n\n\n\n\n\nAcademic Program:\tB.Sc. in Chemistry\nAcademic Year:\t2024\nLanguage:\t\nEnglish\nSimplified Chinese\nTraditional Chinese\n\n\n\nLearning Outcomes\nStudy Scheme\n \n\n\t\n\nChemistry\n\nApplicable to students admitted in 2024-25\n\n\n\n\n \n\n\n\n\n \n\nMajor Programme Requirement\n\n\n\n\n \n\n\n\n\nStudents are required to complete a minimum of 68 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nFaculty Package:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nGroup B: CHEM1070\n\nGroup D: PHYS1001 or 1002 or 1111\n\nA course from the following:\n\nGroup A: LSCI1001 or 1002 or 1012\n\nGroup C: MATH1520 (preferred) or 1010 (preferred) or 1018 or 1550\n\nGroup E: STAT1011 or 1012\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nRequired Courses:\n\n\t\n\n49\n\n\n\n\n \n\n\t\n\nCHEM1300, 2110, 2120, 2200, 2270, 2300, 2310, 2400, 2860, 2870, 3130, 3220, 3320, 3410, 3810, 3830, 3860, 3870, 4030/4040 (capstone courses)\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nElective Courses:\n\n\t\n\n10\n\n\n\n\n(a)\n\n\t\n\nOne course from: CHEM3230 or 3340\n\n\t\n\n \n\n\n\n\n(b)\n\n \n\n \n\n\t\n\n8 units from the following lists, of which at most one CHEM course at 3000 level and one non-CHEM course:\n\nUndergraduate electives:\n\nCHEM3420, 3820, 3840, 4100, 4101, 4200, 4280, 4300, 4303, 4400, 4440, 4471, 4630, 4640, 4710, 4730, 4780, 4784, 4785, 4786, 4788\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nCHEM courses at 5000 level (with approval from the Department):\n\nCHEM5300, 5301, 5303, 5540, 5550, 5560, 5620, 5642, 5680, 5780, 5784, 5785, 5910, 5920\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nNon-CHEM courses:\n\nBCHE3050#, CMBI4002#, ENSC4525#, 4535#, EESC3220#,  PHYS3021#, 3022#, 4031#, 4440#\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n68\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\nIn addition to fulfilling the above Major Programme Requirement, students meeting the criteria as specified by the Faculty can take the following stream offered by the Faculty:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\nScience, Technology And Research Stream\n\n \n\n\n\n\nStudents are required to complete a minimum of 12 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nRequired Courses:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nOne Faculty Package Course:\n\n\t\n\n3\n\n\n\n\n \n\n\t\n\nChoose from the two remaining groups of the Faculty Package that have not been used to fulfill the Faculty Package Requirement\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nResearch Courses:\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nSTAR2000, 3000, 4000[a]\n\n\t\n\n \n\n\n\n\n(c)\n\n\t\n\nSeminar Courses:\n\n\t\n\n3\n\n\n\n\n \n\n\t\n\nSTAR2050, 3050, 4050\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nExperiential Learning:\n\n\t\n\n---\n\n\n\n\n \n\n\t\n\nAt least 4 consecutive weeks of outside Hong Kong exposure[b]\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n12\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\nExplanatory Notes:\n\n\t\n\n \n\n\n\n\n1.\n\n\t\n\nCHEM courses at 2000 and above level as well as those labeled as # will be included in the calculation of Major GPA for honours classification.\n\n\n\n\n2.\n\n \n\n\t\n\nPotential students majoring in Chemistry are strongly recommended to take CHEM1870 as basic training to prepare for laboratory classes in upper years.\n\n\n\n\n3.\n\n\t\n\nA student in the final year of attendance may, under special circumstances and with written approval from the Department, select CHEM4480 and/or 4490 to substitute up to 4 units of any courses in the Chemistry Programme.\n\n\n\n\n4.\n\n\t\n\nStudents in their final year of attendance may, subject to approval by the Department, select CHEM4980/4990 and submit an undergraduate thesis in place of CHEM4030/4040.\n\n\n\n\n[a]\n\n\t\n\nStudents may select research-oriented course(s), as approved by the Major Programme, to substitute up to 4 units for fulfillment of Research Courses requirement.\n\n\n\n\n[b]\n\n\t\n\nStudents must complete any exchange/research/internship programme(s) offered by the University, Colleges, the Faculty of Science or Major Programme, as approved by the Major Programme, to fulfill the Experiential Learning requirement.  Students are responsible for the extra costs incurred in the exchange/research/internship programme(s).\n\n \n\n\n\n\n \n\n\n\n\nChemistry\n\n\n\n\n \n\n\t\n\nRecommended Course Pattern\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: CHEM1070, PHYS1001 or 1002 or 1111\n\n\t\n\n6\n\n\n\n\nMajor Required:\n\n\t\n\n \n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nFaculty Package: A course from Group A, C, E\n\n\t\n\n3\n\n\n\n\nMajor Required: CHEM1300\n\n\t\n\n2\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: CHEM2120, 2200, 2300, 2860\n\n\t\n\n12\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: CHEM2110, 2270, 2310, 2400, 2870\n\n\t\n\n12\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nThird Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: CHEM3220, 3320, 3410, 3810, 3830, 3870\n\n\t\n\n14\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: CHEM3130, 3860\n\n\t\n\n5\n\n\n\n\nMajor Elective(s): CHEM3230 or 3340, one elective course\n\n\t\n\n4\n\n\n\n\nFourth Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: CHEM4030\n\n\t\n\n0\n\n\n\n\nMajor Elective(s): two elective courses\n\n\t\n\n4\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: CHEM4040\n\n\t\n\n4\n\n\n\n\nMajor Elective(s): one elective course\n\n\t\n\n2\n\n\n\n\nTotal (including Faculty Package):\n\n\t\n\n68\n\n \n\nChemistry ¾ Science, Technology And Research Stream (STARS)\n\n\n\n\n \n\n\t\n\nRecommended Course Pattern\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: CHEM1070, PHYS1001 or 1002 or 1111\n\n\t\n\n6\n\n\n\n\nMajor Required:\n\n\t\n\n \n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nFaculty Package: MATH1520 or 1010 or 1018 or 1550, a course from Group A or E\n\n\t\n\n6\n\n\n\n\nMajor Required: CHEM1300\n\n\t\n\n2\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: CHEM2120, 2200, 2300, 2860\n\n\t\n\n12\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nSTARS: STAR2000, 2050\n\n\t\n\n2\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: CHEM2110, 2270, 2310, 2400, 2870\n\n\t\n\n12\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nSTARS: STAR3050\n\n\t\n\n1\n\n\n\n\nThird Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: CHEM3220, 3320, 3410, 3810, 3830, 3870\n\n\t\n\n14\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nSTARS: STAR3000\n\n\t\n\n2\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: CHEM3130, 3860\n\n\t\n\n5\n\n\n\n\nMajor Elective(s): CHEM3230 or 3340, one elective course\n\n\t\n\n4\n\n\n\n\nSTARS: STAR4050\n\n\t\n\n1\n\n\n\n\nFourth Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: CHEM4030\n\n\t\n\n0\n\n\n\n\nMajor Elective(s): two elective courses\n\n\t\n\n4\n\n\n\n\nSTARS: STAR4000@\n\n\t\n\n3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: CHEM4040\n\n\t\n\n4\n\n\n\n\nMajor Elective(s): one elective course\n\n\t\n\n2\n\n\n\n\nTotal (including Faculty Package):\n\n\t\n\n80\n\n@ Students may take CHEM4980/4990 as a substitute for STAR4000.\n\n \n\n \n\n\t\n\nRecommended Course Pattern for CUHK students in fulfillment of requirements of the Dual Undergraduate Degree Programme (DDP) with the University of Manchester (UoM) (BSc in Chemistry)\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n(Study at CUHK)\n\n\t\n\n1st term[a]\n\n\t\n\n \n\n\n\n\nFaculty Package: CHEM1070, PHYS1001 or 1002 or 1111\n\n\t\n\n6\n\n\n\n\nUniversity Core Requirements: ELTU1001, 1 College GE course[b],  1 UGFN course, 1 PHED course, UGCP1001\n\n\t\n\n10-11\n\n\n\n\nFree Elective(s): CHEM1280[c]\n\n\t\n\n3\n\n\n\n\n2nd term[a]\n\n\t\n\n \n\n\n\n\nFaculty Package: LSCI1001 or 1002 or MATH1520\n\n\t\n\n3\n\n\n\n\nMajor Required: CHEM1300, 2110, 2400\n\n\t\n\n6\n\n\n\n\nUniversity Core Requirements: CHLT1001, 0-1 College GE course[b], 1 PHED course, ENGG1003\n\n\t\n\n7-9\n\n\n\n\nFree Elective(s): LSCI1001 or 1002 or MATH1520[c]\n\n\t\n\n3\n\n\n\n\nSummer session[a]\n\nUniversity Core Requirements: 1 UGEA course[d], 1 UGEC course[d]\n\n\t\n\n \n\n4\n\n\n\n\nSecond Year of Attendance\n\n(Study at CUHK)\n\n\t\n\n1st term[a]\n\n\t\n\n \n\n\n\n\nMajor Required: CHEM2120, 2200, 2300, 2860, 3320, 3410\n\n\t\n\n18\n\n\n\n\nUniversity Core Requirements: ELTU2018 or 2019\n\n\t\n\n3\n\n\n\n\n2nd term[a]\n\n\t\n\n \n\n\n\n\nMajor Required: CHEM2270, 2310, 2870, 3130\n\n\t\n\n11\n\n\n\n\nMajor Elective(s): CHEM3230 or 3340\n\n\t\n\n2\n\n\n\n\nUniversity Core Requirements: CHLT1002, 1 UGFH course, UGCP1002\n\n\t\n\n6\n\n\n\n\nThird Year of Attendance\n\n(Study at UoM)\n\n \n\n\t\n\nMandatory courses: CHEM20212 (10 units), 20311 (10 units), 20312 (10 units), 20411 (10 units), 20412 (10 units), 20500 (10 units), 20611 (10 units), 22600 (30 units)\n\nOptional courses: two courses (with a total of 20 units) from CHEM20711, 20712, 20722, UCIL20022, 20031, 20032, 20112, 20122, 20132, 20142, 20211, 20282, 20311, 20822, 21301, 21302, 26002\n\n\t\n\n120 units\n\n(with 15 units for fulfilment of the Major requirements to be transferred to CUHK)\n\n\n\n\nFourth Year of Attendance\n\n(Study at UoM)\n\n \n\n\t\n\nMandatory courses: CHEM30211 (10 units), 30311 (10 units),\n\n30312 (10 units), 30411 (10 units), 30620 (40 units)\n\nOptional courses: three to four courses (with a total of 40 units) from CHEM30111, 30112, 30122, 30432, 30712, 30722, EART30252, HSTM31212, 30211, 33201, MCEL30011, 30012, 30022\n\n\t\n\n120 units\n\n(with 8 units for fulfilment of the Major requirements to be transferred to CUHK)\n\n\n\n\nUnits taken at CUHK:\n\n\t\n\n83-84\n\n\n\n\nUnits taken at UoM and recognized by CUHK:\n\n\t\n\n23\n\n\n\n\nTotal:\n\n\t\n\n106-107[e]\n\n\n\n\nExplanatory Notes:\n\n\n\n\n1.\n\n\t\n\nSubject to approval by the Major Programme concerned, students may opt out of the Dual Degree Programme. The decision to opt out is irrevocable. Students who have opted out are required to complete and fulfill all graduation requirements of the Major Programme at CUHK. Students should be aware that such decision may result in a delay in graduation. Courses and units completed at the Host Institution can be transferred back for fulfillment of CUHK requirements, in accordance with the course mapping table.\n\n\n\n\n[a]\n\n\t\n\nStudents taking a term and a year load exceeding the maximum will need to seek approval from the Registrar.\n\n\n\n\n[b]\n\n\t\n\nThe recommended course pattern of College GE courses varies slightly depending on students’ College affiliation.\n\n\n\n\n[c]\n\n\t\n\nFree elective courses taken at CUHK can be transferred to fulfil the major requirements of UoM.\n\n\n\n\n[d]\n\n\t\n\nStudents should take one 2-unit UGEA course and one 2-unit UGEC course.\n\n\n\n\n[e]\n\n\t\n\nStudents are required to complete at least 46 units (out of 68) of major courses offered by CUHK.\n\n \n\n\n\t\t\t\n\n\n\n\n \n\n\n\n\nChemistry and Biology Double Major Programme\n\n \n\n\n\n\n \n\nMajor Programme Requirement\n\n\n\n\n \n\n\n\n\nStudents are required to complete a minimum of 89 units of courses as follows:\n\n\n\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nFaculty Package:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nGroup A: LSCI1002\n\nGroup B: CHEM1070\n\nGroup D: PHYS1002 (preferred) or 1001 or 1111\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nRequired Courses:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\n1st Major: Chemistry\n\n\t\n\n29\n\n\n\n\n \n\n\t\n\nCHEM1300, 2110, 2120, 2200, 2300, 2400, 2868, 2878, 3130, 3220, 3320, 3410\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\n2nd Major: Biology\n\n\t\n\n32\n\n\n\n\n \n\n\t\n\nBCHE2030, BIOL2120#, 2210#, 2410#, 2420#, 3012, 3022, 3560#, 3570#, 3610#, 3620#, 4010, LSCI1012, 2002\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nElective Courses:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\n1st Major: Chemistry\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\ni) \n\n\t\n\nTwo laboratory courses from CHEM3810, 3830, 3860, 3870\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nii)\n\n\t\n\nAt least 5 units chosen from the following, of which at most one CHEM course at 3000 level:\n\nCHEM3230, 3340, 3420, 4100, 4101, 4110, 4200, 4300, 4303, 4400, 4440, 4630, 4640, 4710, 4780, 4784, 4785, 4786, 4788, ENSC4525#, 4535#\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\n2nd Major: Biology\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\ni) \n\n\t\n\nOne laboratory course from BIOL2213, 2313\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nii)\n\n\t\n\nAt least 5 units chosen from the following:\n\nBIOL3310, 3410, 3510, 3530, 3630, 3710, 4120, 4230, 4240, 4260, 4310, 4420, 4510, 4610, 4901, LSCI3520\n\n \n\n\t\n\n \n\n\n\n\n4.\n\n\t\n\nResearch Component/ Capstone Course/ Final Year Project[a]:\n\n\t\n\n4\n\n\n\n\n \n\n\t\n\nCHEM4030, 4040\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n89\n\n \n\n\n\n\nExplanatory Notes:\n\n\n\n\n1.\n\n \n\n\t\n\nCHEM courses at 2000 and above level as well as those labeled as # will be included in the calculation of Major GPA for honours classification.\n\n\n\n\n2.\n\n\t\n\nSubject to approval by the Major Programmes concerned, students may opt out of the Double Major Programme and register for the 1st Major Programme only. The decision to opt out is irrevocable. Students who have opted out are required to complete and fulfill all graduation requirements by following the study scheme of the 1st Major Programme as a single major. Students should be aware that such decision may result in a delay in graduation because the requirements of the single major study scheme differ from those of the Double Major Programme.\n\n\n\n\n[a]\n\n\t\n\nStudents in their final year of attendance may, subject to approval by the Department, select CHEM4980/4990 and submit an undergraduate thesis in place of CHEM4030/4040.\n\n\n\n\n \n\n \n\n \n\n\t\n\nRecommended Course Pattern\n\n\t\n\nUnits\n\n\n\n\nFirst Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: CHEM1070, LSCI1002, PHYS1002/1111\n\n\t\n\n6-9\n\n\n\n\nMajor Required:\n\n\t\n\n \n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nFaculty Package: PHYS1001 (if not taken PHYS1002/1111)\n\n\t\n\n0-3\n\n\n\n\nMajor Required: CHEM1300, LSCI1012\n\n\t\n\n5\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: CHEM2120, 2200, 2300, 2868, LSCI2002\n\n\t\n\n12\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: BIOL2210, CHEM2110, 2400, 2878, LSCI1012 (if not taken)\n\n\t\n\n9-11\n\n\n\n\nMajor Elective(s): BIOL2213[a]\n\n\t\n\n0-1\n\n\n\n\nThird Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: BCHE2030, BIOL2120, CHEM3220, 3320, 3410\n\n\t\n\n14\n\n\n\n\nMajor Elective(s): CHEM3810/3830/3870[b]\n\n\t\n\n2-4\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: BIOL2410, 2420, CHEM3130\n\n\t\n\n6\n\n\n\n\nMajor Elective(s): BIOL2313[a], CHEM3860[b]\n\n\t\n\n0-3\n\n\n\n\none BIOL course\n\n\t\n\n2-3\n\n\n\n\none CHEM course\n\n\t\n\n2-3\n\n\n\n\nFourth Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: BIOL3012, 3560, 3610, 4010, CHEM4030\n\n\t\n\n9\n\n\n\n\nMajor Elective(s): one BIOL course\n\none CHEM course\n\n\t\n\n2-3\n\n2-3\n\n\n\n\n \n\n\t\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: BIOL3022, 3570, 3620, CHEM4040\n\n\t\n\n10\n\n\n\n\nMajor Elective(s): 0-1 BIOL course\n\n\t\n\n0-3\n\n\n\n\n0-1 CHEM course\n\n\t\n\n0-3\n\n\n\n\nTotal (including Faculty Package):\n\n\t\n\n89\n\n\n\n\n[a] Choose one course from the two laboratory courses.\n\n\n\n\n[b] Choose two courses from the four laboratory courses.\n\n\n\n\n \n\nMinor Programme Title\n\nChemistry\n\n \n\n\n\n\n \n\nMinor Programme Requirement\n\n \n\n\t\n\n \n\n\n\n\nStudents are required to complete a minimum of 24 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nRequired Courses:\n\n\t\n\n18\n\n\n\n\n \n\n\t\n\nCHEM2120, 2200, 2300, 2400, 2860, 2870\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nElective Courses:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nAt least six units from: CHEM3130, 3220, 3320, 3410, 4788, ENSC4525, 4535\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n24\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\n\n\nCourse List\n\n \n\n\n\n\nCourse Code\n\n\t\n\nCourse Title\n\n\t\n\nUnit(s)\n\n\n\n\nCHEM1070\n\n\t\n\nPrinciples of Modern Chemistry\n\n\t\n\n3\n\n\n\n\nCHEM1072\n\n\t\n\nGeneral Chemistry\n\n\t\n\n3\n\n\n\n\nCHEM1280\n\n\t\n\nIntroduction to Organic Chemistry and Biomolecules\n\n\t\n\n3\n\n\n\n\nCHEM1300\n\n\t\n\nFundamentals in Physical Chemistry\n\n\t\n\n2\n\n\n\n\nCHEM1380\n\n\t\n\nBasic Chemistry for Engineers\n\n\t\n\n3\n\n\n\n\nCHEM1870\n\n\t\n\nChemistry Laboratory: STEM and Daily Life\n\n\t\n\n2\n\n\n\n\nCHEM2110\n\n\t\n\nFundamentals of Spectroscopic Analysis\n\n\t\n\n2\n\n\n\n\nCHEM2120\n\n\t\n\nMain Group Chemistry\n\n\t\n\n2\n\n\n\n\nCHEM2200\n\n\t\n\nOrganic Functional Groups: Structure and Reactivity\n\n\t\n\n3\n\n\n\n\nCHEM2270\n\n\t\n\nStudent Oriented Teaching\n\n\t\n\n1\n\n\n\n\nCHEM2300\n\n\t\n\nThermodynamics and Chemical Equilibrium\n\n\t\n\n3\n\n\n\n\nCHEM2310\n\n\t\n\nAtoms and Molecules\n\n\t\n\n3\n\n\n\n\nCHEM2382\n\n\t\n\nChemistry of Life\n\n\t\n\n2\n\n\n\n\nCHEM2400\n\n\t\n\nAnalytical Chemistry\n\n\t\n\n2\n\n\n\n\nCHEM2860\n\n\t\n\nIntegrated Chemistry Laboratory I\n\n\t\n\n4\n\n\n\n\nCHEM2868\n\n\t\n\nBasic Integrated Chemistry Laboratory I\n\n\t\n\n2\n\n\n\n\nCHEM2870\n\n\t\n\nIntegrated Chemistry Laboratory II\n\n\t\n\n4\n\n\n\n\nCHEM2878\n\n\t\n\nBasic Integrated Chemistry Laboratory II\n\n\t\n\n2\n\n\n\n\nCHEM3130\n\n\t\n\nTransition Metal Chemistry\n\n\t\n\n3\n\n\n\n\nCHEM3220\n\n\t\n\nOrganic Reactions: Reactivity and Selectivity\n\n\t\n\n2\n\n\n\n\nCHEM3230\n\n\t\n\nConjugated Molecules and Synthetic Polymers\n\n\t\n\n2\n\n\n\n\nCHEM3320\n\n\t\n\nChemical Kinetics\n\n\t\n\n3\n\n\n\n\nCHEM3340\n\n\t\n\nMaterials Chemistry\n\n\t\n\n2\n\n\n\n\nCHEM3410\n\n\t\n\nInstrumental Analysis\n\n\t\n\n3\n\n\n\n\nCHEM3420\n\n\t\n\nAccreditation of Laboratory Tests\n\n\t\n\n2\n\n\n\n\nCHEM3810\n\n\t\n\nOrganic Chemistry Laboratory\n\n\t\n\n2\n\n\n\n\nCHEM3820\n\n\t\n\nAdvanced Organic Chemistry Laboratory\n\n\t\n\n2\n\n\n\n\nCHEM3830\n\n\t\n\nPhysical Chemistry Laboratory I\n\n\t\n\n2\n\n\n\n\nCHEM3840\n\n\t\n\nPhysical Chemistry Laboratory II\n\n\t\n\n2\n\n\n\n\nCHEM3860\n\n\t\n\nTransition Metal Chemistry Laboratory\n\n\t\n\n2\n\n\n\n\nCHEM3870\n\n\t\n\nInstrumental Analysis Laboratory\n\n\t\n\n2\n\n\n\n\nCHEM3880\n\n\t\n\nQuality Testing Laboratory\n\n\t\n\n2\n\n\n\n\nCHEM4010\n\n\t\n\nProblem-based Learning in Testing and Accreditation I\n\n\t\n\n0\n\n\n\n\nCHEM4020\n\n\t\n\nProblem-based Learning in Testing and Accreditation II\n\n\t\n\n4\n\n\n\n\nCHEM4030\n\n\t\n\nProblem-based Learning in Chemistry I\n\n\t\n\n0\n\n\n\n\nCHEM4040\n\n\t\n\nProblem-based Learning in Chemistry II\n\n\t\n\n4\n\n\n\n\nCHEM4100\n\n\t\n\nAdvanced Inorganic Chemistry\n\n\t\n\n3\n\n\n\n\nCHEM4101\n\n\t\n\nOrganic Electronics: Theory and Applications\n\n\t\n\n2\n\n\n\n\nCHEM4200\n\n\t\n\nBioorganic Chemistry and Chemical Biology\n\n\t\n\n2\n\n\n\n\nCHEM4280\n\n\t\n\nChemistry in Biofuel\n\n\t\n\n2\n\n\n\n\nCHEM4300\n\n\t\n\nAdvanced Physical Chemistry\n\n\t\n\n2\n\n\n\n\nCHEM4303\n\n\t\n\nIntroduction to Nanoscience and Nanotechnology\n\n\t\n\n2\n\n\n\n\nCHEM4400\n\n\t\n\nAdvanced Analytical Chemistry\n\n\t\n\n2\n\n\n\n\nCHEM4440\n\n\t\n\nFood Testing and Environmental Analysis\n\n\t\n\n3\n\n\n\n\nCHEM4470\n\n\t\n\nInternship in Accredited Laboratory\n\n\t\n\n2\n\n\n\n\nCHEM4471\n\n\t\n\nInternship\n\n\t\n\n1\n\n\n\n\nCHEM4480\n\n\t\n\nUndergraduate Special Project I\n\n\t\n\n2\n\n\n\n\nCHEM4490\n\n\t\n\nUndergraduate Special Project II\n\n\t\n\n2\n\n\n\n\nCHEM4630\n\n\t\n\nAsymmetric Organic Synthesis\n\n\t\n\n2\n\n\n\n\nCHEM4640\n\n\t\n\nPharmaceutical Chemistry\n\n\t\n\n2\n\n\n\n\nCHEM4710\n\n\t\n\nQuantum Chemistry\n\n\t\n\n2\n\n\n\n\nCHEM4730\n\n\t\n\nSpecial Topics in Chemistry\n\n\t\n\n2\n\n\n\n\nCHEM4780\n\n\t\n\nMass Spectrometry\n\n\t\n\n2\n\n\n\n\nCHEM4784\n\n\t\n\nBioanalytical Methods\n\n\t\n\n2\n\n\n\n\nCHEM4785\n\n\t\n\nIndustrial Chemistry\n\n\t\n\n2\n\n\n\n\nCHEM4786\n\n\t\n\nPrinciples and Applications of Coating Chemistry\n\n\t\n\n2\n\n\n\n\nCHEM4788\n\n\t\n\nChemical Applications in Forensic Science\n\n\t\n\n2\n\n\n\n\nCHEM4960\n\n\t\n\nResearch in Chemical Science I\n\n\t\n\n2\n\n\n\n\nCHEM4970\n\n\t\n\nResearch in Chemical Science II\n\n\t\n\n2\n\n\n\n\nCHEM4980\n\n\t\n\nUndergraduate Thesis I\n\n\t\n\n0\n\n\n\n\nCHEM4990\n\n\t\n\nUndergraduate Thesis II\n\n\t\n\n4\n\n\n\n\nCHEM5300\n\n\t\n\nAdvanced Quantum Mechanics and Computational Chemistry\n\n\t\n\n2\n\n\n\n\nCHEM5301\n\n\t\n\nColloids and Surface Chemistry\n\n\t\n\n2\n\n\n\n\nCHEM5303\n\n\t\n\nRecent Development of Nanoscience and Nanotechnology\n\n\t\n\n2\n\n\n\n\nCHEM5540\n\n\t\n\nBioinorganic Chemistry\n\n\t\n\n2\n\n\n\n\nCHEM5550\n\n\t\n\nOrganometallic Chemistry of f-Block Elements\n\n\t\n\n2\n\n\n\n\nCHEM5560\n\n\t\n\nOrganometallic Chemistry & Catalysis of d-Block Elements\n\n\t\n\n2\n\n\n\n\nCHEM5620\n\n\t\n\nSynthetic Methods in Organic Chemistry\n\n\t\n\n2\n\n\n\n\nCHEM5642\n\n\t\n\nSupramolecular Chemistry\n\n\t\n\n2\n\n\n\n\nCHEM5680\n\n\t\n\nAdvanced Chemical Biology\n\n\t\n\n3\n\n\n\n\nCHEM5780\n\n\t\n\nMass Spectrometry of Biomolecules\n\n\t\n\n2\n\n\n\n\nCHEM5784\n\n\t\n\nInstrumental Analysis of Biomolecules\n\n\t\n\n2\n\n\n\n\nCHEM5785\n\n\t\n\nElectrochemical Energy Conversion and Storage\n\n\t\n\n2\n\n\n\n\nCHEM5910\n\n\t\n\nCurrent Topics in Chemistry\n\n\t\n\n2\n\n\n\n\nCHEM5920\n\n\t\n\nComputational Chemistry\n\n\t\n\n2\n\n\n\n\nSTAR2000\n\n\t\n\nUndergraduate Research in Science I\n\n\t\n\n1\n\n\n\n\nSTAR2050\n\n\t\n\nSeminar I\n\n\t\n\n1\n\n\n\n\nSTAR3000\n\n\t\n\nUndergraduate Research in Science II\n\n\t\n\n2\n\n\n\n\nSTAR3050\n\n\t\n\nSeminar II\n\n\t\n\n1\n\n\n\n\nSTAR4000\n\n\t\n\nUndergraduate Research in Science III\n\n\t\n\n3\n\n\n\n\nSTAR4050\n\n\t\n\nSeminar III\n\n\t\n\n1\n\n \n\n\n \n\nStudy Scheme\n\n\nLearning Outcomes\n \n\n\t\n\n1.\n\n\t\n\nMajor Programme:\n\n\n\n\n \n\n\n\n\nI.\n\n\t\n\nChemistry\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nA.\n\n\t\n\nKnowledge Outcomes\n\n\n\n\nGraduates should possess fundamental knowledge of the following:\n\n\n\n\n(1)\n\n\t\n\nchemistry principles, concepts, and applications of inorganic chemistry, organic chemistry, physical chemistry, and analytical chemistry; and\n\n\n\n\n(2)\n\n\t\n\nmathematical techniques required in chemical science.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nGraduates should have the ability of applying the acquired knowledge in exploring chemistry-related problems.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nB.\n\n\t\n\nSkills Outcomes\n\n\n\n\nProfessional Skills\n\n\n\n\nGraduates should have a good mastery of professional skills, including the following:\n\n\n\n\n(1)\n\n\t\n\nability of recognizing key factors and applying appropriate assumption to formulate solutions for chemistry problems;\n\n\n\n\n(2)\n\n\t\n\nbasic mathematical skills for handling experimental data and quantitative arguments in physical chemistry;\n\n\n\n\n(3)\n\n\t\n\nability of determining molecular structure based on spectroscopic measurements;\n\n\n\n\n(4)\n\n\t\n\nability to implement safety measures in conducting chemical laboratory works;\n\n\n\n\n(5)\n\n\t\n\nability to operate instruments in chemistry laboratories;\n\n\n\n\n(6)\n\n\t\n\nability in carrying out prescribed procedures using suited experimental skills and instrumentation;\n\n\n\n\n(7)\n\n\t\n\nability to conduct literature reviews/experimental works and to report scientific findings in both oral and written formats; and\n\n\n\n\n(8)\n\n\t\n\ncompetence in using commercial computer software for graphical depiction of molecular systems.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nGraduates should be able to investigate chemistry disciplines using combinations of the above skills.\n\n\n\n\n \n\n\n\n\nGeneric Skills\n\n\n\n\nGraduates should have acquired the following generic skills:\n\n\n\n\n(1)\n\n\t\n\nproblem solving skills including ability to identify key issues and formulate feasible solutions of problems based on logical analysis and critical thinking;\n\n\n\n\n(2)\n\n\t\n\nability to sort out complex observations to construct logical proposition;\n\n\n\n\n(3)\n\n\t\n\nability of formulating logical sequence in arguments;\n\n\n\n\n(4)\n\n\t\n\ncritical evaluation of issues based on evidence and scientific logic;\n\n\n\n\n(5)\n\n\t\n\nability of analyzing issues quantitatively with the sense of level of uncertainty and reliability;\n\n\n\n\n(6)\n\n\t\n\nability to acquire new knowledge by self-study and to conduct independent work with logical planning;\n\n\n\n\n(7)\n\n\t\n\ninterpersonal skills including the ability to work effectively in a group;\n\n\n\n\n(8)\n\n\t\n\ninformation retrieval skills through library and internet; and\n\n\n\n\n(9)\n\n\t\n\ntime management skills.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nC.\n\n\t\n\nAttitude/Value Outcomes\n\n\n\n\nGraduates should have developed the following attitudes and values:\n\n\n\n\n(1)\n\n\t\n\nappreciation of the beauty of chemistry and its importance as a central science;\n\n\n\n\n(2)\n\n\t\n\ncuriosity and interest in scientific exploration;\n\n\n\n\n(3)\n\n\t\n\nawareness of impacts of chemistry in environmental, social, economical, industrial, and technological aspects;\n\n\n\n\n(4)\n\n\t\n\nawareness of chemical safety;\n\n\n\n\n(5)\n\n\t\n\nconfidence in ability of solving problems;\n\n\n\n\n(6)\n\n\t\n\nmotivation and ability for life-long learning; and\n\n\n\n\n(7)\n\n\t\n\nsense of taking responsibility in study and work environments.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nII.\n\n\t\n\nEnrichment Stream\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nA.\n\n\t\n\nKnowledge Outcomes\n\n\n\n\nGraduates should possess fundamental knowledge of the following:\n\n\n\n\n(1)\n\n\t\n\nchemistry principles, concepts, and applications of inorganic chemistry, organic chemistry, physical chemistry, and analytical chemistry;\n\n\n\n\n(2)\n\n\t\n\nin-depth understanding of disciplines in chemistry to establish an integral picture of chemical science; and\n\n\n\n\n(3)\n\n\t\n\nmathematical techniques required in chemical science.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nWith a solid background in chemistry, graduates should have the ability of applying the acquired knowledge in studying chemistry-related problems as well as pursuing a research-oriented career.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nB.\n\n\t\n\nSkills Outcomes\n\n\n\n\nProfessional Skills\n\n\n\n\nGraduates should have a good mastery of professional skills, including the following:\n\n\n\n\n(1)\n\n\t\n\nability of recognizing key factors and applying appropriate assumption to formulate solutions for chemistry problems;\n\n\n\n\n(2)\n\n\t\n\nawareness of recent advances in chemical sciences;\n\n\n\n\n(3)\n\n\t\n\nbasic mathematical skills for handling experimental data and quantitative arguments in physical chemistry;\n\n\n\n\n(4)\n\n\t\n\nability of determining molecular structure based on spectroscopic measurements;\n\n\n\n\n(5)\n\n\t\n\nability to implement safety measures in conducting chemical laboratory works;\n\n\n\n\n(6)\n\n\t\n\nability to operate instruments in chemistry laboratories;\n\n\n\n\n(7)\n\n\t\n\nability in carrying out prescribed procedures using suited experimental skills and instrumentation;\n\n\n\n\n(8)\n\n\t\n\nability to conduct literature reviews/experimental works and to report scientific findings in both oral and written formats; and\n\n\n\n\n(9)\n\n\t\n\ncompetence in using commercial computer software for graphical depiction of molecular systems.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nGraduates should be able to pursue a research-oriented career in chemistry-related disciplines using combinations of the above skills.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nGeneric Skills\n\n\n\n\nGraduates should have acquired the following generic skills:\n\n\n\n\n(1)\n\n\t\n\nproblem solving skills including ability to identify key issues and formulate feasible solutions of problems based on logical analysis and critical thinking;\n\n\n\n\n(2)\n\n\t\n\nability to sort out complex observations to construct logical proposition;\n\n\n\n\n(3)\n\n\t\n\nability of formulating logical sequence in arguments;\n\n\n\n\n(4)\n\n\t\n\ncritical evaluation of issues based on evidence and scientific logic;\n\n\n\n\n(5)\n\n\t\n\nability of analyzing issues quantitatively with the sense of level of uncertainty and reliability;\n\n\n\n\n(6)\n\n\t\n\nability to acquire new knowledge by self-study and to conduct independent work with logical planning;\n\n\n\n\n(7)\n\n\t\n\ninterpersonal skills including the ability to work effectively in a group;\n\n\n\n\n(8)\n\n\t\n\ninformation retrieval skills through library and internet; and\n\n\n\n\n(9)\n\n\t\n\ntime management skills.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nC.\n\n\t\n\nAttitude/Value Outcomes\n\n\n\n\nGraduates should have developed the following attitudes and values:\n\n\n\n\n(1)\n\n\t\n\nappreciation of the beauty of chemistry and its importance as a central science;\n\n\n\n\n(2)\n\n\t\n\ncuriosity and interest in scientific exploration;\n\n\n\n\n(3)\n\n\t\n\nawareness of impacts of chemistry in environmental, social, economical, industrial, and technological aspects;\n\n\n\n\n(4)\n\n\t\n\nawareness of chemical safety;\n\n\n\n\n(5)\n\n\t\n\nconfidence in ability of solving problems;\n\n\n\n\n(6)\n\n\t\n\nmotivation and ability for life-long learning; and\n\n\n\n\n(7)\n\n\t\n\nsense of taking responsibility in study and work environments.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nIII.\n\n\t\n\nTesting and Accreditation Stream\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nA.\n\n\t\n\nKnowledge Outcomes\n\n\n\n\nGraduates should possess fundamental knowledge of the following:\n\n\n\n\n(1)\n\n\t\n\nchemistry principles, concepts, and applications of inorganic chemistry, organic chemistry, physical chemistry, and analytical chemistry;\n\n\n\n\n(2)\n\n\t\n\nin-depth understanding of analytical chemistry and its application in chemical testing; and\n\n\n\n\n(3)\n\n\t\n\nmathematical techniques required in chemical science.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nGraduates should have the ability of applying the acquired knowledge to solve problems in accredited chemical testing.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nB.\n\n\t\n\nSkills Outcomes\n\n\n\n\nProfessional Skills\n\n\n\n\nGraduates should have a good mastery of professional skills, including the following:\n\n\n\n\n(1)\n\n\t\n\nability of recognizing key factors and applying appropriate assumption to formulate solutions for chemistry problems;\n\n\n\n\n(2)\n\n\t\n\nbasic mathematical skills for handling experimental data and quantitative arguments in physical chemistry;\n\n\n\n\n(3)\n\n\t\n\nawareness of recent developments in testing industry;\n\n\n\n\n(4)\n\n\t\n\nability of applying spectroscopic measurements for chemical testing;\n\n\n\n\n(5)\n\n\t\n\nability to implement safety measures in conducting chemical laboratory work;\n\n\n\n\n(6)\n\n\t\n\nability to operate instruments in chemistry laboratories;\n\n\n\n\n(7)\n\n\t\n\nability in carrying out prescribed procedures using suited experimental skills and instrumentation;\n\n\n\n\n(8)\n\n\t\n\nability to conduct literature reviews/experimental works and to report scientific findings in both oral and written formats; and\n\n\n\n\n(9)\n\n\t\n\ncompetence in using commercial computer software for graphical depiction of molecular systems.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nGraduates should be able to perform accredited chemical tests and resolve related issues using combinations of the above skills.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nGeneric Skills\n\n\n\n\nGraduates should have acquired the following generic skills:\n\n\n\n\n(1)\n\n\t\n\nproblem solving skills including ability to identify key issues and formulate feasible solutions of problems based on logical analysis and critical thinking;\n\n\n\n\n(2)\n\n\t\n\nability to sort out complex observations to construct logical proposition;\n\n\n\n\n(3)\n\n\t\n\nability of formulating logical sequence in arguments;\n\n\n\n\n(4)\n\n\t\n\ncritical evaluation of issues based on evidence and scientific logic;\n\n\n\n\n(5)\n\n\t\n\nability of analyzing issues quantitatively with the sense of level of uncertainty and reliability;\n\n\n\n\n(6)\n\n\t\n\nability to acquire new knowledge by self-study and to conduct independent work with logical planning;\n\n\n\n\n(7)\n\n\t\n\ninterpersonal skills including the ability to work effectively in a group;\n\n\n\n\n(8)\n\n\t\n\ninformation retrieval skills through library and internet; and\n\n\n\n\n(9)\n\n\t\n\ntime management skills.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nC.\n\n\t\n\nAttitude/Value Outcomes\n\n\n\n\nGraduates should have developed the following attitudes and values:\n\n\n\n\n(1)\n\n\t\n\nappreciation of the beauty of chemistry and its importance as a central science;\n\n\n\n\n(2)\n\n\t\n\ncuriosity and interest in scientific exploration;\n\n\n\n\n(3)\n\n\t\n\nawareness of impacts of chemistry in environmental, social, economical, industrial, and technological aspects;\n\n\n\n\n(4)\n\n\t\n\nawareness of chemical safety;\n\n\n\n\n(5)\n\n\t\n\nconfidence in ability of solving problems;\n\n\n\n\n(6)\n\n\t\n\nmotivation and ability for life-long learning; and\n\n\n\n\n(7)\n\n\t\n\nsense of taking responsibility in study and work environments.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nChemistry and Biology Double Major Programme:\n\n \n\n\n\n\nUpon completion of the programme, students will have acquired the abilities as follows:\n\n\n\n\n \n\nKnowledge outcomes\n\nTo train our students to have fundamental and advanced knowledge of modern biological sciences and the ability of applying the acquired knowledge in exploring chemistry-related problems. Specifically, they include:\n\n\n\n\n(1)\n\n\t\n\nBasic knowledge in biology, including diversity and functioning of various living organisms\n\n\n\n\n(2)\n\n\t\n\nIn‐depth understanding in at least one major area of biology, such as physiology, ecology and evolution, and human biology\n\n\n\n\n(3)\n\n\t\n\nChemistry principles, concepts, and applications of inorganic chemistry, organic chemistry, physical chemistry, and analytical chemistry\n\n\n\n\n(4)\n\n\t\n\nMathematical techniques required in chemical science\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nSkills outcomes\n\nWith our team of teaching staff coming from different professional backgrounds and with teaching styles, students will be exposed to various learning activities and challenges throughout their 4 years of study, during which they can develop professional skills and generic attributes including active learning, self-learning, effective communication, critical thinking, team playing, as well as analytical and problem-solving skills. Specifically, they include:\n\n\n\n\n(1)\n\n\t\n\nBasic laboratory/field techniques in at least one major line of modern biological research, including molecular biology, physiology and field biology\n\n\n\n\n(2)\n\n\t\n\nAbility of recognizing key factors and applying appropriate assumption to formulate solutions for chemistry problems\n\n\n\n\n(3)\n\n\t\n\nBasic mathematical skills for handling experimental data and quantitative arguments in physical chemistry\n\n\n\n\n(4)\n\n\t\n\nAbility of determining molecular structure based on spectroscopic measurements\n\n\n\n\n(5)\n\n\t\n\nAbility to implement safety measures in conducting chemical laboratory works\n\n\n\n\n(6)\n\n\t\n\nAbility to operate instruments in chemistry laboratories\n\n\n\n\n(7)\n\n\t\n\nAbility in carrying out prescribed procedures using suited experimental skills and instrumentation\n\n\n\n\n(8)\n\n\t\n\nAbility to conduct literature reviews/experimental works and to report scientific findings in both oral and written formats\n\n\n\n\n(9)\n\n\t\n\nCompetence in using commercial computer software for graphical depiction of molecular systems\n\n\n\n\n(10)\n\n\t\n\nProblem solving skills including ability to identify key issues and formulate feasible solutions of problems based on logical analysis and critical thinking\n\n\n\n\n(11)\n\n\t\n\nAbility to sort out complex observations to construct logical proposition\n\n\n\n\n(12)\n\n\t\n\nAbility of formulating logical sequence in arguments\n\n\n\n\n(13)\n\n\t\n\nCritical evaluation of issues based on evidence and scientific logic\n\n\n\n\n(14)\n\n\t\n\nAbility of analysing issues quantitatively with the sense of level of uncertainty and reliability\n\n\n\n\n(15)\n\n\t\n\nAbility to acquire new knowledge by self-study and to conduct independent work with logical planning\n\n\n\n\n(16)\n\n\t\n\nInterpersonal skills including the ability to work effectively in a group\n\n\n\n\n(17)\n\n\t\n\nInformation retrieval skills through library and internet\n\n\n\n\n(18)\n\n\t\n\nTime management skills\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nValues and attitude outcomes\n\nV = We also concern about the well-being of our students. Apart from the long-established academic advisory system, there are ample chances for teachers and students to meet and exchange ideas formally and informally. These activities, organised by the programme, Biology Society, Chemistry Society or Alumni Association of the Department of Biology, The Chinese University of Hong Kong (CUBIOAA), include tea parties, dinners, BBQ, and career talks. From these, we believe our students are primed with positive values, and will be open and respectful to different views or ideas, so as to act as positive contributors in our society, no matter what fields and positions they are in. Our students also have the ability to appreciate the nature, and diversity of life and thus, would contributing to preserving our mother Earth. Specifically, they include:\n\n\n\n\n(1)\n\n\t\n\nAppreciation of biological knowledge and the beauty of chemistry and their importance as central science\n\n\n\n\n(2)\n\n\t\n\nSense of biological conservation and other environmental issues\n\n\n\n\n(3)\n\n\t\n\nAwareness on the latest developments and advancements in biology\n\n\n\n\n(4)\n\n\t\n\nAwareness of impacts of chemistry in environmental, social, economic, industrial, and technological aspects\n\n\n\n\n(5)\n\n\t\n\nAwareness of chemical safety\n\n\n\n\n(6)\n\n\t\n\nCuriosity and interest in scientific exploration\n\n\n\n\n(7)\n\n\t\n\nConfidence in ability of solving problems\n\n\n\n\n(8)\n\n\t\n\nMotivation and ability for life-long learning\n\n\n\n\n(9)\n\n\t\n\nSense of taking responsibility in study and work environments\n\n\n\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nMinor Programme:\n\n \n\n\n\n\nUpon the completion of the Chemistry Minor Programme, students will have demonstrated basic understanding of fundamental issues related to Chemistry such as Analytical Chemistry, Inorganic Chemistry, Organic Chemistry and Physical Chemistry. They will have acquired knowledge of some aspects of the subjects with sufficient exposure and at a suitable level to allow further study in other areas in Science.\n\n \n\nWhile most skills and attitudes expected of a graduate would have been developed through the Major Programme, graduates who have been awarded a Minor will have developed the basic technical skills and attitudes towards issues in Chemistry. They will also be aware of the latest developments in Chemistry, and the impact of Chemistry in social, industrial, environmental and technological contexts.\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n\n"
+}

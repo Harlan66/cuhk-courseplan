@@ -1,0 +1,2341 @@
+{
+  "programme_id": "B_Sc_in_Risk_Management_Science__Faculty_of_Science",
+  "academic_program": "B.Sc. in Risk Management Science",
+  "faculty": "Faculty of Science",
+  "academic_year": 2024,
+  "admission_cohort": "2024-25",
+  "requirement_summary": {
+    "minimum_units_as_printed": "a minimum of 72 units",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Faculty Package",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "MATH1010",
+            "prefix_inferred": false,
+            "evidence": "Group C: MATH1010 (preferred) or 1018"
+          },
+          {
+            "course_code": "MATH1018",
+            "prefix_inferred": true,
+            "evidence": "Group C: MATH1010 (preferred) or 1018"
+          },
+          {
+            "course_code": "STAT1011",
+            "prefix_inferred": false,
+            "evidence": "Group E: STAT1011"
+          },
+          {
+            "course_code": "LSCI1001",
+            "prefix_inferred": false,
+            "evidence": "Group A: LSCI1001 or 1002 or 1012"
+          },
+          {
+            "course_code": "LSCI1002",
+            "prefix_inferred": true,
+            "evidence": "Group A: LSCI1001 or 1002 or 1012"
+          },
+          {
+            "course_code": "LSCI1012",
+            "prefix_inferred": true,
+            "evidence": "Group A: LSCI1001 or 1002 or 1012"
+          },
+          {
+            "course_code": "CHEM1070",
+            "prefix_inferred": false,
+            "evidence": "Group B: CHEM1070 or 1072 or 1280"
+          },
+          {
+            "course_code": "CHEM1072",
+            "prefix_inferred": true,
+            "evidence": "Group B: CHEM1070 or 1072 or 1280"
+          },
+          {
+            "course_code": "CHEM1280",
+            "prefix_inferred": true,
+            "evidence": "Group B: CHEM1070 or 1072 or 1280"
+          },
+          {
+            "course_code": "PHYS1001",
+            "prefix_inferred": false,
+            "evidence": "Group D: PHYS1001 or 1002 or 1111 or 1113, or"
+          },
+          {
+            "course_code": "PHYS1002",
+            "prefix_inferred": true,
+            "evidence": "Group D: PHYS1001 or 1002 or 1111 or 1113, or"
+          },
+          {
+            "course_code": "PHYS1111",
+            "prefix_inferred": true,
+            "evidence": "Group D: PHYS1001 or 1002 or 1111 or 1113, or"
+          },
+          {
+            "course_code": "PHYS1113",
+            "prefix_inferred": true,
+            "evidence": "Group D: PHYS1001 or 1002 or 1111 or 1113, or"
+          },
+          {
+            "course_code": "DOTE1031",
+            "prefix_inferred": false,
+            "evidence": "Courses from Faculty Package of the Faculty of Business Administration: DOTE1031 or 1040 or HTMG1010 or MGNT1020"
+          },
+          {
+            "course_code": "DOTE1040",
+            "prefix_inferred": true,
+            "evidence": "Courses from Faculty Package of the Faculty of Business Administration: DOTE1031 or 1040 or HTMG1010 or MGNT1020"
+          },
+          {
+            "course_code": "HTMG1010",
+            "prefix_inferred": false,
+            "evidence": "Courses from Faculty Package of the Faculty of Business Administration: DOTE1031 or 1040 or HTMG1010 or MGNT1020"
+          },
+          {
+            "course_code": "MGNT1020",
+            "prefix_inferred": false,
+            "evidence": "Courses from Faculty Package of the Faculty of Business Administration: DOTE1031 or 1040 or HTMG1010 or MGNT1020"
+          }
+        ],
+        "raw_text": "9\nGroup C: MATH1010 (preferred) or 1018\nGroup E: STAT1011\nOne course from the following\nGroup A: LSCI1001 or 1002 or 1012\nGroup B: CHEM1070 or 1072 or 1280\nGroup D: PHYS1001 or 1002 or 1111 or 1113, or\nCourses from Faculty Package of the Faculty of Business Administration: DOTE1031 or 1040 or HTMG1010 or MGNT1020"
+      },
+      {
+        "number": 2,
+        "title": "Required Courses",
+        "units_as_printed": "42",
+        "course_mentions": [
+          {
+            "course_code": "ACCT1111",
+            "prefix_inferred": false,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          },
+          {
+            "course_code": "ACCT2111",
+            "prefix_inferred": true,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          },
+          {
+            "course_code": "DOTE1030",
+            "prefix_inferred": false,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          },
+          {
+            "course_code": "FINA2010",
+            "prefix_inferred": false,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          },
+          {
+            "course_code": "FINA3080",
+            "prefix_inferred": true,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          },
+          {
+            "course_code": "MATH1030",
+            "prefix_inferred": false,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          },
+          {
+            "course_code": "MATH1038",
+            "prefix_inferred": true,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          },
+          {
+            "course_code": "MATH1630",
+            "prefix_inferred": true,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          },
+          {
+            "course_code": "MATH2010",
+            "prefix_inferred": true,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          },
+          {
+            "course_code": "MATH2018",
+            "prefix_inferred": true,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          },
+          {
+            "course_code": "RMSC1101",
+            "prefix_inferred": false,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          },
+          {
+            "course_code": "RMSC2001",
+            "prefix_inferred": true,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          },
+          {
+            "course_code": "RMSC2101",
+            "prefix_inferred": true,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          },
+          {
+            "course_code": "RMSC3101",
+            "prefix_inferred": true,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          },
+          {
+            "course_code": "RMSC4001",
+            "prefix_inferred": true,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          },
+          {
+            "course_code": "RMSC4003",
+            "prefix_inferred": true,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          },
+          {
+            "course_code": "STAT2001",
+            "prefix_inferred": false,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          },
+          {
+            "course_code": "STAT2006",
+            "prefix_inferred": true,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          },
+          {
+            "course_code": "STAT3007",
+            "prefix_inferred": true,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          },
+          {
+            "course_code": "STAT3008",
+            "prefix_inferred": true,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          }
+        ],
+        "raw_text": "42\nACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+      },
+      {
+        "number": 3,
+        "title": "Elective Courses",
+        "units_as_printed": "21",
+        "course_mentions": [
+          {
+            "course_code": "CSCI1510",
+            "prefix_inferred": false,
+            "evidence": "One course from CSCI1510, 1520, 1530, 1540, 1550, 1580 or STAT2005"
+          },
+          {
+            "course_code": "CSCI1520",
+            "prefix_inferred": true,
+            "evidence": "One course from CSCI1510, 1520, 1530, 1540, 1550, 1580 or STAT2005"
+          },
+          {
+            "course_code": "CSCI1530",
+            "prefix_inferred": true,
+            "evidence": "One course from CSCI1510, 1520, 1530, 1540, 1550, 1580 or STAT2005"
+          },
+          {
+            "course_code": "CSCI1540",
+            "prefix_inferred": true,
+            "evidence": "One course from CSCI1510, 1520, 1530, 1540, 1550, 1580 or STAT2005"
+          },
+          {
+            "course_code": "CSCI1550",
+            "prefix_inferred": true,
+            "evidence": "One course from CSCI1510, 1520, 1530, 1540, 1550, 1580 or STAT2005"
+          },
+          {
+            "course_code": "CSCI1580",
+            "prefix_inferred": true,
+            "evidence": "One course from CSCI1510, 1520, 1530, 1540, 1550, 1580 or STAT2005"
+          },
+          {
+            "course_code": "STAT2005",
+            "prefix_inferred": false,
+            "evidence": "One course from CSCI1510, 1520, 1530, 1540, 1550, 1580 or STAT2005"
+          },
+          {
+            "course_code": "CSCI2520",
+            "prefix_inferred": false,
+            "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+          },
+          {
+            "course_code": "ECON3420",
+            "prefix_inferred": false,
+            "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+          },
+          {
+            "course_code": "FINA3010",
+            "prefix_inferred": false,
+            "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+          },
+          {
+            "course_code": "FINA3210",
+            "prefix_inferred": true,
+            "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+          },
+          {
+            "course_code": "MATH3215",
+            "prefix_inferred": false,
+            "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+          },
+          {
+            "course_code": "MATH3230",
+            "prefix_inferred": true,
+            "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+          },
+          {
+            "course_code": "MATH3240",
+            "prefix_inferred": true,
+            "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+          },
+          {
+            "course_code": "MATH4210",
+            "prefix_inferred": true,
+            "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+          },
+          {
+            "course_code": "MATH4230",
+            "prefix_inferred": true,
+            "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+          },
+          {
+            "course_code": "RMSC4002",
+            "prefix_inferred": false,
+            "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+          },
+          {
+            "course_code": "RMSC4004",
+            "prefix_inferred": true,
+            "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+          },
+          {
+            "course_code": "RMSC4005",
+            "prefix_inferred": true,
+            "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+          },
+          {
+            "course_code": "RMSC4006",
+            "prefix_inferred": true,
+            "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+          },
+          {
+            "course_code": "RMSC4007",
+            "prefix_inferred": true,
+            "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+          },
+          {
+            "course_code": "STAT4002",
+            "prefix_inferred": false,
+            "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+          },
+          {
+            "course_code": "STAT4003",
+            "prefix_inferred": true,
+            "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+          },
+          {
+            "course_code": "STAT4004",
+            "prefix_inferred": true,
+            "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+          },
+          {
+            "course_code": "STAT4005",
+            "prefix_inferred": true,
+            "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+          },
+          {
+            "course_code": "STAT4006",
+            "prefix_inferred": true,
+            "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+          },
+          {
+            "course_code": "STAT4008",
+            "prefix_inferred": true,
+            "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+          },
+          {
+            "course_code": "STAT4010",
+            "prefix_inferred": true,
+            "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+          },
+          {
+            "course_code": "STAT4012",
+            "prefix_inferred": true,
+            "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+          },
+          {
+            "course_code": "RMSC4102",
+            "prefix_inferred": false,
+            "evidence": "One capstone/research course from RMSC4102 or 4202"
+          },
+          {
+            "course_code": "RMSC4202",
+            "prefix_inferred": true,
+            "evidence": "One capstone/research course from RMSC4102 or 4202"
+          }
+        ],
+        "raw_text": "21\n(a)\nOne course from CSCI1510, 1520, 1530, 1540, 1550, 1580 or STAT2005\n(b)\nChoose five courses from the following list, with at least two RMSC courses:\nCSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#\n(c)\nOne capstone/research course from RMSC4102 or 4202\nTotal:\n72\nExplanatory Notes:"
+      },
+      {
+        "number": 1,
+        "title": "Faculty Package",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "MATH1010",
+            "prefix_inferred": false,
+            "evidence": "Group C: MATH1010 (preferred) or 1018"
+          },
+          {
+            "course_code": "MATH1018",
+            "prefix_inferred": true,
+            "evidence": "Group C: MATH1010 (preferred) or 1018"
+          },
+          {
+            "course_code": "STAT1011",
+            "prefix_inferred": false,
+            "evidence": "Group E: STAT1011"
+          },
+          {
+            "course_code": "LSCI1001",
+            "prefix_inferred": false,
+            "evidence": "Group A: LSCI1001 or 1002 or 1012"
+          },
+          {
+            "course_code": "LSCI1002",
+            "prefix_inferred": true,
+            "evidence": "Group A: LSCI1001 or 1002 or 1012"
+          },
+          {
+            "course_code": "LSCI1012",
+            "prefix_inferred": true,
+            "evidence": "Group A: LSCI1001 or 1002 or 1012"
+          },
+          {
+            "course_code": "CHEM1070",
+            "prefix_inferred": false,
+            "evidence": "Group B: CHEM1070 or 1072 or 1280"
+          },
+          {
+            "course_code": "CHEM1072",
+            "prefix_inferred": true,
+            "evidence": "Group B: CHEM1070 or 1072 or 1280"
+          },
+          {
+            "course_code": "CHEM1280",
+            "prefix_inferred": true,
+            "evidence": "Group B: CHEM1070 or 1072 or 1280"
+          },
+          {
+            "course_code": "PHYS1001",
+            "prefix_inferred": false,
+            "evidence": "Group D: PHYS1001 or 1002 or 1111 or 1113, or"
+          },
+          {
+            "course_code": "PHYS1002",
+            "prefix_inferred": true,
+            "evidence": "Group D: PHYS1001 or 1002 or 1111 or 1113, or"
+          },
+          {
+            "course_code": "PHYS1111",
+            "prefix_inferred": true,
+            "evidence": "Group D: PHYS1001 or 1002 or 1111 or 1113, or"
+          },
+          {
+            "course_code": "PHYS1113",
+            "prefix_inferred": true,
+            "evidence": "Group D: PHYS1001 or 1002 or 1111 or 1113, or"
+          },
+          {
+            "course_code": "DOTE1031",
+            "prefix_inferred": false,
+            "evidence": "Courses from Faculty Package of the Faculty of Business Administration: DOTE1031 or 1040 or HTMG1010 or MGNT1020"
+          },
+          {
+            "course_code": "DOTE1040",
+            "prefix_inferred": true,
+            "evidence": "Courses from Faculty Package of the Faculty of Business Administration: DOTE1031 or 1040 or HTMG1010 or MGNT1020"
+          },
+          {
+            "course_code": "HTMG1010",
+            "prefix_inferred": false,
+            "evidence": "Courses from Faculty Package of the Faculty of Business Administration: DOTE1031 or 1040 or HTMG1010 or MGNT1020"
+          },
+          {
+            "course_code": "MGNT1020",
+            "prefix_inferred": false,
+            "evidence": "Courses from Faculty Package of the Faculty of Business Administration: DOTE1031 or 1040 or HTMG1010 or MGNT1020"
+          }
+        ],
+        "raw_text": "Group C: MATH1010 (preferred) or 1018\nGroup E: STAT1011\nOne course from the following\nGroup A: LSCI1001 or 1002 or 1012\nGroup B: CHEM1070 or 1072 or 1280\nGroup D: PHYS1001 or 1002 or 1111 or 1113, or\nCourses from Faculty Package of the Faculty of Business Administration: DOTE1031 or 1040 or HTMG1010 or MGNT1020\n9"
+      },
+      {
+        "number": 2,
+        "title": "Required Courses",
+        "units_as_printed": "48",
+        "course_mentions": [
+          {
+            "course_code": "ACCT1111",
+            "prefix_inferred": false,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          },
+          {
+            "course_code": "ACCT2111",
+            "prefix_inferred": true,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          },
+          {
+            "course_code": "DOTE1030",
+            "prefix_inferred": false,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          },
+          {
+            "course_code": "FINA2010",
+            "prefix_inferred": false,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          },
+          {
+            "course_code": "FINA3080",
+            "prefix_inferred": true,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          },
+          {
+            "course_code": "MATH1030",
+            "prefix_inferred": false,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          },
+          {
+            "course_code": "MATH1038",
+            "prefix_inferred": true,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          },
+          {
+            "course_code": "MATH1630",
+            "prefix_inferred": true,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          },
+          {
+            "course_code": "MATH2010",
+            "prefix_inferred": true,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          },
+          {
+            "course_code": "MATH2018",
+            "prefix_inferred": true,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          },
+          {
+            "course_code": "RMSC1101",
+            "prefix_inferred": false,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          },
+          {
+            "course_code": "RMSC2001",
+            "prefix_inferred": true,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          },
+          {
+            "course_code": "RMSC2101",
+            "prefix_inferred": true,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          },
+          {
+            "course_code": "RMSC3101",
+            "prefix_inferred": true,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          },
+          {
+            "course_code": "RMSC4001",
+            "prefix_inferred": true,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          },
+          {
+            "course_code": "RMSC4003",
+            "prefix_inferred": true,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          },
+          {
+            "course_code": "STAT2001",
+            "prefix_inferred": false,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          },
+          {
+            "course_code": "STAT2006",
+            "prefix_inferred": true,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          },
+          {
+            "course_code": "STAT3007",
+            "prefix_inferred": true,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          },
+          {
+            "course_code": "STAT3008",
+            "prefix_inferred": true,
+            "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+          },
+          {
+            "course_code": "CSCI1510",
+            "prefix_inferred": false,
+            "evidence": "One course from CSCI1510, 1520, 1530, 1540, 1550 or 1580"
+          },
+          {
+            "course_code": "CSCI1520",
+            "prefix_inferred": true,
+            "evidence": "One course from CSCI1510, 1520, 1530, 1540, 1550 or 1580"
+          },
+          {
+            "course_code": "CSCI1530",
+            "prefix_inferred": true,
+            "evidence": "One course from CSCI1510, 1520, 1530, 1540, 1550 or 1580"
+          },
+          {
+            "course_code": "CSCI1540",
+            "prefix_inferred": true,
+            "evidence": "One course from CSCI1510, 1520, 1530, 1540, 1550 or 1580"
+          },
+          {
+            "course_code": "CSCI1550",
+            "prefix_inferred": true,
+            "evidence": "One course from CSCI1510, 1520, 1530, 1540, 1550 or 1580"
+          },
+          {
+            "course_code": "CSCI1580",
+            "prefix_inferred": true,
+            "evidence": "One course from CSCI1510, 1520, 1530, 1540, 1550 or 1580"
+          },
+          {
+            "course_code": "CSCI2510",
+            "prefix_inferred": false,
+            "evidence": "One course from CSCI2510, 2720 or 3100"
+          },
+          {
+            "course_code": "CSCI2720",
+            "prefix_inferred": true,
+            "evidence": "One course from CSCI2510, 2720 or 3100"
+          },
+          {
+            "course_code": "CSCI3100",
+            "prefix_inferred": true,
+            "evidence": "One course from CSCI2510, 2720 or 3100"
+          }
+        ],
+        "raw_text": "48\n(a)\nACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#\n(b)\nOne course from CSCI1510, 1520, 1530, 1540, 1550 or 1580\n(c)\nOne course from CSCI2510, 2720 or 3100"
+      },
+      {
+        "number": 3,
+        "title": "Elective Courses",
+        "units_as_printed": "15",
+        "course_mentions": [
+          {
+            "course_code": "CSCI2520",
+            "prefix_inferred": false,
+            "evidence": "CSCI2520#[c], 3150#, 3160#, 3170#, 3230#, 3320#, 4130#, 4160#, 4180#, 4190#, 4230#, 5030#, 5150#, 5510#, ENGG5108#"
+          },
+          {
+            "course_code": "CSCI3150",
+            "prefix_inferred": true,
+            "evidence": "CSCI2520#[c], 3150#, 3160#, 3170#, 3230#, 3320#, 4130#, 4160#, 4180#, 4190#, 4230#, 5030#, 5150#, 5510#, ENGG5108#"
+          },
+          {
+            "course_code": "CSCI3160",
+            "prefix_inferred": true,
+            "evidence": "CSCI2520#[c], 3150#, 3160#, 3170#, 3230#, 3320#, 4130#, 4160#, 4180#, 4190#, 4230#, 5030#, 5150#, 5510#, ENGG5108#"
+          },
+          {
+            "course_code": "CSCI3170",
+            "prefix_inferred": true,
+            "evidence": "CSCI2520#[c], 3150#, 3160#, 3170#, 3230#, 3320#, 4130#, 4160#, 4180#, 4190#, 4230#, 5030#, 5150#, 5510#, ENGG5108#"
+          },
+          {
+            "course_code": "CSCI3230",
+            "prefix_inferred": true,
+            "evidence": "CSCI2520#[c], 3150#, 3160#, 3170#, 3230#, 3320#, 4130#, 4160#, 4180#, 4190#, 4230#, 5030#, 5150#, 5510#, ENGG5108#"
+          },
+          {
+            "course_code": "CSCI3320",
+            "prefix_inferred": true,
+            "evidence": "CSCI2520#[c], 3150#, 3160#, 3170#, 3230#, 3320#, 4130#, 4160#, 4180#, 4190#, 4230#, 5030#, 5150#, 5510#, ENGG5108#"
+          },
+          {
+            "course_code": "CSCI4130",
+            "prefix_inferred": true,
+            "evidence": "CSCI2520#[c], 3150#, 3160#, 3170#, 3230#, 3320#, 4130#, 4160#, 4180#, 4190#, 4230#, 5030#, 5150#, 5510#, ENGG5108#"
+          },
+          {
+            "course_code": "CSCI4160",
+            "prefix_inferred": true,
+            "evidence": "CSCI2520#[c], 3150#, 3160#, 3170#, 3230#, 3320#, 4130#, 4160#, 4180#, 4190#, 4230#, 5030#, 5150#, 5510#, ENGG5108#"
+          },
+          {
+            "course_code": "CSCI4180",
+            "prefix_inferred": true,
+            "evidence": "CSCI2520#[c], 3150#, 3160#, 3170#, 3230#, 3320#, 4130#, 4160#, 4180#, 4190#, 4230#, 5030#, 5150#, 5510#, ENGG5108#"
+          },
+          {
+            "course_code": "CSCI4190",
+            "prefix_inferred": true,
+            "evidence": "CSCI2520#[c], 3150#, 3160#, 3170#, 3230#, 3320#, 4130#, 4160#, 4180#, 4190#, 4230#, 5030#, 5150#, 5510#, ENGG5108#"
+          },
+          {
+            "course_code": "CSCI4230",
+            "prefix_inferred": true,
+            "evidence": "CSCI2520#[c], 3150#, 3160#, 3170#, 3230#, 3320#, 4130#, 4160#, 4180#, 4190#, 4230#, 5030#, 5150#, 5510#, ENGG5108#"
+          },
+          {
+            "course_code": "CSCI5030",
+            "prefix_inferred": true,
+            "evidence": "CSCI2520#[c], 3150#, 3160#, 3170#, 3230#, 3320#, 4130#, 4160#, 4180#, 4190#, 4230#, 5030#, 5150#, 5510#, ENGG5108#"
+          },
+          {
+            "course_code": "CSCI5150",
+            "prefix_inferred": true,
+            "evidence": "CSCI2520#[c], 3150#, 3160#, 3170#, 3230#, 3320#, 4130#, 4160#, 4180#, 4190#, 4230#, 5030#, 5150#, 5510#, ENGG5108#"
+          },
+          {
+            "course_code": "CSCI5510",
+            "prefix_inferred": true,
+            "evidence": "CSCI2520#[c], 3150#, 3160#, 3170#, 3230#, 3320#, 4130#, 4160#, 4180#, 4190#, 4230#, 5030#, 5150#, 5510#, ENGG5108#"
+          },
+          {
+            "course_code": "ENGG5108",
+            "prefix_inferred": false,
+            "evidence": "CSCI2520#[c], 3150#, 3160#, 3170#, 3230#, 3320#, 4130#, 4160#, 4180#, 4190#, 4230#, 5030#, 5150#, 5510#, ENGG5108#"
+          },
+          {
+            "course_code": "RMSC4002",
+            "prefix_inferred": false,
+            "evidence": "RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+          },
+          {
+            "course_code": "RMSC4004",
+            "prefix_inferred": true,
+            "evidence": "RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+          },
+          {
+            "course_code": "RMSC4005",
+            "prefix_inferred": true,
+            "evidence": "RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+          },
+          {
+            "course_code": "RMSC4006",
+            "prefix_inferred": true,
+            "evidence": "RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+          },
+          {
+            "course_code": "RMSC4007",
+            "prefix_inferred": true,
+            "evidence": "RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+          },
+          {
+            "course_code": "STAT4002",
+            "prefix_inferred": false,
+            "evidence": "RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+          },
+          {
+            "course_code": "STAT4003",
+            "prefix_inferred": true,
+            "evidence": "RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+          },
+          {
+            "course_code": "STAT4004",
+            "prefix_inferred": true,
+            "evidence": "RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+          },
+          {
+            "course_code": "STAT4005",
+            "prefix_inferred": true,
+            "evidence": "RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+          },
+          {
+            "course_code": "STAT4006",
+            "prefix_inferred": true,
+            "evidence": "RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+          },
+          {
+            "course_code": "STAT4008",
+            "prefix_inferred": true,
+            "evidence": "RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+          },
+          {
+            "course_code": "STAT4010",
+            "prefix_inferred": true,
+            "evidence": "RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+          },
+          {
+            "course_code": "STAT4012",
+            "prefix_inferred": true,
+            "evidence": "RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+          },
+          {
+            "course_code": "RMSC4112",
+            "prefix_inferred": false,
+            "evidence": "One capstone/research course from RMSC4112 or 4212"
+          },
+          {
+            "course_code": "RMSC4212",
+            "prefix_inferred": true,
+            "evidence": "One capstone/research course from RMSC4112 or 4212"
+          }
+        ],
+        "raw_text": "15\n(a)\nTwo courses from the following list:\nCSCI2520#[c], 3150#, 3160#, 3170#, 3230#, 3320#, 4130#, 4160#, 4180#, 4190#, 4230#, 5030#, 5150#, 5510#, ENGG5108#\n(b)\nTwo courses from the following list:\nRMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#\n(c)\nOne capstone/research course from RMSC4112 or 4212\nTotal:\n72\nExplanatory Notes:"
+      },
+      {
+        "number": 1,
+        "title": "Required Course",
+        "units_as_printed": "3",
+        "course_mentions": [
+          {
+            "course_code": "RMSC2001",
+            "prefix_inferred": false,
+            "evidence": "RMSC2001"
+          }
+        ],
+        "raw_text": "3\nRMSC2001"
+      },
+      {
+        "number": 2,
+        "title": "Elective Courses",
+        "units_as_printed": "3",
+        "course_mentions": [
+          {
+            "course_code": "STAT1011",
+            "prefix_inferred": false,
+            "evidence": "STAT1011[a]"
+          },
+          {
+            "course_code": "STAT2102",
+            "prefix_inferred": false,
+            "evidence": "STAT2102[a]"
+          },
+          {
+            "course_code": "STAT2005",
+            "prefix_inferred": false,
+            "evidence": "STAT2005 or one course from CSCI1510, 1520, 1530, 1540, 1550, 1580"
+          },
+          {
+            "course_code": "CSCI1510",
+            "prefix_inferred": false,
+            "evidence": "STAT2005 or one course from CSCI1510, 1520, 1530, 1540, 1550, 1580"
+          },
+          {
+            "course_code": "CSCI1520",
+            "prefix_inferred": true,
+            "evidence": "STAT2005 or one course from CSCI1510, 1520, 1530, 1540, 1550, 1580"
+          },
+          {
+            "course_code": "CSCI1530",
+            "prefix_inferred": true,
+            "evidence": "STAT2005 or one course from CSCI1510, 1520, 1530, 1540, 1550, 1580"
+          },
+          {
+            "course_code": "CSCI1540",
+            "prefix_inferred": true,
+            "evidence": "STAT2005 or one course from CSCI1510, 1520, 1530, 1540, 1550, 1580"
+          },
+          {
+            "course_code": "CSCI1550",
+            "prefix_inferred": true,
+            "evidence": "STAT2005 or one course from CSCI1510, 1520, 1530, 1540, 1550, 1580"
+          },
+          {
+            "course_code": "CSCI1580",
+            "prefix_inferred": true,
+            "evidence": "STAT2005 or one course from CSCI1510, 1520, 1530, 1540, 1550, 1580"
+          },
+          {
+            "course_code": "RMSC4001",
+            "prefix_inferred": false,
+            "evidence": "Three courses from RMSC4001, 4002, 4003, 4004, 4005, 4007, STAT4004"
+          },
+          {
+            "course_code": "RMSC4002",
+            "prefix_inferred": true,
+            "evidence": "Three courses from RMSC4001, 4002, 4003, 4004, 4005, 4007, STAT4004"
+          },
+          {
+            "course_code": "RMSC4003",
+            "prefix_inferred": true,
+            "evidence": "Three courses from RMSC4001, 4002, 4003, 4004, 4005, 4007, STAT4004"
+          },
+          {
+            "course_code": "RMSC4004",
+            "prefix_inferred": true,
+            "evidence": "Three courses from RMSC4001, 4002, 4003, 4004, 4005, 4007, STAT4004"
+          },
+          {
+            "course_code": "RMSC4005",
+            "prefix_inferred": true,
+            "evidence": "Three courses from RMSC4001, 4002, 4003, 4004, 4005, 4007, STAT4004"
+          },
+          {
+            "course_code": "RMSC4007",
+            "prefix_inferred": true,
+            "evidence": "Three courses from RMSC4001, 4002, 4003, 4004, 4005, 4007, STAT4004"
+          },
+          {
+            "course_code": "STAT4004",
+            "prefix_inferred": false,
+            "evidence": "Three courses from RMSC4001, 4002, 4003, 4004, 4005, 4007, STAT4004"
+          },
+          {
+            "course_code": "STAT1011",
+            "prefix_inferred": false,
+            "evidence": "STAT1011"
+          },
+          {
+            "course_code": "STAT1012",
+            "prefix_inferred": false,
+            "evidence": "STAT1012"
+          },
+          {
+            "course_code": "STAT2001",
+            "prefix_inferred": false,
+            "evidence": "STAT2001"
+          },
+          {
+            "course_code": "DOTE2011",
+            "prefix_inferred": false,
+            "evidence": "DOTE2011"
+          },
+          {
+            "course_code": "FINA2220",
+            "prefix_inferred": false,
+            "evidence": "FINA2220"
+          },
+          {
+            "course_code": "ENGG2760",
+            "prefix_inferred": false,
+            "evidence": "ENGG2760 and 2780 (4 units) or ESTR2018 and 2020 (4 units)"
+          },
+          {
+            "course_code": "ENGG2780",
+            "prefix_inferred": true,
+            "evidence": "ENGG2760 and 2780 (4 units) or ESTR2018 and 2020 (4 units)"
+          },
+          {
+            "course_code": "ESTR2018",
+            "prefix_inferred": false,
+            "evidence": "ENGG2760 and 2780 (4 units) or ESTR2018 and 2020 (4 units)"
+          },
+          {
+            "course_code": "ESTR2020",
+            "prefix_inferred": true,
+            "evidence": "ENGG2760 and 2780 (4 units) or ESTR2018 and 2020 (4 units)"
+          },
+          {
+            "course_code": "ENGG2760",
+            "prefix_inferred": false,
+            "evidence": "Probability for Engineers (ENGG2760/ESTR2018)"
+          },
+          {
+            "course_code": "ESTR2018",
+            "prefix_inferred": false,
+            "evidence": "Probability for Engineers (ENGG2760/ESTR2018)"
+          },
+          {
+            "course_code": "ENGG2780",
+            "prefix_inferred": false,
+            "evidence": "Statistics for Engineers (ENGG2780/ESTR2020)"
+          },
+          {
+            "course_code": "ESTR2020",
+            "prefix_inferred": false,
+            "evidence": "Statistics for Engineers (ENGG2780/ESTR2020)"
+          },
+          {
+            "course_code": "ECON2121",
+            "prefix_inferred": false,
+            "evidence": "ECON2121"
+          },
+          {
+            "course_code": "GRMD2102",
+            "prefix_inferred": false,
+            "evidence": "GRMD2102"
+          },
+          {
+            "course_code": "SOCI2004",
+            "prefix_inferred": false,
+            "evidence": "SOCI2004"
+          },
+          {
+            "course_code": "STAT2102",
+            "prefix_inferred": false,
+            "evidence": "STAT2102"
+          },
+          {
+            "course_code": "STAT2006",
+            "prefix_inferred": false,
+            "evidence": "STAT2006"
+          },
+          {
+            "course_code": "DOTE2021",
+            "prefix_inferred": false,
+            "evidence": "DOTE2021"
+          },
+          {
+            "course_code": "RMSC1101",
+            "prefix_inferred": false,
+            "evidence": "RMSC1101"
+          },
+          {
+            "course_code": "RMSC2001",
+            "prefix_inferred": false,
+            "evidence": "RMSC2001"
+          },
+          {
+            "course_code": "RMSC2101",
+            "prefix_inferred": false,
+            "evidence": "RMSC2101"
+          },
+          {
+            "course_code": "RMSC3001",
+            "prefix_inferred": false,
+            "evidence": "RMSC3001"
+          },
+          {
+            "course_code": "RMSC3101",
+            "prefix_inferred": false,
+            "evidence": "RMSC3101"
+          },
+          {
+            "course_code": "RMSC4001",
+            "prefix_inferred": false,
+            "evidence": "RMSC4001"
+          },
+          {
+            "course_code": "RMSC4002",
+            "prefix_inferred": false,
+            "evidence": "RMSC4002"
+          },
+          {
+            "course_code": "RMSC4003",
+            "prefix_inferred": false,
+            "evidence": "RMSC4003"
+          },
+          {
+            "course_code": "RMSC4004",
+            "prefix_inferred": false,
+            "evidence": "RMSC4004"
+          },
+          {
+            "course_code": "RMSC4005",
+            "prefix_inferred": false,
+            "evidence": "RMSC4005"
+          },
+          {
+            "course_code": "RMSC4006",
+            "prefix_inferred": false,
+            "evidence": "RMSC4006"
+          },
+          {
+            "course_code": "RMSC4007",
+            "prefix_inferred": false,
+            "evidence": "RMSC4007"
+          },
+          {
+            "course_code": "RMSC4102",
+            "prefix_inferred": false,
+            "evidence": "RMSC4102"
+          },
+          {
+            "course_code": "RMSC4112",
+            "prefix_inferred": false,
+            "evidence": "RMSC4112"
+          },
+          {
+            "course_code": "RMSC4202",
+            "prefix_inferred": false,
+            "evidence": "RMSC4202"
+          },
+          {
+            "course_code": "RMSC4212",
+            "prefix_inferred": false,
+            "evidence": "RMSC4212"
+          }
+        ],
+        "raw_text": "(a)\nSTAT1011[a]\n3\n(b)\nSTAT2102[a]\n3\n(c)\nSTAT2005 or one course from CSCI1510, 1520, 1530, 1540, 1550, 1580\n3\n(d)\nThree courses from RMSC4001, 4002, 4003, 4004, 4005, 4007, STAT4004\n9\nTotal:\n21\nExplanatory Notes:\n[a]\nStudents can take either the STAT course or its corresponding equivalent or closely related course, but not both, as listed below to fulfill the requirement:\nSTAT courses\nEquivalent/closely related courses\nSTAT1011\nIntroduction to Statistics\nSTAT1012\nStatistics for Life Sciences\nSTAT2001\nBasic Concepts in Statistics and Probability I\nDOTE2011\nStatistical Analysis for Business Decisions\nFINA2220\nQuantitative Methods for Actuarial Analysis I\nENGG2760 and 2780 (4 units) or ESTR2018 and 2020 (4 units)\nProbability for Engineers (ENGG2760/ESTR2018)\nStatistics for Engineers (ENGG2780/ESTR2020)\nECON2121\nMethods of Economic Statistics\nGRMD2102\nFundamental Statistics for Geographers\nSOCI2004\nSocial Statistics\nSTAT2102\nBasic Statistical Concepts and Methods II\nSTAT2006\nBasic Concepts in Statistics and Probability II\nDOTE2021\nApplied Econometrics for Business Decisions\nCourse List\nCourse Code\nCourse Title\nUnit(s)\nRMSC1101\nElementary Concepts in Risk Management\n1\nRMSC2001\nIntroduction to Risk Management\n3\nRMSC2101\nIntroductory Topics in Risk Management\n1\nRMSC3001\nPrinciples of Credit Risk Management\n3\nRMSC3101\nSpecial Topics in Risk Management\n1\nRMSC4001\nSimulation Methods for Risk Management Science and Finance\n3\nRMSC4002\nFinancial Data Analytics with Machine Learning\n3\nRMSC4003\nStatistical Modelling in Financial Markets\n3\nRMSC4004\nTheory of Risk and Insurance\n3\nRMSC4005\nStochastic Calculus for Finance and Risk\n3\nRMSC4006\nOperational Risk Management\n3\nRMSC4007\nRisk Management with Derivatives Concepts\n3\nRMSC4102\nResearch Project\n3\nRMSC4112\nResearch Project in Risk Analytics\n3\nRMSC4202\nPracticum\n3\nRMSC4212\nPracticum in Risk Analytics\n3\nStudy Scheme\nLearning Outcomes"
+      },
+      {
+        "number": 1,
+        "title": "Major Programme",
+        "units_as_printed": null,
+        "course_mentions": [],
+        "raw_text": "Graduates will have acquired the following:\nKnowledge:\n(1)\nKnowledge of calculating risk and risk measures from a scientific perspective and their role in finance, insurance and related fields\n(2)\nBackground knowledge of accounting, economics for business studies, financial management and investment analysis\n(3)\nKnowledge of mathematical tools for statistical analysis\n(4)\nKnowledge of computer programming\nProfessional Skills:\n(1)\nAbility to apply knowledge of statistics, accounting, economics and business studies to risk management\n(2)\nAbility to articulate and convey concepts of risk and risk management to both layman and professional\n(3)\nAbility to identify appropriate risk management measures\n(4)\nSimulation skills for risk management\n(5)\nStatistical skills for data analysis\nGeneral Competencies:\n(1)\nCompetence in Chinese and English languages\n(2)\nCompetence in using information technology\n(3)\nAnalytical skills\n(4)\nSelf-learning skills\nAttitude/Value:\n(1)\nRecognize the importance of risk management\n(2)\nAppropriate attitude towards uncertainty\n(3)\nHigh ethical standards"
+      },
+      {
+        "number": 2,
+        "title": "Minor Programme",
+        "units_as_printed": null,
+        "course_mentions": [],
+        "raw_text": "Upon the completion of the Minor Programme, students will have demonstrated basic understanding of fundamental issues related to Risk Management Science, acquired knowledge of calculating risk and risk measures from a scientific perspective and their role in finance, insurance and related fields."
+      }
+    ]
+  },
+  "all_course_mentions": [
+    {
+      "course_code": "MATH1010",
+      "prefix_inferred": false,
+      "evidence": "Group C: MATH1010 (preferred) or 1018"
+    },
+    {
+      "course_code": "MATH1018",
+      "prefix_inferred": true,
+      "evidence": "Group C: MATH1010 (preferred) or 1018"
+    },
+    {
+      "course_code": "STAT1011",
+      "prefix_inferred": false,
+      "evidence": "Group E: STAT1011"
+    },
+    {
+      "course_code": "LSCI1001",
+      "prefix_inferred": false,
+      "evidence": "Group A: LSCI1001 or 1002 or 1012"
+    },
+    {
+      "course_code": "LSCI1002",
+      "prefix_inferred": true,
+      "evidence": "Group A: LSCI1001 or 1002 or 1012"
+    },
+    {
+      "course_code": "LSCI1012",
+      "prefix_inferred": true,
+      "evidence": "Group A: LSCI1001 or 1002 or 1012"
+    },
+    {
+      "course_code": "CHEM1070",
+      "prefix_inferred": false,
+      "evidence": "Group B: CHEM1070 or 1072 or 1280"
+    },
+    {
+      "course_code": "CHEM1072",
+      "prefix_inferred": true,
+      "evidence": "Group B: CHEM1070 or 1072 or 1280"
+    },
+    {
+      "course_code": "CHEM1280",
+      "prefix_inferred": true,
+      "evidence": "Group B: CHEM1070 or 1072 or 1280"
+    },
+    {
+      "course_code": "PHYS1001",
+      "prefix_inferred": false,
+      "evidence": "Group D: PHYS1001 or 1002 or 1111 or 1113, or"
+    },
+    {
+      "course_code": "PHYS1002",
+      "prefix_inferred": true,
+      "evidence": "Group D: PHYS1001 or 1002 or 1111 or 1113, or"
+    },
+    {
+      "course_code": "PHYS1111",
+      "prefix_inferred": true,
+      "evidence": "Group D: PHYS1001 or 1002 or 1111 or 1113, or"
+    },
+    {
+      "course_code": "PHYS1113",
+      "prefix_inferred": true,
+      "evidence": "Group D: PHYS1001 or 1002 or 1111 or 1113, or"
+    },
+    {
+      "course_code": "DOTE1031",
+      "prefix_inferred": false,
+      "evidence": "Courses from Faculty Package of the Faculty of Business Administration: DOTE1031 or 1040 or HTMG1010 or MGNT1020"
+    },
+    {
+      "course_code": "DOTE1040",
+      "prefix_inferred": true,
+      "evidence": "Courses from Faculty Package of the Faculty of Business Administration: DOTE1031 or 1040 or HTMG1010 or MGNT1020"
+    },
+    {
+      "course_code": "HTMG1010",
+      "prefix_inferred": false,
+      "evidence": "Courses from Faculty Package of the Faculty of Business Administration: DOTE1031 or 1040 or HTMG1010 or MGNT1020"
+    },
+    {
+      "course_code": "MGNT1020",
+      "prefix_inferred": false,
+      "evidence": "Courses from Faculty Package of the Faculty of Business Administration: DOTE1031 or 1040 or HTMG1010 or MGNT1020"
+    },
+    {
+      "course_code": "ACCT1111",
+      "prefix_inferred": false,
+      "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+    },
+    {
+      "course_code": "ACCT2111",
+      "prefix_inferred": true,
+      "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+    },
+    {
+      "course_code": "DOTE1030",
+      "prefix_inferred": false,
+      "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+    },
+    {
+      "course_code": "FINA2010",
+      "prefix_inferred": false,
+      "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+    },
+    {
+      "course_code": "FINA3080",
+      "prefix_inferred": true,
+      "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+    },
+    {
+      "course_code": "MATH1030",
+      "prefix_inferred": false,
+      "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+    },
+    {
+      "course_code": "MATH1038",
+      "prefix_inferred": true,
+      "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+    },
+    {
+      "course_code": "MATH1630",
+      "prefix_inferred": true,
+      "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+    },
+    {
+      "course_code": "MATH2010",
+      "prefix_inferred": true,
+      "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+    },
+    {
+      "course_code": "MATH2018",
+      "prefix_inferred": true,
+      "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+    },
+    {
+      "course_code": "RMSC1101",
+      "prefix_inferred": false,
+      "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+    },
+    {
+      "course_code": "RMSC2001",
+      "prefix_inferred": true,
+      "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+    },
+    {
+      "course_code": "RMSC2101",
+      "prefix_inferred": true,
+      "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+    },
+    {
+      "course_code": "RMSC3101",
+      "prefix_inferred": true,
+      "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+    },
+    {
+      "course_code": "RMSC4001",
+      "prefix_inferred": true,
+      "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+    },
+    {
+      "course_code": "RMSC4003",
+      "prefix_inferred": true,
+      "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+    },
+    {
+      "course_code": "STAT2001",
+      "prefix_inferred": false,
+      "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+    },
+    {
+      "course_code": "STAT2006",
+      "prefix_inferred": true,
+      "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+    },
+    {
+      "course_code": "STAT3007",
+      "prefix_inferred": true,
+      "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+    },
+    {
+      "course_code": "STAT3008",
+      "prefix_inferred": true,
+      "evidence": "ACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#"
+    },
+    {
+      "course_code": "CSCI1510",
+      "prefix_inferred": false,
+      "evidence": "One course from CSCI1510, 1520, 1530, 1540, 1550, 1580 or STAT2005"
+    },
+    {
+      "course_code": "CSCI1520",
+      "prefix_inferred": true,
+      "evidence": "One course from CSCI1510, 1520, 1530, 1540, 1550, 1580 or STAT2005"
+    },
+    {
+      "course_code": "CSCI1530",
+      "prefix_inferred": true,
+      "evidence": "One course from CSCI1510, 1520, 1530, 1540, 1550, 1580 or STAT2005"
+    },
+    {
+      "course_code": "CSCI1540",
+      "prefix_inferred": true,
+      "evidence": "One course from CSCI1510, 1520, 1530, 1540, 1550, 1580 or STAT2005"
+    },
+    {
+      "course_code": "CSCI1550",
+      "prefix_inferred": true,
+      "evidence": "One course from CSCI1510, 1520, 1530, 1540, 1550, 1580 or STAT2005"
+    },
+    {
+      "course_code": "CSCI1580",
+      "prefix_inferred": true,
+      "evidence": "One course from CSCI1510, 1520, 1530, 1540, 1550, 1580 or STAT2005"
+    },
+    {
+      "course_code": "STAT2005",
+      "prefix_inferred": false,
+      "evidence": "One course from CSCI1510, 1520, 1530, 1540, 1550, 1580 or STAT2005"
+    },
+    {
+      "course_code": "CSCI2520",
+      "prefix_inferred": false,
+      "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+    },
+    {
+      "course_code": "ECON3420",
+      "prefix_inferred": false,
+      "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+    },
+    {
+      "course_code": "FINA3010",
+      "prefix_inferred": false,
+      "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+    },
+    {
+      "course_code": "FINA3210",
+      "prefix_inferred": true,
+      "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+    },
+    {
+      "course_code": "MATH3215",
+      "prefix_inferred": false,
+      "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+    },
+    {
+      "course_code": "MATH3230",
+      "prefix_inferred": true,
+      "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+    },
+    {
+      "course_code": "MATH3240",
+      "prefix_inferred": true,
+      "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+    },
+    {
+      "course_code": "MATH4210",
+      "prefix_inferred": true,
+      "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+    },
+    {
+      "course_code": "MATH4230",
+      "prefix_inferred": true,
+      "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+    },
+    {
+      "course_code": "RMSC4002",
+      "prefix_inferred": false,
+      "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+    },
+    {
+      "course_code": "RMSC4004",
+      "prefix_inferred": true,
+      "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+    },
+    {
+      "course_code": "RMSC4005",
+      "prefix_inferred": true,
+      "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+    },
+    {
+      "course_code": "RMSC4006",
+      "prefix_inferred": true,
+      "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+    },
+    {
+      "course_code": "RMSC4007",
+      "prefix_inferred": true,
+      "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+    },
+    {
+      "course_code": "STAT4002",
+      "prefix_inferred": false,
+      "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+    },
+    {
+      "course_code": "STAT4003",
+      "prefix_inferred": true,
+      "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+    },
+    {
+      "course_code": "STAT4004",
+      "prefix_inferred": true,
+      "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+    },
+    {
+      "course_code": "STAT4005",
+      "prefix_inferred": true,
+      "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+    },
+    {
+      "course_code": "STAT4006",
+      "prefix_inferred": true,
+      "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+    },
+    {
+      "course_code": "STAT4008",
+      "prefix_inferred": true,
+      "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+    },
+    {
+      "course_code": "STAT4010",
+      "prefix_inferred": true,
+      "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+    },
+    {
+      "course_code": "STAT4012",
+      "prefix_inferred": true,
+      "evidence": "CSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+    },
+    {
+      "course_code": "RMSC4102",
+      "prefix_inferred": false,
+      "evidence": "One capstone/research course from RMSC4102 or 4202"
+    },
+    {
+      "course_code": "RMSC4202",
+      "prefix_inferred": true,
+      "evidence": "One capstone/research course from RMSC4102 or 4202"
+    },
+    {
+      "course_code": "ECON1010",
+      "prefix_inferred": false,
+      "evidence": "Students may take ECON1010 as a substitute for DOTE1030."
+    },
+    {
+      "course_code": "DOTE1030",
+      "prefix_inferred": false,
+      "evidence": "Students may take ECON1010 as a substitute for DOTE1030."
+    },
+    {
+      "course_code": "RMSC3001",
+      "prefix_inferred": false,
+      "evidence": "Students may take RMSC3001 as a substitute for FINA3080."
+    },
+    {
+      "course_code": "FINA3080",
+      "prefix_inferred": false,
+      "evidence": "Students may take RMSC3001 as a substitute for FINA3080."
+    },
+    {
+      "course_code": "CSCI2100",
+      "prefix_inferred": false,
+      "evidence": "Students may take CSCI2100# as a substitute for CSCI2520."
+    },
+    {
+      "course_code": "CSCI2520",
+      "prefix_inferred": false,
+      "evidence": "Students may take CSCI2100# as a substitute for CSCI2520."
+    },
+    {
+      "course_code": "CSCI1510",
+      "prefix_inferred": false,
+      "evidence": "One course from CSCI1510, 1520, 1530, 1540, 1550 or 1580"
+    },
+    {
+      "course_code": "CSCI1520",
+      "prefix_inferred": true,
+      "evidence": "One course from CSCI1510, 1520, 1530, 1540, 1550 or 1580"
+    },
+    {
+      "course_code": "CSCI1530",
+      "prefix_inferred": true,
+      "evidence": "One course from CSCI1510, 1520, 1530, 1540, 1550 or 1580"
+    },
+    {
+      "course_code": "CSCI1540",
+      "prefix_inferred": true,
+      "evidence": "One course from CSCI1510, 1520, 1530, 1540, 1550 or 1580"
+    },
+    {
+      "course_code": "CSCI1550",
+      "prefix_inferred": true,
+      "evidence": "One course from CSCI1510, 1520, 1530, 1540, 1550 or 1580"
+    },
+    {
+      "course_code": "CSCI1580",
+      "prefix_inferred": true,
+      "evidence": "One course from CSCI1510, 1520, 1530, 1540, 1550 or 1580"
+    },
+    {
+      "course_code": "CSCI2510",
+      "prefix_inferred": false,
+      "evidence": "One course from CSCI2510, 2720 or 3100"
+    },
+    {
+      "course_code": "CSCI2720",
+      "prefix_inferred": true,
+      "evidence": "One course from CSCI2510, 2720 or 3100"
+    },
+    {
+      "course_code": "CSCI3100",
+      "prefix_inferred": true,
+      "evidence": "One course from CSCI2510, 2720 or 3100"
+    },
+    {
+      "course_code": "CSCI2520",
+      "prefix_inferred": false,
+      "evidence": "CSCI2520#[c], 3150#, 3160#, 3170#, 3230#, 3320#, 4130#, 4160#, 4180#, 4190#, 4230#, 5030#, 5150#, 5510#, ENGG5108#"
+    },
+    {
+      "course_code": "CSCI3150",
+      "prefix_inferred": true,
+      "evidence": "CSCI2520#[c], 3150#, 3160#, 3170#, 3230#, 3320#, 4130#, 4160#, 4180#, 4190#, 4230#, 5030#, 5150#, 5510#, ENGG5108#"
+    },
+    {
+      "course_code": "CSCI3160",
+      "prefix_inferred": true,
+      "evidence": "CSCI2520#[c], 3150#, 3160#, 3170#, 3230#, 3320#, 4130#, 4160#, 4180#, 4190#, 4230#, 5030#, 5150#, 5510#, ENGG5108#"
+    },
+    {
+      "course_code": "CSCI3170",
+      "prefix_inferred": true,
+      "evidence": "CSCI2520#[c], 3150#, 3160#, 3170#, 3230#, 3320#, 4130#, 4160#, 4180#, 4190#, 4230#, 5030#, 5150#, 5510#, ENGG5108#"
+    },
+    {
+      "course_code": "CSCI3230",
+      "prefix_inferred": true,
+      "evidence": "CSCI2520#[c], 3150#, 3160#, 3170#, 3230#, 3320#, 4130#, 4160#, 4180#, 4190#, 4230#, 5030#, 5150#, 5510#, ENGG5108#"
+    },
+    {
+      "course_code": "CSCI3320",
+      "prefix_inferred": true,
+      "evidence": "CSCI2520#[c], 3150#, 3160#, 3170#, 3230#, 3320#, 4130#, 4160#, 4180#, 4190#, 4230#, 5030#, 5150#, 5510#, ENGG5108#"
+    },
+    {
+      "course_code": "CSCI4130",
+      "prefix_inferred": true,
+      "evidence": "CSCI2520#[c], 3150#, 3160#, 3170#, 3230#, 3320#, 4130#, 4160#, 4180#, 4190#, 4230#, 5030#, 5150#, 5510#, ENGG5108#"
+    },
+    {
+      "course_code": "CSCI4160",
+      "prefix_inferred": true,
+      "evidence": "CSCI2520#[c], 3150#, 3160#, 3170#, 3230#, 3320#, 4130#, 4160#, 4180#, 4190#, 4230#, 5030#, 5150#, 5510#, ENGG5108#"
+    },
+    {
+      "course_code": "CSCI4180",
+      "prefix_inferred": true,
+      "evidence": "CSCI2520#[c], 3150#, 3160#, 3170#, 3230#, 3320#, 4130#, 4160#, 4180#, 4190#, 4230#, 5030#, 5150#, 5510#, ENGG5108#"
+    },
+    {
+      "course_code": "CSCI4190",
+      "prefix_inferred": true,
+      "evidence": "CSCI2520#[c], 3150#, 3160#, 3170#, 3230#, 3320#, 4130#, 4160#, 4180#, 4190#, 4230#, 5030#, 5150#, 5510#, ENGG5108#"
+    },
+    {
+      "course_code": "CSCI4230",
+      "prefix_inferred": true,
+      "evidence": "CSCI2520#[c], 3150#, 3160#, 3170#, 3230#, 3320#, 4130#, 4160#, 4180#, 4190#, 4230#, 5030#, 5150#, 5510#, ENGG5108#"
+    },
+    {
+      "course_code": "CSCI5030",
+      "prefix_inferred": true,
+      "evidence": "CSCI2520#[c], 3150#, 3160#, 3170#, 3230#, 3320#, 4130#, 4160#, 4180#, 4190#, 4230#, 5030#, 5150#, 5510#, ENGG5108#"
+    },
+    {
+      "course_code": "CSCI5150",
+      "prefix_inferred": true,
+      "evidence": "CSCI2520#[c], 3150#, 3160#, 3170#, 3230#, 3320#, 4130#, 4160#, 4180#, 4190#, 4230#, 5030#, 5150#, 5510#, ENGG5108#"
+    },
+    {
+      "course_code": "CSCI5510",
+      "prefix_inferred": true,
+      "evidence": "CSCI2520#[c], 3150#, 3160#, 3170#, 3230#, 3320#, 4130#, 4160#, 4180#, 4190#, 4230#, 5030#, 5150#, 5510#, ENGG5108#"
+    },
+    {
+      "course_code": "ENGG5108",
+      "prefix_inferred": false,
+      "evidence": "CSCI2520#[c], 3150#, 3160#, 3170#, 3230#, 3320#, 4130#, 4160#, 4180#, 4190#, 4230#, 5030#, 5150#, 5510#, ENGG5108#"
+    },
+    {
+      "course_code": "RMSC4002",
+      "prefix_inferred": false,
+      "evidence": "RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+    },
+    {
+      "course_code": "RMSC4004",
+      "prefix_inferred": true,
+      "evidence": "RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+    },
+    {
+      "course_code": "RMSC4005",
+      "prefix_inferred": true,
+      "evidence": "RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+    },
+    {
+      "course_code": "RMSC4006",
+      "prefix_inferred": true,
+      "evidence": "RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+    },
+    {
+      "course_code": "RMSC4007",
+      "prefix_inferred": true,
+      "evidence": "RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+    },
+    {
+      "course_code": "STAT4002",
+      "prefix_inferred": false,
+      "evidence": "RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+    },
+    {
+      "course_code": "STAT4003",
+      "prefix_inferred": true,
+      "evidence": "RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+    },
+    {
+      "course_code": "STAT4004",
+      "prefix_inferred": true,
+      "evidence": "RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+    },
+    {
+      "course_code": "STAT4005",
+      "prefix_inferred": true,
+      "evidence": "RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+    },
+    {
+      "course_code": "STAT4006",
+      "prefix_inferred": true,
+      "evidence": "RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+    },
+    {
+      "course_code": "STAT4008",
+      "prefix_inferred": true,
+      "evidence": "RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+    },
+    {
+      "course_code": "STAT4010",
+      "prefix_inferred": true,
+      "evidence": "RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+    },
+    {
+      "course_code": "STAT4012",
+      "prefix_inferred": true,
+      "evidence": "RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#"
+    },
+    {
+      "course_code": "RMSC4112",
+      "prefix_inferred": false,
+      "evidence": "One capstone/research course from RMSC4112 or 4212"
+    },
+    {
+      "course_code": "RMSC4212",
+      "prefix_inferred": true,
+      "evidence": "One capstone/research course from RMSC4112 or 4212"
+    },
+    {
+      "course_code": "STAT1011",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: Group E: STAT1011"
+    },
+    {
+      "course_code": "ACCT1111",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ACCT1111 or 2111, DOTE1030, RMSC1101"
+    },
+    {
+      "course_code": "ACCT2111",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ACCT1111 or 2111, DOTE1030, RMSC1101"
+    },
+    {
+      "course_code": "DOTE1030",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ACCT1111 or 2111, DOTE1030, RMSC1101"
+    },
+    {
+      "course_code": "RMSC1101",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ACCT1111 or 2111, DOTE1030, RMSC1101"
+    },
+    {
+      "course_code": "MATH1010",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: Group C: MATH1010"
+    },
+    {
+      "course_code": "DOTE1031",
+      "prefix_inferred": false,
+      "evidence": "BA Faculty Package: DOTE1031 or 1040 or HTMG1010 or MGNT1020"
+    },
+    {
+      "course_code": "DOTE1040",
+      "prefix_inferred": true,
+      "evidence": "BA Faculty Package: DOTE1031 or 1040 or HTMG1010 or MGNT1020"
+    },
+    {
+      "course_code": "HTMG1010",
+      "prefix_inferred": false,
+      "evidence": "BA Faculty Package: DOTE1031 or 1040 or HTMG1010 or MGNT1020"
+    },
+    {
+      "course_code": "MGNT1020",
+      "prefix_inferred": false,
+      "evidence": "BA Faculty Package: DOTE1031 or 1040 or HTMG1010 or MGNT1020"
+    },
+    {
+      "course_code": "FINA2010",
+      "prefix_inferred": false,
+      "evidence": "Major Required: FINA2010"
+    },
+    {
+      "course_code": "MATH1630",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH1630, RMSC2001, STAT2001"
+    },
+    {
+      "course_code": "RMSC2001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH1630, RMSC2001, STAT2001"
+    },
+    {
+      "course_code": "STAT2001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH1630, RMSC2001, STAT2001"
+    },
+    {
+      "course_code": "STAT2005",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): STAT2005"
+    },
+    {
+      "course_code": "MATH2010",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH2010, RMSC2101, STAT2006"
+    },
+    {
+      "course_code": "RMSC2101",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH2010, RMSC2101, STAT2006"
+    },
+    {
+      "course_code": "STAT2006",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH2010, RMSC2101, STAT2006"
+    },
+    {
+      "course_code": "STAT2005",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): One CSCI course at 1000 level (if STAT2005 not taken)"
+    },
+    {
+      "course_code": "FINA3080",
+      "prefix_inferred": false,
+      "evidence": "Major Required: FINA3080 (if RMSC3001 not taken), RMSC4003, STAT3007, 3008"
+    },
+    {
+      "course_code": "RMSC3001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: FINA3080 (if RMSC3001 not taken), RMSC4003, STAT3007, 3008"
+    },
+    {
+      "course_code": "RMSC4003",
+      "prefix_inferred": false,
+      "evidence": "Major Required: FINA3080 (if RMSC3001 not taken), RMSC4003, STAT3007, 3008"
+    },
+    {
+      "course_code": "STAT3007",
+      "prefix_inferred": false,
+      "evidence": "Major Required: FINA3080 (if RMSC3001 not taken), RMSC4003, STAT3007, 3008"
+    },
+    {
+      "course_code": "STAT3008",
+      "prefix_inferred": true,
+      "evidence": "Major Required: FINA3080 (if RMSC3001 not taken), RMSC4003, STAT3007, 3008"
+    },
+    {
+      "course_code": "RMSC3001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: RMSC3001 (if FINA3080 not taken), 3101, 4001"
+    },
+    {
+      "course_code": "FINA3080",
+      "prefix_inferred": false,
+      "evidence": "Major Required: RMSC3001 (if FINA3080 not taken), 3101, 4001"
+    },
+    {
+      "course_code": "FINA3101",
+      "prefix_inferred": true,
+      "evidence": "Major Required: RMSC3001 (if FINA3080 not taken), 3101, 4001"
+    },
+    {
+      "course_code": "FINA4001",
+      "prefix_inferred": true,
+      "evidence": "Major Required: RMSC3001 (if FINA3080 not taken), 3101, 4001"
+    },
+    {
+      "course_code": "RMSC4202",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): RMSC4202, two RMSC courses"
+    },
+    {
+      "course_code": "RMSC4102",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): RMSC4102 (if RMSC4202 not taken), one RMSC or STAT course"
+    },
+    {
+      "course_code": "RMSC4202",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): RMSC4102 (if RMSC4202 not taken), one RMSC or STAT course"
+    },
+    {
+      "course_code": "CSCI2510",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CSCI2510 or 2720 or 3100, MATH1630, RMSC2001, STAT2001"
+    },
+    {
+      "course_code": "CSCI2720",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CSCI2510 or 2720 or 3100, MATH1630, RMSC2001, STAT2001"
+    },
+    {
+      "course_code": "CSCI3100",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CSCI2510 or 2720 or 3100, MATH1630, RMSC2001, STAT2001"
+    },
+    {
+      "course_code": "MATH1630",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CSCI2510 or 2720 or 3100, MATH1630, RMSC2001, STAT2001"
+    },
+    {
+      "course_code": "RMSC2001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CSCI2510 or 2720 or 3100, MATH1630, RMSC2001, STAT2001"
+    },
+    {
+      "course_code": "STAT2001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CSCI2510 or 2720 or 3100, MATH1630, RMSC2001, STAT2001"
+    },
+    {
+      "course_code": "CSCI2510",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CSCI2510 or 2720 or 3100 (if not taken), MATH2010, RMSC2101, STAT2006"
+    },
+    {
+      "course_code": "CSCI2720",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CSCI2510 or 2720 or 3100 (if not taken), MATH2010, RMSC2101, STAT2006"
+    },
+    {
+      "course_code": "CSCI3100",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CSCI2510 or 2720 or 3100 (if not taken), MATH2010, RMSC2101, STAT2006"
+    },
+    {
+      "course_code": "MATH2010",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CSCI2510 or 2720 or 3100 (if not taken), MATH2010, RMSC2101, STAT2006"
+    },
+    {
+      "course_code": "RMSC2101",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CSCI2510 or 2720 or 3100 (if not taken), MATH2010, RMSC2101, STAT2006"
+    },
+    {
+      "course_code": "STAT2006",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CSCI2510 or 2720 or 3100 (if not taken), MATH2010, RMSC2101, STAT2006"
+    },
+    {
+      "course_code": "CSCI2520",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): CSCI2520"
+    },
+    {
+      "course_code": "RMSC4212",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): RMSC4212, one RMSC or STAT course at 4000 level"
+    },
+    {
+      "course_code": "RMSC4112",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): RMSC4112 (if RMSC4212 not taken)"
+    },
+    {
+      "course_code": "RMSC4212",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): RMSC4112 (if RMSC4212 not taken)"
+    },
+    {
+      "course_code": "STAT1011",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: STAT1011"
+    },
+    {
+      "course_code": "ACCT1111",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ACCT1111, DOTE1030, RMSC1101"
+    },
+    {
+      "course_code": "DOTE1030",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ACCT1111, DOTE1030, RMSC1101"
+    },
+    {
+      "course_code": "RMSC1101",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ACCT1111, DOTE1030, RMSC1101"
+    },
+    {
+      "course_code": "ELTU1001",
+      "prefix_inferred": false,
+      "evidence": "University Core Requirements: 1 College GE course[a], ELTU1001, 1 PHED course"
+    },
+    {
+      "course_code": "DOTE1040",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: DOTE1040, MATH1010"
+    },
+    {
+      "course_code": "MATH1010",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: DOTE1040, MATH1010"
+    },
+    {
+      "course_code": "CHLT1001",
+      "prefix_inferred": false,
+      "evidence": "University Core Requirements: CHLT1001, ENGG1003, 1 PHED course"
+    },
+    {
+      "course_code": "ENGG1003",
+      "prefix_inferred": false,
+      "evidence": "University Core Requirements: CHLT1001, ENGG1003, 1 PHED course"
+    },
+    {
+      "course_code": "MATH1030",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH1030"
+    },
+    {
+      "course_code": "RMSC2001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: RMSC2001, STAT2001"
+    },
+    {
+      "course_code": "STAT2001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: RMSC2001, STAT2001"
+    },
+    {
+      "course_code": "CSCI1510",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): CSCI1510, 1520, 1530 or 1540"
+    },
+    {
+      "course_code": "CSCI1520",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): CSCI1510, 1520, 1530 or 1540"
+    },
+    {
+      "course_code": "CSCI1530",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): CSCI1510, 1520, 1530 or 1540"
+    },
+    {
+      "course_code": "CSCI1540",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): CSCI1510, 1520, 1530 or 1540"
+    },
+    {
+      "course_code": "MATH1050",
+      "prefix_inferred": false,
+      "evidence": "Free Elective(s): MATH1050"
+    },
+    {
+      "course_code": "ELTU2018",
+      "prefix_inferred": false,
+      "evidence": "University Core Requirements: 0-1 College GE course[a], ELTU2018, 1 UGFH or UGFN course"
+    },
+    {
+      "course_code": "MATH2010",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH2010, RMSC2101, 3001, 3101, STAT2006"
+    },
+    {
+      "course_code": "RMSC2101",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH2010, RMSC2101, 3001, 3101, STAT2006"
+    },
+    {
+      "course_code": "RMSC3001",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH2010, RMSC2101, 3001, 3101, STAT2006"
+    },
+    {
+      "course_code": "RMSC3101",
+      "prefix_inferred": true,
+      "evidence": "Major Required: MATH2010, RMSC2101, 3001, 3101, STAT2006"
+    },
+    {
+      "course_code": "STAT2006",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH2010, RMSC2101, 3001, 3101, STAT2006"
+    },
+    {
+      "course_code": "CSCI2100",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): CSCI2100 or 2520, FINA3210"
+    },
+    {
+      "course_code": "CSCI2520",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): CSCI2100 or 2520, FINA3210"
+    },
+    {
+      "course_code": "FINA3210",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): CSCI2100 or 2520, FINA3210"
+    },
+    {
+      "course_code": "CHLT1002",
+      "prefix_inferred": false,
+      "evidence": "University Core Requirements: CHLT1002, UGCP1001 or 1002"
+    },
+    {
+      "course_code": "UGCP1001",
+      "prefix_inferred": false,
+      "evidence": "University Core Requirements: CHLT1002, UGCP1001 or 1002"
+    },
+    {
+      "course_code": "UGCP1002",
+      "prefix_inferred": true,
+      "evidence": "University Core Requirements: CHLT1002, UGCP1001 or 1002"
+    },
+    {
+      "course_code": "UGCP1001",
+      "prefix_inferred": false,
+      "evidence": "University Core Requirements: 1 UGEA course[c], 1 UGEC course[c], UGCP1001 or 1002"
+    },
+    {
+      "course_code": "UGCP1002",
+      "prefix_inferred": true,
+      "evidence": "University Core Requirements: 1 UGEA course[c], 1 UGEC course[c], UGCP1001 or 1002"
+    },
+    {
+      "course_code": "RMSC4003",
+      "prefix_inferred": false,
+      "evidence": "CMSE10002 taken at UoE can be transferred to fulfill the requirement of RMSC4003."
+    },
+    {
+      "course_code": "STAT3007",
+      "prefix_inferred": false,
+      "evidence": "MATH10007 taken at UoE can be transferred to fulfill the requirement of STAT3007."
+    },
+    {
+      "course_code": "STAT4003",
+      "prefix_inferred": false,
+      "evidence": "MATH10095 taken at UoE can be transferred to fulfill the requirement of STAT4003."
+    },
+    {
+      "course_code": "RMSC4007",
+      "prefix_inferred": false,
+      "evidence": "BUST10023 taken at UoE can be transferred to fulfill the requirement of RMSC4007."
+    },
+    {
+      "course_code": "RMSC4005",
+      "prefix_inferred": false,
+      "evidence": "MATH10003 taken at UoE can be transferred to fulfill the requirement of RMSC4005."
+    },
+    {
+      "course_code": "RMSC4202",
+      "prefix_inferred": false,
+      "evidence": "MATH10031 taken at UoE can be transferred to fulfill the requirement of RMSC4202."
+    },
+    {
+      "course_code": "STAT3008",
+      "prefix_inferred": false,
+      "evidence": "MATH11187 taken at UoE can be transferred to fulfill the requirement of STAT3008."
+    },
+    {
+      "course_code": "RMSC4001",
+      "prefix_inferred": false,
+      "evidence": "MATH11202 taken at UoE can be transferred to fulfill the requirement of RMSC4001."
+    },
+    {
+      "course_code": "RMSC4002",
+      "prefix_inferred": false,
+      "evidence": "MATH11205 taken at UoE can be transferred to fulfill the requirement of RMSC4002."
+    },
+    {
+      "course_code": "STAT4005",
+      "prefix_inferred": false,
+      "evidence": "MATH11131 taken at UoE can be transferred to fulfill the requirement of STAT4005."
+    },
+    {
+      "course_code": "RMSC2001",
+      "prefix_inferred": false,
+      "evidence": "RMSC2001"
+    },
+    {
+      "course_code": "STAT1011",
+      "prefix_inferred": false,
+      "evidence": "STAT1011[a]"
+    },
+    {
+      "course_code": "STAT2102",
+      "prefix_inferred": false,
+      "evidence": "STAT2102[a]"
+    },
+    {
+      "course_code": "STAT2005",
+      "prefix_inferred": false,
+      "evidence": "STAT2005 or one course from CSCI1510, 1520, 1530, 1540, 1550, 1580"
+    },
+    {
+      "course_code": "CSCI1510",
+      "prefix_inferred": false,
+      "evidence": "STAT2005 or one course from CSCI1510, 1520, 1530, 1540, 1550, 1580"
+    },
+    {
+      "course_code": "CSCI1520",
+      "prefix_inferred": true,
+      "evidence": "STAT2005 or one course from CSCI1510, 1520, 1530, 1540, 1550, 1580"
+    },
+    {
+      "course_code": "CSCI1530",
+      "prefix_inferred": true,
+      "evidence": "STAT2005 or one course from CSCI1510, 1520, 1530, 1540, 1550, 1580"
+    },
+    {
+      "course_code": "CSCI1540",
+      "prefix_inferred": true,
+      "evidence": "STAT2005 or one course from CSCI1510, 1520, 1530, 1540, 1550, 1580"
+    },
+    {
+      "course_code": "CSCI1550",
+      "prefix_inferred": true,
+      "evidence": "STAT2005 or one course from CSCI1510, 1520, 1530, 1540, 1550, 1580"
+    },
+    {
+      "course_code": "CSCI1580",
+      "prefix_inferred": true,
+      "evidence": "STAT2005 or one course from CSCI1510, 1520, 1530, 1540, 1550, 1580"
+    },
+    {
+      "course_code": "RMSC4001",
+      "prefix_inferred": false,
+      "evidence": "Three courses from RMSC4001, 4002, 4003, 4004, 4005, 4007, STAT4004"
+    },
+    {
+      "course_code": "RMSC4002",
+      "prefix_inferred": true,
+      "evidence": "Three courses from RMSC4001, 4002, 4003, 4004, 4005, 4007, STAT4004"
+    },
+    {
+      "course_code": "RMSC4003",
+      "prefix_inferred": true,
+      "evidence": "Three courses from RMSC4001, 4002, 4003, 4004, 4005, 4007, STAT4004"
+    },
+    {
+      "course_code": "RMSC4004",
+      "prefix_inferred": true,
+      "evidence": "Three courses from RMSC4001, 4002, 4003, 4004, 4005, 4007, STAT4004"
+    },
+    {
+      "course_code": "RMSC4005",
+      "prefix_inferred": true,
+      "evidence": "Three courses from RMSC4001, 4002, 4003, 4004, 4005, 4007, STAT4004"
+    },
+    {
+      "course_code": "RMSC4007",
+      "prefix_inferred": true,
+      "evidence": "Three courses from RMSC4001, 4002, 4003, 4004, 4005, 4007, STAT4004"
+    },
+    {
+      "course_code": "STAT4004",
+      "prefix_inferred": false,
+      "evidence": "Three courses from RMSC4001, 4002, 4003, 4004, 4005, 4007, STAT4004"
+    },
+    {
+      "course_code": "STAT1011",
+      "prefix_inferred": false,
+      "evidence": "STAT1011"
+    },
+    {
+      "course_code": "STAT1012",
+      "prefix_inferred": false,
+      "evidence": "STAT1012"
+    },
+    {
+      "course_code": "STAT2001",
+      "prefix_inferred": false,
+      "evidence": "STAT2001"
+    },
+    {
+      "course_code": "DOTE2011",
+      "prefix_inferred": false,
+      "evidence": "DOTE2011"
+    },
+    {
+      "course_code": "FINA2220",
+      "prefix_inferred": false,
+      "evidence": "FINA2220"
+    },
+    {
+      "course_code": "ENGG2760",
+      "prefix_inferred": false,
+      "evidence": "ENGG2760 and 2780 (4 units) or ESTR2018 and 2020 (4 units)"
+    },
+    {
+      "course_code": "ENGG2780",
+      "prefix_inferred": true,
+      "evidence": "ENGG2760 and 2780 (4 units) or ESTR2018 and 2020 (4 units)"
+    },
+    {
+      "course_code": "ESTR2018",
+      "prefix_inferred": false,
+      "evidence": "ENGG2760 and 2780 (4 units) or ESTR2018 and 2020 (4 units)"
+    },
+    {
+      "course_code": "ESTR2020",
+      "prefix_inferred": true,
+      "evidence": "ENGG2760 and 2780 (4 units) or ESTR2018 and 2020 (4 units)"
+    },
+    {
+      "course_code": "ENGG2760",
+      "prefix_inferred": false,
+      "evidence": "Probability for Engineers (ENGG2760/ESTR2018)"
+    },
+    {
+      "course_code": "ESTR2018",
+      "prefix_inferred": false,
+      "evidence": "Probability for Engineers (ENGG2760/ESTR2018)"
+    },
+    {
+      "course_code": "ENGG2780",
+      "prefix_inferred": false,
+      "evidence": "Statistics for Engineers (ENGG2780/ESTR2020)"
+    },
+    {
+      "course_code": "ESTR2020",
+      "prefix_inferred": false,
+      "evidence": "Statistics for Engineers (ENGG2780/ESTR2020)"
+    },
+    {
+      "course_code": "ECON2121",
+      "prefix_inferred": false,
+      "evidence": "ECON2121"
+    },
+    {
+      "course_code": "GRMD2102",
+      "prefix_inferred": false,
+      "evidence": "GRMD2102"
+    },
+    {
+      "course_code": "SOCI2004",
+      "prefix_inferred": false,
+      "evidence": "SOCI2004"
+    },
+    {
+      "course_code": "STAT2102",
+      "prefix_inferred": false,
+      "evidence": "STAT2102"
+    },
+    {
+      "course_code": "STAT2006",
+      "prefix_inferred": false,
+      "evidence": "STAT2006"
+    },
+    {
+      "course_code": "DOTE2021",
+      "prefix_inferred": false,
+      "evidence": "DOTE2021"
+    },
+    {
+      "course_code": "RMSC1101",
+      "prefix_inferred": false,
+      "evidence": "RMSC1101"
+    },
+    {
+      "course_code": "RMSC2101",
+      "prefix_inferred": false,
+      "evidence": "RMSC2101"
+    },
+    {
+      "course_code": "RMSC3001",
+      "prefix_inferred": false,
+      "evidence": "RMSC3001"
+    },
+    {
+      "course_code": "RMSC3101",
+      "prefix_inferred": false,
+      "evidence": "RMSC3101"
+    },
+    {
+      "course_code": "RMSC4001",
+      "prefix_inferred": false,
+      "evidence": "RMSC4001"
+    },
+    {
+      "course_code": "RMSC4002",
+      "prefix_inferred": false,
+      "evidence": "RMSC4002"
+    },
+    {
+      "course_code": "RMSC4003",
+      "prefix_inferred": false,
+      "evidence": "RMSC4003"
+    },
+    {
+      "course_code": "RMSC4004",
+      "prefix_inferred": false,
+      "evidence": "RMSC4004"
+    },
+    {
+      "course_code": "RMSC4005",
+      "prefix_inferred": false,
+      "evidence": "RMSC4005"
+    },
+    {
+      "course_code": "RMSC4006",
+      "prefix_inferred": false,
+      "evidence": "RMSC4006"
+    },
+    {
+      "course_code": "RMSC4007",
+      "prefix_inferred": false,
+      "evidence": "RMSC4007"
+    },
+    {
+      "course_code": "RMSC4102",
+      "prefix_inferred": false,
+      "evidence": "RMSC4102"
+    },
+    {
+      "course_code": "RMSC4112",
+      "prefix_inferred": false,
+      "evidence": "RMSC4112"
+    },
+    {
+      "course_code": "RMSC4202",
+      "prefix_inferred": false,
+      "evidence": "RMSC4202"
+    },
+    {
+      "course_code": "RMSC4212",
+      "prefix_inferred": false,
+      "evidence": "RMSC4212"
+    }
+  ],
+  "course_code_aliases": [],
+  "source": {
+    "system": "CUHK CUSIS Browse Program Information",
+    "url": "https://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/tt_dsp_acad_prog.aspx",
+    "source_text_file": "data/cuhk/2024/programmes/B_Sc_in_Risk_Management_Science__Faculty_of_Science.txt",
+    "reused_duplicate_entry": false,
+    "reused_from_faculty": null
+  },
+  "raw_text": "\n\nBrowse Program Information\n\n\n\n\n\n\nAcademic Program:\tB.Sc. in Risk Management Science\nAcademic Year:\t2024\nLanguage:\t\nEnglish\nSimplified Chinese\nTraditional Chinese\n\n\n\nLearning Outcomes\nStudy Scheme\n \n\n\t\n\nRisk Management Science\n\nApplicable to students admitted in 2024-25\n\n\n\n\n \n\n\n\n\n \n\nThere is one enrichment stream in the Risk Management Science Programme: Risk Analytics Stream.  Students who got a total score of 30 or above in the best five HKDSE subjects or have obtained a cumulative GPA of 3.7 or above in the first or second year of attendance may apply for specializing in the Risk Analytics Stream.\n\n \n\n\n\n\nMajor Programme Requirement\n\n \n\n\n\n\nStudents are required to complete a minimum of 72 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nFaculty Package:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nGroup C: MATH1010 (preferred) or 1018\n\nGroup E: STAT1011\n\nOne course from the following\n\nGroup A: LSCI1001 or 1002 or 1012\n\nGroup B: CHEM1070 or 1072 or 1280\n\nGroup D: PHYS1001 or 1002 or 1111 or 1113, or\n\nCourses from Faculty Package of the Faculty of Business Administration: DOTE1031 or 1040 or HTMG1010 or MGNT1020\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nRequired Courses:\n\n\t\n\n42\n\n\n\n\n \n\n\t\n\nACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008# \n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nElective Courses:\n\n\t\n\n21\n\n\n\n\n(a)\n\n\t\n\nOne course from CSCI1510, 1520, 1530, 1540, 1550, 1580 or STAT2005\n\n\t\n\n \n\n\n\n\n(b)\n\n \n\n \n\n \n\n\t\n\nChoose five courses from the following list, with at least two RMSC courses:\n\nCSCI2520#[c], ECON3420#, FINA3010#, 3210#, MATH3215#, 3230#, 3240#, 4210#, 4230#, RMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#\n\n\t\n\n \n\n\n\n\n(c)\n\n\t\n\nOne capstone/research course from RMSC4102 or 4202\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n72\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\nExplanatory Notes:\n\n\t\n\n \n\n\n\n\n1.\n\n\t\n\nRMSC courses at 2000 and above level as well as those labelled as # will be included in the calculation of Major GPA for honours classification.\n\n\n\n\n2.\n\n\t\n\nStudents admitted to the Dual Undergraduate Degree Programme (DDP) with The University of Edinburgh (UoE) are required to follow the major programme requirement and will not be able to declare a stream.\n\n\n\n\n[a]\n\n\t\n\nStudents may take ECON1010 as a substitute for DOTE1030.\n\n\n\n\n[b]\n\n\t\n\nStudents may take RMSC3001 as a substitute for FINA3080.\n\n\n\n\n[c]\n\n\t\n\nStudents may take CSCI2100# as a substitute for CSCI2520.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nRisk Analytics Stream\n\n \n\n\n\n\nStudents are required to complete a minimum of 72 units of courses as follows:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nFaculty Package:\n\nGroup C: MATH1010 (preferred) or 1018\n\nGroup E: STAT1011\n\nOne course from the following\n\nGroup A: LSCI1001 or 1002 or 1012\n\nGroup B: CHEM1070 or 1072 or 1280\n\nGroup D: PHYS1001 or 1002 or 1111 or 1113, or\n\nCourses from Faculty Package of the Faculty of Business Administration: DOTE1031 or 1040 or HTMG1010 or MGNT1020\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nRequired Courses:\n\n\t\n\n48\n\n\n\n\n(a)\n\n\t\n\nACCT1111 or 2111, DOTE1030[a], FINA2010#, 3080#[b], MATH1030 or 1038 or 1630 (preferred), 2010 (preferred) or 2018, RMSC1101#, 2001, 2101, 3101, 4001, 4003, STAT2001#, 2006#, 3007#, 3008#\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nOne course from CSCI1510, 1520, 1530, 1540, 1550 or 1580\n\n\t\n\n \n\n\n\n\n(c)\n\n\t\n\nOne course from CSCI2510, 2720 or 3100\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nElective Courses:\n\n\t\n\n  15\n\n\n\n\n(a)\n\n\t\n\nTwo courses from the following list:\n\nCSCI2520#[c], 3150#, 3160#, 3170#, 3230#, 3320#, 4130#, 4160#, 4180#, 4190#, 4230#, 5030#, 5150#, 5510#, ENGG5108#\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nTwo courses from the following list:\n\nRMSC4002, 4004, 4005, 4006, 4007, STAT4002#, 4003#, 4004#, 4005#, 4006#, 4008#, 4010#, 4012#\n\n\t\n\n \n\n\n\n\n(c)\n\n\t\n\nOne capstone/research course from RMSC4112 or 4212\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n  72\n\n\n\n\n \n\n\n\n\nExplanatory Notes:\n\n\n\n\n1.\n\n\t\n\nRMSC courses at 2000 and above level as well as those labelled as # will be included in the calculation of Major GPA for honours classification.\n\n\n\n\n[a]\n\n\t\n\nStudents may take ECON1010 as a substitute for DOTE1030.\n\n\n\n\n[b]\n\n\t\n\nStudents may take RMSC3001 as a substitute for FINA3080.\n\n\n\n\n[c]\n\n\t\n\nStudents may take CSCI2100# as a substitute for CSCI2520.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\n \n\n\n\n\n Risk Management Science\n\n\n\n\n \n\n\t\n\nRecommended Course Pattern\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: Group E: STAT1011\n\n\t\n\n3\n\n\n\n\nMajor Required: ACCT1111 or 2111, DOTE1030, RMSC1101\n\n\t\n\n7\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nFaculty Package: Group C: MATH1010\n\n\t\n\n6\n\n\n\n\nOne course from Science Faculty Package A, B, D or\n\nBA Faculty Package: DOTE1031 or 1040 or HTMG1010 or MGNT1020\n\n\t\n\n \n\n\n\n\nMajor Required: FINA2010\n\n\t\n\n3\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: MATH1630, RMSC2001, STAT2001\n\n\t\n\n9\n\n\n\n\nMajor Elective(s): STAT2005\n\n\t\n\n0-3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: MATH2010, RMSC2101, STAT2006\n\n\t\n\n7\n\n\n\n\nMajor Elective(s): One CSCI course at 1000 level (if STAT2005 not taken)\n\n\t\n\n0-3\n\n\n\n\nThird Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: FINA3080 (if RMSC3001 not taken), RMSC4003, STAT3007, 3008\n\n\t\n\n9-12\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: RMSC3001 (if FINA3080 not taken), 3101, 4001\n\n\t\n\n4-7\n\n\n\n\nMajor Elective(s): One ECON or FINA course, one MATH course\n\n\t\n\n6\n\n\n\n\nFourth Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required:\n\n\t\n\n \n\n\n\n\nMajor Elective(s): RMSC4202, two RMSC courses\n\n\t\n\n6-9\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required:\n\n\t\n\n \n\n\n\n\nMajor Elective(s): RMSC4102 (if RMSC4202 not taken), one RMSC or STAT course\n\n\t\n\n3-6\n\n\n\n\nTotal (including Faculty Package):\n\n\t\n\n72\n\n\n\n\n \n\n\n\n\nRisk Management Science (Risk Analytics Stream)\n\n\n\n\n \n\n\t\n\nRecommended Course Pattern\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: Group E: STAT1011\n\n\t\n\n3\n\n\n\n\nMajor Required: ACCT1111 or 2111, DOTE1030, RMSC1101\n\n\t\n\n7\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nFaculty Package: Group C: MATH1010\n\n\t\n\n6\n\n\n\n\nA course from Science Faculty Package A, B, D or\n\nBA Faculty Package: DOTE1031 or 1040 or HTMG1010 or MGNT1020\n\n\t\n\n \n\n\n\n\nMajor Required: FINA2010\n\n\t\n\n3\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n\nMajor Required: CSCI2510 or 2720 or 3100, MATH1630, RMSC2001, STAT2001\n\n\t\n\n9-12\n\n\n\n\nMajor Elective(s): One CSCI course at 1000 level\n\n\t\n\n3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: CSCI2510 or 2720 or 3100 (if not taken), MATH2010, RMSC2101, STAT2006\n\n\t\n\n7-10\n\n\n\n\nMajor Elective(s): CSCI2520\n\n\t\n\n3\n\n\n\n\nThird Year of Attendance\n\n\t\n\n1st  term\n\n\t\n\n\nMajor Required: FINA3080 (if RMSC3001 not taken), RMSC4003, STAT3007, 3008\n\n\t\n\n9-12\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: RMSC3001 (if FINA3080 not taken), 3101, 4001\n\n\t\n\n4-7\n\n\n\n\nMajor Elective(s): One CSCI or ENGG course, one RMSC or STAT course at 4000 level\n\n\t\n\n6\n\n\n\n\nFourth Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n\nMajor Required:\n\n\t\n\n \n\n\n\n\nMajor Elective(s): RMSC4212, one RMSC or STAT course at 4000 level\n\n\t\n\n3-6\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required:\n\n\t\n\n \n\n\n\n\nMajor Elective(s): RMSC4112 (if RMSC4212 not taken)\n\n\t\n\n0-3\n\n\n\n\nTotal (including Faculty Package):\n\n\t\n\n72\n\n\n\n\n \n\n\n\n\t\n\nRecommended Course Pattern for CUHK students in fulfillment of requirements of the Dual Undergraduate Degree Programme (DDP) with The University of Edinburgh (UoE) (BSc in Mathematics and Business)\n\n\t\n\nUnits\n\n\n\n\nFirst Year of Attendance (Study at CUHK)\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: STAT1011\n\n\t\n\n3\n\n\n\n\nMajor Required: ACCT1111, DOTE1030, RMSC1101\n\n\t\n\n7\n\n\n\n\nUniversity Core Requirements: 1 College GE course[a], ELTU1001, 1 PHED course\n\n\t\n\n6-7\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nFaculty Package: DOTE1040, MATH1010\n\n\t\n\n6\n\n\n\n\nMajor Required: FINA2010\n\n\t\n\n3\n\n\n\n\nUniversity Core Requirements: CHLT1001, ENGG1003, 1 PHED course\n\n\t\n\n7\n\n\n\n\nSummer session\n\n\t\n\n \n\n\n\n\nMajor Required: MATH1030\n\n\t\n\n3\n\n\n\n\nUniversity Core Requirements: 1 UGFH or UGFN course\n\n\t\n\n3\n\n\n\n\nSecond Year of Attendance\n\n(Study at CUHK)\n\n\t\n\n1st term[b]\n\n\t\n\n \n\n\n\n\nMajor Required: RMSC2001, STAT2001\n\n\t\n\n6\n\n\n\n\nMajor Elective(s): CSCI1510, 1520, 1530 or 1540\n\n\t\n\n3\n\n\n\n\nFree Elective(s): MATH1050\n\n\t\n\n3\n\n\n\n\nUniversity Core Requirements: 0-1 College GE course[a], ELTU2018,  1 UGFH or UGFN course\n\n\t\n\n6-8\n\n\n\n\n2nd term[b]\n\n\t\n\n \n\n\n\n\nMajor Required: MATH2010, RMSC2101, 3001, 3101, STAT2006\n\n\t\n\n11\n\n\n\n\nMajor Elective(s): CSCI2100 or 2520, FINA3210\n\n\t\n\n6\n\n\n\n\nUniversity Core Requirements: CHLT1002, UGCP1001 or 1002\n\n\t\n\n3\n\n\n\n\nSummer session[b]\n\n\t\n\n \n\n\n\n\nUniversity Core Requirements: 1 UGEA course[c], 1 UGEC course[c], UGCP1001 or 1002\n\n\t\n\n5\n\n\n\n\nThird Year of Attendance\n\n(Study at UoE)\n\n\t\n\n1st term\n\nMajor Required: CMSE10002 (20 units)[d], MATH10066 (20 units)\n\nMajor Elective(s): MATH10007 (10 units)[e], 10095 (10 units)[f]\n\n\t\n\n60 units\n\n(with 9 units for fulfillment of the Major requirements to be transferred to CUHK)\n\n\n\n\n2nd term\n\nMajor Required: MATH10068 (20 units)\n\nMajor Elective(s): BUST10023 (20 units)[g], MATH10003 (10 units)[h], 1 elective course (10 units)\n\n\t\n\n60 units\n\n(with 6 units for fulfillment of the Major requirements to be transferred to CUHK)\n\n\n\n\nFourth Year of Attendance\n\n(Study at UoE)\n\n\t\n\n1st term\n\nMajor Required: MATH10031 (40 units)[i]\n\nMajor Elective(s): MATH11187 (10 units)[j]\n\n\t\n\n50 units\n\n(with 6 units for fulfillment of the Major requirements to be transferred to CUHK)\n\n\n\n\n2nd term\n\nMajor Required: BUST10012 (20 units), 10149 (20 units)\n\nMajor Elective(s): MATH11202 (10 units)[k], 11205 (10 units)[l],  11131 (10 units)[m]\n\n\t\n\n70 units\n\n(with 9 units for fulfillment of the Major requirements to be transferred to CUHK)\n\n\n\n\nUnits taken at CUHK:\n\n\t\n\n82-83\n\n\n\n\nUnits taken at UoE and recognized by CUHK:\n\n\t\n\n30\n\n\n\n\nTotal:\n\n\t\n\n112-113[n]\n\nExplanatory Notes:\n\n\n\n\n1.\n\n\t\n\nSubject to approval by the Major Programme concerned, students may opt out of the Dual Degree Programme. The decision to opt out is irrevocable. Students who have opted out are required to complete and fulfill all graduation requirements of the Major Programme at CUHK. Students should be aware that such decision may result in a delay in graduation. Courses and units completed at the Host Institution can be transferred back for fulfillment of CUHK requirements, in accordance with the course mapping table.\n\n\n\n\n[a]\n\n\t\n\nThe recommended course pattern of College GE courses varies slightly depending on students’ College affiliation. Students who are required to take 4 units of College GE should take two 2-unit courses at different terms.\n\n\n\n\n[b]\n\n\t\n\nStudents taking a term and a year load exceeding the maximum will need to seek approval from the Registrar.\n\n\n\n\n[c]\n\n\t\n\nStudents should take one 2-unit UGEA course and one 2-unit UGEC course.\n\n\n\n\n[d]\n\n\t\n\nCMSE10002 taken at UoE can be transferred to fulfill the requirement of RMSC4003.\n\n\n\n\n[e]\n\n\t\n\nMATH10007 taken at UoE can be transferred to fulfill the requirement of STAT3007.\n\n\n\n\n[f]\n\n\t\n\nMATH10095 taken at UoE can be transferred to fulfill the requirement of STAT4003.\n\n\n\n\n[g]\n\n\t\n\nBUST10023 taken at UoE can be transferred to fulfill the requirement of RMSC4007.\n\n\n\n\n[h]\n\n\t\n\nMATH10003 taken at UoE can be transferred to fulfill the requirement of RMSC4005.\n\n\n\n\n[i]\n\n\t\n\nMATH10031 taken at UoE can be transferred to fulfill the requirement of RMSC4202.\n\n\n\n\n[j]\n\n\t\n\nMATH11187 taken at UoE can be transferred to fulfill the requirement of STAT3008.\n\n\n\n\n[k]\n\n\t\n\nMATH11202 taken at UoE can be transferred to fulfill the requirement of RMSC4001.\n\n\n\n\n[l]\n\n\t\n\nMATH11205 taken at UoE can be transferred to fulfill the requirement of RMSC4002.\n\n\n\n\n[m]\n\n\t\n\nMATH11131 taken at UoE can be transferred to fulfill the requirement of STAT4005.\n\n\n\n\n[n]\n\n\t\n\nStudents are required to complete at least 48 units (out of 72) of major courses offered by CUHK.\n\n \n\n\n\n\n \n\n\n\n\nMinor Programme Title\n\nRisk Management Science\n\n \n\n\n\n\n \n\nMinor Programme Requirement\n\n \n\n\t\n\n \n\n\n\n\nStudents are required to complete a minimum of 21 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nRequired Course:\n\n\t\n\n3\n\n\n\n\n \n\n\t\n\nRMSC2001\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nElective Courses:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nSTAT1011[a]\n\n\t\n\n3\n\n\n\n\n(b)\n\n\t\n\nSTAT2102[a]\n\n\t\n\n3\n\n\n\n\n(c)\n\n\t\n\nSTAT2005 or one course from CSCI1510, 1520, 1530, 1540, 1550, 1580\n\n\t\n\n3\n\n\n\n\n(d)\n\n\t\n\nThree courses from RMSC4001, 4002, 4003, 4004, 4005, 4007, STAT4004\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n21\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\nExplanatory Notes:\n\n\n\n\n[a]\n\n\t\n\nStudents can take either the STAT course or its corresponding equivalent or closely related course, but not both, as listed below to fulfill the requirement:\n\n \n\nSTAT courses\n\n\t\n\nEquivalent/closely related courses\n\n\n\n\nSTAT1011\n\n\t\n\nIntroduction to Statistics\n\n\t\n\nSTAT1012\n\n\t\n\nStatistics for Life Sciences\n\n\n\n\nSTAT2001\n\n\t\n\nBasic Concepts in Statistics and Probability I\n\n\n\n\nDOTE2011\n\n\t\n\nStatistical Analysis for Business Decisions\n\n\n\n\nFINA2220\n\n\t\n\nQuantitative Methods for Actuarial Analysis I\n\n\n\n\nENGG2760 and 2780 (4 units) or ESTR2018 and 2020 (4 units)\n\n\t\n\nProbability for Engineers (ENGG2760/ESTR2018)\n\nStatistics for Engineers (ENGG2780/ESTR2020)\n\n\n\n\nECON2121\n\n\t\n\nMethods of Economic Statistics\n\n\n\n\nGRMD2102\n\n\t\n\nFundamental Statistics for Geographers\n\n\n\n\nSOCI2004\n\n\t\n\nSocial Statistics\n\n\n\n\nSTAT2102\n\n\t\n\nBasic Statistical Concepts and Methods II\n\n\t\n\nSTAT2006\n\n\t\n\nBasic Concepts in Statistics and Probability II\n\n\n\n\nDOTE2021\n\n\t\n\nApplied Econometrics for Business Decisions\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n \n\n \n\n\n\n\nCourse List\n\n \n\n\n\n\nCourse Code\n\n\t\n\nCourse Title\n\n\t\n\nUnit(s)\n\n\n\n\nRMSC1101\n\n\t\n\nElementary Concepts in Risk Management\n\n\t\n\n1\n\n\n\n\nRMSC2001\n\n\t\n\nIntroduction to Risk Management\n\n\t\n\n3\n\n\n\n\nRMSC2101\n\n\t\n\nIntroductory Topics in Risk Management\n\n\t\n\n1\n\n\n\n\nRMSC3001\n\n\t\n\nPrinciples of Credit Risk Management\n\n\t\n\n3\n\n\n\n\nRMSC3101\n\n\t\n\nSpecial Topics in Risk Management\n\n\t\n\n1\n\n\n\n\nRMSC4001\n\n\t\n\nSimulation Methods for Risk Management Science and Finance\n\n\t\n\n3\n\n\n\n\nRMSC4002\n\n\t\n\nFinancial Data Analytics with Machine Learning\n\n\t\n\n3\n\n\n\n\nRMSC4003\n\n\t\n\nStatistical Modelling in Financial Markets\n\n\t\n\n3\n\n\n\n\nRMSC4004\n\n\t\n\nTheory of Risk and Insurance\n\n\t\n\n3\n\n\n\n\nRMSC4005\n\n\t\n\nStochastic Calculus for Finance and Risk\n\n\t\n\n3\n\n\n\n\nRMSC4006\n\n\t\n\nOperational Risk Management\n\n\t\n\n3\n\n\n\n\nRMSC4007\n\n\t\n\nRisk Management with Derivatives Concepts\n\n\t\n\n3\n\n\n\n\nRMSC4102\n\n\t\n\nResearch Project\n\n\t\n\n3\n\n\n\n\nRMSC4112\n\n\t\n\nResearch Project in Risk Analytics\n\n\t\n\n3\n\n\n\n\nRMSC4202\n\n\t\n\nPracticum\n\n\t\n\n3\n\n\n\n\nRMSC4212\n\n\t\n\nPracticum in Risk Analytics\n\n\t\n\n3\n\n \n\n\n \n\nStudy Scheme\n\n\nLearning Outcomes\n \n\n\t\n\n \n\n1.\n\n\t\n\nMajor Programme:\n\n\n\n\nGraduates will have acquired the following:\n\n\n\n\nKnowledge:\n\n\n\n\n(1)\n\n\t\n\nKnowledge of calculating risk and risk measures from a scientific perspective and their role in finance, insurance and related fields\n\n\n\n\n(2)\n\n\t\n\nBackground knowledge of accounting, economics for business studies, financial management and investment analysis\n\n\n\n\n(3)\n\n\t\n\nKnowledge of mathematical tools for statistical analysis\n\n\n\n\n(4)\n\n\t\n\nKnowledge of computer programming\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nProfessional Skills:\n\n\n\n\n(1)\n\n\t\n\nAbility to apply knowledge of statistics, accounting, economics and business studies to risk management\n\n\n\n\n(2)\n\n\t\n\nAbility to articulate and convey concepts of risk and risk management to both layman and professional\n\n\n\n\n(3)\n\n\t\n\nAbility to identify appropriate risk management measures\n\n\n\n\n(4)\n\n\t\n\nSimulation skills for risk management\n\n\n\n\n(5)\n\n\t\n\nStatistical skills for data analysis\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nGeneral Competencies:\n\n\n\n\n(1)\n\n\t\n\nCompetence in Chinese and English languages\n\n\n\n\n(2)\n\n\t\n\nCompetence in using information technology\n\n\n\n\n(3)\n\n\t\n\nAnalytical skills\n\n\n\n\n(4)\n\n\t\n\nSelf-learning skills\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nAttitude/Value:\n\n\n\n\n(1)\n\n\t\n\nRecognize the importance of risk management\n\n\n\n\n(2)\n\n\t\n\nAppropriate attitude towards uncertainty\n\n\n\n\n(3)\n\n\t\n\nHigh ethical standards\n\n\n\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nMinor Programme:\n\n\n\n\nUpon the completion of the Minor Programme, students will have demonstrated basic understanding of fundamental issues related to Risk Management Science, acquired knowledge of calculating risk and risk measures from a scientific perspective and their role in finance, insurance and related fields.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\n \n\n \n\n \n\n\n"
+}

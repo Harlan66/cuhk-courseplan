@@ -1,0 +1,200 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-08-14",
+  "scope": "CUHK official course, programme, timetable and equivalency sources",
+  "finding": "No documented, current, public CUHK REST/JSON API or complete downloadable course database was found. The official data is split across CUSIS, Registry web forms, programme documents, SharePoint and departmental course-outline pages.",
+  "sources": [
+    {
+      "id": "cusis-course-catalog",
+      "name": "CUSIS Browse Course Catalog / Programme Information",
+      "url": "https://www.res.cuhk.edu.hk/cusis/",
+      "access": "authenticated",
+      "bulkFriendly": false,
+      "authority": "canonical",
+      "fields": [
+        "course title and description",
+        "units",
+        "grading basis and grade descriptor",
+        "learning outcomes and syllabus",
+        "assessment types and current percentages",
+        "required and recommended readings",
+        "career",
+        "course components",
+        "prerequisites",
+        "corequisites",
+        "exclusions",
+        "enrolment requirements",
+        "programme information"
+      ],
+      "recommendedUse": "Canonical catalog and enrolment-rule source; crawl with the student's authenticated session after manual login.",
+      "limitations": [
+        "No documented public API or official bulk export found",
+        "PeopleSoft session and dynamic forms",
+        "Personal eligibility may additionally depend on reserved quotas and approvals"
+      ]
+    },
+    {
+      "id": "registry-public-timetable",
+      "name": "Registry Public Teaching Timetable",
+      "url": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_applx2/Public/tt_dsp_timetable.aspx",
+      "access": "public-with-verification-code-per-search",
+      "bulkFriendly": false,
+      "authority": "canonical-for-published-class-sections",
+      "fields": [
+        "term",
+        "subject",
+        "course and section",
+        "class component",
+        "teacher",
+        "meeting time",
+        "room",
+        "teaching dates",
+        "quota and vacancy",
+        "consent and remarks"
+      ],
+      "recommendedUse": "Cross-check current term section data and validate empty CUSIS export results.",
+      "limitations": [
+        "Verification code is required for each public search",
+        "Not an official bulk endpoint",
+        "Does not by itself determine whether a particular student is eligible"
+      ]
+    },
+    {
+      "id": "registry-planned-course-offering",
+      "name": "Registry Planned Course Offering",
+      "urlTemplate": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_life/rws_appl/pco_dsp_by_sbj.asp?sbj={SUBJECT}&yr={START_YEAR}",
+      "menuUrlTemplate": "https://rgsntl.rgs.cuhk.edu.hk/rws_prd_life/rws_appl/pco_dsp_menu.asp?yr={START_YEAR}",
+      "access": "public",
+      "bulkFriendly": true,
+      "authority": "official-planning-only",
+      "fields": [
+        "course code",
+        "course title",
+        "units",
+        "planned Term 1 status",
+        "planned Term 2 status",
+        "last update date"
+      ],
+      "observedAvailability": {
+        "2024-25": "populated for many legacy subject codes",
+        "2025-26": "empty table in sampled ACCT, FINA, MGNT, MKTG, STAT and DOTE requests",
+        "2026-27": "empty table in sampled ACCT, FINA, MGNT, MKTG, STAT, DOTE and DSME requests"
+      },
+      "recommendedUse": "Historical course-pool seed and subject-code discovery only.",
+      "limitations": [
+        "The page explicitly says planning only and departments may amend records",
+        "Current sampled years are unpopulated",
+        "No class times, sections, seats or prerequisites",
+        "Legacy DSME subject naming may not reflect current DOTE codes"
+      ]
+    },
+    {
+      "id": "aqs-undergraduate-handbook",
+      "name": "AQS Undergraduate Student Handbook",
+      "url": "https://www.aqs.cuhk.edu.hk/undergraduate-student-handbook/",
+      "access": "public index; course/programme detail is directed to CUSIS",
+      "bulkFriendly": "partially",
+      "authority": "canonical-for-regulations-and-study-schemes",
+      "fields": [
+        "university regulations",
+        "study schemes",
+        "programme requirements",
+        "admission-year versions"
+      ],
+      "recommendedUse": "Graduation and programme-rule layer, versioned by admission cohort.",
+      "limitations": [
+        "No unified machine-readable course catalog",
+        "Individual handbook document IDs are not a stable public API"
+      ]
+    },
+    {
+      "id": "business-school-current-students-sharepoint",
+      "name": "CUHK Business School Current Students SharePoint",
+      "url": "https://ug.bschool.cuhk.edu.hk/current-students/",
+      "access": "authenticated-office-365",
+      "bulkFriendly": "unknown-until-login",
+      "authority": "canonical-for-business-school-notices-and-equivalency",
+      "fields": [
+        "course registration notices",
+        "credit transfer",
+        "course equivalency system",
+        "programme notices"
+      ],
+      "recommendedUse": "Primary verification source for business-course equivalency/substitution rules and current registration notices.",
+      "limitations": [
+        "Login required",
+        "Not publicly indexable",
+        "May contain documents/lists rather than a queryable database"
+      ]
+    },
+    {
+      "id": "business-school-annual-guide",
+      "name": "CUHK Business School Undergraduate Student Guidelines",
+      "localFile": "../curriculum/CUHK-Business-School-Guidelines-2026-27.pdf",
+      "access": "downloaded-official-document",
+      "bulkFriendly": true,
+      "authority": "official-annual-guide",
+      "fields": [
+        "study sequence",
+        "major and concentration pools",
+        "prerequisites for listed electives",
+        "double-counting and substitution notes"
+      ],
+      "recommendedUse": "Rule-engine input with academic-year provenance.",
+      "limitations": [
+        "Annual document may differ from the student's admission-year scheme",
+        "Some current enrolment details still require CUSIS confirmation"
+      ]
+    },
+    {
+      "id": "clear-course-outlines",
+      "name": "CUHK CLEAR Course Outline Repository",
+      "urlTemplate": "https://www.cuhk.edu.hk/crs/download/CourseOutline/{YEAR}T{TERM}/{COURSE}.pdf",
+      "access": "public-when-a-file-exists",
+      "bulkFriendly": false,
+      "authority": "official-course-outline",
+      "fields": [
+        "course description",
+        "learning outcomes",
+        "syllabus",
+        "components",
+        "assessment",
+        "readings",
+        "course schedule",
+        "teacher contact"
+      ],
+      "recommendedUse": "Optional enrichment for descriptions, workload and syllabus.",
+      "limitations": [
+        "No public manifest or complete directory found",
+        "Department submission is inconsistent",
+        "All 244 sampled current Business School offering-course URLs for 2026T1/T2 returned 404"
+      ]
+    },
+    {
+      "id": "department-course-pages",
+      "name": "Departmental Course Lists and Outlines",
+      "access": "usually-public",
+      "bulkFriendly": "varies",
+      "authority": "official-but-decentralized",
+      "fields": [
+        "course list",
+        "selected catalog details",
+        "selected prerequisites",
+        "selected term offerings"
+      ],
+      "recommendedUse": "Fallback enrichment and cross-check only.",
+      "limitations": [
+        "No university-wide schema",
+        "Coverage and update frequency vary by department"
+      ]
+    }
+  ],
+  "recommendedPriority": [
+    "CUSIS course catalog and programme information",
+    "Business School SharePoint course equivalency information",
+    "Registry current teaching timetable",
+    "Admission-year AQS programme handbook",
+    "Business School annual guide",
+    "Departmental outlines and legacy planned offerings"
+  ]
+}

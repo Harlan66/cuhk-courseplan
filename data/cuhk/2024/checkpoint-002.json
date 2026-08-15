@@ -1,0 +1,29 @@
+{
+  "savedAt": "2026-08-14T17:56:19.106Z",
+  "records": [
+    {
+      "name": "B.B.A. in Professional Accountancy",
+      "file": "B_B_A_in_Professional_Accountancy__Faculty_of_Business_Administration.txt",
+      "chars": 11099
+    },
+    {
+      "name": "B.Sc. in Biotechnology, Entrepreneurship and Healthcare Management",
+      "file": "B_Sc_in_Biotechnology_Entrepreneurship_and_Healthcare_Management__Faculty_of_Business_Administration.txt",
+      "chars": 8673
+    }
+  ],
+  "failed": [
+    {
+      "name": "B.Sc. in Interdisciplinary Data Analytics & X Double Major Programme",
+      "error": "Error: Timed out after 3000ms waiting for selector #btn_scheme_return: Playwright selector deadline exceeded"
+    },
+    {
+      "name": "B.Sc. in Quantitative Finance",
+      "error": "Error: Playwright selector deadline exceeded\nwaiting on click for selector internal:role=link[name=\"B.Sc. in Quantitative Finance\"s] >> nth=0\nLocator diagnostic"
+    },
+    {
+      "name": "B.Sc. in Quantitative Finance and Risk Management Science",
+      "error": "Error: Playwright selector deadline exceeded\nwaiting on click for selector internal:role=link[name=\"B.Sc. in Quantitative Finance and Risk Management Science\"s]"
+    }
+  ]
+}

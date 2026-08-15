@@ -1,0 +1,222 @@
+	Data Language:  
+English
+Simplified Chinese
+Traditional Chinese
+	
+														
+	
+Groupbox
+
+			
+	
+Teaching Timetable
+
+	
+Class Detail
+
+	
+ 
+
+
+	
+
+
+	
+
+	
+ACCT 3121 - C   Cost and Management Accounting
+
+
+	
+CUHK | 2026-27 Term 1 | Lecture
+
+	
+
+
+	
+Class Details
+
+				
+	
+								
+	
+
+	
+Status
+
+		
+Open
+
+	
+Class Number
+
+	
+9421
+
+	
+Session
+
+	
+Regular Academic Session
+
+	
+1
+
+	
+Units
+
+	
+3 units
+
+	
+Instruction Mode
+
+	
+In Person
+
+	
+P
+
+		
+Lecture Required
+
+	
+Class Components
+
+	
+<table class="PSTEXT"><tr><td>Lecture Required</td></tr></table>
+		
+				
+	
+Course ID
+
+		
+001091
+
+	
+Offer Nbr
+
+	
+1
+
+	
+Career
+	
+Undergraduate
+
+	
+UG
+
+	
+Dates
+
+	
+2026/8/1 - 2026/12/31
+
+	
+Grading
+	
+Graded
+
+		
+GRD
+
+	
+Campus
+	
+Main Campus
+
+	
+MAIN
+
+
+
+
+	
+Meeting Information
+
+
+Days & Times	Room	Instructor	Meeting Dates
+
+Th 09:30 - 12:15
+	
+Wu Ho Man Yuen Bldg 304
+	
+Professor YIN Laiyi
+	
+9/10, 9/17, 9/24
+
+
+Th 09:30 - 12:15
+	
+Wu Ho Man Yuen Bldg 304
+	
+Professor YIN Laiyi
+	
+10/8, 10/15, 10/22, 10/29, 11/5, 11/12, 11/19, 11/26, 12/3
+
+
+	
+Enrollment Information
+
+					
+	
+For UG PACC Major
+Prerequisite: ACCT2121
+
+	
+Enrollment Requirements
+
+	
+			
+	
+Class Attributes
+		
+English only
+
+
+
+
+	
+Class Availability
+
+						
+	
+Class Capacity
+	
+60
+	
+Wait List Capacity
+	
+999
+
+	
+Enrollment Total
+	
+9
+	
+Wait List Total
+	
+0
+
+	
+Available Seats
+	
+51
+
+
+	
+Description
+
+	
+	
+This course emphasizes the analysis and the use of cost accounting information for managers' decision-making. The major topics covered will include ABC costing, cost allocation for joint products and byproducts, cost estimation and learning curve, relevant costs analysis,master and capital budgeting, variances analysis, inventory costing method and inventory management.
+
+
+	
+	
+	
+Return to Teaching Timetable
+
+
+

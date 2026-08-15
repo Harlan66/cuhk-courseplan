@@ -1,0 +1,1074 @@
+{
+  "programme_id": "B_Ed_in_Early_Childhood_Education__Faculty_of_Education",
+  "academic_program": "B.Ed. in Early Childhood Education",
+  "faculty": "Faculty of Education",
+  "academic_year": 2024,
+  "admission_cohort": "2024-25",
+  "requirement_summary": {
+    "minimum_units_as_printed": "a minimum of 111 units",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Faculty Package",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "BECE2110",
+            "prefix_inferred": false,
+            "evidence": "BECE2110[a], 2310[a], EDUC2240"
+          },
+          {
+            "course_code": "BECE2310",
+            "prefix_inferred": true,
+            "evidence": "BECE2110[a], 2310[a], EDUC2240"
+          },
+          {
+            "course_code": "EDUC2240",
+            "prefix_inferred": false,
+            "evidence": "BECE2110[a], 2310[a], EDUC2240"
+          }
+        ],
+        "raw_text": "9\nBECE2110[a], 2310[a], EDUC2240"
+      },
+      {
+        "number": 2,
+        "title": "Required Courses",
+        "units_as_printed": "40",
+        "course_mentions": [
+          {
+            "course_code": "BECE2120",
+            "prefix_inferred": false,
+            "evidence": "BECE2120, 2130, 2140, 2320, 2330, 2510, CHED4210, 4220, 4310, 4340, 4350, 4410, 4510, EDUC3201"
+          },
+          {
+            "course_code": "BECE2130",
+            "prefix_inferred": true,
+            "evidence": "BECE2120, 2130, 2140, 2320, 2330, 2510, CHED4210, 4220, 4310, 4340, 4350, 4410, 4510, EDUC3201"
+          },
+          {
+            "course_code": "BECE2140",
+            "prefix_inferred": true,
+            "evidence": "BECE2120, 2130, 2140, 2320, 2330, 2510, CHED4210, 4220, 4310, 4340, 4350, 4410, 4510, EDUC3201"
+          },
+          {
+            "course_code": "BECE2320",
+            "prefix_inferred": true,
+            "evidence": "BECE2120, 2130, 2140, 2320, 2330, 2510, CHED4210, 4220, 4310, 4340, 4350, 4410, 4510, EDUC3201"
+          },
+          {
+            "course_code": "BECE2330",
+            "prefix_inferred": true,
+            "evidence": "BECE2120, 2130, 2140, 2320, 2330, 2510, CHED4210, 4220, 4310, 4340, 4350, 4410, 4510, EDUC3201"
+          },
+          {
+            "course_code": "BECE2510",
+            "prefix_inferred": true,
+            "evidence": "BECE2120, 2130, 2140, 2320, 2330, 2510, CHED4210, 4220, 4310, 4340, 4350, 4410, 4510, EDUC3201"
+          },
+          {
+            "course_code": "CHED4210",
+            "prefix_inferred": false,
+            "evidence": "BECE2120, 2130, 2140, 2320, 2330, 2510, CHED4210, 4220, 4310, 4340, 4350, 4410, 4510, EDUC3201"
+          },
+          {
+            "course_code": "CHED4220",
+            "prefix_inferred": true,
+            "evidence": "BECE2120, 2130, 2140, 2320, 2330, 2510, CHED4210, 4220, 4310, 4340, 4350, 4410, 4510, EDUC3201"
+          },
+          {
+            "course_code": "CHED4310",
+            "prefix_inferred": true,
+            "evidence": "BECE2120, 2130, 2140, 2320, 2330, 2510, CHED4210, 4220, 4310, 4340, 4350, 4410, 4510, EDUC3201"
+          },
+          {
+            "course_code": "CHED4340",
+            "prefix_inferred": true,
+            "evidence": "BECE2120, 2130, 2140, 2320, 2330, 2510, CHED4210, 4220, 4310, 4340, 4350, 4410, 4510, EDUC3201"
+          },
+          {
+            "course_code": "CHED4350",
+            "prefix_inferred": true,
+            "evidence": "BECE2120, 2130, 2140, 2320, 2330, 2510, CHED4210, 4220, 4310, 4340, 4350, 4410, 4510, EDUC3201"
+          },
+          {
+            "course_code": "CHED4410",
+            "prefix_inferred": true,
+            "evidence": "BECE2120, 2130, 2140, 2320, 2330, 2510, CHED4210, 4220, 4310, 4340, 4350, 4410, 4510, EDUC3201"
+          },
+          {
+            "course_code": "CHED4510",
+            "prefix_inferred": true,
+            "evidence": "BECE2120, 2130, 2140, 2320, 2330, 2510, CHED4210, 4220, 4310, 4340, 4350, 4410, 4510, EDUC3201"
+          },
+          {
+            "course_code": "EDUC3201",
+            "prefix_inferred": false,
+            "evidence": "BECE2120, 2130, 2140, 2320, 2330, 2510, CHED4210, 4220, 4310, 4340, 4350, 4410, 4510, EDUC3201"
+          },
+          {
+            "course_code": "BECE4540",
+            "prefix_inferred": false,
+            "evidence": "BECE4540[a], CHED4320"
+          },
+          {
+            "course_code": "CHED4320",
+            "prefix_inferred": false,
+            "evidence": "BECE4540[a], CHED4320"
+          },
+          {
+            "course_code": "BECE4010",
+            "prefix_inferred": false,
+            "evidence": "BECE4010[a], 4020[a]"
+          },
+          {
+            "course_code": "BECE4020",
+            "prefix_inferred": true,
+            "evidence": "BECE4010[a], 4020[a]"
+          }
+        ],
+        "raw_text": "Core Courses in Early Childhood Education\nBECE2120, 2130, 2140, 2320, 2330, 2510, CHED4210, 4220, 4310, 4340, 4350, 4410, 4510, EDUC3201\n40\nResearch Experience\nBECE4540[a], CHED4320\n6\nTeaching Practice\nBECE4010[a], 4020[a]\n10"
+      },
+      {
+        "number": 3,
+        "title": "Elective Courses",
+        "units_as_printed": "46",
+        "course_mentions": [
+          {
+            "course_code": "BECE2210",
+            "prefix_inferred": false,
+            "evidence": "BECE2210, 3110[a], 3120, 3130, 3170, 3210, 3220, 4341[a], CHED4150, 4330, 4370, 4520, 4530, 4550, EDUC3150, 3200, 3280, 3290"
+          },
+          {
+            "course_code": "BECE3110",
+            "prefix_inferred": true,
+            "evidence": "BECE2210, 3110[a], 3120, 3130, 3170, 3210, 3220, 4341[a], CHED4150, 4330, 4370, 4520, 4530, 4550, EDUC3150, 3200, 3280, 3290"
+          },
+          {
+            "course_code": "BECE3120",
+            "prefix_inferred": true,
+            "evidence": "BECE2210, 3110[a], 3120, 3130, 3170, 3210, 3220, 4341[a], CHED4150, 4330, 4370, 4520, 4530, 4550, EDUC3150, 3200, 3280, 3290"
+          },
+          {
+            "course_code": "BECE3130",
+            "prefix_inferred": true,
+            "evidence": "BECE2210, 3110[a], 3120, 3130, 3170, 3210, 3220, 4341[a], CHED4150, 4330, 4370, 4520, 4530, 4550, EDUC3150, 3200, 3280, 3290"
+          },
+          {
+            "course_code": "BECE3170",
+            "prefix_inferred": true,
+            "evidence": "BECE2210, 3110[a], 3120, 3130, 3170, 3210, 3220, 4341[a], CHED4150, 4330, 4370, 4520, 4530, 4550, EDUC3150, 3200, 3280, 3290"
+          },
+          {
+            "course_code": "BECE3210",
+            "prefix_inferred": true,
+            "evidence": "BECE2210, 3110[a], 3120, 3130, 3170, 3210, 3220, 4341[a], CHED4150, 4330, 4370, 4520, 4530, 4550, EDUC3150, 3200, 3280, 3290"
+          },
+          {
+            "course_code": "BECE3220",
+            "prefix_inferred": true,
+            "evidence": "BECE2210, 3110[a], 3120, 3130, 3170, 3210, 3220, 4341[a], CHED4150, 4330, 4370, 4520, 4530, 4550, EDUC3150, 3200, 3280, 3290"
+          },
+          {
+            "course_code": "BECE4341",
+            "prefix_inferred": true,
+            "evidence": "BECE2210, 3110[a], 3120, 3130, 3170, 3210, 3220, 4341[a], CHED4150, 4330, 4370, 4520, 4530, 4550, EDUC3150, 3200, 3280, 3290"
+          },
+          {
+            "course_code": "CHED4150",
+            "prefix_inferred": false,
+            "evidence": "BECE2210, 3110[a], 3120, 3130, 3170, 3210, 3220, 4341[a], CHED4150, 4330, 4370, 4520, 4530, 4550, EDUC3150, 3200, 3280, 3290"
+          },
+          {
+            "course_code": "CHED4330",
+            "prefix_inferred": true,
+            "evidence": "BECE2210, 3110[a], 3120, 3130, 3170, 3210, 3220, 4341[a], CHED4150, 4330, 4370, 4520, 4530, 4550, EDUC3150, 3200, 3280, 3290"
+          },
+          {
+            "course_code": "CHED4370",
+            "prefix_inferred": true,
+            "evidence": "BECE2210, 3110[a], 3120, 3130, 3170, 3210, 3220, 4341[a], CHED4150, 4330, 4370, 4520, 4530, 4550, EDUC3150, 3200, 3280, 3290"
+          },
+          {
+            "course_code": "CHED4520",
+            "prefix_inferred": true,
+            "evidence": "BECE2210, 3110[a], 3120, 3130, 3170, 3210, 3220, 4341[a], CHED4150, 4330, 4370, 4520, 4530, 4550, EDUC3150, 3200, 3280, 3290"
+          },
+          {
+            "course_code": "CHED4530",
+            "prefix_inferred": true,
+            "evidence": "BECE2210, 3110[a], 3120, 3130, 3170, 3210, 3220, 4341[a], CHED4150, 4330, 4370, 4520, 4530, 4550, EDUC3150, 3200, 3280, 3290"
+          },
+          {
+            "course_code": "CHED4550",
+            "prefix_inferred": true,
+            "evidence": "BECE2210, 3110[a], 3120, 3130, 3170, 3210, 3220, 4341[a], CHED4150, 4330, 4370, 4520, 4530, 4550, EDUC3150, 3200, 3280, 3290"
+          },
+          {
+            "course_code": "EDUC3150",
+            "prefix_inferred": false,
+            "evidence": "BECE2210, 3110[a], 3120, 3130, 3170, 3210, 3220, 4341[a], CHED4150, 4330, 4370, 4520, 4530, 4550, EDUC3150, 3200, 3280, 3290"
+          },
+          {
+            "course_code": "EDUC3200",
+            "prefix_inferred": true,
+            "evidence": "BECE2210, 3110[a], 3120, 3130, 3170, 3210, 3220, 4341[a], CHED4150, 4330, 4370, 4520, 4530, 4550, EDUC3150, 3200, 3280, 3290"
+          },
+          {
+            "course_code": "EDUC3280",
+            "prefix_inferred": true,
+            "evidence": "BECE2210, 3110[a], 3120, 3130, 3170, 3210, 3220, 4341[a], CHED4150, 4330, 4370, 4520, 4530, 4550, EDUC3150, 3200, 3280, 3290"
+          },
+          {
+            "course_code": "EDUC3290",
+            "prefix_inferred": true,
+            "evidence": "BECE2210, 3110[a], 3120, 3130, 3170, 3210, 3220, 4341[a], CHED4150, 4330, 4370, 4520, 4530, 4550, EDUC3150, 3200, 3280, 3290"
+          },
+          {
+            "course_code": "BECE3140",
+            "prefix_inferred": false,
+            "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+          },
+          {
+            "course_code": "BECE3150",
+            "prefix_inferred": true,
+            "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+          },
+          {
+            "course_code": "BECE3160",
+            "prefix_inferred": true,
+            "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+          },
+          {
+            "course_code": "BMBL1001",
+            "prefix_inferred": false,
+            "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+          },
+          {
+            "course_code": "LING1000",
+            "prefix_inferred": false,
+            "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+          },
+          {
+            "course_code": "LING2003",
+            "prefix_inferred": true,
+            "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+          },
+          {
+            "course_code": "LING2004",
+            "prefix_inferred": true,
+            "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+          },
+          {
+            "course_code": "LING3201",
+            "prefix_inferred": true,
+            "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+          },
+          {
+            "course_code": "LING3204",
+            "prefix_inferred": true,
+            "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+          },
+          {
+            "course_code": "LING3208",
+            "prefix_inferred": true,
+            "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+          },
+          {
+            "course_code": "MUSC1000",
+            "prefix_inferred": false,
+            "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+          },
+          {
+            "course_code": "MUSC2545",
+            "prefix_inferred": true,
+            "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+          },
+          {
+            "course_code": "MUSC2872",
+            "prefix_inferred": true,
+            "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+          },
+          {
+            "course_code": "MUSC2882",
+            "prefix_inferred": true,
+            "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+          },
+          {
+            "course_code": "MUSC3502",
+            "prefix_inferred": true,
+            "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+          },
+          {
+            "course_code": "MUSC3533",
+            "prefix_inferred": true,
+            "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+          },
+          {
+            "course_code": "PSYC1000",
+            "prefix_inferred": false,
+            "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+          },
+          {
+            "course_code": "PSYC2010",
+            "prefix_inferred": true,
+            "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+          },
+          {
+            "course_code": "PSYC2300",
+            "prefix_inferred": true,
+            "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+          },
+          {
+            "course_code": "PSYC2620",
+            "prefix_inferred": true,
+            "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+          },
+          {
+            "course_code": "SPED2141",
+            "prefix_inferred": false,
+            "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+          },
+          {
+            "course_code": "SPED3410",
+            "prefix_inferred": true,
+            "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+          }
+        ],
+        "raw_text": "46\n46 units of courses chosen from (a) and (b):\n(a)\nAt least 30 units of courses chosen from the following:\nBECE2210, 3110[a], 3120, 3130, 3170, 3210, 3220, 4341[a], CHED4150, 4330, 4370, 4520, 4530, 4550, EDUC3150, 3200, 3280, 3290\n(b)\nA maximum of 16 units of courses chosen from the following:\nBECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410\nTotal:\n111\nExplanatory Notes:"
+      },
+      {
+        "number": 1,
+        "title": "Major Programme",
+        "units_as_printed": null,
+        "course_mentions": [],
+        "raw_text": "Graduates from this Progamme will have acquired\n(1)\nacquired knowledge on understanding the central concepts, tools of inquiry, and structures of early childhood education; (K/S)\n(2)\nacquired the ability to design curriculum and instructional plans based on children's diverse abilities; (K/S)\n(3)\napplied a variety of instructional strategies to encourage the development of curiosity, creativity, problem-solving and performance skills in children; (K/S)\n(4)\nacquired knowledge and skills on a variety of formal and informal assessment strategies, and to use various assessment strategies to evaluate and ensure the continuous all-round development of young learners; (K/S/V)\n(5)\ndemonstrated an understanding of the basic organizational and managerial theories, and ways to adopt appropriate strategies to contribute, independently and collegially, to the quality of their schools to the benefit of children, parents, the community; (K/S/V)\n(6)\nrecognized the complex characteristics of young children, young children's families and communities, and to appreciate respectful and reciprocal relationships that support children's development and learning; (K/S/V) and\n(7)\ndeveloped themselves to be innovative reflective practitioners who continually evaluate the effects of their choices and who actively research and implement new methods and seek out opportunities to grow professionally. (K/S/V)\nK = Knowledge outcomes S = Skills outcomes V = Values and attitudes outcomes"
+      }
+    ]
+  },
+  "all_course_mentions": [
+    {
+      "course_code": "BECE2110",
+      "prefix_inferred": false,
+      "evidence": "BECE2110[a], 2310[a], EDUC2240"
+    },
+    {
+      "course_code": "BECE2310",
+      "prefix_inferred": true,
+      "evidence": "BECE2110[a], 2310[a], EDUC2240"
+    },
+    {
+      "course_code": "EDUC2240",
+      "prefix_inferred": false,
+      "evidence": "BECE2110[a], 2310[a], EDUC2240"
+    },
+    {
+      "course_code": "BECE2120",
+      "prefix_inferred": false,
+      "evidence": "BECE2120, 2130, 2140, 2320, 2330, 2510, CHED4210, 4220, 4310, 4340, 4350, 4410, 4510, EDUC3201"
+    },
+    {
+      "course_code": "BECE2130",
+      "prefix_inferred": true,
+      "evidence": "BECE2120, 2130, 2140, 2320, 2330, 2510, CHED4210, 4220, 4310, 4340, 4350, 4410, 4510, EDUC3201"
+    },
+    {
+      "course_code": "BECE2140",
+      "prefix_inferred": true,
+      "evidence": "BECE2120, 2130, 2140, 2320, 2330, 2510, CHED4210, 4220, 4310, 4340, 4350, 4410, 4510, EDUC3201"
+    },
+    {
+      "course_code": "BECE2320",
+      "prefix_inferred": true,
+      "evidence": "BECE2120, 2130, 2140, 2320, 2330, 2510, CHED4210, 4220, 4310, 4340, 4350, 4410, 4510, EDUC3201"
+    },
+    {
+      "course_code": "BECE2330",
+      "prefix_inferred": true,
+      "evidence": "BECE2120, 2130, 2140, 2320, 2330, 2510, CHED4210, 4220, 4310, 4340, 4350, 4410, 4510, EDUC3201"
+    },
+    {
+      "course_code": "BECE2510",
+      "prefix_inferred": true,
+      "evidence": "BECE2120, 2130, 2140, 2320, 2330, 2510, CHED4210, 4220, 4310, 4340, 4350, 4410, 4510, EDUC3201"
+    },
+    {
+      "course_code": "CHED4210",
+      "prefix_inferred": false,
+      "evidence": "BECE2120, 2130, 2140, 2320, 2330, 2510, CHED4210, 4220, 4310, 4340, 4350, 4410, 4510, EDUC3201"
+    },
+    {
+      "course_code": "CHED4220",
+      "prefix_inferred": true,
+      "evidence": "BECE2120, 2130, 2140, 2320, 2330, 2510, CHED4210, 4220, 4310, 4340, 4350, 4410, 4510, EDUC3201"
+    },
+    {
+      "course_code": "CHED4310",
+      "prefix_inferred": true,
+      "evidence": "BECE2120, 2130, 2140, 2320, 2330, 2510, CHED4210, 4220, 4310, 4340, 4350, 4410, 4510, EDUC3201"
+    },
+    {
+      "course_code": "CHED4340",
+      "prefix_inferred": true,
+      "evidence": "BECE2120, 2130, 2140, 2320, 2330, 2510, CHED4210, 4220, 4310, 4340, 4350, 4410, 4510, EDUC3201"
+    },
+    {
+      "course_code": "CHED4350",
+      "prefix_inferred": true,
+      "evidence": "BECE2120, 2130, 2140, 2320, 2330, 2510, CHED4210, 4220, 4310, 4340, 4350, 4410, 4510, EDUC3201"
+    },
+    {
+      "course_code": "CHED4410",
+      "prefix_inferred": true,
+      "evidence": "BECE2120, 2130, 2140, 2320, 2330, 2510, CHED4210, 4220, 4310, 4340, 4350, 4410, 4510, EDUC3201"
+    },
+    {
+      "course_code": "CHED4510",
+      "prefix_inferred": true,
+      "evidence": "BECE2120, 2130, 2140, 2320, 2330, 2510, CHED4210, 4220, 4310, 4340, 4350, 4410, 4510, EDUC3201"
+    },
+    {
+      "course_code": "EDUC3201",
+      "prefix_inferred": false,
+      "evidence": "BECE2120, 2130, 2140, 2320, 2330, 2510, CHED4210, 4220, 4310, 4340, 4350, 4410, 4510, EDUC3201"
+    },
+    {
+      "course_code": "BECE4540",
+      "prefix_inferred": false,
+      "evidence": "BECE4540[a], CHED4320"
+    },
+    {
+      "course_code": "CHED4320",
+      "prefix_inferred": false,
+      "evidence": "BECE4540[a], CHED4320"
+    },
+    {
+      "course_code": "BECE4010",
+      "prefix_inferred": false,
+      "evidence": "BECE4010[a], 4020[a]"
+    },
+    {
+      "course_code": "BECE4020",
+      "prefix_inferred": true,
+      "evidence": "BECE4010[a], 4020[a]"
+    },
+    {
+      "course_code": "BECE2210",
+      "prefix_inferred": false,
+      "evidence": "BECE2210, 3110[a], 3120, 3130, 3170, 3210, 3220, 4341[a], CHED4150, 4330, 4370, 4520, 4530, 4550, EDUC3150, 3200, 3280, 3290"
+    },
+    {
+      "course_code": "BECE3110",
+      "prefix_inferred": true,
+      "evidence": "BECE2210, 3110[a], 3120, 3130, 3170, 3210, 3220, 4341[a], CHED4150, 4330, 4370, 4520, 4530, 4550, EDUC3150, 3200, 3280, 3290"
+    },
+    {
+      "course_code": "BECE3120",
+      "prefix_inferred": true,
+      "evidence": "BECE2210, 3110[a], 3120, 3130, 3170, 3210, 3220, 4341[a], CHED4150, 4330, 4370, 4520, 4530, 4550, EDUC3150, 3200, 3280, 3290"
+    },
+    {
+      "course_code": "BECE3130",
+      "prefix_inferred": true,
+      "evidence": "BECE2210, 3110[a], 3120, 3130, 3170, 3210, 3220, 4341[a], CHED4150, 4330, 4370, 4520, 4530, 4550, EDUC3150, 3200, 3280, 3290"
+    },
+    {
+      "course_code": "BECE3170",
+      "prefix_inferred": true,
+      "evidence": "BECE2210, 3110[a], 3120, 3130, 3170, 3210, 3220, 4341[a], CHED4150, 4330, 4370, 4520, 4530, 4550, EDUC3150, 3200, 3280, 3290"
+    },
+    {
+      "course_code": "BECE3210",
+      "prefix_inferred": true,
+      "evidence": "BECE2210, 3110[a], 3120, 3130, 3170, 3210, 3220, 4341[a], CHED4150, 4330, 4370, 4520, 4530, 4550, EDUC3150, 3200, 3280, 3290"
+    },
+    {
+      "course_code": "BECE3220",
+      "prefix_inferred": true,
+      "evidence": "BECE2210, 3110[a], 3120, 3130, 3170, 3210, 3220, 4341[a], CHED4150, 4330, 4370, 4520, 4530, 4550, EDUC3150, 3200, 3280, 3290"
+    },
+    {
+      "course_code": "BECE4341",
+      "prefix_inferred": true,
+      "evidence": "BECE2210, 3110[a], 3120, 3130, 3170, 3210, 3220, 4341[a], CHED4150, 4330, 4370, 4520, 4530, 4550, EDUC3150, 3200, 3280, 3290"
+    },
+    {
+      "course_code": "CHED4150",
+      "prefix_inferred": false,
+      "evidence": "BECE2210, 3110[a], 3120, 3130, 3170, 3210, 3220, 4341[a], CHED4150, 4330, 4370, 4520, 4530, 4550, EDUC3150, 3200, 3280, 3290"
+    },
+    {
+      "course_code": "CHED4330",
+      "prefix_inferred": true,
+      "evidence": "BECE2210, 3110[a], 3120, 3130, 3170, 3210, 3220, 4341[a], CHED4150, 4330, 4370, 4520, 4530, 4550, EDUC3150, 3200, 3280, 3290"
+    },
+    {
+      "course_code": "CHED4370",
+      "prefix_inferred": true,
+      "evidence": "BECE2210, 3110[a], 3120, 3130, 3170, 3210, 3220, 4341[a], CHED4150, 4330, 4370, 4520, 4530, 4550, EDUC3150, 3200, 3280, 3290"
+    },
+    {
+      "course_code": "CHED4520",
+      "prefix_inferred": true,
+      "evidence": "BECE2210, 3110[a], 3120, 3130, 3170, 3210, 3220, 4341[a], CHED4150, 4330, 4370, 4520, 4530, 4550, EDUC3150, 3200, 3280, 3290"
+    },
+    {
+      "course_code": "CHED4530",
+      "prefix_inferred": true,
+      "evidence": "BECE2210, 3110[a], 3120, 3130, 3170, 3210, 3220, 4341[a], CHED4150, 4330, 4370, 4520, 4530, 4550, EDUC3150, 3200, 3280, 3290"
+    },
+    {
+      "course_code": "CHED4550",
+      "prefix_inferred": true,
+      "evidence": "BECE2210, 3110[a], 3120, 3130, 3170, 3210, 3220, 4341[a], CHED4150, 4330, 4370, 4520, 4530, 4550, EDUC3150, 3200, 3280, 3290"
+    },
+    {
+      "course_code": "EDUC3150",
+      "prefix_inferred": false,
+      "evidence": "BECE2210, 3110[a], 3120, 3130, 3170, 3210, 3220, 4341[a], CHED4150, 4330, 4370, 4520, 4530, 4550, EDUC3150, 3200, 3280, 3290"
+    },
+    {
+      "course_code": "EDUC3200",
+      "prefix_inferred": true,
+      "evidence": "BECE2210, 3110[a], 3120, 3130, 3170, 3210, 3220, 4341[a], CHED4150, 4330, 4370, 4520, 4530, 4550, EDUC3150, 3200, 3280, 3290"
+    },
+    {
+      "course_code": "EDUC3280",
+      "prefix_inferred": true,
+      "evidence": "BECE2210, 3110[a], 3120, 3130, 3170, 3210, 3220, 4341[a], CHED4150, 4330, 4370, 4520, 4530, 4550, EDUC3150, 3200, 3280, 3290"
+    },
+    {
+      "course_code": "EDUC3290",
+      "prefix_inferred": true,
+      "evidence": "BECE2210, 3110[a], 3120, 3130, 3170, 3210, 3220, 4341[a], CHED4150, 4330, 4370, 4520, 4530, 4550, EDUC3150, 3200, 3280, 3290"
+    },
+    {
+      "course_code": "BECE3140",
+      "prefix_inferred": false,
+      "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+    },
+    {
+      "course_code": "BECE3150",
+      "prefix_inferred": true,
+      "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+    },
+    {
+      "course_code": "BECE3160",
+      "prefix_inferred": true,
+      "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+    },
+    {
+      "course_code": "BMBL1001",
+      "prefix_inferred": false,
+      "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+    },
+    {
+      "course_code": "LING1000",
+      "prefix_inferred": false,
+      "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+    },
+    {
+      "course_code": "LING2003",
+      "prefix_inferred": true,
+      "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+    },
+    {
+      "course_code": "LING2004",
+      "prefix_inferred": true,
+      "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+    },
+    {
+      "course_code": "LING3201",
+      "prefix_inferred": true,
+      "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+    },
+    {
+      "course_code": "LING3204",
+      "prefix_inferred": true,
+      "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+    },
+    {
+      "course_code": "LING3208",
+      "prefix_inferred": true,
+      "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+    },
+    {
+      "course_code": "MUSC1000",
+      "prefix_inferred": false,
+      "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+    },
+    {
+      "course_code": "MUSC2545",
+      "prefix_inferred": true,
+      "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+    },
+    {
+      "course_code": "MUSC2872",
+      "prefix_inferred": true,
+      "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+    },
+    {
+      "course_code": "MUSC2882",
+      "prefix_inferred": true,
+      "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+    },
+    {
+      "course_code": "MUSC3502",
+      "prefix_inferred": true,
+      "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+    },
+    {
+      "course_code": "MUSC3533",
+      "prefix_inferred": true,
+      "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+    },
+    {
+      "course_code": "PSYC1000",
+      "prefix_inferred": false,
+      "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+    },
+    {
+      "course_code": "PSYC2010",
+      "prefix_inferred": true,
+      "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+    },
+    {
+      "course_code": "PSYC2300",
+      "prefix_inferred": true,
+      "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+    },
+    {
+      "course_code": "PSYC2620",
+      "prefix_inferred": true,
+      "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+    },
+    {
+      "course_code": "SPED2141",
+      "prefix_inferred": false,
+      "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+    },
+    {
+      "course_code": "SPED3410",
+      "prefix_inferred": true,
+      "evidence": "BECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410"
+    },
+    {
+      "course_code": "BECE2110",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: BECE2110, 2310"
+    },
+    {
+      "course_code": "BECE2310",
+      "prefix_inferred": true,
+      "evidence": "Faculty Package: BECE2110, 2310"
+    },
+    {
+      "course_code": "BECE2120",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BECE2120, 2320"
+    },
+    {
+      "course_code": "BECE2320",
+      "prefix_inferred": true,
+      "evidence": "Major Required: BECE2120, 2320"
+    },
+    {
+      "course_code": "BECE2330",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BECE2330, 2510"
+    },
+    {
+      "course_code": "BECE2510",
+      "prefix_inferred": true,
+      "evidence": "Major Required: BECE2330, 2510"
+    },
+    {
+      "course_code": "EDUC2240",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: EDUC2240"
+    },
+    {
+      "course_code": "BECE2130",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BECE2130, 2140"
+    },
+    {
+      "course_code": "BECE2140",
+      "prefix_inferred": true,
+      "evidence": "Major Required: BECE2130, 2140"
+    },
+    {
+      "course_code": "CHED4340",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CHED4340, 4410, 4510"
+    },
+    {
+      "course_code": "CHED4410",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHED4340, 4410, 4510"
+    },
+    {
+      "course_code": "CHED4510",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHED4340, 4410, 4510"
+    },
+    {
+      "course_code": "CHED4320",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CHED4320, 4350, EDUC3201"
+    },
+    {
+      "course_code": "CHED4350",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHED4320, 4350, EDUC3201"
+    },
+    {
+      "course_code": "EDUC3201",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CHED4320, 4350, EDUC3201"
+    },
+    {
+      "course_code": "CHED4210",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CHED4210, 4310"
+    },
+    {
+      "course_code": "CHED4310",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHED4210, 4310"
+    },
+    {
+      "course_code": "BECE4010",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BECE4010, CHED4220"
+    },
+    {
+      "course_code": "CHED4220",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BECE4010, CHED4220"
+    },
+    {
+      "course_code": "BECE4020",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BECE4020"
+    },
+    {
+      "course_code": "BECE4540",
+      "prefix_inferred": false,
+      "evidence": "Major Required: BECE4540"
+    },
+    {
+      "course_code": "BECE2110",
+      "prefix_inferred": false,
+      "evidence": "BECE2110"
+    },
+    {
+      "course_code": "BECE2120",
+      "prefix_inferred": false,
+      "evidence": "BECE2120"
+    },
+    {
+      "course_code": "BECE2130",
+      "prefix_inferred": false,
+      "evidence": "BECE2130"
+    },
+    {
+      "course_code": "BECE2140",
+      "prefix_inferred": false,
+      "evidence": "BECE2140"
+    },
+    {
+      "course_code": "BECE2210",
+      "prefix_inferred": false,
+      "evidence": "BECE2210"
+    },
+    {
+      "course_code": "BECE2310",
+      "prefix_inferred": false,
+      "evidence": "BECE2310"
+    },
+    {
+      "course_code": "BECE2320",
+      "prefix_inferred": false,
+      "evidence": "BECE2320"
+    },
+    {
+      "course_code": "BECE2330",
+      "prefix_inferred": false,
+      "evidence": "BECE2330"
+    },
+    {
+      "course_code": "BECE2510",
+      "prefix_inferred": false,
+      "evidence": "BECE2510"
+    },
+    {
+      "course_code": "BECE3110",
+      "prefix_inferred": false,
+      "evidence": "BECE3110"
+    },
+    {
+      "course_code": "BECE3120",
+      "prefix_inferred": false,
+      "evidence": "BECE3120"
+    },
+    {
+      "course_code": "BECE3130",
+      "prefix_inferred": false,
+      "evidence": "BECE3130"
+    },
+    {
+      "course_code": "BECE3140",
+      "prefix_inferred": false,
+      "evidence": "BECE3140"
+    },
+    {
+      "course_code": "BECE3150",
+      "prefix_inferred": false,
+      "evidence": "BECE3150"
+    },
+    {
+      "course_code": "BECE3160",
+      "prefix_inferred": false,
+      "evidence": "BECE3160"
+    },
+    {
+      "course_code": "BECE3170",
+      "prefix_inferred": false,
+      "evidence": "BECE3170"
+    },
+    {
+      "course_code": "BECE3210",
+      "prefix_inferred": false,
+      "evidence": "BECE3210"
+    },
+    {
+      "course_code": "BECE3220",
+      "prefix_inferred": false,
+      "evidence": "BECE3220"
+    },
+    {
+      "course_code": "BECE4010",
+      "prefix_inferred": false,
+      "evidence": "BECE4010"
+    },
+    {
+      "course_code": "BECE4020",
+      "prefix_inferred": false,
+      "evidence": "BECE4020"
+    },
+    {
+      "course_code": "BECE4341",
+      "prefix_inferred": false,
+      "evidence": "BECE4341"
+    },
+    {
+      "course_code": "BECE4540",
+      "prefix_inferred": false,
+      "evidence": "BECE4540"
+    },
+    {
+      "course_code": "BMBL1001",
+      "prefix_inferred": false,
+      "evidence": "BMBL1001"
+    },
+    {
+      "course_code": "CHED4150",
+      "prefix_inferred": false,
+      "evidence": "CHED4150"
+    },
+    {
+      "course_code": "CHED4210",
+      "prefix_inferred": false,
+      "evidence": "CHED4210"
+    },
+    {
+      "course_code": "CHED4220",
+      "prefix_inferred": false,
+      "evidence": "CHED4220"
+    },
+    {
+      "course_code": "CHED4310",
+      "prefix_inferred": false,
+      "evidence": "CHED4310"
+    },
+    {
+      "course_code": "CHED4320",
+      "prefix_inferred": false,
+      "evidence": "CHED4320"
+    },
+    {
+      "course_code": "CHED4330",
+      "prefix_inferred": false,
+      "evidence": "CHED4330"
+    },
+    {
+      "course_code": "CHED4340",
+      "prefix_inferred": false,
+      "evidence": "CHED4340"
+    },
+    {
+      "course_code": "CHED4350",
+      "prefix_inferred": false,
+      "evidence": "CHED4350"
+    },
+    {
+      "course_code": "CHED4370",
+      "prefix_inferred": false,
+      "evidence": "CHED4370"
+    },
+    {
+      "course_code": "CHED4410",
+      "prefix_inferred": false,
+      "evidence": "CHED4410"
+    },
+    {
+      "course_code": "CHED4510",
+      "prefix_inferred": false,
+      "evidence": "CHED4510"
+    },
+    {
+      "course_code": "CHED4520",
+      "prefix_inferred": false,
+      "evidence": "CHED4520"
+    },
+    {
+      "course_code": "CHED4530",
+      "prefix_inferred": false,
+      "evidence": "CHED4530"
+    },
+    {
+      "course_code": "CHED4550",
+      "prefix_inferred": false,
+      "evidence": "CHED4550"
+    },
+    {
+      "course_code": "EDUC2240",
+      "prefix_inferred": false,
+      "evidence": "EDUC2240"
+    },
+    {
+      "course_code": "EDUC3150",
+      "prefix_inferred": false,
+      "evidence": "EDUC3150"
+    },
+    {
+      "course_code": "EDUC3200",
+      "prefix_inferred": false,
+      "evidence": "EDUC3200"
+    },
+    {
+      "course_code": "EDUC3201",
+      "prefix_inferred": false,
+      "evidence": "EDUC3201"
+    },
+    {
+      "course_code": "EDUC3280",
+      "prefix_inferred": false,
+      "evidence": "EDUC3280"
+    },
+    {
+      "course_code": "EDUC3290",
+      "prefix_inferred": false,
+      "evidence": "EDUC3290"
+    },
+    {
+      "course_code": "LING1000",
+      "prefix_inferred": false,
+      "evidence": "LING1000"
+    },
+    {
+      "course_code": "LING2003",
+      "prefix_inferred": false,
+      "evidence": "LING2003"
+    },
+    {
+      "course_code": "LING2004",
+      "prefix_inferred": false,
+      "evidence": "LING2004"
+    },
+    {
+      "course_code": "LING3201",
+      "prefix_inferred": false,
+      "evidence": "LING3201"
+    },
+    {
+      "course_code": "LING3204",
+      "prefix_inferred": false,
+      "evidence": "LING3204"
+    },
+    {
+      "course_code": "LING3208",
+      "prefix_inferred": false,
+      "evidence": "LING3208"
+    },
+    {
+      "course_code": "MUSC1000",
+      "prefix_inferred": false,
+      "evidence": "MUSC1000"
+    },
+    {
+      "course_code": "MUSC2545",
+      "prefix_inferred": false,
+      "evidence": "MUSC2545"
+    },
+    {
+      "course_code": "MUSC2872",
+      "prefix_inferred": false,
+      "evidence": "MUSC2872"
+    },
+    {
+      "course_code": "MUSC2882",
+      "prefix_inferred": false,
+      "evidence": "MUSC2882"
+    },
+    {
+      "course_code": "MUSC3502",
+      "prefix_inferred": false,
+      "evidence": "MUSC3502"
+    },
+    {
+      "course_code": "MUSC3533",
+      "prefix_inferred": false,
+      "evidence": "MUSC3533"
+    },
+    {
+      "course_code": "PSYC1000",
+      "prefix_inferred": false,
+      "evidence": "PSYC1000"
+    },
+    {
+      "course_code": "PSYC2010",
+      "prefix_inferred": false,
+      "evidence": "PSYC2010"
+    },
+    {
+      "course_code": "PSYC2300",
+      "prefix_inferred": false,
+      "evidence": "PSYC2300"
+    },
+    {
+      "course_code": "PSYC2620",
+      "prefix_inferred": false,
+      "evidence": "PSYC2620"
+    },
+    {
+      "course_code": "SPED2141",
+      "prefix_inferred": false,
+      "evidence": "SPED2141"
+    },
+    {
+      "course_code": "SPED3410",
+      "prefix_inferred": false,
+      "evidence": "SPED3410"
+    }
+  ],
+  "course_code_aliases": [],
+  "source": {
+    "system": "CUHK CUSIS Browse Program Information",
+    "url": "https://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/tt_dsp_acad_prog.aspx",
+    "source_text_file": "data/cuhk/2024/programmes/B_Ed_in_Early_Childhood_Education__Faculty_of_Education.txt",
+    "reused_duplicate_entry": false,
+    "reused_from_faculty": null
+  },
+  "raw_text": "\n\nBrowse Program Information\n\n\n\n\n\n\nAcademic Program:\tB.Ed. in Early Childhood Education\nAcademic Year:\t2024\nLanguage:\t\nEnglish\nSimplified Chinese\nTraditional Chinese\n\n\n\nLearning Outcomes\nStudy Scheme\n \n\n\t\n\nEarly Childhood Education\n\nApplicable to students admitted in 2024-25\n\n\n\n\n \n\n\n\n\n \n\nMajor Programme Requirement\n\n \n\n\n\n\nStudents are required to complete a minimum of 111 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nFaculty Package:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nBECE2110[a], 2310[a], EDUC2240\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nRequired Courses:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nCore Courses in Early Childhood Education\n\nBECE2120, 2130, 2140, 2320, 2330, 2510, CHED4210, 4220, 4310, 4340, 4350, 4410, 4510, EDUC3201\n\n\t\n\n40\n\n\n\n\n \n\n\t\n\nResearch Experience\n\nBECE4540[a], CHED4320\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nTeaching Practice\n\nBECE4010[a], 4020[a]\n\n\t\n\n10\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nElective Courses:\n\n\t\n\n46\n\n\n\n\n \n\n\t\n\n46 units of courses chosen from (a) and (b):\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nAt least 30 units of courses chosen from the following:\nBECE2210, 3110[a], 3120, 3130, 3170, 3210, 3220, 4341[a], CHED4150, 4330, 4370, 4520, 4530, 4550, EDUC3150, 3200, 3280, 3290\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nA maximum of 16 units of courses chosen from the following:\n\nBECE3140, 3150, 3160, BMBL1001, LING1000, 2003, 2004, 3201, 3204, 3208, MUSC1000, 2545, 2872, 2882, 3502, 3533, PSYC1000, 2010, 2300, 2620, SPED2141, 3410\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n111\n\n\n\n\n \n\n\n\n\nExplanatory Notes:\n\n\n\n\n1.\n\n\t\n\nBECE, CHED and EDUC courses at 2000 and above level will be included in the calculation of Major GPA for honours classification.\n\n\n\n\n[a]\n\n\t\n\nCapstone courses\n\n\n\n\n \n\n\t\n\n \n\n\n\n\n \n\n \n\n\t\n\nRecommended Course Pattern\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: BECE2110, 2310\n\n\t\n\n6\n\n\n\n\nMajor Elective(s): 3 units\n\n\t\n\n3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: BECE2120, 2320\n\n\t\n\n6\n\n\n\n\nMajor Elective(s): 3 units\n\n\t\n\n3\n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: BECE2330, 2510\n\n\t\n\n6\n\n\n\n\nMajor Elective(s): 5 units\n\n\t\n\n5\n\n\n\n\n2nd term\n\nFaculty Package: EDUC2240\n\n\t\n\n \n\n3\n\n\n\n\nMajor Required: BECE2130, 2140\n\n\t\n\n6\n\n\n\n\nMajor Elective(s): 6 units\n\n\t\n\n6\n\n\n\n\nThird Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: CHED4340, 4410, 4510\n\n\t\n\n8\n\n\n\n\nMajor Elective(s): 5 units\n\n\t\n\n5\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: CHED4320, 4350, EDUC3201\n\n\t\n\n8\n\n\n\n\nMajor Elective(s): 3 units\n\n\t\n\n3\n\n\n\n\nFourth Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: CHED4210, 4310\n\n\t\n\n6\n\n\n\n\nMajor Elective(s): 6 units\n\n\t\n\n6\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: BECE4010, CHED4220\n\n\t\n\n8\n\n\n\n\nMajor Elective(s): 5 units\n\n\t\n\n5\n\n\n\n\nFifth Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: BECE4020\n\n\t\n\n5\n\n\n\n\nMajor Elective(s): 4 units\n\n\t\n\n4\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: BECE4540\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): 6 units\n\n\t\n\n6\n\n\n\n\nTotal (including Faculty Package):\n\n\t\n\n111\n\n\n\n\n \n\n\n\n\nCourse List\n\n \n\n\n\n\nCourse Code\n\n\t\n\nCourse Title\n\n\t\n\nUnit(s)\n\n\n\n\nBECE2110\n\n\t\n\nPrinciples of Curriculum and Instruction Design for Early Childhood Education\n\n\t\n\n3\n\n\n\n\nBECE2120\n\n\t\n\nTeaching and Learning through Play in Early Childhood Education\n\n\t\n\n3\n\n\n\n\nBECE2130\n\n\t\n\nLanguage and Literacy in the Early Years\n\n\t\n\n3\n\n\n\n\nBECE2140\n\n\t\n\nSTEM Education and Early Math, Science Learning Experience\n\n\t\n\n3\n\n\n\n\nBECE2210\n\n\t\n\nFoundations of Education\n\n\t\n\n3\n\n\n\n\nBECE2310\n\n\t\n\nPsychological Development of Young Children\n\n\t\n\n3\n\n\n\n\nBECE2320\n\n\t\n\nSocial Emotional Development of Young Children\n\n\t\n\n3\n\n\n\n\nBECE2330\n\n\t\n\nPhysical and Motor Development of Young Children\n\n\t\n\n3\n\n\n\n\nBECE2510\n\n\t\n\nHealth, Nutrition and Safety for Young Children\n\n\t\n\n3\n\n\n\n\nBECE3110\n\n\t\n\nClassroom Communication for Early Childhood Teachers\n\n\t\n\n3\n\n\n\n\nBECE3120\n\n\t\n\nInclusive Education in Early Childhood Settings\n\n\t\n\n3\n\n\n\n\nBECE3130\n\n\t\n\nArt Therapy in Kindergarten Settings\n\n\t\n\n3\n\n\n\n\nBECE3140\n\n\t\n\nMusic Education for Young Children\n\n\t\n\n3\n\n\n\n\nBECE3150\n\n\t\n\nApplications of Digital Technology in Kindergartens\n\n\t\n\n3\n\n\n\n\nBECE3160\n\n\t\n\nAdvances in Curriculum Study in Early Childhood Education\n\n\t\n\n3\n\n\n\n\nBECE3170\n\n\t\n\nTheory and Practice for Infant and Toddler Care\n\n\t\n\n3\n\n\n\n\nBECE3210\n\n\t\n\nEarly Childhood Educational Policy and Practices in Hong Kong\n\n\t\n\n3\n\n\n\n\nBECE3220\n\n\t\n\nMulticultural Early Years Education in Hong Kong\n\n\t\n\n3\n\n\n\n\nBECE4010\n\n\t\n\nTeaching Practice I\n\n\t\n\n5\n\n\n\n\nBECE4020\n\n\t\n\nTeaching Practice II\n\n\t\n\n5\n\n\n\n\nBECE4341\n\n\t\n\nTeaching Strategies for Young Children with Special Educational Needs\n\n\t\n\n3\n\n\n\n\nBECE4540\n\n\t\n\nResearch Project\n\n\t\n\n3\n\n\n\n\nBMBL1001\n\n\t\n\nIntroduction to Sign Language and Bimodal Bilingualism\n\n\t\n\n3\n\n\n\n\nCHED4150\n\n\t\n\nChildren’s Literature\n\n\t\n\n2\n\n\n\n\nCHED4210\n\n\t\n\nLeadership and Management in Early Childhood Settings\n\n\t\n\n3\n\n\n\n\nCHED4220\n\n\t\n\nHome-School-Community Collaboration for School Development\n\n\t\n\n3\n\n\n\n\nCHED4310\n\n\t\n\nAesthetic Experience and Creative Expressions in Early Childhood\n\n\t\n\n3\n\n\n\n\nCHED4320\n\n\t\n\nIntroduction to Educational Research\n\n\t\n\n3\n\n\n\n\nCHED4330\n\n\t\n\nPersonal Growth of Teachers\n\n\t\n\n2\n\n\n\n\nCHED4340\n\n\t\n\nSupporting Preschool Children with Special Educational Needs\n\n\t\n\n3\n\n\n\n\nCHED4350\n\n\t\n\nAssessment for the Development and Learning of Young Children\n\n\t\n\n3\n\n\n\n\nCHED4370\n\n\t\n\nCounselling Young Children\n\n\t\n\n2\n\n\n\n\nCHED4410\n\n\t\n\nFundamental Movement Skill and Rhythmic Activity for Young Children\n\n\t\n\n3\n\n\n\n\nCHED4510\n\n\t\n\nValues Education in Early Childhood Education\n\n\t\n\n2\n\n\n\n\nCHED4520\n\n\t\n\nGuided Study in Issues of Child Development\n\n\t\n\n3\n\n\n\n\nCHED4530\n\n\t\n\nContemporary Issues in Early Childhood Education\n\n\t\n\n3\n\n\n\n\nCHED4550\n\n\t\n\nInternship\n\n\t\n\n3\n\n\n\n\nEDUC2240\n\n\t\n\nUnderstanding Schooling and Education Policy in Hong Kong\n\n\t\n\n3\n\n\n\n\nEDUC3150\n\n\t\n\nGlobal Dialogues on Education for Sustainable Development in the Curriculum\n\n\t\n\n2\n\n\n\n\nEDUC3200\n\n\t\n\nDeveloping Intercultural Competence: Experiential Learning\n\n\t\n\n3\n\n\n\n\nEDUC3201\n\n\t\n\nEthics and Professional Standards for Teachers\n\n\t\n\n2\n\n\n\n\nEDUC3280\n\n\t\n\nAn Introduction to Moral and Citizenship Education\n\n\t\n\n2\n\n\n\n\nEDUC3290\n\n\t\n\nMeaning Concerns, Life and Death Education\n\n\t\n\n2\n\n\n\n\nLING1000\n\n\t\n\nInvitation to Linguistics\n\n\t\n\n3\n\n\n\n\nLING2003\n\n\t\n\nPhonetics I\n\n\t\n\n3\n\n\n\n\nLING2004\n\n\t\n\nPhonology I\n\n\t\n\n3\n\n\n\n\nLING3201\n\n\t\n\nFirst Language Acquisition\n\n\t\n\n3\n\n\n\n\nLING3204\n\n\t\n\nSecond Language Acquisition\n\n\t\n\n3\n\n\n\n\nLING3208\n\n\t\n\nLanguage Disorders\n\n\t\n\n3\n\n\n\n\nMUSC1000\n\n\t\n\nThe Study of Music\n\n\t\n\n3\n\n\n\n\nMUSC2545\n\n\t\n\nMusic Therapy\n\n\t\n\n2\n\n\n\n\nMUSC2872\n\n\t\n\nHistory of Western Music I\n\n\t\n\n2\n\n\n\n\nMUSC2882\n\n\t\n\nHistory of Western Music II\n\n\t\n\n2\n\n\n\n\nMUSC3502\n\n\t\n\nVocal/Instrumental Pedagogy\n\n\t\n\n2\n\n\n\n\nMUSC3533\n\n\t\n\nPiano Pedagogy\n\n\t\n\n2\n\n\n\n\nPSYC1000\n\n\t\n\nGeneral Psychology\n\n\t\n\n3\n\n\n\n\nPSYC2010\n\n\t\n\nIntroduction to Statistics\n\n\t\n\n3\n\n\n\n\nPSYC2300\n\n\t\n\nBasic Learning Processes\n\n\t\n\n3\n\n\n\n\nPSYC2620\n\n\t\n\nSocial Psychology\n\n\t\n\n3\n\n\n\n\nSPED2141\n\n\t\n\nFundamental Movement and Dances\n\n\t\n\n1\n\n\n\n\nSPED3410\n\n\t\n\nCurriculum Planning for Physical Education\n\n\t\n\n3\n\n \n\n\n \n\nStudy Scheme\n\n\nLearning Outcomes\n \n\n\t\n\n1.\n\n\t\n\nMajor Programme:\n\n\n\n\nGraduates from this Progamme will have acquired\n\n\n\n\n(1)\n\n\t\n\nacquired knowledge on understanding the central concepts, tools of inquiry, and structures of early childhood education; (K/S)\n\n\n\n\n(2)\n\n\t\n\nacquired the ability to design curriculum and instructional plans based on children's diverse abilities; (K/S)\n\n\n\n\n(3)\n\n\t\n\napplied a variety of instructional strategies to encourage the development of curiosity, creativity, problem-solving and performance skills in children; (K/S)\n\n\n\n\n(4)\n\n\t\n\nacquired knowledge and skills on a variety of formal and informal assessment strategies, and to use various assessment strategies to evaluate and ensure the continuous all-round development of young learners; (K/S/V)\n\n\n\n\n(5)\n\n\t\n\ndemonstrated an understanding of the basic organizational and managerial theories, and ways to adopt appropriate strategies to contribute, independently and collegially, to the quality of their schools to the benefit of children, parents, the community; (K/S/V)\n\n\n\n\n(6)\n\n\t\n\nrecognized the complex characteristics of young children, young children's families and communities, and to appreciate respectful and reciprocal relationships that support children's development and learning; (K/S/V) and\n\n\n\n\n(7)\n\n\t\n\ndeveloped themselves to be innovative reflective practitioners who continually evaluate the effects of their choices and who actively research and implement new methods and seek out opportunities to grow professionally. (K/S/V)\n\n \n\nK = Knowledge outcomes   S = Skills outcomes    V = Values and attitudes outcomes\n\n \n\n \n\n\n"
+}

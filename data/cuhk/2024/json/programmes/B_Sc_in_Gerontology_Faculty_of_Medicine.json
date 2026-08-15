@@ -1,0 +1,474 @@
+{
+  "programme_id": "B_Sc_in_Gerontology__Faculty_of_Medicine",
+  "academic_program": "B.Sc. in Gerontology",
+  "faculty": "Faculty of Medicine",
+  "academic_year": 2024,
+  "admission_cohort": "2024-25",
+  "requirement_summary": {
+    "minimum_units_as_printed": "a minimum of 52 units",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Required Courses",
+        "units_as_printed": "46",
+        "course_mentions": [
+          {
+            "course_code": "GRON3111",
+            "prefix_inferred": false,
+            "evidence": "GRON3111, 3112, 3113, 3114, 3211, 3213, 3214, 3311, 4212, 4312 (capstone course), PHPC1001#, 1017#, 2015#, 2017#, 3015#"
+          },
+          {
+            "course_code": "GRON3112",
+            "prefix_inferred": true,
+            "evidence": "GRON3111, 3112, 3113, 3114, 3211, 3213, 3214, 3311, 4212, 4312 (capstone course), PHPC1001#, 1017#, 2015#, 2017#, 3015#"
+          },
+          {
+            "course_code": "GRON3113",
+            "prefix_inferred": true,
+            "evidence": "GRON3111, 3112, 3113, 3114, 3211, 3213, 3214, 3311, 4212, 4312 (capstone course), PHPC1001#, 1017#, 2015#, 2017#, 3015#"
+          },
+          {
+            "course_code": "GRON3114",
+            "prefix_inferred": true,
+            "evidence": "GRON3111, 3112, 3113, 3114, 3211, 3213, 3214, 3311, 4212, 4312 (capstone course), PHPC1001#, 1017#, 2015#, 2017#, 3015#"
+          },
+          {
+            "course_code": "GRON3211",
+            "prefix_inferred": true,
+            "evidence": "GRON3111, 3112, 3113, 3114, 3211, 3213, 3214, 3311, 4212, 4312 (capstone course), PHPC1001#, 1017#, 2015#, 2017#, 3015#"
+          },
+          {
+            "course_code": "GRON3213",
+            "prefix_inferred": true,
+            "evidence": "GRON3111, 3112, 3113, 3114, 3211, 3213, 3214, 3311, 4212, 4312 (capstone course), PHPC1001#, 1017#, 2015#, 2017#, 3015#"
+          },
+          {
+            "course_code": "GRON3214",
+            "prefix_inferred": true,
+            "evidence": "GRON3111, 3112, 3113, 3114, 3211, 3213, 3214, 3311, 4212, 4312 (capstone course), PHPC1001#, 1017#, 2015#, 2017#, 3015#"
+          },
+          {
+            "course_code": "GRON3311",
+            "prefix_inferred": true,
+            "evidence": "GRON3111, 3112, 3113, 3114, 3211, 3213, 3214, 3311, 4212, 4312 (capstone course), PHPC1001#, 1017#, 2015#, 2017#, 3015#"
+          },
+          {
+            "course_code": "GRON4212",
+            "prefix_inferred": true,
+            "evidence": "GRON3111, 3112, 3113, 3114, 3211, 3213, 3214, 3311, 4212, 4312 (capstone course), PHPC1001#, 1017#, 2015#, 2017#, 3015#"
+          },
+          {
+            "course_code": "GRON4312",
+            "prefix_inferred": true,
+            "evidence": "GRON3111, 3112, 3113, 3114, 3211, 3213, 3214, 3311, 4212, 4312 (capstone course), PHPC1001#, 1017#, 2015#, 2017#, 3015#"
+          },
+          {
+            "course_code": "PHPC1001",
+            "prefix_inferred": false,
+            "evidence": "GRON3111, 3112, 3113, 3114, 3211, 3213, 3214, 3311, 4212, 4312 (capstone course), PHPC1001#, 1017#, 2015#, 2017#, 3015#"
+          },
+          {
+            "course_code": "PHPC1017",
+            "prefix_inferred": true,
+            "evidence": "GRON3111, 3112, 3113, 3114, 3211, 3213, 3214, 3311, 4212, 4312 (capstone course), PHPC1001#, 1017#, 2015#, 2017#, 3015#"
+          },
+          {
+            "course_code": "PHPC2015",
+            "prefix_inferred": true,
+            "evidence": "GRON3111, 3112, 3113, 3114, 3211, 3213, 3214, 3311, 4212, 4312 (capstone course), PHPC1001#, 1017#, 2015#, 2017#, 3015#"
+          },
+          {
+            "course_code": "PHPC2017",
+            "prefix_inferred": true,
+            "evidence": "GRON3111, 3112, 3113, 3114, 3211, 3213, 3214, 3311, 4212, 4312 (capstone course), PHPC1001#, 1017#, 2015#, 2017#, 3015#"
+          },
+          {
+            "course_code": "PHPC3015",
+            "prefix_inferred": true,
+            "evidence": "GRON3111, 3112, 3113, 3114, 3211, 3213, 3214, 3311, 4212, 4312 (capstone course), PHPC1001#, 1017#, 2015#, 2017#, 3015#"
+          }
+        ],
+        "raw_text": "46\nGRON3111, 3112, 3113, 3114, 3211, 3213, 3214, 3311, 4212, 4312 (capstone course), PHPC1001#, 1017#, 2015#, 2017#, 3015#"
+      },
+      {
+        "number": 2,
+        "title": "Elective Courses",
+        "units_as_printed": "6",
+        "course_mentions": [
+          {
+            "course_code": "CHPR4012",
+            "prefix_inferred": false,
+            "evidence": "CHPR4012#, GRON3412, 4101, 4102, 4411, PHPC2007#, 2020#, 4025#, 4033#"
+          },
+          {
+            "course_code": "GRON3412",
+            "prefix_inferred": false,
+            "evidence": "CHPR4012#, GRON3412, 4101, 4102, 4411, PHPC2007#, 2020#, 4025#, 4033#"
+          },
+          {
+            "course_code": "GRON4101",
+            "prefix_inferred": true,
+            "evidence": "CHPR4012#, GRON3412, 4101, 4102, 4411, PHPC2007#, 2020#, 4025#, 4033#"
+          },
+          {
+            "course_code": "GRON4102",
+            "prefix_inferred": true,
+            "evidence": "CHPR4012#, GRON3412, 4101, 4102, 4411, PHPC2007#, 2020#, 4025#, 4033#"
+          },
+          {
+            "course_code": "GRON4411",
+            "prefix_inferred": true,
+            "evidence": "CHPR4012#, GRON3412, 4101, 4102, 4411, PHPC2007#, 2020#, 4025#, 4033#"
+          },
+          {
+            "course_code": "PHPC2007",
+            "prefix_inferred": false,
+            "evidence": "CHPR4012#, GRON3412, 4101, 4102, 4411, PHPC2007#, 2020#, 4025#, 4033#"
+          },
+          {
+            "course_code": "PHPC2020",
+            "prefix_inferred": true,
+            "evidence": "CHPR4012#, GRON3412, 4101, 4102, 4411, PHPC2007#, 2020#, 4025#, 4033#"
+          },
+          {
+            "course_code": "PHPC4025",
+            "prefix_inferred": true,
+            "evidence": "CHPR4012#, GRON3412, 4101, 4102, 4411, PHPC2007#, 2020#, 4025#, 4033#"
+          },
+          {
+            "course_code": "PHPC4033",
+            "prefix_inferred": true,
+            "evidence": "CHPR4012#, GRON3412, 4101, 4102, 4411, PHPC2007#, 2020#, 4025#, 4033#"
+          }
+        ],
+        "raw_text": "6\nTwo courses chosen from the following:\nCHPR4012#, GRON3412, 4101, 4102, 4411, PHPC2007#, 2020#, 4025#, 4033#\nTotal:\n52\nExplanatory Notes:"
+      }
+    ]
+  },
+  "all_course_mentions": [
+    {
+      "course_code": "GRON3111",
+      "prefix_inferred": false,
+      "evidence": "GRON3111, 3112, 3113, 3114, 3211, 3213, 3214, 3311, 4212, 4312 (capstone course), PHPC1001#, 1017#, 2015#, 2017#, 3015#"
+    },
+    {
+      "course_code": "GRON3112",
+      "prefix_inferred": true,
+      "evidence": "GRON3111, 3112, 3113, 3114, 3211, 3213, 3214, 3311, 4212, 4312 (capstone course), PHPC1001#, 1017#, 2015#, 2017#, 3015#"
+    },
+    {
+      "course_code": "GRON3113",
+      "prefix_inferred": true,
+      "evidence": "GRON3111, 3112, 3113, 3114, 3211, 3213, 3214, 3311, 4212, 4312 (capstone course), PHPC1001#, 1017#, 2015#, 2017#, 3015#"
+    },
+    {
+      "course_code": "GRON3114",
+      "prefix_inferred": true,
+      "evidence": "GRON3111, 3112, 3113, 3114, 3211, 3213, 3214, 3311, 4212, 4312 (capstone course), PHPC1001#, 1017#, 2015#, 2017#, 3015#"
+    },
+    {
+      "course_code": "GRON3211",
+      "prefix_inferred": true,
+      "evidence": "GRON3111, 3112, 3113, 3114, 3211, 3213, 3214, 3311, 4212, 4312 (capstone course), PHPC1001#, 1017#, 2015#, 2017#, 3015#"
+    },
+    {
+      "course_code": "GRON3213",
+      "prefix_inferred": true,
+      "evidence": "GRON3111, 3112, 3113, 3114, 3211, 3213, 3214, 3311, 4212, 4312 (capstone course), PHPC1001#, 1017#, 2015#, 2017#, 3015#"
+    },
+    {
+      "course_code": "GRON3214",
+      "prefix_inferred": true,
+      "evidence": "GRON3111, 3112, 3113, 3114, 3211, 3213, 3214, 3311, 4212, 4312 (capstone course), PHPC1001#, 1017#, 2015#, 2017#, 3015#"
+    },
+    {
+      "course_code": "GRON3311",
+      "prefix_inferred": true,
+      "evidence": "GRON3111, 3112, 3113, 3114, 3211, 3213, 3214, 3311, 4212, 4312 (capstone course), PHPC1001#, 1017#, 2015#, 2017#, 3015#"
+    },
+    {
+      "course_code": "GRON4212",
+      "prefix_inferred": true,
+      "evidence": "GRON3111, 3112, 3113, 3114, 3211, 3213, 3214, 3311, 4212, 4312 (capstone course), PHPC1001#, 1017#, 2015#, 2017#, 3015#"
+    },
+    {
+      "course_code": "GRON4312",
+      "prefix_inferred": true,
+      "evidence": "GRON3111, 3112, 3113, 3114, 3211, 3213, 3214, 3311, 4212, 4312 (capstone course), PHPC1001#, 1017#, 2015#, 2017#, 3015#"
+    },
+    {
+      "course_code": "PHPC1001",
+      "prefix_inferred": false,
+      "evidence": "GRON3111, 3112, 3113, 3114, 3211, 3213, 3214, 3311, 4212, 4312 (capstone course), PHPC1001#, 1017#, 2015#, 2017#, 3015#"
+    },
+    {
+      "course_code": "PHPC1017",
+      "prefix_inferred": true,
+      "evidence": "GRON3111, 3112, 3113, 3114, 3211, 3213, 3214, 3311, 4212, 4312 (capstone course), PHPC1001#, 1017#, 2015#, 2017#, 3015#"
+    },
+    {
+      "course_code": "PHPC2015",
+      "prefix_inferred": true,
+      "evidence": "GRON3111, 3112, 3113, 3114, 3211, 3213, 3214, 3311, 4212, 4312 (capstone course), PHPC1001#, 1017#, 2015#, 2017#, 3015#"
+    },
+    {
+      "course_code": "PHPC2017",
+      "prefix_inferred": true,
+      "evidence": "GRON3111, 3112, 3113, 3114, 3211, 3213, 3214, 3311, 4212, 4312 (capstone course), PHPC1001#, 1017#, 2015#, 2017#, 3015#"
+    },
+    {
+      "course_code": "PHPC3015",
+      "prefix_inferred": true,
+      "evidence": "GRON3111, 3112, 3113, 3114, 3211, 3213, 3214, 3311, 4212, 4312 (capstone course), PHPC1001#, 1017#, 2015#, 2017#, 3015#"
+    },
+    {
+      "course_code": "CHPR4012",
+      "prefix_inferred": false,
+      "evidence": "CHPR4012#, GRON3412, 4101, 4102, 4411, PHPC2007#, 2020#, 4025#, 4033#"
+    },
+    {
+      "course_code": "GRON3412",
+      "prefix_inferred": false,
+      "evidence": "CHPR4012#, GRON3412, 4101, 4102, 4411, PHPC2007#, 2020#, 4025#, 4033#"
+    },
+    {
+      "course_code": "GRON4101",
+      "prefix_inferred": true,
+      "evidence": "CHPR4012#, GRON3412, 4101, 4102, 4411, PHPC2007#, 2020#, 4025#, 4033#"
+    },
+    {
+      "course_code": "GRON4102",
+      "prefix_inferred": true,
+      "evidence": "CHPR4012#, GRON3412, 4101, 4102, 4411, PHPC2007#, 2020#, 4025#, 4033#"
+    },
+    {
+      "course_code": "GRON4411",
+      "prefix_inferred": true,
+      "evidence": "CHPR4012#, GRON3412, 4101, 4102, 4411, PHPC2007#, 2020#, 4025#, 4033#"
+    },
+    {
+      "course_code": "PHPC2007",
+      "prefix_inferred": false,
+      "evidence": "CHPR4012#, GRON3412, 4101, 4102, 4411, PHPC2007#, 2020#, 4025#, 4033#"
+    },
+    {
+      "course_code": "PHPC2020",
+      "prefix_inferred": true,
+      "evidence": "CHPR4012#, GRON3412, 4101, 4102, 4411, PHPC2007#, 2020#, 4025#, 4033#"
+    },
+    {
+      "course_code": "PHPC4025",
+      "prefix_inferred": true,
+      "evidence": "CHPR4012#, GRON3412, 4101, 4102, 4411, PHPC2007#, 2020#, 4025#, 4033#"
+    },
+    {
+      "course_code": "PHPC4033",
+      "prefix_inferred": true,
+      "evidence": "CHPR4012#, GRON3412, 4101, 4102, 4411, PHPC2007#, 2020#, 4025#, 4033#"
+    },
+    {
+      "course_code": "GRON3112",
+      "prefix_inferred": false,
+      "evidence": "Major Required: GRON3112, 3211, PHPC1001, 2015, 2017"
+    },
+    {
+      "course_code": "GRON3211",
+      "prefix_inferred": true,
+      "evidence": "Major Required: GRON3112, 3211, PHPC1001, 2015, 2017"
+    },
+    {
+      "course_code": "PHPC1001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: GRON3112, 3211, PHPC1001, 2015, 2017"
+    },
+    {
+      "course_code": "PHPC2015",
+      "prefix_inferred": true,
+      "evidence": "Major Required: GRON3112, 3211, PHPC1001, 2015, 2017"
+    },
+    {
+      "course_code": "PHPC2017",
+      "prefix_inferred": true,
+      "evidence": "Major Required: GRON3112, 3211, PHPC1001, 2015, 2017"
+    },
+    {
+      "course_code": "GRON3111",
+      "prefix_inferred": false,
+      "evidence": "Major Required: GRON3111, 3113, 3213, 3311, PHPC1017"
+    },
+    {
+      "course_code": "GRON3113",
+      "prefix_inferred": true,
+      "evidence": "Major Required: GRON3111, 3113, 3213, 3311, PHPC1017"
+    },
+    {
+      "course_code": "GRON3213",
+      "prefix_inferred": true,
+      "evidence": "Major Required: GRON3111, 3113, 3213, 3311, PHPC1017"
+    },
+    {
+      "course_code": "GRON3311",
+      "prefix_inferred": true,
+      "evidence": "Major Required: GRON3111, 3113, 3213, 3311, PHPC1017"
+    },
+    {
+      "course_code": "PHPC1017",
+      "prefix_inferred": false,
+      "evidence": "Major Required: GRON3111, 3113, 3213, 3311, PHPC1017"
+    },
+    {
+      "course_code": "GRON3114",
+      "prefix_inferred": false,
+      "evidence": "Major Required: GRON3114, 4312"
+    },
+    {
+      "course_code": "GRON4312",
+      "prefix_inferred": true,
+      "evidence": "Major Required: GRON3114, 4312"
+    },
+    {
+      "course_code": "GRON3214",
+      "prefix_inferred": false,
+      "evidence": "Major Required: GRON3214, 4212, PHPC3015"
+    },
+    {
+      "course_code": "GRON4212",
+      "prefix_inferred": true,
+      "evidence": "Major Required: GRON3214, 4212, PHPC3015"
+    },
+    {
+      "course_code": "PHPC3015",
+      "prefix_inferred": false,
+      "evidence": "Major Required: GRON3214, 4212, PHPC3015"
+    },
+    {
+      "course_code": "CHPR4012",
+      "prefix_inferred": false,
+      "evidence": "CHPR4012"
+    },
+    {
+      "course_code": "GRON3111",
+      "prefix_inferred": false,
+      "evidence": "GRON3111"
+    },
+    {
+      "course_code": "GRON3112",
+      "prefix_inferred": false,
+      "evidence": "GRON3112"
+    },
+    {
+      "course_code": "GRON3113",
+      "prefix_inferred": false,
+      "evidence": "GRON3113"
+    },
+    {
+      "course_code": "GRON3114",
+      "prefix_inferred": false,
+      "evidence": "GRON3114"
+    },
+    {
+      "course_code": "GRON3211",
+      "prefix_inferred": false,
+      "evidence": "GRON3211"
+    },
+    {
+      "course_code": "GRON3213",
+      "prefix_inferred": false,
+      "evidence": "GRON3213"
+    },
+    {
+      "course_code": "GRON3214",
+      "prefix_inferred": false,
+      "evidence": "GRON3214"
+    },
+    {
+      "course_code": "GRON3311",
+      "prefix_inferred": false,
+      "evidence": "GRON3311"
+    },
+    {
+      "course_code": "GRON3412",
+      "prefix_inferred": false,
+      "evidence": "GRON3412"
+    },
+    {
+      "course_code": "GRON4101",
+      "prefix_inferred": false,
+      "evidence": "GRON4101"
+    },
+    {
+      "course_code": "GRON4102",
+      "prefix_inferred": false,
+      "evidence": "GRON4102"
+    },
+    {
+      "course_code": "GRON4212",
+      "prefix_inferred": false,
+      "evidence": "GRON4212"
+    },
+    {
+      "course_code": "GRON4312",
+      "prefix_inferred": false,
+      "evidence": "GRON4312"
+    },
+    {
+      "course_code": "GRON4411",
+      "prefix_inferred": false,
+      "evidence": "GRON4411"
+    },
+    {
+      "course_code": "PHPC1001",
+      "prefix_inferred": false,
+      "evidence": "PHPC1001"
+    },
+    {
+      "course_code": "PHPC1017",
+      "prefix_inferred": false,
+      "evidence": "PHPC1017"
+    },
+    {
+      "course_code": "PHPC2007",
+      "prefix_inferred": false,
+      "evidence": "PHPC2007"
+    },
+    {
+      "course_code": "PHPC2015",
+      "prefix_inferred": false,
+      "evidence": "PHPC2015"
+    },
+    {
+      "course_code": "PHPC2017",
+      "prefix_inferred": false,
+      "evidence": "PHPC2017"
+    },
+    {
+      "course_code": "PHPC2020",
+      "prefix_inferred": false,
+      "evidence": "PHPC2020"
+    },
+    {
+      "course_code": "PHPC3015",
+      "prefix_inferred": false,
+      "evidence": "PHPC3015"
+    },
+    {
+      "course_code": "PHPC4025",
+      "prefix_inferred": false,
+      "evidence": "PHPC4025"
+    },
+    {
+      "course_code": "PHPC4033",
+      "prefix_inferred": false,
+      "evidence": "PHPC4033"
+    }
+  ],
+  "course_code_aliases": [],
+  "source": {
+    "system": "CUHK CUSIS Browse Program Information",
+    "url": "https://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/tt_dsp_acad_prog.aspx",
+    "source_text_file": "data/cuhk/2024/programmes/B_Sc_in_Gerontology__Faculty_of_Medicine.txt",
+    "reused_duplicate_entry": false,
+    "reused_from_faculty": null
+  },
+  "raw_text": "\n\nBrowse Program Information\n\n\n\n\n\n\nAcademic Program:\tB.Sc. in Gerontology\nAcademic Year:\t2024\nLanguage:\t\nEnglish\nSimplified Chinese\nTraditional Chinese\n\n\n\nLearning Outcomes\nStudy Scheme\n \n\n\t\n\nGerontology\n\nApplicable to students admitted in 2024-25\n\n\t\n\n \n\n\n\n\n \n\n\n\n\n \n\nMajor Programme Requirement (for Associate Degree or Higher Diploma holders admitted to senior-year places)\n\n \n\n\t\n\n \n\n\n\n\nStudents are required to complete a minimum of 52 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nRequired Courses:\n\n\t\n\n46 \n\n\n\n\n \n\n\t\n\nGRON3111, 3112, 3113, 3114, 3211, 3213, 3214, 3311, 4212, 4312 (capstone course), PHPC1001#, 1017#, 2015#, 2017#, 3015#\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nElective Courses:\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nTwo courses chosen from the following:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nCHPR4012#, GRON3412, 4101, 4102, 4411, PHPC2007#, 2020#, 4025#, 4033#\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n52\n\n\n\n\n \n\nExplanatory Notes:\n\n\n\n\n1.\n\n\t\n\nGRON courses at 2000 and above level as well as those labeled as # will be included in the calculation of Major GPA for honours classification.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\n \n\n\n\n\n \n\n\t\n\nRecommended Course Pattern\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\nMajor Required: GRON3112, 3211, PHPC1001, 2015, 2017\n\nMajor Elective(s):\n\n\t\n\n \n\n14\n\n\n\n\n2nd term\n\nMajor Required: GRON3111, 3113, 3213, 3311, PHPC1017\n\nMajor Elective(s):\n\n\t\n\n \n\n13\n\n \n\n\n\n\nSecond Year of\n\nAttendance\n\n\t\n\n1st term\n\nMajor Required: GRON3114, 4312\n\nMajor Elective(s):\n\n\t\n\n \n\n11\n\n \n\n\n\n\n2nd term\n\nMajor Required: GRON3214, 4212, PHPC3015\n\nMajor Elective(s): 2 courses\n\n\t\n\n \n\n8\n\n6\n\n\n\n\nTotal:\n\n\t\n\n52\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nCourse List\n\n\n\n\nCourse Code\n\n\t\n\nCourse Title\n\n\t\n\nUnit(s)\n\n\n\n\nCHPR4012\n\n\t\n\nMental Health as a Public Health Issue\n\n\t\n\n3\n\n\n\n\nGRON3111\n\n\t\n\nAgeing, Health and Society\n\n\t\n\n3\n\n\n\n\nGRON3112\n\n\t\n\nBasic Care in Gerontology\n\n\t\n\n3\n\n\n\n\nGRON3113\n\n\t\n\nPromoting Successful Ageing: Individual and Societal\n\nPerspectives\n\n\t\n\n3\n\n\n\n\nGRON3114\n\n\t\n\nPsychology in Ageing: Theories and Application\n\n\t\n\n3\n\n\n\n\nGRON3211\n\n\t\n\nChronic Disease Management\n\n\t\n\n3\n\n\n\n\nGRON3213\n\n\t\n\nDementia: Prevention and Management\n\n\t\n\n3\n\n\n\n\nGRON3214\n\n\t\n\nEthical and Financial Issues in Ageing\n\n\t\n\n2@\n\n\n\n\nGRON3311\n\n\t\n\nAged Care Service Planning and Delivery Models\n\n\t\n\n3\n\n\n\n\nGRON3412\n\n\t\n\nInnovations and Evidence-based Practice for Aged Care\n\nServices\n\n\t\n\n3\n\n\n\n\nGRON4101\n\n\t\n\nSpecial Topics in Gerontology I\n\n\t\n\n3\n\n\n\n\nGRON4102\n\n\t\n\nSpecial Topics in Gerontology II\n\n\t\n\n3\n\n\n\n\nGRON4212\n\n\t\n\nDeath, Dying and End-of-life Care\n\n\t\n\n3\n\n\n\n\nGRON4312\n\n\t\n\nGerontological Practicum\n\n\t\n\n8^\n\n\n\n\nGRON4411\n\n\t\n\nHealth and Social Care Policy in Ageing\n\n\t\n\n3\n\n\n\n\nPHPC1001\n\n\t\n\nFoundations in Public Health\n\n\t\n\n2\n\n\n\n\nPHPC1017\n\n\t\n\nPrinciples of Infectious Diseases\n\n\t\n\n1\n\n\n\n\nPHPC2007\n\n\t\n\nNutrition for Health and Exercise\n\n\t\n\n3\n\n\n\n\nPHPC2015\n\n\t\n\nBiostatistics\n\n\t\n\n3\n\n\n\n\nPHPC2017\n\n\t\n\nEpidemiology\n\n\t\n\n3\n\n\n\n\nPHPC2020\n\n\t\n\nCommunity-based Learning for Healthy Ageing\n\n\t\n\n3\n\n\n\n\nPHPC3015\n\n\t\n\nPractical Skills in the Public Health Management of Infectious Diseases\n\n\t\n\n3\n\n\n\n\nPHPC4025\n\n\t\n\nIntroduction to Data Science in Environmental Health and Medicine\n\n\t\n\n3\n\n\n\n\nPHPC4033\n\n\t\n\nMedical Sociology\n\n\t\n\n3\n\n\n\t\t\t\n\n \n\n@ Course units changed from 1 unit to 2 units with effect from 2025-26.\n\n^ Course units changed from 9 units to 8 units with effect from 2025-26.\n\n \n\n \n\n \n\n\n \n\nStudy Scheme\n\n\nLearning Outcomes\n \n\n\t\n\n1.          Major Programme:\n\nUpon programme completion, graduates will have acquired the ability to:\n\n(1)      demonstrate mastery of fundamental concepts involved in meeting the health and social care needs of the aging population, including\n\n- the biological, physical, psychological, and social aspects of ageing;\n\n- successful aging;\n\n- chronic disease management for older people;\n\n- community/residential care service planning;\n\n- interdisciplinary aged care service planning, administration, coordination, and delivery; (K)\n\n(2)      demonstrate the skills needed in assessing and delivering evidence-based care for older people in the community, rehabilitative, and residential care settings; (K/S)\n\n(3)      plan and coordinate aged care services within and across these settings; (K/S)\n\n(4)      critically evaluate the impacts of the changing health care, social, and cultural contexts and contemporary policies on decision-making for aged care service planning, coordination, evaluation, and re-engineering; (K/V)\n\n(5)      assess, interpret, and apply innovative health and social care models in evaluating and re-engineering aged care services within and across the community, rehabilitative and residential care settings; (K/S/V)\n\n(6)      work effectively with other professionals involved in aged care service provision and apply the interdisciplinary collaborative care model in planning and coordinating these services; (K/S/V)\n\n(7)       demonstrate effective communication and interpersonal skills in dealing with older people, their caregivers and families, and other professionals involved in the provision of aged care services; (K/S/V)\n\n(8)       demonstrate the ability to advocate best practices and assume a leadership role in coordinating and fostering interprofessional practice; (K/S/V)\n\n(9)       drive social innovation in practice and lead innovation in aged care; (K/S/V)\n\n(10)  exhibit professionalism in practice and adhere to legal and ethical standards of aged care; (K/S)\n\n(11)  demonstrate mastery of research skills and utilise research evidence in the provision of aged care services; (K/S) and\n\n(12)  display personal and social responsibility and engage in lifelong learning and personal development. (V)\n\n \n\nK = Knowledge outcomes       S = Skills outcomes       V = Values and attitudes outcomes\n\n \n\n \n\n \n\n\n"
+}

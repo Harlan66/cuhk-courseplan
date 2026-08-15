@@ -1,0 +1,1706 @@
+{
+  "programme_id": "B_A_in_Philosophy__Faculty_of_Arts",
+  "academic_program": "B.A. in Philosophy",
+  "faculty": "Faculty of Arts",
+  "academic_year": 2024,
+  "admission_cohort": "2024-25",
+  "requirement_summary": {
+    "minimum_units_as_printed": "a minimum of 72 units",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Faculty Package",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "PHIL1110",
+            "prefix_inferred": false,
+            "evidence": "PHIL1110* and any two courses from:"
+          },
+          {
+            "course_code": "ANTH1020",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "ARTS1005",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "ARTS1009",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "ARTS1010",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "BMBL1001",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CHES1101",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CHES1102",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CHLL1900",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CHLL1902",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CHLL1903",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CURE1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CURE1110",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CURE1400",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "ENGE1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "FAAS1900",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "HIST1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "HIST1700",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "HIST1701",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "JASP1090",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "LING1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "MUSC1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "THEO1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "TRAN1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+          }
+        ],
+        "raw_text": "9\nPHIL1110* and any two courses from:\nANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+      },
+      {
+        "number": 2,
+        "title": "Required Courses",
+        "units_as_printed": "30",
+        "course_mentions": [
+          {
+            "course_code": "PHIL1110",
+            "prefix_inferred": false,
+            "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 2060, 3000, 3800, 3820, 4800 (Capstone course)"
+          },
+          {
+            "course_code": "PHIL1310",
+            "prefix_inferred": true,
+            "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 2060, 3000, 3800, 3820, 4800 (Capstone course)"
+          },
+          {
+            "course_code": "PHIL2020",
+            "prefix_inferred": true,
+            "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 2060, 3000, 3800, 3820, 4800 (Capstone course)"
+          },
+          {
+            "course_code": "PHIL2030",
+            "prefix_inferred": true,
+            "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 2060, 3000, 3800, 3820, 4800 (Capstone course)"
+          },
+          {
+            "course_code": "PHIL2040",
+            "prefix_inferred": true,
+            "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 2060, 3000, 3800, 3820, 4800 (Capstone course)"
+          },
+          {
+            "course_code": "PHIL2050",
+            "prefix_inferred": true,
+            "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 2060, 3000, 3800, 3820, 4800 (Capstone course)"
+          },
+          {
+            "course_code": "PHIL2060",
+            "prefix_inferred": true,
+            "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 2060, 3000, 3800, 3820, 4800 (Capstone course)"
+          },
+          {
+            "course_code": "PHIL3000",
+            "prefix_inferred": true,
+            "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 2060, 3000, 3800, 3820, 4800 (Capstone course)"
+          },
+          {
+            "course_code": "PHIL3800",
+            "prefix_inferred": true,
+            "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 2060, 3000, 3800, 3820, 4800 (Capstone course)"
+          },
+          {
+            "course_code": "PHIL3820",
+            "prefix_inferred": true,
+            "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 2060, 3000, 3800, 3820, 4800 (Capstone course)"
+          },
+          {
+            "course_code": "PHIL4800",
+            "prefix_inferred": true,
+            "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 2060, 3000, 3800, 3820, 4800 (Capstone course)"
+          }
+        ],
+        "raw_text": "30\nPHIL1110*, 1310, 2020, 2030, 2040, 2050, 2060, 3000, 3800, 3820, 4800 (Capstone course)"
+      },
+      {
+        "number": 3,
+        "title": "Elective Courses",
+        "units_as_printed": "33",
+        "course_mentions": [
+          {
+            "course_code": "PHIL1110",
+            "prefix_inferred": false,
+            "evidence": "All Philosophy courses other than PHIL1110 and the 30 units of required courses listed in (2) are elective courses. Students are required to take at least 6 units each from Areas 1, 2 and 3. Final year students are allowed to take a maximum of 6 units of courses from Area 5."
+          },
+          {
+            "course_code": "PHIL1110",
+            "prefix_inferred": false,
+            "evidence": "* PHIL1110 counted as Faculty package units only."
+          }
+        ],
+        "raw_text": "33\nAll Philosophy courses other than PHIL1110 and the 30 units of required courses listed in (2) are elective courses. Students are required to take at least 6 units each from Areas 1, 2 and 3. Final year students are allowed to take a maximum of 6 units of courses from Area 5.\nTotal:\n72\n* PHIL1110 counted as Faculty package units only.\nExplanatory Notes:"
+      },
+      {
+        "number": 1,
+        "title": "Faculty Package",
+        "units_as_printed": "3",
+        "course_mentions": [
+          {
+            "course_code": "PHIL1110",
+            "prefix_inferred": false,
+            "evidence": "PHIL1110*"
+          }
+        ],
+        "raw_text": "3\nPHIL1110*"
+      },
+      {
+        "number": 2,
+        "title": "Required Courses",
+        "units_as_printed": "24",
+        "course_mentions": [
+          {
+            "course_code": "PHIL1110",
+            "prefix_inferred": false,
+            "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 4800 and two courses from PHIL3000, 3800, 3820"
+          },
+          {
+            "course_code": "PHIL1310",
+            "prefix_inferred": true,
+            "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 4800 and two courses from PHIL3000, 3800, 3820"
+          },
+          {
+            "course_code": "PHIL2020",
+            "prefix_inferred": true,
+            "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 4800 and two courses from PHIL3000, 3800, 3820"
+          },
+          {
+            "course_code": "PHIL2030",
+            "prefix_inferred": true,
+            "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 4800 and two courses from PHIL3000, 3800, 3820"
+          },
+          {
+            "course_code": "PHIL2040",
+            "prefix_inferred": true,
+            "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 4800 and two courses from PHIL3000, 3800, 3820"
+          },
+          {
+            "course_code": "PHIL2050",
+            "prefix_inferred": true,
+            "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 4800 and two courses from PHIL3000, 3800, 3820"
+          },
+          {
+            "course_code": "PHIL4800",
+            "prefix_inferred": true,
+            "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 4800 and two courses from PHIL3000, 3800, 3820"
+          },
+          {
+            "course_code": "PHIL3000",
+            "prefix_inferred": false,
+            "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 4800 and two courses from PHIL3000, 3800, 3820"
+          },
+          {
+            "course_code": "PHIL3800",
+            "prefix_inferred": true,
+            "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 4800 and two courses from PHIL3000, 3800, 3820"
+          },
+          {
+            "course_code": "PHIL3820",
+            "prefix_inferred": true,
+            "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 4800 and two courses from PHIL3000, 3800, 3820"
+          }
+        ],
+        "raw_text": "24\nPHIL1110*, 1310, 2020, 2030, 2040, 2050, 4800 and two courses from PHIL3000, 3800, 3820"
+      },
+      {
+        "number": 3,
+        "title": "Elective Courses",
+        "units_as_printed": "27",
+        "course_mentions": [
+          {
+            "course_code": "PHIL3000",
+            "prefix_inferred": false,
+            "evidence": "All Philosophy courses (including PHIL3000/3800/3820 not taken to fulfill requirement (2) above) on the course list other than the 27 units of required courses listed in (1) and (2) are elective courses. Students are required to take at least 3 units each from Areas 1, 2 and 3. Final year students are allowed to take a maximum of 6 units of courses from Area 5."
+          },
+          {
+            "course_code": "PHIL3800",
+            "prefix_inferred": true,
+            "evidence": "All Philosophy courses (including PHIL3000/3800/3820 not taken to fulfill requirement (2) above) on the course list other than the 27 units of required courses listed in (1) and (2) are elective courses. Students are required to take at least 3 units each from Areas 1, 2 and 3. Final year students are allowed to take a maximum of 6 units of courses from Area 5."
+          },
+          {
+            "course_code": "PHIL3820",
+            "prefix_inferred": true,
+            "evidence": "All Philosophy courses (including PHIL3000/3800/3820 not taken to fulfill requirement (2) above) on the course list other than the 27 units of required courses listed in (1) and (2) are elective courses. Students are required to take at least 3 units each from Areas 1, 2 and 3. Final year students are allowed to take a maximum of 6 units of courses from Area 5."
+          },
+          {
+            "course_code": "PHIL1110",
+            "prefix_inferred": false,
+            "evidence": "* Units of PHIL1110 counted as Faculty package units only."
+          }
+        ],
+        "raw_text": "27\nAll Philosophy courses (including PHIL3000/3800/3820 not taken to fulfill requirement (2) above) on the course list other than the 27 units of required courses listed in (1) and (2) are elective courses. Students are required to take at least 3 units each from Areas 1, 2 and 3. Final year students are allowed to take a maximum of 6 units of courses from Area 5.\nTotal:\n54\n* Units of PHIL1110 counted as Faculty package units only.\nExplanatory Notes:"
+      },
+      {
+        "number": 1,
+        "title": "Required Course",
+        "units_as_printed": "3",
+        "course_mentions": [
+          {
+            "course_code": "PHIL1110",
+            "prefix_inferred": false,
+            "evidence": "PHIL1110"
+          }
+        ],
+        "raw_text": "3\nPHIL1110"
+      },
+      {
+        "number": 2,
+        "title": "Elective Courses",
+        "units_as_printed": "15",
+        "course_mentions": [
+          {
+            "course_code": "PHIL1110",
+            "prefix_inferred": false,
+            "evidence": "PHIL courses other than PHIL1110 are elective courses. Students are required to take at least 6 units of courses at 3000 or above level."
+          },
+          {
+            "course_code": "PHIL1110",
+            "prefix_inferred": false,
+            "evidence": "PHIL1110"
+          },
+          {
+            "course_code": "PHIL1310",
+            "prefix_inferred": false,
+            "evidence": "PHIL1310"
+          },
+          {
+            "course_code": "PHIL2020",
+            "prefix_inferred": false,
+            "evidence": "PHIL2020"
+          },
+          {
+            "course_code": "PHIL2030",
+            "prefix_inferred": false,
+            "evidence": "PHIL2030"
+          },
+          {
+            "course_code": "PHIL2040",
+            "prefix_inferred": false,
+            "evidence": "PHIL2040"
+          },
+          {
+            "course_code": "PHIL2050",
+            "prefix_inferred": false,
+            "evidence": "PHIL2050"
+          },
+          {
+            "course_code": "PHIL2060",
+            "prefix_inferred": false,
+            "evidence": "PHIL2060"
+          },
+          {
+            "course_code": "PHIL3000",
+            "prefix_inferred": false,
+            "evidence": "PHIL3000"
+          },
+          {
+            "course_code": "PHIL3800",
+            "prefix_inferred": false,
+            "evidence": "PHIL3800"
+          },
+          {
+            "course_code": "PHIL3820",
+            "prefix_inferred": false,
+            "evidence": "PHIL3820"
+          },
+          {
+            "course_code": "PHIL4800",
+            "prefix_inferred": false,
+            "evidence": "PHIL4800"
+          },
+          {
+            "course_code": "PHIL2301",
+            "prefix_inferred": false,
+            "evidence": "PHIL2301"
+          },
+          {
+            "course_code": "PHIL3111",
+            "prefix_inferred": false,
+            "evidence": "PHIL3111"
+          },
+          {
+            "course_code": "PHIL3131",
+            "prefix_inferred": false,
+            "evidence": "PHIL3131"
+          },
+          {
+            "course_code": "PHIL3141",
+            "prefix_inferred": false,
+            "evidence": "PHIL3141"
+          },
+          {
+            "course_code": "PHIL3191",
+            "prefix_inferred": false,
+            "evidence": "PHIL3191"
+          },
+          {
+            "course_code": "PHIL3211",
+            "prefix_inferred": false,
+            "evidence": "PHIL3211"
+          },
+          {
+            "course_code": "PHIL3531",
+            "prefix_inferred": false,
+            "evidence": "PHIL3531"
+          },
+          {
+            "course_code": "PHIL3541",
+            "prefix_inferred": false,
+            "evidence": "PHIL3541"
+          },
+          {
+            "course_code": "PHIL3551",
+            "prefix_inferred": false,
+            "evidence": "PHIL3551"
+          },
+          {
+            "course_code": "PHIL3561",
+            "prefix_inferred": false,
+            "evidence": "PHIL3561"
+          },
+          {
+            "course_code": "PHIL4111",
+            "prefix_inferred": false,
+            "evidence": "PHIL4111"
+          },
+          {
+            "course_code": "PHIL4121",
+            "prefix_inferred": false,
+            "evidence": "PHIL4121"
+          },
+          {
+            "course_code": "PHIL4131",
+            "prefix_inferred": false,
+            "evidence": "PHIL4131"
+          },
+          {
+            "course_code": "PHIL4141",
+            "prefix_inferred": false,
+            "evidence": "PHIL4141"
+          },
+          {
+            "course_code": "PHIL4351",
+            "prefix_inferred": false,
+            "evidence": "PHIL4351"
+          },
+          {
+            "course_code": "PHIL4361",
+            "prefix_inferred": false,
+            "evidence": "PHIL4361"
+          },
+          {
+            "course_code": "PHIL4371",
+            "prefix_inferred": false,
+            "evidence": "PHIL4371"
+          },
+          {
+            "course_code": "PHIL4381",
+            "prefix_inferred": false,
+            "evidence": "PHIL4381"
+          },
+          {
+            "course_code": "PHIL2202",
+            "prefix_inferred": false,
+            "evidence": "PHIL2202"
+          },
+          {
+            "course_code": "PHIL2302",
+            "prefix_inferred": false,
+            "evidence": "PHIL2302"
+          },
+          {
+            "course_code": "PHIL3152",
+            "prefix_inferred": false,
+            "evidence": "PHIL3152"
+          },
+          {
+            "course_code": "PHIL3172",
+            "prefix_inferred": false,
+            "evidence": "PHIL3172"
+          },
+          {
+            "course_code": "PHIL3302",
+            "prefix_inferred": false,
+            "evidence": "PHIL3302"
+          },
+          {
+            "course_code": "PHIL3312",
+            "prefix_inferred": false,
+            "evidence": "PHIL3312"
+          },
+          {
+            "course_code": "PHIL3592",
+            "prefix_inferred": false,
+            "evidence": "PHIL3592"
+          },
+          {
+            "course_code": "PHIL3652",
+            "prefix_inferred": false,
+            "evidence": "PHIL3652"
+          },
+          {
+            "course_code": "PHIL3662",
+            "prefix_inferred": false,
+            "evidence": "PHIL3662"
+          },
+          {
+            "course_code": "PHIL3672",
+            "prefix_inferred": false,
+            "evidence": "PHIL3672"
+          },
+          {
+            "course_code": "PHIL4232",
+            "prefix_inferred": false,
+            "evidence": "PHIL4232"
+          },
+          {
+            "course_code": "PHIL4242",
+            "prefix_inferred": false,
+            "evidence": "PHIL4242"
+          },
+          {
+            "course_code": "PHIL4262",
+            "prefix_inferred": false,
+            "evidence": "PHIL4262"
+          },
+          {
+            "course_code": "PHIL4272",
+            "prefix_inferred": false,
+            "evidence": "PHIL4272"
+          },
+          {
+            "course_code": "PHIL4282",
+            "prefix_inferred": false,
+            "evidence": "PHIL4282"
+          },
+          {
+            "course_code": "PHIL4292",
+            "prefix_inferred": false,
+            "evidence": "PHIL4292"
+          },
+          {
+            "course_code": "PHIL4302",
+            "prefix_inferred": false,
+            "evidence": "PHIL4302"
+          },
+          {
+            "course_code": "PHIL4522",
+            "prefix_inferred": false,
+            "evidence": "PHIL4522"
+          },
+          {
+            "course_code": "PHIL4532",
+            "prefix_inferred": false,
+            "evidence": "PHIL4532"
+          },
+          {
+            "course_code": "PHIL1413",
+            "prefix_inferred": false,
+            "evidence": "PHIL1413"
+          },
+          {
+            "course_code": "PHIL3233",
+            "prefix_inferred": false,
+            "evidence": "PHIL3233"
+          },
+          {
+            "course_code": "PHIL3253",
+            "prefix_inferred": false,
+            "evidence": "PHIL3253"
+          },
+          {
+            "course_code": "PHIL3263",
+            "prefix_inferred": false,
+            "evidence": "PHIL3263"
+          },
+          {
+            "course_code": "PHIL3313",
+            "prefix_inferred": false,
+            "evidence": "PHIL3313"
+          },
+          {
+            "course_code": "PHIL3333",
+            "prefix_inferred": false,
+            "evidence": "PHIL3333"
+          },
+          {
+            "course_code": "PHIL3363",
+            "prefix_inferred": false,
+            "evidence": "PHIL3363"
+          },
+          {
+            "course_code": "PHIL3373",
+            "prefix_inferred": false,
+            "evidence": "PHIL3373"
+          },
+          {
+            "course_code": "PHIL3383",
+            "prefix_inferred": false,
+            "evidence": "PHIL3383"
+          },
+          {
+            "course_code": "PHIL3683",
+            "prefix_inferred": false,
+            "evidence": "PHIL3683"
+          },
+          {
+            "course_code": "PHIL3693",
+            "prefix_inferred": false,
+            "evidence": "PHIL3693"
+          },
+          {
+            "course_code": "PHIL3743",
+            "prefix_inferred": false,
+            "evidence": "PHIL3743"
+          },
+          {
+            "course_code": "PHIL3803",
+            "prefix_inferred": false,
+            "evidence": "PHIL3803"
+          },
+          {
+            "course_code": "PHIL3823",
+            "prefix_inferred": false,
+            "evidence": "PHIL3823"
+          },
+          {
+            "course_code": "PHIL3833",
+            "prefix_inferred": false,
+            "evidence": "PHIL3833"
+          },
+          {
+            "course_code": "PHIL3843",
+            "prefix_inferred": false,
+            "evidence": "PHIL3843"
+          },
+          {
+            "course_code": "PHIL4153",
+            "prefix_inferred": false,
+            "evidence": "PHIL4153"
+          },
+          {
+            "course_code": "PHIL4183",
+            "prefix_inferred": false,
+            "evidence": "PHIL4183"
+          },
+          {
+            "course_code": "PHIL4313",
+            "prefix_inferred": false,
+            "evidence": "PHIL4313"
+          },
+          {
+            "course_code": "PHIL4323",
+            "prefix_inferred": false,
+            "evidence": "PHIL4323"
+          },
+          {
+            "course_code": "PHIL4333",
+            "prefix_inferred": false,
+            "evidence": "PHIL4333"
+          },
+          {
+            "course_code": "PHIL4343",
+            "prefix_inferred": false,
+            "evidence": "PHIL4343"
+          },
+          {
+            "course_code": "PHIL4413",
+            "prefix_inferred": false,
+            "evidence": "PHIL4413"
+          },
+          {
+            "course_code": "PHIL4423",
+            "prefix_inferred": false,
+            "evidence": "PHIL4423"
+          },
+          {
+            "course_code": "PHIL4433",
+            "prefix_inferred": false,
+            "evidence": "PHIL4433"
+          },
+          {
+            "course_code": "PHIL4443",
+            "prefix_inferred": false,
+            "evidence": "PHIL4443"
+          },
+          {
+            "course_code": "PHIL1210",
+            "prefix_inferred": false,
+            "evidence": "PHIL1210"
+          },
+          {
+            "course_code": "PHIL2400",
+            "prefix_inferred": false,
+            "evidence": "PHIL2400"
+          },
+          {
+            "course_code": "PHIL5070",
+            "prefix_inferred": false,
+            "evidence": "PHIL5070"
+          },
+          {
+            "course_code": "PHIL5090",
+            "prefix_inferred": false,
+            "evidence": "PHIL5090"
+          },
+          {
+            "course_code": "PHIL5110",
+            "prefix_inferred": false,
+            "evidence": "PHIL5110"
+          },
+          {
+            "course_code": "PHIL5130",
+            "prefix_inferred": false,
+            "evidence": "PHIL5130"
+          },
+          {
+            "course_code": "PHIL5150",
+            "prefix_inferred": false,
+            "evidence": "PHIL5150"
+          },
+          {
+            "course_code": "PHIL5170",
+            "prefix_inferred": false,
+            "evidence": "PHIL5170"
+          },
+          {
+            "course_code": "PHIL5180",
+            "prefix_inferred": false,
+            "evidence": "PHIL5180"
+          },
+          {
+            "course_code": "PHIL5190",
+            "prefix_inferred": false,
+            "evidence": "PHIL5190"
+          },
+          {
+            "course_code": "PHIL5310",
+            "prefix_inferred": false,
+            "evidence": "PHIL5310"
+          },
+          {
+            "course_code": "PHIL5320",
+            "prefix_inferred": false,
+            "evidence": "PHIL5320"
+          },
+          {
+            "course_code": "PHIL5330",
+            "prefix_inferred": false,
+            "evidence": "PHIL5330"
+          },
+          {
+            "course_code": "PHIL5340",
+            "prefix_inferred": false,
+            "evidence": "PHIL5340"
+          },
+          {
+            "course_code": "PHIL5350",
+            "prefix_inferred": false,
+            "evidence": "PHIL5350"
+          },
+          {
+            "course_code": "PHIL5360",
+            "prefix_inferred": false,
+            "evidence": "PHIL5360"
+          },
+          {
+            "course_code": "PHIL5370",
+            "prefix_inferred": false,
+            "evidence": "PHIL5370"
+          }
+        ],
+        "raw_text": "15\nPHIL courses other than PHIL1110 are elective courses. Students are required to take at least 6 units of courses at 3000 or above level.\nTotal:\n18\nCourse List\nCourse Code\nCourse Title\nUnit(s)\nPHIL1110\nIntroduction to Philosophy\n3\nPHIL1310\nLogic\n3\nPHIL2020\nHistory of Chinese Philosophy I\n3\nPHIL2030\nHistory of Chinese Philosophy II\n3\nPHIL2040\nHistory of Western Philosophy I\n3\nPHIL2050\nHistory of Western Philosophy II\n3\nPHIL2060\nPhilosophy and Human Conditions\n3\nPHIL3000\nEthics\n3\nPHIL3800\nMetaphysics\n3\nPHIL3820\nEpistemology\n3\nPHIL4800\nThesis\n3\nArea 1: Chinese/Eastern Philosophy\nPHIL2301\nGuided Studies in Chinese/Eastern Philosophical Classics\n3\nPHIL3111\nPre-Qin Confucian Philosophy\n3\nPHIL3131\nPre-Qin Daoist Philosophy\n3\nPHIL3141\nNeo-Daoist Philosophy\n3\nPHIL3191\nIndian Philosophy\n3\nPHIL3211\nIndian Buddhist Philosophy\n3\nPHIL3531\nTopics in Chinese Philosophy\n3\nPHIL3541\nTopics in Ancient Chinese Philosophy\n3\nPHIL3551\nTopics in Modern Chinese Philosophy\n3\nPHIL3561\nTopics in Eastern Philosophy\n3\nPHIL4111\nChinese Buddhist Philosophy\n3\nPHIL4121\nChan Buddhism\n3\nPHIL4131\nSong Neo-Confucian Philosophy\n3\nPHIL4141\nMing Neo-Confucian Philosophy\n3\nPHIL4351\nMohist Philosophy\n3\nPHIL4361\nLegalist Philosophy\n3\nPHIL4371\nSeminar on Chinese Philosophy\n3\nPHIL4381\nSeminar on Eastern Philosophy\n3\nArea 2: Western Philosophy\nPHIL2202\nSymbolic Logic\n3\nPHIL2302\nGuided Studies in Western Philosophical Classics\n3\nPHIL3152\nTopics in Ancient Western Philosophy\n3\nPHIL3172\nTopics in Medieval Western Philosophy\n3\nPHIL3302\nAnalytic Philosophy\n3\nPHIL3312\nTopics in Philosophical and Historical Perspectives\n3\nPHIL3592\nTopics in Modern Western Philosophy\n3\nPHIL3652\nTopics in Contemporary Western Philosophy\n3\nPHIL3662\nTopics in Anglo-American Philosophy\n3\nPHIL3672\nTopics in Continental Philosophy\n3\nPHIL4232\nKant\n3\nPHIL4242\nGerman Idealism\n3\nPHIL4262\nExistentialism\n3\nPHIL4272\nPhenomenology\n3\nPHIL4282\nHermeneutics\n3\nPHIL4292\nContemporary Anglo-American Philosophy\n3\nPHIL4302\nCritical Theory\n3\nPHIL4522\nContemporary French Philosophy\n3\nPHIL4532\nSeminar on Western Philosophy\n3\nArea 3: Philosophical Problems\nPHIL1413\nPhilosophy of Life\n3\nPHIL3233\nSocial and Political Philosophy\n3\nPHIL3253\nPractical Ethics\n3\nPHIL3263\nPhilosophical Problems and Computational Tools\n3\nPHIL3313\nAesthetics\n3\nPHIL3333\nComparative Philosophy of Religion\n3\nPHIL3363\nLegal Philosophy\n3\nPHIL3373\nPhilosophy of Love\n3\nPHIL3383\nPhilosophy of Death\n3\nPHIL3683\nTopics in Applied Philosophy\n3\nPHIL3693\nTopics in Political Philosophy\n3\nPHIL3743\nTopics in Inter-Disciplinary Problems\n3\nPHIL3803\nTopics in Metaphysics\n3\nPHIL3823\nTopics in Epistemology\n3\nPHIL3833\nTopics in Ethics\n3\nPHIL3843\nBioethics\n3\nPHIL4153\nPhilosophy of Culture\n3\nPHIL4183\nPhilosophy of Science\n3\nPHIL4313\nPhilosophy of Language\n3\nPHIL4323\nPhilosophy of History\n3\nPHIL4333\nPhilosophy of Mind\n3\nPHIL4343\nPhilosophy of Education\n3\nPHIL4413\nTopics in Comparative Philosophy\n3\nPHIL4423\nTopics in Textual Analysis\n3\nPHIL4433\nMoral Psychology\n3\nPHIL4443\nSeminar on Philosophical Issues\n3\nArea 4: Other Elective Courses\nPHIL1210\nPhilosophical Thinking Through Writing\n3\nPHIL2060\nPhilosophy and Human Conditions\n3\nPHIL2400\nIntroductory Latin\n3\nArea 5: Graduate Courses\nPHIL5070\nSeminar on Chinese Philosophy\n3\nPHIL5090\nSeminar on Western Philosophy\n3\nPHIL5110\nSeminar on Eastern Philosophy\n3\nPHIL5130\nTopics in Chinese Philosophy\n3\nPHIL5150\nTopics in Western Philosophy\n3\nPHIL5170\nTopics in Eastern Philosophy\n3\nPHIL5180\nSeminar on Selected Philosophical Issues\n1\nPHIL5190\nSeminar on Comparative Philosophy: East and West\n3\nPHIL5310\nSeminar on Pre-modern Chinese Philosophy\n3\nPHIL5320\nSeminar on Modern and Contemporary Chinese Philosophy\n3\nPHIL5330\nSeminar: Issues in the History of Chinese Philosophy\n3\nPHIL5340\nSeminar on Modern Western Philosophy\n3\nPHIL5350\nSeminar on Contemporary Anglo-American Philosophy\n3\nPHIL5360\nSeminar on Continental European Philosophy\n3\nPHIL5370\nSeminar: Issues in the History of Western Philosophy\n3\nStudy Scheme\nLearning Outcomes"
+      },
+      {
+        "number": 1,
+        "title": "Major Programme",
+        "units_as_printed": null,
+        "course_mentions": [],
+        "raw_text": "Graduates from the programme will have:\n(1)\nacquired a sound knowledge of the Eastern and Western (both continental and analytic) philosophical traditions (K/S);\n(2)\ngained an understanding of the historical and cultural backgrounds of philosophical thoughts (K/S);\n(3)\ngained the ability to read and interpret classical philosophical texts, to analyze the content, and to evaluate the arguments (K/S);\n(4)\nacquired a grasp of the central issues of philosophy and to reflect on their contemporary relevance (K/S/V);\n(5)\nlearnt basic concepts and methods in logic, to assess arguments in various contexts, and to identify and analyze informal fallacies (K/S);\n(6)\ngained the ability to engage in critical discussion, to put forward and defend their own ideas, and to master the expository and critical skills for argumentative writing (K/S);\n(7)\nfostered a sensibility toward ethical, social, political, and cultural issues (K/S/V);\n(8)\nappreciated the role and importance of philosophical reflection in various matters and to bring it to bear on things that matter in life (K/S/V);\n(9)\nbecome an independent and critical thinker and to be equipped with life-long learning capacities (K/S/V).\nK = Knowledge outcomes; S = Skills outcomes; V = Value and attitude outcomes"
+      },
+      {
+        "number": 2,
+        "title": "Minor Programme",
+        "units_as_printed": null,
+        "course_mentions": [],
+        "raw_text": "Upon the completion of the Minor Programme, students will have demonstrated basic understanding of fundamental issues related to the subject, acquired knowledge of some aspects of the subject with sufficient exposure and at a suitable level to allow further study in this subject or related subjects or to pursue a related career."
+      }
+    ]
+  },
+  "all_course_mentions": [
+    {
+      "course_code": "PHIL1110",
+      "prefix_inferred": false,
+      "evidence": "PHIL1110* and any two courses from:"
+    },
+    {
+      "course_code": "ANTH1020",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "ARTS1005",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "ARTS1009",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "ARTS1010",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "BMBL1001",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CHES1101",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CHES1102",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CHLL1900",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CHLL1902",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CHLL1903",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CURE1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CURE1110",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CURE1400",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "ENGE1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "FAAS1900",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "HIST1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "HIST1700",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "HIST1701",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "JASP1090",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "LING1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "MUSC1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "THEO1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "TRAN1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "PHIL1110",
+      "prefix_inferred": false,
+      "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 2060, 3000, 3800, 3820, 4800 (Capstone course)"
+    },
+    {
+      "course_code": "PHIL1310",
+      "prefix_inferred": true,
+      "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 2060, 3000, 3800, 3820, 4800 (Capstone course)"
+    },
+    {
+      "course_code": "PHIL2020",
+      "prefix_inferred": true,
+      "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 2060, 3000, 3800, 3820, 4800 (Capstone course)"
+    },
+    {
+      "course_code": "PHIL2030",
+      "prefix_inferred": true,
+      "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 2060, 3000, 3800, 3820, 4800 (Capstone course)"
+    },
+    {
+      "course_code": "PHIL2040",
+      "prefix_inferred": true,
+      "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 2060, 3000, 3800, 3820, 4800 (Capstone course)"
+    },
+    {
+      "course_code": "PHIL2050",
+      "prefix_inferred": true,
+      "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 2060, 3000, 3800, 3820, 4800 (Capstone course)"
+    },
+    {
+      "course_code": "PHIL2060",
+      "prefix_inferred": true,
+      "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 2060, 3000, 3800, 3820, 4800 (Capstone course)"
+    },
+    {
+      "course_code": "PHIL3000",
+      "prefix_inferred": true,
+      "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 2060, 3000, 3800, 3820, 4800 (Capstone course)"
+    },
+    {
+      "course_code": "PHIL3800",
+      "prefix_inferred": true,
+      "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 2060, 3000, 3800, 3820, 4800 (Capstone course)"
+    },
+    {
+      "course_code": "PHIL3820",
+      "prefix_inferred": true,
+      "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 2060, 3000, 3800, 3820, 4800 (Capstone course)"
+    },
+    {
+      "course_code": "PHIL4800",
+      "prefix_inferred": true,
+      "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 2060, 3000, 3800, 3820, 4800 (Capstone course)"
+    },
+    {
+      "course_code": "PHIL1110",
+      "prefix_inferred": false,
+      "evidence": "All Philosophy courses other than PHIL1110 and the 30 units of required courses listed in (2) are elective courses. Students are required to take at least 6 units each from Areas 1, 2 and 3. Final year students are allowed to take a maximum of 6 units of courses from Area 5."
+    },
+    {
+      "course_code": "PHIL1110",
+      "prefix_inferred": false,
+      "evidence": "* PHIL1110 counted as Faculty package units only."
+    },
+    {
+      "course_code": "PHIL1110",
+      "prefix_inferred": false,
+      "evidence": "Students should obtain Grade “C-” or above in each of the courses of PHIL1110 and 1310. Otherwise, they are required to repeat the course(s). The repeat of the course(s) will not, however, affect the normal sequence of students’ selection of courses. Students who cannot meet the Grade “C-” requirement in any one of the courses mentioned above after two attempts will be required to withdraw from the University."
+    },
+    {
+      "course_code": "PHIL1310",
+      "prefix_inferred": true,
+      "evidence": "Students should obtain Grade “C-” or above in each of the courses of PHIL1110 and 1310. Otherwise, they are required to repeat the course(s). The repeat of the course(s) will not, however, affect the normal sequence of students’ selection of courses. Students who cannot meet the Grade “C-” requirement in any one of the courses mentioned above after two attempts will be required to withdraw from the University."
+    },
+    {
+      "course_code": "PHIL1110",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: PHIL1110, 2nd Faculty Package course"
+    },
+    {
+      "course_code": "PHIL1310",
+      "prefix_inferred": false,
+      "evidence": "Major Required: PHIL1310"
+    },
+    {
+      "course_code": "PHIL2060",
+      "prefix_inferred": false,
+      "evidence": "Major Required: PHIL2060"
+    },
+    {
+      "course_code": "PHIL2020",
+      "prefix_inferred": false,
+      "evidence": "Major Required: PHIL2020, 2040"
+    },
+    {
+      "course_code": "PHIL2040",
+      "prefix_inferred": true,
+      "evidence": "Major Required: PHIL2020, 2040"
+    },
+    {
+      "course_code": "PHIL2030",
+      "prefix_inferred": false,
+      "evidence": "Major Required: PHIL2030, 2050"
+    },
+    {
+      "course_code": "PHIL2050",
+      "prefix_inferred": true,
+      "evidence": "Major Required: PHIL2030, 2050"
+    },
+    {
+      "course_code": "PHIL3000",
+      "prefix_inferred": false,
+      "evidence": "Major Required: PHIL3000 or 3800 or 3820"
+    },
+    {
+      "course_code": "PHIL3800",
+      "prefix_inferred": true,
+      "evidence": "Major Required: PHIL3000 or 3800 or 3820"
+    },
+    {
+      "course_code": "PHIL3820",
+      "prefix_inferred": true,
+      "evidence": "Major Required: PHIL3000 or 3800 or 3820"
+    },
+    {
+      "course_code": "PHIL4800",
+      "prefix_inferred": false,
+      "evidence": "Major Required: PHIL4800"
+    },
+    {
+      "course_code": "PHIL1110",
+      "prefix_inferred": false,
+      "evidence": "PHIL1110*"
+    },
+    {
+      "course_code": "PHIL1110",
+      "prefix_inferred": false,
+      "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 4800 and two courses from PHIL3000, 3800, 3820"
+    },
+    {
+      "course_code": "PHIL1310",
+      "prefix_inferred": true,
+      "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 4800 and two courses from PHIL3000, 3800, 3820"
+    },
+    {
+      "course_code": "PHIL2020",
+      "prefix_inferred": true,
+      "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 4800 and two courses from PHIL3000, 3800, 3820"
+    },
+    {
+      "course_code": "PHIL2030",
+      "prefix_inferred": true,
+      "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 4800 and two courses from PHIL3000, 3800, 3820"
+    },
+    {
+      "course_code": "PHIL2040",
+      "prefix_inferred": true,
+      "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 4800 and two courses from PHIL3000, 3800, 3820"
+    },
+    {
+      "course_code": "PHIL2050",
+      "prefix_inferred": true,
+      "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 4800 and two courses from PHIL3000, 3800, 3820"
+    },
+    {
+      "course_code": "PHIL4800",
+      "prefix_inferred": true,
+      "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 4800 and two courses from PHIL3000, 3800, 3820"
+    },
+    {
+      "course_code": "PHIL3000",
+      "prefix_inferred": false,
+      "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 4800 and two courses from PHIL3000, 3800, 3820"
+    },
+    {
+      "course_code": "PHIL3800",
+      "prefix_inferred": true,
+      "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 4800 and two courses from PHIL3000, 3800, 3820"
+    },
+    {
+      "course_code": "PHIL3820",
+      "prefix_inferred": true,
+      "evidence": "PHIL1110*, 1310, 2020, 2030, 2040, 2050, 4800 and two courses from PHIL3000, 3800, 3820"
+    },
+    {
+      "course_code": "PHIL3000",
+      "prefix_inferred": false,
+      "evidence": "All Philosophy courses (including PHIL3000/3800/3820 not taken to fulfill requirement (2) above) on the course list other than the 27 units of required courses listed in (1) and (2) are elective courses. Students are required to take at least 3 units each from Areas 1, 2 and 3. Final year students are allowed to take a maximum of 6 units of courses from Area 5."
+    },
+    {
+      "course_code": "PHIL3800",
+      "prefix_inferred": true,
+      "evidence": "All Philosophy courses (including PHIL3000/3800/3820 not taken to fulfill requirement (2) above) on the course list other than the 27 units of required courses listed in (1) and (2) are elective courses. Students are required to take at least 3 units each from Areas 1, 2 and 3. Final year students are allowed to take a maximum of 6 units of courses from Area 5."
+    },
+    {
+      "course_code": "PHIL3820",
+      "prefix_inferred": true,
+      "evidence": "All Philosophy courses (including PHIL3000/3800/3820 not taken to fulfill requirement (2) above) on the course list other than the 27 units of required courses listed in (1) and (2) are elective courses. Students are required to take at least 3 units each from Areas 1, 2 and 3. Final year students are allowed to take a maximum of 6 units of courses from Area 5."
+    },
+    {
+      "course_code": "PHIL1110",
+      "prefix_inferred": false,
+      "evidence": "* Units of PHIL1110 counted as Faculty package units only."
+    },
+    {
+      "course_code": "PHIL1110",
+      "prefix_inferred": false,
+      "evidence": "Students are recommended to take PHIL1110, 1310, 2020, 2030, 2040 and 2050 in their first year of attendance."
+    },
+    {
+      "course_code": "PHIL1310",
+      "prefix_inferred": true,
+      "evidence": "Students are recommended to take PHIL1110, 1310, 2020, 2030, 2040 and 2050 in their first year of attendance."
+    },
+    {
+      "course_code": "PHIL2020",
+      "prefix_inferred": true,
+      "evidence": "Students are recommended to take PHIL1110, 1310, 2020, 2030, 2040 and 2050 in their first year of attendance."
+    },
+    {
+      "course_code": "PHIL2030",
+      "prefix_inferred": true,
+      "evidence": "Students are recommended to take PHIL1110, 1310, 2020, 2030, 2040 and 2050 in their first year of attendance."
+    },
+    {
+      "course_code": "PHIL2040",
+      "prefix_inferred": true,
+      "evidence": "Students are recommended to take PHIL1110, 1310, 2020, 2030, 2040 and 2050 in their first year of attendance."
+    },
+    {
+      "course_code": "PHIL2050",
+      "prefix_inferred": true,
+      "evidence": "Students are recommended to take PHIL1110, 1310, 2020, 2030, 2040 and 2050 in their first year of attendance."
+    },
+    {
+      "course_code": "PHIL1110",
+      "prefix_inferred": false,
+      "evidence": "Students should obtain Grade “C-” or above in each of the courses of PHIL1110 and 1310. Otherwise, they are required to repeat the courses. The repeat of these courses will not, however, affect the normal sequence of students’ selection of courses. Students who cannot meet the Grade “C-” requirement in any one of the courses mentioned above after two attempts will be required to withdraw from the University."
+    },
+    {
+      "course_code": "PHIL1310",
+      "prefix_inferred": true,
+      "evidence": "Students should obtain Grade “C-” or above in each of the courses of PHIL1110 and 1310. Otherwise, they are required to repeat the courses. The repeat of these courses will not, however, affect the normal sequence of students’ selection of courses. Students who cannot meet the Grade “C-” requirement in any one of the courses mentioned above after two attempts will be required to withdraw from the University."
+    },
+    {
+      "course_code": "PHIL1110",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: PHIL1110"
+    },
+    {
+      "course_code": "PHIL1310",
+      "prefix_inferred": false,
+      "evidence": "Major Required: PHIL1310, 2020, 2040"
+    },
+    {
+      "course_code": "PHIL2020",
+      "prefix_inferred": true,
+      "evidence": "Major Required: PHIL1310, 2020, 2040"
+    },
+    {
+      "course_code": "PHIL2040",
+      "prefix_inferred": true,
+      "evidence": "Major Required: PHIL1310, 2020, 2040"
+    },
+    {
+      "course_code": "PHIL3000",
+      "prefix_inferred": false,
+      "evidence": "PHIL3000 or 3800 or 3820"
+    },
+    {
+      "course_code": "PHIL3800",
+      "prefix_inferred": true,
+      "evidence": "PHIL3000 or 3800 or 3820"
+    },
+    {
+      "course_code": "PHIL3820",
+      "prefix_inferred": true,
+      "evidence": "PHIL3000 or 3800 or 3820"
+    },
+    {
+      "course_code": "PHIL3000",
+      "prefix_inferred": false,
+      "evidence": "Major Required: PHIL3000 or 3800 or 3820, PHIL4800"
+    },
+    {
+      "course_code": "PHIL3800",
+      "prefix_inferred": true,
+      "evidence": "Major Required: PHIL3000 or 3800 or 3820, PHIL4800"
+    },
+    {
+      "course_code": "PHIL3820",
+      "prefix_inferred": true,
+      "evidence": "Major Required: PHIL3000 or 3800 or 3820, PHIL4800"
+    },
+    {
+      "course_code": "PHIL4800",
+      "prefix_inferred": false,
+      "evidence": "Major Required: PHIL3000 or 3800 or 3820, PHIL4800"
+    },
+    {
+      "course_code": "PHIL1110",
+      "prefix_inferred": false,
+      "evidence": "PHIL1110"
+    },
+    {
+      "course_code": "PHIL1110",
+      "prefix_inferred": false,
+      "evidence": "PHIL courses other than PHIL1110 are elective courses. Students are required to take at least 6 units of courses at 3000 or above level."
+    },
+    {
+      "course_code": "PHIL1310",
+      "prefix_inferred": false,
+      "evidence": "PHIL1310"
+    },
+    {
+      "course_code": "PHIL2020",
+      "prefix_inferred": false,
+      "evidence": "PHIL2020"
+    },
+    {
+      "course_code": "PHIL2030",
+      "prefix_inferred": false,
+      "evidence": "PHIL2030"
+    },
+    {
+      "course_code": "PHIL2040",
+      "prefix_inferred": false,
+      "evidence": "PHIL2040"
+    },
+    {
+      "course_code": "PHIL2050",
+      "prefix_inferred": false,
+      "evidence": "PHIL2050"
+    },
+    {
+      "course_code": "PHIL2060",
+      "prefix_inferred": false,
+      "evidence": "PHIL2060"
+    },
+    {
+      "course_code": "PHIL3000",
+      "prefix_inferred": false,
+      "evidence": "PHIL3000"
+    },
+    {
+      "course_code": "PHIL3800",
+      "prefix_inferred": false,
+      "evidence": "PHIL3800"
+    },
+    {
+      "course_code": "PHIL3820",
+      "prefix_inferred": false,
+      "evidence": "PHIL3820"
+    },
+    {
+      "course_code": "PHIL4800",
+      "prefix_inferred": false,
+      "evidence": "PHIL4800"
+    },
+    {
+      "course_code": "PHIL2301",
+      "prefix_inferred": false,
+      "evidence": "PHIL2301"
+    },
+    {
+      "course_code": "PHIL3111",
+      "prefix_inferred": false,
+      "evidence": "PHIL3111"
+    },
+    {
+      "course_code": "PHIL3131",
+      "prefix_inferred": false,
+      "evidence": "PHIL3131"
+    },
+    {
+      "course_code": "PHIL3141",
+      "prefix_inferred": false,
+      "evidence": "PHIL3141"
+    },
+    {
+      "course_code": "PHIL3191",
+      "prefix_inferred": false,
+      "evidence": "PHIL3191"
+    },
+    {
+      "course_code": "PHIL3211",
+      "prefix_inferred": false,
+      "evidence": "PHIL3211"
+    },
+    {
+      "course_code": "PHIL3531",
+      "prefix_inferred": false,
+      "evidence": "PHIL3531"
+    },
+    {
+      "course_code": "PHIL3541",
+      "prefix_inferred": false,
+      "evidence": "PHIL3541"
+    },
+    {
+      "course_code": "PHIL3551",
+      "prefix_inferred": false,
+      "evidence": "PHIL3551"
+    },
+    {
+      "course_code": "PHIL3561",
+      "prefix_inferred": false,
+      "evidence": "PHIL3561"
+    },
+    {
+      "course_code": "PHIL4111",
+      "prefix_inferred": false,
+      "evidence": "PHIL4111"
+    },
+    {
+      "course_code": "PHIL4121",
+      "prefix_inferred": false,
+      "evidence": "PHIL4121"
+    },
+    {
+      "course_code": "PHIL4131",
+      "prefix_inferred": false,
+      "evidence": "PHIL4131"
+    },
+    {
+      "course_code": "PHIL4141",
+      "prefix_inferred": false,
+      "evidence": "PHIL4141"
+    },
+    {
+      "course_code": "PHIL4351",
+      "prefix_inferred": false,
+      "evidence": "PHIL4351"
+    },
+    {
+      "course_code": "PHIL4361",
+      "prefix_inferred": false,
+      "evidence": "PHIL4361"
+    },
+    {
+      "course_code": "PHIL4371",
+      "prefix_inferred": false,
+      "evidence": "PHIL4371"
+    },
+    {
+      "course_code": "PHIL4381",
+      "prefix_inferred": false,
+      "evidence": "PHIL4381"
+    },
+    {
+      "course_code": "PHIL2202",
+      "prefix_inferred": false,
+      "evidence": "PHIL2202"
+    },
+    {
+      "course_code": "PHIL2302",
+      "prefix_inferred": false,
+      "evidence": "PHIL2302"
+    },
+    {
+      "course_code": "PHIL3152",
+      "prefix_inferred": false,
+      "evidence": "PHIL3152"
+    },
+    {
+      "course_code": "PHIL3172",
+      "prefix_inferred": false,
+      "evidence": "PHIL3172"
+    },
+    {
+      "course_code": "PHIL3302",
+      "prefix_inferred": false,
+      "evidence": "PHIL3302"
+    },
+    {
+      "course_code": "PHIL3312",
+      "prefix_inferred": false,
+      "evidence": "PHIL3312"
+    },
+    {
+      "course_code": "PHIL3592",
+      "prefix_inferred": false,
+      "evidence": "PHIL3592"
+    },
+    {
+      "course_code": "PHIL3652",
+      "prefix_inferred": false,
+      "evidence": "PHIL3652"
+    },
+    {
+      "course_code": "PHIL3662",
+      "prefix_inferred": false,
+      "evidence": "PHIL3662"
+    },
+    {
+      "course_code": "PHIL3672",
+      "prefix_inferred": false,
+      "evidence": "PHIL3672"
+    },
+    {
+      "course_code": "PHIL4232",
+      "prefix_inferred": false,
+      "evidence": "PHIL4232"
+    },
+    {
+      "course_code": "PHIL4242",
+      "prefix_inferred": false,
+      "evidence": "PHIL4242"
+    },
+    {
+      "course_code": "PHIL4262",
+      "prefix_inferred": false,
+      "evidence": "PHIL4262"
+    },
+    {
+      "course_code": "PHIL4272",
+      "prefix_inferred": false,
+      "evidence": "PHIL4272"
+    },
+    {
+      "course_code": "PHIL4282",
+      "prefix_inferred": false,
+      "evidence": "PHIL4282"
+    },
+    {
+      "course_code": "PHIL4292",
+      "prefix_inferred": false,
+      "evidence": "PHIL4292"
+    },
+    {
+      "course_code": "PHIL4302",
+      "prefix_inferred": false,
+      "evidence": "PHIL4302"
+    },
+    {
+      "course_code": "PHIL4522",
+      "prefix_inferred": false,
+      "evidence": "PHIL4522"
+    },
+    {
+      "course_code": "PHIL4532",
+      "prefix_inferred": false,
+      "evidence": "PHIL4532"
+    },
+    {
+      "course_code": "PHIL1413",
+      "prefix_inferred": false,
+      "evidence": "PHIL1413"
+    },
+    {
+      "course_code": "PHIL3233",
+      "prefix_inferred": false,
+      "evidence": "PHIL3233"
+    },
+    {
+      "course_code": "PHIL3253",
+      "prefix_inferred": false,
+      "evidence": "PHIL3253"
+    },
+    {
+      "course_code": "PHIL3263",
+      "prefix_inferred": false,
+      "evidence": "PHIL3263"
+    },
+    {
+      "course_code": "PHIL3313",
+      "prefix_inferred": false,
+      "evidence": "PHIL3313"
+    },
+    {
+      "course_code": "PHIL3333",
+      "prefix_inferred": false,
+      "evidence": "PHIL3333"
+    },
+    {
+      "course_code": "PHIL3363",
+      "prefix_inferred": false,
+      "evidence": "PHIL3363"
+    },
+    {
+      "course_code": "PHIL3373",
+      "prefix_inferred": false,
+      "evidence": "PHIL3373"
+    },
+    {
+      "course_code": "PHIL3383",
+      "prefix_inferred": false,
+      "evidence": "PHIL3383"
+    },
+    {
+      "course_code": "PHIL3683",
+      "prefix_inferred": false,
+      "evidence": "PHIL3683"
+    },
+    {
+      "course_code": "PHIL3693",
+      "prefix_inferred": false,
+      "evidence": "PHIL3693"
+    },
+    {
+      "course_code": "PHIL3743",
+      "prefix_inferred": false,
+      "evidence": "PHIL3743"
+    },
+    {
+      "course_code": "PHIL3803",
+      "prefix_inferred": false,
+      "evidence": "PHIL3803"
+    },
+    {
+      "course_code": "PHIL3823",
+      "prefix_inferred": false,
+      "evidence": "PHIL3823"
+    },
+    {
+      "course_code": "PHIL3833",
+      "prefix_inferred": false,
+      "evidence": "PHIL3833"
+    },
+    {
+      "course_code": "PHIL3843",
+      "prefix_inferred": false,
+      "evidence": "PHIL3843"
+    },
+    {
+      "course_code": "PHIL4153",
+      "prefix_inferred": false,
+      "evidence": "PHIL4153"
+    },
+    {
+      "course_code": "PHIL4183",
+      "prefix_inferred": false,
+      "evidence": "PHIL4183"
+    },
+    {
+      "course_code": "PHIL4313",
+      "prefix_inferred": false,
+      "evidence": "PHIL4313"
+    },
+    {
+      "course_code": "PHIL4323",
+      "prefix_inferred": false,
+      "evidence": "PHIL4323"
+    },
+    {
+      "course_code": "PHIL4333",
+      "prefix_inferred": false,
+      "evidence": "PHIL4333"
+    },
+    {
+      "course_code": "PHIL4343",
+      "prefix_inferred": false,
+      "evidence": "PHIL4343"
+    },
+    {
+      "course_code": "PHIL4413",
+      "prefix_inferred": false,
+      "evidence": "PHIL4413"
+    },
+    {
+      "course_code": "PHIL4423",
+      "prefix_inferred": false,
+      "evidence": "PHIL4423"
+    },
+    {
+      "course_code": "PHIL4433",
+      "prefix_inferred": false,
+      "evidence": "PHIL4433"
+    },
+    {
+      "course_code": "PHIL4443",
+      "prefix_inferred": false,
+      "evidence": "PHIL4443"
+    },
+    {
+      "course_code": "PHIL1210",
+      "prefix_inferred": false,
+      "evidence": "PHIL1210"
+    },
+    {
+      "course_code": "PHIL2400",
+      "prefix_inferred": false,
+      "evidence": "PHIL2400"
+    },
+    {
+      "course_code": "PHIL5070",
+      "prefix_inferred": false,
+      "evidence": "PHIL5070"
+    },
+    {
+      "course_code": "PHIL5090",
+      "prefix_inferred": false,
+      "evidence": "PHIL5090"
+    },
+    {
+      "course_code": "PHIL5110",
+      "prefix_inferred": false,
+      "evidence": "PHIL5110"
+    },
+    {
+      "course_code": "PHIL5130",
+      "prefix_inferred": false,
+      "evidence": "PHIL5130"
+    },
+    {
+      "course_code": "PHIL5150",
+      "prefix_inferred": false,
+      "evidence": "PHIL5150"
+    },
+    {
+      "course_code": "PHIL5170",
+      "prefix_inferred": false,
+      "evidence": "PHIL5170"
+    },
+    {
+      "course_code": "PHIL5180",
+      "prefix_inferred": false,
+      "evidence": "PHIL5180"
+    },
+    {
+      "course_code": "PHIL5190",
+      "prefix_inferred": false,
+      "evidence": "PHIL5190"
+    },
+    {
+      "course_code": "PHIL5310",
+      "prefix_inferred": false,
+      "evidence": "PHIL5310"
+    },
+    {
+      "course_code": "PHIL5320",
+      "prefix_inferred": false,
+      "evidence": "PHIL5320"
+    },
+    {
+      "course_code": "PHIL5330",
+      "prefix_inferred": false,
+      "evidence": "PHIL5330"
+    },
+    {
+      "course_code": "PHIL5340",
+      "prefix_inferred": false,
+      "evidence": "PHIL5340"
+    },
+    {
+      "course_code": "PHIL5350",
+      "prefix_inferred": false,
+      "evidence": "PHIL5350"
+    },
+    {
+      "course_code": "PHIL5360",
+      "prefix_inferred": false,
+      "evidence": "PHIL5360"
+    },
+    {
+      "course_code": "PHIL5370",
+      "prefix_inferred": false,
+      "evidence": "PHIL5370"
+    }
+  ],
+  "course_code_aliases": [],
+  "source": {
+    "system": "CUHK CUSIS Browse Program Information",
+    "url": "https://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/tt_dsp_acad_prog.aspx",
+    "source_text_file": "data/cuhk/2024/programmes/B_A_in_Philosophy__Faculty_of_Arts.txt",
+    "reused_duplicate_entry": false,
+    "reused_from_faculty": null
+  },
+  "raw_text": "\n\nBrowse Program Information\n\n\n\n\n\n\nAcademic Program:\tB.A. in Philosophy\nAcademic Year:\t2024\nLanguage:\t\nEnglish\nSimplified Chinese\nTraditional Chinese\n\n\n\nLearning Outcomes\nStudy Scheme\n \n\n\t\n\nPhilosophy\n\nApplicable to students admitted in 2024-25\n\n\n\n\n \n\n\n\n\n \n\nMajor Programme Requirement\n\n \n\n\t\n\n \n\n\n\n\nStudents are required to complete a minimum of 72 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nFaculty Package:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nPHIL1110* and any two courses from:\n\nANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, THEO1000, TRAN1000\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nRequired Courses:\n\n\t\n\n30\n\n\n\n\n \n\n\t\n\nPHIL1110*, 1310, 2020, 2030, 2040, 2050, 2060, 3000, 3800, 3820, 4800 (Capstone course)\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nElective Courses:\n\n\t\n\n33\n\n\n\n\n \n\n\t\n\nAll Philosophy courses other than PHIL1110 and the 30 units of required courses listed in (2) are elective courses. Students are required to take at least 6 units each from Areas 1, 2 and 3. Final year students are allowed to take a maximum of 6 units of courses from Area 5.\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n72\n\n\n\n\n* PHIL1110 counted as Faculty package units only.\n\n\n\n\n \n\n\n\n\nExplanatory Notes:\n\n\n\n\n1.\n\n\t\n\nPHIL courses at 2000 and above level will be included in the calculation of Major GPA for honours classification.\n\n\n\n\n2.\n\n\t\n\nStudents should obtain Grade “C-” or above in each of the courses of PHIL1110 and 1310. Otherwise, they are required to repeat the course(s). The repeat of the course(s) will not, however, affect the normal sequence of students’ selection of courses. Students who cannot meet the Grade “C-” requirement in any one of the courses mentioned above after two attempts will be required to withdraw from the University.\n\n\n\n\n3.\n\n\t\n\nExemption of units may be granted to students given permission to take two minor programmes. The Department will consider each application on a case-by-case basis.\n\n\n\n\n[ ]\n\n\t\n\nOld course code used in 2024-25 and before.\n\n\n\n\n \n\n\n\n\n \n\n\t\n\nRecommended Course Pattern\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: PHIL1110, 2nd Faculty Package course\n\n\t\n\n6\n\n\n\n\nMajor Required: PHIL1310\n\n\t\n\n3\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nFaculty Package: 3rd Faculty Package course\n\n\t\n\n3\n\n\n\n\nMajor Required: PHIL2060\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): 1 course\n\n\t\n\n3\n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: PHIL2020, 2040\n\n\t\n\n6\n\n\n\n\nMajor Elective(s): 1 course\n\n\t\n\n3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: PHIL2030, 2050\n\n\t\n\n6\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nThird Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: PHIL3000 or 3800 or 3820\n\n\t\n\n3-6\n\n\n\n\nMajor Elective(s): 2 courses\n\n\t\n\n6\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: PHIL3000 or 3800 or 3820\n\n\t\n\n3-6\n\n\n\n\nMajor Elective(s): 2 courses\n\n\t\n\n6\n\n\n\n\nFourth Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: PHIL4800\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): 2 courses\n\n\t\n\n6\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required:\n\n\t\n\n \n\n\n\n\nMajor Elective(s): 3 courses\n\n\t\n\n9\n\n\n\n\nTotal (including Faculty Package):\n\n\t\n\n72\n\n\n\n\n \n\n\n\n\n \n\nMajor Programme Requirement (for Associate Degree or Higher Diploma holders admitted to senior-year places)\n\n \n\n\n\n\nStudents are required to complete a minimum of 54 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nFaculty Package:\n\n\t\n\n3\n\n\n\n\n \n\n\t\n\nPHIL1110*\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nRequired Courses:\n\n\t\n\n24\n\n\n\n\n \n\n\t\n\nPHIL1110*, 1310, 2020, 2030, 2040, 2050, 4800 and two courses from PHIL3000, 3800, 3820\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nElective Courses:\n\n\t\n\n27\n\n\n\n\n \n\n\t\n\nAll Philosophy courses (including PHIL3000/3800/3820 not taken to fulfill requirement (2) above) on the course list other than the 27 units of required courses listed in (1) and (2) are elective courses. Students are required to take at least 3 units each from Areas 1, 2 and 3. Final year students are allowed to take a maximum of 6 units of courses from Area 5.\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n54\n\n\n\n\n* Units of PHIL1110 counted as Faculty package units only.\n\n\n\n\n \n\n\n\n\nExplanatory Notes:\n\n\n\n\n1.\n\n\t\n\nPHIL courses at 2000 and above level will be included in the calculation of Major GPA for honours classification.\n\n\n\n\n2.\n\n\t\n\nStudents are recommended to take PHIL1110, 1310, 2020, 2030, 2040 and 2050 in their first year of attendance.\n\n\n\n\n3.\n\n\t\n\nStudents should obtain Grade “C-” or above in each of the courses of PHIL1110 and 1310. Otherwise, they are required to repeat the courses. The repeat of these courses will not, however, affect the normal sequence of students’ selection of courses. Students who cannot meet the Grade “C-” requirement in any one of the courses mentioned above after two attempts will be required to withdraw from the University.\n\n\n\n\n \n\n\n\n\n \n\n\t\n\nRecommended Course Pattern (for Associate Degree or Higher Diploma holders admitted to senior-year places)\n\n \n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: PHIL1110\n\n\t\n\n3\n\n\n\n\nMajor Required: PHIL1310, 2020, 2040\n\n\t\n\n9\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: PHIL2030, 2050\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nPHIL3000 or 3800 or 3820\n\n\t\n\n \n\n\n\n\nMajor Elective(s): 2 courses\n\n\t\n\n6\n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: PHIL3000 or 3800 or 3820, PHIL4800\n\n\t\n\n6\n\n\n\n\nMajor Elective(s): 3 courses\n\n\t\n\n9\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required:\n\n\t\n\n \n\n\n\n\nMajor Elective(s): 4 courses\n\n\t\n\n12\n\n\n\n\nTotal (including Faculty Package):\n\n\t\n\n54\n\n\n\t\t\t\n\n\n\n\n \n\n\n\n\nMinor Programme Title\n\nPhilosophy\n\n \n\n\n\n\n \n\nMinor Programme Requirement\n\n \n\n\t\n\n \n\n\n\n\nStudents are required to complete a minimum of 18 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nRequired Course:\n\n\t\n\n3\n\n\n\n\n \n\n\t\n\nPHIL1110\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nElective Courses:\n\n\t\n\n15\n\n\n\n\n \n\n\t\n\nPHIL courses other than PHIL1110 are elective courses. Students are required to take at least 6 units of courses at 3000 or above level.\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n18\n\n \n\n\n\n\n \n\n\n\n\nCourse List\n\n \n\n\n\n\nCourse Code\n\n\t\n\nCourse Title\n\n\t\n\nUnit(s)\n\n\n\n\nPHIL1110\n\n\t\n\nIntroduction to Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL1310\n\n\t\n\nLogic\n\n\t\n\n3\n\n\n\n\nPHIL2020\n\n\t\n\nHistory of Chinese Philosophy I\n\n\t\n\n3\n\n\n\n\nPHIL2030\n\n\t\n\nHistory of Chinese Philosophy II\n\n\t\n\n3\n\n\n\n\nPHIL2040\n\n\t\n\nHistory of Western Philosophy I\n\n\t\n\n3\n\n\n\n\nPHIL2050\n\n\t\n\nHistory of Western Philosophy II\n\n\t\n\n3\n\n\n\n\nPHIL2060\n\n\t\n\nPhilosophy and Human Conditions\n\n\t\n\n3\n\n\n\n\nPHIL3000\n\n\t\n\nEthics\n\n\t\n\n3\n\n\n\n\nPHIL3800\n\n\t\n\nMetaphysics\n\n\t\n\n3\n\n\n\n\nPHIL3820\n\n\t\n\nEpistemology\n\n\t\n\n3\n\n\n\n\nPHIL4800\n\n\t\n\nThesis\n\n\t\n\n3\n\n\n\n\nArea 1: Chinese/Eastern Philosophy\n\n\n\n\nPHIL2301\n\n\t\n\nGuided Studies in Chinese/Eastern Philosophical Classics\n\n\t\n\n3\n\n\n\n\nPHIL3111\n\n\t\n\nPre-Qin Confucian Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL3131\n\n\t\n\nPre-Qin Daoist Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL3141\n\n\t\n\nNeo-Daoist Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL3191\n\n\t\n\nIndian Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL3211\n\n\t\n\nIndian Buddhist Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL3531\n\n\t\n\nTopics in Chinese Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL3541\n\n\t\n\nTopics in Ancient Chinese Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL3551\n\n\t\n\nTopics in Modern Chinese Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL3561\n\n\t\n\nTopics in Eastern Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL4111\n\n\t\n\nChinese Buddhist Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL4121\n\n\t\n\nChan Buddhism\n\n\t\n\n3\n\n\n\n\nPHIL4131\n\n\t\n\nSong Neo-Confucian Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL4141\n\n\t\n\nMing Neo-Confucian Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL4351\n\n\t\n\nMohist Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL4361\n\n\t\n\nLegalist Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL4371\n\n\t\n\nSeminar on Chinese Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL4381\n\n\t\n\nSeminar on Eastern Philosophy\n\n\t\n\n3\n\n\n\n\nArea 2: Western Philosophy\n\n\n\n\nPHIL2202\n\n\t\n\nSymbolic Logic\n\n\t\n\n3\n\n\n\n\nPHIL2302\n\n\t\n\nGuided Studies in Western Philosophical Classics\n\n\t\n\n3\n\n\n\n\nPHIL3152\n\n\t\n\nTopics in Ancient Western Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL3172\n\n\t\n\nTopics in Medieval Western Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL3302\n\n\t\n\nAnalytic Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL3312\n\n\t\n\nTopics in Philosophical and Historical Perspectives\n\n\t\n\n3\n\n\n\n\nPHIL3592\n\n\t\n\nTopics in Modern Western Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL3652\n\n\t\n\nTopics in Contemporary Western Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL3662\n\n\t\n\nTopics in Anglo-American Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL3672\n\n\t\n\nTopics in Continental Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL4232\n\n\t\n\nKant\n\n\t\n\n3\n\n\n\n\nPHIL4242\n\n\t\n\nGerman Idealism\n\n\t\n\n3\n\n\n\n\nPHIL4262\n\n\t\n\nExistentialism\n\n\t\n\n3\n\n\n\n\nPHIL4272\n\n\t\n\nPhenomenology\n\n\t\n\n3\n\n\n\n\nPHIL4282\n\n\t\n\nHermeneutics\n\n\t\n\n3\n\n\n\n\nPHIL4292\n\n\t\n\nContemporary Anglo-American Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL4302\n\n\t\n\nCritical Theory\n\n\t\n\n3\n\n\n\n\nPHIL4522\n\n\t\n\nContemporary French Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL4532\n\n\t\n\nSeminar on Western Philosophy\n\n\t\n\n3\n\n\n\n\nArea 3: Philosophical Problems\n\n\n\n\nPHIL1413\n\n\t\n\nPhilosophy of Life\n\n\t\n\n3\n\n\n\n\nPHIL3233\n\n\t\n\nSocial and Political Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL3253\n\n\t\n\nPractical Ethics\n\n\t\n\n3\n\n\n\n\nPHIL3263\n\n\t\n\nPhilosophical Problems and Computational Tools\n\n\t\n\n3\n\n\n\n\nPHIL3313\n\n\t\n\nAesthetics\n\n\t\n\n3\n\n\n\n\nPHIL3333\n\n\t\n\nComparative Philosophy of Religion\n\n\t\n\n3\n\n\n\n\nPHIL3363\n\n\t\n\nLegal Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL3373\n\n\t\n\nPhilosophy of Love\n\n\t\n\n3\n\n\n\n\nPHIL3383\n\n\t\n\nPhilosophy of Death\n\n\t\n\n3\n\n\n\n\nPHIL3683\n\n\t\n\nTopics in Applied Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL3693\n\n\t\n\nTopics in Political Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL3743\n\n\t\n\nTopics in Inter-Disciplinary Problems\n\n\t\n\n3\n\n\n\n\nPHIL3803\n\n\t\n\nTopics in Metaphysics\n\n\t\n\n3\n\n\n\n\nPHIL3823\n\n\t\n\nTopics in Epistemology\n\n\t\n\n3\n\n\n\n\nPHIL3833\n\n\t\n\nTopics in Ethics\n\n\t\n\n3\n\n\n\n\nPHIL3843\n\n\t\n\nBioethics\n\n\t\n\n3\n\n\n\n\nPHIL4153\n\n\t\n\nPhilosophy of Culture\n\n\t\n\n3\n\n\n\n\nPHIL4183\n\n\t\n\nPhilosophy of Science\n\n\t\n\n3\n\n\n\n\nPHIL4313\n\n\t\n\nPhilosophy of Language\n\n\t\n\n3\n\n\n\n\nPHIL4323\n\n\t\n\nPhilosophy of History\n\n\t\n\n3\n\n\n\n\nPHIL4333\n\n\t\n\nPhilosophy of Mind\n\n\t\n\n3\n\n\n\n\nPHIL4343\n\n\t\n\nPhilosophy of Education\n\n\t\n\n3\n\n\n\n\nPHIL4413\n\n\t\n\nTopics in Comparative Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL4423\n\n\t\n\nTopics in Textual Analysis\n\n\t\n\n3\n\n\n\n\nPHIL4433\n\n\t\n\nMoral Psychology\n\n\t\n\n3\n\n\n\n\nPHIL4443\n\n\t\n\nSeminar on Philosophical Issues\n\n\t\n\n3\n\n\n\n\nArea 4: Other Elective Courses\n\n\n\n\nPHIL1210\n\n\t\n\nPhilosophical Thinking Through Writing\n\n\t\n\n3\n\n\n\n\nPHIL2060\n\n\t\n\nPhilosophy and Human Conditions\n\n\t\n\n3\n\n\n\n\nPHIL2400\n\n\t\n\nIntroductory Latin\n\n\t\n\n3\n\n\n\n\nArea 5: Graduate Courses\n\n\n\n\nPHIL5070\n\n\t\n\nSeminar on Chinese Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL5090\n\n\t\n\nSeminar on Western Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL5110\n\n\t\n\nSeminar on Eastern Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL5130\n\n\t\n\nTopics in Chinese Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL5150\n\n\t\n\nTopics in Western Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL5170\n\n\t\n\nTopics in Eastern Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL5180\n\n\t\n\nSeminar on Selected Philosophical Issues\n\n\t\n\n1\n\n\n\n\nPHIL5190\n\n\t\n\nSeminar on Comparative Philosophy: East and West\n\n\t\n\n3\n\n\n\n\nPHIL5310\n\n\t\n\nSeminar on Pre-modern Chinese Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL5320\n\n\t\n\nSeminar on Modern and Contemporary Chinese Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL5330\n\n\t\n\nSeminar: Issues in the History of Chinese Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL5340\n\n\t\n\nSeminar on Modern Western Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL5350\n\n\t\n\nSeminar on Contemporary Anglo-American Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL5360\n\n\t\n\nSeminar on Continental European Philosophy\n\n\t\n\n3\n\n\n\n\nPHIL5370\n\n\t\n\nSeminar: Issues in the History of Western Philosophy\n\n\t\n\n3\n\n \n\n\n \n\nStudy Scheme\n\n\nLearning Outcomes\n \n\n\t\n\n \n\n1.\n\n\t\n\nMajor Programme:\n\n\n\n\nGraduates from the programme will have:\n\n\n\n\n(1)\n\n\t\n\nacquired a sound knowledge of the Eastern and Western (both continental and analytic) philosophical traditions (K/S);\n\n\n\n\n(2)\n\n\t\n\ngained an understanding of the historical and cultural backgrounds of philosophical thoughts (K/S);\n\n\n\n\n(3)\n\n\t\n\ngained the ability to read and interpret classical philosophical texts, to analyze the content, and to evaluate the arguments (K/S);\n\n\n\n\n(4)\n\n\t\n\nacquired a grasp of the central issues of philosophy and to reflect on their contemporary relevance (K/S/V);\n\n\n\n\n(5)\n\n\t\n\nlearnt basic concepts and methods in logic, to assess arguments in various contexts, and to identify and analyze informal fallacies (K/S);\n\n\n\n\n(6)\n\n\t\n\ngained the ability to engage in critical discussion, to put forward and defend their own ideas, and to master the expository and critical skills for argumentative writing (K/S);\n\n\n\n\n(7)\n\n\t\n\nfostered a sensibility toward ethical, social, political, and cultural issues (K/S/V);\n\n\n\n\n(8)\n\n\t\n\nappreciated the role and importance of philosophical reflection in various matters and to bring it to bear on things that matter in life (K/S/V);\n\n\n\n\n(9)\n\n\t\n\nbecome an independent and critical thinker and to be equipped with life-long learning capacities (K/S/V).\n\n\n\n\nK = Knowledge outcomes; S = Skills outcomes; V = Value and attitude outcomes\n\n \n\n\n\n\n2.\n\n\t\n\nMinor Programme:\n\n\n\n\nUpon the completion of the Minor Programme, students will have demonstrated basic understanding of fundamental issues related to the subject, acquired knowledge of some aspects of the subject with sufficient exposure and at a suitable level to allow further study in this subject or related subjects or to pursue a related career.\n\n \n\n \n\n \n\n\n"
+}

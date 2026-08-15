@@ -1,0 +1,1949 @@
+{
+  "programme_id": "Bachelor_of_Nursing__Faculty_of_Medicine",
+  "academic_program": "Bachelor of Nursing",
+  "faculty": "Faculty of Medicine",
+  "academic_year": 2024,
+  "admission_cohort": "2024-25",
+  "requirement_summary": {
+    "minimum_units_as_printed": "a minimum of 112 units",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Faculty Package",
+        "units_as_printed": "10",
+        "course_mentions": [
+          {
+            "course_code": "MEDF1011",
+            "prefix_inferred": false,
+            "evidence": "MEDF1011, 1012, 1021, 1031 and 1041"
+          },
+          {
+            "course_code": "MEDF1012",
+            "prefix_inferred": true,
+            "evidence": "MEDF1011, 1012, 1021, 1031 and 1041"
+          },
+          {
+            "course_code": "MEDF1021",
+            "prefix_inferred": true,
+            "evidence": "MEDF1011, 1012, 1021, 1031 and 1041"
+          },
+          {
+            "course_code": "MEDF1031",
+            "prefix_inferred": true,
+            "evidence": "MEDF1011, 1012, 1021, 1031 and 1041"
+          },
+          {
+            "course_code": "MEDF1041",
+            "prefix_inferred": true,
+            "evidence": "MEDF1011, 1012, 1021, 1031 and 1041"
+          }
+        ],
+        "raw_text": "10\nMEDF1011, 1012, 1021, 1031 and 1041"
+      },
+      {
+        "number": 2,
+        "title": "Required Courses",
+        "units_as_printed": "99",
+        "course_mentions": [
+          {
+            "course_code": "NURS1151",
+            "prefix_inferred": false,
+            "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS1162",
+            "prefix_inferred": true,
+            "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS1163",
+            "prefix_inferred": true,
+            "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS1164",
+            "prefix_inferred": true,
+            "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS1242",
+            "prefix_inferred": true,
+            "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS1403",
+            "prefix_inferred": true,
+            "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS1603",
+            "prefix_inferred": true,
+            "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS1701",
+            "prefix_inferred": true,
+            "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS3121",
+            "prefix_inferred": true,
+            "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS3126",
+            "prefix_inferred": true,
+            "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS3127",
+            "prefix_inferred": true,
+            "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS3131",
+            "prefix_inferred": true,
+            "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS3135",
+            "prefix_inferred": true,
+            "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS3136",
+            "prefix_inferred": true,
+            "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS3142",
+            "prefix_inferred": true,
+            "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS3143",
+            "prefix_inferred": true,
+            "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS3144",
+            "prefix_inferred": true,
+            "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS3145",
+            "prefix_inferred": true,
+            "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS3148",
+            "prefix_inferred": true,
+            "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS3152",
+            "prefix_inferred": true,
+            "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS3153",
+            "prefix_inferred": true,
+            "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS3154",
+            "prefix_inferred": true,
+            "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS3157",
+            "prefix_inferred": true,
+            "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS3159",
+            "prefix_inferred": true,
+            "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS4102",
+            "prefix_inferred": true,
+            "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS4121",
+            "prefix_inferred": true,
+            "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS4122",
+            "prefix_inferred": true,
+            "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS4123",
+            "prefix_inferred": true,
+            "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS4124",
+            "prefix_inferred": true,
+            "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          }
+        ],
+        "raw_text": "99\nNURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+      },
+      {
+        "number": 3,
+        "title": "Elective Courses",
+        "units_as_printed": "3",
+        "course_mentions": [
+          {
+            "course_code": "NURS2111",
+            "prefix_inferred": false,
+            "evidence": "NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+          },
+          {
+            "course_code": "NURS2112",
+            "prefix_inferred": true,
+            "evidence": "NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+          },
+          {
+            "course_code": "NURS2113",
+            "prefix_inferred": true,
+            "evidence": "NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+          },
+          {
+            "course_code": "NURS2114",
+            "prefix_inferred": true,
+            "evidence": "NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+          },
+          {
+            "course_code": "NURS2115",
+            "prefix_inferred": true,
+            "evidence": "NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+          },
+          {
+            "course_code": "NURS2116",
+            "prefix_inferred": true,
+            "evidence": "NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+          },
+          {
+            "course_code": "NURS2118",
+            "prefix_inferred": true,
+            "evidence": "NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+          },
+          {
+            "course_code": "NURS2121",
+            "prefix_inferred": true,
+            "evidence": "NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+          },
+          {
+            "course_code": "NURS2122",
+            "prefix_inferred": true,
+            "evidence": "NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+          }
+        ],
+        "raw_text": "1 course chosen from the following:\n3\nNURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122\nTotal:\n112\nExplanatory Notes:"
+      },
+      {
+        "number": 1,
+        "title": "2.",
+        "units_as_printed": "5",
+        "course_mentions": [
+          {
+            "course_code": "MEDF1011",
+            "prefix_inferred": false,
+            "evidence": "Faculty Package: MEDF1011, 1021, 1041"
+          },
+          {
+            "course_code": "MEDF1021",
+            "prefix_inferred": true,
+            "evidence": "Faculty Package: MEDF1011, 1021, 1041"
+          },
+          {
+            "course_code": "MEDF1041",
+            "prefix_inferred": true,
+            "evidence": "Faculty Package: MEDF1011, 1021, 1041"
+          },
+          {
+            "course_code": "NURS1151",
+            "prefix_inferred": false,
+            "evidence": "Major Required: NURS1151"
+          },
+          {
+            "course_code": "MEDF1012",
+            "prefix_inferred": false,
+            "evidence": "Faculty Package: MEDF1012, 1031"
+          },
+          {
+            "course_code": "MEDF1031",
+            "prefix_inferred": true,
+            "evidence": "Faculty Package: MEDF1012, 1031"
+          },
+          {
+            "course_code": "NURS1162",
+            "prefix_inferred": false,
+            "evidence": "Major Required: NURS1162"
+          },
+          {
+            "course_code": "NURS1164",
+            "prefix_inferred": false,
+            "evidence": "Major Required: NURS1164, 1403, 1603"
+          },
+          {
+            "course_code": "NURS1403",
+            "prefix_inferred": true,
+            "evidence": "Major Required: NURS1164, 1403, 1603"
+          },
+          {
+            "course_code": "NURS1603",
+            "prefix_inferred": true,
+            "evidence": "Major Required: NURS1164, 1403, 1603"
+          },
+          {
+            "course_code": "NURS1163",
+            "prefix_inferred": false,
+            "evidence": "Major Required: NURS1163, 1701, 3127"
+          },
+          {
+            "course_code": "NURS1701",
+            "prefix_inferred": true,
+            "evidence": "Major Required: NURS1163, 1701, 3127"
+          },
+          {
+            "course_code": "NURS3127",
+            "prefix_inferred": true,
+            "evidence": "Major Required: NURS1163, 1701, 3127"
+          },
+          {
+            "course_code": "NURS1242",
+            "prefix_inferred": false,
+            "evidence": "Major Required: NURS1242"
+          },
+          {
+            "course_code": "NURS3135",
+            "prefix_inferred": false,
+            "evidence": "Major Required: NURS3135, 3142, 3143, 3145"
+          },
+          {
+            "course_code": "NURS3142",
+            "prefix_inferred": true,
+            "evidence": "Major Required: NURS3135, 3142, 3143, 3145"
+          },
+          {
+            "course_code": "NURS3143",
+            "prefix_inferred": true,
+            "evidence": "Major Required: NURS3135, 3142, 3143, 3145"
+          },
+          {
+            "course_code": "NURS3145",
+            "prefix_inferred": true,
+            "evidence": "Major Required: NURS3135, 3142, 3143, 3145"
+          },
+          {
+            "course_code": "NURS3121",
+            "prefix_inferred": false,
+            "evidence": "Major Required: NURS3121, 3136, 3144, 3152"
+          },
+          {
+            "course_code": "NURS3136",
+            "prefix_inferred": true,
+            "evidence": "Major Required: NURS3121, 3136, 3144, 3152"
+          },
+          {
+            "course_code": "NURS3144",
+            "prefix_inferred": true,
+            "evidence": "Major Required: NURS3121, 3136, 3144, 3152"
+          },
+          {
+            "course_code": "NURS3152",
+            "prefix_inferred": true,
+            "evidence": "Major Required: NURS3121, 3136, 3144, 3152"
+          },
+          {
+            "course_code": "NURS3148",
+            "prefix_inferred": false,
+            "evidence": "Major Required: NURS3148"
+          },
+          {
+            "course_code": "NURS3131",
+            "prefix_inferred": false,
+            "evidence": "Major Required: NURS3131, 3153, 3157"
+          },
+          {
+            "course_code": "NURS3153",
+            "prefix_inferred": true,
+            "evidence": "Major Required: NURS3131, 3153, 3157"
+          },
+          {
+            "course_code": "NURS3157",
+            "prefix_inferred": true,
+            "evidence": "Major Required: NURS3131, 3153, 3157"
+          },
+          {
+            "course_code": "NURS3126",
+            "prefix_inferred": false,
+            "evidence": "Major Required: NURS3126, 3154, 4121"
+          },
+          {
+            "course_code": "NURS3154",
+            "prefix_inferred": true,
+            "evidence": "Major Required: NURS3126, 3154, 4121"
+          },
+          {
+            "course_code": "NURS4121",
+            "prefix_inferred": true,
+            "evidence": "Major Required: NURS3126, 3154, 4121"
+          },
+          {
+            "course_code": "NURS3159",
+            "prefix_inferred": false,
+            "evidence": "Major Required: NURS3159"
+          },
+          {
+            "course_code": "NURS4102",
+            "prefix_inferred": false,
+            "evidence": "Major Required: NURS4102, 4122"
+          },
+          {
+            "course_code": "NURS4122",
+            "prefix_inferred": true,
+            "evidence": "Major Required: NURS4102, 4122"
+          },
+          {
+            "course_code": "NURS2111",
+            "prefix_inferred": false,
+            "evidence": "Major Elective(s): 1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+          },
+          {
+            "course_code": "NURS2112",
+            "prefix_inferred": true,
+            "evidence": "Major Elective(s): 1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+          },
+          {
+            "course_code": "NURS2113",
+            "prefix_inferred": true,
+            "evidence": "Major Elective(s): 1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+          },
+          {
+            "course_code": "NURS2114",
+            "prefix_inferred": true,
+            "evidence": "Major Elective(s): 1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+          },
+          {
+            "course_code": "NURS2115",
+            "prefix_inferred": true,
+            "evidence": "Major Elective(s): 1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+          },
+          {
+            "course_code": "NURS2116",
+            "prefix_inferred": true,
+            "evidence": "Major Elective(s): 1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+          },
+          {
+            "course_code": "NURS2118",
+            "prefix_inferred": true,
+            "evidence": "Major Elective(s): 1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+          },
+          {
+            "course_code": "NURS2121",
+            "prefix_inferred": true,
+            "evidence": "Major Elective(s): 1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+          },
+          {
+            "course_code": "NURS2122",
+            "prefix_inferred": true,
+            "evidence": "Major Elective(s): 1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+          },
+          {
+            "course_code": "NURS4123",
+            "prefix_inferred": false,
+            "evidence": "Major Required: NURS4123, 4124"
+          },
+          {
+            "course_code": "NURS4124",
+            "prefix_inferred": true,
+            "evidence": "Major Required: NURS4123, 4124"
+          }
+        ],
+        "raw_text": "[a]\nNURS courses at 3000 and above level will be included in the calculation of Major GPA for honours classification.\nStudents are allowed to take supplementary examinations for all of the above courses.\nCapstone courses\nRecommended Course Pattern\nUnits\nFirst Year of\nAttendance\n1st term\nFaculty Package: MEDF1011, 1021, 1041\nMajor Required: NURS1151\nMajor Elective(s):\n5\n2\n2nd term\nFaculty Package: MEDF1012, 1031\nMajor Required: NURS1162\nMajor Elective(s):\n5\n3\nSecond Year of Attendance\n1st term\nMajor Required: NURS1164, 1403, 1603\nMajor Elective(s):\n9\n2nd term\nMajor Required: NURS1163, 1701, 3127\nMajor Elective(s):\n8\nSummer Session\nMajor Required: NURS1242\nMajor Elective(s):\n2\nThird Year of Attendance\n1st term\nMajor Required: NURS3135, 3142, 3143, 3145\nMajor Elective(s):\n15\n2nd term\nMajor Required: NURS3121, 3136, 3144, 3152\nMajor Elective(s):\n16\nSummer Session\nMajor Required: NURS3148\nMajor Elective(s):\n4\nFourth Year of Attendance\n1st term\nMajor Required: NURS3131, 3153, 3157\nMajor Elective(s):\n10\n2nd term\nMajor Required: NURS3126, 3154, 4121\nMajor Elective(s):\n10\nSummer Session\nMajor Required: NURS3159\nMajor Elective(s):\n5\nFifth Year of Attendance\n1st term\nMajor Required: NURS4102, 4122\nMajor Elective(s): 1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122\n6\n3\n2nd term\nMajor Required: NURS4123, 4124\nMajor Elective(s):\n9\nTotal (including Faculty Package):\n112\nMajor Programme Requirement (for Associate Degree or Higher Diploma holders admitted to senior-year places)\nStudents are required to complete a minimum of 69 units of courses as follows:\nUnits"
+      },
+      {
+        "number": 1,
+        "title": "Required Courses",
+        "units_as_printed": "61",
+        "course_mentions": [
+          {
+            "course_code": "NURS3135",
+            "prefix_inferred": false,
+            "evidence": "NURS3135[a], 3142, 3143, 3144, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS3142",
+            "prefix_inferred": true,
+            "evidence": "NURS3135[a], 3142, 3143, 3144, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS3143",
+            "prefix_inferred": true,
+            "evidence": "NURS3135[a], 3142, 3143, 3144, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS3144",
+            "prefix_inferred": true,
+            "evidence": "NURS3135[a], 3142, 3143, 3144, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS3148",
+            "prefix_inferred": true,
+            "evidence": "NURS3135[a], 3142, 3143, 3144, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS3152",
+            "prefix_inferred": true,
+            "evidence": "NURS3135[a], 3142, 3143, 3144, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS3153",
+            "prefix_inferred": true,
+            "evidence": "NURS3135[a], 3142, 3143, 3144, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS3154",
+            "prefix_inferred": true,
+            "evidence": "NURS3135[a], 3142, 3143, 3144, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS3157",
+            "prefix_inferred": true,
+            "evidence": "NURS3135[a], 3142, 3143, 3144, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS3159",
+            "prefix_inferred": true,
+            "evidence": "NURS3135[a], 3142, 3143, 3144, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS4102",
+            "prefix_inferred": true,
+            "evidence": "NURS3135[a], 3142, 3143, 3144, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS4121",
+            "prefix_inferred": true,
+            "evidence": "NURS3135[a], 3142, 3143, 3144, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS4122",
+            "prefix_inferred": true,
+            "evidence": "NURS3135[a], 3142, 3143, 3144, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS4123",
+            "prefix_inferred": true,
+            "evidence": "NURS3135[a], 3142, 3143, 3144, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          },
+          {
+            "course_code": "NURS4124",
+            "prefix_inferred": true,
+            "evidence": "NURS3135[a], 3142, 3143, 3144, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+          }
+        ],
+        "raw_text": "61\nNURS3135[a], 3142, 3143, 3144, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+      },
+      {
+        "number": 2,
+        "title": "Elective Courses",
+        "units_as_printed": "5",
+        "course_mentions": [
+          {
+            "course_code": "NURS3121",
+            "prefix_inferred": false,
+            "evidence": "NURS3121, 3126, 3131, 3136, 3145"
+          },
+          {
+            "course_code": "NURS3126",
+            "prefix_inferred": true,
+            "evidence": "NURS3121, 3126, 3131, 3136, 3145"
+          },
+          {
+            "course_code": "NURS3131",
+            "prefix_inferred": true,
+            "evidence": "NURS3121, 3126, 3131, 3136, 3145"
+          },
+          {
+            "course_code": "NURS3136",
+            "prefix_inferred": true,
+            "evidence": "NURS3121, 3126, 3131, 3136, 3145"
+          },
+          {
+            "course_code": "NURS3145",
+            "prefix_inferred": true,
+            "evidence": "NURS3121, 3126, 3131, 3136, 3145"
+          },
+          {
+            "course_code": "NURS2111",
+            "prefix_inferred": false,
+            "evidence": "NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+          },
+          {
+            "course_code": "NURS2112",
+            "prefix_inferred": true,
+            "evidence": "NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+          },
+          {
+            "course_code": "NURS2113",
+            "prefix_inferred": true,
+            "evidence": "NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+          },
+          {
+            "course_code": "NURS2114",
+            "prefix_inferred": true,
+            "evidence": "NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+          },
+          {
+            "course_code": "NURS2115",
+            "prefix_inferred": true,
+            "evidence": "NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+          },
+          {
+            "course_code": "NURS2116",
+            "prefix_inferred": true,
+            "evidence": "NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+          },
+          {
+            "course_code": "NURS2118",
+            "prefix_inferred": true,
+            "evidence": "NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+          },
+          {
+            "course_code": "NURS2121",
+            "prefix_inferred": true,
+            "evidence": "NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+          },
+          {
+            "course_code": "NURS2122",
+            "prefix_inferred": true,
+            "evidence": "NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+          }
+        ],
+        "raw_text": "(a)\n5 units of courses chosen from the following:\nNURS3121, 3126, 3131, 3136, 3145\n5\n(b)\n1 course chosen from the following:\nNURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122\n3\nTotal:\n69\nExplanatory Notes:"
+      },
+      {
+        "number": 3,
+        "title": "[a]",
+        "units_as_printed": "10",
+        "course_mentions": [
+          {
+            "course_code": "NURS3142",
+            "prefix_inferred": false,
+            "evidence": "Major Required: NURS3142, 3143"
+          },
+          {
+            "course_code": "NURS3143",
+            "prefix_inferred": true,
+            "evidence": "Major Required: NURS3142, 3143"
+          },
+          {
+            "course_code": "NURS3121",
+            "prefix_inferred": false,
+            "evidence": "Major Elective(s): 0-2 course(s) from NURS3121, 3126, 3131, 3136, 3145"
+          },
+          {
+            "course_code": "NURS3126",
+            "prefix_inferred": true,
+            "evidence": "Major Elective(s): 0-2 course(s) from NURS3121, 3126, 3131, 3136, 3145"
+          },
+          {
+            "course_code": "NURS3131",
+            "prefix_inferred": true,
+            "evidence": "Major Elective(s): 0-2 course(s) from NURS3121, 3126, 3131, 3136, 3145"
+          },
+          {
+            "course_code": "NURS3136",
+            "prefix_inferred": true,
+            "evidence": "Major Elective(s): 0-2 course(s) from NURS3121, 3126, 3131, 3136, 3145"
+          },
+          {
+            "course_code": "NURS3145",
+            "prefix_inferred": true,
+            "evidence": "Major Elective(s): 0-2 course(s) from NURS3121, 3126, 3131, 3136, 3145"
+          },
+          {
+            "course_code": "NURS3144",
+            "prefix_inferred": false,
+            "evidence": "Major Required: NURS3144, 3152"
+          },
+          {
+            "course_code": "NURS3152",
+            "prefix_inferred": true,
+            "evidence": "Major Required: NURS3144, 3152"
+          },
+          {
+            "course_code": "NURS3148",
+            "prefix_inferred": false,
+            "evidence": "Major Required: NURS3148"
+          },
+          {
+            "course_code": "NURS3153",
+            "prefix_inferred": false,
+            "evidence": "Major Required: NURS3153, 3157"
+          },
+          {
+            "course_code": "NURS3157",
+            "prefix_inferred": true,
+            "evidence": "Major Required: NURS3153, 3157"
+          },
+          {
+            "course_code": "NURS3135",
+            "prefix_inferred": false,
+            "evidence": "Major Required: NURS3135, 3154, 4121"
+          },
+          {
+            "course_code": "NURS3154",
+            "prefix_inferred": true,
+            "evidence": "Major Required: NURS3135, 3154, 4121"
+          },
+          {
+            "course_code": "NURS4121",
+            "prefix_inferred": true,
+            "evidence": "Major Required: NURS3135, 3154, 4121"
+          },
+          {
+            "course_code": "NURS3159",
+            "prefix_inferred": false,
+            "evidence": "Major Required: NURS3159"
+          },
+          {
+            "course_code": "NURS4102",
+            "prefix_inferred": false,
+            "evidence": "Major Required: NURS4102, 4122"
+          },
+          {
+            "course_code": "NURS4122",
+            "prefix_inferred": true,
+            "evidence": "Major Required: NURS4102, 4122"
+          },
+          {
+            "course_code": "NURS2111",
+            "prefix_inferred": false,
+            "evidence": "(a) 1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+          },
+          {
+            "course_code": "NURS2112",
+            "prefix_inferred": true,
+            "evidence": "(a) 1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+          },
+          {
+            "course_code": "NURS2113",
+            "prefix_inferred": true,
+            "evidence": "(a) 1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+          },
+          {
+            "course_code": "NURS2114",
+            "prefix_inferred": true,
+            "evidence": "(a) 1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+          },
+          {
+            "course_code": "NURS2115",
+            "prefix_inferred": true,
+            "evidence": "(a) 1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+          },
+          {
+            "course_code": "NURS2116",
+            "prefix_inferred": true,
+            "evidence": "(a) 1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+          },
+          {
+            "course_code": "NURS2118",
+            "prefix_inferred": true,
+            "evidence": "(a) 1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+          },
+          {
+            "course_code": "NURS2121",
+            "prefix_inferred": true,
+            "evidence": "(a) 1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+          },
+          {
+            "course_code": "NURS2122",
+            "prefix_inferred": true,
+            "evidence": "(a) 1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+          },
+          {
+            "course_code": "NURS3121",
+            "prefix_inferred": false,
+            "evidence": "(b) 0-2 course(s) from NURS3121, 3126, 3131, 3136, 3145"
+          },
+          {
+            "course_code": "NURS3126",
+            "prefix_inferred": true,
+            "evidence": "(b) 0-2 course(s) from NURS3121, 3126, 3131, 3136, 3145"
+          },
+          {
+            "course_code": "NURS3131",
+            "prefix_inferred": true,
+            "evidence": "(b) 0-2 course(s) from NURS3121, 3126, 3131, 3136, 3145"
+          },
+          {
+            "course_code": "NURS3136",
+            "prefix_inferred": true,
+            "evidence": "(b) 0-2 course(s) from NURS3121, 3126, 3131, 3136, 3145"
+          },
+          {
+            "course_code": "NURS3145",
+            "prefix_inferred": true,
+            "evidence": "(b) 0-2 course(s) from NURS3121, 3126, 3131, 3136, 3145"
+          },
+          {
+            "course_code": "NURS4123",
+            "prefix_inferred": false,
+            "evidence": "Major Required: NURS4123, 4124"
+          },
+          {
+            "course_code": "NURS4124",
+            "prefix_inferred": true,
+            "evidence": "Major Required: NURS4123, 4124"
+          },
+          {
+            "course_code": "NURS1151",
+            "prefix_inferred": false,
+            "evidence": "NURS1151"
+          },
+          {
+            "course_code": "NURS1162",
+            "prefix_inferred": false,
+            "evidence": "NURS1162"
+          },
+          {
+            "course_code": "NURS1163",
+            "prefix_inferred": false,
+            "evidence": "NURS1163"
+          },
+          {
+            "course_code": "NURS1164",
+            "prefix_inferred": false,
+            "evidence": "NURS1164"
+          },
+          {
+            "course_code": "NURS1242",
+            "prefix_inferred": false,
+            "evidence": "NURS1242"
+          },
+          {
+            "course_code": "NURS1403",
+            "prefix_inferred": false,
+            "evidence": "NURS1403"
+          },
+          {
+            "course_code": "NURS1603",
+            "prefix_inferred": false,
+            "evidence": "NURS1603"
+          },
+          {
+            "course_code": "NURS1701",
+            "prefix_inferred": false,
+            "evidence": "NURS1701"
+          },
+          {
+            "course_code": "NURS2111",
+            "prefix_inferred": false,
+            "evidence": "NURS2111"
+          },
+          {
+            "course_code": "NURS2112",
+            "prefix_inferred": false,
+            "evidence": "NURS2112"
+          },
+          {
+            "course_code": "NURS2113",
+            "prefix_inferred": false,
+            "evidence": "NURS2113"
+          },
+          {
+            "course_code": "NURS2114",
+            "prefix_inferred": false,
+            "evidence": "NURS2114"
+          },
+          {
+            "course_code": "NURS2115",
+            "prefix_inferred": false,
+            "evidence": "NURS2115"
+          },
+          {
+            "course_code": "NURS2116",
+            "prefix_inferred": false,
+            "evidence": "NURS2116"
+          },
+          {
+            "course_code": "NURS2118",
+            "prefix_inferred": false,
+            "evidence": "NURS2118"
+          },
+          {
+            "course_code": "NURS2121",
+            "prefix_inferred": false,
+            "evidence": "NURS2121"
+          },
+          {
+            "course_code": "NURS2122",
+            "prefix_inferred": false,
+            "evidence": "NURS2122"
+          },
+          {
+            "course_code": "NURS3121",
+            "prefix_inferred": false,
+            "evidence": "NURS3121"
+          },
+          {
+            "course_code": "NURS3126",
+            "prefix_inferred": false,
+            "evidence": "NURS3126"
+          },
+          {
+            "course_code": "NURS3127",
+            "prefix_inferred": false,
+            "evidence": "NURS3127"
+          },
+          {
+            "course_code": "NURS3131",
+            "prefix_inferred": false,
+            "evidence": "NURS3131"
+          },
+          {
+            "course_code": "NURS3135",
+            "prefix_inferred": false,
+            "evidence": "NURS3135"
+          },
+          {
+            "course_code": "NURS3136",
+            "prefix_inferred": false,
+            "evidence": "NURS3136"
+          },
+          {
+            "course_code": "NURS3142",
+            "prefix_inferred": false,
+            "evidence": "NURS3142"
+          },
+          {
+            "course_code": "NURS3143",
+            "prefix_inferred": false,
+            "evidence": "NURS3143"
+          },
+          {
+            "course_code": "NURS3144",
+            "prefix_inferred": false,
+            "evidence": "NURS3144"
+          },
+          {
+            "course_code": "NURS3145",
+            "prefix_inferred": false,
+            "evidence": "NURS3145"
+          },
+          {
+            "course_code": "NURS3148",
+            "prefix_inferred": false,
+            "evidence": "NURS3148"
+          },
+          {
+            "course_code": "NURS3152",
+            "prefix_inferred": false,
+            "evidence": "NURS3152"
+          },
+          {
+            "course_code": "NURS3153",
+            "prefix_inferred": false,
+            "evidence": "NURS3153"
+          },
+          {
+            "course_code": "NURS3154",
+            "prefix_inferred": false,
+            "evidence": "NURS3154"
+          },
+          {
+            "course_code": "NURS3157",
+            "prefix_inferred": false,
+            "evidence": "NURS3157"
+          },
+          {
+            "course_code": "NURS3159",
+            "prefix_inferred": false,
+            "evidence": "NURS3159"
+          },
+          {
+            "course_code": "NURS4102",
+            "prefix_inferred": false,
+            "evidence": "NURS4102"
+          },
+          {
+            "course_code": "NURS4121",
+            "prefix_inferred": false,
+            "evidence": "NURS4121"
+          },
+          {
+            "course_code": "NURS4122",
+            "prefix_inferred": false,
+            "evidence": "NURS4122"
+          },
+          {
+            "course_code": "NURS4123",
+            "prefix_inferred": false,
+            "evidence": "NURS4123"
+          },
+          {
+            "course_code": "NURS4124",
+            "prefix_inferred": false,
+            "evidence": "NURS4124"
+          }
+        ],
+        "raw_text": "Students are allowed to take supplementary examinations for all of the above courses including required, elective and foundation courses.\nCapstone courses\nRecommended Course Pattern (for Associate Degree or Higher Diploma holders admitted to senior-year places)\nUnits\nFirst Year of\nAttendance\n1st term\nMajor Required: NURS3142, 3143\nMajor Elective(s): 0-2 course(s) from NURS3121, 3126, 3131, 3136, 3145\n10\n0-5\n2nd term\nMajor Required: NURS3144, 3152\nMajor Elective(s): 0-2 course(s) from NURS3121, 3126, 3131, 3136, 3145\n10\n0-5\nSummer Session\nMajor Required: NURS3148\nMajor Elective(s):\n4\nSecond Year of\nAttendance\n1st term\nMajor Required: NURS3153, 3157\nMajor Elective(s): 0-2 course(s) from NURS3121, 3126, 3131, 3136, 3145\n7\n0-5\n2nd term\nMajor Required: NURS3135, 3154, 4121\nMajor Elective(s): 0-2 course(s) from NURS3121, 3126, 3131, 3136, 3145\n10\n0-5\nSummer Session\nMajor Required: NURS3159\nMajor Elective(s):\n5\nThird Year of\nAttendance\n1st term\nMajor Required: NURS4102, 4122\nMajor Elective(s):\n(a) 1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122\n(b) 0-2 course(s) from NURS3121, 3126, 3131, 3136, 3145\n6\n3\n0-5\n2nd term\nMajor Required: NURS4123, 4124\nMajor Elective(s): 0-2 course(s) from NURS3121, 3126, 3131, 3136, 3145\n9\n0-5\nTotal:\n69\nCourse List\nCourse Code\nCourse Title\nUnit(s)\nNURS1151\nDevelopment of Nursing\n2\nNURS1162\nFundamentals of Nursing I\n3\nNURS1163\nFundamentals of Nursing II\n3\nNURS1164\nFundamentals of Nursing III\n3\nNURS1242\nClinical Practice I\n2\nNURS1403\nAnatomy\n3\nNURS1603\nPhysiology\n3\nNURS1701\nMicrobiology\n2\nNURS2111\nInfectious Diseases and Their Control\n3\nNURS2112\nDisaster Nursing\n3\nNURS2113\nCulture and Nursing\n3\nNURS2114\nApplication of Public Health and Epidemiology in Nursing\n3\nNURS2115\nThe Hong Kong Health Care System\n3\nNURS2116\nScholarly Inquiries in Nursing\n3\nNURS2118\nStudent Exchange Programme\n3\nNURS2121\nTraditional Chinese Medicine Nursing\n3\nNURS2122\nFundamentals of Genetic and Genomic Nursing\n3\nNURS3121\nComplementary and Alternative Medicine\n3\nNURS3126\nHealth Promotion\n3\nNURS3127\nIntroduction to Behavioural and Social Sciences\n3\nNURS3131\nTrends and Professional Issues in Nursing\n3\nNURS3135\nNursing Research\n3\nNURS3136\nApplication of Behavioural and Social Sciences in Nursing\n3\nNURS3142\nNursing in the Community\n5\nNURS3143\nNursing in the Hospital I\n5\nNURS3144\nNursing in the Hospital II\n5\nNURS3145\nEthical and Legal Issues in Nursing\n2\nNURS3148\nClinical Practice II\n4\nNURS3152\nNursing in Clinical Specialties I\n5\nNURS3153\nNursing in Clinical Specialties II\n4\nNURS3154\nNursing in Clinical Specialties III\n3\nNURS3157\nClinical Practice III\n3\nNURS3159\nClinical Practice IV\n5\nNURS4102\nCoordinating Nursing Practice\n3\nNURS4121\nNursing for Complex Health Needs\n4\nNURS4122\nClinical Practice V\n3\nNURS4123\nClinical Practice VI\n4\nNURS4124\nClinical Practice VII\n5\nStudy Scheme\nLearning Outcomes\n1. Major Programme:\nUpon completion of the programme, students are able to:\n(1) provide evidence-based care that supports physical and homeostatic functioning, promotes psychosocial functioning and life-style changes, protects against harm, recognizes the patients as a member of the family unit and community, and leverages on effective use of the health-care delivery system (K/S/V).\n(2) apply appropriate clinical and nursing therapeutic techniques unsupervised (K/S).\n(3) apply the principles of health promotion in meeting the health needs of individuals, groups, families and communities (K/S/V).\n(4) demonstrate effective skills in communicating with patients, carers, peers and the health care team (S).\n(5) coordinate the care of clients in hospital and community settings (K/S).\n(6) apply technology in the processing of information for nursing practice and research (K/S).\n(7) provide patient-centred care using the nursing process as a problem solving approach (K/S).\n(8) recognize, explain and manage health problems using basic, social, behavioural, clinical sciences and managerial principles (K/S).\n(9) display appropriate professional attitudes and apply relevant ethical and legal principles in the practice of nursing (K/V).\n(10) demonstrate competent decision-making, clinical reasoning and judgment skills to make decisions and take actions (S/V).\n(11) demonstrate understanding of self and engage in ongoing lifelong personal development (V).\n(12) recognize the roles of nurses within a health service institution and their influences on its development, and engage in the development of nursing as a health-care profession (K/V).\n(13) uphold the professional code of conduct (K/V).\n(14) incorporate cultural factors into the practice of nursing (V).\nK = Knowledge outcomes S = Skills outcomes V = Values and attitudes outcomes"
+      }
+    ]
+  },
+  "all_course_mentions": [
+    {
+      "course_code": "MEDF1011",
+      "prefix_inferred": false,
+      "evidence": "MEDF1011, 1012, 1021, 1031 and 1041"
+    },
+    {
+      "course_code": "MEDF1012",
+      "prefix_inferred": true,
+      "evidence": "MEDF1011, 1012, 1021, 1031 and 1041"
+    },
+    {
+      "course_code": "MEDF1021",
+      "prefix_inferred": true,
+      "evidence": "MEDF1011, 1012, 1021, 1031 and 1041"
+    },
+    {
+      "course_code": "MEDF1031",
+      "prefix_inferred": true,
+      "evidence": "MEDF1011, 1012, 1021, 1031 and 1041"
+    },
+    {
+      "course_code": "MEDF1041",
+      "prefix_inferred": true,
+      "evidence": "MEDF1011, 1012, 1021, 1031 and 1041"
+    },
+    {
+      "course_code": "NURS1151",
+      "prefix_inferred": false,
+      "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS1162",
+      "prefix_inferred": true,
+      "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS1163",
+      "prefix_inferred": true,
+      "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS1164",
+      "prefix_inferred": true,
+      "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS1242",
+      "prefix_inferred": true,
+      "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS1403",
+      "prefix_inferred": true,
+      "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS1603",
+      "prefix_inferred": true,
+      "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS1701",
+      "prefix_inferred": true,
+      "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS3121",
+      "prefix_inferred": true,
+      "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS3126",
+      "prefix_inferred": true,
+      "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS3127",
+      "prefix_inferred": true,
+      "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS3131",
+      "prefix_inferred": true,
+      "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS3135",
+      "prefix_inferred": true,
+      "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS3136",
+      "prefix_inferred": true,
+      "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS3142",
+      "prefix_inferred": true,
+      "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS3143",
+      "prefix_inferred": true,
+      "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS3144",
+      "prefix_inferred": true,
+      "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS3145",
+      "prefix_inferred": true,
+      "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS3148",
+      "prefix_inferred": true,
+      "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS3152",
+      "prefix_inferred": true,
+      "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS3153",
+      "prefix_inferred": true,
+      "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS3154",
+      "prefix_inferred": true,
+      "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS3157",
+      "prefix_inferred": true,
+      "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS3159",
+      "prefix_inferred": true,
+      "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS4102",
+      "prefix_inferred": true,
+      "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS4121",
+      "prefix_inferred": true,
+      "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS4122",
+      "prefix_inferred": true,
+      "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS4123",
+      "prefix_inferred": true,
+      "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS4124",
+      "prefix_inferred": true,
+      "evidence": "NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS2111",
+      "prefix_inferred": false,
+      "evidence": "NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+    },
+    {
+      "course_code": "NURS2112",
+      "prefix_inferred": true,
+      "evidence": "NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+    },
+    {
+      "course_code": "NURS2113",
+      "prefix_inferred": true,
+      "evidence": "NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+    },
+    {
+      "course_code": "NURS2114",
+      "prefix_inferred": true,
+      "evidence": "NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+    },
+    {
+      "course_code": "NURS2115",
+      "prefix_inferred": true,
+      "evidence": "NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+    },
+    {
+      "course_code": "NURS2116",
+      "prefix_inferred": true,
+      "evidence": "NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+    },
+    {
+      "course_code": "NURS2118",
+      "prefix_inferred": true,
+      "evidence": "NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+    },
+    {
+      "course_code": "NURS2121",
+      "prefix_inferred": true,
+      "evidence": "NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+    },
+    {
+      "course_code": "NURS2122",
+      "prefix_inferred": true,
+      "evidence": "NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+    },
+    {
+      "course_code": "MEDF1011",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: MEDF1011, 1021, 1041"
+    },
+    {
+      "course_code": "MEDF1021",
+      "prefix_inferred": true,
+      "evidence": "Faculty Package: MEDF1011, 1021, 1041"
+    },
+    {
+      "course_code": "MEDF1041",
+      "prefix_inferred": true,
+      "evidence": "Faculty Package: MEDF1011, 1021, 1041"
+    },
+    {
+      "course_code": "NURS1151",
+      "prefix_inferred": false,
+      "evidence": "Major Required: NURS1151"
+    },
+    {
+      "course_code": "MEDF1012",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: MEDF1012, 1031"
+    },
+    {
+      "course_code": "MEDF1031",
+      "prefix_inferred": true,
+      "evidence": "Faculty Package: MEDF1012, 1031"
+    },
+    {
+      "course_code": "NURS1162",
+      "prefix_inferred": false,
+      "evidence": "Major Required: NURS1162"
+    },
+    {
+      "course_code": "NURS1164",
+      "prefix_inferred": false,
+      "evidence": "Major Required: NURS1164, 1403, 1603"
+    },
+    {
+      "course_code": "NURS1403",
+      "prefix_inferred": true,
+      "evidence": "Major Required: NURS1164, 1403, 1603"
+    },
+    {
+      "course_code": "NURS1603",
+      "prefix_inferred": true,
+      "evidence": "Major Required: NURS1164, 1403, 1603"
+    },
+    {
+      "course_code": "NURS1163",
+      "prefix_inferred": false,
+      "evidence": "Major Required: NURS1163, 1701, 3127"
+    },
+    {
+      "course_code": "NURS1701",
+      "prefix_inferred": true,
+      "evidence": "Major Required: NURS1163, 1701, 3127"
+    },
+    {
+      "course_code": "NURS3127",
+      "prefix_inferred": true,
+      "evidence": "Major Required: NURS1163, 1701, 3127"
+    },
+    {
+      "course_code": "NURS1242",
+      "prefix_inferred": false,
+      "evidence": "Major Required: NURS1242"
+    },
+    {
+      "course_code": "NURS3135",
+      "prefix_inferred": false,
+      "evidence": "Major Required: NURS3135, 3142, 3143, 3145"
+    },
+    {
+      "course_code": "NURS3142",
+      "prefix_inferred": true,
+      "evidence": "Major Required: NURS3135, 3142, 3143, 3145"
+    },
+    {
+      "course_code": "NURS3143",
+      "prefix_inferred": true,
+      "evidence": "Major Required: NURS3135, 3142, 3143, 3145"
+    },
+    {
+      "course_code": "NURS3145",
+      "prefix_inferred": true,
+      "evidence": "Major Required: NURS3135, 3142, 3143, 3145"
+    },
+    {
+      "course_code": "NURS3121",
+      "prefix_inferred": false,
+      "evidence": "Major Required: NURS3121, 3136, 3144, 3152"
+    },
+    {
+      "course_code": "NURS3136",
+      "prefix_inferred": true,
+      "evidence": "Major Required: NURS3121, 3136, 3144, 3152"
+    },
+    {
+      "course_code": "NURS3144",
+      "prefix_inferred": true,
+      "evidence": "Major Required: NURS3121, 3136, 3144, 3152"
+    },
+    {
+      "course_code": "NURS3152",
+      "prefix_inferred": true,
+      "evidence": "Major Required: NURS3121, 3136, 3144, 3152"
+    },
+    {
+      "course_code": "NURS3148",
+      "prefix_inferred": false,
+      "evidence": "Major Required: NURS3148"
+    },
+    {
+      "course_code": "NURS3131",
+      "prefix_inferred": false,
+      "evidence": "Major Required: NURS3131, 3153, 3157"
+    },
+    {
+      "course_code": "NURS3153",
+      "prefix_inferred": true,
+      "evidence": "Major Required: NURS3131, 3153, 3157"
+    },
+    {
+      "course_code": "NURS3157",
+      "prefix_inferred": true,
+      "evidence": "Major Required: NURS3131, 3153, 3157"
+    },
+    {
+      "course_code": "NURS3126",
+      "prefix_inferred": false,
+      "evidence": "Major Required: NURS3126, 3154, 4121"
+    },
+    {
+      "course_code": "NURS3154",
+      "prefix_inferred": true,
+      "evidence": "Major Required: NURS3126, 3154, 4121"
+    },
+    {
+      "course_code": "NURS4121",
+      "prefix_inferred": true,
+      "evidence": "Major Required: NURS3126, 3154, 4121"
+    },
+    {
+      "course_code": "NURS3159",
+      "prefix_inferred": false,
+      "evidence": "Major Required: NURS3159"
+    },
+    {
+      "course_code": "NURS4102",
+      "prefix_inferred": false,
+      "evidence": "Major Required: NURS4102, 4122"
+    },
+    {
+      "course_code": "NURS4122",
+      "prefix_inferred": true,
+      "evidence": "Major Required: NURS4102, 4122"
+    },
+    {
+      "course_code": "NURS2111",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): 1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+    },
+    {
+      "course_code": "NURS2112",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+    },
+    {
+      "course_code": "NURS2113",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+    },
+    {
+      "course_code": "NURS2114",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+    },
+    {
+      "course_code": "NURS2115",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+    },
+    {
+      "course_code": "NURS2116",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+    },
+    {
+      "course_code": "NURS2118",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+    },
+    {
+      "course_code": "NURS2121",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+    },
+    {
+      "course_code": "NURS2122",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+    },
+    {
+      "course_code": "NURS4123",
+      "prefix_inferred": false,
+      "evidence": "Major Required: NURS4123, 4124"
+    },
+    {
+      "course_code": "NURS4124",
+      "prefix_inferred": true,
+      "evidence": "Major Required: NURS4123, 4124"
+    },
+    {
+      "course_code": "NURS3135",
+      "prefix_inferred": false,
+      "evidence": "NURS3135[a], 3142, 3143, 3144, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS3142",
+      "prefix_inferred": true,
+      "evidence": "NURS3135[a], 3142, 3143, 3144, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS3143",
+      "prefix_inferred": true,
+      "evidence": "NURS3135[a], 3142, 3143, 3144, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS3144",
+      "prefix_inferred": true,
+      "evidence": "NURS3135[a], 3142, 3143, 3144, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS3148",
+      "prefix_inferred": true,
+      "evidence": "NURS3135[a], 3142, 3143, 3144, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS3152",
+      "prefix_inferred": true,
+      "evidence": "NURS3135[a], 3142, 3143, 3144, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS3153",
+      "prefix_inferred": true,
+      "evidence": "NURS3135[a], 3142, 3143, 3144, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS3154",
+      "prefix_inferred": true,
+      "evidence": "NURS3135[a], 3142, 3143, 3144, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS3157",
+      "prefix_inferred": true,
+      "evidence": "NURS3135[a], 3142, 3143, 3144, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS3159",
+      "prefix_inferred": true,
+      "evidence": "NURS3135[a], 3142, 3143, 3144, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS4102",
+      "prefix_inferred": true,
+      "evidence": "NURS3135[a], 3142, 3143, 3144, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS4121",
+      "prefix_inferred": true,
+      "evidence": "NURS3135[a], 3142, 3143, 3144, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS4122",
+      "prefix_inferred": true,
+      "evidence": "NURS3135[a], 3142, 3143, 3144, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS4123",
+      "prefix_inferred": true,
+      "evidence": "NURS3135[a], 3142, 3143, 3144, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS4124",
+      "prefix_inferred": true,
+      "evidence": "NURS3135[a], 3142, 3143, 3144, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]"
+    },
+    {
+      "course_code": "NURS3121",
+      "prefix_inferred": false,
+      "evidence": "NURS3121, 3126, 3131, 3136, 3145"
+    },
+    {
+      "course_code": "NURS3126",
+      "prefix_inferred": true,
+      "evidence": "NURS3121, 3126, 3131, 3136, 3145"
+    },
+    {
+      "course_code": "NURS3131",
+      "prefix_inferred": true,
+      "evidence": "NURS3121, 3126, 3131, 3136, 3145"
+    },
+    {
+      "course_code": "NURS3136",
+      "prefix_inferred": true,
+      "evidence": "NURS3121, 3126, 3131, 3136, 3145"
+    },
+    {
+      "course_code": "NURS3145",
+      "prefix_inferred": true,
+      "evidence": "NURS3121, 3126, 3131, 3136, 3145"
+    },
+    {
+      "course_code": "MEDF1011",
+      "prefix_inferred": false,
+      "evidence": "Students who lack the basic nursing training are required to take foundation courses on a mandatory basis. The units of foundation courses to be taken by each student may vary depending on the previous disciplinary knowledge of the student concerned. Normally, students taking foundation courses will not be able to complete all requirements within the normative study period. Foundation courses include MEDF1011, 1012, 1021, 1031, 1041, NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3127 and 3315."
+    },
+    {
+      "course_code": "MEDF1012",
+      "prefix_inferred": true,
+      "evidence": "Students who lack the basic nursing training are required to take foundation courses on a mandatory basis. The units of foundation courses to be taken by each student may vary depending on the previous disciplinary knowledge of the student concerned. Normally, students taking foundation courses will not be able to complete all requirements within the normative study period. Foundation courses include MEDF1011, 1012, 1021, 1031, 1041, NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3127 and 3315."
+    },
+    {
+      "course_code": "MEDF1021",
+      "prefix_inferred": true,
+      "evidence": "Students who lack the basic nursing training are required to take foundation courses on a mandatory basis. The units of foundation courses to be taken by each student may vary depending on the previous disciplinary knowledge of the student concerned. Normally, students taking foundation courses will not be able to complete all requirements within the normative study period. Foundation courses include MEDF1011, 1012, 1021, 1031, 1041, NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3127 and 3315."
+    },
+    {
+      "course_code": "MEDF1031",
+      "prefix_inferred": true,
+      "evidence": "Students who lack the basic nursing training are required to take foundation courses on a mandatory basis. The units of foundation courses to be taken by each student may vary depending on the previous disciplinary knowledge of the student concerned. Normally, students taking foundation courses will not be able to complete all requirements within the normative study period. Foundation courses include MEDF1011, 1012, 1021, 1031, 1041, NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3127 and 3315."
+    },
+    {
+      "course_code": "MEDF1041",
+      "prefix_inferred": true,
+      "evidence": "Students who lack the basic nursing training are required to take foundation courses on a mandatory basis. The units of foundation courses to be taken by each student may vary depending on the previous disciplinary knowledge of the student concerned. Normally, students taking foundation courses will not be able to complete all requirements within the normative study period. Foundation courses include MEDF1011, 1012, 1021, 1031, 1041, NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3127 and 3315."
+    },
+    {
+      "course_code": "NURS1151",
+      "prefix_inferred": false,
+      "evidence": "Students who lack the basic nursing training are required to take foundation courses on a mandatory basis. The units of foundation courses to be taken by each student may vary depending on the previous disciplinary knowledge of the student concerned. Normally, students taking foundation courses will not be able to complete all requirements within the normative study period. Foundation courses include MEDF1011, 1012, 1021, 1031, 1041, NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3127 and 3315."
+    },
+    {
+      "course_code": "NURS1162",
+      "prefix_inferred": true,
+      "evidence": "Students who lack the basic nursing training are required to take foundation courses on a mandatory basis. The units of foundation courses to be taken by each student may vary depending on the previous disciplinary knowledge of the student concerned. Normally, students taking foundation courses will not be able to complete all requirements within the normative study period. Foundation courses include MEDF1011, 1012, 1021, 1031, 1041, NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3127 and 3315."
+    },
+    {
+      "course_code": "NURS1163",
+      "prefix_inferred": true,
+      "evidence": "Students who lack the basic nursing training are required to take foundation courses on a mandatory basis. The units of foundation courses to be taken by each student may vary depending on the previous disciplinary knowledge of the student concerned. Normally, students taking foundation courses will not be able to complete all requirements within the normative study period. Foundation courses include MEDF1011, 1012, 1021, 1031, 1041, NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3127 and 3315."
+    },
+    {
+      "course_code": "NURS1164",
+      "prefix_inferred": true,
+      "evidence": "Students who lack the basic nursing training are required to take foundation courses on a mandatory basis. The units of foundation courses to be taken by each student may vary depending on the previous disciplinary knowledge of the student concerned. Normally, students taking foundation courses will not be able to complete all requirements within the normative study period. Foundation courses include MEDF1011, 1012, 1021, 1031, 1041, NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3127 and 3315."
+    },
+    {
+      "course_code": "NURS1242",
+      "prefix_inferred": true,
+      "evidence": "Students who lack the basic nursing training are required to take foundation courses on a mandatory basis. The units of foundation courses to be taken by each student may vary depending on the previous disciplinary knowledge of the student concerned. Normally, students taking foundation courses will not be able to complete all requirements within the normative study period. Foundation courses include MEDF1011, 1012, 1021, 1031, 1041, NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3127 and 3315."
+    },
+    {
+      "course_code": "NURS1403",
+      "prefix_inferred": true,
+      "evidence": "Students who lack the basic nursing training are required to take foundation courses on a mandatory basis. The units of foundation courses to be taken by each student may vary depending on the previous disciplinary knowledge of the student concerned. Normally, students taking foundation courses will not be able to complete all requirements within the normative study period. Foundation courses include MEDF1011, 1012, 1021, 1031, 1041, NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3127 and 3315."
+    },
+    {
+      "course_code": "NURS1603",
+      "prefix_inferred": true,
+      "evidence": "Students who lack the basic nursing training are required to take foundation courses on a mandatory basis. The units of foundation courses to be taken by each student may vary depending on the previous disciplinary knowledge of the student concerned. Normally, students taking foundation courses will not be able to complete all requirements within the normative study period. Foundation courses include MEDF1011, 1012, 1021, 1031, 1041, NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3127 and 3315."
+    },
+    {
+      "course_code": "NURS1701",
+      "prefix_inferred": true,
+      "evidence": "Students who lack the basic nursing training are required to take foundation courses on a mandatory basis. The units of foundation courses to be taken by each student may vary depending on the previous disciplinary knowledge of the student concerned. Normally, students taking foundation courses will not be able to complete all requirements within the normative study period. Foundation courses include MEDF1011, 1012, 1021, 1031, 1041, NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3127 and 3315."
+    },
+    {
+      "course_code": "NURS3127",
+      "prefix_inferred": true,
+      "evidence": "Students who lack the basic nursing training are required to take foundation courses on a mandatory basis. The units of foundation courses to be taken by each student may vary depending on the previous disciplinary knowledge of the student concerned. Normally, students taking foundation courses will not be able to complete all requirements within the normative study period. Foundation courses include MEDF1011, 1012, 1021, 1031, 1041, NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3127 and 3315."
+    },
+    {
+      "course_code": "NURS3315",
+      "prefix_inferred": true,
+      "evidence": "Students who lack the basic nursing training are required to take foundation courses on a mandatory basis. The units of foundation courses to be taken by each student may vary depending on the previous disciplinary knowledge of the student concerned. Normally, students taking foundation courses will not be able to complete all requirements within the normative study period. Foundation courses include MEDF1011, 1012, 1021, 1031, 1041, NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3127 and 3315."
+    },
+    {
+      "course_code": "NURS3142",
+      "prefix_inferred": false,
+      "evidence": "Major Required: NURS3142, 3143"
+    },
+    {
+      "course_code": "NURS3143",
+      "prefix_inferred": true,
+      "evidence": "Major Required: NURS3142, 3143"
+    },
+    {
+      "course_code": "NURS3121",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): 0-2 course(s) from NURS3121, 3126, 3131, 3136, 3145"
+    },
+    {
+      "course_code": "NURS3126",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 0-2 course(s) from NURS3121, 3126, 3131, 3136, 3145"
+    },
+    {
+      "course_code": "NURS3131",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 0-2 course(s) from NURS3121, 3126, 3131, 3136, 3145"
+    },
+    {
+      "course_code": "NURS3136",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 0-2 course(s) from NURS3121, 3126, 3131, 3136, 3145"
+    },
+    {
+      "course_code": "NURS3145",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 0-2 course(s) from NURS3121, 3126, 3131, 3136, 3145"
+    },
+    {
+      "course_code": "NURS3144",
+      "prefix_inferred": false,
+      "evidence": "Major Required: NURS3144, 3152"
+    },
+    {
+      "course_code": "NURS3152",
+      "prefix_inferred": true,
+      "evidence": "Major Required: NURS3144, 3152"
+    },
+    {
+      "course_code": "NURS3153",
+      "prefix_inferred": false,
+      "evidence": "Major Required: NURS3153, 3157"
+    },
+    {
+      "course_code": "NURS3157",
+      "prefix_inferred": true,
+      "evidence": "Major Required: NURS3153, 3157"
+    },
+    {
+      "course_code": "NURS3135",
+      "prefix_inferred": false,
+      "evidence": "Major Required: NURS3135, 3154, 4121"
+    },
+    {
+      "course_code": "NURS3154",
+      "prefix_inferred": true,
+      "evidence": "Major Required: NURS3135, 3154, 4121"
+    },
+    {
+      "course_code": "NURS4121",
+      "prefix_inferred": true,
+      "evidence": "Major Required: NURS3135, 3154, 4121"
+    },
+    {
+      "course_code": "NURS2111",
+      "prefix_inferred": false,
+      "evidence": "(a) 1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+    },
+    {
+      "course_code": "NURS2112",
+      "prefix_inferred": true,
+      "evidence": "(a) 1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+    },
+    {
+      "course_code": "NURS2113",
+      "prefix_inferred": true,
+      "evidence": "(a) 1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+    },
+    {
+      "course_code": "NURS2114",
+      "prefix_inferred": true,
+      "evidence": "(a) 1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+    },
+    {
+      "course_code": "NURS2115",
+      "prefix_inferred": true,
+      "evidence": "(a) 1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+    },
+    {
+      "course_code": "NURS2116",
+      "prefix_inferred": true,
+      "evidence": "(a) 1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+    },
+    {
+      "course_code": "NURS2118",
+      "prefix_inferred": true,
+      "evidence": "(a) 1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+    },
+    {
+      "course_code": "NURS2121",
+      "prefix_inferred": true,
+      "evidence": "(a) 1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+    },
+    {
+      "course_code": "NURS2122",
+      "prefix_inferred": true,
+      "evidence": "(a) 1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122"
+    },
+    {
+      "course_code": "NURS3121",
+      "prefix_inferred": false,
+      "evidence": "(b) 0-2 course(s) from NURS3121, 3126, 3131, 3136, 3145"
+    },
+    {
+      "course_code": "NURS3126",
+      "prefix_inferred": true,
+      "evidence": "(b) 0-2 course(s) from NURS3121, 3126, 3131, 3136, 3145"
+    },
+    {
+      "course_code": "NURS3131",
+      "prefix_inferred": true,
+      "evidence": "(b) 0-2 course(s) from NURS3121, 3126, 3131, 3136, 3145"
+    },
+    {
+      "course_code": "NURS3136",
+      "prefix_inferred": true,
+      "evidence": "(b) 0-2 course(s) from NURS3121, 3126, 3131, 3136, 3145"
+    },
+    {
+      "course_code": "NURS3145",
+      "prefix_inferred": true,
+      "evidence": "(b) 0-2 course(s) from NURS3121, 3126, 3131, 3136, 3145"
+    },
+    {
+      "course_code": "NURS1151",
+      "prefix_inferred": false,
+      "evidence": "NURS1151"
+    },
+    {
+      "course_code": "NURS1162",
+      "prefix_inferred": false,
+      "evidence": "NURS1162"
+    },
+    {
+      "course_code": "NURS1163",
+      "prefix_inferred": false,
+      "evidence": "NURS1163"
+    },
+    {
+      "course_code": "NURS1164",
+      "prefix_inferred": false,
+      "evidence": "NURS1164"
+    },
+    {
+      "course_code": "NURS1242",
+      "prefix_inferred": false,
+      "evidence": "NURS1242"
+    },
+    {
+      "course_code": "NURS1403",
+      "prefix_inferred": false,
+      "evidence": "NURS1403"
+    },
+    {
+      "course_code": "NURS1603",
+      "prefix_inferred": false,
+      "evidence": "NURS1603"
+    },
+    {
+      "course_code": "NURS1701",
+      "prefix_inferred": false,
+      "evidence": "NURS1701"
+    },
+    {
+      "course_code": "NURS2111",
+      "prefix_inferred": false,
+      "evidence": "NURS2111"
+    },
+    {
+      "course_code": "NURS2112",
+      "prefix_inferred": false,
+      "evidence": "NURS2112"
+    },
+    {
+      "course_code": "NURS2113",
+      "prefix_inferred": false,
+      "evidence": "NURS2113"
+    },
+    {
+      "course_code": "NURS2114",
+      "prefix_inferred": false,
+      "evidence": "NURS2114"
+    },
+    {
+      "course_code": "NURS2115",
+      "prefix_inferred": false,
+      "evidence": "NURS2115"
+    },
+    {
+      "course_code": "NURS2116",
+      "prefix_inferred": false,
+      "evidence": "NURS2116"
+    },
+    {
+      "course_code": "NURS2118",
+      "prefix_inferred": false,
+      "evidence": "NURS2118"
+    },
+    {
+      "course_code": "NURS2121",
+      "prefix_inferred": false,
+      "evidence": "NURS2121"
+    },
+    {
+      "course_code": "NURS2122",
+      "prefix_inferred": false,
+      "evidence": "NURS2122"
+    },
+    {
+      "course_code": "NURS3121",
+      "prefix_inferred": false,
+      "evidence": "NURS3121"
+    },
+    {
+      "course_code": "NURS3126",
+      "prefix_inferred": false,
+      "evidence": "NURS3126"
+    },
+    {
+      "course_code": "NURS3127",
+      "prefix_inferred": false,
+      "evidence": "NURS3127"
+    },
+    {
+      "course_code": "NURS3131",
+      "prefix_inferred": false,
+      "evidence": "NURS3131"
+    },
+    {
+      "course_code": "NURS3135",
+      "prefix_inferred": false,
+      "evidence": "NURS3135"
+    },
+    {
+      "course_code": "NURS3136",
+      "prefix_inferred": false,
+      "evidence": "NURS3136"
+    },
+    {
+      "course_code": "NURS3142",
+      "prefix_inferred": false,
+      "evidence": "NURS3142"
+    },
+    {
+      "course_code": "NURS3143",
+      "prefix_inferred": false,
+      "evidence": "NURS3143"
+    },
+    {
+      "course_code": "NURS3144",
+      "prefix_inferred": false,
+      "evidence": "NURS3144"
+    },
+    {
+      "course_code": "NURS3145",
+      "prefix_inferred": false,
+      "evidence": "NURS3145"
+    },
+    {
+      "course_code": "NURS3148",
+      "prefix_inferred": false,
+      "evidence": "NURS3148"
+    },
+    {
+      "course_code": "NURS3152",
+      "prefix_inferred": false,
+      "evidence": "NURS3152"
+    },
+    {
+      "course_code": "NURS3153",
+      "prefix_inferred": false,
+      "evidence": "NURS3153"
+    },
+    {
+      "course_code": "NURS3154",
+      "prefix_inferred": false,
+      "evidence": "NURS3154"
+    },
+    {
+      "course_code": "NURS3157",
+      "prefix_inferred": false,
+      "evidence": "NURS3157"
+    },
+    {
+      "course_code": "NURS3159",
+      "prefix_inferred": false,
+      "evidence": "NURS3159"
+    },
+    {
+      "course_code": "NURS4102",
+      "prefix_inferred": false,
+      "evidence": "NURS4102"
+    },
+    {
+      "course_code": "NURS4121",
+      "prefix_inferred": false,
+      "evidence": "NURS4121"
+    },
+    {
+      "course_code": "NURS4122",
+      "prefix_inferred": false,
+      "evidence": "NURS4122"
+    },
+    {
+      "course_code": "NURS4123",
+      "prefix_inferred": false,
+      "evidence": "NURS4123"
+    },
+    {
+      "course_code": "NURS4124",
+      "prefix_inferred": false,
+      "evidence": "NURS4124"
+    }
+  ],
+  "course_code_aliases": [],
+  "source": {
+    "system": "CUHK CUSIS Browse Program Information",
+    "url": "https://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/tt_dsp_acad_prog.aspx",
+    "source_text_file": "data/cuhk/2024/programmes/Bachelor_of_Nursing__Faculty_of_Medicine.txt",
+    "reused_duplicate_entry": false,
+    "reused_from_faculty": null
+  },
+  "raw_text": "\n\nBrowse Program Information\n\n\n\n\n\n\nAcademic Program:\tBachelor of Nursing\nAcademic Year:\t2024\nLanguage:\t\nEnglish\nSimplified Chinese\nTraditional Chinese\n\n\n\nLearning Outcomes\nStudy Scheme\n \n\n\t\n\nNursing\n\nApplicable to students admitted in 2024-25\n\n\n\n\n \n\n\n\n\n \n\nMajor Programme Requirement\n\n \n\n\t\n\n \n\n\n\n\nStudents are required to complete a minimum of 112 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nFaculty Package:\n\n\t\n\n10\n\n\n\n\n \n\n\t\n\nMEDF1011, 1012, 1021, 1031 and 1041\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nRequired Courses:\n\n\t\n\n99\n\n\n\n\n \n\n\t\n\nNURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3121, 3126, 3127, 3131, 3135[a], 3136, 3142, 3143, 3144, 3145, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nElective Courses:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n1 course chosen from the following:\n\n\t\n\n3\n\n\n\n\n \n\n\t\n\nNURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n112\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nExplanatory Notes:\n\n\t\n\n \n\n\n\n\n1.\n\n \n\n2.\n\n \n\n[a]\n\n \n\n\t\n\nNURS courses at 3000 and above level will be included in the calculation of Major GPA for honours classification.\n\nStudents are allowed to take supplementary examinations for all of the above courses.\n\nCapstone courses\n\n \n\n\n\n\n \n\n\n\n\n \n\n\t\n\nRecommended Course Pattern\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\nFaculty Package: MEDF1011, 1021, 1041\n\nMajor Required: NURS1151\n\nMajor Elective(s):\n\n\t\n\n \n\n5\n\n2\n\n\n\n\n2nd term\n\nFaculty Package: MEDF1012, 1031\n\nMajor Required: NURS1162\n\nMajor Elective(s):\n\n\t\n\n \n\n5\n\n3\n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\nMajor Required: NURS1164, 1403, 1603\n\nMajor Elective(s):\n\n\t\n\n \n\n9\n\n\n\n\n2nd term\n\nMajor Required: NURS1163, 1701, 3127\n\nMajor Elective(s):\n\n\t\n\n \n\n8\n\n\n\n\nSummer Session\n\nMajor Required: NURS1242\n\nMajor Elective(s):\n\n\t\n\n \n\n2\n\n\n\n\nThird Year of Attendance\n\n\t\n\n1st term\n\nMajor Required: NURS3135, 3142, 3143, 3145\n\nMajor Elective(s):\n\n\t\n\n \n\n15\n\n\n\n\n2nd term\n\nMajor Required: NURS3121, 3136, 3144, 3152\n\nMajor Elective(s):\n\n\t\n\n \n\n16\n\n\n\n\nSummer Session\n\nMajor Required: NURS3148\n\nMajor Elective(s):\n\n\t\n\n \n\n4\n\n\n\n\nFourth Year of Attendance\n\n\t\n\n1st term\n\nMajor Required: NURS3131, 3153, 3157\n\nMajor Elective(s):\n\n\t\n\n \n\n10\n\n\n\n\n2nd term\n\nMajor Required: NURS3126, 3154, 4121\n\nMajor Elective(s):\n\n\t\n\n \n\n10\n\n\n\n\nSummer Session\n\nMajor Required: NURS3159\n\nMajor Elective(s):\n\n\t\n\n \n\n5\n\n\n\n\nFifth Year of Attendance\n\n\t\n\n1st term\n\nMajor Required: NURS4102, 4122\n\nMajor Elective(s): 1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122\n\n\t\n\n \n\n6\n\n3\n\n\n\n\n2nd term\n\nMajor Required: NURS4123, 4124\n\nMajor Elective(s):\n\n\t\n\n \n\n9\n\n\n\n\nTotal (including Faculty Package):\n\n\t\n\n112\n\n\n\n\n \n\n\n\n\n \n\nMajor Programme Requirement (for Associate Degree or Higher Diploma holders admitted to senior-year places)\n\n \n\n\t\n\n \n\n\n\n\nStudents are required to complete a minimum of 69 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nRequired Courses:\n\n\t\n\n61\n\n\n\n\n \n\n\t\n\nNURS3135[a], 3142, 3143, 3144, 3148, 3152, 3153, 3154, 3157, 3159, 4102, 4121, 4122[a], 4123[a], 4124[a]\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nElective Courses:  \n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\n5 units of courses chosen from the following:\n\nNURS3121, 3126, 3131, 3136, 3145\n\n\t\n\n5\n\n\n\n\n(b)\n\n\t\n\n1 course chosen from the following:\n\nNURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122\n\n\t\n\n3\n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n69\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nExplanatory Notes:\n\n\n\n\n1.\n\n\t\n\nNURS courses at 3000 and above level will be included in the calculation of Major GPA for honours classification.\n\n\n\n\n2.\n\n\t\n\nStudents who lack the basic nursing training are required to take foundation courses on a mandatory basis. The units of foundation courses to be taken by each student may vary depending on the previous disciplinary knowledge of the student concerned. Normally, students taking foundation courses will not be able to complete all requirements within the normative study period. Foundation courses include MEDF1011, 1012, 1021, 1031, 1041, NURS1151, 1162, 1163, 1164, 1242, 1403, 1603, 1701, 3127 and 3315.\n\n\n\n\n3.\n\n \n\n[a]\n\n\t\n\nStudents are allowed to take supplementary examinations for all of the above courses including required, elective and foundation courses.\n\nCapstone courses\n\n\n\n\n \n\n\t\n\n \n\n\n\n\n \n\n\n\n\n \n\n\t\n\nRecommended Course Pattern (for Associate Degree or Higher Diploma holders admitted to senior-year places)\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\nMajor Required: NURS3142, 3143\n\nMajor Elective(s): 0-2 course(s) from NURS3121, 3126, 3131, 3136, 3145\n\n\t\n\n \n\n10\n\n0-5\n\n \n\n\n\n\n2nd term\n\nMajor Required: NURS3144, 3152\n\nMajor Elective(s): 0-2 course(s) from NURS3121, 3126, 3131, 3136, 3145\n\n\t\n\n \n\n10\n\n0-5\n\n \n\n\n\n\nSummer Session\n\nMajor Required: NURS3148\n\nMajor Elective(s):\n\n\t\n\n \n\n4\n\n\n\n\nSecond Year of\n\nAttendance\n\n\t\n\n1st term\n\nMajor Required: NURS3153, 3157\n\nMajor Elective(s): 0-2 course(s) from NURS3121, 3126, 3131, 3136, 3145\n\n\t\n\n \n\n7\n\n0-5\n\n\n\n\n2nd term\n\nMajor Required: NURS3135, 3154, 4121\n\nMajor Elective(s): 0-2 course(s) from NURS3121, 3126, 3131, 3136, 3145\n\n\t\n\n \n\n10\n\n0-5\n\n\n\n\nSummer Session\n\nMajor Required: NURS3159\n\nMajor Elective(s):\n\n\t\n\n \n\n5\n\n\n\n\nThird Year of\n\nAttendance\n\n\t\n\n1st term\n\nMajor Required: NURS4102, 4122\n\nMajor Elective(s):\n\n(a)        1 course from NURS2111, 2112, 2113, 2114, 2115, 2116, 2118, 2121, 2122\n\n(b)       0-2 course(s) from NURS3121, 3126, 3131, 3136, 3145\n\n\t\n\n \n\n6\n\n \n\n3\n\n \n\n0-5\n\n\n\n\n2nd term\n\nMajor Required: NURS4123, 4124\n\nMajor Elective(s): 0-2 course(s) from NURS3121, 3126, 3131, 3136, 3145\n\n\t\n\n \n\n9\n\n0-5\n\n\n\n\nTotal:\n\n\t\n\n69\n\n\n\n\n \n\n\n\n\nCourse List\n\n\n\n\nCourse Code\n\n\t\n\nCourse Title\n\n\t\n\nUnit(s)\n\n\n\n\nNURS1151\n\n\t\n\nDevelopment of Nursing\n\n\t\n\n2\n\n\n\n\nNURS1162\n\n\t\n\nFundamentals of Nursing I\n\n\t\n\n3\n\n\n\n\nNURS1163\n\n\t\n\nFundamentals of Nursing II\n\n\t\n\n3\n\n\n\n\nNURS1164\n\n\t\n\nFundamentals of Nursing III\n\n\t\n\n3\n\n\n\n\nNURS1242\n\n\t\n\nClinical Practice I\n\n\t\n\n2\n\n\n\n\nNURS1403\n\n\t\n\nAnatomy\n\n\t\n\n3\n\n\n\n\nNURS1603\n\n\t\n\nPhysiology\n\n\t\n\n3\n\n\n\n\nNURS1701\n\n\t\n\nMicrobiology\n\n\t\n\n2\n\n\n\n\nNURS2111\n\n\t\n\nInfectious Diseases and Their Control\n\n\t\n\n3\n\n\n\n\nNURS2112\n\n\t\n\nDisaster Nursing\n\n\t\n\n3\n\n\n\n\nNURS2113\n\n\t\n\nCulture and Nursing\n\n\t\n\n3\n\n\n\n\nNURS2114\n\n\t\n\nApplication of Public Health and Epidemiology in Nursing\n\n\t\n\n3\n\n\n\n\nNURS2115\n\n\t\n\nThe Hong Kong Health Care System\n\n\t\n\n3\n\n\n\n\nNURS2116\n\n\t\n\nScholarly Inquiries in Nursing\n\n\t\n\n3\n\n\n\n\nNURS2118\n\n\t\n\nStudent Exchange Programme\n\n\t\n\n3\n\n\n\n\nNURS2121\n\n\t\n\nTraditional Chinese Medicine Nursing\n\n\t\n\n3\n\n\n\n\nNURS2122\n\n\t\n\nFundamentals of Genetic and Genomic Nursing\n\n\t\n\n3\n\n\n\n\nNURS3121\n\n\t\n\nComplementary and Alternative Medicine\n\n\t\n\n3\n\n\n\n\nNURS3126\n\n\t\n\nHealth Promotion\n\n\t\n\n3\n\n\n\n\nNURS3127\n\n\t\n\nIntroduction to Behavioural and Social Sciences\n\n\t\n\n3\n\n\n\n\nNURS3131\n\n\t\n\nTrends and Professional Issues in Nursing\n\n\t\n\n3\n\n\n\n\nNURS3135\n\n\t\n\nNursing Research\n\n\t\n\n3\n\n\n\n\nNURS3136\n\n\t\n\nApplication of Behavioural and Social Sciences in Nursing\n\n\t\n\n3\n\n\n\n\nNURS3142\n\n\t\n\nNursing in the Community\n\n\t\n\n5\n\n\n\n\nNURS3143\n\n\t\n\nNursing in the Hospital I\n\n\t\n\n5\n\n\n\n\nNURS3144\n\n\t\n\nNursing in the Hospital II\n\n\t\n\n5\n\n\n\n\nNURS3145\n\n\t\n\nEthical and Legal Issues in Nursing\n\n\t\n\n2\n\n\n\n\nNURS3148\n\n\t\n\nClinical Practice II\n\n\t\n\n4\n\n\n\n\nNURS3152\n\n\t\n\nNursing in Clinical Specialties I\n\n\t\n\n5\n\n\n\n\nNURS3153\n\n\t\n\nNursing in Clinical Specialties II\n\n\t\n\n4\n\n\n\n\nNURS3154\n\n\t\n\nNursing in Clinical Specialties III\n\n\t\n\n3\n\n\n\n\nNURS3157\n\n\t\n\nClinical Practice III\n\n\t\n\n3\n\n\n\n\nNURS3159\n\n\t\n\nClinical Practice IV\n\n\t\n\n5\n\n\n\n\nNURS4102\n\n\t\n\nCoordinating Nursing Practice\n\n\t\n\n3\n\n\n\n\nNURS4121\n\n\t\n\nNursing for Complex Health Needs\n\n\t\n\n4\n\n\n\n\nNURS4122\n\n\t\n\nClinical Practice V\n\n\t\n\n3\n\n\n\n\nNURS4123\n\n\t\n\nClinical Practice VI\n\n\t\n\n4\n\n\n\n\nNURS4124\n\n\t\n\nClinical Practice VII\n\n\t\n\n5\n\n \n\n\n \n\nStudy Scheme\n\n\nLearning Outcomes\n \n\n\t\n\n1.          Major Programme:\n\nUpon completion of the programme, students are able to:\n\n(1)   provide evidence-based care that supports physical and homeostatic functioning, promotes psychosocial functioning and life-style changes, protects against harm, recognizes the patients as a member of the family unit and community, and leverages on effective use of the health-care delivery system (K/S/V).\n\n(2)   apply appropriate clinical and nursing therapeutic techniques unsupervised (K/S).\n\n(3)   apply the principles of health promotion in meeting the health needs of individuals, groups, families and communities (K/S/V).\n\n(4)   demonstrate effective skills in communicating with patients, carers, peers and the health care team (S).\n\n(5)   coordinate the care of clients in hospital and community settings (K/S).\n\n(6)   apply technology in the processing of information for nursing practice and research (K/S).\n\n(7)   provide patient-centred care using the nursing process as a problem solving approach (K/S).\n\n(8)   recognize, explain and manage health problems using basic, social, behavioural, clinical sciences and managerial principles (K/S).\n\n(9)   display appropriate professional attitudes and apply relevant ethical and legal principles in the practice of nursing (K/V).\n\n(10)   demonstrate competent decision-making, clinical reasoning and judgment skills to make decisions and take actions (S/V).\n\n(11)   demonstrate understanding of self and engage in ongoing lifelong personal development (V).\n\n(12)   recognize the roles of nurses within a health service institution and their influences on its development, and engage in the development of nursing as a health-care profession (K/V).\n\n(13)   uphold the professional code of conduct (K/V).\n\n(14)   incorporate cultural factors into the practice of nursing (V).\n\nK = Knowledge outcomes      S = Skills outcomes      V = Values and attitudes outcomes\n\n \n\n \n\n \n\n \n\n\n"
+}

@@ -1,0 +1,1889 @@
+{
+  "programme_id": "B_A_Chinese_Language_Studies_and_B_Ed_Chinese_Language_Education__Faculty_of_Education",
+  "academic_program": "B.A. (Chinese Language Studies) and B.Ed. (Chinese Language Education)",
+  "faculty": "Faculty of Education",
+  "academic_year": 2024,
+  "admission_cohort": "2024-25",
+  "requirement_summary": {
+    "minimum_units_as_printed": "a minimum of 117 units",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Faculty Package",
+        "units_as_printed": "6",
+        "course_mentions": [
+          {
+            "course_code": "EDUC2120",
+            "prefix_inferred": false,
+            "evidence": "EDUC2120, 2312"
+          },
+          {
+            "course_code": "EDUC2312",
+            "prefix_inferred": true,
+            "evidence": "EDUC2120, 2312"
+          },
+          {
+            "course_code": "CHLL1900",
+            "prefix_inferred": false,
+            "evidence": "CHLL1900 or 1902 or 1903"
+          },
+          {
+            "course_code": "CHLL1902",
+            "prefix_inferred": true,
+            "evidence": "CHLL1900 or 1902 or 1903"
+          },
+          {
+            "course_code": "CHLL1903",
+            "prefix_inferred": true,
+            "evidence": "CHLL1900 or 1902 or 1903"
+          }
+        ],
+        "raw_text": "Faculty of Education\nEDUC2120, 2312\n6\nFaculty of Arts\nCHLL1900 or 1902 or 1903\n3"
+      },
+      {
+        "number": 2,
+        "title": "Required Courses",
+        "units_as_printed": "33",
+        "course_mentions": [
+          {
+            "course_code": "CHLL1401",
+            "prefix_inferred": false,
+            "evidence": "CHLL1401, 2212, 2302, 2350, 3162, CHLT1880, 2881, 2882, 2883, 2884, 2885"
+          },
+          {
+            "course_code": "CHLL2212",
+            "prefix_inferred": true,
+            "evidence": "CHLL1401, 2212, 2302, 2350, 3162, CHLT1880, 2881, 2882, 2883, 2884, 2885"
+          },
+          {
+            "course_code": "CHLL2302",
+            "prefix_inferred": true,
+            "evidence": "CHLL1401, 2212, 2302, 2350, 3162, CHLT1880, 2881, 2882, 2883, 2884, 2885"
+          },
+          {
+            "course_code": "CHLL2350",
+            "prefix_inferred": true,
+            "evidence": "CHLL1401, 2212, 2302, 2350, 3162, CHLT1880, 2881, 2882, 2883, 2884, 2885"
+          },
+          {
+            "course_code": "CHLL3162",
+            "prefix_inferred": true,
+            "evidence": "CHLL1401, 2212, 2302, 2350, 3162, CHLT1880, 2881, 2882, 2883, 2884, 2885"
+          },
+          {
+            "course_code": "CHLT1880",
+            "prefix_inferred": false,
+            "evidence": "CHLL1401, 2212, 2302, 2350, 3162, CHLT1880, 2881, 2882, 2883, 2884, 2885"
+          },
+          {
+            "course_code": "CHLT2881",
+            "prefix_inferred": true,
+            "evidence": "CHLL1401, 2212, 2302, 2350, 3162, CHLT1880, 2881, 2882, 2883, 2884, 2885"
+          },
+          {
+            "course_code": "CHLT2882",
+            "prefix_inferred": true,
+            "evidence": "CHLL1401, 2212, 2302, 2350, 3162, CHLT1880, 2881, 2882, 2883, 2884, 2885"
+          },
+          {
+            "course_code": "CHLT2883",
+            "prefix_inferred": true,
+            "evidence": "CHLL1401, 2212, 2302, 2350, 3162, CHLT1880, 2881, 2882, 2883, 2884, 2885"
+          },
+          {
+            "course_code": "CHLT2884",
+            "prefix_inferred": true,
+            "evidence": "CHLL1401, 2212, 2302, 2350, 3162, CHLT1880, 2881, 2882, 2883, 2884, 2885"
+          },
+          {
+            "course_code": "CHLT2885",
+            "prefix_inferred": true,
+            "evidence": "CHLL1401, 2212, 2302, 2350, 3162, CHLT1880, 2881, 2882, 2883, 2884, 2885"
+          },
+          {
+            "course_code": "CLED2530",
+            "prefix_inferred": false,
+            "evidence": "CLED2530[a], 3530[a], 4520"
+          },
+          {
+            "course_code": "CLED3530",
+            "prefix_inferred": true,
+            "evidence": "CLED2530[a], 3530[a], 4520"
+          },
+          {
+            "course_code": "CLED4520",
+            "prefix_inferred": true,
+            "evidence": "CLED2530[a], 3530[a], 4520"
+          },
+          {
+            "course_code": "CLED3510",
+            "prefix_inferred": false,
+            "evidence": "CLED3510 or 3610"
+          },
+          {
+            "course_code": "CLED3610",
+            "prefix_inferred": true,
+            "evidence": "CLED3510 or 3610"
+          },
+          {
+            "course_code": "CLED4510",
+            "prefix_inferred": false,
+            "evidence": "CLED4510 or 4650"
+          },
+          {
+            "course_code": "CLED4650",
+            "prefix_inferred": true,
+            "evidence": "CLED4510 or 4650"
+          },
+          {
+            "course_code": "CLED2640",
+            "prefix_inferred": false,
+            "evidence": "CLED2640"
+          },
+          {
+            "course_code": "CLED4630",
+            "prefix_inferred": false,
+            "evidence": "CLED4630"
+          },
+          {
+            "course_code": "CLED4720",
+            "prefix_inferred": false,
+            "evidence": "CLED4720[b], 4730[b]"
+          },
+          {
+            "course_code": "CLED4730",
+            "prefix_inferred": true,
+            "evidence": "CLED4720[b], 4730[b]"
+          },
+          {
+            "course_code": "EDUC2240",
+            "prefix_inferred": false,
+            "evidence": "EDUC2240, 3201, 3311, 4340"
+          },
+          {
+            "course_code": "EDUC3201",
+            "prefix_inferred": true,
+            "evidence": "EDUC2240, 3201, 3311, 4340"
+          },
+          {
+            "course_code": "EDUC3311",
+            "prefix_inferred": true,
+            "evidence": "EDUC2240, 3201, 3311, 4340"
+          },
+          {
+            "course_code": "EDUC4340",
+            "prefix_inferred": true,
+            "evidence": "EDUC2240, 3201, 3311, 4340"
+          },
+          {
+            "course_code": "EDUC4030",
+            "prefix_inferred": false,
+            "evidence": "EDUC4030, 4040"
+          },
+          {
+            "course_code": "EDUC4040",
+            "prefix_inferred": true,
+            "evidence": "EDUC4030, 4040"
+          },
+          {
+            "course_code": "CLED1030",
+            "prefix_inferred": false,
+            "evidence": "CLED1030"
+          }
+        ],
+        "raw_text": "Chinese Language and Literature\n33\nCHLL1401, 2212, 2302, 2350, 3162, CHLT1880, 2881, 2882, 2883, 2884, 2885\nChinese Language Education\n(a)\n(b)\n(c)\n(d)\n(e)\nLanguage Teaching Methodology\nCLED2530[a], 3530[a], 4520\nCLED3510 or 3610\nCLED4510 or 4650\nCLED2640\nCLED4630\n17\nResearch Experience\nCLED4720[b], 4730[b]\n6\nEducational Studies\nEDUC2240, 3201, 3311, 4340\n10\nTeaching Practice\nEDUC4030, 4040\n10\nImmersion\nCLED1030\n2"
+      },
+      {
+        "number": 3,
+        "title": "Elective Courses",
+        "units_as_printed": "3",
+        "course_mentions": [
+          {
+            "course_code": "CHLL2121",
+            "prefix_inferred": false,
+            "evidence": "CHLL2121, 2131, 2403"
+          },
+          {
+            "course_code": "CHLL2131",
+            "prefix_inferred": true,
+            "evidence": "CHLL2121, 2131, 2403"
+          },
+          {
+            "course_code": "CHLL2403",
+            "prefix_inferred": true,
+            "evidence": "CHLL2121, 2131, 2403"
+          },
+          {
+            "course_code": "CHLL3110",
+            "prefix_inferred": false,
+            "evidence": "CHLL3110, 3141, 3142, 3143, 3151, 4121, 4141, 4161"
+          },
+          {
+            "course_code": "CHLL3141",
+            "prefix_inferred": true,
+            "evidence": "CHLL3110, 3141, 3142, 3143, 3151, 4121, 4141, 4161"
+          },
+          {
+            "course_code": "CHLL3142",
+            "prefix_inferred": true,
+            "evidence": "CHLL3110, 3141, 3142, 3143, 3151, 4121, 4141, 4161"
+          },
+          {
+            "course_code": "CHLL3143",
+            "prefix_inferred": true,
+            "evidence": "CHLL3110, 3141, 3142, 3143, 3151, 4121, 4141, 4161"
+          },
+          {
+            "course_code": "CHLL3151",
+            "prefix_inferred": true,
+            "evidence": "CHLL3110, 3141, 3142, 3143, 3151, 4121, 4141, 4161"
+          },
+          {
+            "course_code": "CHLL4121",
+            "prefix_inferred": true,
+            "evidence": "CHLL3110, 3141, 3142, 3143, 3151, 4121, 4141, 4161"
+          },
+          {
+            "course_code": "CHLL4141",
+            "prefix_inferred": true,
+            "evidence": "CHLL3110, 3141, 3142, 3143, 3151, 4121, 4141, 4161"
+          },
+          {
+            "course_code": "CHLL4161",
+            "prefix_inferred": true,
+            "evidence": "CHLL3110, 3141, 3142, 3143, 3151, 4121, 4141, 4161"
+          },
+          {
+            "course_code": "CHLL3221",
+            "prefix_inferred": false,
+            "evidence": "CHLL3221, 3222, 3223, 3231, 3232, 4224, 4242, 4243, 4244"
+          },
+          {
+            "course_code": "CHLL3222",
+            "prefix_inferred": true,
+            "evidence": "CHLL3221, 3222, 3223, 3231, 3232, 4224, 4242, 4243, 4244"
+          },
+          {
+            "course_code": "CHLL3223",
+            "prefix_inferred": true,
+            "evidence": "CHLL3221, 3222, 3223, 3231, 3232, 4224, 4242, 4243, 4244"
+          },
+          {
+            "course_code": "CHLL3231",
+            "prefix_inferred": true,
+            "evidence": "CHLL3221, 3222, 3223, 3231, 3232, 4224, 4242, 4243, 4244"
+          },
+          {
+            "course_code": "CHLL3232",
+            "prefix_inferred": true,
+            "evidence": "CHLL3221, 3222, 3223, 3231, 3232, 4224, 4242, 4243, 4244"
+          },
+          {
+            "course_code": "CHLL4224",
+            "prefix_inferred": true,
+            "evidence": "CHLL3221, 3222, 3223, 3231, 3232, 4224, 4242, 4243, 4244"
+          },
+          {
+            "course_code": "CHLL4242",
+            "prefix_inferred": true,
+            "evidence": "CHLL3221, 3222, 3223, 3231, 3232, 4224, 4242, 4243, 4244"
+          },
+          {
+            "course_code": "CHLL4243",
+            "prefix_inferred": true,
+            "evidence": "CHLL3221, 3222, 3223, 3231, 3232, 4224, 4242, 4243, 4244"
+          },
+          {
+            "course_code": "CHLL4244",
+            "prefix_inferred": true,
+            "evidence": "CHLL3221, 3222, 3223, 3231, 3232, 4224, 4242, 4243, 4244"
+          },
+          {
+            "course_code": "CHLL3310",
+            "prefix_inferred": false,
+            "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+          },
+          {
+            "course_code": "CHLL3311",
+            "prefix_inferred": true,
+            "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+          },
+          {
+            "course_code": "CHLL3312",
+            "prefix_inferred": true,
+            "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+          },
+          {
+            "course_code": "CHLL3313",
+            "prefix_inferred": true,
+            "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+          },
+          {
+            "course_code": "CHLL3314",
+            "prefix_inferred": true,
+            "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+          },
+          {
+            "course_code": "CHLL3315",
+            "prefix_inferred": true,
+            "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+          },
+          {
+            "course_code": "CHLL3316",
+            "prefix_inferred": true,
+            "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+          },
+          {
+            "course_code": "CHLL3317",
+            "prefix_inferred": true,
+            "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+          },
+          {
+            "course_code": "CHLL3321",
+            "prefix_inferred": true,
+            "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+          },
+          {
+            "course_code": "CHLL3322",
+            "prefix_inferred": true,
+            "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+          },
+          {
+            "course_code": "CHLL3323",
+            "prefix_inferred": true,
+            "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+          },
+          {
+            "course_code": "CHLL3324",
+            "prefix_inferred": true,
+            "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+          },
+          {
+            "course_code": "CHLL3341",
+            "prefix_inferred": true,
+            "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+          },
+          {
+            "course_code": "CHLL3351",
+            "prefix_inferred": true,
+            "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+          },
+          {
+            "course_code": "CHLL4310",
+            "prefix_inferred": true,
+            "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+          },
+          {
+            "course_code": "CHLL4311",
+            "prefix_inferred": true,
+            "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+          },
+          {
+            "course_code": "CHLL4312",
+            "prefix_inferred": true,
+            "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+          },
+          {
+            "course_code": "CHLL4313",
+            "prefix_inferred": true,
+            "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+          },
+          {
+            "course_code": "CHLL4314",
+            "prefix_inferred": true,
+            "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+          },
+          {
+            "course_code": "CHLL4315",
+            "prefix_inferred": true,
+            "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+          },
+          {
+            "course_code": "CHLL4320",
+            "prefix_inferred": true,
+            "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+          },
+          {
+            "course_code": "CHLL4321",
+            "prefix_inferred": true,
+            "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+          },
+          {
+            "course_code": "CHLL4322",
+            "prefix_inferred": true,
+            "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+          },
+          {
+            "course_code": "CHLL4330",
+            "prefix_inferred": true,
+            "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+          },
+          {
+            "course_code": "CHLL4331",
+            "prefix_inferred": true,
+            "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+          },
+          {
+            "course_code": "CHLL4332",
+            "prefix_inferred": true,
+            "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+          },
+          {
+            "course_code": "CHLL4340",
+            "prefix_inferred": true,
+            "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+          },
+          {
+            "course_code": "CHLL4342",
+            "prefix_inferred": true,
+            "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+          },
+          {
+            "course_code": "CHLL3402",
+            "prefix_inferred": false,
+            "evidence": "CHLL3402, 3404, 3405, 3406, 3407, 3408, 4401, 4402, 4403, 4404, 4405, 4411"
+          },
+          {
+            "course_code": "CHLL3404",
+            "prefix_inferred": true,
+            "evidence": "CHLL3402, 3404, 3405, 3406, 3407, 3408, 4401, 4402, 4403, 4404, 4405, 4411"
+          },
+          {
+            "course_code": "CHLL3405",
+            "prefix_inferred": true,
+            "evidence": "CHLL3402, 3404, 3405, 3406, 3407, 3408, 4401, 4402, 4403, 4404, 4405, 4411"
+          },
+          {
+            "course_code": "CHLL3406",
+            "prefix_inferred": true,
+            "evidence": "CHLL3402, 3404, 3405, 3406, 3407, 3408, 4401, 4402, 4403, 4404, 4405, 4411"
+          },
+          {
+            "course_code": "CHLL3407",
+            "prefix_inferred": true,
+            "evidence": "CHLL3402, 3404, 3405, 3406, 3407, 3408, 4401, 4402, 4403, 4404, 4405, 4411"
+          },
+          {
+            "course_code": "CHLL3408",
+            "prefix_inferred": true,
+            "evidence": "CHLL3402, 3404, 3405, 3406, 3407, 3408, 4401, 4402, 4403, 4404, 4405, 4411"
+          },
+          {
+            "course_code": "CHLL4401",
+            "prefix_inferred": true,
+            "evidence": "CHLL3402, 3404, 3405, 3406, 3407, 3408, 4401, 4402, 4403, 4404, 4405, 4411"
+          },
+          {
+            "course_code": "CHLL4402",
+            "prefix_inferred": true,
+            "evidence": "CHLL3402, 3404, 3405, 3406, 3407, 3408, 4401, 4402, 4403, 4404, 4405, 4411"
+          },
+          {
+            "course_code": "CHLL4403",
+            "prefix_inferred": true,
+            "evidence": "CHLL3402, 3404, 3405, 3406, 3407, 3408, 4401, 4402, 4403, 4404, 4405, 4411"
+          },
+          {
+            "course_code": "CHLL4404",
+            "prefix_inferred": true,
+            "evidence": "CHLL3402, 3404, 3405, 3406, 3407, 3408, 4401, 4402, 4403, 4404, 4405, 4411"
+          },
+          {
+            "course_code": "CHLL4405",
+            "prefix_inferred": true,
+            "evidence": "CHLL3402, 3404, 3405, 3406, 3407, 3408, 4401, 4402, 4403, 4404, 4405, 4411"
+          },
+          {
+            "course_code": "CHLL4411",
+            "prefix_inferred": true,
+            "evidence": "CHLL3402, 3404, 3405, 3406, 3407, 3408, 4401, 4402, 4403, 4404, 4405, 4411"
+          },
+          {
+            "course_code": "CLED2540",
+            "prefix_inferred": false,
+            "evidence": "CLED2540, 3540, 4620, 4640, 4660, 4740, 4750, 4760"
+          },
+          {
+            "course_code": "CLED3540",
+            "prefix_inferred": true,
+            "evidence": "CLED2540, 3540, 4620, 4640, 4660, 4740, 4750, 4760"
+          },
+          {
+            "course_code": "CLED4620",
+            "prefix_inferred": true,
+            "evidence": "CLED2540, 3540, 4620, 4640, 4660, 4740, 4750, 4760"
+          },
+          {
+            "course_code": "CLED4640",
+            "prefix_inferred": true,
+            "evidence": "CLED2540, 3540, 4620, 4640, 4660, 4740, 4750, 4760"
+          },
+          {
+            "course_code": "CLED4660",
+            "prefix_inferred": true,
+            "evidence": "CLED2540, 3540, 4620, 4640, 4660, 4740, 4750, 4760"
+          },
+          {
+            "course_code": "CLED4740",
+            "prefix_inferred": true,
+            "evidence": "CLED2540, 3540, 4620, 4640, 4660, 4740, 4750, 4760"
+          },
+          {
+            "course_code": "CLED4750",
+            "prefix_inferred": true,
+            "evidence": "CLED2540, 3540, 4620, 4640, 4660, 4740, 4750, 4760"
+          },
+          {
+            "course_code": "CLED4760",
+            "prefix_inferred": true,
+            "evidence": "CLED2540, 3540, 4620, 4640, 4660, 4740, 4750, 4760"
+          },
+          {
+            "course_code": "EDUC2210",
+            "prefix_inferred": false,
+            "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+          },
+          {
+            "course_code": "EDUC2220",
+            "prefix_inferred": true,
+            "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+          },
+          {
+            "course_code": "EDUC3140",
+            "prefix_inferred": true,
+            "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+          },
+          {
+            "course_code": "EDUC3150",
+            "prefix_inferred": true,
+            "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+          },
+          {
+            "course_code": "EDUC3200",
+            "prefix_inferred": true,
+            "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+          },
+          {
+            "course_code": "EDUC3260",
+            "prefix_inferred": true,
+            "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+          },
+          {
+            "course_code": "EDUC3270",
+            "prefix_inferred": true,
+            "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+          },
+          {
+            "course_code": "EDUC3280",
+            "prefix_inferred": true,
+            "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+          },
+          {
+            "course_code": "EDUC3290",
+            "prefix_inferred": true,
+            "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+          },
+          {
+            "course_code": "EDUC4110",
+            "prefix_inferred": true,
+            "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+          },
+          {
+            "course_code": "EDUC4131",
+            "prefix_inferred": true,
+            "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+          },
+          {
+            "course_code": "EDUC4320",
+            "prefix_inferred": true,
+            "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+          },
+          {
+            "course_code": "EDUC4330",
+            "prefix_inferred": true,
+            "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+          }
+        ],
+        "raw_text": "Chinese Language and Literature\n(a)\nAny one course chosen from the following basic courses:\nCHLL2121, 2131, 2403\n3\n(b)\nSpecialty Courses\nA minimum of 21 units chosen from the following specialty courses, with at least one course from category (i) or (ii) and at least one course from category (iii) or (iv):\n21\n(i)\nLanguage and Linguistics\nCHLL3110, 3141, 3142, 3143, 3151, 4121, 4141, 4161\n(ii)\nAncient Documents\nCHLL3221, 3222, 3223, 3231, 3232, 4224, 4242, 4243, 4244\n(iii)\nClassical Literature\nCHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342\n(iv)\nModern Chinese Literature\nCHLL3402, 3404, 3405, 3406, 3407, 3408, 4401, 4402, 4403, 4404, 4405, 4411\nChinese Language Education\n(c)\nA minimum of 4 units chosen from the following Language Teaching Methodology courses:\nCLED2540, 3540, 4620, 4640, 4660, 4740, 4750, 4760\n4\n(d)\nA minimum of 2 units chosen from the following Educational Studies courses:\nEDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330\n2\nTotal:\n117\nExplanatory Notes:"
+      },
+      {
+        "number": 1,
+        "title": "Major Programme",
+        "units_as_printed": null,
+        "course_mentions": [],
+        "raw_text": "Graduates from the programme will:\n(1)\nDemonstrate a mastery of the Chinese language and literature to a level that meets the expectations for quality teaching in schools;\n(2)\nAttain an advanced level of proficiency in both Cantonese and Putonghua expression for the purpose of effective teaching of the Chinese language;\n(3)\nDevelop knowledge and skills relating to Chinese language teaching;\n(4)\nDevelop practical skills in material design and adaptation, in the use of textbooks and other resources, in the assessment of language ability, and in curriculum design and evaluation."
+      }
+    ]
+  },
+  "all_course_mentions": [
+    {
+      "course_code": "EDUC2120",
+      "prefix_inferred": false,
+      "evidence": "EDUC2120, 2312"
+    },
+    {
+      "course_code": "EDUC2312",
+      "prefix_inferred": true,
+      "evidence": "EDUC2120, 2312"
+    },
+    {
+      "course_code": "CHLL1900",
+      "prefix_inferred": false,
+      "evidence": "CHLL1900 or 1902 or 1903"
+    },
+    {
+      "course_code": "CHLL1902",
+      "prefix_inferred": true,
+      "evidence": "CHLL1900 or 1902 or 1903"
+    },
+    {
+      "course_code": "CHLL1903",
+      "prefix_inferred": true,
+      "evidence": "CHLL1900 or 1902 or 1903"
+    },
+    {
+      "course_code": "CHLL1401",
+      "prefix_inferred": false,
+      "evidence": "CHLL1401, 2212, 2302, 2350, 3162, CHLT1880, 2881, 2882, 2883, 2884, 2885"
+    },
+    {
+      "course_code": "CHLL2212",
+      "prefix_inferred": true,
+      "evidence": "CHLL1401, 2212, 2302, 2350, 3162, CHLT1880, 2881, 2882, 2883, 2884, 2885"
+    },
+    {
+      "course_code": "CHLL2302",
+      "prefix_inferred": true,
+      "evidence": "CHLL1401, 2212, 2302, 2350, 3162, CHLT1880, 2881, 2882, 2883, 2884, 2885"
+    },
+    {
+      "course_code": "CHLL2350",
+      "prefix_inferred": true,
+      "evidence": "CHLL1401, 2212, 2302, 2350, 3162, CHLT1880, 2881, 2882, 2883, 2884, 2885"
+    },
+    {
+      "course_code": "CHLL3162",
+      "prefix_inferred": true,
+      "evidence": "CHLL1401, 2212, 2302, 2350, 3162, CHLT1880, 2881, 2882, 2883, 2884, 2885"
+    },
+    {
+      "course_code": "CHLT1880",
+      "prefix_inferred": false,
+      "evidence": "CHLL1401, 2212, 2302, 2350, 3162, CHLT1880, 2881, 2882, 2883, 2884, 2885"
+    },
+    {
+      "course_code": "CHLT2881",
+      "prefix_inferred": true,
+      "evidence": "CHLL1401, 2212, 2302, 2350, 3162, CHLT1880, 2881, 2882, 2883, 2884, 2885"
+    },
+    {
+      "course_code": "CHLT2882",
+      "prefix_inferred": true,
+      "evidence": "CHLL1401, 2212, 2302, 2350, 3162, CHLT1880, 2881, 2882, 2883, 2884, 2885"
+    },
+    {
+      "course_code": "CHLT2883",
+      "prefix_inferred": true,
+      "evidence": "CHLL1401, 2212, 2302, 2350, 3162, CHLT1880, 2881, 2882, 2883, 2884, 2885"
+    },
+    {
+      "course_code": "CHLT2884",
+      "prefix_inferred": true,
+      "evidence": "CHLL1401, 2212, 2302, 2350, 3162, CHLT1880, 2881, 2882, 2883, 2884, 2885"
+    },
+    {
+      "course_code": "CHLT2885",
+      "prefix_inferred": true,
+      "evidence": "CHLL1401, 2212, 2302, 2350, 3162, CHLT1880, 2881, 2882, 2883, 2884, 2885"
+    },
+    {
+      "course_code": "CLED2530",
+      "prefix_inferred": false,
+      "evidence": "CLED2530[a], 3530[a], 4520"
+    },
+    {
+      "course_code": "CLED3530",
+      "prefix_inferred": true,
+      "evidence": "CLED2530[a], 3530[a], 4520"
+    },
+    {
+      "course_code": "CLED4520",
+      "prefix_inferred": true,
+      "evidence": "CLED2530[a], 3530[a], 4520"
+    },
+    {
+      "course_code": "CLED3510",
+      "prefix_inferred": false,
+      "evidence": "CLED3510 or 3610"
+    },
+    {
+      "course_code": "CLED3610",
+      "prefix_inferred": true,
+      "evidence": "CLED3510 or 3610"
+    },
+    {
+      "course_code": "CLED4510",
+      "prefix_inferred": false,
+      "evidence": "CLED4510 or 4650"
+    },
+    {
+      "course_code": "CLED4650",
+      "prefix_inferred": true,
+      "evidence": "CLED4510 or 4650"
+    },
+    {
+      "course_code": "CLED2640",
+      "prefix_inferred": false,
+      "evidence": "CLED2640"
+    },
+    {
+      "course_code": "CLED4630",
+      "prefix_inferred": false,
+      "evidence": "CLED4630"
+    },
+    {
+      "course_code": "CLED4720",
+      "prefix_inferred": false,
+      "evidence": "CLED4720[b], 4730[b]"
+    },
+    {
+      "course_code": "CLED4730",
+      "prefix_inferred": true,
+      "evidence": "CLED4720[b], 4730[b]"
+    },
+    {
+      "course_code": "EDUC2240",
+      "prefix_inferred": false,
+      "evidence": "EDUC2240, 3201, 3311, 4340"
+    },
+    {
+      "course_code": "EDUC3201",
+      "prefix_inferred": true,
+      "evidence": "EDUC2240, 3201, 3311, 4340"
+    },
+    {
+      "course_code": "EDUC3311",
+      "prefix_inferred": true,
+      "evidence": "EDUC2240, 3201, 3311, 4340"
+    },
+    {
+      "course_code": "EDUC4340",
+      "prefix_inferred": true,
+      "evidence": "EDUC2240, 3201, 3311, 4340"
+    },
+    {
+      "course_code": "EDUC4030",
+      "prefix_inferred": false,
+      "evidence": "EDUC4030, 4040"
+    },
+    {
+      "course_code": "EDUC4040",
+      "prefix_inferred": true,
+      "evidence": "EDUC4030, 4040"
+    },
+    {
+      "course_code": "CLED1030",
+      "prefix_inferred": false,
+      "evidence": "CLED1030"
+    },
+    {
+      "course_code": "CHLL2121",
+      "prefix_inferred": false,
+      "evidence": "CHLL2121, 2131, 2403"
+    },
+    {
+      "course_code": "CHLL2131",
+      "prefix_inferred": true,
+      "evidence": "CHLL2121, 2131, 2403"
+    },
+    {
+      "course_code": "CHLL2403",
+      "prefix_inferred": true,
+      "evidence": "CHLL2121, 2131, 2403"
+    },
+    {
+      "course_code": "CHLL3110",
+      "prefix_inferred": false,
+      "evidence": "CHLL3110, 3141, 3142, 3143, 3151, 4121, 4141, 4161"
+    },
+    {
+      "course_code": "CHLL3141",
+      "prefix_inferred": true,
+      "evidence": "CHLL3110, 3141, 3142, 3143, 3151, 4121, 4141, 4161"
+    },
+    {
+      "course_code": "CHLL3142",
+      "prefix_inferred": true,
+      "evidence": "CHLL3110, 3141, 3142, 3143, 3151, 4121, 4141, 4161"
+    },
+    {
+      "course_code": "CHLL3143",
+      "prefix_inferred": true,
+      "evidence": "CHLL3110, 3141, 3142, 3143, 3151, 4121, 4141, 4161"
+    },
+    {
+      "course_code": "CHLL3151",
+      "prefix_inferred": true,
+      "evidence": "CHLL3110, 3141, 3142, 3143, 3151, 4121, 4141, 4161"
+    },
+    {
+      "course_code": "CHLL4121",
+      "prefix_inferred": true,
+      "evidence": "CHLL3110, 3141, 3142, 3143, 3151, 4121, 4141, 4161"
+    },
+    {
+      "course_code": "CHLL4141",
+      "prefix_inferred": true,
+      "evidence": "CHLL3110, 3141, 3142, 3143, 3151, 4121, 4141, 4161"
+    },
+    {
+      "course_code": "CHLL4161",
+      "prefix_inferred": true,
+      "evidence": "CHLL3110, 3141, 3142, 3143, 3151, 4121, 4141, 4161"
+    },
+    {
+      "course_code": "CHLL3221",
+      "prefix_inferred": false,
+      "evidence": "CHLL3221, 3222, 3223, 3231, 3232, 4224, 4242, 4243, 4244"
+    },
+    {
+      "course_code": "CHLL3222",
+      "prefix_inferred": true,
+      "evidence": "CHLL3221, 3222, 3223, 3231, 3232, 4224, 4242, 4243, 4244"
+    },
+    {
+      "course_code": "CHLL3223",
+      "prefix_inferred": true,
+      "evidence": "CHLL3221, 3222, 3223, 3231, 3232, 4224, 4242, 4243, 4244"
+    },
+    {
+      "course_code": "CHLL3231",
+      "prefix_inferred": true,
+      "evidence": "CHLL3221, 3222, 3223, 3231, 3232, 4224, 4242, 4243, 4244"
+    },
+    {
+      "course_code": "CHLL3232",
+      "prefix_inferred": true,
+      "evidence": "CHLL3221, 3222, 3223, 3231, 3232, 4224, 4242, 4243, 4244"
+    },
+    {
+      "course_code": "CHLL4224",
+      "prefix_inferred": true,
+      "evidence": "CHLL3221, 3222, 3223, 3231, 3232, 4224, 4242, 4243, 4244"
+    },
+    {
+      "course_code": "CHLL4242",
+      "prefix_inferred": true,
+      "evidence": "CHLL3221, 3222, 3223, 3231, 3232, 4224, 4242, 4243, 4244"
+    },
+    {
+      "course_code": "CHLL4243",
+      "prefix_inferred": true,
+      "evidence": "CHLL3221, 3222, 3223, 3231, 3232, 4224, 4242, 4243, 4244"
+    },
+    {
+      "course_code": "CHLL4244",
+      "prefix_inferred": true,
+      "evidence": "CHLL3221, 3222, 3223, 3231, 3232, 4224, 4242, 4243, 4244"
+    },
+    {
+      "course_code": "CHLL3310",
+      "prefix_inferred": false,
+      "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+    },
+    {
+      "course_code": "CHLL3311",
+      "prefix_inferred": true,
+      "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+    },
+    {
+      "course_code": "CHLL3312",
+      "prefix_inferred": true,
+      "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+    },
+    {
+      "course_code": "CHLL3313",
+      "prefix_inferred": true,
+      "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+    },
+    {
+      "course_code": "CHLL3314",
+      "prefix_inferred": true,
+      "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+    },
+    {
+      "course_code": "CHLL3315",
+      "prefix_inferred": true,
+      "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+    },
+    {
+      "course_code": "CHLL3316",
+      "prefix_inferred": true,
+      "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+    },
+    {
+      "course_code": "CHLL3317",
+      "prefix_inferred": true,
+      "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+    },
+    {
+      "course_code": "CHLL3321",
+      "prefix_inferred": true,
+      "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+    },
+    {
+      "course_code": "CHLL3322",
+      "prefix_inferred": true,
+      "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+    },
+    {
+      "course_code": "CHLL3323",
+      "prefix_inferred": true,
+      "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+    },
+    {
+      "course_code": "CHLL3324",
+      "prefix_inferred": true,
+      "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+    },
+    {
+      "course_code": "CHLL3341",
+      "prefix_inferred": true,
+      "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+    },
+    {
+      "course_code": "CHLL3351",
+      "prefix_inferred": true,
+      "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+    },
+    {
+      "course_code": "CHLL4310",
+      "prefix_inferred": true,
+      "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+    },
+    {
+      "course_code": "CHLL4311",
+      "prefix_inferred": true,
+      "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+    },
+    {
+      "course_code": "CHLL4312",
+      "prefix_inferred": true,
+      "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+    },
+    {
+      "course_code": "CHLL4313",
+      "prefix_inferred": true,
+      "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+    },
+    {
+      "course_code": "CHLL4314",
+      "prefix_inferred": true,
+      "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+    },
+    {
+      "course_code": "CHLL4315",
+      "prefix_inferred": true,
+      "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+    },
+    {
+      "course_code": "CHLL4320",
+      "prefix_inferred": true,
+      "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+    },
+    {
+      "course_code": "CHLL4321",
+      "prefix_inferred": true,
+      "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+    },
+    {
+      "course_code": "CHLL4322",
+      "prefix_inferred": true,
+      "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+    },
+    {
+      "course_code": "CHLL4330",
+      "prefix_inferred": true,
+      "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+    },
+    {
+      "course_code": "CHLL4331",
+      "prefix_inferred": true,
+      "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+    },
+    {
+      "course_code": "CHLL4332",
+      "prefix_inferred": true,
+      "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+    },
+    {
+      "course_code": "CHLL4340",
+      "prefix_inferred": true,
+      "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+    },
+    {
+      "course_code": "CHLL4342",
+      "prefix_inferred": true,
+      "evidence": "CHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342"
+    },
+    {
+      "course_code": "CHLL3402",
+      "prefix_inferred": false,
+      "evidence": "CHLL3402, 3404, 3405, 3406, 3407, 3408, 4401, 4402, 4403, 4404, 4405, 4411"
+    },
+    {
+      "course_code": "CHLL3404",
+      "prefix_inferred": true,
+      "evidence": "CHLL3402, 3404, 3405, 3406, 3407, 3408, 4401, 4402, 4403, 4404, 4405, 4411"
+    },
+    {
+      "course_code": "CHLL3405",
+      "prefix_inferred": true,
+      "evidence": "CHLL3402, 3404, 3405, 3406, 3407, 3408, 4401, 4402, 4403, 4404, 4405, 4411"
+    },
+    {
+      "course_code": "CHLL3406",
+      "prefix_inferred": true,
+      "evidence": "CHLL3402, 3404, 3405, 3406, 3407, 3408, 4401, 4402, 4403, 4404, 4405, 4411"
+    },
+    {
+      "course_code": "CHLL3407",
+      "prefix_inferred": true,
+      "evidence": "CHLL3402, 3404, 3405, 3406, 3407, 3408, 4401, 4402, 4403, 4404, 4405, 4411"
+    },
+    {
+      "course_code": "CHLL3408",
+      "prefix_inferred": true,
+      "evidence": "CHLL3402, 3404, 3405, 3406, 3407, 3408, 4401, 4402, 4403, 4404, 4405, 4411"
+    },
+    {
+      "course_code": "CHLL4401",
+      "prefix_inferred": true,
+      "evidence": "CHLL3402, 3404, 3405, 3406, 3407, 3408, 4401, 4402, 4403, 4404, 4405, 4411"
+    },
+    {
+      "course_code": "CHLL4402",
+      "prefix_inferred": true,
+      "evidence": "CHLL3402, 3404, 3405, 3406, 3407, 3408, 4401, 4402, 4403, 4404, 4405, 4411"
+    },
+    {
+      "course_code": "CHLL4403",
+      "prefix_inferred": true,
+      "evidence": "CHLL3402, 3404, 3405, 3406, 3407, 3408, 4401, 4402, 4403, 4404, 4405, 4411"
+    },
+    {
+      "course_code": "CHLL4404",
+      "prefix_inferred": true,
+      "evidence": "CHLL3402, 3404, 3405, 3406, 3407, 3408, 4401, 4402, 4403, 4404, 4405, 4411"
+    },
+    {
+      "course_code": "CHLL4405",
+      "prefix_inferred": true,
+      "evidence": "CHLL3402, 3404, 3405, 3406, 3407, 3408, 4401, 4402, 4403, 4404, 4405, 4411"
+    },
+    {
+      "course_code": "CHLL4411",
+      "prefix_inferred": true,
+      "evidence": "CHLL3402, 3404, 3405, 3406, 3407, 3408, 4401, 4402, 4403, 4404, 4405, 4411"
+    },
+    {
+      "course_code": "CLED2540",
+      "prefix_inferred": false,
+      "evidence": "CLED2540, 3540, 4620, 4640, 4660, 4740, 4750, 4760"
+    },
+    {
+      "course_code": "CLED3540",
+      "prefix_inferred": true,
+      "evidence": "CLED2540, 3540, 4620, 4640, 4660, 4740, 4750, 4760"
+    },
+    {
+      "course_code": "CLED4620",
+      "prefix_inferred": true,
+      "evidence": "CLED2540, 3540, 4620, 4640, 4660, 4740, 4750, 4760"
+    },
+    {
+      "course_code": "CLED4640",
+      "prefix_inferred": true,
+      "evidence": "CLED2540, 3540, 4620, 4640, 4660, 4740, 4750, 4760"
+    },
+    {
+      "course_code": "CLED4660",
+      "prefix_inferred": true,
+      "evidence": "CLED2540, 3540, 4620, 4640, 4660, 4740, 4750, 4760"
+    },
+    {
+      "course_code": "CLED4740",
+      "prefix_inferred": true,
+      "evidence": "CLED2540, 3540, 4620, 4640, 4660, 4740, 4750, 4760"
+    },
+    {
+      "course_code": "CLED4750",
+      "prefix_inferred": true,
+      "evidence": "CLED2540, 3540, 4620, 4640, 4660, 4740, 4750, 4760"
+    },
+    {
+      "course_code": "CLED4760",
+      "prefix_inferred": true,
+      "evidence": "CLED2540, 3540, 4620, 4640, 4660, 4740, 4750, 4760"
+    },
+    {
+      "course_code": "EDUC2210",
+      "prefix_inferred": false,
+      "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+    },
+    {
+      "course_code": "EDUC2220",
+      "prefix_inferred": true,
+      "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+    },
+    {
+      "course_code": "EDUC3140",
+      "prefix_inferred": true,
+      "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+    },
+    {
+      "course_code": "EDUC3150",
+      "prefix_inferred": true,
+      "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+    },
+    {
+      "course_code": "EDUC3200",
+      "prefix_inferred": true,
+      "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+    },
+    {
+      "course_code": "EDUC3260",
+      "prefix_inferred": true,
+      "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+    },
+    {
+      "course_code": "EDUC3270",
+      "prefix_inferred": true,
+      "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+    },
+    {
+      "course_code": "EDUC3280",
+      "prefix_inferred": true,
+      "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+    },
+    {
+      "course_code": "EDUC3290",
+      "prefix_inferred": true,
+      "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+    },
+    {
+      "course_code": "EDUC4110",
+      "prefix_inferred": true,
+      "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+    },
+    {
+      "course_code": "EDUC4131",
+      "prefix_inferred": true,
+      "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+    },
+    {
+      "course_code": "EDUC4320",
+      "prefix_inferred": true,
+      "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+    },
+    {
+      "course_code": "EDUC4330",
+      "prefix_inferred": true,
+      "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+    },
+    {
+      "course_code": "CLED2530",
+      "prefix_inferred": false,
+      "evidence": "Students whose first language is Putonghua and who have passed a recognized Putonghua proficiency test can be exempted from CLED2530 and/or 3530."
+    },
+    {
+      "course_code": "CLED3530",
+      "prefix_inferred": true,
+      "evidence": "Students whose first language is Putonghua and who have passed a recognized Putonghua proficiency test can be exempted from CLED2530 and/or 3530."
+    },
+    {
+      "course_code": "CHLL1900",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: CHLL1900 or 1902 or 1903, EDUC2312"
+    },
+    {
+      "course_code": "CHLL1902",
+      "prefix_inferred": true,
+      "evidence": "Faculty Package: CHLL1900 or 1902 or 1903, EDUC2312"
+    },
+    {
+      "course_code": "CHLL1903",
+      "prefix_inferred": true,
+      "evidence": "Faculty Package: CHLL1900 or 1902 or 1903, EDUC2312"
+    },
+    {
+      "course_code": "EDUC2312",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: CHLL1900 or 1902 or 1903, EDUC2312"
+    },
+    {
+      "course_code": "CLED2530",
+      "prefix_inferred": false,
+      "evidence": "Major Required: 3 units of CHLL or CHLT course, CLED2530"
+    },
+    {
+      "course_code": "EDUC2120",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: EDUC2120"
+    },
+    {
+      "course_code": "CLED3530",
+      "prefix_inferred": false,
+      "evidence": "Major Required: 3 units of CHLL or CHLT course, CLED3530"
+    },
+    {
+      "course_code": "EDUC2240",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: EDUC2240"
+    },
+    {
+      "course_code": "CLED2640",
+      "prefix_inferred": false,
+      "evidence": "Major Required: 6 units of CHLL or CHLT courses, CLED2640"
+    },
+    {
+      "course_code": "EDUC3311",
+      "prefix_inferred": false,
+      "evidence": "Major Required: 6 units of CHLL or CHLT courses, EDUC3311"
+    },
+    {
+      "course_code": "CLED3510",
+      "prefix_inferred": false,
+      "evidence": "Major Required: 6 units of CHLL or CHLT courses, CLED3510 or 3610"
+    },
+    {
+      "course_code": "CLED3610",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 6 units of CHLL or CHLT courses, CLED3510 or 3610"
+    },
+    {
+      "course_code": "CLED4520",
+      "prefix_inferred": false,
+      "evidence": "Major Required: 3 units of CHLL or CHLT course, CLED4520, EDUC3201"
+    },
+    {
+      "course_code": "EDUC3201",
+      "prefix_inferred": false,
+      "evidence": "Major Required: 3 units of CHLL or CHLT course, CLED4520, EDUC3201"
+    },
+    {
+      "course_code": "CLED4510",
+      "prefix_inferred": false,
+      "evidence": "Major Required: 6 units of CHLL or CHLT courses, CLED4510 or 4650"
+    },
+    {
+      "course_code": "CLED4650",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 6 units of CHLL or CHLT courses, CLED4510 or 4650"
+    },
+    {
+      "course_code": "CLED1030",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CLED1030, 4630, 4720, EDUC4030"
+    },
+    {
+      "course_code": "CLED4630",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CLED1030, 4630, 4720, EDUC4030"
+    },
+    {
+      "course_code": "CLED4720",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CLED1030, 4630, 4720, EDUC4030"
+    },
+    {
+      "course_code": "EDUC4030",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CLED1030, 4630, 4720, EDUC4030"
+    },
+    {
+      "course_code": "CLED4730",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CLED4730, EDUC4040, 4340"
+    },
+    {
+      "course_code": "EDUC4040",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CLED4730, EDUC4040, 4340"
+    },
+    {
+      "course_code": "EDUC4340",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CLED4730, EDUC4040, 4340"
+    },
+    {
+      "course_code": "CHLL1900",
+      "prefix_inferred": false,
+      "evidence": "CHLL1900"
+    },
+    {
+      "course_code": "CHLL1902",
+      "prefix_inferred": false,
+      "evidence": "CHLL1902"
+    },
+    {
+      "course_code": "CHLL1903",
+      "prefix_inferred": false,
+      "evidence": "CHLL1903"
+    },
+    {
+      "course_code": "EDUC2120",
+      "prefix_inferred": false,
+      "evidence": "EDUC2120"
+    },
+    {
+      "course_code": "EDUC2312",
+      "prefix_inferred": false,
+      "evidence": "EDUC2312"
+    },
+    {
+      "course_code": "CLED2530",
+      "prefix_inferred": false,
+      "evidence": "CLED2530"
+    },
+    {
+      "course_code": "CLED2540",
+      "prefix_inferred": false,
+      "evidence": "CLED2540"
+    },
+    {
+      "course_code": "CLED3510",
+      "prefix_inferred": false,
+      "evidence": "CLED3510"
+    },
+    {
+      "course_code": "CLED3530",
+      "prefix_inferred": false,
+      "evidence": "CLED3530"
+    },
+    {
+      "course_code": "CLED3540",
+      "prefix_inferred": false,
+      "evidence": "CLED3540"
+    },
+    {
+      "course_code": "CLED3610",
+      "prefix_inferred": false,
+      "evidence": "CLED3610"
+    },
+    {
+      "course_code": "CLED4510",
+      "prefix_inferred": false,
+      "evidence": "CLED4510"
+    },
+    {
+      "course_code": "CLED4520",
+      "prefix_inferred": false,
+      "evidence": "CLED4520"
+    },
+    {
+      "course_code": "CLED4620",
+      "prefix_inferred": false,
+      "evidence": "CLED4620"
+    },
+    {
+      "course_code": "CLED4640",
+      "prefix_inferred": false,
+      "evidence": "CLED4640"
+    },
+    {
+      "course_code": "CLED4650",
+      "prefix_inferred": false,
+      "evidence": "CLED4650"
+    },
+    {
+      "course_code": "CLED4660",
+      "prefix_inferred": false,
+      "evidence": "CLED4660"
+    },
+    {
+      "course_code": "CLED4720",
+      "prefix_inferred": false,
+      "evidence": "CLED4720"
+    },
+    {
+      "course_code": "CLED4730",
+      "prefix_inferred": false,
+      "evidence": "CLED4730"
+    },
+    {
+      "course_code": "CLED4740",
+      "prefix_inferred": false,
+      "evidence": "CLED4740"
+    },
+    {
+      "course_code": "CLED4750",
+      "prefix_inferred": false,
+      "evidence": "CLED4750"
+    },
+    {
+      "course_code": "CLED4760",
+      "prefix_inferred": false,
+      "evidence": "CLED4760"
+    },
+    {
+      "course_code": "EDUC2210",
+      "prefix_inferred": false,
+      "evidence": "EDUC2210"
+    },
+    {
+      "course_code": "EDUC2220",
+      "prefix_inferred": false,
+      "evidence": "EDUC2220"
+    },
+    {
+      "course_code": "EDUC2240",
+      "prefix_inferred": false,
+      "evidence": "EDUC2240"
+    },
+    {
+      "course_code": "EDUC3140",
+      "prefix_inferred": false,
+      "evidence": "EDUC3140"
+    },
+    {
+      "course_code": "EDUC3150",
+      "prefix_inferred": false,
+      "evidence": "EDUC3150"
+    },
+    {
+      "course_code": "EDUC3200",
+      "prefix_inferred": false,
+      "evidence": "EDUC3200"
+    },
+    {
+      "course_code": "EDUC3201",
+      "prefix_inferred": false,
+      "evidence": "EDUC3201"
+    },
+    {
+      "course_code": "EDUC3260",
+      "prefix_inferred": false,
+      "evidence": "EDUC3260"
+    },
+    {
+      "course_code": "EDUC3270",
+      "prefix_inferred": false,
+      "evidence": "EDUC3270"
+    },
+    {
+      "course_code": "EDUC3280",
+      "prefix_inferred": false,
+      "evidence": "EDUC3280"
+    },
+    {
+      "course_code": "EDUC3290",
+      "prefix_inferred": false,
+      "evidence": "EDUC3290"
+    },
+    {
+      "course_code": "EDUC3311",
+      "prefix_inferred": false,
+      "evidence": "EDUC3311"
+    },
+    {
+      "course_code": "EDUC4110",
+      "prefix_inferred": false,
+      "evidence": "EDUC4110"
+    },
+    {
+      "course_code": "EDUC4131",
+      "prefix_inferred": false,
+      "evidence": "EDUC4131"
+    },
+    {
+      "course_code": "EDUC4320",
+      "prefix_inferred": false,
+      "evidence": "EDUC4320"
+    },
+    {
+      "course_code": "EDUC4330",
+      "prefix_inferred": false,
+      "evidence": "EDUC4330"
+    },
+    {
+      "course_code": "EDUC4340",
+      "prefix_inferred": false,
+      "evidence": "EDUC4340"
+    },
+    {
+      "course_code": "EDUC4030",
+      "prefix_inferred": false,
+      "evidence": "EDUC4030"
+    },
+    {
+      "course_code": "EDUC4040",
+      "prefix_inferred": false,
+      "evidence": "EDUC4040"
+    },
+    {
+      "course_code": "CHLL1401",
+      "prefix_inferred": false,
+      "evidence": "CHLL1401"
+    },
+    {
+      "course_code": "CHLL2121",
+      "prefix_inferred": false,
+      "evidence": "CHLL2121"
+    },
+    {
+      "course_code": "CHLL2131",
+      "prefix_inferred": false,
+      "evidence": "CHLL2131"
+    },
+    {
+      "course_code": "CHLL2212",
+      "prefix_inferred": false,
+      "evidence": "CHLL2212"
+    },
+    {
+      "course_code": "CHLL2302",
+      "prefix_inferred": false,
+      "evidence": "CHLL2302"
+    },
+    {
+      "course_code": "CHLL2350",
+      "prefix_inferred": false,
+      "evidence": "CHLL2350"
+    },
+    {
+      "course_code": "CHLL2403",
+      "prefix_inferred": false,
+      "evidence": "CHLL2403"
+    },
+    {
+      "course_code": "CHLL3110",
+      "prefix_inferred": false,
+      "evidence": "CHLL3110"
+    },
+    {
+      "course_code": "CHLL3141",
+      "prefix_inferred": false,
+      "evidence": "CHLL3141"
+    },
+    {
+      "course_code": "CHLL3142",
+      "prefix_inferred": false,
+      "evidence": "CHLL3142"
+    },
+    {
+      "course_code": "CHLL3143",
+      "prefix_inferred": false,
+      "evidence": "CHLL3143"
+    },
+    {
+      "course_code": "CHLL3151",
+      "prefix_inferred": false,
+      "evidence": "CHLL3151"
+    },
+    {
+      "course_code": "CHLL3162",
+      "prefix_inferred": false,
+      "evidence": "CHLL3162"
+    },
+    {
+      "course_code": "CHLL3221",
+      "prefix_inferred": false,
+      "evidence": "CHLL3221"
+    },
+    {
+      "course_code": "CHLL3222",
+      "prefix_inferred": false,
+      "evidence": "CHLL3222"
+    },
+    {
+      "course_code": "CHLL3223",
+      "prefix_inferred": false,
+      "evidence": "CHLL3223"
+    },
+    {
+      "course_code": "CHLL3231",
+      "prefix_inferred": false,
+      "evidence": "CHLL3231"
+    },
+    {
+      "course_code": "CHLL3232",
+      "prefix_inferred": false,
+      "evidence": "CHLL3232"
+    },
+    {
+      "course_code": "CHLL3310",
+      "prefix_inferred": false,
+      "evidence": "CHLL3310"
+    },
+    {
+      "course_code": "CHLL3311",
+      "prefix_inferred": false,
+      "evidence": "CHLL3311"
+    },
+    {
+      "course_code": "CHLL3312",
+      "prefix_inferred": false,
+      "evidence": "CHLL3312"
+    },
+    {
+      "course_code": "CHLL3313",
+      "prefix_inferred": false,
+      "evidence": "CHLL3313"
+    },
+    {
+      "course_code": "CHLL3314",
+      "prefix_inferred": false,
+      "evidence": "CHLL3314"
+    },
+    {
+      "course_code": "CHLL3315",
+      "prefix_inferred": false,
+      "evidence": "CHLL3315"
+    },
+    {
+      "course_code": "CHLL3316",
+      "prefix_inferred": false,
+      "evidence": "CHLL3316"
+    },
+    {
+      "course_code": "CHLL3317",
+      "prefix_inferred": false,
+      "evidence": "CHLL3317"
+    },
+    {
+      "course_code": "CHLL3321",
+      "prefix_inferred": false,
+      "evidence": "CHLL3321"
+    },
+    {
+      "course_code": "CHLL3322",
+      "prefix_inferred": false,
+      "evidence": "CHLL3322"
+    },
+    {
+      "course_code": "CHLL3323",
+      "prefix_inferred": false,
+      "evidence": "CHLL3323"
+    },
+    {
+      "course_code": "CHLL3324",
+      "prefix_inferred": false,
+      "evidence": "CHLL3324"
+    },
+    {
+      "course_code": "CHLL3341",
+      "prefix_inferred": false,
+      "evidence": "CHLL3341"
+    },
+    {
+      "course_code": "CHLL3351",
+      "prefix_inferred": false,
+      "evidence": "CHLL3351"
+    },
+    {
+      "course_code": "CHLL3402",
+      "prefix_inferred": false,
+      "evidence": "CHLL3402"
+    },
+    {
+      "course_code": "CHLL3404",
+      "prefix_inferred": false,
+      "evidence": "CHLL3404"
+    },
+    {
+      "course_code": "CHLL3405",
+      "prefix_inferred": false,
+      "evidence": "CHLL3405"
+    },
+    {
+      "course_code": "CHLL3406",
+      "prefix_inferred": false,
+      "evidence": "CHLL3406"
+    },
+    {
+      "course_code": "CHLL3407",
+      "prefix_inferred": false,
+      "evidence": "CHLL3407"
+    },
+    {
+      "course_code": "CHLL3408",
+      "prefix_inferred": false,
+      "evidence": "CHLL3408"
+    },
+    {
+      "course_code": "CHLL4121",
+      "prefix_inferred": false,
+      "evidence": "CHLL4121"
+    },
+    {
+      "course_code": "CHLL4141",
+      "prefix_inferred": false,
+      "evidence": "CHLL4141"
+    },
+    {
+      "course_code": "CHLL4161",
+      "prefix_inferred": false,
+      "evidence": "CHLL4161"
+    },
+    {
+      "course_code": "CHLL4224",
+      "prefix_inferred": false,
+      "evidence": "CHLL4224"
+    },
+    {
+      "course_code": "CHLL4242",
+      "prefix_inferred": false,
+      "evidence": "CHLL4242"
+    },
+    {
+      "course_code": "CHLL4243",
+      "prefix_inferred": false,
+      "evidence": "CHLL4243"
+    },
+    {
+      "course_code": "CHLL4244",
+      "prefix_inferred": false,
+      "evidence": "CHLL4244"
+    },
+    {
+      "course_code": "CHLL4310",
+      "prefix_inferred": false,
+      "evidence": "CHLL4310"
+    },
+    {
+      "course_code": "CHLL4311",
+      "prefix_inferred": false,
+      "evidence": "CHLL4311"
+    },
+    {
+      "course_code": "CHLL4312",
+      "prefix_inferred": false,
+      "evidence": "CHLL4312"
+    },
+    {
+      "course_code": "CHLL4313",
+      "prefix_inferred": false,
+      "evidence": "CHLL4313"
+    },
+    {
+      "course_code": "CHLL4314",
+      "prefix_inferred": false,
+      "evidence": "CHLL4314"
+    },
+    {
+      "course_code": "CHLL4315",
+      "prefix_inferred": false,
+      "evidence": "CHLL4315"
+    },
+    {
+      "course_code": "CHLL4320",
+      "prefix_inferred": false,
+      "evidence": "CHLL4320"
+    },
+    {
+      "course_code": "CHLL4321",
+      "prefix_inferred": false,
+      "evidence": "CHLL4321"
+    },
+    {
+      "course_code": "CHLL4322",
+      "prefix_inferred": false,
+      "evidence": "CHLL4322"
+    },
+    {
+      "course_code": "CHLL4330",
+      "prefix_inferred": false,
+      "evidence": "CHLL4330"
+    },
+    {
+      "course_code": "CHLL4331",
+      "prefix_inferred": false,
+      "evidence": "CHLL4331"
+    },
+    {
+      "course_code": "CHLL4332",
+      "prefix_inferred": false,
+      "evidence": "CHLL4332"
+    },
+    {
+      "course_code": "CHLL4340",
+      "prefix_inferred": false,
+      "evidence": "CHLL4340"
+    },
+    {
+      "course_code": "CHLL4342",
+      "prefix_inferred": false,
+      "evidence": "CHLL4342"
+    },
+    {
+      "course_code": "CHLL4401",
+      "prefix_inferred": false,
+      "evidence": "CHLL4401"
+    },
+    {
+      "course_code": "CHLL4402",
+      "prefix_inferred": false,
+      "evidence": "CHLL4402"
+    },
+    {
+      "course_code": "CHLL4403",
+      "prefix_inferred": false,
+      "evidence": "CHLL4403"
+    },
+    {
+      "course_code": "CHLL4404",
+      "prefix_inferred": false,
+      "evidence": "CHLL4404"
+    },
+    {
+      "course_code": "CHLL4405",
+      "prefix_inferred": false,
+      "evidence": "CHLL4405"
+    },
+    {
+      "course_code": "CHLL4411",
+      "prefix_inferred": false,
+      "evidence": "CHLL4411"
+    },
+    {
+      "course_code": "CHLT1880",
+      "prefix_inferred": false,
+      "evidence": "CHLT1880"
+    },
+    {
+      "course_code": "CHLT2881",
+      "prefix_inferred": false,
+      "evidence": "CHLT2881"
+    },
+    {
+      "course_code": "CHLT2882",
+      "prefix_inferred": false,
+      "evidence": "CHLT2882"
+    },
+    {
+      "course_code": "CHLT2883",
+      "prefix_inferred": false,
+      "evidence": "CHLT2883"
+    },
+    {
+      "course_code": "CHLT2884",
+      "prefix_inferred": false,
+      "evidence": "CHLT2884"
+    },
+    {
+      "course_code": "CHLT2885",
+      "prefix_inferred": false,
+      "evidence": "CHLT2885"
+    }
+  ],
+  "course_code_aliases": [],
+  "source": {
+    "system": "CUHK CUSIS Browse Program Information",
+    "url": "https://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/tt_dsp_acad_prog.aspx",
+    "source_text_file": "data/cuhk/2024/programmes/B_A_Chinese_Language_Studies_and_B_Ed_Chinese_Language_Education__Faculty_of_Education.txt",
+    "reused_duplicate_entry": false,
+    "reused_from_faculty": null
+  },
+  "raw_text": "\n\nBrowse Program Information\n\n\n\n\n\n\nAcademic Program:\tB.A. (Chinese Language Studies) and B.Ed. (Chinese Language Education)\nAcademic Year:\t2024\nLanguage:\t\nEnglish\nSimplified Chinese\nTraditional Chinese\n\n\n\nLearning Outcomes\nStudy Scheme\n \n\n\t\n\nBachelor of Arts (Chinese Language Studies) and\n\nBachelor of Education (Chinese Language Education)\n\nCo-terminal Double Degree Programme\n\nApplicable to students admitted in 2024-25\n\n\n\n\n \n\n\n\n\n \n\nMajor Programme Requirement\n\n \n\nStudents are required to complete a minimum of 117 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nFaculty Package:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nFaculty of Education\n\nEDUC2120, 2312\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nFaculty of Arts\n\nCHLL1900 or 1902 or 1903\n\n \n\n\t\n\n3\n\n\n\n\n2.\n\n\t\n\nRequired Courses:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nChinese Language and Literature\n\n\t\n\n \n\n\t\n\n33\n\n\n\n\n \n\n \n\n\t\n\nCHLL1401, 2212, 2302, 2350, 3162, CHLT1880, 2881, 2882, 2883, 2884, 2885\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nChinese Language Education\n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n(a)\n\n(b)\n\n(c)\n\n(d)\n\n(e)\n\n\t\n\nLanguage Teaching Methodology\n\nCLED2530[a], 3530[a], 4520\n\nCLED3510 or 3610\n\nCLED4510 or 4650\n\nCLED2640\n\nCLED4630\n\n\t\n\n \n\n\t\n\n17\n\n \n\n \n\n \n\n \n\n \n\n\n\n\n \n\n\t\n\nResearch Experience\n\nCLED4720[b], 4730[b]\n\n\t\n\n \n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nEducational Studies\n\nEDUC2240, 3201, 3311, 4340\n\n\t\n\n \n\n\t\n\n10\n\n\n\n\n \n\n\t\n\nTeaching Practice\n\nEDUC4030, 4040\n\n\t\n\n \n\n\t\n\n10\n\n\n\n\n \n\n\t\n\nImmersion\n\nCLED1030\n\n \n\n\t\n\n \n\n\t\n\n2\n\n\n\n\n3.\n\n\t\n\nElective Courses:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nChinese Language and Literature\n\n\t\n\n \n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nAny one course chosen from the following basic courses:\n\nCHLL2121, 2131, 2403\n\n\t\n\n3\n\n\n\n\n(b)\n\n\t\n\nSpecialty Courses\n\nA minimum of 21 units chosen from the following specialty courses, with at least one course from category (i) or (ii) and at least one course from category (iii) or (iv):\n\n\t\n\n21\n\n\n\n\n(i)\n\n\t\n\nLanguage and Linguistics\n\nCHLL3110, 3141, 3142, 3143, 3151, 4121, 4141, 4161\n\n\t\n\n \n\n\n\n\n(ii)\n\n\t\n\nAncient Documents\n\nCHLL3221, 3222, 3223, 3231, 3232, 4224, 4242, 4243, 4244\n\n\t\n\n \n\n\n\n\n(iii)\n\n\t\n\nClassical Literature\n\nCHLL3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4342\n\n\t\n\n \n\n\n\n\n(iv)\n\n\t\n\nModern Chinese Literature\n\nCHLL3402, 3404, 3405, 3406, 3407, 3408, 4401, 4402, 4403, 4404, 4405, 4411\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nChinese Language Education\n\n\t\n\n \n\n\t\n\n \n\n\n\n\n(c)\n\n\t\n\nA minimum of 4 units chosen from the following Language Teaching Methodology courses:\n\nCLED2540, 3540, 4620, 4640, 4660, 4740, 4750, 4760\n\n\t\n\n4\n\n\n\n\n(d)\n\n\t\n\nA minimum of 2 units chosen from the following Educational Studies courses:\n\nEDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330\n\n\t\n\n2\n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n117\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\nExplanatory Notes:\n\n\n\n\n1.\n\n\t\n\nCHLL, CHLT, CLED and EDUC courses at 2000 and above level as included in the Major Programme Requirement will be included in the calculation of Major GPA for honours classification.\n\n\n\n\n[a]\n\n\t\n\nStudents whose first language is Putonghua and who have passed a recognized Putonghua proficiency test can be exempted from CLED2530 and/or 3530. \n\n\n\n\n[b]\n\n\t\n\nCapstone courses\n\n \n\n\n\n\n \n\n \n\n\t\n\nRecommended Course Pattern\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: CHLL1900 or 1902 or 1903, EDUC2312\n\n\t\n\n6\n\n\n\n\nMajor Required: 3 units of CHLL or CHLT course, CLED2530\n\n\t\n\n5\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nFaculty Package: EDUC2120\n\n\t\n\n3\n\n\n\n\nMajor Required: 3 units of CHLL or CHLT course, CLED3530\n\n\t\n\n5\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: EDUC2240\n\n\t\n\n3\n\n\n\n\nMajor Required: 6 units of CHLL or CHLT courses, CLED2640\n\n\t\n\n8\n\n\n\n\nMajor Elective(s): 3 units\n\n\t\n\n3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: 6 units of CHLL or CHLT courses, EDUC3311\n\n\t\n\n9\n\n\n\n\nMajor Elective(s): 3 units of CHLL or CLED courses\n\n\t\n\n3\n\n\n\n\nThird Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: 6 units of CHLL or CHLT courses, CLED3510 or 3610\n\n\t\n\n9\n\n\n\n\nMajor Elective(s): 5 units\n\n\t\n\n5\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: 3 units of CHLL or CHLT course, CLED4520, EDUC3201\n\n\t\n\n7\n\n\n\n\nMajor Elective(s): 4 units\n\n\t\n\n4\n\n\n\n\nFourth Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: 6 units of CHLL or CHLT courses, CLED4510 or 4650\n\n\t\n\n9\n\n\n\n\nMajor Elective(s): 2 units\n\n\t\n\n2\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: CLED1030, 4630, 4720, EDUC4030\n\n\t\n\n13\n\n\n\n\nMajor Elective(s): 2 units of CLED or EDUC course\n\n\t\n\n2\n\n\n\n\nFifth Year of Attendance\n\n \n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: CLED4730, EDUC4040, 4340\n\n\t\n\n10\n\n\n\n\nMajor Elective(s): 2 units of CLED or EDUC course\n\n\t\n\n2\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required:\n\n\t\n\n \n\n\n\n\nMajor Elective(s): 9 units\n\n\t\n\n9\n\n\n\n\nTotal (including Faculty Package):\n\n\t\n\n117\n\n\n\n\n \n\n\n\n\nCourse List\n\n \n\n\n\n\nCourse Code\n\n\t\n\nCourse Title\n\n\t\n\nUnit(s)\n\n\n\n\nFaculty Package\n\n\n\n\nCHLL1900\n\n\t\n\nExploring China: Words and Images\n\n\t\n\n3\n\n\n\n\nCHLL1902\n\n\t\n\nClassics of Chinese Humanities: Guided Reading\n\n\t\n\n3\n\n\n\n\nCHLL1903\n\n\t\n\nStaging Love: Six Hundred Years of Chinese Romantic Plays\n\n\t\n\n3\n\n\n\n\nEDUC2120\n\n\t\n\nPrinciples and Implementation of Curriculum and Instructional Design\n\n\t\n\n3\n\n\n\n\nEDUC2312\n\n\t\n\nChild and Adolescent Development\n\n\t\n\n3\n\n\n\n\nChinese Language Education\n\n\n\n\nCLED1030\n\n\t\n\nImmersion Experience – Putonghua\n\n\t\n\n2\n\n\n\n\nCLED2530\n\n\t\n\nElementary Putonghua\n\n\t\n\n2\n\n\n\n\nCLED2540\n\n\t\n\nTheoretical Foundation of Teaching Chinese\n\n\t\n\n2\n\n\n\n\nCLED2640\n\n\t\n\nLanguage, Thought and Writing\n\n\t\n\n2\n\n\n\n\nCLED3510\n\n\t\n\nMethods of Chinese Language Teaching I\n\n\t\n\n3\n\n\n\n\nCLED3530\n\n\t\n\nAdvanced Putonghua\n\n\t\n\n2\n\n\n\n\nCLED3540\n\n\t\n\nPsychology in Chinese Language Teaching\n\n\t\n\n2\n\n\n\n\nCLED3610\n\n \n\n\t\n\nMethods of Chinese Language Teaching I (Putonghua as Medium of Instruction)\n\n\t\n\n3\n\n\n\n\nCLED4510\n\n\t\n\nMethods of Chinese Language Teaching II\n\n\t\n\n3\n\n\n\n\nCLED4520\n\n\t\n\nMaterials and Curriculum Design in Chinese Teaching\n\n\t\n\n2\n\n\n\n\nCLED4620\n\n\t\n\nLiterature and Language Education\n\n\t\n\n2\n\n\n\n\nCLED4630\n\n\t\n\nCurriculum and Instructional Design for Using Putonghua as a Medium in Chinese Language Teaching\n\n\t\n\n3\n\n\n\n\nCLED4640\n\n\t\n\nPutonghua Teaching Methodology\n\n\t\n\n2\n\n\n\n\nCLED4650\n\n\t\n\nMethods of Chinese Language Teaching II (Putonghua as Medium of Instruction)\n\n\t\n\n3\n\n\n\n\nCLED4660\n\n\t\n\nOral Skills of Chinese Language Teachers\n\n\t\n\n2\n\n\n\n\nCLED4720\n\n\t\n\nClassroom Research in Chinese Language Teaching\n\n\t\n\n3\n\n\n\n\nCLED4730\n\n\t\n\nResearch Report in Chinese Language Teaching\n\n\t\n\n3\n\n\n\n\nCLED4740\n\n\t\n\nChinese Language Teaching Assessment\n\n\t\n\n2\n\n\n\n\nCLED4750\n\n\t\n\nCurrent Issues in Chinese Language Education\n\n\t\n\n2\n\n\n\n\nCLED4760\n\n\t\n\nSpecial Topics in Chinese Language Education\n\n\t\n\n2\n\n\n\n\nEducational Studies\n\n\n\n\nEDUC2210\n\n\t\n\nEducation and Society in Hong Kong\n\n\t\n\n2\n\n\n\n\nEDUC2220\n\n\t\n\nEducational Thought\n\n\t\n\n2\n\n\n\n\nEDUC2240\n\n\t\n\nUnderstanding Schooling and Education Policy in Hong Kong\n\n\t\n\n3\n\n\n\n\nEDUC3140\n\n\t\n\nCurricular Strategies for Tackling Individual Differences\n\n\t\n\n2\n\n\n\n\nEDUC3150\n\n\t\n\nGlobal Dialogues on Education for Sustainable Development in the Curriculum\n\n\t\n\n2\n\n\n\n\nEDUC3200\n\n\t\n\nDeveloping Intercultural Competence: Experiential Learning\n\n\t\n\n3\n\n\n\n\nEDUC3201\n\n\t\n\nEthics and Professional Standards for Teachers\n\n\t\n\n2\n\n\n\n\nEDUC3260\n\n\t\n\nTeacher Development and Leadership\n\n\t\n\n2\n\n\n\n\nEDUC3270\n\n\t\n\nEngendering Education\n\n\t\n\n2\n\n\n\n\nEDUC3280\n\n\t\n\nAn Introduction to Moral and Citizenship Education\n\n\t\n\n2\n\n\n\n\nEDUC3290\n\n\t\n\nMeaning Concerns, Life and Death Education\n\n\t\n\n2\n\n\n\n\nEDUC3311\n\n\t\n\nPsychology Applied to Learning and Teaching\n\n\t\n\n3\n\n\n\n\nEDUC4110\n\n\t\n\nDynamic Curriculum Development for Innovative Learning Experiences\n\n\t\n\n2\n\n\n\n\nEDUC4131\n\n\t\n\ne-Learning in Schools\n\n\t\n\n2\n\n\n\n\nEDUC4320\n\n\t\n\nClassroom Management and School Discipline\n\n\t\n\n2\n\n\n\n\nEDUC4330\n\n\t\n\nSchool Guidance and Counselling\n\n\t\n\n2\n\n\n\n\nEDUC4340\n\n\t\n\nSupporting Students with Special Educational Needs\n\n\t\n\n2\n\n\n\n\nTeaching Practice\n\n\n\n\nEDUC4030\n\n\t\n\nTeaching Practice I\n\n\t\n\n5\n\n\n\n\nEDUC4040\n\n\t\n\nTeaching Practice II\n\n\t\n\n5\n\n\n\n\nChinese Language and Literature\n\n\n\n\nCHLL1401\n\n\t\n\nIntroduction to Literature\n\n\t\n\n3\n\n\n\n\nCHLL2121\n\n\t\n\nIntroduction to Chinese Philology\n\n\t\n\n3\n\n\n\n\nCHLL2131\n\n\t\n\nIntroduction to Chinese Phonology\n\n\t\n\n3\n\n\n\n\nCHLL2212\n\n\t\n\nIntroduction to the Study of Classical Chinese Texts\n\n\t\n\n3\n\n\n\n\nCHLL2302\n\n\t\n\nHistory of Chinese Literature\n\n\t\n\n3\n\n\n\n\nCHLL2350\n\n\t\n\nClassical Chinese Poetry: Selected Readings and Writing Practice\n\n\t\n\n3\n\n\n\n\nCHLL2403\n\n\t\n\nIntroduction to Modern Chinese Literature\n\n\t\n\n3\n\n\n\n\nCHLL3110\n\n\t\n\nApplied Linguistics\n\n\t\n\n3\n\n\n\n\nCHLL3141\n\n\t\n\nModern Chinese Grammar\n\n\t\n\n3\n\n\n\n\nCHLL3142\n\n\t\n\nComparative Grammar in Chinese and English\n\n\t\n\n3\n\n\n\n\nCHLL3143\n\n\t\n\nChinese Morphology\n\n\t\n\n3\n\n\n\n\nCHLL3151\n\n\t\n\nChinese Rhetoric\n\n\t\n\n3\n\n\n\n\nCHLL3162\n\n\t\n\nStudy of Cantonese\n\n\t\n\n3\n\n\n\n\nCHLL3221\n\n\t\n\nLun Yu\n\n\t\n\n3\n\n\n\n\nCHLL3222\n\n\t\n\nMeng Zi\n\n\t\n\n3\n\n\n\n\nCHLL3223\n\n\t\n\nLi Ji\n\n\t\n\n3\n\n\n\n\nCHLL3231\n\n\t\n\nShi Ji\n\n\t\n\n3\n\n\n\n\nCHLL3232\n\n\t\n\nHan Shu\n\n\t\n\n3\n\n\n\n\nCHLL3310\n\n\t\n\nPoetry of Tao Qian\n\n\t\n\n3\n\n\n\n\nCHLL3311\n\n\t\n\nPoetry of Li Bai\n\n\t\n\n3\n\n\n\n\nCHLL3312\n\n\t\n\nMajor Author(s) (Prose)\n\n\t\n\n3\n\n\n\n\nCHLL3313\n\n\t\n\nMajor Author(s) (Poetry)\n\n\t\n\n3\n\n\n\n\nCHLL3314\n\n\t\n\nMajor Author(s) (Ci Poetry)\n\n\t\n\n3\n\n\n\n\nCHLL3315\n\n\t\n\nCi Poetry of Su Shi and Xin Qiji\n\n\t\n\n3\n\n\n\n\nCHLL3316\n\n\t\n\nSelected Prose Works through All Ages\n\n\t\n\n3\n\n\n\n\nCHLL3317\n\n\t\n\nPoetry of the Han, Wei, and Six Dynasties\n\n\t\n\n3\n\n\n\n\nCHLL3321\n\n\t\n\nClassical Chinese Fiction (Short Stories)\n\n\t\n\n3\n\n\n\n\nCHLL3322\n\n\t\n\nClassical Chinese Fiction (Novel)\n\n\t\n\n3\n\n\n\n\nCHLL3323\n\n\t\n\nScholar-Beauty Romance\n\n\t\n\n3\n\n\n\n\nCHLL3324\n\n\t\n\nChuanqi and Kunqu Opera from Ming through Qing\n\n\t\n\n3\n\n\n\n\nCHLL3341\n\n\t\n\nWomen’s Literature from Ming through Qing\n\n\t\n\n3\n\n\n\n\nCHLL3351\n\n\t\n\nClassical Chinese Ci Poetry: Selected Readings and Writing Practice\n\n\t\n\n3\n\n\n\n\nCHLL3402\n\n\t\n\nModern Chinese Literature and Film\n\n\t\n\n3\n\n\n\n\nCHLL3404\n\n\t\n\nModern Chinese Poetry\n\n\t\n\n3\n\n\n\n\nCHLL3405\n\n\t\n\nModern Chinese Prose\n\n\t\n\n3\n\n\n\n\nCHLL3406\n\n\t\n\nModern Chinese Fiction (Novella and Short Stories)\n\n\t\n\n3\n\n\n\n\nCHLL3407\n\n\t\n\nModern Chinese Fiction (Novel)\n\n\t\n\n3\n\n\n\n\nCHLL3408\n\n\t\n\nModern Chinese Drama\n\n\t\n\n3\n\n\n\n\nCHLL4121\n\n\t\n\nChinese Paleography and Ancient Texts\n\n\t\n\n3\n\n\n\n\nCHLL4141\n\n\t\n\nChinese Historical Grammar\n\n\t\n\n3\n\n\n\n\nCHLL4161\n\n\t\n\nChinese Dialectology\n\n\t\n\n3\n\n\n\n\nCHLL4224\n\n\t\n\nZuo Zhuan\n\n\t\n\n3\n\n\n\n\nCHLL4242\n\n\t\n\nZhuang Zi\n\n\t\n\n3\n\n\n\n\nCHLL4243\n\n\t\n\nXun Zi\n\n\t\n\n3\n\n\n\n\nCHLL4244\n\n\t\n\nHan Fei Zi\n\n\t\n\n3\n\n\n\n\nCHLL4310\n\n\t\n\nShi Jing\n\n\t\n\n3\n\n\n\n\nCHLL4311\n\n\t\n\nChu Ci\n\n\t\n\n3\n\n\n\n\nCHLL4312\n\n\t\n\nPoetry of Du Fu\n\n\t\n\n3\n\n\n\n\nCHLL4313\n\n\t\n\nProse of Han Yu\n\n\t\n\n3\n\n\n\n\nCHLL4314\n\n\t\n\nProse of Liu Zongyuan\n\n\t\n\n3\n\n\n\n\nCHLL4315\n\n\t\n\nPre-Qin Myths\n\n\t\n\n3\n\n\n\n\nCHLL4320\n\n\t\n\nClassical Chinese Drama\n\n\t\n\n3\n\n\n\n\nCHLL4321\n\n\t\n\nDrama of Tang Xianzu\n\n\t\n\n3\n\n\n\n\nCHLL4322\n\n\t\n\nHonglou meng\n\n\t\n\n3\n\n\n\n\nCHLL4330\n\n\t\n\nWenxin diaolong\n\n\t\n\n3\n\n\n\n\nCHLL4331\n\n\t\n\nClassical Literary Criticism\n\n\t\n\n3\n\n\n\n\nCHLL4332\n\n\t\n\nChinese Poetics\n\n\t\n\n3\n\n\n\n\nCHLL4340\n\n\t\n\nLiterature of the Jian'an Period\n\n\t\n\n3\n\n\n\n\nCHLL4342\n\n\t\n\nChinese Literature (1840-1919)\n\n\t\n\n3\n\n\n\n\nCHLL4401\n\n\t\n\nLiterature and Art\n\n\t\n\n3\n\n\n\n\nCHLL4402\n\n\t\n\nModern Literary Criticism\n\n\t\n\n3\n\n\n\n\nCHLL4403\n\n\t\n\nHong Kong Literature\n\n\t\n\n3\n\n\n\n\nCHLL4404\n\n\t\n\nChinese Women Writers\n\n\t\n\n3\n\n\n\n\nCHLL4405\n\n\t\n\nEileen Chang\n\n\t\n\n3\n\n\n\n\nCHLL4411\n\n\t\n\nLu Xun\n\n\t\n\n3\n\n\n\n\nCHLT1880\n\n\t\n\nCreative Writing and Literary Appreciation\n\n\t\n\n3\n\n\n\n\nCHLT2881\n\n\t\n\nAppreciation of Masterpieces of Classical Chinese Literature\n\n\t\n\n3\n\n\n\n\nCHLT2882\n\n\t\n\nAppreciation of Masterpieces of Modern Chinese Literature\n\n\t\n\n3\n\n\n\n\nCHLT2883\n\n\t\n\nSelected Readings in the Classics of Ancient Texts\n\n\t\n\n3\n\n\n\n\nCHLT2884\n\n\t\n\nIntroduction to Classical Chinese\n\n\t\n\n3\n\n\n\n\nCHLT2885\n\n\t\n\nIntroduction to Modern Chinese\n\n\t\n\n3\n\n \n\n\n \n\nStudy Scheme\n\n\nLearning Outcomes\n \n\n\t\n\n \n\n1.\n\n\t\n\nMajor Programme:\n\n\n\n\nGraduates from the programme will:\n\n\n\n\n(1)\n\n\t\n\nDemonstrate a mastery of the Chinese language and literature to a level that meets the expectations for quality teaching in schools;\n\n\n\n\n(2)\n\n\t\n\nAttain an advanced level of proficiency in both Cantonese and Putonghua expression for the purpose of effective teaching of the Chinese language;\n\n\n\n\n(3)\n\n\t\n\nDevelop knowledge and skills relating to Chinese language teaching;\n\n\n\n\n(4)\n\n\t\n\nDevelop practical skills in material design and adaptation, in the use of textbooks and other resources, in the assessment of language ability, and in curriculum design and evaluation.\n\n \n\n \n\n\n"
+}

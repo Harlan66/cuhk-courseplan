@@ -1,0 +1,29 @@
+{
+  "generated_at": "2026-08-15T15:51:29.310Z",
+  "term_code": "2420",
+  "term_label": "2026-27 Term 1",
+  "source_policy": "Latest verified subject data; historical fallback is explicitly labeled; no rows fabricated from recheck snippets.",
+  "counts": {
+    "subjects": 126,
+    "courses": 1560,
+    "classes": 2999,
+    "meetings": 6797,
+    "class_details": 26,
+    "reserved_quotas": 12,
+    "course_catalog": 10,
+    "capture_status": 126,
+    "course_completeness": 1560
+  },
+  "subject_status_counts": {
+    "data": 111,
+    "school_approval_required": 5,
+    "historical_fallback": 10
+  },
+  "validation": {
+    "duplicate_class_numbers": 0,
+    "duplicate_meeting_keys": 0,
+    "orphan_meetings": 0,
+    "orphan_classes": 0
+  },
+  "unresolved_subjects": []
+}

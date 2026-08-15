@@ -1,0 +1,4343 @@
+
+
+Browse Program Information
+
+
+
+
+
+
+Academic Program:	B.Sc. in Statistics
+Academic Year:	2024
+Language:	
+English
+Simplified Chinese
+Traditional Chinese
+
+
+
+Learning Outcomes
+Study Scheme
+ 
+
+	
+
+Statistics
+
+Applicable to students admitted in 2024-25
+
+
+
+
+ 
+
+ 
+
+
+
+
+There are three streams of specialization: the stream of Data Science and Business Statistics, the stream of Statistical Learning and Data Mining and the stream of Data Analytics.  A student’s selected stream will be printed on his/her transcript.  All students are under the stream of Data Science and Business Statistics unless they apply at their final year of attendance to specialize in the stream of Statistical Learning and Data Mining or the stream of Data Analytics and select the relevant courses as prescribed below.
+
+
+
+
+ 
+
+
+
+
+Major Programme Requirement
+
+ 
+
+Data Science and Business Statistics Stream
+
+
+
+
+ 
+
+Students are required to complete a minimum of 63 units of courses as follows:
+
+	
+
+ 
+
+ 
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+Units
+
+
+
+
+1.
+
+	
+
+Faculty Package:
+
+	
+
+9
+
+
+
+
+ 
+
+	
+
+Group E: STAT1011 (preferred) or 1012
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+Group C: MATH1010 or 1018 or 1520
+
+	
+
+ 
+
+
+
+
+ 
+
+ 
+
+	
+
+A course from the following
+
+Group A: LSCI1001 or 1002 or 1012
+
+Group B: CHEM1070 or 1072 or 1280
+
+Group D: PHYS1001 or 1002 or 1111 or 1113
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+2.
+
+	
+
+Required Courses:
+
+	
+
+27
+
+
+
+
+ 
+
+	
+
+MATH1030 or 1038 or 1550 or 1630, STAT1013, 2001, 2005, 2006, 2011, 3001, 3008, 3011
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+3.
+
+	
+
+Elective Courses:
+
+	
+
+27
+
+
+
+
+(a)
+
+ 
+
+ 
+
+ 
+
+	
+
+Eight courses from the following (with at least five from STAT or RMSC courses coded at 4000 or above level):
+
+RMSC4004#, STAT3003, 3005, 3006, 3007, 3009, 3010, 3210, 4001, 4002, 4003, 4004, 4005, 4006, 4008, 4010, 4012
+
+	
+
+ 
+
+
+
+
+(b)
+
+	
+
+One capstone/research course from STAT4011 or 4013
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+Total:
+
+	
+
+63
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Explanatory Notes:
+
+	
+
+ 
+
+
+
+
+1.
+
+ 
+
+2.
+
+	
+
+STAT courses at 2000 and above level as well as those labeled as # will be included in the calculation of Major GPA for honours classification.
+
+Students admitted to the Dual Undergraduate Degree Programme (DDP) with The University of Edinburgh (UoE) are required to follow the major programme requirement of the Data Science and Business Statistics Stream, and will not be able to declare other streams.
+
+ 
+
+
+
+
+Statistical Learning and Data Mining Stream
+
+
+
+
+ 
+
+Students are required to complete a minimum of 63 units of courses as follows:
+
+	
+
+ 
+
+ 
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+Units
+
+
+
+
+1. 
+
+	
+
+Faculty Package:
+
+	
+
+9
+
+
+
+
+ 
+
+	
+
+Group E: STAT1011 (preferred) or 1012
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+Group C: MATH1010 or 1018 or 1520
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+A course from the following
+
+Group A: LSCI1001 or 1002 or 1012
+
+Group B: CHEM1070 or 1072 or 1280
+
+Group D: PHYS1001 or 1002 or 1111 or 1113
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+2.
+
+	
+
+Required Courses:
+
+	
+
+30
+
+
+
+
+ 
+
+	
+
+MATH1030 or 1038 or 1550 or 1630, STAT1013, 2001, 2005, 2006, 2011, 3008, 3011, 4001, 4003
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+3.
+
+	
+
+Elective Courses:
+
+	
+
+24
+
+
+
+
+(a)
+
+ 
+
+ 
+
+ 
+
+ 
+
+	
+
+Seven courses from the following (with at least five from STAT or RMSC courses coded at 4000 or above level):
+
+RMSC4001#, 4002#, 4003#, 4004#, 4005#, 4006#, SEEM2420#, 3440#, STAT3001, 3003, 3005, 3006, 3007, 3009, 3010, 3210, 4002, 4004, 4005, 4006, 4008, 4010, 4012, 5005, 5010, 5020, 5030, 5050, 5060
+
+	
+
+ 
+
+
+
+
+(b)
+
+	
+
+One capstone/research course from STAT4011 or 4013
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+Total:
+
+	
+
+63
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Explanatory Note:
+
+	
+
+ 
+
+
+
+
+1.
+
+	
+
+STAT courses at 2000 and above level as well as those labeled as # will be included in the calculation of Major GPA for honours classification.
+
+
+
+
+ 
+
+	
+
+ 
+
+
+
+
+Data Analytics Stream
+
+
+
+
+ 
+
+Students are required to complete a minimum of 69 units of courses as follows:
+
+	
+
+ 
+
+ 
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+Units
+
+
+
+
+1. 
+
+	
+
+Faculty Package:
+
+	
+
+9
+
+
+
+
+ 
+
+	
+
+Group E: STAT1011 (preferred) or 1012
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+Group C: MATH1010 or 1018 or 1520
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+A course from the following
+
+Group A: LSCI1001 or 1002 or 1012
+
+Group B: CHEM1070 or 1072 or 1280
+
+Group D: PHYS1001 or 1002 or 1111 or 1113
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+2.
+
+	
+
+Required Courses:
+
+	
+
+33
+
+
+
+
+ 
+
+	
+
+CSCI1120 or 1130 or 1520 or 1530 or 1550, MATH1030 or 1038 or 1550 or 1630, SEEM2460#, STAT1013, 2001, 2005, 2006, 2011, 3008, 3011, 4003
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+3.
+
+	
+
+Elective Courses:
+
+	
+
+27
+
+
+
+
+(a)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b)
+
+	
+
+Eight courses from the following (with at least one from STAT3006 or STAT4001, at least three from STAT or RMSC courses, at least two from CSCI or ENGG courses, and at least three courses coded at 4000 or above level):
+
+CSCI2100# or 2520#, 3150#, 3160#, 3170#, 3220#, 3230#, 3320#, 4180#, 4190#, 5030#, 5510# or ENGG5108#, RMSC4001#, 4002#, 4003#, 4004#, 4005#, 4006#, STAT3001, 3003, 3005, 3006, 3007, 3009, 3010, 3210, 4001, 4002, 4004, 4005, 4006, 4008, 4010, 4012
+
+One capstone/research course from STAT4011 or 4013
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+Total:
+
+	
+
+69
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+In addition to fulfilling the above Major Programme Requirement, students meeting the criteria as specified by the Faculty can take the following stream offered by the Faculty:
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Science, Technology And Research Stream
+
+ 
+
+
+
+
+Students are required to complete a minimum of 12 units of courses as follows:
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+Units
+
+
+
+
+1.
+
+	
+
+Required Courses:
+
+	
+
+ 
+
+
+
+
+(a)
+
+	
+
+One Faculty Package Course:
+
+	
+
+3
+
+
+
+
+ 
+
+	
+
+Choose from the two remaining groups of the Faculty Package that have not been used to fulfill the Faculty Package Requirement
+
+	
+
+ 
+
+
+
+
+(b)
+
+	
+
+Research Courses:
+
+	
+
+6
+
+
+
+
+ 
+
+	
+
+STAR2000, 3000, 4000[a]
+
+	
+
+ 
+
+
+
+
+(c)
+
+	
+
+Seminar Courses:
+
+	
+
+3
+
+
+
+
+ 
+
+	
+
+STAR2050, 3050, 4050
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+2.
+
+	
+
+Experiential Learning:
+
+	
+
+---
+
+
+
+
+ 
+
+	
+
+At least 4 consecutive weeks of outside Hong Kong exposure[b]
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+Total:
+
+	
+
+12
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Explanatory Notes:
+
+	
+
+ 
+
+
+
+
+1.
+
+	
+
+STAT courses at 2000 and above level as well as those labeled as # will be included in the calculation of Major GPA for honours classification.
+
+
+
+
+[a]
+
+	
+
+Students may select research-oriented course(s), as approved by the Major Programme, to substitute up to 4 units for fulfillment of Research Courses requirement.
+
+
+
+
+[b]
+
+	
+
+Students must complete any exchange/research/internship programme(s) offered by the University, Colleges, the Faculty of Science or Major Programme, as approved by the Major Programme, to fulfill the Experiential Learning requirement. Students are responsible for the extra costs incurred in the exchange/research/internship programme(s).
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+ 
+
+
+
+
+Statistics (Data Science and Business Statistics Stream)
+
+
+
+
+ 
+
+	
+
+Recommended Course Pattern
+
+	
+
+Units
+
+
+
+
+First Year of
+
+Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Faculty Package: STAT1011 or 1012
+
+	
+
+3
+
+
+
+
+Major Required: STAT1013 (if not taking in the 2nd term)
+
+	
+
+0-3
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Faculty Package: MATH1010 or 1018 or 1520, one course from LSCI1001 or 1002 or 1012, CHEM1070 or 1072 or 1280, or PHYS1001 or 1002 or 1111 or 1113
+
+	
+
+6
+
+
+
+
+Major Required: STAT1013 (if not taken in the 1st term)
+
+	
+
+0-3
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+Second Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: STAT2001, 2005 (if not taking in the 2nd term),
+
+MATH1030 or 1038 or 1550 or 1630 (if not taking in the 2nd term)
+
+	
+
+3-9
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required: STAT2005 (if not taken in the 1st term), 2006, 2011, MATH1030 or 1038 or 1550 or 1630 (if not taken in the 1st term)
+
+	
+
+6-12
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+Third Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: STAT3001 (if not taking in the 2nd term), 3008
+
+	
+
+3-6
+
+
+
+
+Major Elective(s): Two courses from STAT3003, 3005, 3006, 3007, 3009, 3010, 3210, 4001, 4002, 4003, 4004, 4005, 4006, 4008, 4010, 4012 or RMSC4004
+
+	
+
+6
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required: STAT3001 (if not taken in the 1st term), 3011
+
+	
+
+3-6
+
+
+
+
+Major Elective(s): Two courses from STAT3003, 3005, 3006, 3007, 3009, 3010, 3210, 4001, 4002, 4003, 4004, 4005, 4006, 4008, 4010, 4012 or RMSC4004
+
+	
+
+6
+
+
+
+
+Fourth Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: STAT4011 or 4013
+
+	
+
+3
+
+
+
+
+Major Elective(s): Two courses from STAT4001, 4002, 4003, 4004, 4005, 4006, 4008, 4010, 4012 or RMSC4004
+
+	
+
+6
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required:
+
+	
+
+ 
+
+
+
+
+Major Elective(s): Two courses from STAT4001, 4002, 4003, 4004, 4005, 4006, 4008, 4010, 4012 or RMSC4004
+
+	
+
+6
+
+
+
+
+Total (including Faculty Package):
+
+	
+
+63
+
+
+
+
+ 
+
+
+
+
+Statistics (Data Science and Business Statistics Stream) ¾ Science, Technology And Research Stream (STARS)
+
+
+
+
+ 
+
+	
+
+Recommended Course Pattern
+
+	
+
+Units
+
+
+
+
+First Year of
+
+Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Faculty Package: STAT1011 or 1012, one course from LSCI1001 or 1002 or 1012, CHEM1070 or 1072 or 1280, or PHYS1001 or 1002 or 1111 or 1113
+
+	
+
+6
+
+
+
+
+Major Required: STAT1013 (if not taking in the 2nd term)
+
+	
+
+0-3
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Faculty Package: MATH1010 or 1018 or 1520
+
+	
+
+3
+
+
+
+
+Major Required: STAT1013 (if not taken in the 1st term)
+
+	
+
+0-3
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+STARS: STAR2050, one Faculty package course
+
+	
+
+4
+
+
+
+
+Second Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: STAT2001, 2005 (if not taking in the 2nd term),
+
+MATH1030 or 1038 or 1550 or 1630 (if not taking in the 2nd term)
+
+	
+
+3-9
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+STARS: STAR2000 (if not taking in the 2nd term), 3050 (if not taking in the 2nd term)
+
+	
+
+0-2
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required: STAT2005 (if not taken in the 1st term), 2006, 2011, MATH1030 or 1038 or 1550 or 1630 (if not taken in the 1st term)
+
+	
+
+6-12
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+STARS: STAR2000 (if not taken in the 1st term), 3050 (if not taken in the 1st term)
+
+	
+
+0-2
+
+
+
+
+Third Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: STAT3001 (if not taking in the 2nd term), 3008
+
+	
+
+3-6
+
+
+
+
+Major Elective(s): Two courses from STAT3003, 3005, 3006, 3007, 3009, 3010, 3210, 4001, 4002, 4003, 4004, 4005, 4006, 4008, 4010, 4012 or RMSC4004
+
+	
+
+6
+
+
+
+
+STARS: STAR3000 (if not taking in the 2nd term), 4050 (if not taking in the 2nd term)
+
+	
+
+0-3
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required: STAT3001 (if not taken in the 1st term), 3011
+
+	
+
+3-6
+
+
+
+
+Major Elective(s): Two courses from STAT3003, 3005, 3006, 3007, 3009, 3010, 3210, 4001, 4002, 4003, 4004, 4005, 4006, 4008, 4010, 4012 or RMSC4004
+
+	
+
+6
+
+
+
+
+STARS: STAR3000 (if not taken in the 1st term), 4050 (if not taken in the 1st term)
+
+	
+
+0-3
+
+
+
+
+Fourth Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: STAT4011@ or 4013
+
+	
+
+3
+
+
+
+
+Major Elective(s): Two courses from STAT4001, 4002, 4003, 4004, 4005, 4006, 4008, 4010, 4012 or RMSC4004
+
+	
+
+6
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required:
+
+	
+
+ 
+
+
+
+
+Major Elective(s): Two courses from STAT4001, 4002, 4003, 4004, 4005, 4006, 4008, 4010, 4012 or RMSC4004
+
+	
+
+6
+
+
+
+
+Total (including Faculty Package):
+
+	
+
+72
+
+
+
+
+  @ Student may take STAT4011 as a substitute for STAR4000.
+
+
+
+
+ 
+
+
+
+
+Statistics (Statistical Learning and Data Mining Stream)
+
+
+
+
+ 
+
+	
+
+Recommended Course Pattern
+
+	
+
+Units
+
+
+
+
+First Year of
+
+Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Faculty Package: STAT1011 or 1012
+
+	
+
+3
+
+
+
+
+Major Required: STAT1013 (if not taking in the 2nd term)
+
+	
+
+0-3
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Faculty Package: MATH1010 or 1018 or 1520, one course from LSCI1001 or 1002 or 1012, CHEM1070 or 1072 or 1280, or PHYS1001 or 1002 or 1111 or 1113
+
+	
+
+6
+
+
+
+
+Major Required: STAT1013 (if not taken in the 1st term)
+
+	
+
+0-3
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+Second Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: STAT2001, 2005 (if not taking in the 2nd term),
+
+MATH1030 or 1038 or 1550 or 1630 (if not taking in the 2nd term)
+
+	
+
+3-9
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required: STAT2005 (if not taken in the 1st term), 2006, 2011, MATH1030 or 1038 or 1550 or 1630 (if not taken in the 1st term)
+
+	
+
+6-12
+
+
+
+
+Major Elective(s): SEEM2420
+
+	
+
+3
+
+
+
+
+Third Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: STAT3008, 4003 (if not taking in the 2nd term)
+
+	
+
+3-6
+
+
+
+
+Major Elective(s): One course from SEEM3440, STAT3001, 3003, 3005, 3006, 3007, 3009, 3010, 3210, 4002, 4004, 4005, 4006, 4008, 4010, 4012, RMSC4001, 4002, 4003, 4004, 4005 or 4006
+
+	
+
+3
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required: STAT3011, 4001, 4003 (if not taken in the 1st term)
+
+	
+
+6-9
+
+
+
+
+Major Elective(s): Two courses from SEEM3440, STAT3001, 3003, 3005, 3006, 3007, 3009, 3010, 3210, 4002, 4004, 4005, 4006, 4008, 4010, 4012, RMSC4001, 4002, 4003, 4004, 4005 or 4006
+
+	
+
+6
+
+
+
+
+Fourth Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: STAT4011 or 4013
+
+	
+
+3
+
+
+
+
+Major Elective(s): Two courses from STAT4002, 4004, 4005, 4006, 4008, 4010, 4012, 5005, 5010, 5020, 5030, 5050, 5060, RMSC4001, 4002, 4003, 4004, 4005 or 4006
+
+	
+
+6
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required:
+
+	
+
+ 
+
+
+
+
+Major Elective(s): One course from STAT4002, 4004, 4005, 4006, 4008, 4010, 4012, 5005, 5010, 5020, 5030, 5050, 5060, RMSC4001, 4002, 4003, 4004, 4005 or 4006
+
+	
+
+3
+
+
+
+
+Total (including Faculty Package):
+
+	
+
+63
+
+
+
+
+ 
+
+
+
+
+Statistics (Statistical Learning and Data Mining Stream) ¾ Science, Technology And Research Stream (STARS)
+
+
+
+
+ 
+
+	
+
+Recommended Course Pattern
+
+	
+
+Units
+
+
+
+
+First Year of
+
+Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Faculty Package: STAT1011 or 1012, one course from LSCI1001 or 1002 or 1012, CHEM1070 or 1072 or 1280, or PHYS1001 or 1002 or 1111 or 1113
+
+	
+
+6
+
+
+
+
+Major Required: STAT1013 (if not taking in the 2nd term)
+
+	
+
+0-3
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Faculty Package: MATH1010 or 1018 or 1520
+
+	
+
+3
+
+
+
+
+Major Required: STAT1013 (if not taken in the 1st term)
+
+	
+
+0-3
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+STARS: STAR2050, one Faculty package course
+
+	
+
+4
+
+
+
+
+Second Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: STAT2001, 2005 (if not taking in the 2nd term),
+
+MATH1030 or 1038 or 1550 or 1630 (if not taking in the 2nd term)
+
+	
+
+3-9
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+STARS: STAR2000 (if not taking in the 2nd term), 3050 (if not taking in the 2nd term)
+
+	
+
+0-2
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required: STAT2005 (if not taken in the 1st term), 2006, 2011, MATH1030 or 1038 or 1550 or 1630 (if not taken in the 1st term)
+
+	
+
+6-12
+
+
+
+
+Major Elective(s): SEEM2420
+
+	
+
+3
+
+
+
+
+STARS: STAR2000 (if not taken in the 1st term), 3050 (if not taken in the 1st term)
+
+	
+
+0-2
+
+
+
+
+Third Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: STAT3008, 4003 (if not taking in the 2nd term)
+
+	
+
+3-6
+
+
+
+
+Major Elective(s): One course from SEEM3440, STAT3001, 3003, 3005, 3006, 3007, 3009, 3010, 3210, 4002, 4004, 4005, 4006, 4008, 4010, 4012, RMSC4001, 4002, 4003, 4004, 4005 or 4006
+
+	
+
+3
+
+
+
+
+STARS: STAR3000 (if not taking in the 2nd term), 4050 (if not taking in the 2nd term)
+
+	
+
+0-3
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required: STAT3011, 4001, 4003 (if not taken in the 1st term)
+
+	
+
+6-9
+
+
+
+
+Major Elective(s): Two courses from SEEM3440, STAT3001, 3003, 3005, 3006, 3007, 3009, 3010, 3210, 4002, 4004, 4005, 4006, 4008, 4010, 4012, RMSC4001, 4002, 4003, 4004, 4005 or 4006
+
+	
+
+6
+
+
+
+
+STARS: STAR3000 (if not taken in the 1st term), 4050 (if not taken in the 1st term)
+
+	
+
+0-3
+
+
+
+
+Fourth Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: STAT4011@ or 4013
+
+	
+
+3
+
+
+
+
+Major Elective(s): Two courses from STAT4002, 4004, 4005, 4006, 4008, 4010, 4012, 5005, 5010, 5020, 5030, 5050, 5060, RMSC4001, 4002, 4003, 4004, 4005 or 4006
+
+	
+
+6
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required:
+
+	
+
+ 
+
+
+
+
+Major Elective(s): One course from STAT4002, 4004, 4005, 4006, 4008, 4010, 4012, 5005, 5010, 5020, 5030, 5050, 5060, RMSC4001, 4002, 4003, 4004, 4005 or 4006
+
+	
+
+3
+
+
+
+
+Total (including Faculty Package):
+
+	
+
+72
+
+
+
+
+  @ Student may take STAT4011 as a substitute for STAR4000.
+
+
+
+
+ 
+
+
+
+
+Statistics (Data Analytics Stream)
+
+
+
+
+ 
+
+	
+
+Recommended Course Pattern
+
+	
+
+Units
+
+
+
+
+First Year of
+
+Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Faculty Package: STAT1011 or 1012
+
+	
+
+3
+
+
+
+
+Major Required: CSCI1120 or 1130 or 1520 or 1530 or 1550 (if not taking in the 2nd term), STAT1013 (if not taking in the 2nd term)
+
+	
+
+0-6
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Faculty Package: MATH1010 or 1018 or 1520, one course from LSCI1001 or 1002 or 1012, CHEM1070 or 1072 or 1280, or PHYS1001 or 1002 or 1111 or 1113
+
+	
+
+6
+
+
+
+
+Major Required: CSCI1120 or 1130 or 1520 or 1530 or 1550 (if not taken in the 1st term), STAT1013 (if not taken in the 1st term)
+
+	
+
+0-6
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+Second Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: STAT2001, 2005 (if not taking in the 2nd term),
+
+MATH1030 or 1038 or 1550 or 1630 (if not taking in the 2nd term),
+
+SEEM2460 (if not taking in the 2nd term)
+
+	
+
+3-12
+
+
+
+
+Major Elective(s): CSCI2100 or 2520 (if not taking in the 2nd term)
+
+	
+
+0-3
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required: STAT2005 (if not taken in the 1st term), 2006, 2011,
+
+MATH1030 or 1038 or 1550 or 1630 (if not taken in the 1st term), SEEM2460 (if not taken in the 1st term)
+
+	
+
+6-15
+
+
+
+
+Major Elective(s): CSCI2100 or 2520 (if not taken in the 1st term)
+
+	
+
+0-3
+
+
+
+
+Third Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: STAT3008, 4003 (if not taking in the 2nd term)
+
+	
+
+3-6
+
+
+
+
+Major Elective(s): One or two course(s) from STAT3001, 3003, 3005, 3006, 3007, 3009, 3010, 3210, 4001, 4002, 4004, 4005, 4006, 4008, 4010, 4012, RMSC4001, 4002, 4003, 4004, 4005, 4006, CSCI3150, 3160, 3170, 3220, 3230 or 3320
+
+	
+
+3-6
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required: STAT3011, 4003 (if not taken in the 1st term)
+
+	
+
+3-6
+
+
+
+
+Major Elective(s): One or two course(s) from STAT3001, 3003, 3005, 3006, 3007, 3009, 3010, 3210, 4001, 4002, 4004, 4005, 4006, 4008, 4010, 4012, RMSC4001, 4002, 4003, 4004, 4005, 4006, CSCI3150, 3160, 3170, 3220, 3230 or 3320
+
+	
+
+3-6
+
+
+
+
+Fourth Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: STAT4011 or 4013
+
+	
+
+3
+
+
+
+
+Major Elective(s): One course from STAT4001, 4002, 4004, 4005, 4006, 4008, 4010, 4012, RMSC4001, 4002, 4003, 4004, 4005, 4006, CSCI3150, 3160, 3170, 3220, 3230, 3320, 4180, 4190, 5030, 5510 or ENGG5108
+
+	
+
+3
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required:
+
+	
+
+ 
+
+
+
+
+Major Elective(s): Two courses from STAT4001, 4002, 4004, 4005, 4006, 4008, 4010, 4012, RMSC4001, 4002, 4003, 4004, 4005, 4006, CSCI4180, 4190, 5030, 5510 or ENGG5108
+
+	
+
+6
+
+
+
+
+Total (including Faculty Package):
+
+	
+
+69
+
+
+
+
+ 
+
+
+
+
+Statistics (Data Analytics Stream) ¾ Science, Technology And Research Stream (STARS)
+
+
+
+
+ 
+
+	
+
+Recommended Course Pattern
+
+	
+
+Units
+
+
+
+
+First Year of
+
+Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Faculty Package: STAT1011 or 1012, one course from LSCI1001 or 1002 or 1012, CHEM1070 or 1072 or 1280, or PHYS1001 or 1002 or 1111 or 1113
+
+	
+
+6
+
+
+
+
+Major Required: CSCI1120 or 1130 or 1520 or 1530 or 1550 (if not taking in the 2nd term), STAT1013 (if not taking in the 2nd term)
+
+	
+
+0-6
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Faculty Package: MATH1010 or 1018 or 1520
+
+	
+
+3
+
+
+
+
+Major Required: CSCI1120 or 1130 or 1520 or 1530 or 1550 (if not taken in the 1st term), STAT1013 (if not taken in the 1st term)
+
+	
+
+0-6
+
+
+
+
+Major Elective(s):
+
+	
+
+ 
+
+
+
+
+STARS: STAR2050, one Faculty package course
+
+	
+
+4
+
+
+
+
+Second Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: STAT2001, 2005 (if not taking in the 2nd term),
+
+MATH1030 or 1038 or 1550 or 1630 (if not taking in the 2nd term),
+
+SEEM2460 (if not taking in the 2nd term)
+
+	
+
+3-12
+
+
+
+
+Major Elective(s): CSCI2100 or 2520 (if not taking in the 2nd term)
+
+	
+
+0-3
+
+
+
+
+STARS: STAR2000 (if not taking in the 2nd term), 3050 (if not taking in the 2nd term)
+
+	
+
+0-2
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required: STAT2005 (if not taken in the 1st term), 2006, 2011,
+
+MATH1030 or 1038 or 1550 or 1630 (if not taken in the 1st term), SEEM2460 (if not taken in the 1st term)
+
+	
+
+6-15
+
+
+
+
+Major Elective(s): CSCI2100 or 2520 (if not taken in the 1st term)
+
+	
+
+0-3
+
+
+
+
+STARS: STAR2000 (if not taken in the 1st term), 3050 (if not taken in the 1st term)
+
+	
+
+0-2
+
+
+
+
+Third Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: STAT3008, 4003 (if not taking in the 2nd term)
+
+	
+
+3-6
+
+
+
+
+Major Elective(s): One or two course(s) from STAT3001, 3003, 3005, 3006, 3007, 3009, 3010, 3210, 4001, 4002, 4004, 4005, 4006, 4008, 4010, 4012, RMSC4001, 4002, 4003, 4004, 4005, 4006, CSCI3150, 3160, 3170, 3220, 3230 or 3320
+
+	
+
+3-6
+
+
+
+
+STARS: STAR3000 (if not taking in the 2nd term), 4050 (if not taking in the 2nd term)
+
+	
+
+0-3
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required: STAT3011, 4003 (if not taken in the 1st term)
+
+	
+
+3-6
+
+
+
+
+Major Elective(s): One or two course(s) from STAT3001, 3003, 3005, 3006, 3007, 3009, 3010, 3210, 4001, 4002, 4004, 4005, 4006, 4008, 4010, 4012, RMSC4001, 4002, 4003, 4004, 4005, 4006, CSCI3150, 3160, 3170, 3220, 3230 or 3320
+
+	
+
+3-6
+
+
+
+
+STARS: STAR3000 (if not taken in the 1st term), 4050 (if not taken in the 1st term)
+
+	
+
+0-3
+
+
+
+
+Fourth Year of Attendance
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Major Required: STAT4011@ or 4013
+
+	
+
+3
+
+
+
+
+Major Elective(s): One course from STAT4001, 4002, 4004, 4005, 4006, 4008, 4010, 4012, RMSC4001, 4002, 4003, 4004, 4005, 4006, CSCI3150, 3160, 3170, 3220, 3230, 3320, 4180, 4190, 5030, 5510 or ENGG5108
+
+	
+
+3
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Major Required:
+
+	
+
+ 
+
+
+
+
+Major Elective(s): Two courses from STAT4001, 4002, 4004, 4005, 4006, 4008, 4010, 4012, RMSC4001, 4002, 4003, 4004, 4005, 4006, CSCI4180, 4190, 5030, 5510 or ENGG5108
+
+	
+
+6
+
+
+
+
+Total (including Faculty Package):
+
+	
+
+78
+
+
+
+
+  @ Student may take STAT4011 as a substitute for STAR4000.
+
+
+
+
+ 
+
+
+
+
+ 
+
+	
+
+Recommended Course Pattern for CUHK students in fulfillment of requirements of the Dual Undergraduate Degree Programme (DDP) with The University of Edinburgh (UoE) (BSc in Mathematics and Statistics)
+
+	
+
+Units
+
+
+
+
+First Year of Attendance (Study at CUHK)
+
+	
+
+1st term
+
+	
+
+ 
+
+
+
+
+Faculty Package: MATH1010, STAT1011
+
+	
+
+6
+
+
+
+
+Major Required: STAT2001
+
+	
+
+3
+
+
+
+
+University Core Requirements: 0-1 College GE course[a], ELTU1001, 1 UGFH or UGFN course, 1 PHED course
+
+	
+
+7-9
+
+
+
+
+2nd term
+
+	
+
+ 
+
+
+
+
+Faculty Package: 1 course
+
+	
+
+3
+
+
+
+
+Major Required: MATH1030, STAT2006
+
+	
+
+6
+
+
+
+
+University Core Requirements: CHLT1001, ENGG1003, 1 PHED course
+
+	
+
+7
+
+
+
+
+Second Year of Attendance
+
+(Study at CUHK)
+
+	
+
+1st term[b]
+
+	
+
+ 
+
+
+
+
+Major Required: STAT2005, 3008
+
+	
+
+6
+
+
+
+
+Major Elective(s): STAT4005, 4006
+
+	
+
+6
+
+
+
+
+University Core Requirements: 1 College GE course[a], ELTU2018, 1 UGFH or UGFN course
+
+	
+
+8-9
+
+
+
+
+2nd term[b]
+
+	
+
+ 
+
+
+
+
+Major Required: STAT1013[c], 2011, 3001
+
+	
+
+9
+
+
+
+
+Major Elective(s): STAT4010, 4012
+
+	
+
+6
+
+
+
+
+University Core Requirements: CHLT1002, UGCP1001, 1002
+
+	
+
+4
+
+
+
+
+Summer session[b]
+
+	
+
+ 
+
+
+
+
+University Core Requirements: 1 UGEA course[d], 1 UGEC course[d]
+
+	
+
+4
+
+
+
+
+Third Year of Attendance
+
+(Study at UoE)
+
+	
+
+1st term
+
+Major Required: MATH10095 (10 units)[e]
+
+Major Elective(s): MATH10007 (10 units)[f], Elective courses (40 units)
+
+	
+
+60 units
+
+(with 6 units for fulfillment of the Major requirements to be transferred to CUHK)
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+2nd term
+
+Major Required: MATH10093 (10 units)[g], 10066 (20 units)
+
+Major Elective(s): Elective courses (30 units)
+
+ 
+
+	
+
+60 units
+
+(with 3 units for fulfillment of the Major requirements to be transferred to CUHK)
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+Fourth Year of Attendance
+
+(Study at UoE)
+
+	
+
+1st term
+
+Major Required: 40 units from MATH10010, 10063, 10102 or 11127 (40 units)[h]
+
+Major Elective(s): Elective courses (20 units)
+
+ 
+
+	
+
+60 units
+
+(with 6 units for fulfillment of the Major requirements to be transferred to CUHK)
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+2nd term
+
+Major Elective(s): MATH10064 (10 units)[i], Elective courses (50 units)
+
+ 
+
+ 
+
+	
+
+60 units
+
+(with 3 units for fulfillment of the Major requirements to be transferred to CUHK)
+
+
+
+
+ 
+
+
+
+
+Units taken at CUHK:
+
+	
+
+76-77
+
+
+
+
+Units taken at UoE and recognized by CUHK:
+
+	
+
+18
+
+
+
+
+Total:
+
+	
+
+94-95 [j]
+
+
+
+
+Explanatory Notes:
+
+
+
+
+1.
+
+	
+
+Subject to approval by the Major Programme concerned, students may opt out of the Dual Degree Programme. The decision to opt out is irrevocable. Students who have opted out are required to complete and fulfill all graduation requirements of the Major Programme at CUHK. Students should be aware that such decision may result in a delay in graduation. Courses and units completed at the Host Institution can be transferred back for fulfillment of CUHK requirements, in accordance with the course mapping table.
+
+
+
+
+[a]
+
+	
+
+The recommended course pattern of College GE courses varies slightly depending on students’ College affiliation. Students who are required to take 4 units of College GE should take two 2-unit courses at different terms.
+
+
+
+
+[b]
+
+	
+
+Students taking a term and a year load exceeding the maximum will need to seek approval from the Registrar.
+
+
+
+
+[c]
+
+	
+
+Students are required to take MATH1050 as a substitute for STAT1013.
+
+
+
+
+[d]
+
+	
+
+Students should take one 2-unit UGEA course and one 2-unit UGEC course.
+
+
+
+
+[e]
+
+	
+
+MATH10095 taken at UoE can be transferred to fulfill the requirement of STAT4003.
+
+
+
+
+[f]
+
+	
+
+MATH10007 taken at UoE can be transferred to fulfill the requirement of STAT3007.
+
+
+
+
+[g]
+
+	
+
+MATH10093 taken at UoE can be transferred to fulfill the requirement of STAT3006.
+
+
+
+
+[h]
+
+	
+
+40 credits taken from MATH10010, 10063, 10102 or 11127 at UoE can be transferred to fulfill the requirements of STAT3011 and 4011.
+
+
+
+
+[i]
+
+	
+
+MATH10064 taken at UoE can be transferred to fulfill the requirement of STAT4002.
+
+
+
+
+[j]
+
+	
+
+Students are required to complete at least 42 units (out of 63) of major courses offered by CUHK.
+
+ 
+
+
+			
+
+
+
+
+ 
+
+
+
+
+Minor Programme Title
+
+Statistics
+
+ 
+
+
+
+
+ 
+
+Minor Programme Requirement
+
+ 
+
+	
+
+ 
+
+
+
+
+Students are required to complete a minimum of 18 units of courses as follows, with at least 12 units of STAT courses:
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+Units
+
+
+
+
+1.
+
+	
+
+Required Courses:
+
+	
+
+6
+
+
+
+
+ 
+
+	
+
+STAT1011[a], 2102[a]
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+2.
+
+	
+
+Elective Courses:
+
+	
+
+12
+
+
+
+
+(a)
+
+	
+
+Two courses from STAT3001, 3003, 3005, 3006, 3008, 3009, 3010, 3210
+
+	
+
+ 
+
+
+
+
+(b)
+
+	
+
+Two courses from MKTG3010, STAT4001, 4002, 4003, 4004, 4005, 4006, 4008, 4010, 4012
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+ 
+
+	
+
+Total:
+
+	
+
+18
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+Explanatory Notes:
+
+	
+
+ 
+
+
+
+
+[a]
+
+ 
+
+	
+
+Students can take either the STAT course or its corresponding equivalent or closely related course (with a maximum of 6 units), but not both, as listed below to fulfill the requirement:
+
+ 
+
+STAT courses
+
+	
+
+Equivalent/closely related courses
+
+
+
+
+STAT1011
+
+	
+
+Introduction to Statistics
+
+	
+
+STAT1012
+
+	
+
+Statistics for Life Sciences
+
+
+
+
+STAT2001
+
+	
+
+Basic Concepts in Statistics and Probability I
+
+
+
+
+DOTE2011
+
+	
+
+Statistical Analysis for Business Decisions
+
+
+
+
+FINA2220
+
+	
+
+Quantitative Methods for Actuarial Analysis I
+
+
+
+
+ENGG2760and 2780
+
+(4 units) or ESTR2018 and 2020
+
+(4 units)
+
+	
+
+Probability for Engineers
+
+(ENGG2760/ESTR2018)
+
+Statistics for Engineers (ENGG2780/ESTR2020)
+
+
+
+
+ECON2121
+
+	
+
+Methods of Economic Statistics
+
+
+
+
+GRMD2102
+
+	
+
+Fundamental Statistics for Geographers
+
+
+
+
+SOCI2004
+
+	
+
+Social Statistics
+
+
+
+
+STAT2102
+
+	
+
+Basic Statistical Concepts and Methods II
+
+	
+
+STAT2006
+
+	
+
+Basic Concepts in Statistics and Probability II
+
+
+
+
+DOTE2021
+
+	
+
+Applied Econometrics for Business Decisions
+
+
+
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+	
+
+ 
+
+
+
+
+ 
+
+
+
+
+Course List
+
+ 
+
+
+
+
+Course Code
+
+	
+
+Course Title
+
+	
+
+Unit(s)
+
+
+
+
+STAT1011
+
+	
+
+Introduction to Statistics
+
+	
+
+3
+
+
+
+
+STAT1012
+
+	
+
+Statistics for Life Sciences
+
+	
+
+3
+
+
+
+
+STAT1013
+
+	
+
+Data Science Toolbox
+
+	
+
+3
+
+
+
+
+STAT2001
+
+	
+
+Basic Concepts in Statistics and Probability I
+
+	
+
+3
+
+
+
+
+STAT2005
+
+	
+
+Programming Languages for Statistics
+
+	
+
+3
+
+
+
+
+STAT2006
+
+	
+
+Basic Concepts in Statistics and Probability II
+
+	
+
+3
+
+
+
+
+STAT2011
+
+	
+
+Workshop on Data Exploration and Technical Writing
+
+	
+
+3
+
+
+
+
+STAT2102
+
+	
+
+Basic Statistical Concepts and Methods II
+
+	
+
+3
+
+
+
+
+STAT3001
+
+	
+
+Foundation of Financial and Managerial Statistics
+
+	
+
+3
+
+
+
+
+STAT3003
+
+	
+
+Survey Methods
+
+	
+
+3
+
+
+
+
+STAT3005
+
+	
+
+Nonparametric Statistics
+
+	
+
+3
+
+
+
+
+STAT3006
+
+	
+
+ Statistical Computing
+
+	
+
+ 3
+
+
+
+
+STAT3007
+
+	
+
+Introduction to Stochastic Processes
+
+	
+
+3
+
+
+
+
+STAT3008
+
+	
+
+Applied Regression Analysis
+
+	
+
+3
+
+
+
+
+STAT3009
+
+	
+
+Recommender Systems
+
+	
+
+3
+
+
+
+
+STAT3010
+
+	
+
+Optimization for Statistics and Data Science
+
+	
+
+3
+
+
+
+
+STAT3011
+
+	
+
+Workshop on Data Analysis and Statistical Computing
+
+	
+
+3
+
+
+
+
+STAT3210
+
+	
+
+Statistical Techniques in Life Sciences
+
+	
+
+3
+
+
+
+
+STAT4001
+
+	
+
+ Data Mining and Statistical Learning
+
+	
+
+ 3
+
+
+
+
+STAT4002
+
+	
+
+Applied Multivariate Analysis
+
+	
+
+3
+
+
+
+
+STAT4003
+
+	
+
+Statistical Inference
+
+	
+
+3
+
+
+
+
+STAT4004
+
+	
+
+Actuarial Science
+
+	
+
+3
+
+
+
+
+STAT4005
+
+	
+
+Time Series
+
+	
+
+3
+
+
+
+
+STAT4006
+
+	
+
+Categorical Data Analysis
+
+	
+
+3
+
+
+
+
+STAT4008
+
+	
+
+Survival Modelling
+
+	
+
+3
+
+
+
+
+STAT4010
+
+	
+
+Bayesian Learning
+
+	
+
+3
+
+
+
+
+STAT4011
+
+	
+
+Statistics Projects
+
+	
+
+3
+
+
+
+
+STAT4012
+
+	
+
+Statistical Principles of Deep Learning with Business Applications
+
+	
+
+3
+
+
+
+
+STAT4013
+
+	
+
+Practicum
+
+	
+
+3
+
+
+
+
+STAT5005
+
+	
+
+Advanced Probability Theory
+
+	
+
+3
+
+
+
+
+STAT5010
+
+	
+
+Advanced Statistical Inference
+
+	
+
+3
+
+
+
+
+STAT5020
+
+	
+
+Topics in Multivariate Analysis
+
+	
+
+3
+
+
+
+
+STAT5030
+
+	
+
+Linear Models
+
+	
+
+3
+
+
+
+
+STAT5050
+
+	
+
+Advanced Statistical Computing
+
+	
+
+3
+
+
+
+
+STAT5060
+
+	
+
+Advanced Modeling and Data Analysis
+
+	
+
+3
+
+
+
+
+STAR2000
+
+	
+
+Undergraduate Research in Science I
+
+	
+
+1
+
+
+
+
+STAR2050
+
+	
+
+Seminar I
+
+	
+
+1
+
+
+
+
+STAR3000
+
+	
+
+Undergraduate Research in Science II
+
+	
+
+2
+
+
+
+
+STAR3050
+
+	
+
+Seminar II
+
+	
+
+1
+
+
+
+
+STAR4000
+
+	
+
+Undergraduate Research in Science III
+
+	
+
+3
+
+
+
+
+STAR4050
+
+	
+
+Seminar III
+
+	
+
+1
+
+ 
+
+
+ 
+
+Study Scheme
+
+
+Learning Outcomes
+ 
+
+	
+
+ 
+
+1.     Major Programme:
+
+Knowledge Outcomes
+
+Content
+
+Graduates will have possessed fundamental knowledge of statistics, including the following:
+
+(1)   Basic concepts in probability and their applications
+
+(2)   Basic concepts in statistics and their uses
+
+(3)   Mathematical tools for statistics
+
+(4)   Applied statistical methodologies
+
+(5)   Applications of statistical packages in data management and analysis
+
+ 
+
+Critical Thinking/Statistical Reasoning
+
+Graduate will have well-developed sense of statistical consciousness, and ability in the following areas:
+
+(1)   Ability to consider problems from different perspectives
+
+(2)   Ability to identify and criticize the misuse of statistics
+
+(3)   Ability to analyse quantitative evidence in a critical manner
+
+ 
+
+Skills Outcomes
+
+Generic Competencies
+
+Graduates will have possessed the following generic skills:
+
+(1)   Effective presentation skills to communicate findings/conclusions
+
+(2)   The ability to work in teams
+
+(3)   Competence in using information technology
+
+ 
+
+Professional Skills
+
+Graduates will have acquired a good mastery of professional skills, including the following:
+
+(1)   Ability to formulate statistical problems
+
+(2)   Ability to analyse data and use statistics accurately
+
+(3)   Ability to communicate and convey the results of the analysis to anyone
+
+ 
+
+Attitude/Value Outcomes
+
+Graduates will have acquired a positive attitude towards statistical issues, including the following:
+
+(1)   Awareness of the importance of statistics in daily life
+
+(2)   Appreciation of different aspects of knowledge in the Information Age
+
+(3)   Avoidance of the abuse of statistics
+
+(4)   Appreciation of statistical theory
+
+ 
+
+2.            Minor Programme:
+
+Upon the completion of the Minor Programme, students will have demonstrated basic understanding of fundamental issues related to Statistics such as sense of statistical consciousness and competence in information technology, acquired knowledge of data analysis and statistical inference, and to pursue a related career.
+
+
+
+
+ 
+
+ 
+
+

@@ -1,0 +1,222 @@
+	Data Language:  
+English
+Simplified Chinese
+Traditional Chinese
+	
+														
+	
+Groupbox
+
+			
+	
+Teaching Timetable
+
+	
+Class Detail
+
+	
+ 
+
+
+	
+
+
+	
+
+	
+ACCT 3112 - C   Financial Reporting II
+
+
+	
+CUHK | 2026-27 Term 1 | Lecture
+
+	
+
+
+	
+Class Details
+
+				
+	
+								
+	
+
+	
+Status
+
+		
+Open
+
+	
+Class Number
+
+	
+5939
+
+	
+Session
+
+	
+Regular Academic Session
+
+	
+1
+
+	
+Units
+
+	
+3 units
+
+	
+Instruction Mode
+
+	
+In Person
+
+	
+P
+
+		
+Lecture Required
+
+	
+Class Components
+
+	
+<table class="PSTEXT"><tr><td>Lecture Required</td></tr></table>
+		
+				
+	
+Course ID
+
+		
+001090
+
+	
+Offer Nbr
+
+	
+1
+
+	
+Career
+	
+Undergraduate
+
+	
+UG
+
+	
+Dates
+
+	
+2026/8/1 - 2026/12/31
+
+	
+Grading
+	
+Graded
+
+		
+GRD
+
+	
+Campus
+	
+Main Campus
+
+	
+MAIN
+
+
+
+
+	
+Meeting Information
+
+
+Days & Times	Room	Instructor	Meeting Dates
+
+Mo 12:30 - 15:15
+	
+Esther Lee Bldg 401
+	
+Professor Erik Thomas ELFRINK
+	
+9/7, 9/14, 9/21, 9/28, 10/5, 10/12
+
+
+Mo 12:30 - 15:15
+	
+Esther Lee Bldg 401
+	
+Professor Erik Thomas ELFRINK
+	
+10/26, 11/2, 11/9, 11/16, 11/23, 11/30
+
+
+	
+Enrollment Information
+
+					
+	
+For UG PACC Major
+Prerequisite: ACCT3111
+
+	
+Enrollment Requirements
+
+	
+			
+	
+Class Attributes
+		
+English only
+
+
+
+
+	
+Class Availability
+
+						
+	
+Class Capacity
+	
+60
+	
+Wait List Capacity
+	
+999
+
+	
+Enrollment Total
+	
+6
+	
+Wait List Total
+	
+0
+
+	
+Available Seats
+	
+54
+
+
+	
+Description
+
+	
+	
+This course, a continuation of ACCT3111, will emphasize on stock-holders' equity and such other special accounting items as inflation accounting, leases, pensions and other post-employment benefits, accounting changes, and the more sophisticated aspects of financial reporting.
+
+
+	
+	
+	
+Return to Teaching Timetable
+
+
+

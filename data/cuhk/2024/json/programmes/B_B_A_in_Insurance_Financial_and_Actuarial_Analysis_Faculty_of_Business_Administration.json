@@ -1,0 +1,1002 @@
+{
+  "programme_id": "B_B_A_in_Insurance_Financial_and_Actuarial_Analysis__Faculty_of_Business_Administration",
+  "academic_program": "B.B.A. in Insurance, Financial and Actuarial Analysis",
+  "faculty": "Faculty of Business Administration",
+  "academic_year": 2024,
+  "admission_cohort": "2024-25",
+  "requirement_summary": {
+    "minimum_units_as_printed": "a minimum of 78 units",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Faculty Package",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "ACCT1111",
+            "prefix_inferred": false,
+            "evidence": "ACCT1111, DOTE1030, 1040"
+          },
+          {
+            "course_code": "DOTE1030",
+            "prefix_inferred": false,
+            "evidence": "ACCT1111, DOTE1030, 1040"
+          },
+          {
+            "course_code": "DOTE1040",
+            "prefix_inferred": true,
+            "evidence": "ACCT1111, DOTE1030, 1040"
+          }
+        ],
+        "raw_text": "9\nACCT1111, DOTE1030, 1040"
+      },
+      {
+        "number": 2,
+        "title": "Required Courses",
+        "units_as_printed": "6",
+        "course_mentions": [
+          {
+            "course_code": "MATH1010",
+            "prefix_inferred": false,
+            "evidence": "MATH1010[a], 1540"
+          },
+          {
+            "course_code": "MATH1540",
+            "prefix_inferred": true,
+            "evidence": "MATH1010[a], 1540"
+          },
+          {
+            "course_code": "CSCI1510",
+            "prefix_inferred": false,
+            "evidence": "CSCI1510 or 1520 or 1540 or 1580"
+          },
+          {
+            "course_code": "CSCI1520",
+            "prefix_inferred": true,
+            "evidence": "CSCI1510 or 1520 or 1540 or 1580"
+          },
+          {
+            "course_code": "CSCI1540",
+            "prefix_inferred": true,
+            "evidence": "CSCI1510 or 1520 or 1540 or 1580"
+          },
+          {
+            "course_code": "CSCI1580",
+            "prefix_inferred": true,
+            "evidence": "CSCI1510 or 1520 or 1540 or 1580"
+          },
+          {
+            "course_code": "ACCT2121",
+            "prefix_inferred": false,
+            "evidence": "ACCT2121, FINA2010, 2200, 2220, 2230, 3080, 3210, 3221, 3222, 3230, 3240, 3290, MGNT1020"
+          },
+          {
+            "course_code": "FINA2010",
+            "prefix_inferred": false,
+            "evidence": "ACCT2121, FINA2010, 2200, 2220, 2230, 3080, 3210, 3221, 3222, 3230, 3240, 3290, MGNT1020"
+          },
+          {
+            "course_code": "FINA2200",
+            "prefix_inferred": true,
+            "evidence": "ACCT2121, FINA2010, 2200, 2220, 2230, 3080, 3210, 3221, 3222, 3230, 3240, 3290, MGNT1020"
+          },
+          {
+            "course_code": "FINA2220",
+            "prefix_inferred": true,
+            "evidence": "ACCT2121, FINA2010, 2200, 2220, 2230, 3080, 3210, 3221, 3222, 3230, 3240, 3290, MGNT1020"
+          },
+          {
+            "course_code": "FINA2230",
+            "prefix_inferred": true,
+            "evidence": "ACCT2121, FINA2010, 2200, 2220, 2230, 3080, 3210, 3221, 3222, 3230, 3240, 3290, MGNT1020"
+          },
+          {
+            "course_code": "FINA3080",
+            "prefix_inferred": true,
+            "evidence": "ACCT2121, FINA2010, 2200, 2220, 2230, 3080, 3210, 3221, 3222, 3230, 3240, 3290, MGNT1020"
+          },
+          {
+            "course_code": "FINA3210",
+            "prefix_inferred": true,
+            "evidence": "ACCT2121, FINA2010, 2200, 2220, 2230, 3080, 3210, 3221, 3222, 3230, 3240, 3290, MGNT1020"
+          },
+          {
+            "course_code": "FINA3221",
+            "prefix_inferred": true,
+            "evidence": "ACCT2121, FINA2010, 2200, 2220, 2230, 3080, 3210, 3221, 3222, 3230, 3240, 3290, MGNT1020"
+          },
+          {
+            "course_code": "FINA3222",
+            "prefix_inferred": true,
+            "evidence": "ACCT2121, FINA2010, 2200, 2220, 2230, 3080, 3210, 3221, 3222, 3230, 3240, 3290, MGNT1020"
+          },
+          {
+            "course_code": "FINA3230",
+            "prefix_inferred": true,
+            "evidence": "ACCT2121, FINA2010, 2200, 2220, 2230, 3080, 3210, 3221, 3222, 3230, 3240, 3290, MGNT1020"
+          },
+          {
+            "course_code": "FINA3240",
+            "prefix_inferred": true,
+            "evidence": "ACCT2121, FINA2010, 2200, 2220, 2230, 3080, 3210, 3221, 3222, 3230, 3240, 3290, MGNT1020"
+          },
+          {
+            "course_code": "FINA3290",
+            "prefix_inferred": true,
+            "evidence": "ACCT2121, FINA2010, 2200, 2220, 2230, 3080, 3210, 3221, 3222, 3230, 3240, 3290, MGNT1020"
+          },
+          {
+            "course_code": "MGNT1020",
+            "prefix_inferred": false,
+            "evidence": "ACCT2121, FINA2010, 2200, 2220, 2230, 3080, 3210, 3221, 3222, 3230, 3240, 3290, MGNT1020"
+          }
+        ],
+        "raw_text": "(a)\nMATH1010[a], 1540\n6\n(b)\nCSCI1510 or 1520 or 1540 or 1580\n3\n(c)\nACCT2121, FINA2010, 2200, 2220, 2230, 3080, 3210, 3221, 3222, 3230, 3240, 3290, MGNT1020\n39"
+      },
+      {
+        "number": 3,
+        "title": "Elective Courses",
+        "units_as_printed": "18",
+        "course_mentions": [
+          {
+            "course_code": "ACCT3151",
+            "prefix_inferred": false,
+            "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+          },
+          {
+            "course_code": "ACCT3161",
+            "prefix_inferred": true,
+            "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+          },
+          {
+            "course_code": "CSCI2100",
+            "prefix_inferred": false,
+            "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+          },
+          {
+            "course_code": "CSCI2520",
+            "prefix_inferred": true,
+            "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+          },
+          {
+            "course_code": "DOTE2051",
+            "prefix_inferred": false,
+            "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+          },
+          {
+            "course_code": "FINA3010",
+            "prefix_inferred": false,
+            "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+          },
+          {
+            "course_code": "FINA3030",
+            "prefix_inferred": true,
+            "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+          },
+          {
+            "course_code": "FINA3070",
+            "prefix_inferred": true,
+            "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+          },
+          {
+            "course_code": "FINA3250",
+            "prefix_inferred": true,
+            "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+          },
+          {
+            "course_code": "FINA4110",
+            "prefix_inferred": true,
+            "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+          },
+          {
+            "course_code": "FINA3260",
+            "prefix_inferred": true,
+            "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+          },
+          {
+            "course_code": "FINA3295",
+            "prefix_inferred": true,
+            "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+          },
+          {
+            "course_code": "FINA4030",
+            "prefix_inferred": true,
+            "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+          },
+          {
+            "course_code": "FINA4120",
+            "prefix_inferred": true,
+            "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+          },
+          {
+            "course_code": "FINA4140",
+            "prefix_inferred": true,
+            "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+          },
+          {
+            "course_code": "FINA4150",
+            "prefix_inferred": true,
+            "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+          },
+          {
+            "course_code": "FINA4160",
+            "prefix_inferred": true,
+            "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+          },
+          {
+            "course_code": "FINA4211",
+            "prefix_inferred": true,
+            "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+          },
+          {
+            "course_code": "FINA4215",
+            "prefix_inferred": true,
+            "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+          },
+          {
+            "course_code": "FINA4221",
+            "prefix_inferred": true,
+            "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+          },
+          {
+            "course_code": "FINA4280",
+            "prefix_inferred": true,
+            "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+          },
+          {
+            "course_code": "IBBA3040",
+            "prefix_inferred": false,
+            "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+          },
+          {
+            "course_code": "MATH2010",
+            "prefix_inferred": false,
+            "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+          },
+          {
+            "course_code": "MKTG2010",
+            "prefix_inferred": false,
+            "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+          },
+          {
+            "course_code": "MGNT2511",
+            "prefix_inferred": false,
+            "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+          },
+          {
+            "course_code": "MGNT2512",
+            "prefix_inferred": true,
+            "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+          },
+          {
+            "course_code": "MGNT2611",
+            "prefix_inferred": true,
+            "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+          },
+          {
+            "course_code": "RMSC4001",
+            "prefix_inferred": false,
+            "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+          },
+          {
+            "course_code": "STAT3007",
+            "prefix_inferred": false,
+            "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+          },
+          {
+            "course_code": "FINA4270",
+            "prefix_inferred": false,
+            "evidence": "FINA4270, 4290, 4291, MGNT4010#"
+          },
+          {
+            "course_code": "FINA4290",
+            "prefix_inferred": true,
+            "evidence": "FINA4270, 4290, 4291, MGNT4010#"
+          },
+          {
+            "course_code": "FINA4291",
+            "prefix_inferred": true,
+            "evidence": "FINA4270, 4290, 4291, MGNT4010#"
+          },
+          {
+            "course_code": "MGNT4010",
+            "prefix_inferred": false,
+            "evidence": "FINA4270, 4290, 4291, MGNT4010#"
+          }
+        ],
+        "raw_text": "(a)\n18 units of courses from the following:\n18\nACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#\n(b)\n3 units of Capstone course from the following:\n3\nFINA4270, 4290, 4291, MGNT4010#\nTotal:\n78\nExplanatory Notes:"
+      }
+    ]
+  },
+  "all_course_mentions": [
+    {
+      "course_code": "ACCT1111",
+      "prefix_inferred": false,
+      "evidence": "ACCT1111, DOTE1030, 1040"
+    },
+    {
+      "course_code": "DOTE1030",
+      "prefix_inferred": false,
+      "evidence": "ACCT1111, DOTE1030, 1040"
+    },
+    {
+      "course_code": "DOTE1040",
+      "prefix_inferred": true,
+      "evidence": "ACCT1111, DOTE1030, 1040"
+    },
+    {
+      "course_code": "MATH1010",
+      "prefix_inferred": false,
+      "evidence": "MATH1010[a], 1540"
+    },
+    {
+      "course_code": "MATH1540",
+      "prefix_inferred": true,
+      "evidence": "MATH1010[a], 1540"
+    },
+    {
+      "course_code": "CSCI1510",
+      "prefix_inferred": false,
+      "evidence": "CSCI1510 or 1520 or 1540 or 1580"
+    },
+    {
+      "course_code": "CSCI1520",
+      "prefix_inferred": true,
+      "evidence": "CSCI1510 or 1520 or 1540 or 1580"
+    },
+    {
+      "course_code": "CSCI1540",
+      "prefix_inferred": true,
+      "evidence": "CSCI1510 or 1520 or 1540 or 1580"
+    },
+    {
+      "course_code": "CSCI1580",
+      "prefix_inferred": true,
+      "evidence": "CSCI1510 or 1520 or 1540 or 1580"
+    },
+    {
+      "course_code": "ACCT2121",
+      "prefix_inferred": false,
+      "evidence": "ACCT2121, FINA2010, 2200, 2220, 2230, 3080, 3210, 3221, 3222, 3230, 3240, 3290, MGNT1020"
+    },
+    {
+      "course_code": "FINA2010",
+      "prefix_inferred": false,
+      "evidence": "ACCT2121, FINA2010, 2200, 2220, 2230, 3080, 3210, 3221, 3222, 3230, 3240, 3290, MGNT1020"
+    },
+    {
+      "course_code": "FINA2200",
+      "prefix_inferred": true,
+      "evidence": "ACCT2121, FINA2010, 2200, 2220, 2230, 3080, 3210, 3221, 3222, 3230, 3240, 3290, MGNT1020"
+    },
+    {
+      "course_code": "FINA2220",
+      "prefix_inferred": true,
+      "evidence": "ACCT2121, FINA2010, 2200, 2220, 2230, 3080, 3210, 3221, 3222, 3230, 3240, 3290, MGNT1020"
+    },
+    {
+      "course_code": "FINA2230",
+      "prefix_inferred": true,
+      "evidence": "ACCT2121, FINA2010, 2200, 2220, 2230, 3080, 3210, 3221, 3222, 3230, 3240, 3290, MGNT1020"
+    },
+    {
+      "course_code": "FINA3080",
+      "prefix_inferred": true,
+      "evidence": "ACCT2121, FINA2010, 2200, 2220, 2230, 3080, 3210, 3221, 3222, 3230, 3240, 3290, MGNT1020"
+    },
+    {
+      "course_code": "FINA3210",
+      "prefix_inferred": true,
+      "evidence": "ACCT2121, FINA2010, 2200, 2220, 2230, 3080, 3210, 3221, 3222, 3230, 3240, 3290, MGNT1020"
+    },
+    {
+      "course_code": "FINA3221",
+      "prefix_inferred": true,
+      "evidence": "ACCT2121, FINA2010, 2200, 2220, 2230, 3080, 3210, 3221, 3222, 3230, 3240, 3290, MGNT1020"
+    },
+    {
+      "course_code": "FINA3222",
+      "prefix_inferred": true,
+      "evidence": "ACCT2121, FINA2010, 2200, 2220, 2230, 3080, 3210, 3221, 3222, 3230, 3240, 3290, MGNT1020"
+    },
+    {
+      "course_code": "FINA3230",
+      "prefix_inferred": true,
+      "evidence": "ACCT2121, FINA2010, 2200, 2220, 2230, 3080, 3210, 3221, 3222, 3230, 3240, 3290, MGNT1020"
+    },
+    {
+      "course_code": "FINA3240",
+      "prefix_inferred": true,
+      "evidence": "ACCT2121, FINA2010, 2200, 2220, 2230, 3080, 3210, 3221, 3222, 3230, 3240, 3290, MGNT1020"
+    },
+    {
+      "course_code": "FINA3290",
+      "prefix_inferred": true,
+      "evidence": "ACCT2121, FINA2010, 2200, 2220, 2230, 3080, 3210, 3221, 3222, 3230, 3240, 3290, MGNT1020"
+    },
+    {
+      "course_code": "MGNT1020",
+      "prefix_inferred": false,
+      "evidence": "ACCT2121, FINA2010, 2200, 2220, 2230, 3080, 3210, 3221, 3222, 3230, 3240, 3290, MGNT1020"
+    },
+    {
+      "course_code": "ACCT3151",
+      "prefix_inferred": false,
+      "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+    },
+    {
+      "course_code": "ACCT3161",
+      "prefix_inferred": true,
+      "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+    },
+    {
+      "course_code": "CSCI2100",
+      "prefix_inferred": false,
+      "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+    },
+    {
+      "course_code": "CSCI2520",
+      "prefix_inferred": true,
+      "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+    },
+    {
+      "course_code": "DOTE2051",
+      "prefix_inferred": false,
+      "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+    },
+    {
+      "course_code": "FINA3010",
+      "prefix_inferred": false,
+      "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+    },
+    {
+      "course_code": "FINA3030",
+      "prefix_inferred": true,
+      "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+    },
+    {
+      "course_code": "FINA3070",
+      "prefix_inferred": true,
+      "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+    },
+    {
+      "course_code": "FINA3250",
+      "prefix_inferred": true,
+      "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+    },
+    {
+      "course_code": "FINA4110",
+      "prefix_inferred": true,
+      "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+    },
+    {
+      "course_code": "FINA3260",
+      "prefix_inferred": true,
+      "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+    },
+    {
+      "course_code": "FINA3295",
+      "prefix_inferred": true,
+      "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+    },
+    {
+      "course_code": "FINA4030",
+      "prefix_inferred": true,
+      "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+    },
+    {
+      "course_code": "FINA4120",
+      "prefix_inferred": true,
+      "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+    },
+    {
+      "course_code": "FINA4140",
+      "prefix_inferred": true,
+      "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+    },
+    {
+      "course_code": "FINA4150",
+      "prefix_inferred": true,
+      "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+    },
+    {
+      "course_code": "FINA4160",
+      "prefix_inferred": true,
+      "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+    },
+    {
+      "course_code": "FINA4211",
+      "prefix_inferred": true,
+      "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+    },
+    {
+      "course_code": "FINA4215",
+      "prefix_inferred": true,
+      "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+    },
+    {
+      "course_code": "FINA4221",
+      "prefix_inferred": true,
+      "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+    },
+    {
+      "course_code": "FINA4280",
+      "prefix_inferred": true,
+      "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+    },
+    {
+      "course_code": "IBBA3040",
+      "prefix_inferred": false,
+      "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+    },
+    {
+      "course_code": "MATH2010",
+      "prefix_inferred": false,
+      "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+    },
+    {
+      "course_code": "MKTG2010",
+      "prefix_inferred": false,
+      "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+    },
+    {
+      "course_code": "MGNT2511",
+      "prefix_inferred": false,
+      "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+    },
+    {
+      "course_code": "MGNT2512",
+      "prefix_inferred": true,
+      "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+    },
+    {
+      "course_code": "MGNT2611",
+      "prefix_inferred": true,
+      "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+    },
+    {
+      "course_code": "RMSC4001",
+      "prefix_inferred": false,
+      "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+    },
+    {
+      "course_code": "STAT3007",
+      "prefix_inferred": false,
+      "evidence": "ACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#"
+    },
+    {
+      "course_code": "FINA4270",
+      "prefix_inferred": false,
+      "evidence": "FINA4270, 4290, 4291, MGNT4010#"
+    },
+    {
+      "course_code": "FINA4290",
+      "prefix_inferred": true,
+      "evidence": "FINA4270, 4290, 4291, MGNT4010#"
+    },
+    {
+      "course_code": "FINA4291",
+      "prefix_inferred": true,
+      "evidence": "FINA4270, 4290, 4291, MGNT4010#"
+    },
+    {
+      "course_code": "MGNT4010",
+      "prefix_inferred": false,
+      "evidence": "FINA4270, 4290, 4291, MGNT4010#"
+    },
+    {
+      "course_code": "MATH1530",
+      "prefix_inferred": false,
+      "evidence": "Students are required to take MATH1530 before taking MATH1010, except those who pass the Mathematics Placement Test arranged by the Programme."
+    },
+    {
+      "course_code": "MATH1010",
+      "prefix_inferred": false,
+      "evidence": "Students are required to take MATH1530 before taking MATH1010, except those who pass the Mathematics Placement Test arranged by the Programme."
+    },
+    {
+      "course_code": "ACCT1111",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: ACCT1111, DOTE1030"
+    },
+    {
+      "course_code": "DOTE1030",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: ACCT1111, DOTE1030"
+    },
+    {
+      "course_code": "MATH1010",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MATH1010"
+    },
+    {
+      "course_code": "DOTE1040",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: DOTE1040"
+    },
+    {
+      "course_code": "FINA2010",
+      "prefix_inferred": false,
+      "evidence": "Major Required: FINA2010, 2200, MATH1010 (if not taken)"
+    },
+    {
+      "course_code": "FINA2200",
+      "prefix_inferred": true,
+      "evidence": "Major Required: FINA2010, 2200, MATH1010 (if not taken)"
+    },
+    {
+      "course_code": "MATH1010",
+      "prefix_inferred": false,
+      "evidence": "Major Required: FINA2010, 2200, MATH1010 (if not taken)"
+    },
+    {
+      "course_code": "FINA2220",
+      "prefix_inferred": false,
+      "evidence": "Major Required: FINA2220, 3210, MATH1540"
+    },
+    {
+      "course_code": "FINA3210",
+      "prefix_inferred": true,
+      "evidence": "Major Required: FINA2220, 3210, MATH1540"
+    },
+    {
+      "course_code": "MATH1540",
+      "prefix_inferred": false,
+      "evidence": "Major Required: FINA2220, 3210, MATH1540"
+    },
+    {
+      "course_code": "ACCT2121",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ACCT2121, FINA2230, 3080, 3221, 3230"
+    },
+    {
+      "course_code": "FINA2230",
+      "prefix_inferred": false,
+      "evidence": "Major Required: ACCT2121, FINA2230, 3080, 3221, 3230"
+    },
+    {
+      "course_code": "FINA3080",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ACCT2121, FINA2230, 3080, 3221, 3230"
+    },
+    {
+      "course_code": "FINA3221",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ACCT2121, FINA2230, 3080, 3221, 3230"
+    },
+    {
+      "course_code": "FINA3230",
+      "prefix_inferred": true,
+      "evidence": "Major Required: ACCT2121, FINA2230, 3080, 3221, 3230"
+    },
+    {
+      "course_code": "CSCI1510",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CSCI1510 or 1520 or 1540 or 1580, FINA3222, 3240, 3290"
+    },
+    {
+      "course_code": "CSCI1520",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CSCI1510 or 1520 or 1540 or 1580, FINA3222, 3240, 3290"
+    },
+    {
+      "course_code": "CSCI1540",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CSCI1510 or 1520 or 1540 or 1580, FINA3222, 3240, 3290"
+    },
+    {
+      "course_code": "CSCI1580",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CSCI1510 or 1520 or 1540 or 1580, FINA3222, 3240, 3290"
+    },
+    {
+      "course_code": "FINA3222",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CSCI1510 or 1520 or 1540 or 1580, FINA3222, 3240, 3290"
+    },
+    {
+      "course_code": "FINA3240",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CSCI1510 or 1520 or 1540 or 1580, FINA3222, 3240, 3290"
+    },
+    {
+      "course_code": "FINA3290",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CSCI1510 or 1520 or 1540 or 1580, FINA3222, 3240, 3290"
+    },
+    {
+      "course_code": "MGNT1020",
+      "prefix_inferred": false,
+      "evidence": "Major Required: MGNT1020"
+    },
+    {
+      "course_code": "ACCT1111",
+      "prefix_inferred": false,
+      "evidence": "ACCT1111"
+    },
+    {
+      "course_code": "ACCT2121",
+      "prefix_inferred": false,
+      "evidence": "ACCT2121"
+    },
+    {
+      "course_code": "CSCI1510",
+      "prefix_inferred": false,
+      "evidence": "CSCI1510"
+    },
+    {
+      "course_code": "CSCI1520",
+      "prefix_inferred": false,
+      "evidence": "CSCI1520"
+    },
+    {
+      "course_code": "CSCI1540",
+      "prefix_inferred": false,
+      "evidence": "CSCI1540"
+    },
+    {
+      "course_code": "CSCI1580",
+      "prefix_inferred": false,
+      "evidence": "CSCI1580"
+    },
+    {
+      "course_code": "DOTE1030",
+      "prefix_inferred": false,
+      "evidence": "DOTE1030"
+    },
+    {
+      "course_code": "DOTE1040",
+      "prefix_inferred": false,
+      "evidence": "DOTE1040"
+    },
+    {
+      "course_code": "FINA2010",
+      "prefix_inferred": false,
+      "evidence": "FINA2010"
+    },
+    {
+      "course_code": "FINA2200",
+      "prefix_inferred": false,
+      "evidence": "FINA2200"
+    },
+    {
+      "course_code": "FINA2220",
+      "prefix_inferred": false,
+      "evidence": "FINA2220"
+    },
+    {
+      "course_code": "FINA2230",
+      "prefix_inferred": false,
+      "evidence": "FINA2230"
+    },
+    {
+      "course_code": "FINA3080",
+      "prefix_inferred": false,
+      "evidence": "FINA3080"
+    },
+    {
+      "course_code": "FINA3210",
+      "prefix_inferred": false,
+      "evidence": "FINA3210"
+    },
+    {
+      "course_code": "FINA3221",
+      "prefix_inferred": false,
+      "evidence": "FINA3221"
+    },
+    {
+      "course_code": "FINA3222",
+      "prefix_inferred": false,
+      "evidence": "FINA3222"
+    },
+    {
+      "course_code": "FINA3230",
+      "prefix_inferred": false,
+      "evidence": "FINA3230"
+    },
+    {
+      "course_code": "FINA3240",
+      "prefix_inferred": false,
+      "evidence": "FINA3240"
+    },
+    {
+      "course_code": "FINA3290",
+      "prefix_inferred": false,
+      "evidence": "FINA3290"
+    },
+    {
+      "course_code": "MATH1010",
+      "prefix_inferred": false,
+      "evidence": "MATH1010"
+    },
+    {
+      "course_code": "MATH1530",
+      "prefix_inferred": false,
+      "evidence": "MATH1530"
+    },
+    {
+      "course_code": "MATH1540",
+      "prefix_inferred": false,
+      "evidence": "MATH1540"
+    },
+    {
+      "course_code": "MGNT1020",
+      "prefix_inferred": false,
+      "evidence": "MGNT1020"
+    },
+    {
+      "course_code": "ACCT3151",
+      "prefix_inferred": false,
+      "evidence": "ACCT3151"
+    },
+    {
+      "course_code": "ACCT3161",
+      "prefix_inferred": false,
+      "evidence": "ACCT3161"
+    },
+    {
+      "course_code": "CSCI2100",
+      "prefix_inferred": false,
+      "evidence": "CSCI2100"
+    },
+    {
+      "course_code": "CSCI2520",
+      "prefix_inferred": false,
+      "evidence": "CSCI2520"
+    },
+    {
+      "course_code": "DOTE2051",
+      "prefix_inferred": false,
+      "evidence": "DOTE2051"
+    },
+    {
+      "course_code": "FINA3010",
+      "prefix_inferred": false,
+      "evidence": "FINA3010"
+    },
+    {
+      "course_code": "FINA3030",
+      "prefix_inferred": false,
+      "evidence": "FINA3030"
+    },
+    {
+      "course_code": "FINA3070",
+      "prefix_inferred": false,
+      "evidence": "FINA3070"
+    },
+    {
+      "course_code": "FINA3250",
+      "prefix_inferred": false,
+      "evidence": "FINA3250"
+    },
+    {
+      "course_code": "FINA3260",
+      "prefix_inferred": false,
+      "evidence": "FINA3260"
+    },
+    {
+      "course_code": "FINA3295",
+      "prefix_inferred": false,
+      "evidence": "FINA3295"
+    },
+    {
+      "course_code": "FINA4030",
+      "prefix_inferred": false,
+      "evidence": "FINA4030"
+    },
+    {
+      "course_code": "FINA4110",
+      "prefix_inferred": false,
+      "evidence": "FINA4110"
+    },
+    {
+      "course_code": "FINA4120",
+      "prefix_inferred": false,
+      "evidence": "FINA4120"
+    },
+    {
+      "course_code": "FINA4140",
+      "prefix_inferred": false,
+      "evidence": "FINA4140"
+    },
+    {
+      "course_code": "FINA4150",
+      "prefix_inferred": false,
+      "evidence": "FINA4150"
+    },
+    {
+      "course_code": "FINA4160",
+      "prefix_inferred": false,
+      "evidence": "FINA4160"
+    },
+    {
+      "course_code": "FINA4211",
+      "prefix_inferred": false,
+      "evidence": "FINA4211"
+    },
+    {
+      "course_code": "FINA4215",
+      "prefix_inferred": false,
+      "evidence": "FINA4215"
+    },
+    {
+      "course_code": "FINA4221",
+      "prefix_inferred": false,
+      "evidence": "FINA4221"
+    },
+    {
+      "course_code": "FINA4280",
+      "prefix_inferred": false,
+      "evidence": "FINA4280"
+    },
+    {
+      "course_code": "IBBA3040",
+      "prefix_inferred": false,
+      "evidence": "IBBA3040"
+    },
+    {
+      "course_code": "MATH2010",
+      "prefix_inferred": false,
+      "evidence": "MATH2010"
+    },
+    {
+      "course_code": "MKTG2010",
+      "prefix_inferred": false,
+      "evidence": "MKTG2010"
+    },
+    {
+      "course_code": "MGNT2511",
+      "prefix_inferred": false,
+      "evidence": "MGNT2511"
+    },
+    {
+      "course_code": "MGNT2512",
+      "prefix_inferred": false,
+      "evidence": "MGNT2512"
+    },
+    {
+      "course_code": "MGNT2611",
+      "prefix_inferred": false,
+      "evidence": "MGNT2611"
+    },
+    {
+      "course_code": "RMSC4001",
+      "prefix_inferred": false,
+      "evidence": "RMSC4001"
+    },
+    {
+      "course_code": "STAT3007",
+      "prefix_inferred": false,
+      "evidence": "STAT3007"
+    },
+    {
+      "course_code": "FINA4270",
+      "prefix_inferred": false,
+      "evidence": "FINA4270"
+    },
+    {
+      "course_code": "FINA4290",
+      "prefix_inferred": false,
+      "evidence": "FINA4290"
+    },
+    {
+      "course_code": "FINA4291",
+      "prefix_inferred": false,
+      "evidence": "FINA4291"
+    },
+    {
+      "course_code": "MGNT4010",
+      "prefix_inferred": false,
+      "evidence": "MGNT4010"
+    }
+  ],
+  "course_code_aliases": [],
+  "source": {
+    "system": "CUHK CUSIS Browse Program Information",
+    "url": "https://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/tt_dsp_acad_prog.aspx",
+    "source_text_file": "data/cuhk/2024/programmes/B_B_A_in_Insurance_Financial_and_Actuarial_Analysis__Faculty_of_Business_Administration.txt",
+    "reused_duplicate_entry": false,
+    "reused_from_faculty": null
+  },
+  "raw_text": "\n\nBrowse Program Information\n\n\n\n\n\n\nAcademic Program:\tB.B.A. in Insurance, Financial and Actuarial Analysis\nAcademic Year:\t2024\nLanguage:\t\nEnglish\nSimplified Chinese\nTraditional Chinese\n\n\n\nLearning Outcomes\nStudy Scheme\n \n\n\t\n\nInsurance, Financial and Actuarial Analysis\n\nApplicable to students admitted in 2024-25\n\n\n\n\n \n\n\n\n\n \n\nMajor Programme Requirement\n\n \n\n\n\n\nStudents are required to complete a minimum of 78 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nFaculty Package:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nACCT1111, DOTE1030, 1040\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nRequired Courses:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nMATH1010[a], 1540\n\n\t\n\n6\n\n\n\n\n(b)\n\n\t\n\nCSCI1510 or 1520 or 1540 or 1580\n\n\t\n\n3\n\n\n\n\n(c)\n\n\t\n\nACCT2121, FINA2010, 2200, 2220, 2230, 3080, 3210, 3221, 3222, 3230, 3240, 3290, MGNT1020\n\n\t\n\n39\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nElective Courses:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\n18 units of courses from the following:\n\n\t\n\n18\n\n\n\n\n \n\n\t\n\nACCT3151#, 3161#, CSCI2100# or 2520#, DOTE2051#, FINA3010, 3030, 3070, 3250 or 4110, 3260, 3295, 4030, 4120, 4140, 4150, 4160, 4211, 4215, 4221, 4280, IBBA3040, MATH2010#, MKTG2010#, MGNT2511, 2512, 2611#, RMSC4001#, STAT3007#\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\n3 units of Capstone course from the following:\n\n\t\n\n3\n\n\n\n\n \n\n\t\n\nFINA4270, 4290, 4291, MGNT4010#\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n78\n\n\n\n\nExplanatory Notes:\n\n\n\n\n1.\n\n\t\n\nFINA courses at 2000 and above level as included in the Major Programme Requirement as well as those labeled as # will be included in the calculation of Major GPA for honours classification.\n\n\n\n\n[a]\n\n \n\n\t\n\nStudents are required to take MATH1530 before taking MATH1010, except those who pass the Mathematics Placement Test arranged by the Programme.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\n \n\n\n\n\n \n\n\t\n\nRecommended Course Pattern\n\n\t\n\nUnits\n\n\n\n\nFirst Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: ACCT1111, DOTE1030\n\n\t\n\n6\n\n\n\n\nMajor Required: MATH1010\n\n\t\n\n0-3\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nFaculty Package: DOTE1040\n\n\t\n\n3\n\n\n\n\nMajor Required: FINA2010, 2200, MATH1010 (if not taken)\n\n\t\n\n6-9\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: FINA2220, 3210, MATH1540\n\n\t\n\n9\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: ACCT2121, FINA2230, 3080, 3221, 3230\n\n\t\n\n15\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nThird Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: CSCI1510 or 1520 or 1540 or 1580, FINA3222, 3240, 3290\n\n\t\n\n12\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required:\n\n\t\n\n \n\n\n\n\nMajor Elective(s): two courses\n\n\t\n\n6\n\n\n\n\nFourth Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: MGNT1020\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): two courses\n\n\t\n\n6\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required:\n\n\t\n\n \n\n\n\n\nMajor Elective(s): three courses\n\n\t\n\n9\n\n\n\n\nTotal (including Faculty Package):\n\n\t\n\n78\n\n\n\n\n \n\n\n\n\nCourse List\n\n \n\n\n\n\nCourse Code\n\n\t\n\nCourse Title\n\n\t\n\nUnit(s)\n\n\n\n\nRequired courses\n\n\n\n\nACCT1111\n\n\t\n\nFoundations in Financial Accounting\n\n\t\n\n3\n\n\n\n\nACCT2121\n\n\t\n\nIntroductory Management Accounting\n\n\t\n\n3\n\n\n\n\nCSCI1510\n\n\t\n\nComputer Principles and C Programming\n\n\t\n\n3\n\n\n\n\nCSCI1520\n\n\t\n\nComputer Principles and C++ Programming\n\n\t\n\n3\n\n\n\n\nCSCI1540\n\n\t\n\nFundamental Computing With C++\n\n\t\n\n3\n\n\n\n\nCSCI1580\n\n\t\n\nVisual Programming\n\n\t\n\n3\n\n\n\n\nDOTE1030\n\n\t\n\nEconomics for Business Studies I\n\n\t\n\n3\n\n\n\n\nDOTE1040\n\n\t\n\nEconomics for Business Studies II\n\n\t\n\n3\n\n\n\n\nFINA2010\n\n\t\n\nFinancial Management\n\n\t\n\n3\n\n\n\n\nFINA2200\n\n\t\n\nIntroduction to Actuarial Science\n\n\t\n\n3\n\n\n\n\nFINA2220\n\n\t\n\nQuantitative Methods for Actuarial Analysis I\n\n\t\n\n3\n\n\n\n\nFINA2230\n\n\t\n\nQuantitative Methods for Actuarial Analysis II\n\n\t\n\n3\n\n\n\n\nFINA3080\n\n\t\n\nInvestment Analysis and Portfolio Management\n\n\t\n\n3\n\n\n\n\nFINA3210\n\n\t\n\nRisk Management and Insurance\n\n\t\n\n3\n\n\n\n\nFINA3221\n\n\t\n\nBasic Long-term Actuarial Mathematics\n\n\t\n\n3\n\n\n\n\nFINA3222\n\n\t\n\nBasic Short-term Actuarial Mathematics\n\n\t\n\n3\n\n\n\n\nFINA3230\n\n\t\n\nLife and Health Insurance\n\n\t\n\n3\n\n\n\n\nFINA3240\n\n\t\n\nCorporate Property and Liability Insurance\n\n\t\n\n3\n\n\n\n\nFINA3290\n\n\t\n\nLinear Models for Actuaries\n\n\t\n\n3\n\n\n\n\nMATH1010\n\n\t\n\nUniversity Mathematics\n\n\t\n\n3\n\n\n\n\nMATH1530\n\n\t\n\nBasic Mathematics for Business and Social Sciences\n\n\t\n\n3\n\n\n\n\nMATH1540\n\n\t\n\nUniversity Mathematics for Financial Studies\n\n\t\n\n3\n\n\n\n\nMGNT1020\n\n\t\n\nManagement\n\n\t\n\n3\n\n\n\n\nElective courses\n\n\n\n\nOther Electives\n\n\n\n\nACCT3151\n\n\t\n\nBusiness Law\n\n\t\n\n3\n\n\n\n\nACCT3161\n\n\t\n\nTaxation\n\n\t\n\n3\n\n\n\n\nCSCI2100\n\n\t\n\nData Structures\n\n\t\n\n3\n\n\n\n\nCSCI2520\n\n\t\n\nData Structures and Applications\n\n\t\n\n3\n\n\n\n\nDOTE2051\n\n\t\n\nBusiness Information Systems\n\n\t\n\n3\n\n\n\n\nFINA3010\n\n\t\n\nFinancial Markets\n\n\t\n\n3\n\n\n\n\nFINA3030\n\n\t\n\nManagement of Financial Institutions\n\n\t\n\n3\n\n\n\n\nFINA3070\n\n\t\n\nCorporate Finance: Theory and Practice\n\n\t\n\n3\n\n\n\n\nFINA3250\n\n\t\n\nDerivatives for Actuaries I\n\n\t\n\n3\n\n\n\n\nFINA3260\n\n\t\n\nInternship Experience\n\n\t\n\n1\n\n\n\n\nFINA3295\n\n\t\n\nAdvanced Statistical Modeling for Insurance and Finance\n\n\t\n\n3\n\n\n\n\nFINA4030\n\n\t\n\nSelected Topics in Finance\n\n\t\n\n3\n\n\n\n\nFINA4110\n\n\t\n\nOptions and Futures\n\n\t\n\n3\n\n\n\n\nFINA4120\n\n\t\n\nFixed Income Securities Analysis\n\n\t\n\n3\n\n\n\n\nFINA4140\n\n\t\n\nComputational Finance\n\n\t\n\n3\n\n\n\n\nFINA4150\n\n\t\n\nQuantitative Methods for Financial Derivatives\n\n\t\n\n3\n\n\n\n\nFINA4160\n\n\t\n\nIntermediate Financial Theory\n\n\t\n\n3\n\n\n\n\nFINA4211\n\n\t\n\nAdvanced Long-term Actuarial Mathematics\n\n\t\n\n3\n\n\n\n\nFINA4215\n\n\t\n\nIntroduction to Actuarial Computing Using Prophet\n\n\t\n\n1\n\n\n\n\nFINA4221\n\n\t\n\nAdvanced Short-term Actuarial Mathematics\n\n\t\n\n3\n\n\n\n\nFINA4280\n\n\t\n\nDerivatives for Actuaries II\n\n\t\n\n3\n\n\n\n\nIBBA3040\n\n\t\n\nBusiness Lectures Series\n\n\t\n\n1\n\n\n\n\nMATH2010\n\n\t\n\nAdvanced Calculus I\n\n\t\n\n3\n\n\n\n\nMKTG2010\n\n\t\n\nMarketing Management\n\n\t\n\n3\n\n\n\n\nMGNT2511\n\n\t\n\nGlobal Experiential Learning I\n\n\t\n\n1\n\n\n\n\nMGNT2512\n\n\t\n\nGlobal Experiential Learning II\n\n\t\n\n1\n\n\n\n\nMGNT2611\n\n\t\n\nBusiness Sustainability\n\n\t\n\n2\n\n\n\n\nRMSC4001\n\n\t\n\nSimulation Methods for Risk Management Science and Finance\n\n\t\n\n3\n\n\n\n\nSTAT3007\n\n\t\n\nIntroduction to Stochastic Processes\n\n\t\n\n3\n\n\n\n\nCapstone Courses\n\n\n\n\nFINA4270\n\n\t\n\nResearch Project in Insurance, Financial and Actuarial Analysis\n\n\t\n\n3\n\n\n\n\nFINA4290\n\n\t\n\nActuarial Internship\n\n\t\n\n3\n\n\n\n\nFINA4291\n\n\t\n\nInternship in Insurance and Financial Institutions\n\n\t\n\n3\n\n\n\n\nMGNT4010\n\n\t\n\nStrategic Management\n\n\t\n\n3\n\n\n\n\n \n\n\n \n\nStudy Scheme\n\n\nLearning Outcomes\n \n\n\t\n\n \n\n1.          Major Programme:\n\nThe graduates from this programme will have \n\n \n\neffective business communication skills. (S) \neffective analytical and problem solving skills which support them to make business decisions. (S)\nthe ability to integrate business knowledge in a business environment. (K/S)\nthe ability to propose strategies in a global environment. (S)\nthe ability to be aware of the ethical issues in a business context. (V)\na specific knowledge in insurance, finance and actuarial science. (K/S) \n\n \n\nK = Knowledge outcomes S = Skills outcomes V = Values and attitudes outcomes\n\n \n\n \n\n \n\n\n"
+}

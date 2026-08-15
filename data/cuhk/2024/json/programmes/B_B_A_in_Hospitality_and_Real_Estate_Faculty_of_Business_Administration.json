@@ -1,0 +1,2469 @@
+{
+  "programme_id": "B_B_A_in_Hospitality_and_Real_Estate__Faculty_of_Business_Administration",
+  "academic_program": "B.B.A. in Hospitality and Real Estate",
+  "faculty": "Faculty of Business Administration",
+  "academic_year": 2024,
+  "admission_cohort": "2024-25",
+  "requirement_summary": {
+    "minimum_units_as_printed": "a minimum of 73 units",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Faculty Package",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "ACCT1111",
+            "prefix_inferred": false,
+            "evidence": "ACCT1111, DOTE1031, HTMG1010"
+          },
+          {
+            "course_code": "DOTE1031",
+            "prefix_inferred": false,
+            "evidence": "ACCT1111, DOTE1031, HTMG1010"
+          },
+          {
+            "course_code": "HTMG1010",
+            "prefix_inferred": false,
+            "evidence": "ACCT1111, DOTE1031, HTMG1010"
+          }
+        ],
+        "raw_text": "9\nACCT1111, DOTE1031, HTMG1010"
+      },
+      {
+        "number": 2,
+        "title": "Required Courses",
+        "units_as_printed": "37",
+        "course_mentions": [
+          {
+            "course_code": "DOTE1021",
+            "prefix_inferred": false,
+            "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+          },
+          {
+            "course_code": "DOTE2051",
+            "prefix_inferred": true,
+            "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+          },
+          {
+            "course_code": "FINA2010",
+            "prefix_inferred": false,
+            "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+          },
+          {
+            "course_code": "HTMG1091",
+            "prefix_inferred": false,
+            "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+          },
+          {
+            "course_code": "HTMG1092",
+            "prefix_inferred": true,
+            "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+          },
+          {
+            "course_code": "HTMG2000",
+            "prefix_inferred": true,
+            "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+          },
+          {
+            "course_code": "HTMG2070",
+            "prefix_inferred": true,
+            "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+          },
+          {
+            "course_code": "HTMG2091",
+            "prefix_inferred": true,
+            "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+          },
+          {
+            "course_code": "HTMG2092",
+            "prefix_inferred": true,
+            "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+          },
+          {
+            "course_code": "HTMG2900",
+            "prefix_inferred": true,
+            "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+          },
+          {
+            "course_code": "HTMG3010",
+            "prefix_inferred": true,
+            "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+          },
+          {
+            "course_code": "HTMG3030",
+            "prefix_inferred": true,
+            "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+          },
+          {
+            "course_code": "HTMG3041",
+            "prefix_inferred": true,
+            "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+          },
+          {
+            "course_code": "HTMG3091",
+            "prefix_inferred": true,
+            "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+          },
+          {
+            "course_code": "HTMG3092",
+            "prefix_inferred": true,
+            "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+          },
+          {
+            "course_code": "HTMG3900",
+            "prefix_inferred": true,
+            "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+          },
+          {
+            "course_code": "HTMG4091",
+            "prefix_inferred": true,
+            "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+          },
+          {
+            "course_code": "HTMG4092",
+            "prefix_inferred": true,
+            "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+          },
+          {
+            "course_code": "HTMG4800",
+            "prefix_inferred": true,
+            "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+          },
+          {
+            "course_code": "HTMG4900",
+            "prefix_inferred": true,
+            "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+          },
+          {
+            "course_code": "MKTG2010",
+            "prefix_inferred": false,
+            "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+          }
+        ],
+        "raw_text": "37\nDOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+      },
+      {
+        "number": 3,
+        "title": "Stream Courses",
+        "units_as_printed": "15",
+        "course_mentions": [
+          {
+            "course_code": "HTMG3020",
+            "prefix_inferred": false,
+            "evidence": "HTMG3020, 3060, 3521, 3527, 4600 (with a topic in Hospitality)"
+          },
+          {
+            "course_code": "HTMG3060",
+            "prefix_inferred": true,
+            "evidence": "HTMG3020, 3060, 3521, 3527, 4600 (with a topic in Hospitality)"
+          },
+          {
+            "course_code": "HTMG3521",
+            "prefix_inferred": true,
+            "evidence": "HTMG3020, 3060, 3521, 3527, 4600 (with a topic in Hospitality)"
+          },
+          {
+            "course_code": "HTMG3527",
+            "prefix_inferred": true,
+            "evidence": "HTMG3020, 3060, 3521, 3527, 4600 (with a topic in Hospitality)"
+          },
+          {
+            "course_code": "HTMG4600",
+            "prefix_inferred": true,
+            "evidence": "HTMG3020, 3060, 3521, 3527, 4600 (with a topic in Hospitality)"
+          },
+          {
+            "course_code": "MKTG3020",
+            "prefix_inferred": false,
+            "evidence": "To further strengthen the stream area, students are recommended to take MGNT 4050, 4060, 4140, 4540, MKTG3020, 3030, 4040, 4080 for free electives."
+          },
+          {
+            "course_code": "MKTG3030",
+            "prefix_inferred": true,
+            "evidence": "To further strengthen the stream area, students are recommended to take MGNT 4050, 4060, 4140, 4540, MKTG3020, 3030, 4040, 4080 for free electives."
+          },
+          {
+            "course_code": "MKTG4040",
+            "prefix_inferred": true,
+            "evidence": "To further strengthen the stream area, students are recommended to take MGNT 4050, 4060, 4140, 4540, MKTG3020, 3030, 4040, 4080 for free electives."
+          },
+          {
+            "course_code": "MKTG4080",
+            "prefix_inferred": true,
+            "evidence": "To further strengthen the stream area, students are recommended to take MGNT 4050, 4060, 4140, 4540, MKTG3020, 3030, 4040, 4080 for free electives."
+          },
+          {
+            "course_code": "HTMG3502",
+            "prefix_inferred": false,
+            "evidence": "HTMG3502, 3523, 4100, 4190, 4600 (with a topic in Real Estate)"
+          },
+          {
+            "course_code": "HTMG3523",
+            "prefix_inferred": true,
+            "evidence": "HTMG3502, 3523, 4100, 4190, 4600 (with a topic in Real Estate)"
+          },
+          {
+            "course_code": "HTMG4100",
+            "prefix_inferred": true,
+            "evidence": "HTMG3502, 3523, 4100, 4190, 4600 (with a topic in Real Estate)"
+          },
+          {
+            "course_code": "HTMG4190",
+            "prefix_inferred": true,
+            "evidence": "HTMG3502, 3523, 4100, 4190, 4600 (with a topic in Real Estate)"
+          },
+          {
+            "course_code": "HTMG4600",
+            "prefix_inferred": true,
+            "evidence": "HTMG3502, 3523, 4100, 4190, 4600 (with a topic in Real Estate)"
+          },
+          {
+            "course_code": "ECON3440",
+            "prefix_inferred": false,
+            "evidence": "To further strengthen the concentration area, students are recommended to take ECON3440, FINA3010, 3060, 3080, GRMD2105 for free electives."
+          },
+          {
+            "course_code": "FINA3010",
+            "prefix_inferred": false,
+            "evidence": "To further strengthen the concentration area, students are recommended to take ECON3440, FINA3010, 3060, 3080, GRMD2105 for free electives."
+          },
+          {
+            "course_code": "FINA3060",
+            "prefix_inferred": true,
+            "evidence": "To further strengthen the concentration area, students are recommended to take ECON3440, FINA3010, 3060, 3080, GRMD2105 for free electives."
+          },
+          {
+            "course_code": "FINA3080",
+            "prefix_inferred": true,
+            "evidence": "To further strengthen the concentration area, students are recommended to take ECON3440, FINA3010, 3060, 3080, GRMD2105 for free electives."
+          },
+          {
+            "course_code": "GRMD2105",
+            "prefix_inferred": false,
+            "evidence": "To further strengthen the concentration area, students are recommended to take ECON3440, FINA3010, 3060, 3080, GRMD2105 for free electives."
+          }
+        ],
+        "raw_text": "15\nStudents are required to choose one of the following streams:\n(a)\nHospitality\nHTMG3020, 3060, 3521, 3527, 4600 (with a topic in Hospitality)\nTo further strengthen the stream area, students are recommended to take MGNT 4050, 4060, 4140, 4540, MKTG3020, 3030, 4040, 4080 for free electives.\n(b)\nReal Estate\nHTMG3502, 3523, 4100, 4190, 4600 (with a topic in Real Estate)\nTo further strengthen the concentration area, students are recommended to take ECON3440, FINA3010, 3060, 3080, GRMD2105 for free electives."
+      },
+      {
+        "number": 4,
+        "title": "Elective Courses",
+        "units_as_printed": "12",
+        "course_mentions": [
+          {
+            "course_code": "HTMG3504",
+            "prefix_inferred": false,
+            "evidence": "HTMG3504, 3522, 3525, 3526, 4060, 4230, 4250, 4270"
+          },
+          {
+            "course_code": "HTMG3522",
+            "prefix_inferred": true,
+            "evidence": "HTMG3504, 3522, 3525, 3526, 4060, 4230, 4250, 4270"
+          },
+          {
+            "course_code": "HTMG3525",
+            "prefix_inferred": true,
+            "evidence": "HTMG3504, 3522, 3525, 3526, 4060, 4230, 4250, 4270"
+          },
+          {
+            "course_code": "HTMG3526",
+            "prefix_inferred": true,
+            "evidence": "HTMG3504, 3522, 3525, 3526, 4060, 4230, 4250, 4270"
+          },
+          {
+            "course_code": "HTMG4060",
+            "prefix_inferred": true,
+            "evidence": "HTMG3504, 3522, 3525, 3526, 4060, 4230, 4250, 4270"
+          },
+          {
+            "course_code": "HTMG4230",
+            "prefix_inferred": true,
+            "evidence": "HTMG3504, 3522, 3525, 3526, 4060, 4230, 4250, 4270"
+          },
+          {
+            "course_code": "HTMG4250",
+            "prefix_inferred": true,
+            "evidence": "HTMG3504, 3522, 3525, 3526, 4060, 4230, 4250, 4270"
+          },
+          {
+            "course_code": "HTMG4270",
+            "prefix_inferred": true,
+            "evidence": "HTMG3504, 3522, 3525, 3526, 4060, 4230, 4250, 4270"
+          },
+          {
+            "course_code": "DOTE3010",
+            "prefix_inferred": false,
+            "evidence": "DOTE3010#, HTMG3050, 3519, 3524, 4130, 4200, 4240, 4260, MGNT2611#"
+          },
+          {
+            "course_code": "HTMG3050",
+            "prefix_inferred": false,
+            "evidence": "DOTE3010#, HTMG3050, 3519, 3524, 4130, 4200, 4240, 4260, MGNT2611#"
+          },
+          {
+            "course_code": "HTMG3519",
+            "prefix_inferred": true,
+            "evidence": "DOTE3010#, HTMG3050, 3519, 3524, 4130, 4200, 4240, 4260, MGNT2611#"
+          },
+          {
+            "course_code": "HTMG3524",
+            "prefix_inferred": true,
+            "evidence": "DOTE3010#, HTMG3050, 3519, 3524, 4130, 4200, 4240, 4260, MGNT2611#"
+          },
+          {
+            "course_code": "HTMG4130",
+            "prefix_inferred": true,
+            "evidence": "DOTE3010#, HTMG3050, 3519, 3524, 4130, 4200, 4240, 4260, MGNT2611#"
+          },
+          {
+            "course_code": "HTMG4200",
+            "prefix_inferred": true,
+            "evidence": "DOTE3010#, HTMG3050, 3519, 3524, 4130, 4200, 4240, 4260, MGNT2611#"
+          },
+          {
+            "course_code": "HTMG4240",
+            "prefix_inferred": true,
+            "evidence": "DOTE3010#, HTMG3050, 3519, 3524, 4130, 4200, 4240, 4260, MGNT2611#"
+          },
+          {
+            "course_code": "HTMG4260",
+            "prefix_inferred": true,
+            "evidence": "DOTE3010#, HTMG3050, 3519, 3524, 4130, 4200, 4240, 4260, MGNT2611#"
+          },
+          {
+            "course_code": "MGNT2611",
+            "prefix_inferred": false,
+            "evidence": "DOTE3010#, HTMG3050, 3519, 3524, 4130, 4200, 4240, 4260, MGNT2611#"
+          },
+          {
+            "course_code": "HTMG3501",
+            "prefix_inferred": false,
+            "evidence": "HTMG3501, 3508, 3515, 3518, 3520, 4120, 4170, 4280, 4700"
+          },
+          {
+            "course_code": "HTMG3508",
+            "prefix_inferred": true,
+            "evidence": "HTMG3501, 3508, 3515, 3518, 3520, 4120, 4170, 4280, 4700"
+          },
+          {
+            "course_code": "HTMG3515",
+            "prefix_inferred": true,
+            "evidence": "HTMG3501, 3508, 3515, 3518, 3520, 4120, 4170, 4280, 4700"
+          },
+          {
+            "course_code": "HTMG3518",
+            "prefix_inferred": true,
+            "evidence": "HTMG3501, 3508, 3515, 3518, 3520, 4120, 4170, 4280, 4700"
+          },
+          {
+            "course_code": "HTMG3520",
+            "prefix_inferred": true,
+            "evidence": "HTMG3501, 3508, 3515, 3518, 3520, 4120, 4170, 4280, 4700"
+          },
+          {
+            "course_code": "HTMG4120",
+            "prefix_inferred": true,
+            "evidence": "HTMG3501, 3508, 3515, 3518, 3520, 4120, 4170, 4280, 4700"
+          },
+          {
+            "course_code": "HTMG4170",
+            "prefix_inferred": true,
+            "evidence": "HTMG3501, 3508, 3515, 3518, 3520, 4120, 4170, 4280, 4700"
+          },
+          {
+            "course_code": "HTMG4280",
+            "prefix_inferred": true,
+            "evidence": "HTMG3501, 3508, 3515, 3518, 3520, 4120, 4170, 4280, 4700"
+          },
+          {
+            "course_code": "HTMG4700",
+            "prefix_inferred": true,
+            "evidence": "HTMG3501, 3508, 3515, 3518, 3520, 4120, 4170, 4280, 4700"
+          },
+          {
+            "course_code": "HTMG3590",
+            "prefix_inferred": false,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4501",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4502",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4503",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4504",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4505",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4506",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4508",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4509",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4510",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4511",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4512",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4513",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4516",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4517",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4519",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4520",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4521",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4522",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4523",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4524",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4526",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4527",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4528",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4529",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4530",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4531",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4532",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4533",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4534",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4535",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4536",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4537",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4538",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4539",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          }
+        ],
+        "raw_text": "12\n(a)\nStudents are required to complete 9 units from the three modules below:\n(i)\nAnalytical Module:\nHTMG3504, 3522, 3525, 3526, 4060, 4230, 4250, 4270\n(ii)\nInnovative Module:\nDOTE3010#, HTMG3050, 3519, 3524, 4130, 4200, 4240, 4260, MGNT2611#\n(iii)\nExperiential Module:\nHTMG3501, 3508, 3515, 3518, 3520, 4120, 4170, 4280, 4700\n(b)\nStudents are required to complete at least 3 units of courses from below:\nHTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539\nTotal:\n73\nExplanatory Note:"
+      },
+      {
+        "number": 1,
+        "title": "Required Courses",
+        "units_as_printed": "28",
+        "course_mentions": [
+          {
+            "course_code": "FINA2010",
+            "prefix_inferred": false,
+            "evidence": "FINA2010#, HTMG2000, 2070, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+          },
+          {
+            "course_code": "HTMG2000",
+            "prefix_inferred": false,
+            "evidence": "FINA2010#, HTMG2000, 2070, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+          },
+          {
+            "course_code": "HTMG2070",
+            "prefix_inferred": true,
+            "evidence": "FINA2010#, HTMG2000, 2070, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+          },
+          {
+            "course_code": "HTMG3010",
+            "prefix_inferred": true,
+            "evidence": "FINA2010#, HTMG2000, 2070, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+          },
+          {
+            "course_code": "HTMG3030",
+            "prefix_inferred": true,
+            "evidence": "FINA2010#, HTMG2000, 2070, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+          },
+          {
+            "course_code": "HTMG3041",
+            "prefix_inferred": true,
+            "evidence": "FINA2010#, HTMG2000, 2070, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+          },
+          {
+            "course_code": "HTMG3091",
+            "prefix_inferred": true,
+            "evidence": "FINA2010#, HTMG2000, 2070, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+          },
+          {
+            "course_code": "HTMG3092",
+            "prefix_inferred": true,
+            "evidence": "FINA2010#, HTMG2000, 2070, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+          },
+          {
+            "course_code": "HTMG3900",
+            "prefix_inferred": true,
+            "evidence": "FINA2010#, HTMG2000, 2070, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+          },
+          {
+            "course_code": "HTMG4091",
+            "prefix_inferred": true,
+            "evidence": "FINA2010#, HTMG2000, 2070, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+          },
+          {
+            "course_code": "HTMG4092",
+            "prefix_inferred": true,
+            "evidence": "FINA2010#, HTMG2000, 2070, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+          },
+          {
+            "course_code": "HTMG4800",
+            "prefix_inferred": true,
+            "evidence": "FINA2010#, HTMG2000, 2070, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+          },
+          {
+            "course_code": "HTMG4900",
+            "prefix_inferred": true,
+            "evidence": "FINA2010#, HTMG2000, 2070, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+          },
+          {
+            "course_code": "MKTG2010",
+            "prefix_inferred": false,
+            "evidence": "FINA2010#, HTMG2000, 2070, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+          }
+        ],
+        "raw_text": "28\nFINA2010#, HTMG2000, 2070, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+      },
+      {
+        "number": 2,
+        "title": "Stream Courses",
+        "units_as_printed": "15",
+        "course_mentions": [
+          {
+            "course_code": "HTMG3020",
+            "prefix_inferred": false,
+            "evidence": "HTMG3020, 3060, 3521, 3527, 4600 (with a topic in Hospitality)"
+          },
+          {
+            "course_code": "HTMG3060",
+            "prefix_inferred": true,
+            "evidence": "HTMG3020, 3060, 3521, 3527, 4600 (with a topic in Hospitality)"
+          },
+          {
+            "course_code": "HTMG3521",
+            "prefix_inferred": true,
+            "evidence": "HTMG3020, 3060, 3521, 3527, 4600 (with a topic in Hospitality)"
+          },
+          {
+            "course_code": "HTMG3527",
+            "prefix_inferred": true,
+            "evidence": "HTMG3020, 3060, 3521, 3527, 4600 (with a topic in Hospitality)"
+          },
+          {
+            "course_code": "HTMG4600",
+            "prefix_inferred": true,
+            "evidence": "HTMG3020, 3060, 3521, 3527, 4600 (with a topic in Hospitality)"
+          },
+          {
+            "course_code": "MGNT4050",
+            "prefix_inferred": false,
+            "evidence": "To further strengthen the stream area, students are recommended to take MGNT4050, 4060, 4140, 4540, MKTG3020, 3030, 4040, 4080 for free electives."
+          },
+          {
+            "course_code": "MGNT4060",
+            "prefix_inferred": true,
+            "evidence": "To further strengthen the stream area, students are recommended to take MGNT4050, 4060, 4140, 4540, MKTG3020, 3030, 4040, 4080 for free electives."
+          },
+          {
+            "course_code": "MGNT4140",
+            "prefix_inferred": true,
+            "evidence": "To further strengthen the stream area, students are recommended to take MGNT4050, 4060, 4140, 4540, MKTG3020, 3030, 4040, 4080 for free electives."
+          },
+          {
+            "course_code": "MGNT4540",
+            "prefix_inferred": true,
+            "evidence": "To further strengthen the stream area, students are recommended to take MGNT4050, 4060, 4140, 4540, MKTG3020, 3030, 4040, 4080 for free electives."
+          },
+          {
+            "course_code": "MKTG3020",
+            "prefix_inferred": false,
+            "evidence": "To further strengthen the stream area, students are recommended to take MGNT4050, 4060, 4140, 4540, MKTG3020, 3030, 4040, 4080 for free electives."
+          },
+          {
+            "course_code": "MKTG3030",
+            "prefix_inferred": true,
+            "evidence": "To further strengthen the stream area, students are recommended to take MGNT4050, 4060, 4140, 4540, MKTG3020, 3030, 4040, 4080 for free electives."
+          },
+          {
+            "course_code": "MKTG4040",
+            "prefix_inferred": true,
+            "evidence": "To further strengthen the stream area, students are recommended to take MGNT4050, 4060, 4140, 4540, MKTG3020, 3030, 4040, 4080 for free electives."
+          },
+          {
+            "course_code": "MKTG4080",
+            "prefix_inferred": true,
+            "evidence": "To further strengthen the stream area, students are recommended to take MGNT4050, 4060, 4140, 4540, MKTG3020, 3030, 4040, 4080 for free electives."
+          },
+          {
+            "course_code": "HTMG3502",
+            "prefix_inferred": false,
+            "evidence": "HTMG3502, 3523, 4100, 4190, 4600 (with a topic in Real Estate)"
+          },
+          {
+            "course_code": "HTMG3523",
+            "prefix_inferred": true,
+            "evidence": "HTMG3502, 3523, 4100, 4190, 4600 (with a topic in Real Estate)"
+          },
+          {
+            "course_code": "HTMG4100",
+            "prefix_inferred": true,
+            "evidence": "HTMG3502, 3523, 4100, 4190, 4600 (with a topic in Real Estate)"
+          },
+          {
+            "course_code": "HTMG4190",
+            "prefix_inferred": true,
+            "evidence": "HTMG3502, 3523, 4100, 4190, 4600 (with a topic in Real Estate)"
+          },
+          {
+            "course_code": "HTMG4600",
+            "prefix_inferred": true,
+            "evidence": "HTMG3502, 3523, 4100, 4190, 4600 (with a topic in Real Estate)"
+          },
+          {
+            "course_code": "ECON3440",
+            "prefix_inferred": false,
+            "evidence": "To further strengthen the concentration area, students are recommended to take ECON3440, FINA3010, 3060, 3080, GRMD2105 for free electives."
+          },
+          {
+            "course_code": "FINA3010",
+            "prefix_inferred": false,
+            "evidence": "To further strengthen the concentration area, students are recommended to take ECON3440, FINA3010, 3060, 3080, GRMD2105 for free electives."
+          },
+          {
+            "course_code": "FINA3060",
+            "prefix_inferred": true,
+            "evidence": "To further strengthen the concentration area, students are recommended to take ECON3440, FINA3010, 3060, 3080, GRMD2105 for free electives."
+          },
+          {
+            "course_code": "FINA3080",
+            "prefix_inferred": true,
+            "evidence": "To further strengthen the concentration area, students are recommended to take ECON3440, FINA3010, 3060, 3080, GRMD2105 for free electives."
+          },
+          {
+            "course_code": "GRMD2105",
+            "prefix_inferred": false,
+            "evidence": "To further strengthen the concentration area, students are recommended to take ECON3440, FINA3010, 3060, 3080, GRMD2105 for free electives."
+          }
+        ],
+        "raw_text": "15\nStudents are required to choose one of the following streams:\n(a)\nHospitality\nHTMG3020, 3060, 3521, 3527, 4600 (with a topic in Hospitality)\nTo further strengthen the stream area, students are recommended to take MGNT4050, 4060, 4140, 4540, MKTG3020, 3030, 4040, 4080 for free electives.\n(b)\nReal Estate\nHTMG3502, 3523, 4100, 4190, 4600 (with a topic in Real Estate)\nTo further strengthen the concentration area, students are recommended to take ECON3440, FINA3010, 3060, 3080, GRMD2105 for free electives."
+      },
+      {
+        "number": 3,
+        "title": "Elective Courses",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "HTMG3504",
+            "prefix_inferred": false,
+            "evidence": "HTMG3504, 3522, 3525, 3526, 4060, 4230, 4250, 4270"
+          },
+          {
+            "course_code": "HTMG3522",
+            "prefix_inferred": true,
+            "evidence": "HTMG3504, 3522, 3525, 3526, 4060, 4230, 4250, 4270"
+          },
+          {
+            "course_code": "HTMG3525",
+            "prefix_inferred": true,
+            "evidence": "HTMG3504, 3522, 3525, 3526, 4060, 4230, 4250, 4270"
+          },
+          {
+            "course_code": "HTMG3526",
+            "prefix_inferred": true,
+            "evidence": "HTMG3504, 3522, 3525, 3526, 4060, 4230, 4250, 4270"
+          },
+          {
+            "course_code": "HTMG4060",
+            "prefix_inferred": true,
+            "evidence": "HTMG3504, 3522, 3525, 3526, 4060, 4230, 4250, 4270"
+          },
+          {
+            "course_code": "HTMG4230",
+            "prefix_inferred": true,
+            "evidence": "HTMG3504, 3522, 3525, 3526, 4060, 4230, 4250, 4270"
+          },
+          {
+            "course_code": "HTMG4250",
+            "prefix_inferred": true,
+            "evidence": "HTMG3504, 3522, 3525, 3526, 4060, 4230, 4250, 4270"
+          },
+          {
+            "course_code": "HTMG4270",
+            "prefix_inferred": true,
+            "evidence": "HTMG3504, 3522, 3525, 3526, 4060, 4230, 4250, 4270"
+          },
+          {
+            "course_code": "DOTE3010",
+            "prefix_inferred": false,
+            "evidence": "DOTE3010#, HTMG3050, 3519, 3524, 4130, 4200, 4240, 4260, MGNT2611#"
+          },
+          {
+            "course_code": "HTMG3050",
+            "prefix_inferred": false,
+            "evidence": "DOTE3010#, HTMG3050, 3519, 3524, 4130, 4200, 4240, 4260, MGNT2611#"
+          },
+          {
+            "course_code": "HTMG3519",
+            "prefix_inferred": true,
+            "evidence": "DOTE3010#, HTMG3050, 3519, 3524, 4130, 4200, 4240, 4260, MGNT2611#"
+          },
+          {
+            "course_code": "HTMG3524",
+            "prefix_inferred": true,
+            "evidence": "DOTE3010#, HTMG3050, 3519, 3524, 4130, 4200, 4240, 4260, MGNT2611#"
+          },
+          {
+            "course_code": "HTMG4130",
+            "prefix_inferred": true,
+            "evidence": "DOTE3010#, HTMG3050, 3519, 3524, 4130, 4200, 4240, 4260, MGNT2611#"
+          },
+          {
+            "course_code": "HTMG4200",
+            "prefix_inferred": true,
+            "evidence": "DOTE3010#, HTMG3050, 3519, 3524, 4130, 4200, 4240, 4260, MGNT2611#"
+          },
+          {
+            "course_code": "HTMG4240",
+            "prefix_inferred": true,
+            "evidence": "DOTE3010#, HTMG3050, 3519, 3524, 4130, 4200, 4240, 4260, MGNT2611#"
+          },
+          {
+            "course_code": "HTMG4260",
+            "prefix_inferred": true,
+            "evidence": "DOTE3010#, HTMG3050, 3519, 3524, 4130, 4200, 4240, 4260, MGNT2611#"
+          },
+          {
+            "course_code": "MGNT2611",
+            "prefix_inferred": false,
+            "evidence": "DOTE3010#, HTMG3050, 3519, 3524, 4130, 4200, 4240, 4260, MGNT2611#"
+          },
+          {
+            "course_code": "HTMG3501",
+            "prefix_inferred": false,
+            "evidence": "HTMG3501, 3508, 3515, 3518, 3520, 4120, 4170, 4280, 4700"
+          },
+          {
+            "course_code": "HTMG3508",
+            "prefix_inferred": true,
+            "evidence": "HTMG3501, 3508, 3515, 3518, 3520, 4120, 4170, 4280, 4700"
+          },
+          {
+            "course_code": "HTMG3515",
+            "prefix_inferred": true,
+            "evidence": "HTMG3501, 3508, 3515, 3518, 3520, 4120, 4170, 4280, 4700"
+          },
+          {
+            "course_code": "HTMG3518",
+            "prefix_inferred": true,
+            "evidence": "HTMG3501, 3508, 3515, 3518, 3520, 4120, 4170, 4280, 4700"
+          },
+          {
+            "course_code": "HTMG3520",
+            "prefix_inferred": true,
+            "evidence": "HTMG3501, 3508, 3515, 3518, 3520, 4120, 4170, 4280, 4700"
+          },
+          {
+            "course_code": "HTMG4120",
+            "prefix_inferred": true,
+            "evidence": "HTMG3501, 3508, 3515, 3518, 3520, 4120, 4170, 4280, 4700"
+          },
+          {
+            "course_code": "HTMG4170",
+            "prefix_inferred": true,
+            "evidence": "HTMG3501, 3508, 3515, 3518, 3520, 4120, 4170, 4280, 4700"
+          },
+          {
+            "course_code": "HTMG4280",
+            "prefix_inferred": true,
+            "evidence": "HTMG3501, 3508, 3515, 3518, 3520, 4120, 4170, 4280, 4700"
+          },
+          {
+            "course_code": "HTMG4700",
+            "prefix_inferred": true,
+            "evidence": "HTMG3501, 3508, 3515, 3518, 3520, 4120, 4170, 4280, 4700"
+          },
+          {
+            "course_code": "HTMG3590",
+            "prefix_inferred": false,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4501",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4502",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4503",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4504",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4505",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4506",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4508",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4509",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4510",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4511",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4512",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4513",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4516",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4517",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4519",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4520",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4521",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4522",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4523",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4524",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4526",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4527",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4528",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4529",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4530",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4531",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4532",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4533",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4534",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4535",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4536",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4537",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4538",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          },
+          {
+            "course_code": "HTMG4539",
+            "prefix_inferred": true,
+            "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+          }
+        ],
+        "raw_text": "9\nStudents are required to complete 9 units from any courses below:\n(a)\nAnalytical Module:\nHTMG3504, 3522, 3525, 3526, 4060, 4230, 4250, 4270\n(b)\nInnovative Module:\nDOTE3010#, HTMG3050, 3519, 3524, 4130, 4200, 4240, 4260, MGNT2611#\n(c)\nExperiential Module:\nHTMG3501, 3508, 3515, 3518, 3520, 4120, 4170, 4280, 4700\n(d)\nHTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539\nTotal:\n52\nExplanatory Note:"
+      }
+    ]
+  },
+  "all_course_mentions": [
+    {
+      "course_code": "ACCT1111",
+      "prefix_inferred": false,
+      "evidence": "ACCT1111, DOTE1031, HTMG1010"
+    },
+    {
+      "course_code": "DOTE1031",
+      "prefix_inferred": false,
+      "evidence": "ACCT1111, DOTE1031, HTMG1010"
+    },
+    {
+      "course_code": "HTMG1010",
+      "prefix_inferred": false,
+      "evidence": "ACCT1111, DOTE1031, HTMG1010"
+    },
+    {
+      "course_code": "DOTE1021",
+      "prefix_inferred": false,
+      "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+    },
+    {
+      "course_code": "DOTE2051",
+      "prefix_inferred": true,
+      "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+    },
+    {
+      "course_code": "FINA2010",
+      "prefix_inferred": false,
+      "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+    },
+    {
+      "course_code": "HTMG1091",
+      "prefix_inferred": false,
+      "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+    },
+    {
+      "course_code": "HTMG1092",
+      "prefix_inferred": true,
+      "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+    },
+    {
+      "course_code": "HTMG2000",
+      "prefix_inferred": true,
+      "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+    },
+    {
+      "course_code": "HTMG2070",
+      "prefix_inferred": true,
+      "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+    },
+    {
+      "course_code": "HTMG2091",
+      "prefix_inferred": true,
+      "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+    },
+    {
+      "course_code": "HTMG2092",
+      "prefix_inferred": true,
+      "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+    },
+    {
+      "course_code": "HTMG2900",
+      "prefix_inferred": true,
+      "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+    },
+    {
+      "course_code": "HTMG3010",
+      "prefix_inferred": true,
+      "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+    },
+    {
+      "course_code": "HTMG3030",
+      "prefix_inferred": true,
+      "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+    },
+    {
+      "course_code": "HTMG3041",
+      "prefix_inferred": true,
+      "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+    },
+    {
+      "course_code": "HTMG3091",
+      "prefix_inferred": true,
+      "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+    },
+    {
+      "course_code": "HTMG3092",
+      "prefix_inferred": true,
+      "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+    },
+    {
+      "course_code": "HTMG3900",
+      "prefix_inferred": true,
+      "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+    },
+    {
+      "course_code": "HTMG4091",
+      "prefix_inferred": true,
+      "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+    },
+    {
+      "course_code": "HTMG4092",
+      "prefix_inferred": true,
+      "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+    },
+    {
+      "course_code": "HTMG4800",
+      "prefix_inferred": true,
+      "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+    },
+    {
+      "course_code": "HTMG4900",
+      "prefix_inferred": true,
+      "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+    },
+    {
+      "course_code": "MKTG2010",
+      "prefix_inferred": false,
+      "evidence": "DOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+    },
+    {
+      "course_code": "HTMG3020",
+      "prefix_inferred": false,
+      "evidence": "HTMG3020, 3060, 3521, 3527, 4600 (with a topic in Hospitality)"
+    },
+    {
+      "course_code": "HTMG3060",
+      "prefix_inferred": true,
+      "evidence": "HTMG3020, 3060, 3521, 3527, 4600 (with a topic in Hospitality)"
+    },
+    {
+      "course_code": "HTMG3521",
+      "prefix_inferred": true,
+      "evidence": "HTMG3020, 3060, 3521, 3527, 4600 (with a topic in Hospitality)"
+    },
+    {
+      "course_code": "HTMG3527",
+      "prefix_inferred": true,
+      "evidence": "HTMG3020, 3060, 3521, 3527, 4600 (with a topic in Hospitality)"
+    },
+    {
+      "course_code": "HTMG4600",
+      "prefix_inferred": true,
+      "evidence": "HTMG3020, 3060, 3521, 3527, 4600 (with a topic in Hospitality)"
+    },
+    {
+      "course_code": "MKTG3020",
+      "prefix_inferred": false,
+      "evidence": "To further strengthen the stream area, students are recommended to take MGNT 4050, 4060, 4140, 4540, MKTG3020, 3030, 4040, 4080 for free electives."
+    },
+    {
+      "course_code": "MKTG3030",
+      "prefix_inferred": true,
+      "evidence": "To further strengthen the stream area, students are recommended to take MGNT 4050, 4060, 4140, 4540, MKTG3020, 3030, 4040, 4080 for free electives."
+    },
+    {
+      "course_code": "MKTG4040",
+      "prefix_inferred": true,
+      "evidence": "To further strengthen the stream area, students are recommended to take MGNT 4050, 4060, 4140, 4540, MKTG3020, 3030, 4040, 4080 for free electives."
+    },
+    {
+      "course_code": "MKTG4080",
+      "prefix_inferred": true,
+      "evidence": "To further strengthen the stream area, students are recommended to take MGNT 4050, 4060, 4140, 4540, MKTG3020, 3030, 4040, 4080 for free electives."
+    },
+    {
+      "course_code": "HTMG3502",
+      "prefix_inferred": false,
+      "evidence": "HTMG3502, 3523, 4100, 4190, 4600 (with a topic in Real Estate)"
+    },
+    {
+      "course_code": "HTMG3523",
+      "prefix_inferred": true,
+      "evidence": "HTMG3502, 3523, 4100, 4190, 4600 (with a topic in Real Estate)"
+    },
+    {
+      "course_code": "HTMG4100",
+      "prefix_inferred": true,
+      "evidence": "HTMG3502, 3523, 4100, 4190, 4600 (with a topic in Real Estate)"
+    },
+    {
+      "course_code": "HTMG4190",
+      "prefix_inferred": true,
+      "evidence": "HTMG3502, 3523, 4100, 4190, 4600 (with a topic in Real Estate)"
+    },
+    {
+      "course_code": "HTMG4600",
+      "prefix_inferred": true,
+      "evidence": "HTMG3502, 3523, 4100, 4190, 4600 (with a topic in Real Estate)"
+    },
+    {
+      "course_code": "ECON3440",
+      "prefix_inferred": false,
+      "evidence": "To further strengthen the concentration area, students are recommended to take ECON3440, FINA3010, 3060, 3080, GRMD2105 for free electives."
+    },
+    {
+      "course_code": "FINA3010",
+      "prefix_inferred": false,
+      "evidence": "To further strengthen the concentration area, students are recommended to take ECON3440, FINA3010, 3060, 3080, GRMD2105 for free electives."
+    },
+    {
+      "course_code": "FINA3060",
+      "prefix_inferred": true,
+      "evidence": "To further strengthen the concentration area, students are recommended to take ECON3440, FINA3010, 3060, 3080, GRMD2105 for free electives."
+    },
+    {
+      "course_code": "FINA3080",
+      "prefix_inferred": true,
+      "evidence": "To further strengthen the concentration area, students are recommended to take ECON3440, FINA3010, 3060, 3080, GRMD2105 for free electives."
+    },
+    {
+      "course_code": "GRMD2105",
+      "prefix_inferred": false,
+      "evidence": "To further strengthen the concentration area, students are recommended to take ECON3440, FINA3010, 3060, 3080, GRMD2105 for free electives."
+    },
+    {
+      "course_code": "HTMG3504",
+      "prefix_inferred": false,
+      "evidence": "HTMG3504, 3522, 3525, 3526, 4060, 4230, 4250, 4270"
+    },
+    {
+      "course_code": "HTMG3522",
+      "prefix_inferred": true,
+      "evidence": "HTMG3504, 3522, 3525, 3526, 4060, 4230, 4250, 4270"
+    },
+    {
+      "course_code": "HTMG3525",
+      "prefix_inferred": true,
+      "evidence": "HTMG3504, 3522, 3525, 3526, 4060, 4230, 4250, 4270"
+    },
+    {
+      "course_code": "HTMG3526",
+      "prefix_inferred": true,
+      "evidence": "HTMG3504, 3522, 3525, 3526, 4060, 4230, 4250, 4270"
+    },
+    {
+      "course_code": "HTMG4060",
+      "prefix_inferred": true,
+      "evidence": "HTMG3504, 3522, 3525, 3526, 4060, 4230, 4250, 4270"
+    },
+    {
+      "course_code": "HTMG4230",
+      "prefix_inferred": true,
+      "evidence": "HTMG3504, 3522, 3525, 3526, 4060, 4230, 4250, 4270"
+    },
+    {
+      "course_code": "HTMG4250",
+      "prefix_inferred": true,
+      "evidence": "HTMG3504, 3522, 3525, 3526, 4060, 4230, 4250, 4270"
+    },
+    {
+      "course_code": "HTMG4270",
+      "prefix_inferred": true,
+      "evidence": "HTMG3504, 3522, 3525, 3526, 4060, 4230, 4250, 4270"
+    },
+    {
+      "course_code": "DOTE3010",
+      "prefix_inferred": false,
+      "evidence": "DOTE3010#, HTMG3050, 3519, 3524, 4130, 4200, 4240, 4260, MGNT2611#"
+    },
+    {
+      "course_code": "HTMG3050",
+      "prefix_inferred": false,
+      "evidence": "DOTE3010#, HTMG3050, 3519, 3524, 4130, 4200, 4240, 4260, MGNT2611#"
+    },
+    {
+      "course_code": "HTMG3519",
+      "prefix_inferred": true,
+      "evidence": "DOTE3010#, HTMG3050, 3519, 3524, 4130, 4200, 4240, 4260, MGNT2611#"
+    },
+    {
+      "course_code": "HTMG3524",
+      "prefix_inferred": true,
+      "evidence": "DOTE3010#, HTMG3050, 3519, 3524, 4130, 4200, 4240, 4260, MGNT2611#"
+    },
+    {
+      "course_code": "HTMG4130",
+      "prefix_inferred": true,
+      "evidence": "DOTE3010#, HTMG3050, 3519, 3524, 4130, 4200, 4240, 4260, MGNT2611#"
+    },
+    {
+      "course_code": "HTMG4200",
+      "prefix_inferred": true,
+      "evidence": "DOTE3010#, HTMG3050, 3519, 3524, 4130, 4200, 4240, 4260, MGNT2611#"
+    },
+    {
+      "course_code": "HTMG4240",
+      "prefix_inferred": true,
+      "evidence": "DOTE3010#, HTMG3050, 3519, 3524, 4130, 4200, 4240, 4260, MGNT2611#"
+    },
+    {
+      "course_code": "HTMG4260",
+      "prefix_inferred": true,
+      "evidence": "DOTE3010#, HTMG3050, 3519, 3524, 4130, 4200, 4240, 4260, MGNT2611#"
+    },
+    {
+      "course_code": "MGNT2611",
+      "prefix_inferred": false,
+      "evidence": "DOTE3010#, HTMG3050, 3519, 3524, 4130, 4200, 4240, 4260, MGNT2611#"
+    },
+    {
+      "course_code": "HTMG3501",
+      "prefix_inferred": false,
+      "evidence": "HTMG3501, 3508, 3515, 3518, 3520, 4120, 4170, 4280, 4700"
+    },
+    {
+      "course_code": "HTMG3508",
+      "prefix_inferred": true,
+      "evidence": "HTMG3501, 3508, 3515, 3518, 3520, 4120, 4170, 4280, 4700"
+    },
+    {
+      "course_code": "HTMG3515",
+      "prefix_inferred": true,
+      "evidence": "HTMG3501, 3508, 3515, 3518, 3520, 4120, 4170, 4280, 4700"
+    },
+    {
+      "course_code": "HTMG3518",
+      "prefix_inferred": true,
+      "evidence": "HTMG3501, 3508, 3515, 3518, 3520, 4120, 4170, 4280, 4700"
+    },
+    {
+      "course_code": "HTMG3520",
+      "prefix_inferred": true,
+      "evidence": "HTMG3501, 3508, 3515, 3518, 3520, 4120, 4170, 4280, 4700"
+    },
+    {
+      "course_code": "HTMG4120",
+      "prefix_inferred": true,
+      "evidence": "HTMG3501, 3508, 3515, 3518, 3520, 4120, 4170, 4280, 4700"
+    },
+    {
+      "course_code": "HTMG4170",
+      "prefix_inferred": true,
+      "evidence": "HTMG3501, 3508, 3515, 3518, 3520, 4120, 4170, 4280, 4700"
+    },
+    {
+      "course_code": "HTMG4280",
+      "prefix_inferred": true,
+      "evidence": "HTMG3501, 3508, 3515, 3518, 3520, 4120, 4170, 4280, 4700"
+    },
+    {
+      "course_code": "HTMG4700",
+      "prefix_inferred": true,
+      "evidence": "HTMG3501, 3508, 3515, 3518, 3520, 4120, 4170, 4280, 4700"
+    },
+    {
+      "course_code": "HTMG3590",
+      "prefix_inferred": false,
+      "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+    },
+    {
+      "course_code": "HTMG4501",
+      "prefix_inferred": true,
+      "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+    },
+    {
+      "course_code": "HTMG4502",
+      "prefix_inferred": true,
+      "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+    },
+    {
+      "course_code": "HTMG4503",
+      "prefix_inferred": true,
+      "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+    },
+    {
+      "course_code": "HTMG4504",
+      "prefix_inferred": true,
+      "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+    },
+    {
+      "course_code": "HTMG4505",
+      "prefix_inferred": true,
+      "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+    },
+    {
+      "course_code": "HTMG4506",
+      "prefix_inferred": true,
+      "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+    },
+    {
+      "course_code": "HTMG4508",
+      "prefix_inferred": true,
+      "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+    },
+    {
+      "course_code": "HTMG4509",
+      "prefix_inferred": true,
+      "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+    },
+    {
+      "course_code": "HTMG4510",
+      "prefix_inferred": true,
+      "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+    },
+    {
+      "course_code": "HTMG4511",
+      "prefix_inferred": true,
+      "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+    },
+    {
+      "course_code": "HTMG4512",
+      "prefix_inferred": true,
+      "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+    },
+    {
+      "course_code": "HTMG4513",
+      "prefix_inferred": true,
+      "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+    },
+    {
+      "course_code": "HTMG4516",
+      "prefix_inferred": true,
+      "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+    },
+    {
+      "course_code": "HTMG4517",
+      "prefix_inferred": true,
+      "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+    },
+    {
+      "course_code": "HTMG4519",
+      "prefix_inferred": true,
+      "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+    },
+    {
+      "course_code": "HTMG4520",
+      "prefix_inferred": true,
+      "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+    },
+    {
+      "course_code": "HTMG4521",
+      "prefix_inferred": true,
+      "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+    },
+    {
+      "course_code": "HTMG4522",
+      "prefix_inferred": true,
+      "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+    },
+    {
+      "course_code": "HTMG4523",
+      "prefix_inferred": true,
+      "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+    },
+    {
+      "course_code": "HTMG4524",
+      "prefix_inferred": true,
+      "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+    },
+    {
+      "course_code": "HTMG4526",
+      "prefix_inferred": true,
+      "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+    },
+    {
+      "course_code": "HTMG4527",
+      "prefix_inferred": true,
+      "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+    },
+    {
+      "course_code": "HTMG4528",
+      "prefix_inferred": true,
+      "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+    },
+    {
+      "course_code": "HTMG4529",
+      "prefix_inferred": true,
+      "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+    },
+    {
+      "course_code": "HTMG4530",
+      "prefix_inferred": true,
+      "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+    },
+    {
+      "course_code": "HTMG4531",
+      "prefix_inferred": true,
+      "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+    },
+    {
+      "course_code": "HTMG4532",
+      "prefix_inferred": true,
+      "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+    },
+    {
+      "course_code": "HTMG4533",
+      "prefix_inferred": true,
+      "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+    },
+    {
+      "course_code": "HTMG4534",
+      "prefix_inferred": true,
+      "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+    },
+    {
+      "course_code": "HTMG4535",
+      "prefix_inferred": true,
+      "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+    },
+    {
+      "course_code": "HTMG4536",
+      "prefix_inferred": true,
+      "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+    },
+    {
+      "course_code": "HTMG4537",
+      "prefix_inferred": true,
+      "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+    },
+    {
+      "course_code": "HTMG4538",
+      "prefix_inferred": true,
+      "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+    },
+    {
+      "course_code": "HTMG4539",
+      "prefix_inferred": true,
+      "evidence": "HTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539"
+    },
+    {
+      "course_code": "HTMG2000",
+      "prefix_inferred": false,
+      "evidence": "HTMG courses at 2000 and above level, excluding HTMG2000, as well as those labeled as # will be included in the calculation of Major GPA for honours classification."
+    },
+    {
+      "course_code": "DOTE1031",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: DOTE1031, HTMG1010"
+    },
+    {
+      "course_code": "HTMG1010",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: DOTE1031, HTMG1010"
+    },
+    {
+      "course_code": "HTMG1091",
+      "prefix_inferred": false,
+      "evidence": "Major Required: HTMG1091"
+    },
+    {
+      "course_code": "ACCT1111",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: ACCT1111"
+    },
+    {
+      "course_code": "DOTE1021",
+      "prefix_inferred": false,
+      "evidence": "Major Required: DOTE1021, HTMG1092"
+    },
+    {
+      "course_code": "HTMG1092",
+      "prefix_inferred": false,
+      "evidence": "Major Required: DOTE1021, HTMG1092"
+    },
+    {
+      "course_code": "FINA2010",
+      "prefix_inferred": false,
+      "evidence": "Major Required: FINA2010, HTMG2070, 2091, 3010, 3030"
+    },
+    {
+      "course_code": "HTMG2070",
+      "prefix_inferred": false,
+      "evidence": "Major Required: FINA2010, HTMG2070, 2091, 3010, 3030"
+    },
+    {
+      "course_code": "HTMG2091",
+      "prefix_inferred": true,
+      "evidence": "Major Required: FINA2010, HTMG2070, 2091, 3010, 3030"
+    },
+    {
+      "course_code": "HTMG3010",
+      "prefix_inferred": true,
+      "evidence": "Major Required: FINA2010, HTMG2070, 2091, 3010, 3030"
+    },
+    {
+      "course_code": "HTMG3030",
+      "prefix_inferred": true,
+      "evidence": "Major Required: FINA2010, HTMG2070, 2091, 3010, 3030"
+    },
+    {
+      "course_code": "DOTE2051",
+      "prefix_inferred": false,
+      "evidence": "Major Required: DOTE2051, HTMG2092, 2900, MKTG2010"
+    },
+    {
+      "course_code": "HTMG2092",
+      "prefix_inferred": false,
+      "evidence": "Major Required: DOTE2051, HTMG2092, 2900, MKTG2010"
+    },
+    {
+      "course_code": "HTMG2900",
+      "prefix_inferred": true,
+      "evidence": "Major Required: DOTE2051, HTMG2092, 2900, MKTG2010"
+    },
+    {
+      "course_code": "MKTG2010",
+      "prefix_inferred": false,
+      "evidence": "Major Required: DOTE2051, HTMG2092, 2900, MKTG2010"
+    },
+    {
+      "course_code": "HTMG3041",
+      "prefix_inferred": false,
+      "evidence": "Major Required: HTMG3041, 3091"
+    },
+    {
+      "course_code": "HTMG3091",
+      "prefix_inferred": true,
+      "evidence": "Major Required: HTMG3041, 3091"
+    },
+    {
+      "course_code": "HTMG3020",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): (a) Hospitality – HTMG3020; (b) Real Estate – HTMG3502; Any one course from the three Modules or the remaining elective course(s)"
+    },
+    {
+      "course_code": "HTMG3502",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): (a) Hospitality – HTMG3020; (b) Real Estate – HTMG3502; Any one course from the three Modules or the remaining elective course(s)"
+    },
+    {
+      "course_code": "HTMG3092",
+      "prefix_inferred": false,
+      "evidence": "Major Required: HTMG3092, 3900"
+    },
+    {
+      "course_code": "HTMG3900",
+      "prefix_inferred": true,
+      "evidence": "Major Required: HTMG3092, 3900"
+    },
+    {
+      "course_code": "HTMG3060",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): (a) Hospitality – HTMG3060, 4600; (b) Real Estate – HTMG3523, 4600; Any one course from the three Modules or the remaining elective course(s)"
+    },
+    {
+      "course_code": "HTMG4600",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): (a) Hospitality – HTMG3060, 4600; (b) Real Estate – HTMG3523, 4600; Any one course from the three Modules or the remaining elective course(s)"
+    },
+    {
+      "course_code": "HTMG3523",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): (a) Hospitality – HTMG3060, 4600; (b) Real Estate – HTMG3523, 4600; Any one course from the three Modules or the remaining elective course(s)"
+    },
+    {
+      "course_code": "HTMG4091",
+      "prefix_inferred": false,
+      "evidence": "Major Required: HTMG4091, 4800"
+    },
+    {
+      "course_code": "HTMG4800",
+      "prefix_inferred": true,
+      "evidence": "Major Required: HTMG4091, 4800"
+    },
+    {
+      "course_code": "HTMG3521",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): (a) Hospitality - HTMG3521; (b) Real Estate – HTMG4100; Any one course from the three Modules or the remaining elective course(s)"
+    },
+    {
+      "course_code": "HTMG4100",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): (a) Hospitality - HTMG3521; (b) Real Estate – HTMG4100; Any one course from the three Modules or the remaining elective course(s)"
+    },
+    {
+      "course_code": "HTMG2000",
+      "prefix_inferred": false,
+      "evidence": "Major Required: HTMG2000, 4092, 4900"
+    },
+    {
+      "course_code": "HTMG4092",
+      "prefix_inferred": true,
+      "evidence": "Major Required: HTMG2000, 4092, 4900"
+    },
+    {
+      "course_code": "HTMG4900",
+      "prefix_inferred": true,
+      "evidence": "Major Required: HTMG2000, 4092, 4900"
+    },
+    {
+      "course_code": "HTMG3527",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): (a) Hospitality – HTMG3527; (b) Real Estate – 4190; Any one course from the three Modules or the remaining elective course(s)"
+    },
+    {
+      "course_code": "HTMG4190",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): (a) Hospitality – HTMG3527; (b) Real Estate – 4190; Any one course from the three Modules or the remaining elective course(s)"
+    },
+    {
+      "course_code": "FINA2010",
+      "prefix_inferred": false,
+      "evidence": "FINA2010#, HTMG2000, 2070, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+    },
+    {
+      "course_code": "HTMG2000",
+      "prefix_inferred": false,
+      "evidence": "FINA2010#, HTMG2000, 2070, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+    },
+    {
+      "course_code": "HTMG2070",
+      "prefix_inferred": true,
+      "evidence": "FINA2010#, HTMG2000, 2070, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+    },
+    {
+      "course_code": "HTMG3010",
+      "prefix_inferred": true,
+      "evidence": "FINA2010#, HTMG2000, 2070, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+    },
+    {
+      "course_code": "HTMG3030",
+      "prefix_inferred": true,
+      "evidence": "FINA2010#, HTMG2000, 2070, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+    },
+    {
+      "course_code": "HTMG3041",
+      "prefix_inferred": true,
+      "evidence": "FINA2010#, HTMG2000, 2070, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+    },
+    {
+      "course_code": "HTMG3091",
+      "prefix_inferred": true,
+      "evidence": "FINA2010#, HTMG2000, 2070, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+    },
+    {
+      "course_code": "HTMG3092",
+      "prefix_inferred": true,
+      "evidence": "FINA2010#, HTMG2000, 2070, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+    },
+    {
+      "course_code": "HTMG3900",
+      "prefix_inferred": true,
+      "evidence": "FINA2010#, HTMG2000, 2070, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+    },
+    {
+      "course_code": "HTMG4091",
+      "prefix_inferred": true,
+      "evidence": "FINA2010#, HTMG2000, 2070, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+    },
+    {
+      "course_code": "HTMG4092",
+      "prefix_inferred": true,
+      "evidence": "FINA2010#, HTMG2000, 2070, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+    },
+    {
+      "course_code": "HTMG4800",
+      "prefix_inferred": true,
+      "evidence": "FINA2010#, HTMG2000, 2070, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+    },
+    {
+      "course_code": "HTMG4900",
+      "prefix_inferred": true,
+      "evidence": "FINA2010#, HTMG2000, 2070, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+    },
+    {
+      "course_code": "MKTG2010",
+      "prefix_inferred": false,
+      "evidence": "FINA2010#, HTMG2000, 2070, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#"
+    },
+    {
+      "course_code": "MGNT4050",
+      "prefix_inferred": false,
+      "evidence": "To further strengthen the stream area, students are recommended to take MGNT4050, 4060, 4140, 4540, MKTG3020, 3030, 4040, 4080 for free electives."
+    },
+    {
+      "course_code": "MGNT4060",
+      "prefix_inferred": true,
+      "evidence": "To further strengthen the stream area, students are recommended to take MGNT4050, 4060, 4140, 4540, MKTG3020, 3030, 4040, 4080 for free electives."
+    },
+    {
+      "course_code": "MGNT4140",
+      "prefix_inferred": true,
+      "evidence": "To further strengthen the stream area, students are recommended to take MGNT4050, 4060, 4140, 4540, MKTG3020, 3030, 4040, 4080 for free electives."
+    },
+    {
+      "course_code": "MGNT4540",
+      "prefix_inferred": true,
+      "evidence": "To further strengthen the stream area, students are recommended to take MGNT4050, 4060, 4140, 4540, MKTG3020, 3030, 4040, 4080 for free electives."
+    },
+    {
+      "course_code": "MKTG3020",
+      "prefix_inferred": false,
+      "evidence": "To further strengthen the stream area, students are recommended to take MGNT4050, 4060, 4140, 4540, MKTG3020, 3030, 4040, 4080 for free electives."
+    },
+    {
+      "course_code": "MKTG3030",
+      "prefix_inferred": true,
+      "evidence": "To further strengthen the stream area, students are recommended to take MGNT4050, 4060, 4140, 4540, MKTG3020, 3030, 4040, 4080 for free electives."
+    },
+    {
+      "course_code": "MKTG4040",
+      "prefix_inferred": true,
+      "evidence": "To further strengthen the stream area, students are recommended to take MGNT4050, 4060, 4140, 4540, MKTG3020, 3030, 4040, 4080 for free electives."
+    },
+    {
+      "course_code": "MKTG4080",
+      "prefix_inferred": true,
+      "evidence": "To further strengthen the stream area, students are recommended to take MGNT4050, 4060, 4140, 4540, MKTG3020, 3030, 4040, 4080 for free electives."
+    },
+    {
+      "course_code": "FINA2010",
+      "prefix_inferred": false,
+      "evidence": "Major Required: FINA2010, HTMG2070, 3010, 3030, 3091"
+    },
+    {
+      "course_code": "HTMG2070",
+      "prefix_inferred": false,
+      "evidence": "Major Required: FINA2010, HTMG2070, 3010, 3030, 3091"
+    },
+    {
+      "course_code": "HTMG3010",
+      "prefix_inferred": true,
+      "evidence": "Major Required: FINA2010, HTMG2070, 3010, 3030, 3091"
+    },
+    {
+      "course_code": "HTMG3030",
+      "prefix_inferred": true,
+      "evidence": "Major Required: FINA2010, HTMG2070, 3010, 3030, 3091"
+    },
+    {
+      "course_code": "HTMG3091",
+      "prefix_inferred": true,
+      "evidence": "Major Required: FINA2010, HTMG2070, 3010, 3030, 3091"
+    },
+    {
+      "course_code": "HTMG3020",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): (a) Hospitality – HTMG3020; (b) Real Estate – HTMG3502"
+    },
+    {
+      "course_code": "HTMG3502",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): (a) Hospitality – HTMG3020; (b) Real Estate – HTMG3502"
+    },
+    {
+      "course_code": "HTMG3041",
+      "prefix_inferred": false,
+      "evidence": "Major Required: HTMG3041, 3092, MKTG2010"
+    },
+    {
+      "course_code": "HTMG3092",
+      "prefix_inferred": true,
+      "evidence": "Major Required: HTMG3041, 3092, MKTG2010"
+    },
+    {
+      "course_code": "MKTG2010",
+      "prefix_inferred": false,
+      "evidence": "Major Required: HTMG3041, 3092, MKTG2010"
+    },
+    {
+      "course_code": "HTMG3060",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): (a) Hospitality – HTMG3060; (b) Real Estate – HTMG3523; Any course from the three Modules or the remaining elective course(s)"
+    },
+    {
+      "course_code": "HTMG3523",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): (a) Hospitality – HTMG3060; (b) Real Estate – HTMG3523; Any course from the three Modules or the remaining elective course(s)"
+    },
+    {
+      "course_code": "HTMG3521",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): (a) Hospitality – HTMG3521, 4600; (b) Real Estate – HTMG4100, 4600; Any course from the three Modules or the remaining elective course(s)"
+    },
+    {
+      "course_code": "HTMG4600",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): (a) Hospitality – HTMG3521, 4600; (b) Real Estate – HTMG4100, 4600; Any course from the three Modules or the remaining elective course(s)"
+    },
+    {
+      "course_code": "HTMG4100",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): (a) Hospitality – HTMG3521, 4600; (b) Real Estate – HTMG4100, 4600; Any course from the three Modules or the remaining elective course(s)"
+    },
+    {
+      "course_code": "HTMG2000",
+      "prefix_inferred": false,
+      "evidence": "Major Required: HTMG2000, 3900, 4092, 4900"
+    },
+    {
+      "course_code": "HTMG3900",
+      "prefix_inferred": true,
+      "evidence": "Major Required: HTMG2000, 3900, 4092, 4900"
+    },
+    {
+      "course_code": "HTMG4092",
+      "prefix_inferred": true,
+      "evidence": "Major Required: HTMG2000, 3900, 4092, 4900"
+    },
+    {
+      "course_code": "HTMG4900",
+      "prefix_inferred": true,
+      "evidence": "Major Required: HTMG2000, 3900, 4092, 4900"
+    },
+    {
+      "course_code": "HTMG3527",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): (a) Hospitality – HTMG3527; (b) Real Estate – HTMG4190; Any course from the three Modules or the remaining elective course(s)"
+    },
+    {
+      "course_code": "HTMG4190",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): (a) Hospitality – HTMG3527; (b) Real Estate – HTMG4190; Any course from the three Modules or the remaining elective course(s)"
+    },
+    {
+      "course_code": "ACCT1111",
+      "prefix_inferred": false,
+      "evidence": "ACCT1111"
+    },
+    {
+      "course_code": "DOTE1021",
+      "prefix_inferred": false,
+      "evidence": "DOTE1021"
+    },
+    {
+      "course_code": "DOTE1031",
+      "prefix_inferred": false,
+      "evidence": "DOTE1031"
+    },
+    {
+      "course_code": "DOTE2051",
+      "prefix_inferred": false,
+      "evidence": "DOTE2051"
+    },
+    {
+      "course_code": "DOTE3010",
+      "prefix_inferred": false,
+      "evidence": "DOTE3010"
+    },
+    {
+      "course_code": "FINA2010",
+      "prefix_inferred": false,
+      "evidence": "FINA2010"
+    },
+    {
+      "course_code": "HTMG1010",
+      "prefix_inferred": false,
+      "evidence": "HTMG1010"
+    },
+    {
+      "course_code": "HTMG1091",
+      "prefix_inferred": false,
+      "evidence": "HTMG1091"
+    },
+    {
+      "course_code": "HTMG1092",
+      "prefix_inferred": false,
+      "evidence": "HTMG1092"
+    },
+    {
+      "course_code": "HTMG2000",
+      "prefix_inferred": false,
+      "evidence": "HTMG2000"
+    },
+    {
+      "course_code": "HTMG2070",
+      "prefix_inferred": false,
+      "evidence": "HTMG2070"
+    },
+    {
+      "course_code": "HTMG2091",
+      "prefix_inferred": false,
+      "evidence": "HTMG2091"
+    },
+    {
+      "course_code": "HTMG2092",
+      "prefix_inferred": false,
+      "evidence": "HTMG2092"
+    },
+    {
+      "course_code": "HTMG2900",
+      "prefix_inferred": false,
+      "evidence": "HTMG2900"
+    },
+    {
+      "course_code": "HTMG3010",
+      "prefix_inferred": false,
+      "evidence": "HTMG3010"
+    },
+    {
+      "course_code": "HTMG3020",
+      "prefix_inferred": false,
+      "evidence": "HTMG3020"
+    },
+    {
+      "course_code": "HTMG3030",
+      "prefix_inferred": false,
+      "evidence": "HTMG3030"
+    },
+    {
+      "course_code": "HTMG3041",
+      "prefix_inferred": false,
+      "evidence": "HTMG3041"
+    },
+    {
+      "course_code": "HTMG3050",
+      "prefix_inferred": false,
+      "evidence": "HTMG3050"
+    },
+    {
+      "course_code": "HTMG3060",
+      "prefix_inferred": false,
+      "evidence": "HTMG3060"
+    },
+    {
+      "course_code": "HTMG3091",
+      "prefix_inferred": false,
+      "evidence": "HTMG3091"
+    },
+    {
+      "course_code": "HTMG3092",
+      "prefix_inferred": false,
+      "evidence": "HTMG3092"
+    },
+    {
+      "course_code": "HTMG3501",
+      "prefix_inferred": false,
+      "evidence": "HTMG3501"
+    },
+    {
+      "course_code": "HTMG3502",
+      "prefix_inferred": false,
+      "evidence": "HTMG3502"
+    },
+    {
+      "course_code": "HTMG3504",
+      "prefix_inferred": false,
+      "evidence": "HTMG3504"
+    },
+    {
+      "course_code": "HTMG3508",
+      "prefix_inferred": false,
+      "evidence": "HTMG3508"
+    },
+    {
+      "course_code": "HTMG3515",
+      "prefix_inferred": false,
+      "evidence": "HTMG3515"
+    },
+    {
+      "course_code": "HTMG3518",
+      "prefix_inferred": false,
+      "evidence": "HTMG3518"
+    },
+    {
+      "course_code": "HTMG3519",
+      "prefix_inferred": false,
+      "evidence": "HTMG3519"
+    },
+    {
+      "course_code": "HTMG3520",
+      "prefix_inferred": false,
+      "evidence": "HTMG3520"
+    },
+    {
+      "course_code": "HTMG3521",
+      "prefix_inferred": false,
+      "evidence": "HTMG3521"
+    },
+    {
+      "course_code": "HTMG3522",
+      "prefix_inferred": false,
+      "evidence": "HTMG3522"
+    },
+    {
+      "course_code": "HTMG3523",
+      "prefix_inferred": false,
+      "evidence": "HTMG3523"
+    },
+    {
+      "course_code": "HTMG3524",
+      "prefix_inferred": false,
+      "evidence": "HTMG3524"
+    },
+    {
+      "course_code": "HTMG3525",
+      "prefix_inferred": false,
+      "evidence": "HTMG3525"
+    },
+    {
+      "course_code": "HTMG3526",
+      "prefix_inferred": false,
+      "evidence": "HTMG3526"
+    },
+    {
+      "course_code": "HTMG3527",
+      "prefix_inferred": false,
+      "evidence": "HTMG3527"
+    },
+    {
+      "course_code": "HTMG3590",
+      "prefix_inferred": false,
+      "evidence": "HTMG3590"
+    },
+    {
+      "course_code": "HTMG3900",
+      "prefix_inferred": false,
+      "evidence": "HTMG3900"
+    },
+    {
+      "course_code": "HTMG4060",
+      "prefix_inferred": false,
+      "evidence": "HTMG4060"
+    },
+    {
+      "course_code": "HTMG4070",
+      "prefix_inferred": false,
+      "evidence": "HTMG4070"
+    },
+    {
+      "course_code": "HTMG4091",
+      "prefix_inferred": false,
+      "evidence": "HTMG4091"
+    },
+    {
+      "course_code": "HTMG4092",
+      "prefix_inferred": false,
+      "evidence": "HTMG4092"
+    },
+    {
+      "course_code": "HTMG4100",
+      "prefix_inferred": false,
+      "evidence": "HTMG4100"
+    },
+    {
+      "course_code": "HTMG4120",
+      "prefix_inferred": false,
+      "evidence": "HTMG4120"
+    },
+    {
+      "course_code": "HTMG4130",
+      "prefix_inferred": false,
+      "evidence": "HTMG4130"
+    },
+    {
+      "course_code": "HTMG4170",
+      "prefix_inferred": false,
+      "evidence": "HTMG4170"
+    },
+    {
+      "course_code": "HTMG4190",
+      "prefix_inferred": false,
+      "evidence": "HTMG4190"
+    },
+    {
+      "course_code": "HTMG4200",
+      "prefix_inferred": false,
+      "evidence": "HTMG4200"
+    },
+    {
+      "course_code": "HTMG4230",
+      "prefix_inferred": false,
+      "evidence": "HTMG4230"
+    },
+    {
+      "course_code": "HTMG4240",
+      "prefix_inferred": false,
+      "evidence": "HTMG4240"
+    },
+    {
+      "course_code": "HTMG4250",
+      "prefix_inferred": false,
+      "evidence": "HTMG4250"
+    },
+    {
+      "course_code": "HTMG4260",
+      "prefix_inferred": false,
+      "evidence": "HTMG4260"
+    },
+    {
+      "course_code": "HTMG4270",
+      "prefix_inferred": false,
+      "evidence": "HTMG4270"
+    },
+    {
+      "course_code": "HTMG4280",
+      "prefix_inferred": false,
+      "evidence": "HTMG4280"
+    },
+    {
+      "course_code": "HTMG4501",
+      "prefix_inferred": false,
+      "evidence": "HTMG4501"
+    },
+    {
+      "course_code": "HTMG4502",
+      "prefix_inferred": false,
+      "evidence": "HTMG4502"
+    },
+    {
+      "course_code": "HTMG4503",
+      "prefix_inferred": false,
+      "evidence": "HTMG4503"
+    },
+    {
+      "course_code": "HTMG4504",
+      "prefix_inferred": false,
+      "evidence": "HTMG4504"
+    },
+    {
+      "course_code": "HTMG4505",
+      "prefix_inferred": false,
+      "evidence": "HTMG4505"
+    },
+    {
+      "course_code": "HTMG4506",
+      "prefix_inferred": false,
+      "evidence": "HTMG4506"
+    },
+    {
+      "course_code": "HTMG4508",
+      "prefix_inferred": false,
+      "evidence": "HTMG4508"
+    },
+    {
+      "course_code": "HTMG4509",
+      "prefix_inferred": false,
+      "evidence": "HTMG4509"
+    },
+    {
+      "course_code": "HTMG4510",
+      "prefix_inferred": false,
+      "evidence": "HTMG4510"
+    },
+    {
+      "course_code": "HTMG4511",
+      "prefix_inferred": false,
+      "evidence": "HTMG4511"
+    },
+    {
+      "course_code": "HTMG4512",
+      "prefix_inferred": false,
+      "evidence": "HTMG4512"
+    },
+    {
+      "course_code": "HTMG4513",
+      "prefix_inferred": false,
+      "evidence": "HTMG4513"
+    },
+    {
+      "course_code": "HTMG4516",
+      "prefix_inferred": false,
+      "evidence": "HTMG4516"
+    },
+    {
+      "course_code": "HTMG4517",
+      "prefix_inferred": false,
+      "evidence": "HTMG4517"
+    },
+    {
+      "course_code": "HTMG4519",
+      "prefix_inferred": false,
+      "evidence": "HTMG4519"
+    },
+    {
+      "course_code": "HTMG4520",
+      "prefix_inferred": false,
+      "evidence": "HTMG4520"
+    },
+    {
+      "course_code": "HTMG4521",
+      "prefix_inferred": false,
+      "evidence": "HTMG4521"
+    },
+    {
+      "course_code": "HTMG4522",
+      "prefix_inferred": false,
+      "evidence": "HTMG4522"
+    },
+    {
+      "course_code": "HTMG4523",
+      "prefix_inferred": false,
+      "evidence": "HTMG4523"
+    },
+    {
+      "course_code": "HTMG4524",
+      "prefix_inferred": false,
+      "evidence": "HTMG4524"
+    },
+    {
+      "course_code": "HTMG4526",
+      "prefix_inferred": false,
+      "evidence": "HTMG4526"
+    },
+    {
+      "course_code": "HTMG4527",
+      "prefix_inferred": false,
+      "evidence": "HTMG4527"
+    },
+    {
+      "course_code": "HTMG4528",
+      "prefix_inferred": false,
+      "evidence": "HTMG4528"
+    },
+    {
+      "course_code": "HTMG4529",
+      "prefix_inferred": false,
+      "evidence": "HTMG4529"
+    },
+    {
+      "course_code": "HTMG4530",
+      "prefix_inferred": false,
+      "evidence": "HTMG4530"
+    },
+    {
+      "course_code": "HTMG4531",
+      "prefix_inferred": false,
+      "evidence": "HTMG4531"
+    },
+    {
+      "course_code": "HTMG4532",
+      "prefix_inferred": false,
+      "evidence": "HTMG4532"
+    },
+    {
+      "course_code": "HTMG4533",
+      "prefix_inferred": false,
+      "evidence": "HTMG4533"
+    },
+    {
+      "course_code": "HTMG4534",
+      "prefix_inferred": false,
+      "evidence": "HTMG4534"
+    },
+    {
+      "course_code": "HTMG4535",
+      "prefix_inferred": false,
+      "evidence": "HTMG4535"
+    },
+    {
+      "course_code": "HTMG4536",
+      "prefix_inferred": false,
+      "evidence": "HTMG4536"
+    },
+    {
+      "course_code": "HTMG4537",
+      "prefix_inferred": false,
+      "evidence": "HTMG4537"
+    },
+    {
+      "course_code": "HTMG4538",
+      "prefix_inferred": false,
+      "evidence": "HTMG4538"
+    },
+    {
+      "course_code": "HTMG4539",
+      "prefix_inferred": false,
+      "evidence": "HTMG4539"
+    },
+    {
+      "course_code": "HTMG4600",
+      "prefix_inferred": false,
+      "evidence": "HTMG4600"
+    },
+    {
+      "course_code": "HTMG4700",
+      "prefix_inferred": false,
+      "evidence": "HTMG4700"
+    },
+    {
+      "course_code": "HTMG4800",
+      "prefix_inferred": false,
+      "evidence": "HTMG4800"
+    },
+    {
+      "course_code": "HTMG4900",
+      "prefix_inferred": false,
+      "evidence": "HTMG4900"
+    },
+    {
+      "course_code": "MGNT2611",
+      "prefix_inferred": false,
+      "evidence": "MGNT2611"
+    },
+    {
+      "course_code": "MKTG2010",
+      "prefix_inferred": false,
+      "evidence": "MKTG2010"
+    }
+  ],
+  "course_code_aliases": [],
+  "source": {
+    "system": "CUHK CUSIS Browse Program Information",
+    "url": "https://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/tt_dsp_acad_prog.aspx",
+    "source_text_file": "data/cuhk/2024/programmes/B_B_A_in_Hospitality_and_Real_Estate__Faculty_of_Business_Administration.txt",
+    "reused_duplicate_entry": false,
+    "reused_from_faculty": null
+  },
+  "raw_text": "\n\nBrowse Program Information\n\n\n\n\n\n\nAcademic Program:\tB.B.A. in Hospitality and Real Estate\nAcademic Year:\t2024\nLanguage:\t\nEnglish\nSimplified Chinese\nTraditional Chinese\n\n\n\nLearning Outcomes\nStudy Scheme\n \n\n\t\n\nHospitality and Real Estate\n\nApplicable to students admitted in 2024-25\n\n\n\n\n \n\n\n\n\n \n\nMajor Programme Requirement\n\n \n\n\n\n\nStudents are required to complete a minimum of 73 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nFaculty Package:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nACCT1111, DOTE1031, HTMG1010\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nRequired Courses:\n\n\t\n\n37\n\n\n\n\n \n\n\t\n\nDOTE1021, 2051#, FINA2010#, HTMG1091, 1092, 2000, 2070, 2091, 2092, 2900, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nStream Courses:\n\n\t\n\n15\n\n\n\n\n \n\n\t\n\nStudents are required to choose one of the following streams:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nHospitality\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nHTMG3020, 3060, 3521, 3527, 4600 (with a topic in Hospitality)\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTo further strengthen the stream area, students are recommended to take MGNT 4050, 4060, 4140, 4540, MKTG3020, 3030, 4040, 4080 for free electives.\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nReal Estate\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nHTMG3502, 3523, 4100, 4190, 4600 (with a topic in Real Estate)\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTo further strengthen the concentration area, students are recommended to take ECON3440, FINA3010, 3060, 3080, GRMD2105 for free electives.\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n4.\n\n\t\n\nElective Courses:\n\n\t\n\n12\n\n\n\n\n(a)\n\n\t\n\nStudents are required to complete 9 units from the three modules below:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(i)\n\n\t\n\nAnalytical Module:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\nHTMG3504, 3522, 3525, 3526, 4060, 4230, 4250, 4270\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(ii)\n\n\t\n\nInnovative Module:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\nDOTE3010#, HTMG3050, 3519, 3524, 4130, 4200, 4240, 4260, MGNT2611#\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(iii)\n\n\t\n\nExperiential Module:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\nHTMG3501, 3508, 3515, 3518, 3520, 4120, 4170, 4280, 4700\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nStudents are required to complete at least 3 units of courses from below:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nHTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n73\n\n\n\n\nExplanatory Note:\n\n\n\n\n1.\n\n\t\n\nHTMG courses at 2000 and above level, excluding HTMG2000, as well as those labeled as # will be included in the calculation of Major GPA for honours classification.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\n \n\n\n\n\n \n\n\t\n\nRecommended Course Pattern\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: DOTE1031, HTMG1010\n\n\t\n\n6\n\n\n\n\nMajor Required: HTMG1091\n\n\t\n\n \n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nFaculty Package: ACCT1111\n\n\t\n\n3\n\n\n\n\nMajor Required: DOTE1021, HTMG1092\n\n\t\n\n4\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nSecond Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: FINA2010, HTMG2070, 2091, 3010, 3030\n\n\t\n\n12\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: DOTE2051, HTMG2092, 2900, MKTG2010\n\n\t\n\n8\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nThird Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: HTMG3041, 3091\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): (a) Hospitality – HTMG3020; (b) Real Estate – HTMG3502; Any one course from the three Modules or the remaining elective course(s)\n\n\t\n\n6\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: HTMG3092, 3900\n\n\t\n\n2\n\n\n\n\nMajor Elective(s): (a) Hospitality – HTMG3060, 4600; (b) Real Estate – HTMG3523, 4600; Any one course from the three Modules or the remaining elective course(s)\n\n\t\n\n9\n\n\n\n\nFourth Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: HTMG4091, 4800\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): (a) Hospitality - HTMG3521; (b) Real Estate – HTMG4100; Any one course from the three Modules or the remaining elective course(s)\n\n\t\n\n6\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: HTMG2000, 4092, 4900\n\n\t\n\n5\n\n\n\n\nMajor Elective(s): (a) Hospitality – HTMG3527; (b) Real Estate – 4190; Any one course from the three Modules or the remaining elective course(s)\n\n\t\n\n6\n\n\n\n\nTotal (including Faculty Package):\n\n\t\n\n73\n\n\n\n\n \n\n\n\n\n \n\nMajor Programme Requirement (for Associate Degree or Higher Diploma holders admitted to senior-year places)\n\n \n\n\n\n\nStudents are required to complete a minimum of 52 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nRequired Courses:\n\n\t\n\n28\n\n\n\n\n \n\n\t\n\nFINA2010#, HTMG2000, 2070, 3010, 3030, 3041, 3091, 3092, 3900, 4091, 4092, 4800, 4900 (capstone course), MKTG2010#\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nStream Courses:\n\n\t\n\n15\n\n\n\n\n \n\n\t\n\nStudents are required to choose one of the following streams:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nHospitality\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nHTMG3020, 3060, 3521, 3527, 4600 (with a topic in Hospitality)\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTo further strengthen the stream area, students are recommended to take MGNT4050, 4060, 4140, 4540, MKTG3020, 3030, 4040, 4080 for free electives.\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nReal Estate\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nHTMG3502, 3523, 4100, 4190, 4600 (with a topic in Real Estate)\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTo further strengthen the concentration area, students are recommended to take ECON3440, FINA3010, 3060, 3080, GRMD2105 for free electives.\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nElective Courses:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nStudents are required to complete 9 units from any courses below:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nAnalytical Module:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nHTMG3504, 3522, 3525, 3526, 4060, 4230, 4250, 4270\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nInnovative Module:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nDOTE3010#, HTMG3050, 3519, 3524, 4130, 4200, 4240, 4260, MGNT2611#\n\n\t\n\n \n\n\n\n\n(c)\n\n\t\n\nExperiential Module:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nHTMG3501, 3508, 3515, 3518, 3520, 4120, 4170, 4280, 4700\n\n\t\n\n \n\n\n\n\n(d)\n\n\t\n\nHTMG3590, 4501, 4502, 4503, 4504, 4505, 4506, 4508, 4509, 4510, 4511, 4512, 4513, 4516, 4517, 4519, 4520, 4521, 4522, 4523, 4524, 4526, 4527, 4528, 4529, 4530, 4531, 4532, 4533, 4534, 4535, 4536, 4537, 4538, 4539\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n52\n\n\n\n\nExplanatory Note:\n\n\n\n\n1.\n\n\t\n\nHTMG courses at 2000 and above level, excluding HTMG2000, as well as those labeled as # will be included in the calculation of Major GPA for honours classification.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\n \n\n\n\n\n \n\n\t\n\nRecommended Course Pattern (for Associate Degree or Higher Diploma holders admitted to senior-year places)\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: FINA2010, HTMG2070, 3010, 3030, 3091\n\n\t\n\n12\n\n\n\n\nMajor Elective(s): (a) Hospitality – HTMG3020; (b) Real Estate – HTMG3502\n\n\t\n\n3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: HTMG3041, 3092, MKTG2010\n\n\t\n\n7\n\n\n\n\nMajor Elective(s): (a) Hospitality – HTMG3060; (b) Real Estate – HTMG3523; Any course from the three Modules or the remaining elective course(s)\n\n\t\n\n6\n\n\n\n\nSecond Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: HTMG4091, 4800\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): (a) Hospitality – HTMG3521, 4600; (b) Real Estate – HTMG4100, 4600; Any course from the three Modules or the remaining elective course(s)\n\n\t\n\n9\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: HTMG2000, 3900, 4092, 4900\n\n\t\n\n6\n\n\n\n\nMajor Elective(s): (a) Hospitality – HTMG3527; (b) Real Estate – HTMG4190; Any course from the three Modules or the remaining elective course(s)\n\n\t\n\n6\n\n\n\n\nTotal:\n\n\t\n\n52\n\n\n\n\n \n\n\n\n\nCourse List\n\n \n\n\n\n\nCourse Code\n\n\t\n\nCourse Title\n\n\t\n\nUnit(s)\n\n\n\n\nACCT1111\n\n\t\n\nFoundations in Financial Accounting\n\n\t\n\n3\n\n\n\n\nDOTE1021\n\n\t\n\nBasic Quantitative Methods for Hospitality and Real Estate\n\n\t\n\n3\n\n\n\n\nDOTE1031\n\n\t\n\nBasic Economics for the Hospitality and Tourism Industry\n\n\t\n\n3\n\n\n\n\nDOTE2051\n\n\t\n\nBusiness Information Systems\n\n\t\n\n3\n\n\n\n\nDOTE3010\n\n\t\n\nArtificial Intelligence Empowered Business\n\n\t\n\n3\n\n\n\n\nFINA2010\n\n\t\n\nFinancial Management\n\n\t\n\n3\n\n\n\n\nHTMG1010\n\n\t\n\nManagement of Hospitality and Real Estate Businesses\n\n\t\n\n3\n\n\n\n\nHTMG1091\n\n\t\n\nDistinguished Speaker Series I\n\n\t\n\n0\n\n\n\n\nHTMG1092\n\n\t\n\nDistinguished Speaker Series II\n\n\t\n\n1\n\n\n\n\nHTMG2000\n\n\t\n\nInternational Experience\n\n\t\n\n1\n\n\n\n\nHTMG2070\n\n\t\n\nFood and Beverage Management\n\n\t\n\n3\n\n\n\n\nHTMG2091\n\n\t\n\nDistinguished Speaker Series III\n\n\t\n\n0\n\n\n\n\nHTMG2092\n\n\t\n\nDistinguished Speaker Series IV\n\n\t\n\n1\n\n\n\n\nHTMG2900\n\n\t\n\nSummer Internship I\n\n\t\n\n1\n\n\n\n\nHTMG3010\n\n\t\n\nManagement of Lodging Facilities\n\n\t\n\n3\n\n\n\n\nHTMG3020\n\n\t\n\nHospitality Organization Behaviour\n\n\t\n\n3\n\n\n\n\nHTMG3030\n\n\t\n\nHospitality Real Estate Economics\n\n\t\n\n3\n\n\n\n\nHTMG3041\n\n\t\n\nLaw for Hospitality and Real Estate Industry\n\n\t\n\n3\n\n\n\n\nHTMG3050\n\n\t\n\nTravel and Tourism Management\n\n\t\n\n3\n\n\n\n\nHTMG3060\n\n\t\n\nHospitality Service Management and Innovation\n\n\t\n\n3\n\n\n\n\nHTMG3091\n\n\t\n\nDistinguished Speaker Series V\n\n\t\n\n0\n\n\n\n\nHTMG3092\n\n\t\n\nDistinguished Speaker Series VI\n\n\t\n\n1\n\n\n\n\nHTMG3501\n\n\t\n\nHuman Resources Planning and Staffing for Hospitality Business\n\n\t\n\n3\n\n\n\n\nHTMG3502\n\n\t\n\nReal Estate Finance\n\n\t\n\n3\n\n\n\n\nHTMG3504\n\n\t\n\nFinancial Management and Cost Control for Hospitality Organizations\n\n\t\n\n3\n\n\n\n\nHTMG3508\n\n\t\n\nTalent Development\n\n\t\n\n3\n\n\n\n\nHTMG3515\n\n\t\n\nCruise Management\n\n\t\n\n3\n\n\n\n\nHTMG3518\n\n\t\n\nWine Culture and Appreciation\n\n\t\n\n3\n\n\n\n\nHTMG3519\n\n\t\n\nAir Transportation\n\n\t\n\n3\n\n\n\n\nHTMG3520\n\n\t\n\nShopping Mall Investment and Management\n\n\t\n\n3\n\n\n\n\nHTMG3521\n\n\t\n\nHospitality Revenue Management and Analytics\n\n\t\n\n3\n\n\n\n\nHTMG3522\n\n\t\n\nLand Conversion Process and Development Control\n\n\t\n\n3\n\n\n\n\nHTMG3523\n\n\t\n\nIntroduction to Real Estate Investments\n\n\t\n\n3\n\n\n\n\nHTMG3524\n\n\t\n\nHospitality and Real Estate Design Thinking\n\n\t\n\n3\n\n\n\n\nHTMG3525\n\n\t\n\nQuantitative Methods for Real Estate\n\n\t\n\n3\n\n\n\n\nHTMG3526\n\n\t\n\nFundamental Research Methodology for Hospitality and Real Estate\n\n\t\n\n3\n\n\n\n\nHTMG3527\n\n\t\n\nDesigning and Managing Customer Experience\n\n\t\n\n3\n\n\n\n\nHTMG3590\n\n\t\n\nOverseas Study Trip: Understand Impact of Hospitality and Tourism from A Local Perspective\n\n\t\n\n1\n\n\n\n\nHTMG3900\n\n\t\n\nSummer Internship II\n\n\t\n\n1\n\n\n\n\nHTMG4060\n\n\t\n\nAdvanced Real Estate Investments\n\n\t\n\n3\n\n\n\n\nHTMG4070\n\n\t\n\nServices Marketing\n\n\t\n\n3\n\n\n\n\nHTMG4091\n\n\t\n\nDistinguished Speaker Series VII\n\n\t\n\n0\n\n\n\n\nHTMG4092\n\n\t\n\nDistinguished Speaker Series VIII\n\n\t\n\n1\n\n\n\n\nHTMG4100\n\n\t\n\nReal Estate Valuation\n\n\t\n\n3\n\n\n\n\nHTMG4120\n\n\t\n\nSmart MICE Management\n\n\t\n\n3\n\n\n\n\nHTMG4130\n\n\t\n\nEntrepreneurship in the Hospitality and Real Estate Industry\n\n\t\n\n3\n\n\n\n\nHTMG4170\n\n\t\n\nTalent Analytics\n\n\t\n\n3\n\n\n\n\nHTMG4190\n\n\t\n\nGlobal Real Estate Asset Management\n\n\t\n\n3\n\n\n\n\nHTMG4200\n\n\t\n\nStrategic Brand Management for Hospitality Business\n\n\t\n\n3\n\n\n\n\nHTMG4230\n\n\t\n\nConsultation Practicum in Hospitality and Real Estate\n\n\t\n\n3\n\n\n\n\nHTMG4240\n\n\t\n\nInnovation in Hospitality and Real Estate\n\n\t\n\n3\n\n\n\n\nHTMG4250\n\n\t\n\nDigital Marketing for Hospitality Industry\n\n\t\n\n3\n\n\n\n\nHTMG4260\n\n\t\n\nRevitalization of Heritage Buildings\n\n\t\n\n3\n\n\n\n\nHTMG4270\n\n\t\n\nHospitality and Real Estate Financial Reporting and Analysis\n\n\t\n\n3\n\n\n\n\nHTMG4280\n\n\t\n\nProject Management for Hospitality and Real Estate\n\n\t\n\n3\n\n\n\n\nHTMG4501\n\n\t\n\nGlobal Hotel Chain Management\n\n\t\n\n1\n\n\n\n\nHTMG4502\n\n\t\n\nLeadership Excellence\n\n\t\n\n1\n\n\n\n\nHTMG4503\n\n\t\n\nAirline Management\n\n\t\n\n1\n\n\n\n\nHTMG4504\n\n\t\n\nTheme Park Management\n\n\t\n\n1\n\n\n\n\nHTMG4505\n\n\t\n\nConvention, Exhibition and Event Management\n\n\t\n\n1\n\n\n\n\nHTMG4506\n\n\t\n\nPre-Opening of a Hotel Property\n\n\t\n\n1\n\n\n\n\nHTMG4508\n\n\t\n\nBeverage Management\n\n\t\n\n1\n\n\n\n\nHTMG4509\n\n\t\n\nFranchising and Multi-Unit Management in the Hospitality Industry\n\n\t\n\n1\n\n\n\n\nHTMG4510\n\n\t\n\nHotel Development\n\n\t\n\n1\n\n\n\n\nHTMG4511\n\n\t\n\nCruise Line Management\n\n\t\n\n1\n\n\n\n\nHTMG4512\n\n\t\n\nClub Management\n\n\t\n\n1\n\n\n\n\nHTMG4513\n\n\t\n\nHospitality Properties Mergers and Acquisitions\n\n\t\n\n1\n\n\n\n\nHTMG4516\n\n\t\n\nHotel Design\n\n\t\n\n1\n\n\n\n\nHTMG4517\n\n\t\n\nDevelopment and Management of Hotels and Serviced Apartments\n\n\t\n\n1\n\n\n\n\nHTMG4519\n\n\t\n\nHotel Business Operation in China\n\n\t\n\n1\n\n\n\n\nHTMG4520\n\n\t\n\nSpa Management and Facilities\n\n\t\n\n1\n\n\n\n\nHTMG4521\n\n\t\n\nDevelopment and Management of Casino Gaming\n\n\t\n\n1\n\n\n\n\nHTMG4522\n\n\t\n\nSustainable Tourism\n\n\t\n\n1\n\n\n\n\nHTMG4523\n\n\t\n\nEntrepreneurship in Hospitality and Real Estate\n\n\t\n\n1\n\n\n\n\nHTMG4524\n\n\t\n\nDestination Marketing\n\n\t\n\n1\n\n\n\n\nHTMG4526\n\n\t\n\nMarket and Financial Feasibility Studies for Hospitality and Real Estate\n\n\t\n\n1\n\n\n\n\nHTMG4527\n\n\t\n\nEvent Planning and Management\n\n\t\n\n1\n\n\n\n\nHTMG4528\n\n\t\n\nDeveloping a Competitive and Sustainable Exhibition Industry in Hong Kong\n\n\t\n\n1\n\n\n\n\nHTMG4529\n\n\t\n\nTalent Management in the Hospitality Industry\n\n\t\n\n1\n\n\n\n\nHTMG4530\n\n\t\n\nAttraction Marketing\n\n\t\n\n1\n\n\n\n\nHTMG4531\n\n\t\n\nHigh-speed Rail and Tourism\n\n\t\n\n1\n\n\n\n\nHTMG4532\n\n\t\n\nBrand Management in Hospitality\n\n\t\n\n1\n\n\n\n\nHTMG4533\n\n\t\n\nIntroduction to Retail Management\n\n\t\n\n1\n\n\n\n\nHTMG4534\n\n\t\n\nSelected Topics on Global Business Challenges\n\n\t\n\n2\n\n\n\n\nHTMG4535\n\n\t\n\nCommercial Real Estate Investment Analysis\n\n\t\n\n1\n\n\n\n\nHTMG4536\n\n\t\n\nSpecialty Tourism\n\n\t\n\n1\n\n\n\n\nHTMG4537\n\n\t\n\nInnovation for Hospitality and Real Estate\n\n\t\n\n1\n\n\n\n\nHTMG4538\n\n\t\n\nEssentials for Hospitality and Real Estate Projects\n\n\t\n\n1\n\n\n\n\nHTMG4539\n\n\t\n\nSelected Topics in Hospitality and Real Estate\n\n\t\n\n1\n\n\n\n\nHTMG4600\n\n\t\n\nFacilities Development and Management for Hospitality and Real Estate\n\n\t\n\n3\n\n\n\n\nHTMG4700\n\n\t\n\nStrategic Negotiation for Hospitality and Real Estate Industry\n\n\t\n\n3\n\n\n\n\nHTMG4800\n\n\t\n\nHospitality Strategic Management\n\n\t\n\n3\n\n\n\n\nHTMG4900\n\n\t\n\nHospitality and Real Estate Capstone Project\n\n\t\n\n3\n\n\n\n\nMGNT2611\n\n\t\n\nBusiness Sustainability\n\n\t\n\n2\n\n\n\n\nMKTG2010\n\n\t\n\nMarketing Management\n\n\t\n\n3\n\n \n\n\n \n\nStudy Scheme\n\n\nLearning Outcomes\n \n\n\t\n\n1.          Major Programme:\n\nBusiness concepts and functions:\n\nGraduates should have mastered different business concepts and functions so that they can lead a hospitality enterprise as an integrated business firm. They should have possessed broad-based core knowledge of general management covering accounting, finance, marketing, human resources, information technology, etc. At the same time, graduates should have mastered a deep understanding of the context of managing hospitality and tourism businesses.\n\n \n\nAnalytical skills:\n\nStudents should have mastered analytical skills to identify a business problem, generate and compare alternatives, and come up with a prudent solution. Students will have developed managerial skills such as communication, problem solving, analytical, critical thinking and decision making, etc throughout the curriculum. In this regard, graduates should possess a core level of generic skills related to management of hospitality businesses, including: Computer literacy/IT skills, quantitative skills and research methods, and decision making skills.\n\n \n\nProfessional Skills:\n\nGraduates should have a mastery of professional skills pertaining to management of business in service industry. They should be able to operate different hospitality and tourism organizations. They should be able to identify current hospitality and tourism management problems and propose appropriate solutions.\n\n \n\nAttitude/Values:\n\nGraduates should have a positive attitude and passion toward the hospitality and tourism industry. They should be nurtured servant-leadership. They should have possessed values for excellence, leadership, creativity, service and ethics in professional and personal life. They should have developed an attitude for adapting to the changing social and environment and become an effective and responsible citizen.\n\n \n\n \n\n \n\n\n"
+}

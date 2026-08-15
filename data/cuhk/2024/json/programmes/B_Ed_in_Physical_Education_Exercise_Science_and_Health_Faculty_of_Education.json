@@ -1,0 +1,1969 @@
+{
+  "programme_id": "B_Ed_in_Physical_Education_Exercise_Science_and_Health__Faculty_of_Education",
+  "academic_program": "B.Ed. in Physical Education, Exercise Science and Health",
+  "faculty": "Faculty of Education",
+  "academic_year": 2024,
+  "admission_cohort": "2024-25",
+  "requirement_summary": {
+    "minimum_units_as_printed": "a minimum of 104 units",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Faculty Package",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "EDUC2120",
+            "prefix_inferred": false,
+            "evidence": "EDUC2120, 2312, SPED2720"
+          },
+          {
+            "course_code": "EDUC2312",
+            "prefix_inferred": true,
+            "evidence": "EDUC2120, 2312, SPED2720"
+          },
+          {
+            "course_code": "SPED2720",
+            "prefix_inferred": false,
+            "evidence": "EDUC2120, 2312, SPED2720"
+          }
+        ],
+        "raw_text": "9\nEDUC2120, 2312, SPED2720"
+      },
+      {
+        "number": 2,
+        "title": "Required Courses",
+        "units_as_printed": "44",
+        "course_mentions": [
+          {
+            "course_code": "PHPC1001",
+            "prefix_inferred": false,
+            "evidence": "PHPC1001, 2016#, SPED2520, 2540, 2600, 2610, 2710, 2810, 3410, 3430, 3440, 3450, 3820, 3920, 4570"
+          },
+          {
+            "course_code": "PHPC2016",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, 2016#, SPED2520, 2540, 2600, 2610, 2710, 2810, 3410, 3430, 3440, 3450, 3820, 3920, 4570"
+          },
+          {
+            "course_code": "SPED2520",
+            "prefix_inferred": false,
+            "evidence": "PHPC1001, 2016#, SPED2520, 2540, 2600, 2610, 2710, 2810, 3410, 3430, 3440, 3450, 3820, 3920, 4570"
+          },
+          {
+            "course_code": "SPED2540",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, 2016#, SPED2520, 2540, 2600, 2610, 2710, 2810, 3410, 3430, 3440, 3450, 3820, 3920, 4570"
+          },
+          {
+            "course_code": "SPED2600",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, 2016#, SPED2520, 2540, 2600, 2610, 2710, 2810, 3410, 3430, 3440, 3450, 3820, 3920, 4570"
+          },
+          {
+            "course_code": "SPED2610",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, 2016#, SPED2520, 2540, 2600, 2610, 2710, 2810, 3410, 3430, 3440, 3450, 3820, 3920, 4570"
+          },
+          {
+            "course_code": "SPED2710",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, 2016#, SPED2520, 2540, 2600, 2610, 2710, 2810, 3410, 3430, 3440, 3450, 3820, 3920, 4570"
+          },
+          {
+            "course_code": "SPED2810",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, 2016#, SPED2520, 2540, 2600, 2610, 2710, 2810, 3410, 3430, 3440, 3450, 3820, 3920, 4570"
+          },
+          {
+            "course_code": "SPED3410",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, 2016#, SPED2520, 2540, 2600, 2610, 2710, 2810, 3410, 3430, 3440, 3450, 3820, 3920, 4570"
+          },
+          {
+            "course_code": "SPED3430",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, 2016#, SPED2520, 2540, 2600, 2610, 2710, 2810, 3410, 3430, 3440, 3450, 3820, 3920, 4570"
+          },
+          {
+            "course_code": "SPED3440",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, 2016#, SPED2520, 2540, 2600, 2610, 2710, 2810, 3410, 3430, 3440, 3450, 3820, 3920, 4570"
+          },
+          {
+            "course_code": "SPED3450",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, 2016#, SPED2520, 2540, 2600, 2610, 2710, 2810, 3410, 3430, 3440, 3450, 3820, 3920, 4570"
+          },
+          {
+            "course_code": "SPED3820",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, 2016#, SPED2520, 2540, 2600, 2610, 2710, 2810, 3410, 3430, 3440, 3450, 3820, 3920, 4570"
+          },
+          {
+            "course_code": "SPED3920",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, 2016#, SPED2520, 2540, 2600, 2610, 2710, 2810, 3410, 3430, 3440, 3450, 3820, 3920, 4570"
+          },
+          {
+            "course_code": "SPED4570",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, 2016#, SPED2520, 2540, 2600, 2610, 2710, 2810, 3410, 3430, 3440, 3450, 3820, 3920, 4570"
+          },
+          {
+            "course_code": "SPED2011",
+            "prefix_inferred": false,
+            "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2122, 2131, 2141, 2211, 3220, 3250"
+          },
+          {
+            "course_code": "SPED2021",
+            "prefix_inferred": true,
+            "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2122, 2131, 2141, 2211, 3220, 3250"
+          },
+          {
+            "course_code": "SPED2031",
+            "prefix_inferred": true,
+            "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2122, 2131, 2141, 2211, 3220, 3250"
+          },
+          {
+            "course_code": "SPED2041",
+            "prefix_inferred": true,
+            "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2122, 2131, 2141, 2211, 3220, 3250"
+          },
+          {
+            "course_code": "SPED2051",
+            "prefix_inferred": true,
+            "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2122, 2131, 2141, 2211, 3220, 3250"
+          },
+          {
+            "course_code": "SPED2061",
+            "prefix_inferred": true,
+            "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2122, 2131, 2141, 2211, 3220, 3250"
+          },
+          {
+            "course_code": "SPED2111",
+            "prefix_inferred": true,
+            "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2122, 2131, 2141, 2211, 3220, 3250"
+          },
+          {
+            "course_code": "SPED2122",
+            "prefix_inferred": true,
+            "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2122, 2131, 2141, 2211, 3220, 3250"
+          },
+          {
+            "course_code": "SPED2131",
+            "prefix_inferred": true,
+            "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2122, 2131, 2141, 2211, 3220, 3250"
+          },
+          {
+            "course_code": "SPED2141",
+            "prefix_inferred": true,
+            "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2122, 2131, 2141, 2211, 3220, 3250"
+          },
+          {
+            "course_code": "SPED2211",
+            "prefix_inferred": true,
+            "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2122, 2131, 2141, 2211, 3220, 3250"
+          },
+          {
+            "course_code": "SPED3220",
+            "prefix_inferred": true,
+            "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2122, 2131, 2141, 2211, 3220, 3250"
+          },
+          {
+            "course_code": "SPED3250",
+            "prefix_inferred": true,
+            "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2122, 2131, 2141, 2211, 3220, 3250"
+          },
+          {
+            "course_code": "EDUC2240",
+            "prefix_inferred": false,
+            "evidence": "EDUC2240, 3201, 3311, 4340"
+          },
+          {
+            "course_code": "EDUC3201",
+            "prefix_inferred": true,
+            "evidence": "EDUC2240, 3201, 3311, 4340"
+          },
+          {
+            "course_code": "EDUC3311",
+            "prefix_inferred": true,
+            "evidence": "EDUC2240, 3201, 3311, 4340"
+          },
+          {
+            "course_code": "EDUC4340",
+            "prefix_inferred": true,
+            "evidence": "EDUC2240, 3201, 3311, 4340"
+          },
+          {
+            "course_code": "SPED3400",
+            "prefix_inferred": false,
+            "evidence": "SPED3400[a], 4400[a]"
+          },
+          {
+            "course_code": "SPED4400",
+            "prefix_inferred": true,
+            "evidence": "SPED3400[a], 4400[a]"
+          },
+          {
+            "course_code": "SPED4201",
+            "prefix_inferred": false,
+            "evidence": "SPED4201[a]"
+          },
+          {
+            "course_code": "SPED3630",
+            "prefix_inferred": false,
+            "evidence": "SPED3630[a], 4900[a]"
+          },
+          {
+            "course_code": "SPED4900",
+            "prefix_inferred": true,
+            "evidence": "SPED3630[a], 4900[a]"
+          }
+        ],
+        "raw_text": "(a)\nCore Courses in Physical Education, Exercise Science and Health\n44\nPHPC1001, 2016#, SPED2520, 2540, 2600, 2610, 2710, 2810, 3410, 3430, 3440, 3450, 3820, 3920, 4570\n(b)\nCore Courses in Professional Skills\n13\nSPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2122, 2131, 2141, 2211, 3220, 3250\n(c)\nCourses in Educational Studies\n10\nEDUC2240, 3201, 3311, 4340\n(d)\nTeaching Practice\n8\nSPED3400[a], 4400[a]\n(e)\nInternship\n2\nSPED4201[a]\n(f)\nResearch Experience\n6\nSPED3630[a], 4900[a]"
+      },
+      {
+        "number": 3,
+        "title": "Elective Courses",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "CHPR4012",
+            "prefix_inferred": false,
+            "evidence": "CHPR4012#, PHPC2007#, 2009#, SPED3550, 3700, 3731, 3910, 4560, 4640, 4830"
+          },
+          {
+            "course_code": "PHPC2007",
+            "prefix_inferred": false,
+            "evidence": "CHPR4012#, PHPC2007#, 2009#, SPED3550, 3700, 3731, 3910, 4560, 4640, 4830"
+          },
+          {
+            "course_code": "PHPC2009",
+            "prefix_inferred": true,
+            "evidence": "CHPR4012#, PHPC2007#, 2009#, SPED3550, 3700, 3731, 3910, 4560, 4640, 4830"
+          },
+          {
+            "course_code": "SPED3550",
+            "prefix_inferred": false,
+            "evidence": "CHPR4012#, PHPC2007#, 2009#, SPED3550, 3700, 3731, 3910, 4560, 4640, 4830"
+          },
+          {
+            "course_code": "SPED3700",
+            "prefix_inferred": true,
+            "evidence": "CHPR4012#, PHPC2007#, 2009#, SPED3550, 3700, 3731, 3910, 4560, 4640, 4830"
+          },
+          {
+            "course_code": "SPED3731",
+            "prefix_inferred": true,
+            "evidence": "CHPR4012#, PHPC2007#, 2009#, SPED3550, 3700, 3731, 3910, 4560, 4640, 4830"
+          },
+          {
+            "course_code": "SPED3910",
+            "prefix_inferred": true,
+            "evidence": "CHPR4012#, PHPC2007#, 2009#, SPED3550, 3700, 3731, 3910, 4560, 4640, 4830"
+          },
+          {
+            "course_code": "SPED4560",
+            "prefix_inferred": true,
+            "evidence": "CHPR4012#, PHPC2007#, 2009#, SPED3550, 3700, 3731, 3910, 4560, 4640, 4830"
+          },
+          {
+            "course_code": "SPED4640",
+            "prefix_inferred": true,
+            "evidence": "CHPR4012#, PHPC2007#, 2009#, SPED3550, 3700, 3731, 3910, 4560, 4640, 4830"
+          },
+          {
+            "course_code": "SPED4830",
+            "prefix_inferred": true,
+            "evidence": "CHPR4012#, PHPC2007#, 2009#, SPED3550, 3700, 3731, 3910, 4560, 4640, 4830"
+          },
+          {
+            "course_code": "SPED2112",
+            "prefix_inferred": false,
+            "evidence": "SPED2112, 2134"
+          },
+          {
+            "course_code": "SPED2134",
+            "prefix_inferred": true,
+            "evidence": "SPED2112, 2134"
+          },
+          {
+            "course_code": "EDUC2210",
+            "prefix_inferred": false,
+            "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+          },
+          {
+            "course_code": "EDUC2220",
+            "prefix_inferred": true,
+            "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+          },
+          {
+            "course_code": "EDUC3140",
+            "prefix_inferred": true,
+            "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+          },
+          {
+            "course_code": "EDUC3150",
+            "prefix_inferred": true,
+            "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+          },
+          {
+            "course_code": "EDUC3200",
+            "prefix_inferred": true,
+            "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+          },
+          {
+            "course_code": "EDUC3260",
+            "prefix_inferred": true,
+            "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+          },
+          {
+            "course_code": "EDUC3270",
+            "prefix_inferred": true,
+            "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+          },
+          {
+            "course_code": "EDUC3280",
+            "prefix_inferred": true,
+            "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+          },
+          {
+            "course_code": "EDUC3290",
+            "prefix_inferred": true,
+            "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+          },
+          {
+            "course_code": "EDUC4110",
+            "prefix_inferred": true,
+            "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+          },
+          {
+            "course_code": "EDUC4131",
+            "prefix_inferred": true,
+            "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+          },
+          {
+            "course_code": "EDUC4320",
+            "prefix_inferred": true,
+            "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+          },
+          {
+            "course_code": "EDUC4330",
+            "prefix_inferred": true,
+            "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+          }
+        ],
+        "raw_text": "(a)\nTheoretical Courses in Physical Education, Exercise Science and Health\n9\nThree courses chosen from the following:\nCHPR4012#, PHPC2007#, 2009#, SPED3550, 3700, 3731, 3910, 4560, 4640, 4830\n(b)\nCourses in Professional Skills\n1\nOne course chosen from the following:\nSPED2112, 2134\n(c)\nCourses in Educational Studies\n2\nOne course chosen from the following:\nEDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330\nTotal:\n104\nExplanatory Notes:"
+      },
+      {
+        "number": 1,
+        "title": "Elective Courses",
+        "units_as_printed": "3",
+        "course_mentions": [
+          {
+            "course_code": "SPED2011",
+            "prefix_inferred": false,
+            "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2112, 2122, 2131, 2134, 2141, 2211, 3220, 3250"
+          },
+          {
+            "course_code": "SPED2021",
+            "prefix_inferred": true,
+            "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2112, 2122, 2131, 2134, 2141, 2211, 3220, 3250"
+          },
+          {
+            "course_code": "SPED2031",
+            "prefix_inferred": true,
+            "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2112, 2122, 2131, 2134, 2141, 2211, 3220, 3250"
+          },
+          {
+            "course_code": "SPED2041",
+            "prefix_inferred": true,
+            "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2112, 2122, 2131, 2134, 2141, 2211, 3220, 3250"
+          },
+          {
+            "course_code": "SPED2051",
+            "prefix_inferred": true,
+            "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2112, 2122, 2131, 2134, 2141, 2211, 3220, 3250"
+          },
+          {
+            "course_code": "SPED2061",
+            "prefix_inferred": true,
+            "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2112, 2122, 2131, 2134, 2141, 2211, 3220, 3250"
+          },
+          {
+            "course_code": "SPED2111",
+            "prefix_inferred": true,
+            "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2112, 2122, 2131, 2134, 2141, 2211, 3220, 3250"
+          },
+          {
+            "course_code": "SPED2112",
+            "prefix_inferred": true,
+            "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2112, 2122, 2131, 2134, 2141, 2211, 3220, 3250"
+          },
+          {
+            "course_code": "SPED2122",
+            "prefix_inferred": true,
+            "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2112, 2122, 2131, 2134, 2141, 2211, 3220, 3250"
+          },
+          {
+            "course_code": "SPED2131",
+            "prefix_inferred": true,
+            "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2112, 2122, 2131, 2134, 2141, 2211, 3220, 3250"
+          },
+          {
+            "course_code": "SPED2134",
+            "prefix_inferred": true,
+            "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2112, 2122, 2131, 2134, 2141, 2211, 3220, 3250"
+          },
+          {
+            "course_code": "SPED2141",
+            "prefix_inferred": true,
+            "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2112, 2122, 2131, 2134, 2141, 2211, 3220, 3250"
+          },
+          {
+            "course_code": "SPED2211",
+            "prefix_inferred": true,
+            "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2112, 2122, 2131, 2134, 2141, 2211, 3220, 3250"
+          },
+          {
+            "course_code": "SPED3220",
+            "prefix_inferred": true,
+            "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2112, 2122, 2131, 2134, 2141, 2211, 3220, 3250"
+          },
+          {
+            "course_code": "SPED3250",
+            "prefix_inferred": true,
+            "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2112, 2122, 2131, 2134, 2141, 2211, 3220, 3250"
+          },
+          {
+            "course_code": "PHPC1001",
+            "prefix_inferred": false,
+            "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+          },
+          {
+            "course_code": "PHPC2007",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+          },
+          {
+            "course_code": "PHPC2016",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+          },
+          {
+            "course_code": "SPED2520",
+            "prefix_inferred": false,
+            "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+          },
+          {
+            "course_code": "SPED2540",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+          },
+          {
+            "course_code": "SPED2600",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+          },
+          {
+            "course_code": "SPED2610",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+          },
+          {
+            "course_code": "SPED2710",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+          },
+          {
+            "course_code": "SPED2720",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+          },
+          {
+            "course_code": "SPED2810",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+          },
+          {
+            "course_code": "SPED3410",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+          },
+          {
+            "course_code": "SPED3430",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+          },
+          {
+            "course_code": "SPED3440",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+          },
+          {
+            "course_code": "SPED3450",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+          },
+          {
+            "course_code": "SPED3550",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+          },
+          {
+            "course_code": "SPED3630",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+          },
+          {
+            "course_code": "SPED3731",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+          },
+          {
+            "course_code": "SPED3820",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+          },
+          {
+            "course_code": "SPED3910",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+          },
+          {
+            "course_code": "SPED3920",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+          },
+          {
+            "course_code": "SPED4560",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+          },
+          {
+            "course_code": "SPED4570",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+          },
+          {
+            "course_code": "SPED4640",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+          },
+          {
+            "course_code": "SPED4830",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+          },
+          {
+            "course_code": "SPED4900",
+            "prefix_inferred": true,
+            "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+          },
+          {
+            "course_code": "EDUC2120",
+            "prefix_inferred": false,
+            "evidence": "EDUC2120"
+          },
+          {
+            "course_code": "EDUC2210",
+            "prefix_inferred": false,
+            "evidence": "EDUC2210"
+          },
+          {
+            "course_code": "EDUC2220",
+            "prefix_inferred": false,
+            "evidence": "EDUC2220"
+          },
+          {
+            "course_code": "EDUC2240",
+            "prefix_inferred": false,
+            "evidence": "EDUC2240"
+          },
+          {
+            "course_code": "EDUC2312",
+            "prefix_inferred": false,
+            "evidence": "EDUC2312"
+          },
+          {
+            "course_code": "EDUC3140",
+            "prefix_inferred": false,
+            "evidence": "EDUC3140"
+          },
+          {
+            "course_code": "EDUC3150",
+            "prefix_inferred": false,
+            "evidence": "EDUC3150"
+          },
+          {
+            "course_code": "EDUC3200",
+            "prefix_inferred": false,
+            "evidence": "EDUC3200"
+          },
+          {
+            "course_code": "EDUC3201",
+            "prefix_inferred": false,
+            "evidence": "EDUC3201"
+          },
+          {
+            "course_code": "EDUC3260",
+            "prefix_inferred": false,
+            "evidence": "EDUC3260"
+          },
+          {
+            "course_code": "EDUC3270",
+            "prefix_inferred": false,
+            "evidence": "EDUC3270"
+          },
+          {
+            "course_code": "EDUC3280",
+            "prefix_inferred": false,
+            "evidence": "EDUC3280"
+          },
+          {
+            "course_code": "EDUC3290",
+            "prefix_inferred": false,
+            "evidence": "EDUC3290"
+          },
+          {
+            "course_code": "EDUC3311",
+            "prefix_inferred": false,
+            "evidence": "EDUC3311"
+          },
+          {
+            "course_code": "EDUC4110",
+            "prefix_inferred": false,
+            "evidence": "EDUC4110"
+          },
+          {
+            "course_code": "EDUC4131",
+            "prefix_inferred": false,
+            "evidence": "EDUC4131"
+          },
+          {
+            "course_code": "EDUC4320",
+            "prefix_inferred": false,
+            "evidence": "EDUC4320"
+          },
+          {
+            "course_code": "EDUC4330",
+            "prefix_inferred": false,
+            "evidence": "EDUC4330"
+          },
+          {
+            "course_code": "EDUC4340",
+            "prefix_inferred": false,
+            "evidence": "EDUC4340"
+          },
+          {
+            "course_code": "SPED2011",
+            "prefix_inferred": false,
+            "evidence": "SPED2011"
+          },
+          {
+            "course_code": "SPED2021",
+            "prefix_inferred": false,
+            "evidence": "SPED2021"
+          },
+          {
+            "course_code": "SPED2031",
+            "prefix_inferred": false,
+            "evidence": "SPED2031"
+          },
+          {
+            "course_code": "SPED2041",
+            "prefix_inferred": false,
+            "evidence": "SPED2041"
+          },
+          {
+            "course_code": "SPED2051",
+            "prefix_inferred": false,
+            "evidence": "SPED2051"
+          },
+          {
+            "course_code": "SPED2061",
+            "prefix_inferred": false,
+            "evidence": "SPED2061"
+          },
+          {
+            "course_code": "SPED2111",
+            "prefix_inferred": false,
+            "evidence": "SPED2111"
+          },
+          {
+            "course_code": "SPED2112",
+            "prefix_inferred": false,
+            "evidence": "SPED2112"
+          },
+          {
+            "course_code": "SPED2122",
+            "prefix_inferred": false,
+            "evidence": "SPED2122"
+          },
+          {
+            "course_code": "SPED2131",
+            "prefix_inferred": false,
+            "evidence": "SPED2131"
+          },
+          {
+            "course_code": "SPED2134",
+            "prefix_inferred": false,
+            "evidence": "SPED2134"
+          },
+          {
+            "course_code": "SPED2141",
+            "prefix_inferred": false,
+            "evidence": "SPED2141"
+          },
+          {
+            "course_code": "SPED2211",
+            "prefix_inferred": false,
+            "evidence": "SPED2211"
+          },
+          {
+            "course_code": "SPED2520",
+            "prefix_inferred": false,
+            "evidence": "SPED2520"
+          },
+          {
+            "course_code": "SPED2540",
+            "prefix_inferred": false,
+            "evidence": "SPED2540"
+          },
+          {
+            "course_code": "SPED2600",
+            "prefix_inferred": false,
+            "evidence": "SPED2600"
+          },
+          {
+            "course_code": "SPED2610",
+            "prefix_inferred": false,
+            "evidence": "SPED2610"
+          },
+          {
+            "course_code": "SPED2710",
+            "prefix_inferred": false,
+            "evidence": "SPED2710"
+          },
+          {
+            "course_code": "SPED2720",
+            "prefix_inferred": false,
+            "evidence": "SPED2720"
+          },
+          {
+            "course_code": "SPED2810",
+            "prefix_inferred": false,
+            "evidence": "SPED2810"
+          },
+          {
+            "course_code": "SPED3220",
+            "prefix_inferred": false,
+            "evidence": "SPED3220"
+          },
+          {
+            "course_code": "SPED3250",
+            "prefix_inferred": false,
+            "evidence": "SPED3250"
+          },
+          {
+            "course_code": "SPED3400",
+            "prefix_inferred": false,
+            "evidence": "SPED3400"
+          },
+          {
+            "course_code": "SPED3410",
+            "prefix_inferred": false,
+            "evidence": "SPED3410"
+          },
+          {
+            "course_code": "SPED3430",
+            "prefix_inferred": false,
+            "evidence": "SPED3430"
+          },
+          {
+            "course_code": "SPED3440",
+            "prefix_inferred": false,
+            "evidence": "SPED3440"
+          },
+          {
+            "course_code": "SPED3450",
+            "prefix_inferred": false,
+            "evidence": "SPED3450"
+          },
+          {
+            "course_code": "SPED3550",
+            "prefix_inferred": false,
+            "evidence": "SPED3550"
+          },
+          {
+            "course_code": "SPED3630",
+            "prefix_inferred": false,
+            "evidence": "SPED3630"
+          },
+          {
+            "course_code": "SPED3700",
+            "prefix_inferred": false,
+            "evidence": "SPED3700"
+          },
+          {
+            "course_code": "SPED3731",
+            "prefix_inferred": false,
+            "evidence": "SPED3731"
+          },
+          {
+            "course_code": "SPED3820",
+            "prefix_inferred": false,
+            "evidence": "SPED3820"
+          },
+          {
+            "course_code": "SPED3910",
+            "prefix_inferred": false,
+            "evidence": "SPED3910"
+          },
+          {
+            "course_code": "SPED3920",
+            "prefix_inferred": false,
+            "evidence": "SPED3920"
+          },
+          {
+            "course_code": "SPED4201",
+            "prefix_inferred": false,
+            "evidence": "SPED4201"
+          },
+          {
+            "course_code": "SPED4400",
+            "prefix_inferred": false,
+            "evidence": "SPED4400"
+          },
+          {
+            "course_code": "SPED4560",
+            "prefix_inferred": false,
+            "evidence": "SPED4560"
+          },
+          {
+            "course_code": "SPED4570",
+            "prefix_inferred": false,
+            "evidence": "SPED4570"
+          },
+          {
+            "course_code": "SPED4640",
+            "prefix_inferred": false,
+            "evidence": "SPED4640"
+          },
+          {
+            "course_code": "SPED4830",
+            "prefix_inferred": false,
+            "evidence": "SPED4830"
+          },
+          {
+            "course_code": "SPED4900",
+            "prefix_inferred": false,
+            "evidence": "SPED4900"
+          },
+          {
+            "course_code": "CHPR4012",
+            "prefix_inferred": false,
+            "evidence": "CHPR4012"
+          },
+          {
+            "course_code": "PHPC1001",
+            "prefix_inferred": false,
+            "evidence": "PHPC1001"
+          },
+          {
+            "course_code": "PHPC2007",
+            "prefix_inferred": false,
+            "evidence": "PHPC2007"
+          },
+          {
+            "course_code": "PHPC2009",
+            "prefix_inferred": false,
+            "evidence": "PHPC2009"
+          },
+          {
+            "course_code": "PHPC2016",
+            "prefix_inferred": false,
+            "evidence": "PHPC2016"
+          }
+        ],
+        "raw_text": "(a)\nProfessional Skills Courses\n3 units of courses chosen from the following:\n3\nSPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2112, 2122, 2131, 2134, 2141, 2211, 3220, 3250\n(b)\nTheoretical Courses\n15 units of courses chosen from the following:\n15\nPHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900\nTotal:\n18\nCourse List\nCourse Code\nCourse Title\nUnit(s)\nEDUC2120\nPrinciples and Implementation of Curriculum and Instructional Design\n3\nEDUC2210\nEducation and Society in Hong Kong\n2\nEDUC2220\nEducational Thought\n2\nEDUC2240\nUnderstanding Schooling and Education Policy in Hong Kong\n3\nEDUC2312\nChild and Adolescent Development\n3\nEDUC3140\nCurricular Strategies for Tackling Individual Differences\n2\nEDUC3150\nGlobal Dialogues on Education for Sustainable Development in the Curriculum\n2\nEDUC3200\nDeveloping Intercultural Competence: Experiential Learning\n3\nEDUC3201\nEthics and Professional Standards for Teachers\n2\nEDUC3260\nTeacher Development and Leadership\n2\nEDUC3270\nEngendering Education\n2\nEDUC3280\nAn Introduction to Moral and Citizenship Education\n2\nEDUC3290\nMeaning Concerns, Life and Death Education\n2\nEDUC3311\nPsychology Applied to Learning and Teaching\n3\nEDUC4110\nDynamic Curriculum Development for Innovative Learning Experiences\n2\nEDUC4131\ne-Learning in Schools\n2\nEDUC4320\nClassroom Management and School Discipline\n2\nEDUC4330\nSchool Guidance and Counselling\n2\nEDUC4340\nSupporting Students with Special Educational Needs\n2\nSPED2011\nTeaching Basketball: Theory and Practice\n1\nSPED2021\nTeaching Volleyball: Theory and Practice\n1\nSPED2031\nTeaching Soccer: Theory and Practice\n1\nSPED2041\nTeaching Handball: Theory and Practice\n1\nSPED2051\nTeaching Badminton: Theory and Practice\n1\nSPED2061\nTeaching Table Tennis: Theory and Practice\n1\nSPED2111\nTeaching Swimming I: Theory and Practice\n1\nSPED2112\nTeaching Swimming II: Theory and Practice\n1\nSPED2122\nFitness Training for Health and Sports Performance\n1\nSPED2131\nTeaching Track and Field Events I: Theory and Practice\n1\nSPED2134\nTeaching Track and Field Events II: Theory and Practice\n1\nSPED2141\nFundamental Movement and Dances\n1\nSPED2211\nTeaching Gymnastics: Theory and Practice\n1\nSPED2520\nFunctional Human Anatomy and Sports Injuries\n3\nSPED2540\nIntroduction to Exercise Physiology\n3\nSPED2600\nBasic Statistics, Test and Measurement for Physical Education\n3\nSPED2610\nIntroduction to Exercise Biomechanics\n3\nSPED2710\nSociology of Physical Education and Sports\n3\nSPED2720\nFoundation of Physical Education and Sports\n3\nSPED2810\nPsychomotor Learning\n3\nSPED3220\nAlternative Sports\n1\nSPED3250\nTeaching Dances: Theory and Practice\n1\nSPED3400\nTeaching Practice in Primary School\n4\nSPED3410\nCurriculum Planning for Physical Education\n3\nSPED3430\nAdministration and Management in Physical Education and Sports\n3\nSPED3440\nPedagogy of Secondary Physical Education\n3\nSPED3450\nPedagogy of Primary Physical Education\n3\nSPED3550\nPhysiology of Human Performance\n3\nSPED3630\nIntroduction to Research Methods\n3\nSPED3700\nSports and Health Technology\n3\nSPED3731\nSelected Topics in Sports Sociology\n3\nSPED3820\nIntroduction to Exercise and Sports Psychology\n3\nSPED3910\nAdapted Physical Education and Sports\n3\nSPED3920\nHuman Growth and Health Education\n3\nSPED4201\nInternship in Sports Industry\n2\nSPED4400\nTeaching Practice in Secondary School\n4\nSPED4560\nPhysical Fitness Appraisal and Exercise Prescription\n3\nSPED4570\nEducation and Promotion of Exercise and Health\n3\nSPED4640\nHuman Kinematics and Kinetics\n3\nSPED4830\nPsychological Aspects of Sports and Exercise\n3\nSPED4900\nResearch Project\n3\nCHPR4012\nMental Health as a Public Health Issue\n3\nPHPC1001\nFoundations in Public Health\n2\nPHPC2007\nNutrition and Health\n3\nPHPC2009\nEnvironment and Work\n3\nPHPC2016\nTheories and Concepts of Health Behaviours\n3\nStudy Scheme\nLearning Outcomes"
+      },
+      {
+        "number": 1,
+        "title": "Major Programme",
+        "units_as_printed": null,
+        "course_mentions": [],
+        "raw_text": "Graduates of the B.Ed. Programme in Physical Education, Exercise Science and Health (PESH) will be able to:\n(1)\neffectively perform and advance knowledge and professional skills in physical education, exercise science and health; (K/S)\n(2)\nmaster interpersonal and organization skills in the teaching and administration of physical and health education, as well as in sports training and coaching; (K/S)\n(3)\napply knowledge and skills learned from the field of physical education and exercise science towards advancement of human health, performance and quality of life through effective education, promotion, evaluation, research and development; (K/S)\n(4)\ndemonstrate leadership in administrative and managerial roles in the physical education, sports and health-related sectors; (K/S/V)\n(5)\ndisplay an informed, critical, and innovative approach to learning; (K/S/V)\n(6)\ndemonstrate an ability and readiness to embark on creative and new ventures of social value, in line with global and ethical values as professional teachers and leaders; (K/S/V) and\n(7)\ncontinue building upon their knowledge and skills after graduation, with an interest in learning as a lifelong process. (K/S/V)\nK = Knowledge outcomes S = Skills outcomes V = Values and attitude outcomes"
+      },
+      {
+        "number": 2,
+        "title": "Minor Programme",
+        "units_as_printed": null,
+        "course_mentions": [],
+        "raw_text": "Upon the completion of the Minor Programme, students will have demonstrated basic understanding of fundamental issues related to the subject, acquired knowledge of some aspects of the subject with sufficient exposure and at a suitable level to allow further study in this subject or related subjects or to pursue a related career."
+      }
+    ]
+  },
+  "all_course_mentions": [
+    {
+      "course_code": "EDUC2120",
+      "prefix_inferred": false,
+      "evidence": "EDUC2120, 2312, SPED2720"
+    },
+    {
+      "course_code": "EDUC2312",
+      "prefix_inferred": true,
+      "evidence": "EDUC2120, 2312, SPED2720"
+    },
+    {
+      "course_code": "SPED2720",
+      "prefix_inferred": false,
+      "evidence": "EDUC2120, 2312, SPED2720"
+    },
+    {
+      "course_code": "PHPC1001",
+      "prefix_inferred": false,
+      "evidence": "PHPC1001, 2016#, SPED2520, 2540, 2600, 2610, 2710, 2810, 3410, 3430, 3440, 3450, 3820, 3920, 4570"
+    },
+    {
+      "course_code": "PHPC2016",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, 2016#, SPED2520, 2540, 2600, 2610, 2710, 2810, 3410, 3430, 3440, 3450, 3820, 3920, 4570"
+    },
+    {
+      "course_code": "SPED2520",
+      "prefix_inferred": false,
+      "evidence": "PHPC1001, 2016#, SPED2520, 2540, 2600, 2610, 2710, 2810, 3410, 3430, 3440, 3450, 3820, 3920, 4570"
+    },
+    {
+      "course_code": "SPED2540",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, 2016#, SPED2520, 2540, 2600, 2610, 2710, 2810, 3410, 3430, 3440, 3450, 3820, 3920, 4570"
+    },
+    {
+      "course_code": "SPED2600",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, 2016#, SPED2520, 2540, 2600, 2610, 2710, 2810, 3410, 3430, 3440, 3450, 3820, 3920, 4570"
+    },
+    {
+      "course_code": "SPED2610",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, 2016#, SPED2520, 2540, 2600, 2610, 2710, 2810, 3410, 3430, 3440, 3450, 3820, 3920, 4570"
+    },
+    {
+      "course_code": "SPED2710",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, 2016#, SPED2520, 2540, 2600, 2610, 2710, 2810, 3410, 3430, 3440, 3450, 3820, 3920, 4570"
+    },
+    {
+      "course_code": "SPED2810",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, 2016#, SPED2520, 2540, 2600, 2610, 2710, 2810, 3410, 3430, 3440, 3450, 3820, 3920, 4570"
+    },
+    {
+      "course_code": "SPED3410",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, 2016#, SPED2520, 2540, 2600, 2610, 2710, 2810, 3410, 3430, 3440, 3450, 3820, 3920, 4570"
+    },
+    {
+      "course_code": "SPED3430",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, 2016#, SPED2520, 2540, 2600, 2610, 2710, 2810, 3410, 3430, 3440, 3450, 3820, 3920, 4570"
+    },
+    {
+      "course_code": "SPED3440",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, 2016#, SPED2520, 2540, 2600, 2610, 2710, 2810, 3410, 3430, 3440, 3450, 3820, 3920, 4570"
+    },
+    {
+      "course_code": "SPED3450",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, 2016#, SPED2520, 2540, 2600, 2610, 2710, 2810, 3410, 3430, 3440, 3450, 3820, 3920, 4570"
+    },
+    {
+      "course_code": "SPED3820",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, 2016#, SPED2520, 2540, 2600, 2610, 2710, 2810, 3410, 3430, 3440, 3450, 3820, 3920, 4570"
+    },
+    {
+      "course_code": "SPED3920",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, 2016#, SPED2520, 2540, 2600, 2610, 2710, 2810, 3410, 3430, 3440, 3450, 3820, 3920, 4570"
+    },
+    {
+      "course_code": "SPED4570",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, 2016#, SPED2520, 2540, 2600, 2610, 2710, 2810, 3410, 3430, 3440, 3450, 3820, 3920, 4570"
+    },
+    {
+      "course_code": "SPED2011",
+      "prefix_inferred": false,
+      "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2122, 2131, 2141, 2211, 3220, 3250"
+    },
+    {
+      "course_code": "SPED2021",
+      "prefix_inferred": true,
+      "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2122, 2131, 2141, 2211, 3220, 3250"
+    },
+    {
+      "course_code": "SPED2031",
+      "prefix_inferred": true,
+      "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2122, 2131, 2141, 2211, 3220, 3250"
+    },
+    {
+      "course_code": "SPED2041",
+      "prefix_inferred": true,
+      "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2122, 2131, 2141, 2211, 3220, 3250"
+    },
+    {
+      "course_code": "SPED2051",
+      "prefix_inferred": true,
+      "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2122, 2131, 2141, 2211, 3220, 3250"
+    },
+    {
+      "course_code": "SPED2061",
+      "prefix_inferred": true,
+      "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2122, 2131, 2141, 2211, 3220, 3250"
+    },
+    {
+      "course_code": "SPED2111",
+      "prefix_inferred": true,
+      "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2122, 2131, 2141, 2211, 3220, 3250"
+    },
+    {
+      "course_code": "SPED2122",
+      "prefix_inferred": true,
+      "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2122, 2131, 2141, 2211, 3220, 3250"
+    },
+    {
+      "course_code": "SPED2131",
+      "prefix_inferred": true,
+      "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2122, 2131, 2141, 2211, 3220, 3250"
+    },
+    {
+      "course_code": "SPED2141",
+      "prefix_inferred": true,
+      "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2122, 2131, 2141, 2211, 3220, 3250"
+    },
+    {
+      "course_code": "SPED2211",
+      "prefix_inferred": true,
+      "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2122, 2131, 2141, 2211, 3220, 3250"
+    },
+    {
+      "course_code": "SPED3220",
+      "prefix_inferred": true,
+      "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2122, 2131, 2141, 2211, 3220, 3250"
+    },
+    {
+      "course_code": "SPED3250",
+      "prefix_inferred": true,
+      "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2122, 2131, 2141, 2211, 3220, 3250"
+    },
+    {
+      "course_code": "EDUC2240",
+      "prefix_inferred": false,
+      "evidence": "EDUC2240, 3201, 3311, 4340"
+    },
+    {
+      "course_code": "EDUC3201",
+      "prefix_inferred": true,
+      "evidence": "EDUC2240, 3201, 3311, 4340"
+    },
+    {
+      "course_code": "EDUC3311",
+      "prefix_inferred": true,
+      "evidence": "EDUC2240, 3201, 3311, 4340"
+    },
+    {
+      "course_code": "EDUC4340",
+      "prefix_inferred": true,
+      "evidence": "EDUC2240, 3201, 3311, 4340"
+    },
+    {
+      "course_code": "SPED3400",
+      "prefix_inferred": false,
+      "evidence": "SPED3400[a], 4400[a]"
+    },
+    {
+      "course_code": "SPED4400",
+      "prefix_inferred": true,
+      "evidence": "SPED3400[a], 4400[a]"
+    },
+    {
+      "course_code": "SPED4201",
+      "prefix_inferred": false,
+      "evidence": "SPED4201[a]"
+    },
+    {
+      "course_code": "SPED3630",
+      "prefix_inferred": false,
+      "evidence": "SPED3630[a], 4900[a]"
+    },
+    {
+      "course_code": "SPED4900",
+      "prefix_inferred": true,
+      "evidence": "SPED3630[a], 4900[a]"
+    },
+    {
+      "course_code": "CHPR4012",
+      "prefix_inferred": false,
+      "evidence": "CHPR4012#, PHPC2007#, 2009#, SPED3550, 3700, 3731, 3910, 4560, 4640, 4830"
+    },
+    {
+      "course_code": "PHPC2007",
+      "prefix_inferred": false,
+      "evidence": "CHPR4012#, PHPC2007#, 2009#, SPED3550, 3700, 3731, 3910, 4560, 4640, 4830"
+    },
+    {
+      "course_code": "PHPC2009",
+      "prefix_inferred": true,
+      "evidence": "CHPR4012#, PHPC2007#, 2009#, SPED3550, 3700, 3731, 3910, 4560, 4640, 4830"
+    },
+    {
+      "course_code": "SPED3550",
+      "prefix_inferred": false,
+      "evidence": "CHPR4012#, PHPC2007#, 2009#, SPED3550, 3700, 3731, 3910, 4560, 4640, 4830"
+    },
+    {
+      "course_code": "SPED3700",
+      "prefix_inferred": true,
+      "evidence": "CHPR4012#, PHPC2007#, 2009#, SPED3550, 3700, 3731, 3910, 4560, 4640, 4830"
+    },
+    {
+      "course_code": "SPED3731",
+      "prefix_inferred": true,
+      "evidence": "CHPR4012#, PHPC2007#, 2009#, SPED3550, 3700, 3731, 3910, 4560, 4640, 4830"
+    },
+    {
+      "course_code": "SPED3910",
+      "prefix_inferred": true,
+      "evidence": "CHPR4012#, PHPC2007#, 2009#, SPED3550, 3700, 3731, 3910, 4560, 4640, 4830"
+    },
+    {
+      "course_code": "SPED4560",
+      "prefix_inferred": true,
+      "evidence": "CHPR4012#, PHPC2007#, 2009#, SPED3550, 3700, 3731, 3910, 4560, 4640, 4830"
+    },
+    {
+      "course_code": "SPED4640",
+      "prefix_inferred": true,
+      "evidence": "CHPR4012#, PHPC2007#, 2009#, SPED3550, 3700, 3731, 3910, 4560, 4640, 4830"
+    },
+    {
+      "course_code": "SPED4830",
+      "prefix_inferred": true,
+      "evidence": "CHPR4012#, PHPC2007#, 2009#, SPED3550, 3700, 3731, 3910, 4560, 4640, 4830"
+    },
+    {
+      "course_code": "SPED2112",
+      "prefix_inferred": false,
+      "evidence": "SPED2112, 2134"
+    },
+    {
+      "course_code": "SPED2134",
+      "prefix_inferred": true,
+      "evidence": "SPED2112, 2134"
+    },
+    {
+      "course_code": "EDUC2210",
+      "prefix_inferred": false,
+      "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+    },
+    {
+      "course_code": "EDUC2220",
+      "prefix_inferred": true,
+      "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+    },
+    {
+      "course_code": "EDUC3140",
+      "prefix_inferred": true,
+      "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+    },
+    {
+      "course_code": "EDUC3150",
+      "prefix_inferred": true,
+      "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+    },
+    {
+      "course_code": "EDUC3200",
+      "prefix_inferred": true,
+      "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+    },
+    {
+      "course_code": "EDUC3260",
+      "prefix_inferred": true,
+      "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+    },
+    {
+      "course_code": "EDUC3270",
+      "prefix_inferred": true,
+      "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+    },
+    {
+      "course_code": "EDUC3280",
+      "prefix_inferred": true,
+      "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+    },
+    {
+      "course_code": "EDUC3290",
+      "prefix_inferred": true,
+      "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+    },
+    {
+      "course_code": "EDUC4110",
+      "prefix_inferred": true,
+      "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+    },
+    {
+      "course_code": "EDUC4131",
+      "prefix_inferred": true,
+      "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+    },
+    {
+      "course_code": "EDUC4320",
+      "prefix_inferred": true,
+      "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+    },
+    {
+      "course_code": "EDUC4330",
+      "prefix_inferred": true,
+      "evidence": "EDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330"
+    },
+    {
+      "course_code": "EDUC2312",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: EDUC2312, SPED2720"
+    },
+    {
+      "course_code": "SPED2720",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: EDUC2312, SPED2720"
+    },
+    {
+      "course_code": "SPED2111",
+      "prefix_inferred": false,
+      "evidence": "Major Required: SPED2111, 2141, 2520"
+    },
+    {
+      "course_code": "SPED2141",
+      "prefix_inferred": true,
+      "evidence": "Major Required: SPED2111, 2141, 2520"
+    },
+    {
+      "course_code": "SPED2520",
+      "prefix_inferred": true,
+      "evidence": "Major Required: SPED2111, 2141, 2520"
+    },
+    {
+      "course_code": "EDUC2120",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: EDUC2120"
+    },
+    {
+      "course_code": "SPED2041",
+      "prefix_inferred": false,
+      "evidence": "Major Required: SPED2041, 2061, 2710"
+    },
+    {
+      "course_code": "SPED2061",
+      "prefix_inferred": true,
+      "evidence": "Major Required: SPED2041, 2061, 2710"
+    },
+    {
+      "course_code": "SPED2710",
+      "prefix_inferred": true,
+      "evidence": "Major Required: SPED2041, 2061, 2710"
+    },
+    {
+      "course_code": "PHPC1001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: PHPC1001, SPED2122, 2211"
+    },
+    {
+      "course_code": "SPED2122",
+      "prefix_inferred": false,
+      "evidence": "Major Required: PHPC1001, SPED2122, 2211"
+    },
+    {
+      "course_code": "SPED2211",
+      "prefix_inferred": true,
+      "evidence": "Major Required: PHPC1001, SPED2122, 2211"
+    },
+    {
+      "course_code": "EDUC3201",
+      "prefix_inferred": false,
+      "evidence": "EDUC Required: EDUC3201 (study term TBA)"
+    },
+    {
+      "course_code": "SPED2011",
+      "prefix_inferred": false,
+      "evidence": "Major Required: SPED2011, 2051, 2540, 2810, 3430"
+    },
+    {
+      "course_code": "SPED2051",
+      "prefix_inferred": true,
+      "evidence": "Major Required: SPED2011, 2051, 2540, 2810, 3430"
+    },
+    {
+      "course_code": "SPED2540",
+      "prefix_inferred": true,
+      "evidence": "Major Required: SPED2011, 2051, 2540, 2810, 3430"
+    },
+    {
+      "course_code": "SPED2810",
+      "prefix_inferred": true,
+      "evidence": "Major Required: SPED2011, 2051, 2540, 2810, 3430"
+    },
+    {
+      "course_code": "SPED3430",
+      "prefix_inferred": true,
+      "evidence": "Major Required: SPED2011, 2051, 2540, 2810, 3430"
+    },
+    {
+      "course_code": "SPED2021",
+      "prefix_inferred": false,
+      "evidence": "Major Required: SPED2021, 2131, 3450, 3820"
+    },
+    {
+      "course_code": "SPED2131",
+      "prefix_inferred": true,
+      "evidence": "Major Required: SPED2021, 2131, 3450, 3820"
+    },
+    {
+      "course_code": "SPED3450",
+      "prefix_inferred": true,
+      "evidence": "Major Required: SPED2021, 2131, 3450, 3820"
+    },
+    {
+      "course_code": "SPED3820",
+      "prefix_inferred": true,
+      "evidence": "Major Required: SPED2021, 2131, 3450, 3820"
+    },
+    {
+      "course_code": "EDUC2240",
+      "prefix_inferred": false,
+      "evidence": "EDUC Required: EDUC2240"
+    },
+    {
+      "course_code": "SPED2610",
+      "prefix_inferred": false,
+      "evidence": "Major Required: SPED2610, 3250, 3400, 4201"
+    },
+    {
+      "course_code": "SPED3250",
+      "prefix_inferred": true,
+      "evidence": "Major Required: SPED2610, 3250, 3400, 4201"
+    },
+    {
+      "course_code": "SPED3400",
+      "prefix_inferred": true,
+      "evidence": "Major Required: SPED2610, 3250, 3400, 4201"
+    },
+    {
+      "course_code": "SPED4201",
+      "prefix_inferred": true,
+      "evidence": "Major Required: SPED2610, 3250, 3400, 4201"
+    },
+    {
+      "course_code": "PHPC2016",
+      "prefix_inferred": false,
+      "evidence": "Major Required: PHPC2016, SPED2031, 2600, 3410"
+    },
+    {
+      "course_code": "SPED2031",
+      "prefix_inferred": false,
+      "evidence": "Major Required: PHPC2016, SPED2031, 2600, 3410"
+    },
+    {
+      "course_code": "SPED2600",
+      "prefix_inferred": true,
+      "evidence": "Major Required: PHPC2016, SPED2031, 2600, 3410"
+    },
+    {
+      "course_code": "SPED3410",
+      "prefix_inferred": true,
+      "evidence": "Major Required: PHPC2016, SPED2031, 2600, 3410"
+    },
+    {
+      "course_code": "EDUC3311",
+      "prefix_inferred": false,
+      "evidence": "EDUC Required: EDUC3311 (study term TBA)"
+    },
+    {
+      "course_code": "SPED3220",
+      "prefix_inferred": false,
+      "evidence": "Major Required: SPED3220, 3630, 3920"
+    },
+    {
+      "course_code": "SPED3630",
+      "prefix_inferred": true,
+      "evidence": "Major Required: SPED3220, 3630, 3920"
+    },
+    {
+      "course_code": "SPED3920",
+      "prefix_inferred": true,
+      "evidence": "Major Required: SPED3220, 3630, 3920"
+    },
+    {
+      "course_code": "SPED3440",
+      "prefix_inferred": false,
+      "evidence": "Major Required: SPED3440, 4570"
+    },
+    {
+      "course_code": "SPED4570",
+      "prefix_inferred": true,
+      "evidence": "Major Required: SPED3440, 4570"
+    },
+    {
+      "course_code": "EDUC4340",
+      "prefix_inferred": false,
+      "evidence": "EDUC Required: EDUC4340"
+    },
+    {
+      "course_code": "SPED4400",
+      "prefix_inferred": false,
+      "evidence": "Major Required: SPED4400, 4900"
+    },
+    {
+      "course_code": "SPED4900",
+      "prefix_inferred": true,
+      "evidence": "Major Required: SPED4400, 4900"
+    },
+    {
+      "course_code": "SPED2011",
+      "prefix_inferred": false,
+      "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2112, 2122, 2131, 2134, 2141, 2211, 3220, 3250"
+    },
+    {
+      "course_code": "SPED2021",
+      "prefix_inferred": true,
+      "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2112, 2122, 2131, 2134, 2141, 2211, 3220, 3250"
+    },
+    {
+      "course_code": "SPED2031",
+      "prefix_inferred": true,
+      "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2112, 2122, 2131, 2134, 2141, 2211, 3220, 3250"
+    },
+    {
+      "course_code": "SPED2041",
+      "prefix_inferred": true,
+      "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2112, 2122, 2131, 2134, 2141, 2211, 3220, 3250"
+    },
+    {
+      "course_code": "SPED2051",
+      "prefix_inferred": true,
+      "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2112, 2122, 2131, 2134, 2141, 2211, 3220, 3250"
+    },
+    {
+      "course_code": "SPED2061",
+      "prefix_inferred": true,
+      "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2112, 2122, 2131, 2134, 2141, 2211, 3220, 3250"
+    },
+    {
+      "course_code": "SPED2111",
+      "prefix_inferred": true,
+      "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2112, 2122, 2131, 2134, 2141, 2211, 3220, 3250"
+    },
+    {
+      "course_code": "SPED2112",
+      "prefix_inferred": true,
+      "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2112, 2122, 2131, 2134, 2141, 2211, 3220, 3250"
+    },
+    {
+      "course_code": "SPED2122",
+      "prefix_inferred": true,
+      "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2112, 2122, 2131, 2134, 2141, 2211, 3220, 3250"
+    },
+    {
+      "course_code": "SPED2131",
+      "prefix_inferred": true,
+      "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2112, 2122, 2131, 2134, 2141, 2211, 3220, 3250"
+    },
+    {
+      "course_code": "SPED2134",
+      "prefix_inferred": true,
+      "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2112, 2122, 2131, 2134, 2141, 2211, 3220, 3250"
+    },
+    {
+      "course_code": "SPED2141",
+      "prefix_inferred": true,
+      "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2112, 2122, 2131, 2134, 2141, 2211, 3220, 3250"
+    },
+    {
+      "course_code": "SPED2211",
+      "prefix_inferred": true,
+      "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2112, 2122, 2131, 2134, 2141, 2211, 3220, 3250"
+    },
+    {
+      "course_code": "SPED3220",
+      "prefix_inferred": true,
+      "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2112, 2122, 2131, 2134, 2141, 2211, 3220, 3250"
+    },
+    {
+      "course_code": "SPED3250",
+      "prefix_inferred": true,
+      "evidence": "SPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2112, 2122, 2131, 2134, 2141, 2211, 3220, 3250"
+    },
+    {
+      "course_code": "PHPC1001",
+      "prefix_inferred": false,
+      "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+    },
+    {
+      "course_code": "PHPC2007",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+    },
+    {
+      "course_code": "PHPC2016",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+    },
+    {
+      "course_code": "SPED2520",
+      "prefix_inferred": false,
+      "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+    },
+    {
+      "course_code": "SPED2540",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+    },
+    {
+      "course_code": "SPED2600",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+    },
+    {
+      "course_code": "SPED2610",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+    },
+    {
+      "course_code": "SPED2710",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+    },
+    {
+      "course_code": "SPED2720",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+    },
+    {
+      "course_code": "SPED2810",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+    },
+    {
+      "course_code": "SPED3410",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+    },
+    {
+      "course_code": "SPED3430",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+    },
+    {
+      "course_code": "SPED3440",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+    },
+    {
+      "course_code": "SPED3450",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+    },
+    {
+      "course_code": "SPED3550",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+    },
+    {
+      "course_code": "SPED3630",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+    },
+    {
+      "course_code": "SPED3731",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+    },
+    {
+      "course_code": "SPED3820",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+    },
+    {
+      "course_code": "SPED3910",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+    },
+    {
+      "course_code": "SPED3920",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+    },
+    {
+      "course_code": "SPED4560",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+    },
+    {
+      "course_code": "SPED4570",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+    },
+    {
+      "course_code": "SPED4640",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+    },
+    {
+      "course_code": "SPED4830",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+    },
+    {
+      "course_code": "SPED4900",
+      "prefix_inferred": true,
+      "evidence": "PHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900"
+    },
+    {
+      "course_code": "EDUC2120",
+      "prefix_inferred": false,
+      "evidence": "EDUC2120"
+    },
+    {
+      "course_code": "EDUC2210",
+      "prefix_inferred": false,
+      "evidence": "EDUC2210"
+    },
+    {
+      "course_code": "EDUC2220",
+      "prefix_inferred": false,
+      "evidence": "EDUC2220"
+    },
+    {
+      "course_code": "EDUC2240",
+      "prefix_inferred": false,
+      "evidence": "EDUC2240"
+    },
+    {
+      "course_code": "EDUC2312",
+      "prefix_inferred": false,
+      "evidence": "EDUC2312"
+    },
+    {
+      "course_code": "EDUC3140",
+      "prefix_inferred": false,
+      "evidence": "EDUC3140"
+    },
+    {
+      "course_code": "EDUC3150",
+      "prefix_inferred": false,
+      "evidence": "EDUC3150"
+    },
+    {
+      "course_code": "EDUC3200",
+      "prefix_inferred": false,
+      "evidence": "EDUC3200"
+    },
+    {
+      "course_code": "EDUC3201",
+      "prefix_inferred": false,
+      "evidence": "EDUC3201"
+    },
+    {
+      "course_code": "EDUC3260",
+      "prefix_inferred": false,
+      "evidence": "EDUC3260"
+    },
+    {
+      "course_code": "EDUC3270",
+      "prefix_inferred": false,
+      "evidence": "EDUC3270"
+    },
+    {
+      "course_code": "EDUC3280",
+      "prefix_inferred": false,
+      "evidence": "EDUC3280"
+    },
+    {
+      "course_code": "EDUC3290",
+      "prefix_inferred": false,
+      "evidence": "EDUC3290"
+    },
+    {
+      "course_code": "EDUC3311",
+      "prefix_inferred": false,
+      "evidence": "EDUC3311"
+    },
+    {
+      "course_code": "EDUC4110",
+      "prefix_inferred": false,
+      "evidence": "EDUC4110"
+    },
+    {
+      "course_code": "EDUC4131",
+      "prefix_inferred": false,
+      "evidence": "EDUC4131"
+    },
+    {
+      "course_code": "EDUC4320",
+      "prefix_inferred": false,
+      "evidence": "EDUC4320"
+    },
+    {
+      "course_code": "EDUC4330",
+      "prefix_inferred": false,
+      "evidence": "EDUC4330"
+    },
+    {
+      "course_code": "EDUC4340",
+      "prefix_inferred": false,
+      "evidence": "EDUC4340"
+    },
+    {
+      "course_code": "SPED2011",
+      "prefix_inferred": false,
+      "evidence": "SPED2011"
+    },
+    {
+      "course_code": "SPED2021",
+      "prefix_inferred": false,
+      "evidence": "SPED2021"
+    },
+    {
+      "course_code": "SPED2031",
+      "prefix_inferred": false,
+      "evidence": "SPED2031"
+    },
+    {
+      "course_code": "SPED2041",
+      "prefix_inferred": false,
+      "evidence": "SPED2041"
+    },
+    {
+      "course_code": "SPED2051",
+      "prefix_inferred": false,
+      "evidence": "SPED2051"
+    },
+    {
+      "course_code": "SPED2061",
+      "prefix_inferred": false,
+      "evidence": "SPED2061"
+    },
+    {
+      "course_code": "SPED2111",
+      "prefix_inferred": false,
+      "evidence": "SPED2111"
+    },
+    {
+      "course_code": "SPED2112",
+      "prefix_inferred": false,
+      "evidence": "SPED2112"
+    },
+    {
+      "course_code": "SPED2122",
+      "prefix_inferred": false,
+      "evidence": "SPED2122"
+    },
+    {
+      "course_code": "SPED2131",
+      "prefix_inferred": false,
+      "evidence": "SPED2131"
+    },
+    {
+      "course_code": "SPED2134",
+      "prefix_inferred": false,
+      "evidence": "SPED2134"
+    },
+    {
+      "course_code": "SPED2141",
+      "prefix_inferred": false,
+      "evidence": "SPED2141"
+    },
+    {
+      "course_code": "SPED2211",
+      "prefix_inferred": false,
+      "evidence": "SPED2211"
+    },
+    {
+      "course_code": "SPED2520",
+      "prefix_inferred": false,
+      "evidence": "SPED2520"
+    },
+    {
+      "course_code": "SPED2540",
+      "prefix_inferred": false,
+      "evidence": "SPED2540"
+    },
+    {
+      "course_code": "SPED2600",
+      "prefix_inferred": false,
+      "evidence": "SPED2600"
+    },
+    {
+      "course_code": "SPED2610",
+      "prefix_inferred": false,
+      "evidence": "SPED2610"
+    },
+    {
+      "course_code": "SPED2710",
+      "prefix_inferred": false,
+      "evidence": "SPED2710"
+    },
+    {
+      "course_code": "SPED2720",
+      "prefix_inferred": false,
+      "evidence": "SPED2720"
+    },
+    {
+      "course_code": "SPED2810",
+      "prefix_inferred": false,
+      "evidence": "SPED2810"
+    },
+    {
+      "course_code": "SPED3220",
+      "prefix_inferred": false,
+      "evidence": "SPED3220"
+    },
+    {
+      "course_code": "SPED3250",
+      "prefix_inferred": false,
+      "evidence": "SPED3250"
+    },
+    {
+      "course_code": "SPED3400",
+      "prefix_inferred": false,
+      "evidence": "SPED3400"
+    },
+    {
+      "course_code": "SPED3410",
+      "prefix_inferred": false,
+      "evidence": "SPED3410"
+    },
+    {
+      "course_code": "SPED3430",
+      "prefix_inferred": false,
+      "evidence": "SPED3430"
+    },
+    {
+      "course_code": "SPED3440",
+      "prefix_inferred": false,
+      "evidence": "SPED3440"
+    },
+    {
+      "course_code": "SPED3450",
+      "prefix_inferred": false,
+      "evidence": "SPED3450"
+    },
+    {
+      "course_code": "SPED3550",
+      "prefix_inferred": false,
+      "evidence": "SPED3550"
+    },
+    {
+      "course_code": "SPED3630",
+      "prefix_inferred": false,
+      "evidence": "SPED3630"
+    },
+    {
+      "course_code": "SPED3700",
+      "prefix_inferred": false,
+      "evidence": "SPED3700"
+    },
+    {
+      "course_code": "SPED3731",
+      "prefix_inferred": false,
+      "evidence": "SPED3731"
+    },
+    {
+      "course_code": "SPED3820",
+      "prefix_inferred": false,
+      "evidence": "SPED3820"
+    },
+    {
+      "course_code": "SPED3910",
+      "prefix_inferred": false,
+      "evidence": "SPED3910"
+    },
+    {
+      "course_code": "SPED3920",
+      "prefix_inferred": false,
+      "evidence": "SPED3920"
+    },
+    {
+      "course_code": "SPED4201",
+      "prefix_inferred": false,
+      "evidence": "SPED4201"
+    },
+    {
+      "course_code": "SPED4400",
+      "prefix_inferred": false,
+      "evidence": "SPED4400"
+    },
+    {
+      "course_code": "SPED4560",
+      "prefix_inferred": false,
+      "evidence": "SPED4560"
+    },
+    {
+      "course_code": "SPED4570",
+      "prefix_inferred": false,
+      "evidence": "SPED4570"
+    },
+    {
+      "course_code": "SPED4640",
+      "prefix_inferred": false,
+      "evidence": "SPED4640"
+    },
+    {
+      "course_code": "SPED4830",
+      "prefix_inferred": false,
+      "evidence": "SPED4830"
+    },
+    {
+      "course_code": "SPED4900",
+      "prefix_inferred": false,
+      "evidence": "SPED4900"
+    },
+    {
+      "course_code": "CHPR4012",
+      "prefix_inferred": false,
+      "evidence": "CHPR4012"
+    },
+    {
+      "course_code": "PHPC1001",
+      "prefix_inferred": false,
+      "evidence": "PHPC1001"
+    },
+    {
+      "course_code": "PHPC2007",
+      "prefix_inferred": false,
+      "evidence": "PHPC2007"
+    },
+    {
+      "course_code": "PHPC2009",
+      "prefix_inferred": false,
+      "evidence": "PHPC2009"
+    },
+    {
+      "course_code": "PHPC2016",
+      "prefix_inferred": false,
+      "evidence": "PHPC2016"
+    }
+  ],
+  "course_code_aliases": [],
+  "source": {
+    "system": "CUHK CUSIS Browse Program Information",
+    "url": "https://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/tt_dsp_acad_prog.aspx",
+    "source_text_file": "data/cuhk/2024/programmes/B_Ed_in_Physical_Education_Exercise_Science_and_Health__Faculty_of_Education.txt",
+    "reused_duplicate_entry": false,
+    "reused_from_faculty": null
+  },
+  "raw_text": "\n\nBrowse Program Information\n\n\n\n\n\n\nAcademic Program:\tB.Ed. in Physical Education, Exercise Science and Health\nAcademic Year:\t2024\nLanguage:\t\nEnglish\nSimplified Chinese\nTraditional Chinese\n\n\n\nLearning Outcomes\nStudy Scheme\n \n\n\t\n\nPhysical Education, Exercise Science and Health\n\nApplicable to students admitted in 2024-25\n\n\n\n\n \n\n\n\n\n \n\nMajor Programme Requirement\n\n \n\n\t\n\n \n\n\n\n\nStudents are required to complete a minimum of 104 units of courses as follows:\n\n\n\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nFaculty Package:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nEDUC2120, 2312, SPED2720\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nRequired Courses:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nCore Courses in Physical Education, Exercise Science and Health\n\n\t\n\n44\n\n\n\n\n \n\n\t\n\nPHPC1001, 2016#, SPED2520, 2540, 2600, 2610, 2710, 2810, 3410, 3430, 3440, 3450, 3820, 3920, 4570\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nCore Courses in Professional Skills\n\n\t\n\n13\n\n\n\n\n \n\n\t\n\nSPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2122, 2131, 2141, 2211, 3220, 3250\n\n\t\n\n \n\n\n\n\n(c)\n\n\t\n\nCourses in Educational Studies\n\n\t\n\n10\n\n\n\n\n \n\n\t\n\nEDUC2240, 3201, 3311, 4340\n\n\t\n\n \n\n\n\n\n(d)\n\n\t\n\nTeaching Practice\n\n\t\n\n8\n\n\n\n\n \n\n\t\n\nSPED3400[a], 4400[a]\n\n\t\n\n \n\n\n\n\n(e)\n\n\t\n\nInternship\n\n\t\n\n2\n\n\n\n\n \n\n\t\n\nSPED4201[a]\n\n\t\n\n \n\n\n\n\n(f)\n\n\t\n\nResearch Experience\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nSPED3630[a], 4900[a]\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nElective Courses:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nTheoretical Courses in Physical Education, Exercise Science and Health\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nThree courses chosen from the following:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nCHPR4012#, PHPC2007#, 2009#, SPED3550, 3700, 3731, 3910, 4560, 4640, 4830\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nCourses in Professional Skills\n\n\t\n\n1\n\n\n\n\n \n\n\t\n\nOne course chosen from the following:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nSPED2112, 2134\n\n\t\n\n \n\n\n\n\n(c)\n\n\t\n\nCourses in Educational Studies\n\n\t\n\n2\n\n\n\n\n \n\n\t\n\nOne course chosen from the following:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nEDUC2210, 2220, 3140, 3150, 3200, 3260, 3270, 3280, 3290, 4110, 4131, 4320, 4330\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n104\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\nExplanatory Notes:\n\n\n\n\n1.\n\n\t\n\nSPED and EDUC courses at 2000 and above level as included in the Major Programme Requirement as well as those labeled as # will be included in the calculation of Major GPA for honours classification.\n\n\n\n\n2.\n\n\t\n\nStudents who have completed 14 units of Professional Skills Courses will be eligible to apply for exemption of 2 units of University Core Physical Education Requirement.\n\nStudents are required to apply for the exemption. When exemption from a particular course is recognized, students can only be exempted from the course but not the units.\n\n\n\n\n[a]\n\n\t\n\nCapstone courses\n\n\n\n\n \n\n\t\n\n \n\n\n\n\n \n\n\n\n\n \n\n\t\n\nRecommended Course Pattern\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: EDUC2312, SPED2720\n\n\t\n\n6\n\n\n\n\nMajor Required: SPED2111, 2141, 2520\n\n\t\n\n5\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nFaculty Package: EDUC2120\n\n\t\n\n3\n\n\n\n\nMajor Required: SPED2041, 2061, 2710\n\n\t\n\n5\n\n\n\n\nMajor Elective(s): 0-1 EDUC course\n\n\t\n\n0-3\n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: PHPC1001, SPED2122, 2211\n\n\t\n\n4\n\n\n\n\nEDUC Required: EDUC3201 (study term TBA)\n\n\t\n\n0-2\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: SPED2011, 2051, 2540, 2810, 3430\n\n\t\n\n11\n\n\n\n\nEDUC Required: EDUC3201 (study term TBA)\n\n\t\n\n0-2\n\n\n\n\nMajor Elective(s): 0-1 EDUC course\n\n\t\n\n0-3\n\n\n\n\nThird Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: SPED2021, 2131, 3450, 3820\n\n\t\n\n8\n\n\n\n\nEDUC Required: EDUC2240\n\n\t\n\n3\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: SPED2610, 3250, 3400, 4201\n\n\t\n\n10\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nFourth Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: PHPC2016, SPED2031, 2600, 3410\n\n\t\n\n10\n\n\n\n\nEDUC Required: EDUC3311 (study term TBA)\n\n\t\n\n0-3\n\n\n\n\nMajor Elective(s): 0-1 EDUC course, 0-1 Professional Skills Course, 1-2 Theoretical Course(s)\n\n\t\n\n3-10\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: SPED3220, 3630, 3920\n\n\t\n\n7\n\n\n\n\nEDUC Required: EDUC3311 (study term TBA)\n\n\t\n\n0-3\n\n\n\n\nMajor Elective(s): 0-1 EDUC course, 1-2 Theoretical Course(s)\n\n\t\n\n3-9\n\n\n\n\nFifth Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: SPED3440, 4570\n\n\t\n\n6\n\n\n\n\nEDUC Required: EDUC4340\n\n\t\n\n2\n\n\n\n\nMajor Elective(s): 0-1 EDUC course, 0-1 Professional Skills Course, 1-2 Theoretical Course(s)\n\n\t\n\n3-10\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: SPED4400, 4900\n\n\t\n\n7\n\n\n\n\nMajor Elective(s): 1-2 Theoretical Course(s)\n\n\t\n\n3-6\n\n\n\n\nTotal (including Faculty Package):\n\n\t\n\n104\n\n\n\n\n \n\n\n\n\nMinor Programme Title\n\nPhysical Education, Exercise Science and Health\n\n \n\n\n\n\n \n\nMinor Programme Requirement\n\n \n\n\t\n\n \n\n\n\n\nStudents are required to complete a minimum of 18 units of courses, with at least 6 units at 3000 or above level, as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nElective Courses:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nProfessional Skills Courses\n\n3 units of courses chosen from the following:\n\n\t\n\n3\n\n\n\n\n \n\n\t\n\nSPED2011, 2021, 2031, 2041, 2051, 2061, 2111, 2112, 2122, 2131, 2134, 2141, 2211, 3220, 3250\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nTheoretical Courses\n\n15 units of courses chosen from the following:\n\n\t\n\n15\n\n\n\n\n \n\n\t\n\nPHPC1001, 2007, 2016, SPED2520, 2540, 2600, 2610, 2710, 2720, 2810, 3410, 3430, 3440, 3450, 3550, 3630, 3731, 3820, 3910, 3920, 4560, 4570, 4640, 4830, 4900\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n \n\n\t\n\n18\n\n\n\n\n \n\nCourse List\n\n \n\n\n\n\nCourse Code\n\n\t\n\nCourse Title\n\n\t\n\nUnit(s)\n\n\n\n\nEDUC2120\n\n\t\n\nPrinciples and Implementation of Curriculum and Instructional Design\n\n\t\n\n3\n\n\n\n\nEDUC2210\n\n\t\n\nEducation and Society in Hong Kong\n\n\t\n\n2\n\n\n\n\nEDUC2220\n\n\t\n\nEducational Thought\n\n\t\n\n2\n\n\n\n\nEDUC2240\n\n\t\n\nUnderstanding Schooling and Education Policy in Hong Kong\n\n\t\n\n3\n\n\n\n\nEDUC2312\n\n\t\n\nChild and Adolescent Development\n\n\t\n\n3\n\n\n\n\nEDUC3140\n\n\t\n\nCurricular Strategies for Tackling Individual Differences\n\n\t\n\n2\n\n\n\n\nEDUC3150\n\n\t\n\nGlobal Dialogues on Education for Sustainable Development in the Curriculum\n\n\t\n\n2\n\n\n\n\nEDUC3200\n\n\t\n\nDeveloping Intercultural Competence: Experiential Learning\n\n\t\n\n3\n\n\n\n\nEDUC3201\n\n\t\n\nEthics and Professional Standards for Teachers\n\n\t\n\n2\n\n\n\n\nEDUC3260\n\n\t\n\nTeacher Development and Leadership\n\n\t\n\n2\n\n\n\n\nEDUC3270\n\n\t\n\nEngendering Education\n\n\t\n\n2\n\n\n\n\nEDUC3280\n\n\t\n\nAn Introduction to Moral and Citizenship Education\n\n\t\n\n2\n\n\n\n\nEDUC3290\n\n\t\n\nMeaning Concerns, Life and Death Education\n\n\t\n\n2\n\n\n\n\nEDUC3311\n\n\t\n\nPsychology Applied to Learning and Teaching\n\n\t\n\n3\n\n\n\n\nEDUC4110\n\n\t\n\nDynamic Curriculum Development for Innovative Learning Experiences\n\n\t\n\n2\n\n\n\n\nEDUC4131\n\n\t\n\ne-Learning in Schools\n\n\t\n\n2\n\n\n\n\nEDUC4320\n\n\t\n\nClassroom Management and School Discipline\n\n\t\n\n2\n\n\n\n\nEDUC4330\n\n\t\n\nSchool Guidance and Counselling\n\n\t\n\n2\n\n\n\n\nEDUC4340\n\n\t\n\nSupporting Students with Special Educational Needs\n\n\t\n\n2\n\n\n\n\nSPED2011\n\n\t\n\nTeaching Basketball: Theory and Practice\n\n\t\n\n1\n\n\n\n\nSPED2021\n\n\t\n\nTeaching Volleyball: Theory and Practice\n\n\t\n\n1\n\n\n\n\nSPED2031\n\n\t\n\nTeaching Soccer: Theory and Practice\n\n\t\n\n1\n\n\n\n\nSPED2041\n\n\t\n\nTeaching Handball: Theory and Practice\n\n\t\n\n1\n\n\n\n\nSPED2051\n\n\t\n\nTeaching Badminton: Theory and Practice\n\n\t\n\n1\n\n\n\n\nSPED2061\n\n\t\n\nTeaching Table Tennis: Theory and Practice\n\n\t\n\n1\n\n\n\n\nSPED2111\n\n\t\n\nTeaching Swimming I: Theory and Practice\n\n\t\n\n1\n\n\n\n\nSPED2112\n\n\t\n\nTeaching Swimming II: Theory and Practice\n\n\t\n\n1\n\n\n\n\nSPED2122\n\n\t\n\nFitness Training for Health and Sports Performance\n\n\t\n\n1\n\n\n\n\nSPED2131\n\n\t\n\nTeaching Track and Field Events I: Theory and Practice\n\n\t\n\n1\n\n\n\n\nSPED2134\n\n\t\n\nTeaching Track and Field Events II: Theory and Practice\n\n\t\n\n1\n\n\n\n\nSPED2141\n\n\t\n\nFundamental Movement and Dances\n\n\t\n\n1\n\n\n\n\nSPED2211\n\n\t\n\nTeaching Gymnastics: Theory and Practice\n\n\t\n\n1\n\n\n\n\nSPED2520\n\n\t\n\nFunctional Human Anatomy and Sports Injuries\n\n\t\n\n3\n\n\n\n\nSPED2540\n\n\t\n\nIntroduction to Exercise Physiology\n\n\t\n\n3\n\n\n\n\nSPED2600\n\n\t\n\nBasic Statistics, Test and Measurement for Physical Education\n\n\t\n\n3\n\n\n\n\nSPED2610\n\n\t\n\nIntroduction to Exercise Biomechanics\n\n\t\n\n3\n\n\n\n\nSPED2710\n\n\t\n\nSociology of Physical Education and Sports\n\n\t\n\n3\n\n\n\n\nSPED2720\n\n\t\n\nFoundation of Physical Education and Sports\n\n\t\n\n3\n\n\n\n\nSPED2810\n\n\t\n\nPsychomotor Learning\n\n\t\n\n3\n\n\n\n\nSPED3220\n\n\t\n\nAlternative Sports\n\n\t\n\n1\n\n\n\n\nSPED3250\n\n\t\n\nTeaching Dances: Theory and Practice\n\n\t\n\n1\n\n\n\n\nSPED3400\n\n\t\n\nTeaching Practice in Primary School\n\n\t\n\n4\n\n\n\n\nSPED3410\n\n\t\n\nCurriculum Planning for Physical Education\n\n\t\n\n3\n\n\n\n\nSPED3430\n\n\t\n\nAdministration and Management in Physical Education and Sports\n\n\t\n\n3\n\n\n\n\nSPED3440\n\n\t\n\nPedagogy of Secondary Physical Education\n\n\t\n\n3\n\n\n\n\nSPED3450\n\n\t\n\nPedagogy of Primary Physical Education\n\n\t\n\n3\n\n\n\n\nSPED3550\n\n\t\n\nPhysiology of Human Performance\n\n\t\n\n3\n\n\n\n\nSPED3630\n\n\t\n\nIntroduction to Research Methods\n\n\t\n\n3\n\n\n\n\nSPED3700\n\n\t\n\nSports and Health Technology\n\n\t\n\n3\n\n\n\n\nSPED3731\n\n\t\n\nSelected Topics in Sports Sociology\n\n\t\n\n3\n\n\n\n\nSPED3820\n\n\t\n\nIntroduction to Exercise and Sports Psychology\n\n\t\n\n3\n\n\n\n\nSPED3910\n\n\t\n\nAdapted Physical Education and Sports\n\n\t\n\n3\n\n\n\n\nSPED3920\n\n\t\n\nHuman Growth and Health Education\n\n\t\n\n3\n\n\n\n\nSPED4201\n\n\t\n\nInternship in Sports Industry\n\n\t\n\n2\n\n\n\n\nSPED4400\n\n\t\n\nTeaching Practice in Secondary School\n\n\t\n\n4\n\n\n\n\nSPED4560\n\n\t\n\nPhysical Fitness Appraisal and Exercise Prescription\n\n\t\n\n3\n\n\n\n\nSPED4570\n\n\t\n\nEducation and Promotion of Exercise and Health\n\n\t\n\n3\n\n\n\n\nSPED4640\n\n\t\n\nHuman Kinematics and Kinetics\n\n\t\n\n3\n\n\n\n\nSPED4830\n\n\t\n\nPsychological Aspects of Sports and Exercise\n\n\t\n\n3\n\n\n\n\nSPED4900 \n\n\t\n\nResearch Project\n\n\t\n\n3\n\n\n\n\nCHPR4012\n\n\t\n\nMental Health as a Public Health Issue\n\n\t\n\n3\n\n\n\n\nPHPC1001\n\n\t\n\nFoundations in Public Health\n\n\t\n\n2\n\n\n\n\nPHPC2007\n\n\t\n\nNutrition and Health\n\n\t\n\n3\n\n\n\n\nPHPC2009\n\n\t\n\nEnvironment and Work\n\n\t\n\n3\n\n\n\n\nPHPC2016\n\n\t\n\nTheories and Concepts of Health Behaviours\n\n\t\n\n3\n\n \n\n\n \n\nStudy Scheme\n\n\nLearning Outcomes\n \n\n\t\n\n \n\n1.\n\n\t\n\nMajor Programme:\n\n \n\n\n\n\nGraduates of the B.Ed. Programme in Physical Education, Exercise Science and Health (PESH) will be able to:\n\n\n\n\n(1)\n\n\t\n\neffectively perform and advance knowledge and professional skills in physical education, exercise science and health; (K/S)\n\n\n\n\n(2)\n\n\t\n\nmaster interpersonal and organization skills in the teaching and administration of physical and health education, as well as in sports training and coaching; (K/S)\n\n\n\n\n(3)\n\n\t\n\napply knowledge and skills learned from the field of physical education and exercise science towards advancement of human health, performance and quality of life through effective education, promotion, evaluation, research and development; (K/S)\n\n\n\n\n(4)\n\n\t\n\ndemonstrate leadership in administrative and managerial roles in the physical education, sports and health-related sectors; (K/S/V)\n\n\n\n\n(5)\n\n\t\n\ndisplay an informed, critical, and innovative approach to learning; (K/S/V)\n\n\n\n\n(6)\n\n\t\n\ndemonstrate an ability and readiness to embark on creative and new ventures of social value, in line with global and ethical values as professional teachers and leaders; (K/S/V) and\n\n\n\n\n(7)\n\n\t\n\ncontinue building upon their knowledge and skills after graduation, with an interest in learning as a lifelong process. (K/S/V)\n\n\n\n\n \n\nK = Knowledge outcomes     S = Skills outcomes       V = Values and attitude outcomes\n\n\n\n\n \n\n\n\n\n2.\n\n\t\n\nMinor Programme:\n\n\n\n\n \n\nUpon the completion of the Minor Programme, students will have demonstrated basic understanding of fundamental issues related to the subject, acquired knowledge of some aspects of the subject with sufficient exposure and at a suitable level to allow further study in this subject or related subjects or to pursue a related career.\n\n \n\n \n\n\n"
+}

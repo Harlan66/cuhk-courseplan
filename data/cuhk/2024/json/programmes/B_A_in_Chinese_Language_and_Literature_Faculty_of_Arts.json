@@ -1,0 +1,2927 @@
+{
+  "programme_id": "B_A_in_Chinese_Language_and_Literature__Faculty_of_Arts",
+  "academic_program": "B.A. in Chinese Language and Literature",
+  "faculty": "Faculty of Arts",
+  "academic_year": 2024,
+  "admission_cohort": "2024-25",
+  "requirement_summary": {
+    "minimum_units_as_printed": "a minimum of 72 units",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Faculty Package",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "ANTH1020",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "ARTS1005",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "ARTS1009",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "ARTS1010",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "BMBL1001",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CHES1101",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CHES1102",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CHLL1900",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CHLL1902",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CHLL1903",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CURE1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CURE1110",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "CURE1400",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "ENGE1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "FAAS1900",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "HIST1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "HIST1700",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "HIST1701",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "JASP1090",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "LING1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "MUSC1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "PHIL1110",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "THEO1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          },
+          {
+            "course_code": "TRAN1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+          }
+        ],
+        "raw_text": "9\nAny three courses from:\nANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+      },
+      {
+        "number": 2,
+        "title": "Required Courses",
+        "units_as_printed": "33",
+        "course_mentions": [
+          {
+            "course_code": "CHLL1110",
+            "prefix_inferred": false,
+            "evidence": "CHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403"
+          },
+          {
+            "course_code": "CHLL1211",
+            "prefix_inferred": true,
+            "evidence": "CHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403"
+          },
+          {
+            "course_code": "CHLL1401",
+            "prefix_inferred": true,
+            "evidence": "CHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403"
+          },
+          {
+            "course_code": "CHLL2121",
+            "prefix_inferred": true,
+            "evidence": "CHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403"
+          },
+          {
+            "course_code": "CHLL2131",
+            "prefix_inferred": true,
+            "evidence": "CHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403"
+          },
+          {
+            "course_code": "CHLL2212",
+            "prefix_inferred": true,
+            "evidence": "CHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403"
+          },
+          {
+            "course_code": "CHLL2302",
+            "prefix_inferred": true,
+            "evidence": "CHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403"
+          },
+          {
+            "course_code": "CHLL2350",
+            "prefix_inferred": true,
+            "evidence": "CHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403"
+          },
+          {
+            "course_code": "CHLL2403",
+            "prefix_inferred": true,
+            "evidence": "CHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403"
+          },
+          {
+            "course_code": "CHLL4001",
+            "prefix_inferred": false,
+            "evidence": "CHLL4001, 4002"
+          },
+          {
+            "course_code": "CHLL4002",
+            "prefix_inferred": true,
+            "evidence": "CHLL4001, 4002"
+          }
+        ],
+        "raw_text": "33\n(a)\nBasic courses\nCHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403\n(b)\nCapstone courses\nCHLL4001, 4002"
+      },
+      {
+        "number": 3,
+        "title": "Elective Courses",
+        "units_as_printed": "30",
+        "course_mentions": [],
+        "raw_text": "30\nStudents are required to complete 30 units of elective courses from the following Speciality courses, of which at least one course from category (1) or (2) and one course from category (3) or (4).\nSpeciality courses:\n(1) Language and Linguistics\nCHLL\n3110, 3121, 3131, 3132, 3141, 3142, 3143, 3144, 3145, 3146, 3151, 3161, 3162, 4110, 4111, 4121, 4141, 4151, 4161\n(2) Ancient Documents\nCHLL\n3221, 3222, 3223, 3231, 3232, 3233, 4224, 4241, 4242, 4243, 4244, 4251, 4252, 4253, 4254\n(3) Classical Literature\nCHLL\n3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4341, 4342, 4343\n(4) Modern Chinese Literature\nCHLL\n3402, 3403, 3404, 3405, 3406, 3407, 3408, 3409, 3410, 3411, 3412, 3413, 4401, 4402, 4403, 4404, 4405, 4406, 4407, 4408, 4409, 4410, 4411, 4412, 4413, 4414, 4415, 4416\nTotal:\n72\nExplanatory Notes:"
+      },
+      {
+        "number": 1,
+        "title": "Required Courses",
+        "units_as_printed": "30",
+        "course_mentions": [
+          {
+            "course_code": "CHLL1110",
+            "prefix_inferred": false,
+            "evidence": "CHLL1110, 1211, 2121, 2131, 2212, 2302, 2350, 2403"
+          },
+          {
+            "course_code": "CHLL1211",
+            "prefix_inferred": true,
+            "evidence": "CHLL1110, 1211, 2121, 2131, 2212, 2302, 2350, 2403"
+          },
+          {
+            "course_code": "CHLL2121",
+            "prefix_inferred": true,
+            "evidence": "CHLL1110, 1211, 2121, 2131, 2212, 2302, 2350, 2403"
+          },
+          {
+            "course_code": "CHLL2131",
+            "prefix_inferred": true,
+            "evidence": "CHLL1110, 1211, 2121, 2131, 2212, 2302, 2350, 2403"
+          },
+          {
+            "course_code": "CHLL2212",
+            "prefix_inferred": true,
+            "evidence": "CHLL1110, 1211, 2121, 2131, 2212, 2302, 2350, 2403"
+          },
+          {
+            "course_code": "CHLL2302",
+            "prefix_inferred": true,
+            "evidence": "CHLL1110, 1211, 2121, 2131, 2212, 2302, 2350, 2403"
+          },
+          {
+            "course_code": "CHLL2350",
+            "prefix_inferred": true,
+            "evidence": "CHLL1110, 1211, 2121, 2131, 2212, 2302, 2350, 2403"
+          },
+          {
+            "course_code": "CHLL2403",
+            "prefix_inferred": true,
+            "evidence": "CHLL1110, 1211, 2121, 2131, 2212, 2302, 2350, 2403"
+          },
+          {
+            "course_code": "CHLL4001",
+            "prefix_inferred": false,
+            "evidence": "CHLL4001, 4002"
+          },
+          {
+            "course_code": "CHLL4002",
+            "prefix_inferred": true,
+            "evidence": "CHLL4001, 4002"
+          }
+        ],
+        "raw_text": "30\n(a)\nBasic courses\nCHLL1110, 1211, 2121, 2131, 2212, 2302, 2350, 2403\n(b)\nSTOT courses\nCHLL4001, 4002"
+      },
+      {
+        "number": 2,
+        "title": "Elective Courses",
+        "units_as_printed": "30",
+        "course_mentions": [],
+        "raw_text": "30\nStudents are required to complete 30 units of elective courses from the following Speciality courses, of which at least one course from category (1) or (2) and one course from category (3) or (4).\nSpeciality courses:\n(1) Language and Linguistics\nCHLL\n3110, 3121, 3131, 3132, 3141, 3142, 3143, 3144, 3145, 3146, 3151, 3161, 3162, 4110, 4111, 4121, 4141, 4151, 4161\n(2) Ancient Documents\nCHLL\n3221, 3222, 3223, 3231, 3232, 3233, 4224, 4241, 4242, 4243, 4244, 4251, 4252, 4253, 4254\n(3) Classical Literature\nCHLL\n3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4341, 4342, 4343\n(4) Modern Chinese Literature\nCHLL\n3402, 3403, 3404, 3405, 3406, 3407, 3408, 3409, 3410, 3411, 3412, 3413, 4401, 4402, 4403, 4404, 4405, 4406, 4407, 4408, 4409, 4410, 4411, 4412, 4413, 4414, 4415, 4416\nTotal:\n60\nExplanatory Note:"
+      },
+      {
+        "number": 1,
+        "title": "Required Courses",
+        "units_as_printed": "27",
+        "course_mentions": [
+          {
+            "course_code": "CHLL1211",
+            "prefix_inferred": false,
+            "evidence": "CHLL1211, 2121, 2131, 2212, 2302, 2350, 2403"
+          },
+          {
+            "course_code": "CHLL2121",
+            "prefix_inferred": true,
+            "evidence": "CHLL1211, 2121, 2131, 2212, 2302, 2350, 2403"
+          },
+          {
+            "course_code": "CHLL2131",
+            "prefix_inferred": true,
+            "evidence": "CHLL1211, 2121, 2131, 2212, 2302, 2350, 2403"
+          },
+          {
+            "course_code": "CHLL2212",
+            "prefix_inferred": true,
+            "evidence": "CHLL1211, 2121, 2131, 2212, 2302, 2350, 2403"
+          },
+          {
+            "course_code": "CHLL2302",
+            "prefix_inferred": true,
+            "evidence": "CHLL1211, 2121, 2131, 2212, 2302, 2350, 2403"
+          },
+          {
+            "course_code": "CHLL2350",
+            "prefix_inferred": true,
+            "evidence": "CHLL1211, 2121, 2131, 2212, 2302, 2350, 2403"
+          },
+          {
+            "course_code": "CHLL2403",
+            "prefix_inferred": true,
+            "evidence": "CHLL1211, 2121, 2131, 2212, 2302, 2350, 2403"
+          },
+          {
+            "course_code": "CHLL4001",
+            "prefix_inferred": false,
+            "evidence": "CHLL4001, 4002"
+          },
+          {
+            "course_code": "CHLL4002",
+            "prefix_inferred": true,
+            "evidence": "CHLL4001, 4002"
+          }
+        ],
+        "raw_text": "27\n(a)\nBasic courses\nCHLL1211, 2121, 2131, 2212, 2302, 2350, 2403\n(b)\nSTOT courses\nCHLL4001, 4002"
+      },
+      {
+        "number": 2,
+        "title": "Elective Courses",
+        "units_as_printed": "30",
+        "course_mentions": [],
+        "raw_text": "30\nStudents are required to complete 30 units of elective courses from the following Speciality courses, of which at least one course from category (1) or (2) and one course from category (3) or (4).\nSpeciality courses:\n(1) Language and Linguistics\nCHLL\n3110, 3121, 3131, 3132, 3141, 3142, 3143, 3144, 3145, 3146, 3151, 3161, 3162, 4110, 4111, 4121, 4141, 4151, 4161\n(2) Ancient Documents\nCHLL\n3221, 3222, 3223, 3231, 3232, 3233, 4224, 4241, 4242, 4243, 4244, 4251, 4252, 4253, 4254\n(3) Classical Literature\nCHLL\n3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4341, 4342, 4343\n(4) Modern Chinese Literature\nCHLL\n3402, 3403, 3404, 3405, 3406, 3407, 3408, 3409, 3410, 3411, 3412, 3413, 4401, 4402, 4403, 4404, 4405, 4406, 4407, 4408, 4409, 4410, 4411, 4412, 4413, 4414, 4415, 4416\nTotal:\n57\nExplanatory Note:"
+      },
+      {
+        "number": 1,
+        "title": "Faculty Package",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "ANTH1020",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+          },
+          {
+            "course_code": "ARTS1005",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+          },
+          {
+            "course_code": "ARTS1009",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+          },
+          {
+            "course_code": "ARTS1010",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+          },
+          {
+            "course_code": "BMBL1001",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+          },
+          {
+            "course_code": "CHES1101",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+          },
+          {
+            "course_code": "CHES1102",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+          },
+          {
+            "course_code": "CHLL1900",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+          },
+          {
+            "course_code": "CHLL1902",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+          },
+          {
+            "course_code": "CHLL1903",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+          },
+          {
+            "course_code": "CURE1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+          },
+          {
+            "course_code": "CURE1110",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+          },
+          {
+            "course_code": "CURE1400",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+          },
+          {
+            "course_code": "ENGE1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+          },
+          {
+            "course_code": "FAAS1900",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+          },
+          {
+            "course_code": "HIST1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+          },
+          {
+            "course_code": "HIST1700",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+          },
+          {
+            "course_code": "HIST1701",
+            "prefix_inferred": true,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+          },
+          {
+            "course_code": "JASP1090",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+          },
+          {
+            "course_code": "LING1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+          },
+          {
+            "course_code": "MUSC1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+          },
+          {
+            "course_code": "PHIL1110",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+          },
+          {
+            "course_code": "THEO1000",
+            "prefix_inferred": false,
+            "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+          }
+        ],
+        "raw_text": "9\nAny three courses from:\nANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+      },
+      {
+        "number": 2,
+        "title": "Required Courses",
+        "units_as_printed": "18",
+        "course_mentions": [
+          {
+            "course_code": "CHLL2302",
+            "prefix_inferred": false,
+            "evidence": "CHLL2302"
+          },
+          {
+            "course_code": "CHLL1110",
+            "prefix_inferred": false,
+            "evidence": "(1) CHLL1110#, 2121, 2131"
+          },
+          {
+            "course_code": "CHLL2121",
+            "prefix_inferred": true,
+            "evidence": "(1) CHLL1110#, 2121, 2131"
+          },
+          {
+            "course_code": "CHLL2131",
+            "prefix_inferred": true,
+            "evidence": "(1) CHLL1110#, 2121, 2131"
+          },
+          {
+            "course_code": "CHLL1211",
+            "prefix_inferred": false,
+            "evidence": "(2) CHLL1211#, 2212"
+          },
+          {
+            "course_code": "CHLL2212",
+            "prefix_inferred": true,
+            "evidence": "(2) CHLL1211#, 2212"
+          },
+          {
+            "course_code": "CHLL2350",
+            "prefix_inferred": false,
+            "evidence": "(3) CHLL2350"
+          },
+          {
+            "course_code": "CHLL1401",
+            "prefix_inferred": false,
+            "evidence": "(4) CHLL1401#, 2403"
+          },
+          {
+            "course_code": "CHLL2403",
+            "prefix_inferred": true,
+            "evidence": "(4) CHLL1401#, 2403"
+          },
+          {
+            "course_code": "TRAN1010",
+            "prefix_inferred": false,
+            "evidence": "TRAN1010#, 1030#, 2070#, 2610#"
+          },
+          {
+            "course_code": "TRAN1030",
+            "prefix_inferred": true,
+            "evidence": "TRAN1010#, 1030#, 2070#, 2610#"
+          },
+          {
+            "course_code": "TRAN2070",
+            "prefix_inferred": true,
+            "evidence": "TRAN1010#, 1030#, 2070#, 2610#"
+          },
+          {
+            "course_code": "TRAN2610",
+            "prefix_inferred": true,
+            "evidence": "TRAN1010#, 1030#, 2070#, 2610#"
+          }
+        ],
+        "raw_text": "1st Major: Chinese Language and Literature\n18\n(a)\nBasic Courses\n(i)\nCHLL2302\n(ii)\nStudents are required to complete 15 units of courses from the following lists of basic courses, including at least one course from each of category (1), (2) and (4).\n(1) CHLL1110#, 2121, 2131\n(2) CHLL1211#, 2212\n(3) CHLL2350\n(4) CHLL1401#, 2403\n2nd Major: Translation\n12\n(b)\nTRAN1010#, 1030#, 2070#, 2610#"
+      },
+      {
+        "number": 3,
+        "title": "Elective Courses",
+        "units_as_printed": "18",
+        "course_mentions": [
+          {
+            "course_code": "TRAN2120",
+            "prefix_inferred": false,
+            "evidence": "TRAN2120, 3080, 3720, 4070, 4210"
+          },
+          {
+            "course_code": "TRAN3080",
+            "prefix_inferred": true,
+            "evidence": "TRAN2120, 3080, 3720, 4070, 4210"
+          },
+          {
+            "course_code": "TRAN3720",
+            "prefix_inferred": true,
+            "evidence": "TRAN2120, 3080, 3720, 4070, 4210"
+          },
+          {
+            "course_code": "TRAN4070",
+            "prefix_inferred": true,
+            "evidence": "TRAN2120, 3080, 3720, 4070, 4210"
+          },
+          {
+            "course_code": "TRAN4210",
+            "prefix_inferred": true,
+            "evidence": "TRAN2120, 3080, 3720, 4070, 4210"
+          },
+          {
+            "course_code": "TRAN2140",
+            "prefix_inferred": false,
+            "evidence": "TRAN2140, 2150, 2240, 2250, 3240, 4050"
+          },
+          {
+            "course_code": "TRAN2150",
+            "prefix_inferred": true,
+            "evidence": "TRAN2140, 2150, 2240, 2250, 3240, 4050"
+          },
+          {
+            "course_code": "TRAN2240",
+            "prefix_inferred": true,
+            "evidence": "TRAN2140, 2150, 2240, 2250, 3240, 4050"
+          },
+          {
+            "course_code": "TRAN2250",
+            "prefix_inferred": true,
+            "evidence": "TRAN2140, 2150, 2240, 2250, 3240, 4050"
+          },
+          {
+            "course_code": "TRAN3240",
+            "prefix_inferred": true,
+            "evidence": "TRAN2140, 2150, 2240, 2250, 3240, 4050"
+          },
+          {
+            "course_code": "TRAN4050",
+            "prefix_inferred": true,
+            "evidence": "TRAN2140, 2150, 2240, 2250, 3240, 4050"
+          },
+          {
+            "course_code": "TRAN3170",
+            "prefix_inferred": false,
+            "evidence": "TRAN3170, 3180, 3270, 3280"
+          },
+          {
+            "course_code": "TRAN3180",
+            "prefix_inferred": true,
+            "evidence": "TRAN3170, 3180, 3270, 3280"
+          },
+          {
+            "course_code": "TRAN3270",
+            "prefix_inferred": true,
+            "evidence": "TRAN3170, 3180, 3270, 3280"
+          },
+          {
+            "course_code": "TRAN3280",
+            "prefix_inferred": true,
+            "evidence": "TRAN3170, 3180, 3270, 3280"
+          },
+          {
+            "course_code": "TRAN1120",
+            "prefix_inferred": false,
+            "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+          },
+          {
+            "course_code": "TRAN1130",
+            "prefix_inferred": true,
+            "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+          },
+          {
+            "course_code": "TRAN2020",
+            "prefix_inferred": true,
+            "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+          },
+          {
+            "course_code": "TRAN2050",
+            "prefix_inferred": true,
+            "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+          },
+          {
+            "course_code": "TRAN2110",
+            "prefix_inferred": true,
+            "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+          },
+          {
+            "course_code": "TRAN2130",
+            "prefix_inferred": true,
+            "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+          },
+          {
+            "course_code": "TRAN2840",
+            "prefix_inferred": true,
+            "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+          },
+          {
+            "course_code": "TRAN3170",
+            "prefix_inferred": true,
+            "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+          },
+          {
+            "course_code": "TRAN3180",
+            "prefix_inferred": true,
+            "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+          },
+          {
+            "course_code": "TRAN3270",
+            "prefix_inferred": true,
+            "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+          },
+          {
+            "course_code": "TRAN3280",
+            "prefix_inferred": true,
+            "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+          },
+          {
+            "course_code": "TRAN3611",
+            "prefix_inferred": true,
+            "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+          },
+          {
+            "course_code": "TRAN3620",
+            "prefix_inferred": true,
+            "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+          },
+          {
+            "course_code": "TRAN3800",
+            "prefix_inferred": true,
+            "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+          },
+          {
+            "course_code": "TRAN3810",
+            "prefix_inferred": true,
+            "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+          },
+          {
+            "course_code": "TRAN3820",
+            "prefix_inferred": true,
+            "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+          },
+          {
+            "course_code": "TRAN3830",
+            "prefix_inferred": true,
+            "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+          },
+          {
+            "course_code": "TRAN3844",
+            "prefix_inferred": true,
+            "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+          },
+          {
+            "course_code": "TRAN3845",
+            "prefix_inferred": true,
+            "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+          },
+          {
+            "course_code": "TRAN3850",
+            "prefix_inferred": true,
+            "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+          },
+          {
+            "course_code": "TRAN3860",
+            "prefix_inferred": true,
+            "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+          },
+          {
+            "course_code": "TRAN3870",
+            "prefix_inferred": true,
+            "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+          },
+          {
+            "course_code": "TRAN3880",
+            "prefix_inferred": true,
+            "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+          },
+          {
+            "course_code": "TRAN3890",
+            "prefix_inferred": true,
+            "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+          },
+          {
+            "course_code": "TRAN4620",
+            "prefix_inferred": true,
+            "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+          },
+          {
+            "course_code": "TRAN4800",
+            "prefix_inferred": true,
+            "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+          },
+          {
+            "course_code": "TRAN4840",
+            "prefix_inferred": true,
+            "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+          }
+        ],
+        "raw_text": "1st Major: Chinese Language and Literature\n18\n(a)\nStudents are required to complete 18 units of elective courses from the following Speciality courses, of which at least one course from category (1) or (2) and one course from category (3) or (4).\nSpeciality courses:\n(1) Language and Linguistics\nCHLL 3110, 3121, 3131, 3132, 3141, 3142, 3143, 3144, 3145, 3146, 3151, 3161, 3162, 4110, 4111, 4121, 4141, 4151, 4161\n(2) Ancient Documents\nCHLL 3221, 3222, 3223, 3231, 3232, 3233, 4224, 4241, 4242, 4243, 4244, 4251, 4252, 4253, 4254\n(3) Classical Literature\nCHLL 3310, 3311, 3312, 3313, 3314, 3315, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4341, 4342, 4343\n(4) Modern Chinese Literature\nCHLL 3402, 3403, 3404, 3405, 3406, 3407, 3408, 3409, 3410, 3411, 3412, 3413, 4401, 4402, 4403, 4404, 4405, 4406, 4407, 4408, 4409, 4410, 4411, 4412, 4413, 4414, 4415, 4416\n2nd Major: Translation\nStudents are required to complete 27 units of elective courses from the following lists of courses, including at least one course from each of Electives Clusters A, B and C.\n27\n(b)\nElectives Cluster A: Translation Studies\nTRAN2120, 3080, 3720, 4070, 4210\n(c)\nElectives Cluster B: Interpreting\nTRAN2140, 2150, 2240, 2250, 3240, 4050\n(d)\nElectives Cluster C: Literary Translation\nTRAN3170, 3180, 3270, 3280\n(e)\nOther Electives\nTRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+      },
+      {
+        "number": 4,
+        "title": "Research Component/ Capstone Course/ Final Year Project",
+        "units_as_printed": "6",
+        "course_mentions": [
+          {
+            "course_code": "CHLL4001",
+            "prefix_inferred": false,
+            "evidence": "CHLL4001, 4002"
+          },
+          {
+            "course_code": "CHLL4002",
+            "prefix_inferred": true,
+            "evidence": "CHLL4001, 4002"
+          }
+        ],
+        "raw_text": "CHLL4001, 4002\n6\nTotal:\n90\nExplanatory Notes:"
+      },
+      {
+        "number": 1,
+        "title": "Elective Courses",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "CHLL1110",
+            "prefix_inferred": false,
+            "evidence": "CHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403"
+          },
+          {
+            "course_code": "CHLL1211",
+            "prefix_inferred": true,
+            "evidence": "CHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403"
+          },
+          {
+            "course_code": "CHLL1401",
+            "prefix_inferred": true,
+            "evidence": "CHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403"
+          },
+          {
+            "course_code": "CHLL2121",
+            "prefix_inferred": true,
+            "evidence": "CHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403"
+          },
+          {
+            "course_code": "CHLL2131",
+            "prefix_inferred": true,
+            "evidence": "CHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403"
+          },
+          {
+            "course_code": "CHLL2212",
+            "prefix_inferred": true,
+            "evidence": "CHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403"
+          },
+          {
+            "course_code": "CHLL2302",
+            "prefix_inferred": true,
+            "evidence": "CHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403"
+          },
+          {
+            "course_code": "CHLL2350",
+            "prefix_inferred": true,
+            "evidence": "CHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403"
+          },
+          {
+            "course_code": "CHLL2403",
+            "prefix_inferred": true,
+            "evidence": "CHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403"
+          },
+          {
+            "course_code": "CHLL1110",
+            "prefix_inferred": false,
+            "evidence": "CHLL1110"
+          },
+          {
+            "course_code": "CHLL1211",
+            "prefix_inferred": false,
+            "evidence": "CHLL1211"
+          },
+          {
+            "course_code": "CHLL1401",
+            "prefix_inferred": false,
+            "evidence": "CHLL1401"
+          },
+          {
+            "course_code": "CHLL2121",
+            "prefix_inferred": false,
+            "evidence": "CHLL2121"
+          },
+          {
+            "course_code": "CHLL2131",
+            "prefix_inferred": false,
+            "evidence": "CHLL2131"
+          },
+          {
+            "course_code": "CHLL2212",
+            "prefix_inferred": false,
+            "evidence": "CHLL2212"
+          },
+          {
+            "course_code": "CHLL2302",
+            "prefix_inferred": false,
+            "evidence": "CHLL2302"
+          },
+          {
+            "course_code": "CHLL2350",
+            "prefix_inferred": false,
+            "evidence": "CHLL2350"
+          },
+          {
+            "course_code": "CHLL2403",
+            "prefix_inferred": false,
+            "evidence": "CHLL2403"
+          },
+          {
+            "course_code": "CHLL3110",
+            "prefix_inferred": false,
+            "evidence": "CHLL3110"
+          },
+          {
+            "course_code": "CHLL3121",
+            "prefix_inferred": false,
+            "evidence": "CHLL3121"
+          },
+          {
+            "course_code": "CHLL3131",
+            "prefix_inferred": false,
+            "evidence": "CHLL3131"
+          },
+          {
+            "course_code": "CHLL3132",
+            "prefix_inferred": false,
+            "evidence": "CHLL3132"
+          },
+          {
+            "course_code": "CHLL3141",
+            "prefix_inferred": false,
+            "evidence": "CHLL3141"
+          },
+          {
+            "course_code": "CHLL3142",
+            "prefix_inferred": false,
+            "evidence": "CHLL3142"
+          },
+          {
+            "course_code": "CHLL3143",
+            "prefix_inferred": false,
+            "evidence": "CHLL3143"
+          },
+          {
+            "course_code": "CHLL3144",
+            "prefix_inferred": false,
+            "evidence": "CHLL3144"
+          },
+          {
+            "course_code": "CHLL3145",
+            "prefix_inferred": false,
+            "evidence": "CHLL3145"
+          },
+          {
+            "course_code": "CHLL3146",
+            "prefix_inferred": false,
+            "evidence": "CHLL3146"
+          },
+          {
+            "course_code": "CHLL3151",
+            "prefix_inferred": false,
+            "evidence": "CHLL3151"
+          },
+          {
+            "course_code": "CHLL3161",
+            "prefix_inferred": false,
+            "evidence": "CHLL3161"
+          },
+          {
+            "course_code": "CHLL3162",
+            "prefix_inferred": false,
+            "evidence": "CHLL3162"
+          },
+          {
+            "course_code": "CHLL3221",
+            "prefix_inferred": false,
+            "evidence": "CHLL3221"
+          },
+          {
+            "course_code": "CHLL3222",
+            "prefix_inferred": false,
+            "evidence": "CHLL3222"
+          },
+          {
+            "course_code": "CHLL3223",
+            "prefix_inferred": false,
+            "evidence": "CHLL3223"
+          },
+          {
+            "course_code": "CHLL3231",
+            "prefix_inferred": false,
+            "evidence": "CHLL3231"
+          },
+          {
+            "course_code": "CHLL3232",
+            "prefix_inferred": false,
+            "evidence": "CHLL3232"
+          },
+          {
+            "course_code": "CHLL3233",
+            "prefix_inferred": false,
+            "evidence": "CHLL3233"
+          },
+          {
+            "course_code": "CHLL3310",
+            "prefix_inferred": false,
+            "evidence": "CHLL3310"
+          },
+          {
+            "course_code": "CHLL3311",
+            "prefix_inferred": false,
+            "evidence": "CHLL3311"
+          },
+          {
+            "course_code": "CHLL3312",
+            "prefix_inferred": false,
+            "evidence": "CHLL3312"
+          },
+          {
+            "course_code": "CHLL3313",
+            "prefix_inferred": false,
+            "evidence": "CHLL3313"
+          },
+          {
+            "course_code": "CHLL3314",
+            "prefix_inferred": false,
+            "evidence": "CHLL3314"
+          },
+          {
+            "course_code": "CHLL3315",
+            "prefix_inferred": false,
+            "evidence": "CHLL3315"
+          },
+          {
+            "course_code": "CHLL3316",
+            "prefix_inferred": false,
+            "evidence": "CHLL3316"
+          },
+          {
+            "course_code": "CHLL3317",
+            "prefix_inferred": false,
+            "evidence": "CHLL3317"
+          },
+          {
+            "course_code": "CHLL3321",
+            "prefix_inferred": false,
+            "evidence": "CHLL3321"
+          },
+          {
+            "course_code": "CHLL3322",
+            "prefix_inferred": false,
+            "evidence": "CHLL3322"
+          },
+          {
+            "course_code": "CHLL3323",
+            "prefix_inferred": false,
+            "evidence": "CHLL3323"
+          },
+          {
+            "course_code": "CHLL3324",
+            "prefix_inferred": false,
+            "evidence": "CHLL3324"
+          },
+          {
+            "course_code": "CHLL3341",
+            "prefix_inferred": false,
+            "evidence": "CHLL3341"
+          },
+          {
+            "course_code": "CHLL3351",
+            "prefix_inferred": false,
+            "evidence": "CHLL3351"
+          },
+          {
+            "course_code": "CHLL3402",
+            "prefix_inferred": false,
+            "evidence": "CHLL3402"
+          },
+          {
+            "course_code": "CHLL3403",
+            "prefix_inferred": false,
+            "evidence": "CHLL3403"
+          },
+          {
+            "course_code": "CHLL3404",
+            "prefix_inferred": false,
+            "evidence": "CHLL3404"
+          },
+          {
+            "course_code": "CHLL3405",
+            "prefix_inferred": false,
+            "evidence": "CHLL3405"
+          },
+          {
+            "course_code": "CHLL3406",
+            "prefix_inferred": false,
+            "evidence": "CHLL3406"
+          },
+          {
+            "course_code": "CHLL3407",
+            "prefix_inferred": false,
+            "evidence": "CHLL3407"
+          },
+          {
+            "course_code": "CHLL3408",
+            "prefix_inferred": false,
+            "evidence": "CHLL3408"
+          },
+          {
+            "course_code": "CHLL3409",
+            "prefix_inferred": false,
+            "evidence": "CHLL3409"
+          },
+          {
+            "course_code": "CHLL3410",
+            "prefix_inferred": false,
+            "evidence": "CHLL3410"
+          },
+          {
+            "course_code": "CHLL3411",
+            "prefix_inferred": false,
+            "evidence": "CHLL3411"
+          },
+          {
+            "course_code": "CHLL3412",
+            "prefix_inferred": false,
+            "evidence": "CHLL3412"
+          },
+          {
+            "course_code": "CHLL3413",
+            "prefix_inferred": false,
+            "evidence": "CHLL3413"
+          },
+          {
+            "course_code": "CHLL4001",
+            "prefix_inferred": false,
+            "evidence": "CHLL4001"
+          },
+          {
+            "course_code": "CHLL4002",
+            "prefix_inferred": false,
+            "evidence": "CHLL4002"
+          },
+          {
+            "course_code": "CHLL4110",
+            "prefix_inferred": false,
+            "evidence": "CHLL4110"
+          },
+          {
+            "course_code": "CHLL4111",
+            "prefix_inferred": false,
+            "evidence": "CHLL4111"
+          },
+          {
+            "course_code": "CHLL4121",
+            "prefix_inferred": false,
+            "evidence": "CHLL4121"
+          },
+          {
+            "course_code": "CHLL4141",
+            "prefix_inferred": false,
+            "evidence": "CHLL4141"
+          },
+          {
+            "course_code": "CHLL4151",
+            "prefix_inferred": false,
+            "evidence": "CHLL4151"
+          },
+          {
+            "course_code": "CHLL4161",
+            "prefix_inferred": false,
+            "evidence": "CHLL4161"
+          },
+          {
+            "course_code": "CHLL4224",
+            "prefix_inferred": false,
+            "evidence": "CHLL4224"
+          },
+          {
+            "course_code": "CHLL4241",
+            "prefix_inferred": false,
+            "evidence": "CHLL4241"
+          },
+          {
+            "course_code": "CHLL4242",
+            "prefix_inferred": false,
+            "evidence": "CHLL4242"
+          },
+          {
+            "course_code": "CHLL4243",
+            "prefix_inferred": false,
+            "evidence": "CHLL4243"
+          },
+          {
+            "course_code": "CHLL4244",
+            "prefix_inferred": false,
+            "evidence": "CHLL4244"
+          },
+          {
+            "course_code": "CHLL4251",
+            "prefix_inferred": false,
+            "evidence": "CHLL4251"
+          },
+          {
+            "course_code": "CHLL4252",
+            "prefix_inferred": false,
+            "evidence": "CHLL4252"
+          },
+          {
+            "course_code": "CHLL4253",
+            "prefix_inferred": false,
+            "evidence": "CHLL4253"
+          },
+          {
+            "course_code": "CHLL4254",
+            "prefix_inferred": false,
+            "evidence": "CHLL4254"
+          },
+          {
+            "course_code": "CHLL4310",
+            "prefix_inferred": false,
+            "evidence": "CHLL4310"
+          },
+          {
+            "course_code": "CHLL4311",
+            "prefix_inferred": false,
+            "evidence": "CHLL4311"
+          },
+          {
+            "course_code": "CHLL4312",
+            "prefix_inferred": false,
+            "evidence": "CHLL4312"
+          },
+          {
+            "course_code": "CHLL4313",
+            "prefix_inferred": false,
+            "evidence": "CHLL4313"
+          },
+          {
+            "course_code": "CHLL4314",
+            "prefix_inferred": false,
+            "evidence": "CHLL4314"
+          },
+          {
+            "course_code": "CHLL4315",
+            "prefix_inferred": false,
+            "evidence": "CHLL4315"
+          },
+          {
+            "course_code": "CHLL4320",
+            "prefix_inferred": false,
+            "evidence": "CHLL4320"
+          },
+          {
+            "course_code": "CHLL4321",
+            "prefix_inferred": false,
+            "evidence": "CHLL4321"
+          },
+          {
+            "course_code": "CHLL4322",
+            "prefix_inferred": false,
+            "evidence": "CHLL4322"
+          },
+          {
+            "course_code": "CHLL4330",
+            "prefix_inferred": false,
+            "evidence": "CHLL4330"
+          },
+          {
+            "course_code": "CHLL4331",
+            "prefix_inferred": false,
+            "evidence": "CHLL4331"
+          },
+          {
+            "course_code": "CHLL4332",
+            "prefix_inferred": false,
+            "evidence": "CHLL4332"
+          },
+          {
+            "course_code": "CHLL4340",
+            "prefix_inferred": false,
+            "evidence": "CHLL4340"
+          },
+          {
+            "course_code": "CHLL4341",
+            "prefix_inferred": false,
+            "evidence": "CHLL4341"
+          },
+          {
+            "course_code": "CHLL4342",
+            "prefix_inferred": false,
+            "evidence": "CHLL4342"
+          },
+          {
+            "course_code": "CHLL4343",
+            "prefix_inferred": false,
+            "evidence": "CHLL4343"
+          },
+          {
+            "course_code": "CHLL4401",
+            "prefix_inferred": false,
+            "evidence": "CHLL4401"
+          },
+          {
+            "course_code": "CHLL4402",
+            "prefix_inferred": false,
+            "evidence": "CHLL4402"
+          },
+          {
+            "course_code": "CHLL4403",
+            "prefix_inferred": false,
+            "evidence": "CHLL4403"
+          },
+          {
+            "course_code": "CHLL4404",
+            "prefix_inferred": false,
+            "evidence": "CHLL4404"
+          },
+          {
+            "course_code": "CHLL4405",
+            "prefix_inferred": false,
+            "evidence": "CHLL4405"
+          },
+          {
+            "course_code": "CHLL4406",
+            "prefix_inferred": false,
+            "evidence": "CHLL4406"
+          },
+          {
+            "course_code": "CHLL4407",
+            "prefix_inferred": false,
+            "evidence": "CHLL4407"
+          },
+          {
+            "course_code": "CHLL4408",
+            "prefix_inferred": false,
+            "evidence": "CHLL4408"
+          },
+          {
+            "course_code": "CHLL4409",
+            "prefix_inferred": false,
+            "evidence": "CHLL4409"
+          },
+          {
+            "course_code": "CHLL4410",
+            "prefix_inferred": false,
+            "evidence": "CHLL4410"
+          },
+          {
+            "course_code": "CHLL4411",
+            "prefix_inferred": false,
+            "evidence": "CHLL4411"
+          },
+          {
+            "course_code": "CHLL4412",
+            "prefix_inferred": false,
+            "evidence": "CHLL4412"
+          },
+          {
+            "course_code": "CHLL4413",
+            "prefix_inferred": false,
+            "evidence": "CHLL4413"
+          },
+          {
+            "course_code": "CHLL4414",
+            "prefix_inferred": false,
+            "evidence": "CHLL4414"
+          },
+          {
+            "course_code": "CHLL4415",
+            "prefix_inferred": false,
+            "evidence": "CHLL4415"
+          },
+          {
+            "course_code": "CHLL4416",
+            "prefix_inferred": false,
+            "evidence": "CHLL4416"
+          }
+        ],
+        "raw_text": "(a)\nBasic courses\nAny 9 units of courses from the following:\nCHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403\n9\n(b)\nSpeciality courses\n9 units of courses from any speciality areas below:\n9\n(1) Language and Linguistics\nCHLL\n3110, 3121, 3131, 3132, 3141, 3142, 3143, 3144, 3145, 3146, 3151, 3161, 3162, 4110, 4111, 4121, 4141, 4151, 4161\n(2) Ancient Documents\nCHLL\n3221, 3222, 3223, 3231, 3232, 3233, 4224, 4241, 4242, 4243, 4244, 4251, 4252, 4253, 4254\n(3) Classical Literature\nCHLL\n3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4341, 4342, 4343\n(4) Modern Chinese Literature\nCHLL\n3402, 3403, 3404, 3405, 3406, 3407, 3408, 3409, 3410, 3411, 3412, 3413, 4401, 4402, 4403, 4404, 4405, 4406, 4407, 4408, 4409, 4410, 4411, 4412, 4413, 4414, 4415, 4416\n(c)\nAny one other Basic or Speciality course not taken to fulfill requirement 1(a) or 1(b)\n3\nTotal:\n21\nCourse List\nCourse Code\nCourse Title\nUnit(s)\nCHLL1110\nIntroduction to Chinese Linguistics\n3\nCHLL1211\nIntroduction to Chinese Classic Texts\n3\nCHLL1401\nIntroduction to Literature\n3\nCHLL2121\nIntroduction to Chinese Philology\n3\nCHLL2131\nIntroduction to Chinese Phonology\n3\nCHLL2212\nIntroduction to the Study of Classical Chinese Texts\n3\nCHLL2302\nHistory of Chinese Literature\n3\nCHLL2350\nClassical Chinese Poetry: Selected Readings and Writing Practice\n3\nCHLL2403\nIntroduction to Modern Chinese Literature\n3\nCHLL3110\nApplied Linguistics\n3\nCHLL3121\nStudies in Chinese Characters\n3\nCHLL3131\nStudies in Chinese Phonology\n3\nCHLL3132\nChinese Prosodic Phonology\n3\nCHLL3141\nModern Chinese Grammar\n3\nCHLL3142\nComparative Grammar in Chinese and English\n3\nCHLL3143\nChinese Morphology\n3\nCHLL3144\nThe Study of Chinese Semantics\n3\nCHLL3145\nIntroduction to Chinese Lexical Semantics\n3\nCHLL3146\nThe Study of Chinese Pragmatics\n3\nCHLL3151\nChinese Rhetoric\n3\nCHLL3161\nPutonghua: Research and Teaching\n3\nCHLL3162\nStudy of Cantonese\n3\nCHLL3221\nLun Yu\n3\nCHLL3222\nMeng Zi\n3\nCHLL3223\nLi Ji\n3\nCHLL3231\nShi Ji\n3\nCHLL3232\nHan Shu\n3\nCHLL3233\nChinese Bibliography\n3\nCHLL3310\nPoetry of Tao Qian\n3\nCHLL3311\nPoetry of Li Bai\n3\nCHLL3312\nMajor Author(s) (Prose)\n3\nCHLL3313\nMajor Author(s) (Poetry)\n3\nCHLL3314\nMajor Author(s) (Ci Poetry)\n3\nCHLL3315\nCi Poetry of Su Shi and Xin Qiji\n3\nCHLL3316\nSelected Prose Works through All Ages\n3\nCHLL3317\nPoetry of the Han, Wei and Six Dynasties\n3\nCHLL3321\nClassical Chinese Fiction (Short Stories)\n3\nCHLL3322\nClassical Chinese Fiction (Novel)\n3\nCHLL3323\nScholar-Beauty Romance\n3\nCHLL3324\nChuanqi and Kun Opera in the Ming-Qing Period\n3\nCHLL3341\nWomen’s Literature from Ming through Qing\n3\nCHLL3351\nClassical Chinese Ci Poetry: Selected Readings and Writing Practice\n3\nCHLL3402\nModern Chinese Literature and Film\n3\nCHLL3403\nCreative Writing\n3\nCHLL3404\nModern Chinese Poetry\n3\nCHLL3405\nModern Chinese Prose\n3\nCHLL3406\nModern Chinese Fiction (Novella and Short Stories)\n3\nCHLL3407\nModern Chinese Fiction (Novel)\n3\nCHLL3408\nModern Chinese Drama\n3\nCHLL3409\nModern Fiction Workshop\n3\nCHLL3410\nModern Poetry Workshop\n3\nCHLL3411\nMedia Writing Workshop\n3\nCHLL3412\nTravel Writing\n3\nCHLL3413\nHong Kong Wen-yi Film Studies\n3\nCHLL4001\nIndependent Research I\n0\nCHLL4002\nIndependent Research II\n6\nCHLL4110\nSelected Topics in Chinese Linguistics I\n3\nCHLL4111\nSelected Topics in Chinese Linguistics II\n3\nCHLL4121\nChinese Paleography and Ancient Texts\n3\nCHLL4141\nChinese Historical Grammar\n3\nCHLL4151\nChinese Textual Exegesis\n3\nCHLL4161\nChinese Dialectology\n3\nCHLL4224\nZuo Zhuan\n3\nCHLL4241\nLu Shi Chun Qiu\n3\nCHLL4242\nZhuang Zi\n3\nCHLL4243\nXun Zi\n3\nCHLL4244\nHan Fei Zi\n3\nCHLL4251\nSelected Topics on Classical Texts I\n3\nCHLL4252\nSelected Topics on Excavated Texts I\n3\nCHLL4253\nSelected Topics on Classical Texts II\n3\nCHLL4254\nSelected Topics on Excavated Texts II\n3\nCHLL4310\nShi Jing\n3\nCHLL4311\nChu Ci\n3\nCHLL4312\nPoetry of Du Fu\n3\nCHLL4313\nProse of Han Yu\n3\nCHLL4314\nProse of Liu Zongyuan\n3\nCHLL4315\nPre-Qin Myths\n3\nCHLL4320\nClassical Chinese Drama\n3\nCHLL4321\nDrama of Tang Xianzu\n3\nCHLL4322\nHonglou meng\n3\nCHLL4330\nWenxin diaolong\n3\nCHLL4331\nClassical Literary Criticism\n3\nCHLL4332\nChinese Poetics\n3\nCHLL4340\nLiterature of the Jian'an Period\n3\nCHLL4341\nSelected Topics in Classical Chinese Literature I\n3\nCHLL4342\nChinese Literature (1840-1919)\n3\nCHLL4343\nSelected Topics in Classical Chinese Literature II\n3\nCHLL4401\nLiterature and Art\n3\nCHLL4402\nModern Literary Criticism\n3\nCHLL4403\nHong Kong Literature\n3\nCHLL4404\nChinese Women Writers\n3\nCHLL4405\nEileen Chang\n3\nCHLL4406\nStudies of Selected Modern Chinese Literature Author(s) I\n3\nCHLL4407\nSelected Topics in Modern Chinese Literature I\n3\nCHLL4408\nModern Chinese Literature and Culture\n3\nCHLL4409\nStudies of Selected Modern Chinese Literature Author(s) II\n3\nCHLL4410\nSelected Topics in Modern Chinese Literature II\n3\nCHLL4411\nLu Xun\n3\nCHLL4412\nCreative Writing Masterclass\n3\nCHLL4413\nSpecial Topics in Writing\n3\nCHLL4414\nLiterature and the Periodical\n3\nCHLL4415\nContemporary Chinese Literature and Disaster Narratives\n3\nCHLL4416\nEcology and Technology in Sinophone Media Culture\n3\nStudy Scheme\nLearning Outcomes"
+      },
+      {
+        "number": 1,
+        "title": "Major Programme",
+        "units_as_printed": null,
+        "course_mentions": [],
+        "raw_text": "Upon successful completion of this Programme, students will (i) have acquired expertise in four primary fields in Chinese studies, namely, Chinese language and linguistics, classical Chinese texts, classical Chinese literature and modern Chinese literature; (ii) have acquired effective learning strategies and skills pertinent to Chinese studies and lifelong self-education; (iii) have enhanced their critical, intellectual and aesthetic sense and sensibilities; and (iv) have understood the cultural and social values that have shaped the contemporary world."
+      },
+      {
+        "number": 2,
+        "title": "Chinese Language and Literature and Translation Double Major Programme",
+        "units_as_printed": null,
+        "course_mentions": [],
+        "raw_text": "Upon completing the Programme, students will have acquired the ability:\n(1)\nto have a general understanding of Chinese language in everyday life and in ancient time, and develop sustained interest in further pursuing some of the linguistic issues; (K/V)\n(2)\nto apply digital tools and databases in learning; (K/S)\n(3)\nto show creativity and critical thinking in learning; (S)\n(4)\nto demonstrate basic understanding of ancient texts and apply the methods of reading them; (K/S)\n(5)\nto gain the basic knowledge of literature and its development, and develop sustained interest in further pursuing some of the literary issues; (K/V)\n(6)\nto discuss the differences in literary texts, and apply literary concepts and theories to analyse texts; (K/S)\n(7)\nto express his or her ideas in a precise manner; (S)\n(8)\nto identify grammatical properties of Chinese and English in a linguistically informed manner; (K)\n(9)\nto describe and compare the similarities and differences between Chinese and English without prejudice, and be able to use this knowledge to produce high- quality translations; (K/S)\n(10)\nto synthesize the principles of comparative grammar and theorize about the linguistic facts, and be able to apply this knowledge in translation practice; (K)\n(11)\nto develop sustained interest in further pursuing some of the linguistic issues arisen from comparative grammar; (V)\n(12)\nto understand and evaluate translations across a wide range of genres, including literary, legal, business and media texts; (K/S)\n(13)\nto produce effective translations, using appropriate strategies in a variety of contexts; (K/S)\n(14)\nto provide effective consecutive or simultaneous interpretation, using appropriate strategies in a variety of contexts; (K/S)\n(15)\nto be able to conduct independent critical reflection of translations in the form of written and oral commentary; (K/S/V)\n(16)\nto understand basic concepts of translation and apply these concepts to the production and evaluation of translations; (K/V)\n(17)\nto understand theoretical orientations in translation studies in their cultural and historical contexts, and use appropriate theoretical models in the production and evaluation of translations; (K/V)\n(18)\nto understand the role of translators and interpreters in the dissemination of knowledge, the construction of identity, and the negotiation of power relations; and (K/V)\n(19)\nto develop intercultural awareness, a lifelong interest in learning, and a love for the richness of human expression. (K/V)\nK = Knowledge outcomes S = Skills outcomes V = Values and attitude outcomes"
+      },
+      {
+        "number": 3,
+        "title": "Minor Programme",
+        "units_as_printed": null,
+        "course_mentions": [],
+        "raw_text": "Upon completion of the Minor Programme, students will have demonstrated basic understanding of fundamental issues related to the subject, acquired knowledge of some aspects of the subject with sufficient exposure and at a suitable level to allow further study in this subject or related subjects or to pursue a related career."
+      }
+    ]
+  },
+  "all_course_mentions": [
+    {
+      "course_code": "ANTH1020",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "ARTS1005",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "ARTS1009",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "ARTS1010",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "BMBL1001",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CHES1101",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CHES1102",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CHLL1900",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CHLL1902",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CHLL1903",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CURE1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CURE1110",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CURE1400",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "ENGE1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "FAAS1900",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "HIST1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "HIST1700",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "HIST1701",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "JASP1090",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "LING1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "MUSC1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "PHIL1110",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "THEO1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "TRAN1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000"
+    },
+    {
+      "course_code": "CHLL1110",
+      "prefix_inferred": false,
+      "evidence": "CHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL1211",
+      "prefix_inferred": true,
+      "evidence": "CHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL1401",
+      "prefix_inferred": true,
+      "evidence": "CHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL2121",
+      "prefix_inferred": true,
+      "evidence": "CHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL2131",
+      "prefix_inferred": true,
+      "evidence": "CHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL2212",
+      "prefix_inferred": true,
+      "evidence": "CHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL2302",
+      "prefix_inferred": true,
+      "evidence": "CHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL2350",
+      "prefix_inferred": true,
+      "evidence": "CHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL2403",
+      "prefix_inferred": true,
+      "evidence": "CHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL4001",
+      "prefix_inferred": false,
+      "evidence": "CHLL4001, 4002"
+    },
+    {
+      "course_code": "CHLL4002",
+      "prefix_inferred": true,
+      "evidence": "CHLL4001, 4002"
+    },
+    {
+      "course_code": "LING1002",
+      "prefix_inferred": false,
+      "evidence": "A Chinese Language and Literature Major student who pursues a second Major in Linguistics can be exempted from taking LING1002, 3108 and 4401 by taking CHLL3162, 4161 and 4110 respectively. Units earned can be counted towards both Major Programmes."
+    },
+    {
+      "course_code": "LING3108",
+      "prefix_inferred": true,
+      "evidence": "A Chinese Language and Literature Major student who pursues a second Major in Linguistics can be exempted from taking LING1002, 3108 and 4401 by taking CHLL3162, 4161 and 4110 respectively. Units earned can be counted towards both Major Programmes."
+    },
+    {
+      "course_code": "LING4401",
+      "prefix_inferred": true,
+      "evidence": "A Chinese Language and Literature Major student who pursues a second Major in Linguistics can be exempted from taking LING1002, 3108 and 4401 by taking CHLL3162, 4161 and 4110 respectively. Units earned can be counted towards both Major Programmes."
+    },
+    {
+      "course_code": "CHLL3162",
+      "prefix_inferred": false,
+      "evidence": "A Chinese Language and Literature Major student who pursues a second Major in Linguistics can be exempted from taking LING1002, 3108 and 4401 by taking CHLL3162, 4161 and 4110 respectively. Units earned can be counted towards both Major Programmes."
+    },
+    {
+      "course_code": "CHLL4161",
+      "prefix_inferred": true,
+      "evidence": "A Chinese Language and Literature Major student who pursues a second Major in Linguistics can be exempted from taking LING1002, 3108 and 4401 by taking CHLL3162, 4161 and 4110 respectively. Units earned can be counted towards both Major Programmes."
+    },
+    {
+      "course_code": "CHLL4110",
+      "prefix_inferred": true,
+      "evidence": "A Chinese Language and Literature Major student who pursues a second Major in Linguistics can be exempted from taking LING1002, 3108 and 4401 by taking CHLL3162, 4161 and 4110 respectively. Units earned can be counted towards both Major Programmes."
+    },
+    {
+      "course_code": "FAAS2117",
+      "prefix_inferred": false,
+      "evidence": "A Chinese Language and Literature Major student who pursues a second Major in Fine Arts can be exempted from taking FAAS2117, 3105, 3223, 4106 and 4109 by taking CHLL4403, 4332, 4121, 4401 and 4402 respectively. Units earned can be counted towards both Major Programmes."
+    },
+    {
+      "course_code": "FAAS3105",
+      "prefix_inferred": true,
+      "evidence": "A Chinese Language and Literature Major student who pursues a second Major in Fine Arts can be exempted from taking FAAS2117, 3105, 3223, 4106 and 4109 by taking CHLL4403, 4332, 4121, 4401 and 4402 respectively. Units earned can be counted towards both Major Programmes."
+    },
+    {
+      "course_code": "FAAS3223",
+      "prefix_inferred": true,
+      "evidence": "A Chinese Language and Literature Major student who pursues a second Major in Fine Arts can be exempted from taking FAAS2117, 3105, 3223, 4106 and 4109 by taking CHLL4403, 4332, 4121, 4401 and 4402 respectively. Units earned can be counted towards both Major Programmes."
+    },
+    {
+      "course_code": "FAAS4106",
+      "prefix_inferred": true,
+      "evidence": "A Chinese Language and Literature Major student who pursues a second Major in Fine Arts can be exempted from taking FAAS2117, 3105, 3223, 4106 and 4109 by taking CHLL4403, 4332, 4121, 4401 and 4402 respectively. Units earned can be counted towards both Major Programmes."
+    },
+    {
+      "course_code": "FAAS4109",
+      "prefix_inferred": true,
+      "evidence": "A Chinese Language and Literature Major student who pursues a second Major in Fine Arts can be exempted from taking FAAS2117, 3105, 3223, 4106 and 4109 by taking CHLL4403, 4332, 4121, 4401 and 4402 respectively. Units earned can be counted towards both Major Programmes."
+    },
+    {
+      "course_code": "CHLL4403",
+      "prefix_inferred": false,
+      "evidence": "A Chinese Language and Literature Major student who pursues a second Major in Fine Arts can be exempted from taking FAAS2117, 3105, 3223, 4106 and 4109 by taking CHLL4403, 4332, 4121, 4401 and 4402 respectively. Units earned can be counted towards both Major Programmes."
+    },
+    {
+      "course_code": "CHLL4332",
+      "prefix_inferred": true,
+      "evidence": "A Chinese Language and Literature Major student who pursues a second Major in Fine Arts can be exempted from taking FAAS2117, 3105, 3223, 4106 and 4109 by taking CHLL4403, 4332, 4121, 4401 and 4402 respectively. Units earned can be counted towards both Major Programmes."
+    },
+    {
+      "course_code": "CHLL4121",
+      "prefix_inferred": true,
+      "evidence": "A Chinese Language and Literature Major student who pursues a second Major in Fine Arts can be exempted from taking FAAS2117, 3105, 3223, 4106 and 4109 by taking CHLL4403, 4332, 4121, 4401 and 4402 respectively. Units earned can be counted towards both Major Programmes."
+    },
+    {
+      "course_code": "CHLL4401",
+      "prefix_inferred": true,
+      "evidence": "A Chinese Language and Literature Major student who pursues a second Major in Fine Arts can be exempted from taking FAAS2117, 3105, 3223, 4106 and 4109 by taking CHLL4403, 4332, 4121, 4401 and 4402 respectively. Units earned can be counted towards both Major Programmes."
+    },
+    {
+      "course_code": "CHLL4402",
+      "prefix_inferred": true,
+      "evidence": "A Chinese Language and Literature Major student who pursues a second Major in Fine Arts can be exempted from taking FAAS2117, 3105, 3223, 4106 and 4109 by taking CHLL4403, 4332, 4121, 4401 and 4402 respectively. Units earned can be counted towards both Major Programmes."
+    },
+    {
+      "course_code": "CHLL1110",
+      "prefix_inferred": false,
+      "evidence": "Major Required: 2-3 courses from CHLL1110, 1211, 1401, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL1211",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 2-3 courses from CHLL1110, 1211, 1401, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL1401",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 2-3 courses from CHLL1110, 1211, 1401, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL2350",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 2-3 courses from CHLL1110, 1211, 1401, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL2403",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 2-3 courses from CHLL1110, 1211, 1401, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL2121",
+      "prefix_inferred": false,
+      "evidence": "Major Required: 1-2 course(s) from CHLL2121, 2302"
+    },
+    {
+      "course_code": "CHLL2302",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 1-2 course(s) from CHLL2121, 2302"
+    },
+    {
+      "course_code": "CHLL2131",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CHLL2131, 2212"
+    },
+    {
+      "course_code": "CHLL2212",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHLL2131, 2212"
+    },
+    {
+      "course_code": "CHLL4001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CHLL4001"
+    },
+    {
+      "course_code": "CHLL4002",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CHLL4002"
+    },
+    {
+      "course_code": "CHLL1110",
+      "prefix_inferred": false,
+      "evidence": "Major Required: 3 courses from CHLL1110, 1211, 1401, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL1211",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 3 courses from CHLL1110, 1211, 1401, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL1401",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 3 courses from CHLL1110, 1211, 1401, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL2302",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 3 courses from CHLL1110, 1211, 1401, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL2350",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 3 courses from CHLL1110, 1211, 1401, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL2403",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 3 courses from CHLL1110, 1211, 1401, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLT1001",
+      "prefix_inferred": false,
+      "evidence": "University Core: CHLT1001, College GE Course*, 0-1 course from PHED or UGCP1001 or UGCP1002"
+    },
+    {
+      "course_code": "UGCP1001",
+      "prefix_inferred": false,
+      "evidence": "University Core: CHLT1001, College GE Course*, 0-1 course from PHED or UGCP1001 or UGCP1002"
+    },
+    {
+      "course_code": "UGCP1002",
+      "prefix_inferred": false,
+      "evidence": "University Core: CHLT1001, College GE Course*, 0-1 course from PHED or UGCP1001 or UGCP1002"
+    },
+    {
+      "course_code": "CHLT1002",
+      "prefix_inferred": false,
+      "evidence": "University Core: CHLT1002, 1 ELTU course, 1 UGFH or UGFN course, 1 course from PHED or UGCP1001 or UGCP1002"
+    },
+    {
+      "course_code": "UGCP1001",
+      "prefix_inferred": false,
+      "evidence": "University Core: CHLT1002, 1 ELTU course, 1 UGFH or UGFN course, 1 course from PHED or UGCP1001 or UGCP1002"
+    },
+    {
+      "course_code": "UGCP1002",
+      "prefix_inferred": false,
+      "evidence": "University Core: CHLT1002, 1 ELTU course, 1 UGFH or UGFN course, 1 course from PHED or UGCP1001 or UGCP1002"
+    },
+    {
+      "course_code": "CHLL2121",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CHLL2121, 2131, 2212"
+    },
+    {
+      "course_code": "CHLL2131",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHLL2121, 2131, 2212"
+    },
+    {
+      "course_code": "CHLL2212",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHLL2121, 2131, 2212"
+    },
+    {
+      "course_code": "UGCP1001",
+      "prefix_inferred": false,
+      "evidence": "University Core: 1 UGFH or UGFN course, 1 ELTU course, 0-1 course from PHED or UGCP1001 or UGCP1002"
+    },
+    {
+      "course_code": "UGCP1002",
+      "prefix_inferred": false,
+      "evidence": "University Core: 1 UGFH or UGFN course, 1 ELTU course, 0-1 course from PHED or UGCP1001 or UGCP1002"
+    },
+    {
+      "course_code": "UGCP1001",
+      "prefix_inferred": false,
+      "evidence": "University Core: College GE course*, 1 ENGG course, 1 course from PHED or UGCP1001 or UGCP1002"
+    },
+    {
+      "course_code": "UGCP1002",
+      "prefix_inferred": false,
+      "evidence": "University Core: College GE course*, 1 ENGG course, 1 course from PHED or UGCP1001 or UGCP1002"
+    },
+    {
+      "course_code": "CHLL4001",
+      "prefix_inferred": false,
+      "evidence": "Major Required: 3 courses, CHLL4001 and 4002"
+    },
+    {
+      "course_code": "CHLL4002",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 3 courses, CHLL4001 and 4002"
+    },
+    {
+      "course_code": "CHLL1110",
+      "prefix_inferred": false,
+      "evidence": "Major Required: 2 courses from CHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL1211",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 2 courses from CHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL1401",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 2 courses from CHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL2121",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 2 courses from CHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL2131",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 2 courses from CHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL2212",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 2 courses from CHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL2302",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 2 courses from CHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL2350",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 2 courses from CHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL2403",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 2 courses from CHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "UGCP1001",
+      "prefix_inferred": false,
+      "evidence": "University Core: 1 ELTU course, UGCP1001 or 1002"
+    },
+    {
+      "course_code": "UGCP1002",
+      "prefix_inferred": true,
+      "evidence": "University Core: 1 ELTU course, UGCP1001 or 1002"
+    },
+    {
+      "course_code": "UGCP1001",
+      "prefix_inferred": false,
+      "evidence": "University Core: 1 UGEA course, UGCP1001 or 1002"
+    },
+    {
+      "course_code": "UGCP1002",
+      "prefix_inferred": true,
+      "evidence": "University Core: 1 UGEA course, UGCP1001 or 1002"
+    },
+    {
+      "course_code": "CHLL1110",
+      "prefix_inferred": false,
+      "evidence": "CHLL1110, 1211, 2121, 2131, 2212, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL1211",
+      "prefix_inferred": true,
+      "evidence": "CHLL1110, 1211, 2121, 2131, 2212, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL2121",
+      "prefix_inferred": true,
+      "evidence": "CHLL1110, 1211, 2121, 2131, 2212, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL2131",
+      "prefix_inferred": true,
+      "evidence": "CHLL1110, 1211, 2121, 2131, 2212, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL2212",
+      "prefix_inferred": true,
+      "evidence": "CHLL1110, 1211, 2121, 2131, 2212, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL2302",
+      "prefix_inferred": true,
+      "evidence": "CHLL1110, 1211, 2121, 2131, 2212, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL2350",
+      "prefix_inferred": true,
+      "evidence": "CHLL1110, 1211, 2121, 2131, 2212, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL2403",
+      "prefix_inferred": true,
+      "evidence": "CHLL1110, 1211, 2121, 2131, 2212, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL1110",
+      "prefix_inferred": false,
+      "evidence": "Major Required: 3 courses from CHLL1110, 1211, 2121, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL1211",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 3 courses from CHLL1110, 1211, 2121, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL2121",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 3 courses from CHLL1110, 1211, 2121, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL2302",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 3 courses from CHLL1110, 1211, 2121, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL2350",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 3 courses from CHLL1110, 1211, 2121, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL2403",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 3 courses from CHLL1110, 1211, 2121, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL2131",
+      "prefix_inferred": false,
+      "evidence": "Major Required: CHLL2131, 2212, 4001"
+    },
+    {
+      "course_code": "CHLL2212",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHLL2131, 2212, 4001"
+    },
+    {
+      "course_code": "CHLL4001",
+      "prefix_inferred": true,
+      "evidence": "Major Required: CHLL2131, 2212, 4001"
+    },
+    {
+      "course_code": "CHLL1211",
+      "prefix_inferred": false,
+      "evidence": "CHLL1211, 2121, 2131, 2212, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL2121",
+      "prefix_inferred": true,
+      "evidence": "CHLL1211, 2121, 2131, 2212, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL2131",
+      "prefix_inferred": true,
+      "evidence": "CHLL1211, 2121, 2131, 2212, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL2212",
+      "prefix_inferred": true,
+      "evidence": "CHLL1211, 2121, 2131, 2212, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL2302",
+      "prefix_inferred": true,
+      "evidence": "CHLL1211, 2121, 2131, 2212, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL2350",
+      "prefix_inferred": true,
+      "evidence": "CHLL1211, 2121, 2131, 2212, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL2403",
+      "prefix_inferred": true,
+      "evidence": "CHLL1211, 2121, 2131, 2212, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL1211",
+      "prefix_inferred": false,
+      "evidence": "Major Required: 2-3 courses from CHLL1211, 2121, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL2121",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 2-3 courses from CHLL1211, 2121, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL2302",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 2-3 courses from CHLL1211, 2121, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL2350",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 2-3 courses from CHLL1211, 2121, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "CHLL2403",
+      "prefix_inferred": true,
+      "evidence": "Major Required: 2-3 courses from CHLL1211, 2121, 2302, 2350, 2403"
+    },
+    {
+      "course_code": "ANTH1020",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+    },
+    {
+      "course_code": "ARTS1005",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+    },
+    {
+      "course_code": "ARTS1009",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+    },
+    {
+      "course_code": "ARTS1010",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+    },
+    {
+      "course_code": "BMBL1001",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+    },
+    {
+      "course_code": "CHES1101",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+    },
+    {
+      "course_code": "CHES1102",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+    },
+    {
+      "course_code": "CHLL1900",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+    },
+    {
+      "course_code": "CHLL1902",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+    },
+    {
+      "course_code": "CHLL1903",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+    },
+    {
+      "course_code": "CURE1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+    },
+    {
+      "course_code": "CURE1110",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+    },
+    {
+      "course_code": "CURE1400",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+    },
+    {
+      "course_code": "ENGE1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+    },
+    {
+      "course_code": "FAAS1900",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+    },
+    {
+      "course_code": "HIST1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+    },
+    {
+      "course_code": "HIST1700",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+    },
+    {
+      "course_code": "HIST1701",
+      "prefix_inferred": true,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+    },
+    {
+      "course_code": "JASP1090",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+    },
+    {
+      "course_code": "LING1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+    },
+    {
+      "course_code": "MUSC1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+    },
+    {
+      "course_code": "PHIL1110",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+    },
+    {
+      "course_code": "THEO1000",
+      "prefix_inferred": false,
+      "evidence": "ANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000"
+    },
+    {
+      "course_code": "CHLL2302",
+      "prefix_inferred": false,
+      "evidence": "CHLL2302"
+    },
+    {
+      "course_code": "CHLL1110",
+      "prefix_inferred": false,
+      "evidence": "(1) CHLL1110#, 2121, 2131"
+    },
+    {
+      "course_code": "CHLL2121",
+      "prefix_inferred": true,
+      "evidence": "(1) CHLL1110#, 2121, 2131"
+    },
+    {
+      "course_code": "CHLL2131",
+      "prefix_inferred": true,
+      "evidence": "(1) CHLL1110#, 2121, 2131"
+    },
+    {
+      "course_code": "CHLL1211",
+      "prefix_inferred": false,
+      "evidence": "(2) CHLL1211#, 2212"
+    },
+    {
+      "course_code": "CHLL2212",
+      "prefix_inferred": true,
+      "evidence": "(2) CHLL1211#, 2212"
+    },
+    {
+      "course_code": "CHLL2350",
+      "prefix_inferred": false,
+      "evidence": "(3) CHLL2350"
+    },
+    {
+      "course_code": "CHLL1401",
+      "prefix_inferred": false,
+      "evidence": "(4) CHLL1401#, 2403"
+    },
+    {
+      "course_code": "CHLL2403",
+      "prefix_inferred": true,
+      "evidence": "(4) CHLL1401#, 2403"
+    },
+    {
+      "course_code": "TRAN1010",
+      "prefix_inferred": false,
+      "evidence": "TRAN1010#, 1030#, 2070#, 2610#"
+    },
+    {
+      "course_code": "TRAN1030",
+      "prefix_inferred": true,
+      "evidence": "TRAN1010#, 1030#, 2070#, 2610#"
+    },
+    {
+      "course_code": "TRAN2070",
+      "prefix_inferred": true,
+      "evidence": "TRAN1010#, 1030#, 2070#, 2610#"
+    },
+    {
+      "course_code": "TRAN2610",
+      "prefix_inferred": true,
+      "evidence": "TRAN1010#, 1030#, 2070#, 2610#"
+    },
+    {
+      "course_code": "TRAN2120",
+      "prefix_inferred": false,
+      "evidence": "TRAN2120, 3080, 3720, 4070, 4210"
+    },
+    {
+      "course_code": "TRAN3080",
+      "prefix_inferred": true,
+      "evidence": "TRAN2120, 3080, 3720, 4070, 4210"
+    },
+    {
+      "course_code": "TRAN3720",
+      "prefix_inferred": true,
+      "evidence": "TRAN2120, 3080, 3720, 4070, 4210"
+    },
+    {
+      "course_code": "TRAN4070",
+      "prefix_inferred": true,
+      "evidence": "TRAN2120, 3080, 3720, 4070, 4210"
+    },
+    {
+      "course_code": "TRAN4210",
+      "prefix_inferred": true,
+      "evidence": "TRAN2120, 3080, 3720, 4070, 4210"
+    },
+    {
+      "course_code": "TRAN2140",
+      "prefix_inferred": false,
+      "evidence": "TRAN2140, 2150, 2240, 2250, 3240, 4050"
+    },
+    {
+      "course_code": "TRAN2150",
+      "prefix_inferred": true,
+      "evidence": "TRAN2140, 2150, 2240, 2250, 3240, 4050"
+    },
+    {
+      "course_code": "TRAN2240",
+      "prefix_inferred": true,
+      "evidence": "TRAN2140, 2150, 2240, 2250, 3240, 4050"
+    },
+    {
+      "course_code": "TRAN2250",
+      "prefix_inferred": true,
+      "evidence": "TRAN2140, 2150, 2240, 2250, 3240, 4050"
+    },
+    {
+      "course_code": "TRAN3240",
+      "prefix_inferred": true,
+      "evidence": "TRAN2140, 2150, 2240, 2250, 3240, 4050"
+    },
+    {
+      "course_code": "TRAN4050",
+      "prefix_inferred": true,
+      "evidence": "TRAN2140, 2150, 2240, 2250, 3240, 4050"
+    },
+    {
+      "course_code": "TRAN3170",
+      "prefix_inferred": false,
+      "evidence": "TRAN3170, 3180, 3270, 3280"
+    },
+    {
+      "course_code": "TRAN3180",
+      "prefix_inferred": true,
+      "evidence": "TRAN3170, 3180, 3270, 3280"
+    },
+    {
+      "course_code": "TRAN3270",
+      "prefix_inferred": true,
+      "evidence": "TRAN3170, 3180, 3270, 3280"
+    },
+    {
+      "course_code": "TRAN3280",
+      "prefix_inferred": true,
+      "evidence": "TRAN3170, 3180, 3270, 3280"
+    },
+    {
+      "course_code": "TRAN1120",
+      "prefix_inferred": false,
+      "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+    },
+    {
+      "course_code": "TRAN1130",
+      "prefix_inferred": true,
+      "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+    },
+    {
+      "course_code": "TRAN2020",
+      "prefix_inferred": true,
+      "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+    },
+    {
+      "course_code": "TRAN2050",
+      "prefix_inferred": true,
+      "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+    },
+    {
+      "course_code": "TRAN2110",
+      "prefix_inferred": true,
+      "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+    },
+    {
+      "course_code": "TRAN2130",
+      "prefix_inferred": true,
+      "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+    },
+    {
+      "course_code": "TRAN2840",
+      "prefix_inferred": true,
+      "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+    },
+    {
+      "course_code": "TRAN3170",
+      "prefix_inferred": true,
+      "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+    },
+    {
+      "course_code": "TRAN3180",
+      "prefix_inferred": true,
+      "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+    },
+    {
+      "course_code": "TRAN3270",
+      "prefix_inferred": true,
+      "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+    },
+    {
+      "course_code": "TRAN3280",
+      "prefix_inferred": true,
+      "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+    },
+    {
+      "course_code": "TRAN3611",
+      "prefix_inferred": true,
+      "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+    },
+    {
+      "course_code": "TRAN3620",
+      "prefix_inferred": true,
+      "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+    },
+    {
+      "course_code": "TRAN3800",
+      "prefix_inferred": true,
+      "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+    },
+    {
+      "course_code": "TRAN3810",
+      "prefix_inferred": true,
+      "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+    },
+    {
+      "course_code": "TRAN3820",
+      "prefix_inferred": true,
+      "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+    },
+    {
+      "course_code": "TRAN3830",
+      "prefix_inferred": true,
+      "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+    },
+    {
+      "course_code": "TRAN3844",
+      "prefix_inferred": true,
+      "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+    },
+    {
+      "course_code": "TRAN3845",
+      "prefix_inferred": true,
+      "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+    },
+    {
+      "course_code": "TRAN3850",
+      "prefix_inferred": true,
+      "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+    },
+    {
+      "course_code": "TRAN3860",
+      "prefix_inferred": true,
+      "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+    },
+    {
+      "course_code": "TRAN3870",
+      "prefix_inferred": true,
+      "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+    },
+    {
+      "course_code": "TRAN3880",
+      "prefix_inferred": true,
+      "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+    },
+    {
+      "course_code": "TRAN3890",
+      "prefix_inferred": true,
+      "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+    },
+    {
+      "course_code": "TRAN4620",
+      "prefix_inferred": true,
+      "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+    },
+    {
+      "course_code": "TRAN4800",
+      "prefix_inferred": true,
+      "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+    },
+    {
+      "course_code": "TRAN4840",
+      "prefix_inferred": true,
+      "evidence": "TRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C."
+    },
+    {
+      "course_code": "TRAN1010",
+      "prefix_inferred": false,
+      "evidence": "1-2 course(s) from TRAN1010, 1030"
+    },
+    {
+      "course_code": "TRAN1030",
+      "prefix_inferred": true,
+      "evidence": "1-2 course(s) from TRAN1010, 1030"
+    },
+    {
+      "course_code": "TRAN1030",
+      "prefix_inferred": false,
+      "evidence": "TRAN1030 (if not taken)"
+    },
+    {
+      "course_code": "TRAN2070",
+      "prefix_inferred": false,
+      "evidence": "1-2 course(s) from TRAN2070, 2610"
+    },
+    {
+      "course_code": "TRAN2610",
+      "prefix_inferred": true,
+      "evidence": "1-2 course(s) from TRAN2070, 2610"
+    },
+    {
+      "course_code": "TRAN2070",
+      "prefix_inferred": false,
+      "evidence": "0-1 course from TRAN2070, 2610"
+    },
+    {
+      "course_code": "TRAN2610",
+      "prefix_inferred": true,
+      "evidence": "0-1 course from TRAN2070, 2610"
+    },
+    {
+      "course_code": "CHLL1110",
+      "prefix_inferred": false,
+      "evidence": "CHLL1110"
+    },
+    {
+      "course_code": "CHLL1211",
+      "prefix_inferred": false,
+      "evidence": "CHLL1211"
+    },
+    {
+      "course_code": "CHLL1401",
+      "prefix_inferred": false,
+      "evidence": "CHLL1401"
+    },
+    {
+      "course_code": "CHLL2121",
+      "prefix_inferred": false,
+      "evidence": "CHLL2121"
+    },
+    {
+      "course_code": "CHLL2131",
+      "prefix_inferred": false,
+      "evidence": "CHLL2131"
+    },
+    {
+      "course_code": "CHLL2212",
+      "prefix_inferred": false,
+      "evidence": "CHLL2212"
+    },
+    {
+      "course_code": "CHLL2350",
+      "prefix_inferred": false,
+      "evidence": "CHLL2350"
+    },
+    {
+      "course_code": "CHLL2403",
+      "prefix_inferred": false,
+      "evidence": "CHLL2403"
+    },
+    {
+      "course_code": "CHLL3110",
+      "prefix_inferred": false,
+      "evidence": "CHLL3110"
+    },
+    {
+      "course_code": "CHLL3121",
+      "prefix_inferred": false,
+      "evidence": "CHLL3121"
+    },
+    {
+      "course_code": "CHLL3131",
+      "prefix_inferred": false,
+      "evidence": "CHLL3131"
+    },
+    {
+      "course_code": "CHLL3132",
+      "prefix_inferred": false,
+      "evidence": "CHLL3132"
+    },
+    {
+      "course_code": "CHLL3141",
+      "prefix_inferred": false,
+      "evidence": "CHLL3141"
+    },
+    {
+      "course_code": "CHLL3142",
+      "prefix_inferred": false,
+      "evidence": "CHLL3142"
+    },
+    {
+      "course_code": "CHLL3143",
+      "prefix_inferred": false,
+      "evidence": "CHLL3143"
+    },
+    {
+      "course_code": "CHLL3144",
+      "prefix_inferred": false,
+      "evidence": "CHLL3144"
+    },
+    {
+      "course_code": "CHLL3145",
+      "prefix_inferred": false,
+      "evidence": "CHLL3145"
+    },
+    {
+      "course_code": "CHLL3146",
+      "prefix_inferred": false,
+      "evidence": "CHLL3146"
+    },
+    {
+      "course_code": "CHLL3151",
+      "prefix_inferred": false,
+      "evidence": "CHLL3151"
+    },
+    {
+      "course_code": "CHLL3161",
+      "prefix_inferred": false,
+      "evidence": "CHLL3161"
+    },
+    {
+      "course_code": "CHLL3162",
+      "prefix_inferred": false,
+      "evidence": "CHLL3162"
+    },
+    {
+      "course_code": "CHLL3221",
+      "prefix_inferred": false,
+      "evidence": "CHLL3221"
+    },
+    {
+      "course_code": "CHLL3222",
+      "prefix_inferred": false,
+      "evidence": "CHLL3222"
+    },
+    {
+      "course_code": "CHLL3223",
+      "prefix_inferred": false,
+      "evidence": "CHLL3223"
+    },
+    {
+      "course_code": "CHLL3231",
+      "prefix_inferred": false,
+      "evidence": "CHLL3231"
+    },
+    {
+      "course_code": "CHLL3232",
+      "prefix_inferred": false,
+      "evidence": "CHLL3232"
+    },
+    {
+      "course_code": "CHLL3233",
+      "prefix_inferred": false,
+      "evidence": "CHLL3233"
+    },
+    {
+      "course_code": "CHLL3310",
+      "prefix_inferred": false,
+      "evidence": "CHLL3310"
+    },
+    {
+      "course_code": "CHLL3311",
+      "prefix_inferred": false,
+      "evidence": "CHLL3311"
+    },
+    {
+      "course_code": "CHLL3312",
+      "prefix_inferred": false,
+      "evidence": "CHLL3312"
+    },
+    {
+      "course_code": "CHLL3313",
+      "prefix_inferred": false,
+      "evidence": "CHLL3313"
+    },
+    {
+      "course_code": "CHLL3314",
+      "prefix_inferred": false,
+      "evidence": "CHLL3314"
+    },
+    {
+      "course_code": "CHLL3315",
+      "prefix_inferred": false,
+      "evidence": "CHLL3315"
+    },
+    {
+      "course_code": "CHLL3316",
+      "prefix_inferred": false,
+      "evidence": "CHLL3316"
+    },
+    {
+      "course_code": "CHLL3317",
+      "prefix_inferred": false,
+      "evidence": "CHLL3317"
+    },
+    {
+      "course_code": "CHLL3321",
+      "prefix_inferred": false,
+      "evidence": "CHLL3321"
+    },
+    {
+      "course_code": "CHLL3322",
+      "prefix_inferred": false,
+      "evidence": "CHLL3322"
+    },
+    {
+      "course_code": "CHLL3323",
+      "prefix_inferred": false,
+      "evidence": "CHLL3323"
+    },
+    {
+      "course_code": "CHLL3324",
+      "prefix_inferred": false,
+      "evidence": "CHLL3324"
+    },
+    {
+      "course_code": "CHLL3341",
+      "prefix_inferred": false,
+      "evidence": "CHLL3341"
+    },
+    {
+      "course_code": "CHLL3351",
+      "prefix_inferred": false,
+      "evidence": "CHLL3351"
+    },
+    {
+      "course_code": "CHLL3402",
+      "prefix_inferred": false,
+      "evidence": "CHLL3402"
+    },
+    {
+      "course_code": "CHLL3403",
+      "prefix_inferred": false,
+      "evidence": "CHLL3403"
+    },
+    {
+      "course_code": "CHLL3404",
+      "prefix_inferred": false,
+      "evidence": "CHLL3404"
+    },
+    {
+      "course_code": "CHLL3405",
+      "prefix_inferred": false,
+      "evidence": "CHLL3405"
+    },
+    {
+      "course_code": "CHLL3406",
+      "prefix_inferred": false,
+      "evidence": "CHLL3406"
+    },
+    {
+      "course_code": "CHLL3407",
+      "prefix_inferred": false,
+      "evidence": "CHLL3407"
+    },
+    {
+      "course_code": "CHLL3408",
+      "prefix_inferred": false,
+      "evidence": "CHLL3408"
+    },
+    {
+      "course_code": "CHLL3409",
+      "prefix_inferred": false,
+      "evidence": "CHLL3409"
+    },
+    {
+      "course_code": "CHLL3410",
+      "prefix_inferred": false,
+      "evidence": "CHLL3410"
+    },
+    {
+      "course_code": "CHLL3411",
+      "prefix_inferred": false,
+      "evidence": "CHLL3411"
+    },
+    {
+      "course_code": "CHLL3412",
+      "prefix_inferred": false,
+      "evidence": "CHLL3412"
+    },
+    {
+      "course_code": "CHLL3413",
+      "prefix_inferred": false,
+      "evidence": "CHLL3413"
+    },
+    {
+      "course_code": "CHLL4001",
+      "prefix_inferred": false,
+      "evidence": "CHLL4001"
+    },
+    {
+      "course_code": "CHLL4002",
+      "prefix_inferred": false,
+      "evidence": "CHLL4002"
+    },
+    {
+      "course_code": "CHLL4110",
+      "prefix_inferred": false,
+      "evidence": "CHLL4110"
+    },
+    {
+      "course_code": "CHLL4111",
+      "prefix_inferred": false,
+      "evidence": "CHLL4111"
+    },
+    {
+      "course_code": "CHLL4121",
+      "prefix_inferred": false,
+      "evidence": "CHLL4121"
+    },
+    {
+      "course_code": "CHLL4141",
+      "prefix_inferred": false,
+      "evidence": "CHLL4141"
+    },
+    {
+      "course_code": "CHLL4151",
+      "prefix_inferred": false,
+      "evidence": "CHLL4151"
+    },
+    {
+      "course_code": "CHLL4161",
+      "prefix_inferred": false,
+      "evidence": "CHLL4161"
+    },
+    {
+      "course_code": "CHLL4224",
+      "prefix_inferred": false,
+      "evidence": "CHLL4224"
+    },
+    {
+      "course_code": "CHLL4241",
+      "prefix_inferred": false,
+      "evidence": "CHLL4241"
+    },
+    {
+      "course_code": "CHLL4242",
+      "prefix_inferred": false,
+      "evidence": "CHLL4242"
+    },
+    {
+      "course_code": "CHLL4243",
+      "prefix_inferred": false,
+      "evidence": "CHLL4243"
+    },
+    {
+      "course_code": "CHLL4244",
+      "prefix_inferred": false,
+      "evidence": "CHLL4244"
+    },
+    {
+      "course_code": "CHLL4251",
+      "prefix_inferred": false,
+      "evidence": "CHLL4251"
+    },
+    {
+      "course_code": "CHLL4252",
+      "prefix_inferred": false,
+      "evidence": "CHLL4252"
+    },
+    {
+      "course_code": "CHLL4253",
+      "prefix_inferred": false,
+      "evidence": "CHLL4253"
+    },
+    {
+      "course_code": "CHLL4254",
+      "prefix_inferred": false,
+      "evidence": "CHLL4254"
+    },
+    {
+      "course_code": "CHLL4310",
+      "prefix_inferred": false,
+      "evidence": "CHLL4310"
+    },
+    {
+      "course_code": "CHLL4311",
+      "prefix_inferred": false,
+      "evidence": "CHLL4311"
+    },
+    {
+      "course_code": "CHLL4312",
+      "prefix_inferred": false,
+      "evidence": "CHLL4312"
+    },
+    {
+      "course_code": "CHLL4313",
+      "prefix_inferred": false,
+      "evidence": "CHLL4313"
+    },
+    {
+      "course_code": "CHLL4314",
+      "prefix_inferred": false,
+      "evidence": "CHLL4314"
+    },
+    {
+      "course_code": "CHLL4315",
+      "prefix_inferred": false,
+      "evidence": "CHLL4315"
+    },
+    {
+      "course_code": "CHLL4320",
+      "prefix_inferred": false,
+      "evidence": "CHLL4320"
+    },
+    {
+      "course_code": "CHLL4321",
+      "prefix_inferred": false,
+      "evidence": "CHLL4321"
+    },
+    {
+      "course_code": "CHLL4322",
+      "prefix_inferred": false,
+      "evidence": "CHLL4322"
+    },
+    {
+      "course_code": "CHLL4330",
+      "prefix_inferred": false,
+      "evidence": "CHLL4330"
+    },
+    {
+      "course_code": "CHLL4331",
+      "prefix_inferred": false,
+      "evidence": "CHLL4331"
+    },
+    {
+      "course_code": "CHLL4332",
+      "prefix_inferred": false,
+      "evidence": "CHLL4332"
+    },
+    {
+      "course_code": "CHLL4340",
+      "prefix_inferred": false,
+      "evidence": "CHLL4340"
+    },
+    {
+      "course_code": "CHLL4341",
+      "prefix_inferred": false,
+      "evidence": "CHLL4341"
+    },
+    {
+      "course_code": "CHLL4342",
+      "prefix_inferred": false,
+      "evidence": "CHLL4342"
+    },
+    {
+      "course_code": "CHLL4343",
+      "prefix_inferred": false,
+      "evidence": "CHLL4343"
+    },
+    {
+      "course_code": "CHLL4401",
+      "prefix_inferred": false,
+      "evidence": "CHLL4401"
+    },
+    {
+      "course_code": "CHLL4402",
+      "prefix_inferred": false,
+      "evidence": "CHLL4402"
+    },
+    {
+      "course_code": "CHLL4403",
+      "prefix_inferred": false,
+      "evidence": "CHLL4403"
+    },
+    {
+      "course_code": "CHLL4404",
+      "prefix_inferred": false,
+      "evidence": "CHLL4404"
+    },
+    {
+      "course_code": "CHLL4405",
+      "prefix_inferred": false,
+      "evidence": "CHLL4405"
+    },
+    {
+      "course_code": "CHLL4406",
+      "prefix_inferred": false,
+      "evidence": "CHLL4406"
+    },
+    {
+      "course_code": "CHLL4407",
+      "prefix_inferred": false,
+      "evidence": "CHLL4407"
+    },
+    {
+      "course_code": "CHLL4408",
+      "prefix_inferred": false,
+      "evidence": "CHLL4408"
+    },
+    {
+      "course_code": "CHLL4409",
+      "prefix_inferred": false,
+      "evidence": "CHLL4409"
+    },
+    {
+      "course_code": "CHLL4410",
+      "prefix_inferred": false,
+      "evidence": "CHLL4410"
+    },
+    {
+      "course_code": "CHLL4411",
+      "prefix_inferred": false,
+      "evidence": "CHLL4411"
+    },
+    {
+      "course_code": "CHLL4412",
+      "prefix_inferred": false,
+      "evidence": "CHLL4412"
+    },
+    {
+      "course_code": "CHLL4413",
+      "prefix_inferred": false,
+      "evidence": "CHLL4413"
+    },
+    {
+      "course_code": "CHLL4414",
+      "prefix_inferred": false,
+      "evidence": "CHLL4414"
+    },
+    {
+      "course_code": "CHLL4415",
+      "prefix_inferred": false,
+      "evidence": "CHLL4415"
+    },
+    {
+      "course_code": "CHLL4416",
+      "prefix_inferred": false,
+      "evidence": "CHLL4416"
+    }
+  ],
+  "course_code_aliases": [],
+  "source": {
+    "system": "CUHK CUSIS Browse Program Information",
+    "url": "https://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/tt_dsp_acad_prog.aspx",
+    "source_text_file": "data/cuhk/2024/programmes/B_A_in_Chinese_Language_and_Literature__Faculty_of_Arts.txt",
+    "reused_duplicate_entry": false,
+    "reused_from_faculty": null
+  },
+  "raw_text": "\n\nBrowse Program Information\n\n\n\n\n\n\nAcademic Program:\tB.A. in Chinese Language and Literature\nAcademic Year:\t2024\nLanguage:\t\nEnglish\nSimplified Chinese\nTraditional Chinese\n\n\n\nLearning Outcomes\nStudy Scheme\n \n\n\t\n\n \n\nChinese Language and Literature\n\nApplicable to students admitted in 2024-25\n\n\n\n\n \n\n\n\n\n \n\nMajor Programme Requirement\n\n \n\n\t\n\n \n\n \n\n\n\n\nStudents are required to complete a minimum of 72 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nFaculty Package:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nAny three courses from:\n\nANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000, TRAN1000\n\n\t\n\n \n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nRequired Courses:\n\n\t\n\n33\n\n\n\n\n(a)\n\n\t\n\nBasic courses\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nCHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nCapstone courses\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nCHLL4001, 4002\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nElective Courses:\n\n\t\n\n30\n\n\n\n\n \n\n\t\n\nStudents are required to complete 30 units of elective courses from the following Speciality courses, of which at least one course from category (1) or (2) and one course from category (3) or (4).\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\nSpeciality courses:\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(1) Language and Linguistics\n\n\t\n\nCHLL\n\n\t\n\n3110, 3121, 3131, 3132, 3141, 3142, 3143, 3144, 3145, 3146, 3151, 3161, 3162, 4110, 4111, 4121, 4141, 4151, 4161\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(2)   Ancient Documents\n\n\t\n\nCHLL\n\n\t\n\n3221, 3222, 3223, 3231, 3232, 3233, 4224, 4241, 4242, 4243, 4244, 4251, 4252, 4253, 4254\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(3)   Classical Literature\n\n\t\n\nCHLL\n\n\t\n\n3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4341, 4342, 4343\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(4)   Modern Chinese Literature\n\n\t\n\nCHLL\n\n\t\n\n3402, 3403, 3404, 3405, 3406, 3407, 3408, 3409, 3410, 3411, 3412, 3413, 4401, 4402, 4403, 4404, 4405, 4406, 4407, 4408, 4409, 4410, 4411, 4412, 4413, 4414, 4415, 4416\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n72\n\n\n\n\nExplanatory Notes:\n\n\t\n\n \n\n\n\n\n1.\n\n\t\n\nCHLL courses at 2000 and above level will be included in the calculation of Major GPA for honours classification.\n\n\n\n\n2.\n\n\t\n\nA Chinese Language and Literature Major student who pursues a second Major in Linguistics can be exempted from taking LING1002, 3108 and 4401 by taking CHLL3162, 4161 and 4110 respectively. Units earned can be counted towards both Major Programmes.\n\n\n\n\n3.\n\n\t\n\nA Chinese Language and Literature Major student who pursues a second Major in Fine Arts can be exempted from taking FAAS2117, 3105, 3223, 4106 and 4109 by taking CHLL4403, 4332, 4121, 4401 and 4402 respectively. Units earned can be counted towards both Major Programmes.\n\n\n\n\n[ ]\n\n\t\n\nOld course code used in 2024-25 and before.\n\n\n\n\n \n\n\n\n\n \n\n\t\n\nRecommended Course Pattern\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: 0-1 course\n\n\t\n\n0-3\n\n\n\n\nMajor Required: 2-3 courses from CHLL1110, 1211, 1401, 2350, 2403\n\n\t\n\n6-9\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nFaculty Package: 1-2 course(s)\n\n\t\n\n3-6\n\n\n\n\nMajor Required:  2-3 courses from CHLL1110, 1211, 1401, 2350, 2403\n\n\t\n\n6-9\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: 0-1 course\n\n\t\n\n0-3\n\n\n\n\nMajor Required:  1-2 course(s) from CHLL2121, 2302\n\n\t\n\n3-6\n\n\n\n\nMajor Elective(s): 0-1 course\n\n\t\n\n0-3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: 1-2 course(s) from CHLL2121, 2302\n\n\t\n\n3-6\n\n\n\n\nMajor Elective(s): 1-2 course(s)\n\n\t\n\n3-6\n\n\n\n\nThird Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: CHLL2131, 2212\n\n\t\n\n6\n\n\n\n\nMajor Elective(s): 2 courses\n\n\t\n\n6\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required:\n\n\t\n\n \n\n\n\n\nMajor Elective(s): 2 courses\n\n\t\n\n6\n\n\n\n\nFourth Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required:  CHLL4001\n\n\t\n\n0\n\n\n\n\nMajor Elective(s): 2 courses\n\n\t\n\n6\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: CHLL4002\n\n\t\n\n6\n\n\n\n\nMajor Elective(s): 2 courses\n\n\t\n\n6\n\n\n\n\nTotal (including Faculty Package):\n\n\t\n\n72\n\n\n\n\n \n\n\n\n\n \n\n\t\n\nRecommended Course Pattern for CUHK Students in fulfillment of requirements of the DDP with Peking University (BA in Chinese Language and Literature)\n\n\t\n\nUnits\n\n\n\n\nFirst Year of Attendance (Study at CUHK)\n\n \n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: 1 course\n\n\t\n\n3\n\n\n\n\nMajor Required: 3 courses from CHLL1110, 1211, 1401, 2302, 2350, 2403\n\n\t\n\n9\n\n\n\n\nUniversity Core: CHLT1001, College GE Course*, 0-1 course from PHED or UGCP1001 or UGCP1002\n\n\t\n\n6\n\n\n\n\n2nd term #\n\n\t\n\n \n\n\n\n\nFaculty Package: 1 course\n\n\t\n\n3\n\n\n\n\nMajor Required: 3 courses from CHLL1110, 1211, 1401, 2302, 2350, 2403\n\n\t\n\n9\n\n\n\n\nUniversity Core: CHLT1002, 1 ELTU course, 1 UGFH or UGFN course, 1 course from PHED or UGCP1001 or UGCP1002\n\n\t\n\n9\n\n\n\n\nSecond and Third Years of Attendance\n\n(Study at PKU)\n\n\t\n\nMajor Required: CHLL2121, 2131, 2212\n\nMajor Elective(s): 5 courses\n\nUniversity Core: 2 UGEA/C courses, 1 PHED course\n\n\t\n\nMinimum 29 units (with up to 24 units for fulfilment of the Major requirements) to be transferred from PKU to CUHK\n\n\n\n\n \n\n\n\n\n \n\n\n\n\n \n\n\n\n\n \n\n\n\n\n \n\n\n\n\nFourth Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: 1 course\n\n\t\n\n3\n\n\n\n\nMajor Required: CHLL4001\n\n\t\n\n0\n\n\n\n\nMajor Elective(s): 3 courses\n\n\t\n\n9\n\n\n\n\nUniversity Core: 1 UGFH or UGFN course, 1 ELTU course, 0-1 course from PHED or UGCP1001 or UGCP1002\n\n\t\n\n6\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: CHLL4002\n\n\t\n\n6\n\n\n\n\nMajor Elective(s): 2 courses\n\n\t\n\n6\n\n\n\n\nUniversity Core: College GE course*, 1 ENGG course, 1 course from PHED or UGCP1001 or UGCP1002\n\n\t\n\n4-6\n\n\n\n\nUnits taken at CUHK:\n\n\t\n\n73-75\n\n\n\n\nUnits taken at PKU and recognized by CUHK:\n\n\t\n\n29\n\n\n\n\nTotal:\n\n\t\n\n102-104\n\n\n\n\nExplanatory Notes:\n\n\n\n\n1.\n\n\t\n\nSubject to approval by the Major Programme concerned, students may opt out of the Dual Degree Programme. The decision to opt out is irrevocable. Students who have opted out are required to complete and fulfill all graduation requirements of the Major Programme at CUHK. Courses and units completed at the Host Institution can be transferred back for fulfillment of CUHK requirements, in accordance with the course mapping table.\n\n\n\n\n*\n\n\t\n\nThe recommended course pattern of College GE courses varies slightly depending on student’s College affiliation.\n\n\n\n\n#\n\n\t\n\nStudents not taking courses in the summer session will need to apply for approval by the Registrar to exceed the maximum term load.\n\n\n\t\t\t\n\n\n\n\n \n\n\n\n\n \n\n\t\n\nRecommended Course Pattern for Peking University Students in fulfillment of requirements of the DDP with CUHK (BA in Chinese Language and Literature)\n\n\t\n\nUnits\n\n\n\n\nFirst and Fourth Years of Attendance\n\n(Study at PKU)\n\n\t\n\nMajor Required: 3 courses, CHLL4001 and 4002\n\nMajor Elective: 3 courses\n\n\t\n\nMinimum 24 units (with up to 24 units for fulfilment of the Major requirements) to be transferred from PKU to CUHK\n\n\n\n\n \n\n\n\n\n \n\n\n\n\n \n\n\n\n\n \n\n\n\n\nSecond Year of Attendance\n(Study at CUHK)\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: 1 course\n\n\t\n\n3\n\n\n\n\nMajor Required: 2 courses from CHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403\n\n\t\n\n6\n\n \n\n\n\n\nMajor Elective(s): 1 course\n\n\t\n\n3\n\n\n\n\nUniversity Core: College GE course*, 1 PHED course\n\n\t\n\n3-4\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nFaculty Package: 1 course\n\n\t\n\n3\n\n\n\n\nMajor Required: 2 courses from CHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403\n\n\t\n\n6\n\n\n\n\nMajor Elective(s): 1 course\n\n\t\n\n3\n\n\n\n\nUniversity Core: 1 ELTU course, UGCP1001 or 1002\n\n\t\n\n3\n\n\n\n\nThird Year of Attendance\n(Study at CUHK)\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: 2 courses from CHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403\n\n\t\n\n6\n\n\n\n\nMajor Elective(s): 2 courses\n\n\t\n\n6\n\n\n\n\nUniversity Core: 1 UGFH or UGFN course\n\n\t\n\n3\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nFaculty Package: 1 course\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): 3 courses\n\n\t\n\n9\n\n\n\n\nUniversity Core: 1 UGEA course, UGCP1001 or 1002\n\n\t\n\n3\n\n\n\n\nUnits taken at CUHK:\n\n\t\n\n60-61\n\n\n\n\nUnits taken at PKU and recognized by CUHK:\n\n\t\n\n24\n\n\n\n\nTotal:\n\n\t\n\n84-85\n\n\n\n\n*\n\n\t\n\nThe recommended course pattern of College GE courses varies slightly depending on student’s College affiliation.\n\n\n\t\t\t\n\n\n\n\n \n\n\n\n\n \n\nMajor Programme Requirement (for Associate Degree holders admitted to senior-year places)\n\n \n\n\n\n\nStudents are required to complete a minimum of 60 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nRequired Courses:\n\n\t\n\n30\n\n\n\n\n(a)\n\n\t\n\nBasic courses\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nCHLL1110, 1211, 2121, 2131, 2212, 2302, 2350, 2403\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nSTOT courses\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nCHLL4001, 4002\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nElective Courses:\n\n\t\n\n30\n\n\n\n\n \n\n\t\n\nStudents are required to complete 30 units of elective courses from the following Speciality courses, of which at least one course from category (1) or (2) and one course from category (3) or (4).\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\nSpeciality courses:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(1)   Language and Linguistics\n\n\t\n\nCHLL\n\n\t\n\n3110, 3121, 3131, 3132, 3141, 3142, 3143, 3144, 3145, 3146, 3151, 3161, 3162, 4110, 4111, 4121, 4141, 4151, 4161\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(2)    Ancient Documents\n\n\t\n\nCHLL\n\n\t\n\n3221, 3222, 3223, 3231, 3232, 3233, 4224, 4241, 4242, 4243, 4244, 4251, 4252, 4253, 4254\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(3)    Classical Literature\n\n\t\n\nCHLL\n\n\t\n\n3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4341, 4342, 4343\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(4)    Modern Chinese         Literature\n\n\t\n\nCHLL\n\n\t\n\n3402, 3403, 3404, 3405, 3406, 3407, 3408, 3409, 3410, 3411, 3412, 3413, 4401, 4402, 4403, 4404, 4405, 4406, 4407, 4408, 4409, 4410, 4411, 4412, 4413, 4414, 4415, 4416\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n60\n\n\n\n\nExplanatory Note:\n\n\n\n\n1.\n\n\t\n\nCHLL courses at 2000 and above level will be included in the calculation of Major GPA for honours classification.\n\n\n\n\n \n\n\n\n\n \n\n\t\n\nRecommended Course Pattern (for Associate Degree holders admitted to senior-year places)\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: 3 courses from CHLL1110, 1211, 2121, 2302, 2350, 2403\n\n\t\n\n9\n\n\n\n\nMajor Elective(s): 2 courses\n\n\t\n\n6\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: 3 courses from CHLL1110, 1211, 2121, 2302, 2350, 2403\n\n\t\n\n9\n\n\n\n\nMajor Elective(s): 2 courses\n\n\t\n\n6\n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required:  CHLL2131, 2212, 4001\n\n\t\n\n6\n\n\n\n\nMajor Elective(s): 3 courses\n\n\t\n\n9\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required:  CHLL4002\n\n\t\n\n6\n\n\n\n\nMajor Elective(s): 3 courses\n\n\t\n\n9\n\n\n\n\nTotal:\n\n\t\n\n60\n\n\n\n\n \n\n\n\n\n \n\nMajor Programme Requirement (for Higher Diploma holders admitted to senior-year places)\n\n\n\n\n \n\n\n\n\nStudents are required to complete a minimum of 57 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nRequired Courses:\n\n\t\n\n27\n\n\n\n\n(a)\n\n\t\n\nBasic courses\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nCHLL1211, 2121, 2131, 2212, 2302, 2350, 2403\n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nSTOT courses\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nCHLL4001, 4002\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nElective Courses:\n\n\t\n\n30\n\n\n\n\n \n\n\t\n\nStudents are required to complete 30 units of elective courses from the following Speciality courses, of which at least one course from category (1) or (2) and one course from category (3) or (4).\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\nSpeciality courses:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(1)   Language and Linguistics\n\n\t\n\nCHLL\n\n\t\n\n3110, 3121, 3131, 3132, 3141, 3142, 3143, 3144, 3145, 3146, 3151, 3161, 3162, 4110, 4111, 4121, 4141, 4151, 4161\n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(2)    Ancient Documents\n\n\t\n\nCHLL\n\n\t\n\n3221, 3222, 3223, 3231, 3232, 3233, 4224, 4241, 4242, 4243, 4244, 4251, 4252, 4253, 4254\n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(3)    Classical Literature\n\n\t\n\nCHLL\n\n\t\n\n3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4341, 4342, 4343\n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(4)    Modern Chinese         Literature\n\n\t\n\nCHLL\n\n\t\n\n3402, 3403, 3404, 3405, 3406, 3407, 3408, 3409, 3410, 3411, 3412, 3413, 4401, 4402, 4403, 4404, 4405, 4406, 4407, 4408, 4409, 4410, 4411, 4412, 4413, 4414, 4415, 4416\n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n57\n\n\n\n\nExplanatory Note:\n\n\n\n\n1.\n\n\t\n\nCHLL courses at 2000 and above level will be included in the calculation of Major GPA for honours classification.\n\n\n\t\t\t\t\t\t\n\n\n\n\n \n\n\n\n\n \n\n\t\n\nRecommended Course Pattern (for Higher Diploma holders admitted to senior-year places)\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: 2-3 courses from CHLL1211, 2121, 2302, 2350, 2403\n\n\t\n\n6-9\n\n\n\n\nMajor Elective(s): 2 courses\n\n\t\n\n6\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: 2-3 courses from CHLL1211, 2121, 2302, 2350, 2403\n\n\t\n\n6-9\n\n\n\n\nMajor Elective(s): 2 courses\n\n\t\n\n6\n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required:  CHLL2131, 2212, 4001\n\n\t\n\n6\n\n\n\n\nMajor Elective(s): 3 courses\n\n\t\n\n9\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required:  CHLL4002\n\n\t\n\n6\n\n\n\n\nMajor Elective(s): 3 courses\n\n\t\n\n9\n\n\n\n\nTotal:\n\n\t\n\n57\n\n\n\n\n \n\n\n\n\nBachelor of Arts in Chinese Language and Literature and Translation Double Major Programme\n\n \n\n\n\n\n \n\nMajor Programme Requirement\n\n \n\n\t\n\n \n\n\n\n\nStudents are required to complete a minimum of 90 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nFaculty Package:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nAny three courses from:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nANTH1020, ARTS1005, 1009, 1010, BMBL1001, CHES1101 or 1102, CHLL1900 or 1902 or 1903, CURE1000, 1110, 1400[CUMT1000], ENGE1000, FAAS1900, HIST1000 or 1700 or 1701, JASP1090, LING1000, MUSC1000, PHIL1110, THEO1000\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nRequired Courses:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n1st Major: Chinese Language and Literature\n\n\t\n\n18\n\n\n\n\n(a)\n\n\t\n\nBasic Courses\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(i)\n\n\t\n\nCHLL2302\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(ii)\n\n\t\n\nStudents are required to complete 15 units of courses from the following lists of basic courses, including at least one course from each of category (1), (2) and (4).\n\n(1)    CHLL1110#, 2121, 2131\n\n(2)    CHLL1211#, 2212\n\n(3)    CHLL2350\n\n(4)    CHLL1401#, 2403\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\n2nd Major: Translation\n\n\t\n\n12\n\n\n\n\n(b)\n\n\t\n\nTRAN1010#, 1030#, 2070#, 2610#\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nElective Courses:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n1st Major: Chinese Language and Literature\n\n\t\n\n18\n\n\n\n\n(a)    \n\n\t\n\nStudents are required to complete 18 units of elective courses from the following Speciality courses, of which at least one course from category (1) or (2) and one course from category (3) or (4).\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\nSpeciality courses:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(1) Language and Linguistics\n\n\t\n\nCHLL 3110, 3121, 3131, 3132, 3141, 3142, 3143, 3144, 3145, 3146, 3151, 3161, 3162, 4110, 4111, 4121, 4141, 4151, 4161\n\n\n\n\n(2) Ancient Documents\n\n\t\n\nCHLL 3221, 3222, 3223, 3231, 3232, 3233, 4224, 4241, 4242, 4243, 4244, 4251, 4252, 4253, 4254\n\n\n\n\n(3) Classical Literature\n\n\t\n\nCHLL 3310, 3311, 3312, 3313, 3314, 3315, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4341, 4342, 4343\n\n\n\n\n(4) Modern Chinese Literature\n\n\t\n\nCHLL 3402, 3403, 3404, 3405, 3406, 3407, 3408, 3409, 3410, 3411, 3412, 3413, 4401, 4402, 4403, 4404, 4405, 4406, 4407, 4408, 4409, 4410, 4411, 4412, 4413, 4414, 4415, 4416\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\n2nd Major: Translation\n\nStudents are required to complete 27 units of elective courses from the following lists of courses, including at least one course from each of Electives Clusters A, B and C.\n\n\t\n\n27\n\n \n\n\n\n\n(b)\n\n\t\n\nElectives Cluster A: Translation Studies\n\nTRAN2120, 3080, 3720, 4070, 4210\n\n\t\n\n \n\n\n\n\n(c)\n\n\t\n\nElectives Cluster B: Interpreting\n\nTRAN2140, 2150, 2240, 2250, 3240, 4050\n\n\t\n\n \n\n\n\n\n(d)\n\n\t\n\nElectives Cluster C: Literary Translation\n\nTRAN3170, 3180, 3270, 3280\n\n\t\n\n \n\n\n\n\n(e)\n\n\t\n\nOther Electives\n\nTRAN1120, 1130, 2020, 2050, 2110, 2130, 2840, 3170, 3180, 3270, 3280, 3611, 3620, 3800, 3810, 3820, 3830, 3844, 3845, 3850, 3860, 3870, 3880, 3890, 4620, 4800, 4840 and unselected courses from Clusters A, B and C.\n\n\t\n\n \n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n4.\n\n\t\n\nResearch Component/ Capstone Course/ Final Year Project:\n\nCHLL4001, 4002\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n90\n\n\n\n\nExplanatory Notes:\n\n\n\n\n1.\n\n\t\n\nCHLL courses at 2000 and above level as well as those labeled as # will be included in the calculation of Major GPA for honours classification.\n\n\n\n\n2.\n\n\t\n\nSubject to approval by the Major Programmes concerned, students may opt out of the Double Major Programme and register for the 1st Major Programme only. The decision to opt out is irrevocable. Students who have opted out are required to complete and fulfill all graduation requirements by following the study scheme of the 1st Major Programme as a single major. Students should be aware that such decision may result in a delay in graduation because the requirements of the single major study scheme differ from those of the Double Major Programme.\n\n\n\n\n[ ]\n\n\t\n\nOld course code used in 2024-25 and before.\n\n\n\n\n \n\n\n\n\n \n\n\t\n\nRecommended Course Pattern\n\n\t\n\nUnits\n\n\n\n\nFirst Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: 1-2 course(s)\n\n\t\n\n3-6\n\n\n\n\nMajor Required: 0-1 CHLL course\n\n\t\n\n0-3\n\n\n\n\n \n\n\t\n\n1-2 course(s) from TRAN1010, 1030\n\n\t\n\n3-6\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nFaculty Package: 1-2 course(s)\n\n\t\n\n3-6\n\n\n\n\nMajor Required: 2-3 CHLL courses\n\n\t\n\n6-9\n\n\n\n\n \n\n\t\n\nTRAN1030 (if not taken)\n\n\t\n\n0-3\n\n\n\n\nMajor Elective(s): 0-1 course\n\n\t\n\n0-3\n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: 1-2 CHLL course(s)\n\n\t\n\n3-6\n\n\n\n\n \n\n\t\n\n1-2 course(s) from TRAN2070, 2610\n\n\t\n\n3-6\n\n\n\n\nMajor Elective(s): 1-2 course(s)\n\n\t\n\n3-6\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: 1-2 CHLL course(s)\n\n\t\n\n3-6\n\n\n\n\n \n\n\t\n\n0-1 course from TRAN2070, 2610\n\n\t\n\n0-3\n\n\n\n\nMajor Elective(s): 2-3 courses\n\n\t\n\n6-9\n\n\n\n\nThird Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: 0-1 CHLL course\n\n\t\n\n0-3\n\n\n\n\nMajor Elective(s): 2-3 courses\n\n\t\n\n6-9\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required:\n\n\t\n\n \n\n\n\n\nMajor Elective(s): 3-4 courses\n\n\t\n\n9-12\n\n\n\n\nFourth Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: CHLL4001\n\n\t\n\n0\n\n\n\n\nMajor Elective(s): 3-4 courses       \n\n\t\n\n9-12\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: CHLL4002\n\n\t\n\n6\n\n\n\n\nMajor Elective(s): 2-3 courses\n\n\t\n\n6-9\n\n\n\n\nTotal (including Faculty Package):\n\n\t\n\n90\n\n\n\n\n \n\n\n\n\nMinor Programme Title\n\nChinese Language and Literature\n\n \n\n\n\n\n \n\nMinor Programme Requirement\n\n \n\n\n\n\nStudents are required to complete a minimum of 21 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nElective Courses:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nBasic courses\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nAny 9 units of courses from the following:\n\nCHLL1110, 1211, 1401, 2121, 2131, 2212, 2302, 2350, 2403\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nSpeciality courses\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n9 units of courses from any speciality areas below:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(1) Language and Linguistics\n\n\t\n\nCHLL\n\n\t\n\n3110, 3121, 3131, 3132, 3141, 3142, 3143, 3144, 3145, 3146, 3151, 3161, 3162, 4110, 4111, 4121, 4141, 4151, 4161\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(2)   Ancient Documents\n\n\t\n\nCHLL\n\n\t\n\n3221, 3222, 3223, 3231, 3232, 3233, 4224, 4241, 4242, 4243, 4244, 4251, 4252, 4253, 4254\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(3)   Classical Literature\n\n\t\n\nCHLL\n\n\t\n\n3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3321, 3322, 3323, 3324, 3341, 3351, 4310, 4311, 4312, 4313, 4314, 4315, 4320, 4321, 4322, 4330, 4331, 4332, 4340, 4341, 4342, 4343\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(4)   Modern Chinese Literature\n\n\t\n\nCHLL\n\n\t\n\n3402, 3403, 3404, 3405, 3406, 3407, 3408, 3409, 3410, 3411, 3412, 3413, 4401, 4402, 4403, 4404, 4405, 4406, 4407, 4408, 4409, 4410, 4411, 4412, 4413, 4414, 4415, 4416\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n(c)\n\n\t\n\nAny one other Basic or Speciality course not taken to fulfill requirement 1(a) or 1(b)\n\n\t\n\n3\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n21\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\n\n\nCourse List\n\n \n\n\n\n\nCourse Code\n\n\t\n\nCourse Title\n\n\t\n\nUnit(s)\n\n\n\n\nCHLL1110\n\n\t\n\nIntroduction to Chinese Linguistics\n\n\t\n\n3\n\n\n\n\nCHLL1211\n\n\t\n\nIntroduction to Chinese Classic Texts\n\n\t\n\n3\n\n\n\n\nCHLL1401\n\n\t\n\nIntroduction to Literature\n\n\t\n\n3\n\n\n\n\nCHLL2121\n\n\t\n\nIntroduction to Chinese Philology\n\n\t\n\n3\n\n\n\n\nCHLL2131\n\n\t\n\nIntroduction to Chinese Phonology\n\n\t\n\n3\n\n\n\n\nCHLL2212\n\n\t\n\nIntroduction to the Study of Classical Chinese Texts\n\n\t\n\n3\n\n\n\n\nCHLL2302\n\n\t\n\nHistory of Chinese Literature\n\n\t\n\n3\n\n\n\n\nCHLL2350\n\n\t\n\nClassical Chinese Poetry: Selected Readings and Writing Practice\n\n\t\n\n3\n\n\n\n\nCHLL2403\n\n\t\n\nIntroduction to Modern Chinese Literature\n\n\t\n\n3\n\n\n\n\nCHLL3110\n\n\t\n\nApplied Linguistics\n\n\t\n\n3\n\n\n\n\nCHLL3121\n\n\t\n\nStudies in Chinese Characters\n\n\t\n\n3\n\n\n\n\nCHLL3131\n\n\t\n\nStudies in Chinese Phonology\n\n\t\n\n3\n\n\n\n\nCHLL3132\n\n\t\n\nChinese Prosodic Phonology\n\n\t\n\n3\n\n\n\n\nCHLL3141\n\n\t\n\nModern Chinese Grammar\n\n\t\n\n3\n\n\n\n\nCHLL3142\n\n\t\n\nComparative Grammar in Chinese and English\n\n\t\n\n3\n\n\n\n\nCHLL3143\n\n\t\n\nChinese Morphology\n\n\t\n\n3\n\n\n\n\nCHLL3144\n\n\t\n\nThe Study of Chinese Semantics\n\n\t\n\n3\n\n\n\n\nCHLL3145\n\n\t\n\nIntroduction to Chinese Lexical Semantics\n\n\t\n\n3\n\n\n\n\nCHLL3146\n\n\t\n\nThe Study of Chinese Pragmatics\n\n\t\n\n3\n\n\n\n\nCHLL3151\n\n\t\n\nChinese Rhetoric\n\n\t\n\n3\n\n\n\n\nCHLL3161\n\n\t\n\nPutonghua: Research and Teaching\n\n\t\n\n3\n\n\n\n\nCHLL3162\n\n\t\n\nStudy of Cantonese\n\n\t\n\n3\n\n\n\n\nCHLL3221\n\n\t\n\nLun Yu\n\n\t\n\n3\n\n\n\n\nCHLL3222\n\n\t\n\nMeng Zi\n\n\t\n\n3\n\n\n\n\nCHLL3223\n\n\t\n\nLi Ji\n\n\t\n\n3\n\n\n\n\nCHLL3231\n\n\t\n\nShi Ji\n\n\t\n\n3\n\n\n\n\nCHLL3232\n\n\t\n\nHan Shu\n\n\t\n\n3\n\n\n\n\nCHLL3233\n\n\t\n\nChinese Bibliography\n\n\t\n\n3\n\n\n\n\nCHLL3310\n\n\t\n\nPoetry of Tao Qian\n\n\t\n\n3\n\n\n\n\nCHLL3311\n\n\t\n\nPoetry of Li Bai\n\n\t\n\n3\n\n\n\n\nCHLL3312\n\n\t\n\nMajor Author(s) (Prose)\n\n\t\n\n3\n\n\n\n\nCHLL3313\n\n\t\n\nMajor Author(s) (Poetry)\n\n\t\n\n3\n\n\n\n\nCHLL3314\n\n\t\n\nMajor Author(s) (Ci Poetry)\n\n\t\n\n3\n\n\n\n\nCHLL3315\n\n\t\n\nCi Poetry of Su Shi and Xin Qiji\n\n\t\n\n3\n\n\n\n\nCHLL3316\n\n\t\n\nSelected Prose Works through All Ages\n\n\t\n\n3\n\n\n\n\nCHLL3317\n\n\t\n\nPoetry of the Han, Wei and Six Dynasties\n\n\t\n\n3\n\n\n\n\nCHLL3321\n\n\t\n\nClassical Chinese Fiction (Short Stories)\n\n\t\n\n3\n\n\n\n\nCHLL3322\n\n\t\n\nClassical Chinese Fiction (Novel)\n\n\t\n\n3\n\n\n\n\nCHLL3323\n\n\t\n\nScholar-Beauty Romance\n\n\t\n\n3\n\n\n\n\nCHLL3324\n\n\t\n\nChuanqi and Kun Opera in the Ming-Qing Period\n\n\t\n\n3\n\n\n\n\nCHLL3341\n\n\t\n\nWomen’s Literature from Ming through Qing\n\n\t\n\n3\n\n\n\n\nCHLL3351\n\n\t\n\nClassical Chinese Ci Poetry: Selected Readings and Writing Practice\n\n\t\n\n3\n\n\n\n\nCHLL3402\n\n\t\n\nModern Chinese Literature and Film\n\n\t\n\n3\n\n\n\n\nCHLL3403\n\n\t\n\nCreative Writing\n\n\t\n\n3\n\n\n\n\nCHLL3404\n\n\t\n\nModern Chinese Poetry\n\n\t\n\n3\n\n\n\n\nCHLL3405\n\n\t\n\nModern Chinese Prose\n\n\t\n\n3\n\n\n\n\nCHLL3406\n\n\t\n\nModern Chinese Fiction (Novella and Short Stories)\n\n\t\n\n3\n\n\n\n\nCHLL3407\n\n\t\n\nModern Chinese Fiction (Novel)\n\n\t\n\n3\n\n\n\n\nCHLL3408\n\n\t\n\nModern Chinese Drama\n\n\t\n\n3\n\n\n\n\nCHLL3409\n\n\t\n\nModern Fiction Workshop\n\n\t\n\n3\n\n\n\n\nCHLL3410\n\n\t\n\nModern Poetry Workshop\n\n\t\n\n3\n\n\n\n\nCHLL3411\n\n\t\n\nMedia Writing Workshop\n\n\t\n\n3\n\n\n\n\nCHLL3412\n\n\t\n\nTravel Writing\n\n\t\n\n3\n\n\n\n\nCHLL3413\n\n\t\n\nHong Kong Wen-yi Film Studies\n\n\t\n\n3\n\n\n\n\nCHLL4001\n\n\t\n\nIndependent Research I\n\n\t\n\n0\n\n\n\n\nCHLL4002\n\n\t\n\nIndependent Research II\n\n\t\n\n6\n\n\n\n\nCHLL4110\n\n\t\n\nSelected Topics in Chinese Linguistics I\n\n\t\n\n3\n\n\n\n\nCHLL4111\n\n\t\n\nSelected Topics in Chinese Linguistics II\n\n\t\n\n3\n\n\n\n\nCHLL4121\n\n\t\n\nChinese Paleography and Ancient Texts\n\n\t\n\n3\n\n\n\n\nCHLL4141\n\n\t\n\nChinese Historical Grammar\n\n\t\n\n3\n\n\n\n\nCHLL4151\n\n\t\n\nChinese Textual Exegesis\n\n\t\n\n3\n\n\n\n\nCHLL4161\n\n\t\n\nChinese Dialectology\n\n\t\n\n3\n\n\n\n\nCHLL4224\n\n\t\n\nZuo Zhuan\n\n\t\n\n3\n\n\n\n\nCHLL4241\n\n\t\n\nLu Shi Chun Qiu\n\n\t\n\n3\n\n\n\n\nCHLL4242\n\n\t\n\nZhuang Zi\n\n\t\n\n3\n\n\n\n\nCHLL4243\n\n\t\n\nXun Zi\n\n\t\n\n3\n\n\n\n\nCHLL4244\n\n\t\n\nHan Fei Zi\n\n\t\n\n3\n\n\n\n\nCHLL4251\n\n\t\n\nSelected Topics on Classical Texts I\n\n\t\n\n3\n\n\n\n\nCHLL4252\n\n\t\n\nSelected Topics on Excavated Texts I\n\n\t\n\n3\n\n\n\n\nCHLL4253\n\n\t\n\nSelected Topics on Classical Texts II\n\n\t\n\n3\n\n\n\n\nCHLL4254\n\n\t\n\nSelected Topics on Excavated Texts II\n\n\t\n\n3\n\n\n\n\nCHLL4310\n\n\t\n\nShi Jing\n\n\t\n\n3\n\n\n\n\nCHLL4311\n\n\t\n\nChu Ci\n\n\t\n\n3\n\n\n\n\nCHLL4312\n\n\t\n\nPoetry of Du Fu\n\n\t\n\n3\n\n\n\n\nCHLL4313\n\n\t\n\nProse of Han Yu\n\n\t\n\n3\n\n\n\n\nCHLL4314\n\n\t\n\nProse of Liu Zongyuan\n\n\t\n\n3\n\n\n\n\nCHLL4315\n\n\t\n\nPre-Qin Myths\n\n\t\n\n3\n\n\n\n\nCHLL4320\n\n\t\n\nClassical Chinese Drama\n\n\t\n\n3\n\n\n\n\nCHLL4321\n\n\t\n\nDrama of Tang Xianzu\n\n\t\n\n3\n\n\n\n\nCHLL4322\n\n\t\n\nHonglou meng\n\n\t\n\n3\n\n\n\n\nCHLL4330\n\n\t\n\nWenxin diaolong\n\n\t\n\n3\n\n\n\n\nCHLL4331\n\n\t\n\nClassical Literary Criticism\n\n\t\n\n3\n\n\n\n\nCHLL4332\n\n\t\n\nChinese Poetics\n\n\t\n\n3\n\n\n\n\nCHLL4340\n\n\t\n\nLiterature of the Jian'an Period\n\n\t\n\n3\n\n\n\n\nCHLL4341\n\n\t\n\nSelected Topics in Classical Chinese Literature I\n\n\t\n\n3\n\n\n\n\nCHLL4342\n\n\t\n\nChinese Literature (1840-1919)\n\n\t\n\n3\n\n\n\n\nCHLL4343\n\n\t\n\nSelected Topics in Classical Chinese Literature II\n\n\t\n\n3\n\n\n\n\nCHLL4401\n\n\t\n\nLiterature and Art\n\n\t\n\n3\n\n\n\n\nCHLL4402\n\n\t\n\nModern Literary Criticism\n\n\t\n\n3\n\n\n\n\nCHLL4403\n\n\t\n\nHong Kong Literature\n\n\t\n\n3\n\n\n\n\nCHLL4404\n\n\t\n\nChinese Women Writers\n\n\t\n\n3\n\n\n\n\nCHLL4405\n\n\t\n\nEileen Chang\n\n\t\n\n3\n\n\n\n\nCHLL4406\n\n\t\n\nStudies of Selected Modern Chinese Literature Author(s) I\n\n\t\n\n3\n\n\n\n\nCHLL4407\n\n\t\n\nSelected Topics in Modern Chinese Literature I\n\n\t\n\n3\n\n\n\n\nCHLL4408\n\n\t\n\nModern Chinese Literature and Culture\n\n\t\n\n3\n\n\n\n\nCHLL4409\n\n\t\n\nStudies of Selected Modern Chinese Literature Author(s) II\n\n\t\n\n3\n\n\n\n\nCHLL4410\n\n\t\n\nSelected Topics in Modern Chinese Literature II\n\n\t\n\n3\n\n\n\n\nCHLL4411\n\n\t\n\nLu Xun\n\n\t\n\n3\n\n\n\n\nCHLL4412\n\n\t\n\nCreative Writing Masterclass\n\n\t\n\n3\n\n\n\n\nCHLL4413\n\n\t\n\nSpecial Topics in Writing\n\n\t\n\n3\n\n\n\n\nCHLL4414\n\n\t\n\nLiterature and the Periodical\n\n\t\n\n3\n\n\n\n\nCHLL4415\n\n\t\n\nContemporary Chinese Literature and Disaster Narratives\n\n\t\n\n3\n\n\n\n\nCHLL4416\n\n\t\n\nEcology and Technology in Sinophone Media Culture\n\n\t\n\n3\n\n \n\n\n \n\nStudy Scheme\n\n\nLearning Outcomes\n \n\n\t\n\n1.\n\n\t\n\nMajor Programme:\n\n \n\n\n\n\nUpon successful completion of this Programme, students will (i) have acquired expertise in four primary fields in Chinese studies, namely, Chinese language and linguistics, classical Chinese texts, classical Chinese literature and modern Chinese literature; (ii) have acquired effective learning strategies and skills pertinent to Chinese studies and lifelong self-education; (iii) have enhanced their critical, intellectual and aesthetic sense and sensibilities; and (iv) have understood the cultural and social values that have shaped the contemporary world.\n\n\n\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nChinese Language and Literature and Translation Double Major Programme:\n\n\n\n\n \n\nUpon completing the Programme, students will have acquired the ability:\n\n\n\n\n(1)\n\n\t\n\nto have a general understanding of Chinese language in everyday life and in ancient time, and develop sustained interest in further pursuing some of the linguistic issues; (K/V)\n\n\n\n\n(2)\n\n\t\n\nto apply digital tools and databases in learning; (K/S)\n\n\n\n\n(3)\n\n\t\n\nto show creativity and critical thinking in learning; (S)\n\n\n\n\n(4)\n\n\t\n\nto demonstrate basic understanding of ancient texts and apply the methods of reading them; (K/S)\n\n\n\n\n(5)\n\n\t\n\nto gain the basic knowledge of literature and its development, and develop sustained interest in further pursuing some of the literary issues; (K/V)\n\n\n\n\n(6)\n\n\t\n\nto discuss the differences in literary texts, and apply literary concepts and theories to analyse texts; (K/S)\n\n\n\n\n(7)\n\n\t\n\nto express his or her ideas in a precise manner; (S)\n\n\n\n\n(8)\n\n\t\n\nto identify grammatical properties of Chinese and English in a linguistically informed manner; (K)\n\n\n\n\n(9)\n\n\t\n\nto describe and compare the similarities and differences between Chinese and English without prejudice, and be able to use this knowledge to produce high- quality translations; (K/S)\n\n\n\n\n(10)\n\n\t\n\nto synthesize the principles of comparative grammar and theorize about the linguistic facts, and be able to apply this knowledge in translation practice; (K)\n\n\n\n\n(11)\n\n\t\n\nto develop sustained interest in further pursuing some of the linguistic issues arisen from comparative grammar; (V)\n\n\n\n\n(12)\n\n\t\n\nto understand and evaluate translations across a wide range of genres, including literary, legal, business and media texts; (K/S)\n\n\n\n\n(13)\n\n\t\n\nto produce effective translations, using appropriate strategies in a variety of contexts; (K/S)\n\n\n\n\n(14)\n\n\t\n\nto provide effective consecutive or simultaneous interpretation, using appropriate strategies in a variety of contexts; (K/S)\n\n\n\n\n(15)\n\n\t\n\nto be able to conduct independent critical reflection of translations in the form of written and oral commentary; (K/S/V)\n\n\n\n\n(16)\n\n\t\n\nto understand basic concepts of translation and apply these concepts to the production and evaluation of translations; (K/V)\n\n\n\n\n(17)\n\n\t\n\nto understand theoretical orientations in translation studies in their cultural and historical contexts, and use appropriate theoretical models in the production and evaluation of translations; (K/V)\n\n\n\n\n(18)\n\n\t\n\nto understand the role of translators and interpreters in the dissemination of knowledge, the construction of identity, and the negotiation of power relations; and (K/V)\n\n\n\n\n(19)\n\n\t\n\nto develop intercultural awareness, a lifelong interest in learning, and a love for the richness of human expression. (K/V)\n\n\n\n\n \n\n\t\n\n \n\n\n\n\nK = Knowledge outcomes        S = Skills outcomes         V = Values and attitude outcomes\n\n\n\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nMinor Programme:\n\n \n\n\n\n\nUpon completion of the Minor Programme, students will have demonstrated basic understanding of fundamental issues related to the subject, acquired knowledge of some aspects of the subject with sufficient exposure and at a suitable level to allow further study in this subject or related subjects or to pursue a related career.\n\n \n\n          \n\n \n\n \n\n \n\n\n"
+}

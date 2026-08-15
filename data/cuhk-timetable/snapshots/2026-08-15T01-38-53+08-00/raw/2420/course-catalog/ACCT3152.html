@@ -1,0 +1,841 @@
+<html class="pc chrome mac psc_dir-ltr psc_form-xlarge" dir="ltr" lang="en"><!-- Copyright (c) 2000, 2018, Oracle and/or its affiliates. All rights reserved. --><head>
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<script language="JavaScript">
+var  totalTimeoutMilliseconds = 1800000; 
+var  warningTimeoutMilliseconds = 1500000; 
+var timeOutURL = 'https://cusis.cuhk.edu.hk/psc/CSPRD_164/EMPLOYEE/SA/?cmd=expire';
+var timeoutWarningPageURL = 'https://cusis.cuhk.edu.hk/psc/CSPRD_164/EMPLOYEE/SA/s/WEBLIB_TIMEOUT.PT_TIMEOUTWARNING.FieldFormula.IScript_TIMEOUTWARNING';
+var sRCRequestURL = 'https://cusis.cuhk.edu.hk/psc/CSPRD_164/EMPLOYEE/SA/s/WEBLIB_PTRC.ISCRIPT1.FieldFormula.IScript_RC_REQUEST';
+</script> 
+
+<link id="PSSTYLEREQ_1_css" rel="stylesheet" type="text/css" href="/cs/CSPRD/cache/PSSTYLEREQ_1.css">
+<link id="PSSTYLEDEF_TANGERINE_7_css" rel="stylesheet" type="text/css" href="/cs/CSPRD/cache/PSSTYLEDEF_TANGERINE_7.css">
+<title>Browse Catalog</title>
+<script language="JavaScript">
+try {
+document.domain = "cuhk.edu.hk";
+}
+catch(err) {;}
+</script>
+<script language="JavaScript">
+var winName='win164';
+var winParent = null;
+var modalID = null;
+var modalZoomName = null;
+var baseKey_win164 = "\x1b";
+var altKey_win164 = "0J5678\xbc\xbe\xbf\xde";
+var ctrlKey_win164 = "JK";
+var saveWarningKeys_win164 = "";
+var firstFocusID = null;
+var isNewSaveWarn = true;
+var bAccessibility_win164 =false;
+var bFMode =false;
+var bDoModal_win164 = false;
+var bJSModal_win164 = false;
+var bPromptPage_win164 = false;
+var bTabOverTB_win164 = false;
+var bTabOverPg_win164 = false;
+var bTabOverNonPS_win164 = false;
+var strCurrUrl='https://cusis.cuhk.edu.hk/psc/CSPRD_164/EMPLOYEE/SA/c/SA_LEARNER_SERVICES.SSS_BROWSE_CATLG.GBL?&PAGE=SSS_BROWSE_CATLG';
+var strReqURL='';
+var bIncInNavigation='T';
+var szPinCrefID='HC_SSS_BROWSE_CATLG_GBL';
+var szPinCrefReg='T';
+var szPinCrefLabel='Browse Course Catalog';
+var szCrefID='HC_SSS_BROWSE_CATLG_GBL';
+var szCrefReged='T';
+var szCrefVisible='F';
+var szCrefLabel='Browse Course Catalog';
+var szCrefUsageType='TARG';
+var localNodes = ['HRMS', 'PSFT_CS', 'PSFT_CSEE', 'PSFT_CSPUB', 'PSFT_HR', 'SA'];
+var remoteUrls = ['https://portal.cuhk.edu.hk/psp/EPPRD/EMPLOYEE/EMPL', 'https://portal.cuhk.edu.hk/psp/EPPUB/EMPLOYEE/PSFT_EPPUB', 'https://cupis.cuhk.edu.hk/psp/hrprd/EMPLOYEE/PSFT_HR_92'];
+bGenDomInfo = false;
+var szCalendarType = 'G';
+var bMenuSrchPage = false;
+var bGuidedAG = false;
+var bWSRP=0;var szMenuSrchText = "-999999-";
+var disablePNSubscriptions=1;var modalCloseUrl = '/cs/CSPRD/cache/PT_TRANS_16PIX_1.png';
+var modalCloseAlt = 'Close';
+var modalResizeUrl= '/cs/CSPRD/cache/PT_RESIZE_IMG_1.gif';
+var modalResizeAlt = 'Drag to resize';
+var modalMoveAlt = 'Drag to move';
+</script>
+<script language="JavaScript">
+try {
+document.domain = "cuhk.edu.hk";
+}
+catch(err) {;}
+</script>
+<script language="JavaScript" type="text/javascript" src="/cs/CSPRD/cache/PT_COMMON_MIN_1.js">
+</script>
+<script language="JavaScript" type="text/javascript" src="/cs/CSPRD/cache/PT_AJAX_NET_MIN_1.js">
+</script>
+<script language="JavaScript" type="text/javascript" src="/cs/CSPRD/cache/PT_SAVEWARNINGSCRIPT_MIN_1.js">
+</script>
+<script language="JavaScript" type="text/javascript" src="/cs/CSPRD/cache/PT_PAGESCRIPT_win164_MIN_1.js">
+</script>
+<script language="JavaScript" type="text/javascript" src="/cs/CSPRD/cache/PT_EDITSCRIPT_win164_MIN_1.js">
+</script>
+<script language="JavaScript" type="text/javascript" src="/cs/CSPRD/cache/PT_RC_JS_MIN_1.js">
+</script>
+<script language="JavaScript" type="text/javascript" src="/cs/CSPRD/cache/PT_POPUPSCRIPT_win164_MIN_1.js">
+</script>
+<script language="JavaScript" type="text/javascript" src="/cs/CSPRD/cache/PT_GRIDSCRIPT_win164_MIN_1.js">
+</script>
+<script language="JavaScript">
+var nResubmit=0;
+var nLastAction=0;
+var loader=null;
+if (typeof(bCleanHtml) == 'undefined')
+	var bCleanHtml = false;
+setupTimeout2();
+var postUrl_win164='https://cusis.cuhk.edu.hk/psc/CSPRD_164/EMPLOYEE/SA/c/SA_LEARNER_SERVICES.SSS_BROWSE_CATLG.GBL';
+function aAction_win164(form, id, params, bAjax, bPrompt, sAjaxTrfUrl, bWarning, sScriptAfter, nTrfURLType)
+{
+setupTimeout2();
+if ((id != '#ICSave'))
+processing_win164(1,3000);
+aAction0_win164(form, id, params, bAjax, bPrompt, sAjaxTrfUrl, bWarning, sScriptAfter, nTrfURLType);
+}
+function submitAction_win164(form, id, event, sAjaxTrfUrl, bWarning, sScriptAfter, nTrfURLType)
+{
+setupTimeout2();
+if (!ptCommonObj2.isICQryDownload(form, id))
+ { processing_win164(1,3000); }
+preSubmitProcess_win164(form, id);
+var spellcheckpos = id.indexOf('$spellcheck');
+if ((spellcheckpos != -1) && (id.indexOf('#KEYA5') != -1))
+	form.ICAction.value = id.substring(0,spellcheckpos);
+else 
+	form.ICAction.value=id;
+var actionName = form.ICAction.value;
+form.ICXPos.value=ptCommonObj2.getScrollX();
+form.ICYPos.value=ptCommonObj2.getScrollY();
+bcUpdater.storeBcDomData();
+if ((typeof(bAutoSave) != 'undefined') && bAutoSave)
+	form.ICAutoSave.value = '1';
+if (!ptCommonObj2.isAJAXReq(form, id) && !ptCommonObj2.isPromptReq(id)){
+if (nLastAction == 1 && nResubmit > 0) return;
+form.ICResubmit.value=nResubmit;
+form.submit();
+if (!ptCommonObj2.isICQryDownload(form, id))
+	nResubmit++;
+}
+else if (ptCommonObj2.isPromptReq(id))
+	pAction_win164(form, id, arguments[2]);
+else
+	aAction_win164(form, actionName, null, true, false, sAjaxTrfUrl, bWarning, sScriptAfter, nTrfURLType);
+cancelBubble(event);
+}
+</script>
+<script language="javascript">
+var pt_calHeadstyle=" class='PTCALHEAD' "
+var pt_calWeekHeadstyle=" class='PTCALWEEKHEAD' "
+function dateitemrefs()
+{
+this.pt_dateheader = "/cs/CSPRD/cache/PT_PORTAL_IC_CLOSE_SD_CSS_1.gif";
+this.pt_datering = "/cs/CSPRD/cache/PT_CURRENT_DATE_SD_CSS_1.gif";
+this.pt_datesel = "/cs/CSPRD/cache/PT_SELECTED_DATE_SD_CSS_1.gif";
+this.pt_nextmonth = "/cs/CSPRD/cache/PT_RIGHT_SCROLL_SD_CSS_1.gif";
+this.pt_prevmonth= "/cs/CSPRD/cache/PT_LEFT_SCROLL_SD_CSS_1.gif";
+this.pt_daystitle_hijri = "/cs/CSPRD/cache/PT_DATE_TITLE_S6_1.GIF";
+this.pt_daystitle_thai = "/cs/CSPRD/cache/PT_DATE_TITLE_S0_1.GIF";
+this.pt_daystitle_s0 = "/cs/CSPRD/cache/PT_DATE_TITLE_S0_1.GIF";
+this.pt_daystitle_m1 = "/cs/CSPRD/cache/PT_DATE_TITLE_M1_1.GIF";
+this.pt_daystitle_t2 = "/cs/CSPRD/cache/PT_DATE_TITLE_T2_1.GIF";
+this.pt_daystitle_w3 = "/cs/CSPRD/cache/PT_DATE_TITLE_W3_1.GIF";
+this.pt_daystitle_t4 = "/cs/CSPRD/cache/PT_DATE_TITLE_T4_1.GIF";
+this.pt_daystitle_f5 = "/cs/CSPRD/cache/PT_DATE_TITLE_F5_1.gif";
+this.pt_daystitle_s6 = "/cs/CSPRD/cache/PT_DATE_TITLE_S6_1.GIF";
+}
+ 
+function LoadCalendar()
+{
+var dateitems = new dateitemrefs();
+loadImages(dateitems);
+}
+function DatePrompt0_win164(dtfield,promptfield,yrfmt,bsubmit)
+{
+setupTimeout2();
+openDate_win164(dtfield, promptfield, "YMD/"+yrfmt,bsubmit,"G",0);
+}
+</script>
+<script language="JavaScript" ptdefer="defer">
+if (typeof ptStyleSheet == "undefined") {
+ptStyleSheet = 'PSSTYLEDEF_TANGERINE';
+}
+function onLoadExt_win164() {
+modalZoomName = null;
+var pt_pageinfo = document.getElementById('pt_pageinfo_win164');
+if (pt_pageinfo) {
+pt_pageinfo.setAttribute('Page', 'SSS_BROWSE_CATLG');
+pt_pageinfo.setAttribute('Component', 'SSS_BROWSE_CATLG');
+pt_pageinfo.setAttribute('Menu', 'SA_LEARNER_SERVICES');
+pt_pageinfo.setAttribute('Mode', 'CLASSIC');
+}
+var pt_liveregion = document.getElementById('pt_liveregion');
+if (pt_liveregion) pt_liveregion.innerHTML = '';
+g_bAccessibilityMode=false;
+var actn='';
+if (!isCrossDomainTop()) top.document.title=document.title;
+setKeyEventHandler_win164();ptEvent.add(window,'scroll',positionWAIT_win164);
+ptCommonObj2.generateABNSearchResults(document.win164);
+getGblSrchPageNum(actn);
+if (gSrchRsltPageNum <= 5) getAllRelatedActions();
+
+ptCommonObj2.moveUnivSrchDiv();
+if (typeof(HelppopupObj_win164) != 'undefined' && HelppopupObj_win164 != null)
+ HelppopupObj_win164.StopPopup('win164');
+if (typeof(ptLongEditCounter) != 'undefined' && ptLongEditCounter != null)
+   ptLongEditCounter.onLoadLongEditCounter();
+ResetGlyph_win164();
+if (typeof ptGridObj_win164 != 'undefined' && ptGridObj_win164)
+ ptGridObj_win164.clearGridArr();
+objToBeFocus = null;
+if (typeof oWin == 'undefined') setEventHandlers_win164('ICFirstAnchor_win164', 'ICLastAnchor_win164', false);
+ else
+ oWin.setEventHandlers_win164('ICFirstAnchor_win164', 'ICLastAnchor_win164', false);
+try{
+if (top.document.getElementById('ptdropdownmenu'))
+{
+top.document.getElementById('ptdropdownmenu').className = "pthnavbarhide";
+}
+
+if (top.document.getElementById('classicbackbuttoncontainer'))
+{
+top.document.getElementById('classicbackbuttoncontainer').className = "pthnavbarhide";
+}
+}catch(e) { if(typeof String !== 'undefined') alert('custom javascript error ' + e.message); }
+setFocus_win164('DERIVED_SSTSNAV_SSTS_NAV_TABS_DIS',-1);
+ptLoadingStatus_empty(0);
+setupTimeout2();
+processing_win164(0,3000);
+ptConsole2.enable();
+
+UpdateBreadCrumbs();
+GenerateABN();
+GenerateFakeBC();
+bcUpdateForPTF();if (typeof(myAppsWindowOpenJS) != 'undefined' && myAppsWindowOpenJS != null && myAppsWindowOpenJS != '')
+ {
+try {eval(myAppsWindowOpenJS);} catch(e) {}
+  myAppsWindowOpenJS=null;
+}
+ResetGlyph_win164();setPageletInfoInCtxmenu_win164("false");
+GetDomData(win164, "TargetContent", "#GetDomInfo");
+}
+try{ptEvent.load(onLoadExt_win164);}catch(e){}
+</script><script id="ckeditor_js" type="text/javascript" src="https://cusis.cuhk.edu.hk/cs/CSPRD/ckeditor/ckeditor.js"></script><style>.cke{visibility:hidden;}</style><script id="pt_rte_fillcache_js" type="text/javascript" src="https://cusis.cuhk.edu.hk/cs/CSPRD/ckeditor/pt_rte_fillcache.js"></script><script type="text/javascript" id="win164_0_HAScript">var RichTextValue = PTRTEFillcache('/psc/CSPRD_newwin/EMPLOYEE/SA/c/SA_LEARNER_SERVICES.SSS_BROWSE_CATLG.GBL','PT_RTE_IMG_DB_LOC','record://PTRTDB','CU_CRSECAT_WRK_DESCRLONG$0','1');
+var TextAreaObject = document.getElementById('CU_CRSECAT_WRK_DESCRLONG$0');
+if (typeof(TextAreaObject) != 'undefined' && TextAreaObject != null) TextAreaObject.innerHTML = RichTextValue;
+</script></head>
+<body tabindex="-1" class="PSPAGE">
+<div id="pt_pageinfo_win164" page="SSS_CRSE_OFFER_DTL" component="SSS_CRSE_OFFER_DTL" menu="SA_LEARNER_SERVICES" mode="CLASSIC"><!----></div>
+<form id="SSS_BROWSE_CATLG" name="win164" method="post" action="https://cusis.cuhk.edu.hk/psc/CSPRD_164/EMPLOYEE/SA/c/SA_LEARNER_SERVICES.SSS_BROWSE_CATLG.GBL" autocomplete="off" class="PSForm">
+<div class="ps_box-toolshiddens" id="win164divPSTOOLSHIDDENS"><div class="ps_modalmask_cover psc_hidden" id="pt_modalMaskCover">&nbsp;</div><div class="ps_modalmask psc_hidden" id="pt_modalMask">&nbsp;</div><div id="pt_modals" class="PSMODAL"><div id="ptModalShadow" class="popupDragFrame" style="cursor:nw-resize">&nbsp;</div></div>
+<div class="ps_ajax_console psc_hidden" id="pt_console"><input type="button" id="COPYCONSOLE" value="Copy" onclick="ptConsole2.copy();" alt="copy to clipboard" title="copy to clipboard"><input type="button" id="CLEARCONSOLE" onclick="ptConsole2.clear();" value="Clear" alt="clear console" title="clear console"><input type="button" id="HIDECONSOLE" onclick="ptConsole2.hide();" value="Hide" alt="hide console" title="hide console"><input type="button" id="CLOSECONSOLE" onclick="ptConsole2.deactive();" value="Close" alt="close console" title="close console"></div><div class="ps_typeahead psc_hidden" id="pt_typeahead0"><span id="pt_typeahead" class="spanTextDropdown">&nbsp;</span></div><div id="WAIT_win164" style="display: none; position: absolute; right: 0px; z-index: 99991; visibility: hidden; top: 265px;"><img id="processing" align="left" src="/cs/CSPRD/cache/PT_PROCESSING_1.gif" alt="Processing... please wait" title="Processing... please wait"></div>
+ <div style="visibility: hidden; display: none; position: absolute; left: -10000px; top: auto; width: 1px; height: 1px; overflow: hidden;" aria-relevant="text additions" aria-live="assertive" aria-atomic="true" class="psc_processing psc_hidden" id="Delayed_win164"></div><div id="SAVED_win164" style="display: none; position: absolute; right: 0px; z-index: 99991; visibility: hidden; top: 190px;"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img src="/cs/CSPRD/cache/PTPORTAL_POPBOX_LEFT_1.gif" width="7" height="39" border="0" alt=""></td><td id="saveWait_win164" width="35" align="center" valign="middle" background="/cs/CSPRD/cache/PTPORTAL_POPBOX_CENTER_1.gif" style="display: none;"><img src="/cs/CSPRD/cache/PT_LOADER_1.gif" width="24" height="24" alt=""></td><td nowrap="nowrap" background="/cs/CSPRD/cache/PTPORTAL_POPBOX_CENTER_1.gif"><span id="ptStatusText_win164" dir="ltr" class="PSPROCESSING">Saved</span></td><td><img src="/cs/CSPRD/cache/PTPORTAL_POPBOX_RIGHT_1.gif" width="6" height="39" alt=""></td><td>&nbsp;</td></tr></tbody></table></div><div class="x" id="win164divPSHIDDENFIELDS" style="display:none"><input type="hidden" name="ICType" id="ICType" value="Panel">
+<input type="hidden" name="ICElementNum" id="ICElementNum" value="164">
+<input type="hidden" name="ICStateNum" id="ICStateNum" value="23">
+<input type="hidden" name="ICAction" id="ICAction" value="None">
+<input type="hidden" name="ICModelCancel" id="ICModelCancel" value="0">
+<input type="hidden" name="ICXPos" id="ICXPos" value="0">
+<input type="hidden" name="ICYPos" id="ICYPos" value="0">
+<input type="hidden" name="ResponsetoDiffFrame" id="ResponsetoDiffFrame" value="-1">
+<input type="hidden" name="TargetFrameName" id="TargetFrameName" value="None">
+<input type="hidden" name="FacetPath" id="FacetPath" value="None">
+<input type="hidden" name="ICFocus" id="ICFocus" value="">
+<input type="hidden" name="ICSaveWarningFilter" id="ICSaveWarningFilter" value="0">
+<input type="hidden" name="ICChanged" id="ICChanged" value="-1">
+<input type="hidden" name="ICSkipPending" id="ICSkipPending" value="0">
+<input type="hidden" name="ICAutoSave" id="ICAutoSave" value="0">
+<input type="hidden" name="ICResubmit" id="ICResubmit" value="0">
+<input type="hidden" name="ICSID" id="ICSID" value="VEn+m1DJ3DgioPtECFWV9x0urZh3zjUOC71EDkU24Es=">
+<input type="hidden" name="ICActionPrompt" id="ICActionPrompt" value="false">
+<input type="hidden" name="ICBcDomData" id="ICBcDomData" value="">
+<input type="hidden" name="ICPanelName" id="ICPanelName" value="">
+<input type="hidden" name="ICFind" id="ICFind" value="">
+<input type="hidden" name="ICAddCount" id="ICAddCount" value="">
+<input type="hidden" name="ICAppClsData" id="ICAppClsData" value="">
+</div>
+</div>
+<a name="ICFirstAnchor_win164" id="ICFirstAnchor_win164"></a>
+<div class="ps_header_panel" id="PT_HEADER_PANEL"></div>
+<div class="" id="win164divPAGEBAR"><div><table cols="3" width="100%" cellpadding="0" cellspacing="0" hspace="0" vspace="0">
+<tbody><tr>
+<td width="80%"></td><td width="10%" nowrap="nowrap" align="right"><label for="#ICDataLang"><span class="PSDROPDOWNLABEL">Data Language:&nbsp;&nbsp;</span><select name="#ICDataLang" id="#ICDataLang" tabindex="1" class="PSMULTILANG" psaccesskey="9" onchange="addchg_win164(this);submitAction_win164(this.form,this.id);">
+<option value="ENG" selected="selected">English</option>
+<option value="ZHS">Simplified Chinese</option>
+<option value="ZHT">Traditional Chinese</option>
+</select></label></td>
+<td width="10%" nowrap="nowrap" align="right"></td></tr>
+</tbody></table>
+</div></div>
+<script type="text/javascript">
+if (typeof window.top.ptrc != "undefined" && window.top.ptrc != null){window.top.ptrc.SetRcEnabled(false);}</script>
+<div class="ps_box-pagetabs psc_hidden" id="win164divPSPANELTABS"></div>
+<div class="ps_pagecontainer" id="win164divPAGECONTAINER"><table class="PSPAGECONTAINER" role="main" aria-labelledby="app_label"><tbody><tr><td>
+<div class="ps_pspagecontainer" id="win164divPSPAGECONTAINER"><table role="presentation" border="0" id="ACE_width" cellpadding="0" cellspacing="0" class="PSPAGECONTAINER" cols="14" width="851">
+<tbody><tr>
+<td width="0" height="0"></td>
+<td width="4"></td>
+<td width="4"></td>
+<td width="4"></td>
+<td width="1"></td>
+<td width="3"></td>
+<td width="180"></td>
+<td width="4"></td>
+<td width="136"></td>
+<td width="324"></td>
+<td width="17"></td>
+<td width="15"></td>
+<td width="52"></td>
+<td width="107"></td>
+</tr>
+<tr>
+<td height="110"></td>
+<td colspan="12" valign="top" align="left">
+<div id="win164divDERIVED_SCC_SUM_GROUP6"><table cellpadding="2" cellspacing="0" cols="1" class="PABACKGROUNDINVISIBLEWBO" width="743">
+<tbody><tr><td width="741">
+<table role="presentation" border="0" id="ACE_DERIVED_SCC_SUM_GROUP6" cellpadding="0" cellspacing="0" cols="3" width="741" class="PABACKGROUNDINVISIBLE" style="border-style:none">
+<tbody><tr>
+<td width="0" height="0"></td>
+<td width="636"></td>
+<td width="106"></td>
+</tr>
+<tr>
+<td height="105"></td>
+<td valign="top" align="left">
+<div id="win164divDERIVED_REGFRM1_GROUP_BOX"><table cellpadding="2" cellspacing="0" cols="1" class="PABACKGROUNDINVISIBLEWBO" width="635">
+<tbody><tr><td width="633">
+<table role="presentation" border="0" id="ACE_DERIVED_REGFRM1_GROUP_BOX" cellpadding="0" cellspacing="0" cols="3" width="633" class="PABACKGROUNDINVISIBLE" style="border-style:none">
+<tbody><tr>
+<td width="3" height="0"></td>
+<td width="620"></td>
+<td width="10"></td>
+</tr>
+<tr>
+<td height="96"></td>
+<td valign="top" align="left">
+<div id="win164divDERIVED_SSTSNAV_GROUP_BOX"><table cellpadding="2" cellspacing="0" cols="1" class="PABACKGROUNDINVISIBLEWBO" width="619">
+<tbody><tr><td width="617">
+<table role="presentation" border="0" id="ACE_DERIVED_SSTSNAV_GROUP_BOX" cellpadding="0" cellspacing="0" cols="5" width="617" class="PABACKGROUNDINVISIBLE" style="border-style:none">
+<tbody><tr>
+<td width="7" height="0"></td>
+<td width="1"></td>
+<td width="1"></td>
+<td width="603"></td>
+<td width="5"></td>
+</tr>
+<tr>
+<td height="27" colspan="3"></td>
+<td colspan="2" valign="top" align="left">
+<div id="win164divDERIVED_SSTSNAV_PERSON_NAME"><span class="PALEVEL0PRIMARY" id="DERIVED_SSTSNAV_PERSON_NAME">XU, Jinpeng</span>
+</div></td>
+</tr>
+<tr>
+<td height="24"></td>
+<td valign="top" align="left">
+<div id="win164divDERIVED_SSTSNAV_SSTS_NAV_TABS_DIS"><div style="width:1px; ">
+<!-- Begin HTML Area Name Undisclosed -->
+
+<!-- End HTML Area -->
+</div>
+</div></td>
+<td colspan="2" valign="top" align="left">
+<div id="win164divDERIVED_SSTSNAV_SSTS_NAV_TABS"><div style="width:604px; ">
+<!-- Begin HTML Area Name Undisclosed -->
+
+<!-- End HTML Area -->
+</div>
+</div></td>
+</tr>
+<tr>
+<td height="28"></td>
+<td rowspan="2" valign="top" align="left">
+<div id="win164divDERIVED_SSTSNAV_SSTS_NAV_STABS_DIS"><div style="width:1px; ">
+<!-- Begin HTML Area Name Undisclosed -->
+
+<!-- End HTML Area -->
+</div>
+</div></td>
+<td colspan="2" valign="top" align="left">
+<div id="win164divDERIVED_SSTSNAV_SSTS_NAV_SUBTABS"><div style="width:604px; ">
+<!-- Begin HTML Area Name Undisclosed -->
+
+<!-- End HTML Area -->
+</div>
+</div></td>
+</tr>
+<tr>
+<td height="12"></td>
+<td></td>
+<td colspan="2" valign="top" align="left">
+<div id="win164divDERIVED_REGFRM1_SS_TRANSACT_TITLE"><span role="heading" aria-level="1" class="PATRANSACTIONTITLE" id="DERIVED_REGFRM1_SS_TRANSACT_TITLE">Browse Course Catalog</span>
+</div></td>
+</tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+</div></td>
+</tr>
+<tr>
+<td height="9" colspan="3"></td>
+</tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+</div></td>
+</tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+</div></td>
+</tr>
+<tr>
+<td height="2" colspan="14"></td>
+</tr>
+<tr>
+<td height="37" colspan="5"></td>
+<td colspan="9" valign="top" align="left">
+<div id="win164divDERIVED_REGFRM1_TITLE1"><span class="PAPAGETITLE" id="DERIVED_REGFRM1_TITLE1">Course Detail</span>
+</div></td>
+</tr>
+<tr>
+<td height="8" colspan="3"></td>
+<td colspan="5" valign="top" align="left">
+<div id="win164div$ICField161"><table cellpadding="2" cellspacing="0" cols="1" class="PABACKGROUNDINVISIBLEWBO" width="192">
+<tbody><tr><td width="190" height="-9">
+</td></tr>
+</tbody></table>
+</div></td>
+</tr>
+<tr>
+<td height="10" colspan="14"></td>
+</tr>
+<tr>
+<td height="14" colspan="4"></td>
+<td colspan="10" nowrap="nowrap" valign="top" align="left">
+<div id="win164divDERIVED_SAA_CRS_RETURN_PB"><span id="DERIVED_SAA_CRS_RETURN_PB$span" class="PSHYPERLINK" title="Return"><a name="DERIVED_SAA_CRS_RETURN_PB" id="DERIVED_SAA_CRS_RETURN_PB" ptlinktgt="pt_peoplecode" tabindex="69" onclick="javascript:cancelBubble(event);" href="javascript:submitAction_win164(document.win164,'DERIVED_SAA_CRS_RETURN_PB');" class="PSHYPERLINK">Return to Browse Course Catalog</a></span></div></td>
+</tr>
+<tr>
+<td height="8" colspan="3"></td>
+<td colspan="5" valign="top" align="left">
+<div id="win164div$ICField160"><table cellpadding="2" cellspacing="0" cols="1" class="PABACKGROUNDINVISIBLEWBO" width="192">
+<tbody><tr><td width="190" height="-9">
+</td></tr>
+</tbody></table>
+</div></td>
+</tr>
+<tr>
+<td height="10" colspan="14"></td>
+</tr>
+<tr>
+<td height="24" colspan="5"></td>
+<td colspan="9" valign="top" align="left">
+<div id="win164divDERIVED_CRSECAT_DESCR200"><span class="PABOLDBLUETEXT" id="DERIVED_CRSECAT_DESCR200">ACCT 3152 - Company Law</span>
+</div></td>
+</tr>
+<tr>
+<td height="8" colspan="3"></td>
+<td colspan="5" valign="top" align="left">
+<div id="win164div$ICField54"><table cellpadding="2" cellspacing="0" cols="1" class="PABACKGROUNDINVISIBLEWBO" width="192">
+<tbody><tr><td width="190" height="-9">
+</td></tr>
+</tbody></table>
+</div></td>
+</tr>
+<tr>
+<td height="5" colspan="14"></td>
+</tr>
+<tr>
+<td height="434" colspan="2"></td>
+<td colspan="10" valign="top" align="left">
+<div id="win164divDERIVED_SAA_CRS_GROUP1"><table role="presentation" border="0" id="ACE_DERIVED_SAA_CRS_GROUP1" cellpadding="0" cellspacing="0" cols="6" width="687" class="PSGROUPBOX" style="border-style:none">
+<tbody><tr>
+<td width="9" height="0"></td>
+<td width="7"></td>
+<td width="456"></td>
+<td width="4"></td>
+<td width="200"></td>
+<td width="11"></td>
+</tr>
+<tr>
+<td height="131" colspan="2"></td>
+<td rowspan="3" valign="top" align="left">
+<div id="win164divDERIVED_CRSECAT_SSR_GROUP1$0"><table cellpadding="0" cellspacing="0" cols="1" class="PSGROUPBOXNBO" width="455">
+<tbody><tr><td class="PSGROUPBOXLABEL" align="left">Course Detail</td></tr>
+<tr><td width="455">
+<table role="presentation" border="0" id="ACE_DERIVED_CRSECAT_SSR_GROUP1$0" cellpadding="0" cellspacing="0" cols="5" width="455" class="PSGROUPBOX" style="border-style:none">
+<tbody><tr>
+<td width="8" height="13"></td>
+<td width="148"></td>
+<td width="5"></td>
+<td width="211"></td>
+<td width="83"></td>
+</tr>
+<tr>
+<td height="4" colspan="3"></td>
+<td colspan="2" rowspan="2" valign="top" align="left">
+<div id="win164divSSR_CRSE_OFF_VW_ACAD_CAREER$0"><span class="PSDROPDOWNLIST_DISPONLY" id="SSR_CRSE_OFF_VW_ACAD_CAREER$0">Undergraduate</span>
+</div></td>
+</tr>
+<tr>
+<td height="17"></td>
+<td colspan="2" rowspan="2" valign="top" align="left">
+<div id="win164divSSR_CRSE_OFF_VW_ACAD_CAREERlbl$0"><span class="PSDROPDOWNLABEL">Career</span></div></td>
+</tr>
+<tr>
+<td height="3"></td>
+<td colspan="2" rowspan="2" valign="top" align="left">
+<div id="win164divDERIVED_CRSECAT_UNITS_RANGE$0"><span class="PSEDITBOX_DISPONLY" id="DERIVED_CRSECAT_UNITS_RANGE$0">3.00</span>
+</div></td>
+</tr>
+<tr>
+<td height="16"></td>
+<td colspan="2" rowspan="2" valign="top" align="left">
+<div id="win164divDERIVED_CRSECAT_UNITS_RANGElbl$0"><span class="PSEDITBOXLABEL">Units</span></div></td>
+</tr>
+<tr>
+<td height="4"></td>
+<td colspan="2" rowspan="2" valign="top" align="left">
+<div id="win164divSSR_CRSE_OFF_VW_GRADING_BASIS$0"><span class="PSDROPDOWNLIST_DISPONLY" id="SSR_CRSE_OFF_VW_GRADING_BASIS$0">Graded</span>
+</div></td>
+</tr>
+<tr>
+<td height="15"></td>
+<td colspan="2" valign="top" align="left">
+<div id="win164divSSR_CRSE_OFF_VW_GRADING_BASISlbl$0"><span class="PSDROPDOWNLABEL">Grading Basis</span></div></td>
+</tr>
+<tr>
+<td height="5" colspan="2"></td>
+<td colspan="2" rowspan="2" valign="top" align="left">
+<div id="win164divSSR_DUMMY_RECVW$0"><table cellpadding="2" cellspacing="0" cols="1" class="PABACKGROUNDINVISIBLEWBO" id="SSR_DUMMY_RECVW$scroll$0" onclick="getScrollTableId('SSR_DUMMY_RECVW$scroll$0')" width="215">
+<tbody><tr><td width="213">
+<table role="presentation" border="0" id="ACE_SSR_DUMMY_RECVW$0" cellpadding="0" cellspacing="0" cols="3" width="213" class="PABACKGROUNDINVISIBLE" style="border-style:none">
+<tbody><tr>
+<td width="4" height="5"></td>
+<td width="112"></td>
+<td width="97"></td>
+</tr>
+<tr>
+<td height="10"></td>
+<td valign="top" align="left">
+<div id="win164divDERIVED_CRSECAT_DESCR$0"><span class="PSEDITBOX_DISPONLY" id="DERIVED_CRSECAT_DESCR$0">Lecture</span>
+</div></td>
+<td valign="top" align="left">
+<div id="win164divDERIVED_CRSECAT_DESCR50$0"><span class="PSEDITBOX_DISPONLY" id="DERIVED_CRSECAT_DESCR50$0">Required</span>
+</div></td>
+</tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+</div></td>
+</tr>
+<tr>
+<td height="12"></td>
+<td rowspan="2" valign="top" align="left">
+<div id="win164divSR_LBL_WRK_CRSE_COMPONENT_LBLlbl$0"><span class="PSEDITBOXLABEL">Course Components</span></div></td>
+</tr>
+<tr>
+<td height="9"></td>
+</tr>
+<tr>
+<td height="1"></td>
+<td colspan="2" rowspan="2" valign="top" align="left">
+<div id="win164divSSR_CRSE_OFF_VW_CAMPUSlbl$0"><span class="PSEDITBOXLABEL">Campus</span></div></td>
+</tr>
+<tr>
+<td height="19"></td>
+<td colspan="2" rowspan="2" valign="top" align="left">
+<div id="win164divCAMPUS_TBL_DESCR$0"><span class="PSEDITBOX_DISPONLY" id="CAMPUS_TBL_DESCR$0">Main Campus</span>
+</div></td>
+</tr>
+<tr>
+<td height="1"></td>
+<td colspan="2" rowspan="2" valign="top" align="left">
+<div id="win164divSSR_CRSE_OFF_VW_ACAD_GROUPlbl$0"><span class="PSEDITBOXLABEL">Academic Group</span></div></td>
+</tr>
+<tr>
+<td height="19"></td>
+<td colspan="2" rowspan="2" valign="top" align="left">
+<div id="win164divACAD_GROUP_TBL_DESCR$0"><span class="PSEDITBOX_DISPONLY" id="ACAD_GROUP_TBL_DESCR$0">Sch of Accountancy</span>
+</div></td>
+</tr>
+<tr>
+<td height="1"></td>
+<td colspan="2" rowspan="2" valign="top" align="left">
+<div id="win164divSSR_CRSE_OFF_VW_ACAD_ORGlbl$0"><span class="PSEDITBOXLABEL">Academic Organization</span></div></td>
+</tr>
+<tr>
+<td height="19"></td>
+<td colspan="2" valign="top" align="left">
+<div id="win164divACAD_ORG_TBL_DESCR$0"><span class="PSEDITBOX_DISPONLY" id="ACAD_ORG_TBL_DESCR$0">Sch of Accountancy</span>
+</div></td>
+</tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+</div></td>
+</tr>
+<tr>
+<td height="28" colspan="2"></td>
+<td rowspan="3"></td>
+<td colspan="2" nowrap="nowrap" valign="top" align="left">
+<div id="win164divCU_DERIVED_CUR_CU_CRSE_OUT_BTN"><a role="presentation" class="PSPUSHBUTTON Left"><span style="background-Color: transparent;"><input type="button" name="CU_DERIVED_CUR_CU_CRSE_OUT_BTN" id="CU_DERIVED_CUR_CU_CRSE_OUT_BTN" tabindex="99" value="View Course Outcome" class="PSPUSHBUTTON" style="width:192px; " onclick="submitAction_win164(document.win164,this.id,event);"></span></a></div></td>
+</tr>
+<tr>
+<td height="33" colspan="2"></td>
+<td colspan="2" rowspan="2" nowrap="nowrap" valign="top" align="left">
+<div id="win164divCU_DERIVED_CUR_CU_CRSE_CAF_BTN"><a role="presentation" class="PSPUSHBUTTON Left"><span style="background-Color: transparent;"><input type="button" name="CU_DERIVED_CUR_CU_CRSE_CAF_BTN" id="CU_DERIVED_CUR_CU_CRSE_CAF_BTN" tabindex="100" value="View Additional Information" class="PSPUSHBUTTON" style="width:192px; " onclick="submitAction_win164(document.win164,this.id,event);"></span></a></div></td>
+</tr>
+<tr>
+<td height="10" colspan="3"></td>
+</tr>
+<tr>
+<td height="152" colspan="2"></td>
+<td colspan="3" valign="top" align="left">
+<div id="win164divDERIVED_CRSECAT_SSR_GROUP2$0"><table cellpadding="0" cellspacing="0" cols="1" class="PSGROUPBOXNBO" width="659">
+<tbody><tr><td class="PSGROUPBOXLABEL" align="left">Enrollment Information</td></tr>
+<tr><td width="659">
+<table role="presentation" border="0" id="ACE_DERIVED_CRSECAT_SSR_GROUP2$0" cellpadding="0" cellspacing="0" cols="3" width="659" class="PSGROUPBOX" style="border-style:none">
+<tbody><tr>
+<td width="8" height="9"></td>
+<td width="153"></td>
+<td width="498"></td>
+</tr>
+<tr>
+<td height="52"></td>
+<td valign="top" align="left">
+<div id="win164divDERIVED_CRSECAT_DESCR254Albl$0"><span class="PSLONGEDITLABEL">Enrollment Requirement</span></div></td>
+<td valign="top" align="left">
+<div id="win164divDERIVED_CRSECAT_DESCR254A$0"><span class="PSLONGEDITBOX" style="word-wrap:break-word;overflow:hidden;display:block; width:476px;  overflow:auto;" id="DERIVED_CRSECAT_DESCR254A$0">1. Prerequisite: ACCT3151
+<br>2. Not for students who have taken LAWS2101 &amp; LAWS2102</span>
+</div></td>
+</tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+</div></td>
+</tr>
+<tr>
+<td height="4" colspan="6"></td>
+</tr>
+<tr>
+<td height="56" colspan="2"></td>
+<td colspan="3" rowspan="2" valign="top" align="left">
+<div id="win164divDERIVED_CRSECAT_SSR_GROUP3$0"><table cellpadding="0" cellspacing="0" cols="1" class="PSGROUPBOXNBO" width="659">
+<tbody><tr><td class="PSGROUPBOXLABEL" align="left">Description</td></tr>
+<tr><td width="659">
+<table role="presentation" border="0" id="ACE_DERIVED_CRSECAT_SSR_GROUP3$0" cellpadding="0" cellspacing="0" cols="2" width="659" class="PSGROUPBOX" style="border-style:none">
+<tbody><tr>
+<td width="9" height="9"></td>
+<td width="650"></td>
+</tr>
+<tr>
+<td height="40"></td>
+<td valign="top" align="left">
+<div id="win164divSSR_CRSE_OFF_VW_DESCRLONG$0"><span class="PSLONGEDITBOX" id="SSR_CRSE_OFF_VW_DESCRLONG$0">This course is designed to acquaint students with the principles of modern company law in Hong Kong and to increase their awareness of the legal issues which are of interest to the commercial community. It will examine the formation of companies, the effects of incorporation, the division of powers as between the various organs of the company, its relationship with outsiders, key differences in methods of fund raising, options available to companies in financial difficulties and the role of external regulatory bodies.</span>
+</div></td>
+</tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+</div></td>
+</tr>
+<tr>
+<td height="8" colspan="2"></td>
+<td rowspan="2" valign="top" align="left">
+<div id="win164divCU_CRSECAT_WRK_DESCRLONGlbl$0"><span class="PSLONGEDITLABEL">&nbsp;</span></div></td>
+</tr>
+<tr>
+<td height="8" colspan="6"></td>
+</tr>
+</tbody></table>
+</div></td>
+</tr>
+<tr>
+<td height="8" colspan="14"></td>
+</tr>
+<tr>
+<td height="64" colspan="6"></td>
+<td colspan="5" valign="top" align="left">
+<div id="win164divDERIVED_CRSECAT_GROUP3$0"><table cellpadding="0" cellspacing="0" cols="1" class="PSGROUPBOXNBO" width="660">
+<tbody><tr><td class="PSGROUPBOXLABEL" align="left">Grade Descriptor</td></tr>
+<tr><td width="660">
+<table role="presentation" border="0" id="ACE_DERIVED_CRSECAT_GROUP3$0" cellpadding="0" cellspacing="0" cols="2" width="660" class="PSGROUPBOX" style="border-style:none">
+<tbody><tr>
+<td width="10" height="9"></td>
+<td width="650"></td>
+</tr>
+<tr>
+<td height="40"></td>
+<td valign="top" align="left">
+<div id="win164divCU_CRSECAT_WRK_DESCRLONG$0"><div id="CU_CRSECAT_WRK_DESCRLONG$0" style="word-wrap: break-word;" class="PSLONGEDITBOX">
+<p><strong><span style="font-family:georgia,serif;">A</span></strong></p>
+<p>	Outstanding performance on all learning outcomes.
+</p><p><strong><span style="font-family:georgia,serif;">A-</span></strong></p>
+<p>	Generally outstanding performance on all (or almost all) learning outcomes.
+</p><p><strong><span style="font-family:georgia,serif;">B</span></strong></p>
+<p>	Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.</p><p><strong><span style="font-family:georgia,serif;">C</span></strong></p>
+<p>	Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.</p><p><strong><span style="font-family:georgia,serif;">D</span></strong></p>
+<p>	Barely satisfactory performance on a number of learning outcomes.
+</p><p><strong><span style="font-family:georgia,serif;">F</span></strong></p>
+<p>Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements.</p></div>
+</div></td>
+</tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+</div></td>
+</tr>
+<tr>
+<td height="10" colspan="14"></td>
+</tr>
+<tr>
+<td height="8" colspan="2"></td>
+<td colspan="5" valign="top" align="left">
+<div id="win164div$ICField162"><table cellpadding="2" cellspacing="0" cols="1" class="PABACKGROUNDINVISIBLEWBO" width="192">
+<tbody><tr><td width="190" height="-9">
+</td></tr>
+</tbody></table>
+</div></td>
+</tr>
+<tr>
+<td height="4" colspan="14"></td>
+</tr>
+<tr>
+<td height="17" colspan="2"></td>
+<td colspan="7" valign="top" align="left">
+<div id="win164div$ICField183"><table cellpadding="2" cellspacing="0" cols="1" class="PABACKGROUNDINVISIBLEWBO" width="331">
+<tbody><tr><td width="329">
+<table role="presentation" border="0" id="ACE_$ICField183" cellpadding="0" cellspacing="0" cols="2" width="329" class="PABACKGROUNDINVISIBLE" style="border-style:none">
+<tbody><tr>
+<td width="3" height="0"></td>
+<td width="326"></td>
+</tr>
+<tr>
+<td height="10"></td>
+<td nowrap="nowrap" valign="top" align="left">
+<div id="win164divDERIVED_SAA_CRS_RETURN_PB$163$"><span id="DERIVED_SAA_CRS_RETURN_PB$163$$span" class="PSHYPERLINK" title="Return"><a name="DERIVED_SAA_CRS_RETURN_PB$163$" id="DERIVED_SAA_CRS_RETURN_PB$163$" ptlinktgt="pt_peoplecode" tabindex="624" onclick="javascript:cancelBubble(event);" href="javascript:submitAction_win164(document.win164,'DERIVED_SAA_CRS_RETURN_PB$163$');" class="PSHYPERLINK">Return to Browse Course Catalog</a></span></div></td>
+</tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+</div></td>
+</tr>
+<tr>
+<td height="4" colspan="14"></td>
+</tr>
+<tr>
+<td height="8" colspan="2"></td>
+<td colspan="5" valign="top" align="left">
+<div id="win164div$ICField164"><table cellpadding="2" cellspacing="0" cols="1" class="PABACKGROUNDINVISIBLEWBO" width="192">
+<tbody><tr><td width="190" height="-9">
+</td></tr>
+</tbody></table>
+</div></td>
+</tr>
+<tr>
+<td height="10" colspan="14"></td>
+</tr>
+<tr>
+<td height="100" colspan="3"></td>
+<td colspan="7" valign="top" align="left">
+<div id="win164divDERIVED_SSTSNAV_GROUP_BOX$19$"><table cellpadding="2" cellspacing="0" cols="1" class="PABACKGROUNDINVISIBLEWBO" width="651">
+<tbody><tr><td width="649">
+<table role="presentation" border="0" id="ACE_DERIVED_SSTSNAV_GROUP_BOX$19$" cellpadding="0" cellspacing="0" cols="5" width="649" class="PABACKGROUNDINVISIBLE" style="border-style:none">
+<tbody><tr>
+<td width="5" height="0"></td>
+<td width="2"></td>
+<td width="618"></td>
+<td width="2"></td>
+<td width="22"></td>
+</tr>
+<tr>
+<td height="13"></td>
+<td colspan="2" valign="top" align="left">
+<hr width="100%" align="left" class="PSHORIZONTALRULE">
+</td>
+</tr>
+<tr>
+<td height="82" colspan="2"></td>
+<td colspan="2" valign="top" align="left">
+<div id="win164divDERIVED_SSTSNAV_SSS_FOOTER_LINKS"><div style="width:620px; ">
+<!-- Begin HTML Area Name Undisclosed -->
+<img src="/cs/CSPRD/cache/PS_SCROLL_TOP_VER_ICN_1.gif" alt="Go to top icon" style="margin-top:7px;" border="0"><a href="#" class="PSHYPERLINK" style="white-space:nowrap;" tabindex="625"><span>Go to top</span></a>
+<!-- End HTML Area -->
+</div>
+</div></td>
+</tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+</div></td>
+</tr>
+<tr>
+<td height="10" colspan="14"></td>
+</tr>
+</tbody></table>
+</div>
+</td></tr>
+<tr><td class="PSHEADERTOOLBARFRAME">
+<div class="" id="win164divPSTOOLBAR"></div>
+</td></tr>
+</tbody></table>
+<div class="x" id="pt_dragtxt"></div><div onmouseup="ptGridResizeObj_win164.TDselUp();" onmousemove="ptGridResizeObj_win164.TDselMove();" id="pt_dragResize" onmouseout="ptGridResizeObj_win164.dragTD=false;" onmbouseover="ptGridResizeObj_win164.dragTD=true;"></div></div>
+<div class="ps_box-pagetabs" id="win164divPSPANELTABLINKS"></div>
+<div id="DetachDiv" height="0" width="0" frameborder="0"></div>
+<a name="ICLastAnchor_win164" id="ICLastAnchor_win164"></a>
+
+<!-- Embedded Help popup Begin -->
+<div id="HelppopupDiv_win164" style="display:none; position:absolute; top:0; left:0">t</div>
+<div id="HelpDragFrame_win164" class="popupDragFrame">&nbsp;</div><table id="HelppopupContainer_win164" width="20" border="0" cellpadding="0" cellspacing="0" style="opacity: 1; display: none; position: absolute; top: 0px; left: 0px; visibility: hidden;">
+<tbody><tr>
+<td id="HelppopupInner_win164" class="HelppopupInner" align="left" valign="top" style="position:absolute;z-Index:302;">
+<div id="HelppopupTitleBar_win164" class="PTPOPUP_HEADER HelppopupTitleBar" style="width:341px"><div id="HelppopupTitleBarLeftImage"></div><div id="HelppopupTitleBarMiddle_win164" style="width:333px" class="HelppopupTitleBarMiddle" dir="ltr">
+<table>
+<tbody><tr><td id="HelppopupTitle_win164" style="width:290px; cursor: move;"><span class="PTPOPUP_TITLE">Help</span></td>
+<td style="width:45px"><img id="#HELPPOPUPCLOSE" tabindex="0" style="cursor:pointer" title="Close" alt="Close" onclick="HelppopupObj_win164.StopPopup(&quot;win164&quot;);" onkeypress="var kC=keyPressHandler(event); if (kC==13 || kC==32) HelppopupObj_win164.StopPopup('win164');" align="right" src="/cs/CSPRD/cache/PT_PORTAL_IC_CLOSE_1.gif"></td>
+</tr></tbody></table>
+</div><div id="HelppopupTitleBarRightImage"></div></div><div id="HelpdivpopupFrame_win164" class="MOBGImage HelpdivpopupFrame" tabindex="-1" onclick="HelppopupObj_win164.SetFocusFlag(false);" style="border: 1px #bcbaba solid; padding:12px; overflow:auto;">test</div><div id="HelppopupShadow" class="popupShadow" style="position:absolute;z-index:-1;"><div id="HelppopupShadowTopRightCorner" class="popupShadowTopRightCorner" style="height:10px;">&nbsp;</div><div id="HelppopupShadowTop" class="popupShadowTop">&nbsp;</div><div id="HelppopupShadowBottom" class="popupShadowBottom" style="height:10px"><div id="HelppopupShadowBottomLeftCorner" class="popupShadowBottomLeftCorner" style="height:10px;width:10px">&nbsp;</div><div id="HelppopupShadowBottomMiddle" class="popupShadowBottomMiddle" style="height:10px;">&nbsp;</div><div id="HelppopupShadowBottomRightCorner" class="popupShadowBottomRightCorner" style="height:10px;width:10px">&nbsp;</div></div></div></td>
+</tr>
+</tbody></table>
+<!-- Embedded Help popup End  -->
+<div id="pt_fakeBC" style="display:none"><ul></ul></div></form>
+<div id="popupDragFrame" class="popupDragFrame">&nbsp;</div>
+<!-- Mouse-over popup Begin -->
+<table id="win164MOpopupContainer" width="20" border="0" cellpadding="0" cellspacing="0" style="display:none; position:absolute; top:0; left:0;" onmouseover="MOpopupObj_win164.StartPopup('win164MOpopupContainer', '');" onmouseout="MOpopupObj_win164.StopPopup();"><tbody><tr>
+<td id="win164MOpopupInner" height="25" width="20" align="left" valign="top" class="MOBGImage">
+<div id="win164MOdivpopupFrame" tabindex="-1" onclick="MOpopupObj_win164.SetFocusFlag(false);" style="overflow:auto; width:20px; height: 60px; padding:8px; box-shadow:0 0 5px #000000; background-color:white; border: 1px solid #666666;">test</div></td>
+</tr>
+</tbody></table>
+<!-- Mouse-over popup End  -->
+
+<script language="JavaScript">
+var bClassicMDTargetStart=false;
+var bClassicMDTarget=false;
+var nMaxSavedStates=5;
+var sHistURL="https://cusis.cuhk.edu.hk/psc/CSPRD_164/EMPLOYEE/SA/c/SA_LEARNER_SERVICES.SSS_BROWSE_CATLG.GBL?page=SSS_BROWSE_CATLG&";
+var bCloseModal = false;
+var bICList = false;
+var bHtml5Doc = true;
+var bClearBackState=false;
+var bPageTransfered=false;
+var bTransferAnimate=false;
+var bCleanHtml = false;
+var bDefer = true;
+document.deferFldArr_win164 = new Array();
+document.hiddenFldArr_win164 =new Array('ICType','ICElementNum','ICStateNum','ICAction','ICModelCancel','ICXPos','ICYPos','ResponsetoDiffFrame','TargetFrameName','FacetPath','ICFocus','ICSaveWarningFilter','ICChanged','ICSkipPending','ICAutoSave','ICResubmit','ICSID','ICActionPrompt','ICBcDomData','ICPanelName','ICFind','ICAddCount','ICAppClsData');
+document.chgFldArr_win164 = new Array();
+AddToHistory('Browse Catalog', '', 'returntolastpage@0', 'SSS_BROWSE_CATLG', 3, 164, 1, 0,'', 0, '', 0);
+corsHistoryTansaction();
+var bCleanHtml = false;
+var bDefer = true;
+document.hiddenFldArr_win164 =new Array('ICType','ICElementNum','ICStateNum','ICAction','ICModelCancel','ICXPos','ICYPos','ResponsetoDiffFrame','TargetFrameName','FacetPath','ICFocus','ICSaveWarningFilter','ICChanged','ICSkipPending','ICAutoSave','ICResubmit','ICSID','ICActionPrompt','ICBcDomData','ICPanelName','ICFind','ICAddCount','ICAppClsData');
+document.chgFldArr_win164 = new Array();
+var bCDATA = false;
+var bAccessibleLayout = false;
+var bLoadCompleted = true;
+</script>
+<div id="divdobackclassic" style="visibility:hidden" aria-hidden="true"><a id="ancdobackclassic" href="javascript:DoBack('win164')" style="visibility:hidden" aria-hidden="true"></a></div></body><div id="codex-browser-sidebar-comments-root" style="position: fixed; inset: 0px; pointer-events: none; z-index: 2147483647;"></div></html>

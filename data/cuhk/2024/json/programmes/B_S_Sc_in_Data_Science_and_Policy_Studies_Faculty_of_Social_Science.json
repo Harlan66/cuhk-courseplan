@@ -1,0 +1,1681 @@
+{
+  "programme_id": "B_S_Sc_in_Data_Science_and_Policy_Studies__Faculty_of_Social_Science",
+  "academic_program": "B.S.Sc. in Data Science and Policy Studies",
+  "faculty": "Faculty of Social Science",
+  "academic_year": 2024,
+  "admission_cohort": "2024-25",
+  "requirement_summary": {
+    "minimum_units_as_printed": "a minimum of 72 units",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Faculty Package",
+        "units_as_printed": "9",
+        "course_mentions": [
+          {
+            "course_code": "DSPS1001",
+            "prefix_inferred": false,
+            "evidence": "DSPS1001 and any two courses, offered by two different Programmes/Departments/Schools, chosen from the following:"
+          },
+          {
+            "course_code": "ARCH1001",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "ARCH1002",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "ARCH1003",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "COMM1110",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "COMM1120",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "COMM1150",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "COMM1500",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "ECON1210",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "ECON1220",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "ECON2011",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "GLSD1001",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "GPAD1020",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "GPAD1076",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "GPAD1077",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "GRMD1302",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "GRMD1401",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "GRMD1402",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "PSYC1000",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "PSYC1630",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "SOCI1001",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "SOCI1201",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "SOSC1001",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "SOSC1002",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "SOSC1003",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "SOWK1001",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "SOWK1113",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "SOWK1114",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "URSP1001",
+            "prefix_inferred": false,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          },
+          {
+            "course_code": "URSP1002",
+            "prefix_inferred": true,
+            "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+          }
+        ],
+        "raw_text": "9\nDSPS1001 and any two courses, offered by two different Programmes/Departments/Schools, chosen from the following:\nARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+      },
+      {
+        "number": 2,
+        "title": "Required Courses",
+        "units_as_printed": "15",
+        "course_mentions": [
+          {
+            "course_code": "DSPS1003",
+            "prefix_inferred": false,
+            "evidence": "DSPS1003, 1004, 3801, 4801 (capstone course), 4802 (capstone course)"
+          },
+          {
+            "course_code": "DSPS1004",
+            "prefix_inferred": true,
+            "evidence": "DSPS1003, 1004, 3801, 4801 (capstone course), 4802 (capstone course)"
+          },
+          {
+            "course_code": "DSPS3801",
+            "prefix_inferred": true,
+            "evidence": "DSPS1003, 1004, 3801, 4801 (capstone course), 4802 (capstone course)"
+          },
+          {
+            "course_code": "DSPS4801",
+            "prefix_inferred": true,
+            "evidence": "DSPS1003, 1004, 3801, 4801 (capstone course), 4802 (capstone course)"
+          },
+          {
+            "course_code": "DSPS4802",
+            "prefix_inferred": true,
+            "evidence": "DSPS1003, 1004, 3801, 4801 (capstone course), 4802 (capstone course)"
+          }
+        ],
+        "raw_text": "(a)\nDSPS1003, 1004, 3801, 4801 (capstone course), 4802 (capstone course)\n15\n(b)\nResident Study Overseas:\nStudents are required to study overseas for one academic term in a partner institution and complete at least 9 units of courses related to Data Science and Policy Studies approved by the Programme Director. Students who are unable to obtain the required units from partner institutions must make up the shortfall by completing appropriate courses at CUHK, subject to the approval of the Programme Director.\n9"
+      },
+      {
+        "number": 3,
+        "title": "Elective Courses[a]",
+        "units_as_printed": "21",
+        "course_mentions": [
+          {
+            "course_code": "COMM3650",
+            "prefix_inferred": false,
+            "evidence": "COMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#"
+          },
+          {
+            "course_code": "DSPS2102",
+            "prefix_inferred": false,
+            "evidence": "COMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#"
+          },
+          {
+            "course_code": "DSPS2104",
+            "prefix_inferred": true,
+            "evidence": "COMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#"
+          },
+          {
+            "course_code": "DSPS2201",
+            "prefix_inferred": true,
+            "evidence": "COMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#"
+          },
+          {
+            "course_code": "DSPS2202",
+            "prefix_inferred": true,
+            "evidence": "COMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#"
+          },
+          {
+            "course_code": "DSPS2520",
+            "prefix_inferred": true,
+            "evidence": "COMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#"
+          },
+          {
+            "course_code": "DSPS2730",
+            "prefix_inferred": true,
+            "evidence": "COMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#"
+          },
+          {
+            "course_code": "DSPS2830",
+            "prefix_inferred": true,
+            "evidence": "COMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#"
+          },
+          {
+            "course_code": "DSPS3190",
+            "prefix_inferred": true,
+            "evidence": "COMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#"
+          },
+          {
+            "course_code": "DSPS3202",
+            "prefix_inferred": true,
+            "evidence": "COMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#"
+          },
+          {
+            "course_code": "DSPS3330",
+            "prefix_inferred": true,
+            "evidence": "COMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#"
+          },
+          {
+            "course_code": "DSPS3350",
+            "prefix_inferred": true,
+            "evidence": "COMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#"
+          },
+          {
+            "course_code": "DSPS3790",
+            "prefix_inferred": true,
+            "evidence": "COMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#"
+          },
+          {
+            "course_code": "DSPS3791",
+            "prefix_inferred": true,
+            "evidence": "COMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#"
+          },
+          {
+            "course_code": "DSPS3802",
+            "prefix_inferred": true,
+            "evidence": "COMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#"
+          },
+          {
+            "course_code": "ECON2121",
+            "prefix_inferred": false,
+            "evidence": "COMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#"
+          },
+          {
+            "course_code": "ECON3121",
+            "prefix_inferred": true,
+            "evidence": "COMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#"
+          },
+          {
+            "course_code": "GRMD2105",
+            "prefix_inferred": false,
+            "evidence": "COMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#"
+          },
+          {
+            "course_code": "SOCI4201",
+            "prefix_inferred": false,
+            "evidence": "COMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#"
+          },
+          {
+            "course_code": "DSPS2301",
+            "prefix_inferred": false,
+            "evidence": "DSPS2301, 2320, 2501, 3320, 3501, 3803, 4310, GPAD2065#, 2085#, 2090#, 2095#, 2160#, 2170#"
+          },
+          {
+            "course_code": "DSPS2320",
+            "prefix_inferred": true,
+            "evidence": "DSPS2301, 2320, 2501, 3320, 3501, 3803, 4310, GPAD2065#, 2085#, 2090#, 2095#, 2160#, 2170#"
+          },
+          {
+            "course_code": "DSPS2501",
+            "prefix_inferred": true,
+            "evidence": "DSPS2301, 2320, 2501, 3320, 3501, 3803, 4310, GPAD2065#, 2085#, 2090#, 2095#, 2160#, 2170#"
+          },
+          {
+            "course_code": "DSPS3320",
+            "prefix_inferred": true,
+            "evidence": "DSPS2301, 2320, 2501, 3320, 3501, 3803, 4310, GPAD2065#, 2085#, 2090#, 2095#, 2160#, 2170#"
+          },
+          {
+            "course_code": "DSPS3501",
+            "prefix_inferred": true,
+            "evidence": "DSPS2301, 2320, 2501, 3320, 3501, 3803, 4310, GPAD2065#, 2085#, 2090#, 2095#, 2160#, 2170#"
+          },
+          {
+            "course_code": "DSPS3803",
+            "prefix_inferred": true,
+            "evidence": "DSPS2301, 2320, 2501, 3320, 3501, 3803, 4310, GPAD2065#, 2085#, 2090#, 2095#, 2160#, 2170#"
+          },
+          {
+            "course_code": "DSPS4310",
+            "prefix_inferred": true,
+            "evidence": "DSPS2301, 2320, 2501, 3320, 3501, 3803, 4310, GPAD2065#, 2085#, 2090#, 2095#, 2160#, 2170#"
+          },
+          {
+            "course_code": "GPAD2065",
+            "prefix_inferred": false,
+            "evidence": "DSPS2301, 2320, 2501, 3320, 3501, 3803, 4310, GPAD2065#, 2085#, 2090#, 2095#, 2160#, 2170#"
+          },
+          {
+            "course_code": "GPAD2085",
+            "prefix_inferred": true,
+            "evidence": "DSPS2301, 2320, 2501, 3320, 3501, 3803, 4310, GPAD2065#, 2085#, 2090#, 2095#, 2160#, 2170#"
+          },
+          {
+            "course_code": "GPAD2090",
+            "prefix_inferred": true,
+            "evidence": "DSPS2301, 2320, 2501, 3320, 3501, 3803, 4310, GPAD2065#, 2085#, 2090#, 2095#, 2160#, 2170#"
+          },
+          {
+            "course_code": "GPAD2095",
+            "prefix_inferred": true,
+            "evidence": "DSPS2301, 2320, 2501, 3320, 3501, 3803, 4310, GPAD2065#, 2085#, 2090#, 2095#, 2160#, 2170#"
+          },
+          {
+            "course_code": "GPAD2160",
+            "prefix_inferred": true,
+            "evidence": "DSPS2301, 2320, 2501, 3320, 3501, 3803, 4310, GPAD2065#, 2085#, 2090#, 2095#, 2160#, 2170#"
+          },
+          {
+            "course_code": "GPAD2170",
+            "prefix_inferred": true,
+            "evidence": "DSPS2301, 2320, 2501, 3320, 3501, 3803, 4310, GPAD2065#, 2085#, 2090#, 2095#, 2160#, 2170#"
+          },
+          {
+            "course_code": "DSPS3310",
+            "prefix_inferred": false,
+            "evidence": "DSPS3310, GLSD2401#, 2501#, SOCI3241#"
+          },
+          {
+            "course_code": "GLSD2401",
+            "prefix_inferred": false,
+            "evidence": "DSPS3310, GLSD2401#, 2501#, SOCI3241#"
+          },
+          {
+            "course_code": "GLSD2501",
+            "prefix_inferred": true,
+            "evidence": "DSPS3310, GLSD2401#, 2501#, SOCI3241#"
+          },
+          {
+            "course_code": "SOCI3241",
+            "prefix_inferred": false,
+            "evidence": "DSPS3310, GLSD2401#, 2501#, SOCI3241#"
+          },
+          {
+            "course_code": "PSYC3360",
+            "prefix_inferred": false,
+            "evidence": "PSYC3360#, SOCI3102#, 3227#"
+          },
+          {
+            "course_code": "SOCI3102",
+            "prefix_inferred": false,
+            "evidence": "PSYC3360#, SOCI3102#, 3227#"
+          },
+          {
+            "course_code": "SOCI3227",
+            "prefix_inferred": true,
+            "evidence": "PSYC3360#, SOCI3102#, 3227#"
+          },
+          {
+            "course_code": "ECON3630",
+            "prefix_inferred": false,
+            "evidence": "ECON3630#, PSYC3370#, SOCI2216#, 3002#, 3204#"
+          },
+          {
+            "course_code": "PSYC3370",
+            "prefix_inferred": false,
+            "evidence": "ECON3630#, PSYC3370#, SOCI2216#, 3002#, 3204#"
+          },
+          {
+            "course_code": "SOCI2216",
+            "prefix_inferred": false,
+            "evidence": "ECON3630#, PSYC3370#, SOCI2216#, 3002#, 3204#"
+          },
+          {
+            "course_code": "SOCI3002",
+            "prefix_inferred": true,
+            "evidence": "ECON3630#, PSYC3370#, SOCI2216#, 3002#, 3204#"
+          },
+          {
+            "course_code": "SOCI3204",
+            "prefix_inferred": true,
+            "evidence": "ECON3630#, PSYC3370#, SOCI2216#, 3002#, 3204#"
+          },
+          {
+            "course_code": "DSPS3340",
+            "prefix_inferred": false,
+            "evidence": "DSPS3340, GRMD2401#, 2403#, 2501#, 3203#, 3404#, 4401#, 4502#, 4503#, URSP3100#, 3300#, 3400#, 3600#"
+          },
+          {
+            "course_code": "GRMD2401",
+            "prefix_inferred": false,
+            "evidence": "DSPS3340, GRMD2401#, 2403#, 2501#, 3203#, 3404#, 4401#, 4502#, 4503#, URSP3100#, 3300#, 3400#, 3600#"
+          },
+          {
+            "course_code": "GRMD2403",
+            "prefix_inferred": true,
+            "evidence": "DSPS3340, GRMD2401#, 2403#, 2501#, 3203#, 3404#, 4401#, 4502#, 4503#, URSP3100#, 3300#, 3400#, 3600#"
+          },
+          {
+            "course_code": "GRMD2501",
+            "prefix_inferred": true,
+            "evidence": "DSPS3340, GRMD2401#, 2403#, 2501#, 3203#, 3404#, 4401#, 4502#, 4503#, URSP3100#, 3300#, 3400#, 3600#"
+          },
+          {
+            "course_code": "GRMD3203",
+            "prefix_inferred": true,
+            "evidence": "DSPS3340, GRMD2401#, 2403#, 2501#, 3203#, 3404#, 4401#, 4502#, 4503#, URSP3100#, 3300#, 3400#, 3600#"
+          },
+          {
+            "course_code": "GRMD3404",
+            "prefix_inferred": true,
+            "evidence": "DSPS3340, GRMD2401#, 2403#, 2501#, 3203#, 3404#, 4401#, 4502#, 4503#, URSP3100#, 3300#, 3400#, 3600#"
+          },
+          {
+            "course_code": "GRMD4401",
+            "prefix_inferred": true,
+            "evidence": "DSPS3340, GRMD2401#, 2403#, 2501#, 3203#, 3404#, 4401#, 4502#, 4503#, URSP3100#, 3300#, 3400#, 3600#"
+          },
+          {
+            "course_code": "GRMD4502",
+            "prefix_inferred": true,
+            "evidence": "DSPS3340, GRMD2401#, 2403#, 2501#, 3203#, 3404#, 4401#, 4502#, 4503#, URSP3100#, 3300#, 3400#, 3600#"
+          },
+          {
+            "course_code": "GRMD4503",
+            "prefix_inferred": true,
+            "evidence": "DSPS3340, GRMD2401#, 2403#, 2501#, 3203#, 3404#, 4401#, 4502#, 4503#, URSP3100#, 3300#, 3400#, 3600#"
+          },
+          {
+            "course_code": "URSP3100",
+            "prefix_inferred": false,
+            "evidence": "DSPS3340, GRMD2401#, 2403#, 2501#, 3203#, 3404#, 4401#, 4502#, 4503#, URSP3100#, 3300#, 3400#, 3600#"
+          },
+          {
+            "course_code": "URSP3300",
+            "prefix_inferred": true,
+            "evidence": "DSPS3340, GRMD2401#, 2403#, 2501#, 3203#, 3404#, 4401#, 4502#, 4503#, URSP3100#, 3300#, 3400#, 3600#"
+          },
+          {
+            "course_code": "URSP3400",
+            "prefix_inferred": true,
+            "evidence": "DSPS3340, GRMD2401#, 2403#, 2501#, 3203#, 3404#, 4401#, 4502#, 4503#, URSP3100#, 3300#, 3400#, 3600#"
+          },
+          {
+            "course_code": "URSP3600",
+            "prefix_inferred": true,
+            "evidence": "DSPS3340, GRMD2401#, 2403#, 2501#, 3203#, 3404#, 4401#, 4502#, 4503#, URSP3100#, 3300#, 3400#, 3600#"
+          }
+        ],
+        "raw_text": "(a)\nMethods and Tools\nAny seven courses from the following:\nCOMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#\n21\n(b)\nPolicy Applications\nAny six courses from any of the following areas:\n18\n(i)\nPolicy Science and Public Governance\nDSPS2301, 2320, 2501, 3320, 3501, 3803, 4310, GPAD2065#, 2085#, 2090#, 2095#, 2160#, 2170#\n(ii)\nGlobal Relationship\nDSPS3310, GLSD2401#, 2501#, SOCI3241#\n(iii)\nHuman Resources\nPSYC3360#, SOCI3102#, 3227#\n(iv)\nSocial Problems, Deviance, Law and Order\nECON3630#, PSYC3370#, SOCI2216#, 3002#, 3204#\n(v)\nSustainable Smart Cities\nDSPS3340, GRMD2401#, 2403#, 2501#, 3203#, 3404#, 4401#, 4502#, 4503#, URSP3100#, 3300#, 3400#, 3600#\nTotal:\n72\nExplanatory Notes:"
+      },
+      {
+        "number": 2,
+        "title": "Students are responsible for the extra costs incurred in relation to the overseas resident study.",
+        "units_as_printed": "6",
+        "course_mentions": [
+          {
+            "course_code": "DSPS1001",
+            "prefix_inferred": false,
+            "evidence": "Faculty Package: DSPS1001 and 1 Faculty Package course"
+          },
+          {
+            "course_code": "DSPS1003",
+            "prefix_inferred": false,
+            "evidence": "Major Required: DSPS1003"
+          },
+          {
+            "course_code": "DSPS1004",
+            "prefix_inferred": false,
+            "evidence": "Major Required: DSPS1004"
+          },
+          {
+            "course_code": "DSPS3801",
+            "prefix_inferred": false,
+            "evidence": "Major Required: DSPS3801"
+          },
+          {
+            "course_code": "DSPS4801",
+            "prefix_inferred": false,
+            "evidence": "Major Required: DSPS4801"
+          },
+          {
+            "course_code": "DSPS4802",
+            "prefix_inferred": false,
+            "evidence": "Major Required: DSPS4802"
+          }
+        ],
+        "raw_text": "[a]\nAmong the non-DSPS courses, students can only choose up to three courses under the same subject area.\nRecommended Course Pattern\nUnits\nFirst Year of Attendance\n1st term\nFaculty Package: DSPS1001 and 1 Faculty Package course\n6\nMajor Required: DSPS1003\n3\nMajor Elective(s):\n2nd term\nFaculty Package: 1 course\n3\nMajor Required: DSPS1004\n3\nMajor Elective(s):\nSecond Year of Attendance\n1st term\nMajor Required:\nMajor Elective(s): 1-3 course(s)\n3-9\n2nd term\nMajor Required:\nMajor Elective(s): 1-3 course(s)\n3-9\nThird Year of Attendance\n1st term\nCompulsory Resident Study Overseas\n9\n2nd term\nMajor Required: DSPS3801\n3\nMajor Elective(s): 1-3 course(s)\n3-9\nFourth Year of Attendance\n1st term\nMajor Required: DSPS4801\n3\nMajor Elective(s): 1-3 course(s)\n3-9\n2nd term\nMajor Required: DSPS4802\n3\nMajor Elective(s): 1-3 course(s)\n3-9\nTotal (including Faculty Package):\n72\nMinor Programme Title\nData Science and Policy Studies\nMinor Programme Requirement\nStudents are required to complete a minimum of 18 units of courses as follows:\nUnits"
+      },
+      {
+        "number": 1,
+        "title": "Required Courses",
+        "units_as_printed": "6",
+        "course_mentions": [
+          {
+            "course_code": "DSPS1001",
+            "prefix_inferred": false,
+            "evidence": "DSPS1001, 1003"
+          },
+          {
+            "course_code": "DSPS1003",
+            "prefix_inferred": true,
+            "evidence": "DSPS1001, 1003"
+          }
+        ],
+        "raw_text": "6\nDSPS1001, 1003"
+      },
+      {
+        "number": 2,
+        "title": "Elective Courses",
+        "units_as_printed": "12",
+        "course_mentions": [
+          {
+            "course_code": "DSPS1004",
+            "prefix_inferred": false,
+            "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+          },
+          {
+            "course_code": "DSPS2102",
+            "prefix_inferred": true,
+            "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+          },
+          {
+            "course_code": "DSPS2104",
+            "prefix_inferred": true,
+            "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+          },
+          {
+            "course_code": "DSPS2201",
+            "prefix_inferred": true,
+            "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+          },
+          {
+            "course_code": "DSPS2202",
+            "prefix_inferred": true,
+            "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+          },
+          {
+            "course_code": "DSPS2301",
+            "prefix_inferred": true,
+            "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+          },
+          {
+            "course_code": "DSPS2320",
+            "prefix_inferred": true,
+            "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+          },
+          {
+            "course_code": "DSPS2501",
+            "prefix_inferred": true,
+            "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+          },
+          {
+            "course_code": "DSPS2520",
+            "prefix_inferred": true,
+            "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+          },
+          {
+            "course_code": "DSPS2730",
+            "prefix_inferred": true,
+            "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+          },
+          {
+            "course_code": "DSPS2830",
+            "prefix_inferred": true,
+            "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+          },
+          {
+            "course_code": "DSPS3190",
+            "prefix_inferred": true,
+            "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+          },
+          {
+            "course_code": "DSPS3202",
+            "prefix_inferred": true,
+            "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+          },
+          {
+            "course_code": "DSPS3310",
+            "prefix_inferred": true,
+            "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+          },
+          {
+            "course_code": "DSPS3320",
+            "prefix_inferred": true,
+            "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+          },
+          {
+            "course_code": "DSPS3330",
+            "prefix_inferred": true,
+            "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+          },
+          {
+            "course_code": "DSPS3340",
+            "prefix_inferred": true,
+            "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+          },
+          {
+            "course_code": "DSPS3350",
+            "prefix_inferred": true,
+            "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+          },
+          {
+            "course_code": "DSPS3501",
+            "prefix_inferred": true,
+            "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+          },
+          {
+            "course_code": "DSPS3790",
+            "prefix_inferred": true,
+            "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+          },
+          {
+            "course_code": "DSPS3791",
+            "prefix_inferred": true,
+            "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+          },
+          {
+            "course_code": "DSPS3802",
+            "prefix_inferred": true,
+            "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+          },
+          {
+            "course_code": "DSPS3803",
+            "prefix_inferred": true,
+            "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+          },
+          {
+            "course_code": "DSPS4203",
+            "prefix_inferred": true,
+            "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+          },
+          {
+            "course_code": "DSPS4310",
+            "prefix_inferred": true,
+            "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+          },
+          {
+            "course_code": "DSPS4803",
+            "prefix_inferred": true,
+            "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+          },
+          {
+            "course_code": "DSPS4804",
+            "prefix_inferred": true,
+            "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+          },
+          {
+            "course_code": "DSPS1001",
+            "prefix_inferred": false,
+            "evidence": "DSPS1001"
+          },
+          {
+            "course_code": "DSPS1002",
+            "prefix_inferred": false,
+            "evidence": "DSPS1002"
+          },
+          {
+            "course_code": "DSPS1003",
+            "prefix_inferred": false,
+            "evidence": "DSPS1003"
+          },
+          {
+            "course_code": "DSPS1004",
+            "prefix_inferred": false,
+            "evidence": "DSPS1004"
+          },
+          {
+            "course_code": "DSPS2101",
+            "prefix_inferred": false,
+            "evidence": "DSPS2101"
+          },
+          {
+            "course_code": "DSPS2102",
+            "prefix_inferred": false,
+            "evidence": "DSPS2102"
+          },
+          {
+            "course_code": "DSPS2104",
+            "prefix_inferred": false,
+            "evidence": "DSPS2104"
+          },
+          {
+            "course_code": "DSPS2201",
+            "prefix_inferred": false,
+            "evidence": "DSPS2201"
+          },
+          {
+            "course_code": "DSPS2202",
+            "prefix_inferred": false,
+            "evidence": "DSPS2202"
+          },
+          {
+            "course_code": "DSPS2301",
+            "prefix_inferred": false,
+            "evidence": "DSPS2301"
+          },
+          {
+            "course_code": "DSPS2320",
+            "prefix_inferred": false,
+            "evidence": "DSPS2320"
+          },
+          {
+            "course_code": "DSPS2501",
+            "prefix_inferred": false,
+            "evidence": "DSPS2501"
+          },
+          {
+            "course_code": "DSPS2520",
+            "prefix_inferred": false,
+            "evidence": "DSPS2520"
+          },
+          {
+            "course_code": "DSPS2730",
+            "prefix_inferred": false,
+            "evidence": "DSPS2730"
+          },
+          {
+            "course_code": "DSPS2830",
+            "prefix_inferred": false,
+            "evidence": "DSPS2830"
+          },
+          {
+            "course_code": "DSPS3190",
+            "prefix_inferred": false,
+            "evidence": "DSPS3190"
+          },
+          {
+            "course_code": "DSPS3202",
+            "prefix_inferred": false,
+            "evidence": "DSPS3202"
+          },
+          {
+            "course_code": "DSPS3310",
+            "prefix_inferred": false,
+            "evidence": "DSPS3310"
+          },
+          {
+            "course_code": "DSPS3320",
+            "prefix_inferred": false,
+            "evidence": "DSPS3320"
+          },
+          {
+            "course_code": "DSPS3330",
+            "prefix_inferred": false,
+            "evidence": "DSPS3330"
+          },
+          {
+            "course_code": "DSPS3340",
+            "prefix_inferred": false,
+            "evidence": "DSPS3340"
+          },
+          {
+            "course_code": "DSPS3350",
+            "prefix_inferred": false,
+            "evidence": "DSPS3350"
+          },
+          {
+            "course_code": "DSPS3501",
+            "prefix_inferred": false,
+            "evidence": "DSPS3501"
+          },
+          {
+            "course_code": "DSPS3790",
+            "prefix_inferred": false,
+            "evidence": "DSPS3790"
+          },
+          {
+            "course_code": "DSPS3791",
+            "prefix_inferred": false,
+            "evidence": "DSPS3791"
+          },
+          {
+            "course_code": "DSPS3801",
+            "prefix_inferred": false,
+            "evidence": "DSPS3801"
+          },
+          {
+            "course_code": "DSPS3802",
+            "prefix_inferred": false,
+            "evidence": "DSPS3802"
+          },
+          {
+            "course_code": "DSPS3803",
+            "prefix_inferred": false,
+            "evidence": "DSPS3803"
+          },
+          {
+            "course_code": "DSPS4203",
+            "prefix_inferred": false,
+            "evidence": "DSPS4203"
+          },
+          {
+            "course_code": "DSPS4310",
+            "prefix_inferred": false,
+            "evidence": "DSPS4310"
+          },
+          {
+            "course_code": "DSPS4801",
+            "prefix_inferred": false,
+            "evidence": "DSPS4801"
+          },
+          {
+            "course_code": "DSPS4802",
+            "prefix_inferred": false,
+            "evidence": "DSPS4802"
+          },
+          {
+            "course_code": "DSPS4803",
+            "prefix_inferred": false,
+            "evidence": "DSPS4803"
+          },
+          {
+            "course_code": "DSPS4804",
+            "prefix_inferred": false,
+            "evidence": "DSPS4804"
+          }
+        ],
+        "raw_text": "12\n12 units from the following, including a minimum of 6 units of courses at 3000 or above level:\nDSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804\nTotal:\n18\nCourse List\nCourse Code\nCourse Title\nUnit(s)\nDSPS1001\nIntroduction to Policy Sciences\n3\nDSPS1002\nData Science and Public Policy\n3\nDSPS1003\nFoundation of Data Science\n3\nDSPS1004\nStatistics for Data Science and Policy Studies\n3\nDSPS2101\nResearch Methods for Policy Studies\n3\nDSPS2102\nIntroduction to Data Science Applications in Public Policy and Political Studies\n3\nDSPS2104\nAdvanced Programming for Data Science\n3\nDSPS2201\nData Preprocessing for Data Analytics\n3\nDSPS2202\nDatabase Systems for Data Science\n3\nDSPS2301\nPolicy Analysis and Design Thinking\n3\nDSPS2320\nAI Governance and Public Policy\n3\nDSPS2501\nManaging Technology and Policy Innovation\n3\nDSPS2520\nData Science Project Management\n3\nDSPS2730\nLinear Algebra for Data Science\n3\nDSPS2830\nCalculus for Data Science\n3\nDSPS3190\nBig Data Analytics for Public Policy\n3\nDSPS3202\nMachine Learning for Public Policy\n3\nDSPS3310\nCollaborative Governance in a Global Context\n3\nDSPS3320\nData Science and Regulation\n3\nDSPS3330\nExtended Reality (XR) for Data Visualization and Policy Narratives\n3\nDSPS3340\nSmart Cities and Internet of Things\n3\nDSPS3350\nComputer Simulation for Policymaking\n3\nDSPS3501\nPolicy Leadership and Entrepreneurship Workshop\n3\nDSPS3790\nSocial Network Analysis for Public Policy\n3\nDSPS3791\nNatural Language Processing for Public Policy\n3\nDSPS3801\nInternship\n3\nDSPS3802\nAdvanced Data Visualization\n3\nDSPS3803\nAI for Social Good\n3\nDSPS4203\nAdvanced Applications of Data Science in Public Policy\n3\nDSPS4310\nData, Evidence and Public Policy\n3\nDSPS4801\nGraduation Capstone Project I\n3\nDSPS4802\nGraduation Capstone Project II\n3\nDSPS4803\nSelected Topics in Data Science and Policy Studies III\n3\nDSPS4804\nSelected Topics in Data Science and Policy Studies IV\n3\nStudy Scheme\nLearning Outcomes\n1. Major Programme:\nUpon completion of their studies, students will have developed:\n(1)\ncompetency in knowledge of policy-making, data analytics, machine learning, Internet of Things (IoT), artificial intelligence, information and communication technologies (ICT), statistics, engineering and relevant fields appropriate to the degree discipline;\n(2)\nintellectual and professional capacities to generate actionable social knowledge for deriving data-driven and evidence-based decisions with policy impacts;\n(3)\nthe ability to use big data, computer, statistical and ICT technologies to conduct research and analysis, and to interpret results with understandings of their process, limitations and implications;\n(4)\nthe ability to integrate and apply knowledge from an interdisciplinary and transdisciplinary approach to design and implement policy solutions;\n(5)\nthe ability to combine analytical power with design thinking, creativity and innovation;\n(6)\nthe ability to understand the technological, institutional and human dimensions of the impact of technologies and innovation on organizations and society;\n(7)\nthe ability to understand professional and ethical responsibilities and social, economic, political, legal, and regulatory impacts of big data and policy change and innovation;\n(8)\nthe ability to communicate data analysis, findings, and policy decisions to major stakeholders;\n(9)\nthe ability to lead and work in teams in a global and collaborative context;\n(10)\nthe understanding of entrepreneurship and citizenship;\n(11)\nan international perspective and a critical global mind-set; and\n(12)\nthe ability of co-learning, co-creation of knowledge, and life-long learning.\n2. Minor Programme:\nUpon completion of the Minor Programme, students will have demonstrated an understanding of fundamental issues related to policy studies and acquired basic skills in data science. They will also have a sufficient understanding of how to make informed and good policy decisions based on data science and communicate such decisions to different stakeholders. As data-driven and evidence-based policymaking can be broadly applied to different sectors to solve complex social problems, the Minor Programme can synergize with students’ major studies to enhance their competitiveness in career development."
+      }
+    ]
+  },
+  "all_course_mentions": [
+    {
+      "course_code": "DSPS1001",
+      "prefix_inferred": false,
+      "evidence": "DSPS1001 and any two courses, offered by two different Programmes/Departments/Schools, chosen from the following:"
+    },
+    {
+      "course_code": "ARCH1001",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "ARCH1002",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "ARCH1003",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "COMM1110",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "COMM1120",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "COMM1150",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "COMM1500",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "ECON1210",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "ECON1220",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "ECON2011",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "GLSD1001",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "GPAD1020",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "GPAD1076",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "GPAD1077",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "GRMD1302",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "GRMD1401",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "GRMD1402",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "PSYC1000",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "PSYC1630",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "SOCI1001",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "SOCI1201",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "SOSC1001",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "SOSC1002",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "SOSC1003",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "SOWK1001",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "SOWK1113",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "SOWK1114",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "URSP1001",
+      "prefix_inferred": false,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "URSP1002",
+      "prefix_inferred": true,
+      "evidence": "ARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500, ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002"
+    },
+    {
+      "course_code": "DSPS1003",
+      "prefix_inferred": false,
+      "evidence": "DSPS1003, 1004, 3801, 4801 (capstone course), 4802 (capstone course)"
+    },
+    {
+      "course_code": "DSPS1004",
+      "prefix_inferred": true,
+      "evidence": "DSPS1003, 1004, 3801, 4801 (capstone course), 4802 (capstone course)"
+    },
+    {
+      "course_code": "DSPS3801",
+      "prefix_inferred": true,
+      "evidence": "DSPS1003, 1004, 3801, 4801 (capstone course), 4802 (capstone course)"
+    },
+    {
+      "course_code": "DSPS4801",
+      "prefix_inferred": true,
+      "evidence": "DSPS1003, 1004, 3801, 4801 (capstone course), 4802 (capstone course)"
+    },
+    {
+      "course_code": "DSPS4802",
+      "prefix_inferred": true,
+      "evidence": "DSPS1003, 1004, 3801, 4801 (capstone course), 4802 (capstone course)"
+    },
+    {
+      "course_code": "COMM3650",
+      "prefix_inferred": false,
+      "evidence": "COMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#"
+    },
+    {
+      "course_code": "DSPS2102",
+      "prefix_inferred": false,
+      "evidence": "COMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#"
+    },
+    {
+      "course_code": "DSPS2104",
+      "prefix_inferred": true,
+      "evidence": "COMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#"
+    },
+    {
+      "course_code": "DSPS2201",
+      "prefix_inferred": true,
+      "evidence": "COMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#"
+    },
+    {
+      "course_code": "DSPS2202",
+      "prefix_inferred": true,
+      "evidence": "COMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#"
+    },
+    {
+      "course_code": "DSPS2520",
+      "prefix_inferred": true,
+      "evidence": "COMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#"
+    },
+    {
+      "course_code": "DSPS2730",
+      "prefix_inferred": true,
+      "evidence": "COMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#"
+    },
+    {
+      "course_code": "DSPS2830",
+      "prefix_inferred": true,
+      "evidence": "COMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#"
+    },
+    {
+      "course_code": "DSPS3190",
+      "prefix_inferred": true,
+      "evidence": "COMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#"
+    },
+    {
+      "course_code": "DSPS3202",
+      "prefix_inferred": true,
+      "evidence": "COMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#"
+    },
+    {
+      "course_code": "DSPS3330",
+      "prefix_inferred": true,
+      "evidence": "COMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#"
+    },
+    {
+      "course_code": "DSPS3350",
+      "prefix_inferred": true,
+      "evidence": "COMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#"
+    },
+    {
+      "course_code": "DSPS3790",
+      "prefix_inferred": true,
+      "evidence": "COMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#"
+    },
+    {
+      "course_code": "DSPS3791",
+      "prefix_inferred": true,
+      "evidence": "COMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#"
+    },
+    {
+      "course_code": "DSPS3802",
+      "prefix_inferred": true,
+      "evidence": "COMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#"
+    },
+    {
+      "course_code": "ECON2121",
+      "prefix_inferred": false,
+      "evidence": "COMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#"
+    },
+    {
+      "course_code": "ECON3121",
+      "prefix_inferred": true,
+      "evidence": "COMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#"
+    },
+    {
+      "course_code": "GRMD2105",
+      "prefix_inferred": false,
+      "evidence": "COMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#"
+    },
+    {
+      "course_code": "SOCI4201",
+      "prefix_inferred": false,
+      "evidence": "COMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#"
+    },
+    {
+      "course_code": "DSPS2301",
+      "prefix_inferred": false,
+      "evidence": "DSPS2301, 2320, 2501, 3320, 3501, 3803, 4310, GPAD2065#, 2085#, 2090#, 2095#, 2160#, 2170#"
+    },
+    {
+      "course_code": "DSPS2320",
+      "prefix_inferred": true,
+      "evidence": "DSPS2301, 2320, 2501, 3320, 3501, 3803, 4310, GPAD2065#, 2085#, 2090#, 2095#, 2160#, 2170#"
+    },
+    {
+      "course_code": "DSPS2501",
+      "prefix_inferred": true,
+      "evidence": "DSPS2301, 2320, 2501, 3320, 3501, 3803, 4310, GPAD2065#, 2085#, 2090#, 2095#, 2160#, 2170#"
+    },
+    {
+      "course_code": "DSPS3320",
+      "prefix_inferred": true,
+      "evidence": "DSPS2301, 2320, 2501, 3320, 3501, 3803, 4310, GPAD2065#, 2085#, 2090#, 2095#, 2160#, 2170#"
+    },
+    {
+      "course_code": "DSPS3501",
+      "prefix_inferred": true,
+      "evidence": "DSPS2301, 2320, 2501, 3320, 3501, 3803, 4310, GPAD2065#, 2085#, 2090#, 2095#, 2160#, 2170#"
+    },
+    {
+      "course_code": "DSPS3803",
+      "prefix_inferred": true,
+      "evidence": "DSPS2301, 2320, 2501, 3320, 3501, 3803, 4310, GPAD2065#, 2085#, 2090#, 2095#, 2160#, 2170#"
+    },
+    {
+      "course_code": "DSPS4310",
+      "prefix_inferred": true,
+      "evidence": "DSPS2301, 2320, 2501, 3320, 3501, 3803, 4310, GPAD2065#, 2085#, 2090#, 2095#, 2160#, 2170#"
+    },
+    {
+      "course_code": "GPAD2065",
+      "prefix_inferred": false,
+      "evidence": "DSPS2301, 2320, 2501, 3320, 3501, 3803, 4310, GPAD2065#, 2085#, 2090#, 2095#, 2160#, 2170#"
+    },
+    {
+      "course_code": "GPAD2085",
+      "prefix_inferred": true,
+      "evidence": "DSPS2301, 2320, 2501, 3320, 3501, 3803, 4310, GPAD2065#, 2085#, 2090#, 2095#, 2160#, 2170#"
+    },
+    {
+      "course_code": "GPAD2090",
+      "prefix_inferred": true,
+      "evidence": "DSPS2301, 2320, 2501, 3320, 3501, 3803, 4310, GPAD2065#, 2085#, 2090#, 2095#, 2160#, 2170#"
+    },
+    {
+      "course_code": "GPAD2095",
+      "prefix_inferred": true,
+      "evidence": "DSPS2301, 2320, 2501, 3320, 3501, 3803, 4310, GPAD2065#, 2085#, 2090#, 2095#, 2160#, 2170#"
+    },
+    {
+      "course_code": "GPAD2160",
+      "prefix_inferred": true,
+      "evidence": "DSPS2301, 2320, 2501, 3320, 3501, 3803, 4310, GPAD2065#, 2085#, 2090#, 2095#, 2160#, 2170#"
+    },
+    {
+      "course_code": "GPAD2170",
+      "prefix_inferred": true,
+      "evidence": "DSPS2301, 2320, 2501, 3320, 3501, 3803, 4310, GPAD2065#, 2085#, 2090#, 2095#, 2160#, 2170#"
+    },
+    {
+      "course_code": "DSPS3310",
+      "prefix_inferred": false,
+      "evidence": "DSPS3310, GLSD2401#, 2501#, SOCI3241#"
+    },
+    {
+      "course_code": "GLSD2401",
+      "prefix_inferred": false,
+      "evidence": "DSPS3310, GLSD2401#, 2501#, SOCI3241#"
+    },
+    {
+      "course_code": "GLSD2501",
+      "prefix_inferred": true,
+      "evidence": "DSPS3310, GLSD2401#, 2501#, SOCI3241#"
+    },
+    {
+      "course_code": "SOCI3241",
+      "prefix_inferred": false,
+      "evidence": "DSPS3310, GLSD2401#, 2501#, SOCI3241#"
+    },
+    {
+      "course_code": "PSYC3360",
+      "prefix_inferred": false,
+      "evidence": "PSYC3360#, SOCI3102#, 3227#"
+    },
+    {
+      "course_code": "SOCI3102",
+      "prefix_inferred": false,
+      "evidence": "PSYC3360#, SOCI3102#, 3227#"
+    },
+    {
+      "course_code": "SOCI3227",
+      "prefix_inferred": true,
+      "evidence": "PSYC3360#, SOCI3102#, 3227#"
+    },
+    {
+      "course_code": "ECON3630",
+      "prefix_inferred": false,
+      "evidence": "ECON3630#, PSYC3370#, SOCI2216#, 3002#, 3204#"
+    },
+    {
+      "course_code": "PSYC3370",
+      "prefix_inferred": false,
+      "evidence": "ECON3630#, PSYC3370#, SOCI2216#, 3002#, 3204#"
+    },
+    {
+      "course_code": "SOCI2216",
+      "prefix_inferred": false,
+      "evidence": "ECON3630#, PSYC3370#, SOCI2216#, 3002#, 3204#"
+    },
+    {
+      "course_code": "SOCI3002",
+      "prefix_inferred": true,
+      "evidence": "ECON3630#, PSYC3370#, SOCI2216#, 3002#, 3204#"
+    },
+    {
+      "course_code": "SOCI3204",
+      "prefix_inferred": true,
+      "evidence": "ECON3630#, PSYC3370#, SOCI2216#, 3002#, 3204#"
+    },
+    {
+      "course_code": "DSPS3340",
+      "prefix_inferred": false,
+      "evidence": "DSPS3340, GRMD2401#, 2403#, 2501#, 3203#, 3404#, 4401#, 4502#, 4503#, URSP3100#, 3300#, 3400#, 3600#"
+    },
+    {
+      "course_code": "GRMD2401",
+      "prefix_inferred": false,
+      "evidence": "DSPS3340, GRMD2401#, 2403#, 2501#, 3203#, 3404#, 4401#, 4502#, 4503#, URSP3100#, 3300#, 3400#, 3600#"
+    },
+    {
+      "course_code": "GRMD2403",
+      "prefix_inferred": true,
+      "evidence": "DSPS3340, GRMD2401#, 2403#, 2501#, 3203#, 3404#, 4401#, 4502#, 4503#, URSP3100#, 3300#, 3400#, 3600#"
+    },
+    {
+      "course_code": "GRMD2501",
+      "prefix_inferred": true,
+      "evidence": "DSPS3340, GRMD2401#, 2403#, 2501#, 3203#, 3404#, 4401#, 4502#, 4503#, URSP3100#, 3300#, 3400#, 3600#"
+    },
+    {
+      "course_code": "GRMD3203",
+      "prefix_inferred": true,
+      "evidence": "DSPS3340, GRMD2401#, 2403#, 2501#, 3203#, 3404#, 4401#, 4502#, 4503#, URSP3100#, 3300#, 3400#, 3600#"
+    },
+    {
+      "course_code": "GRMD3404",
+      "prefix_inferred": true,
+      "evidence": "DSPS3340, GRMD2401#, 2403#, 2501#, 3203#, 3404#, 4401#, 4502#, 4503#, URSP3100#, 3300#, 3400#, 3600#"
+    },
+    {
+      "course_code": "GRMD4401",
+      "prefix_inferred": true,
+      "evidence": "DSPS3340, GRMD2401#, 2403#, 2501#, 3203#, 3404#, 4401#, 4502#, 4503#, URSP3100#, 3300#, 3400#, 3600#"
+    },
+    {
+      "course_code": "GRMD4502",
+      "prefix_inferred": true,
+      "evidence": "DSPS3340, GRMD2401#, 2403#, 2501#, 3203#, 3404#, 4401#, 4502#, 4503#, URSP3100#, 3300#, 3400#, 3600#"
+    },
+    {
+      "course_code": "GRMD4503",
+      "prefix_inferred": true,
+      "evidence": "DSPS3340, GRMD2401#, 2403#, 2501#, 3203#, 3404#, 4401#, 4502#, 4503#, URSP3100#, 3300#, 3400#, 3600#"
+    },
+    {
+      "course_code": "URSP3100",
+      "prefix_inferred": false,
+      "evidence": "DSPS3340, GRMD2401#, 2403#, 2501#, 3203#, 3404#, 4401#, 4502#, 4503#, URSP3100#, 3300#, 3400#, 3600#"
+    },
+    {
+      "course_code": "URSP3300",
+      "prefix_inferred": true,
+      "evidence": "DSPS3340, GRMD2401#, 2403#, 2501#, 3203#, 3404#, 4401#, 4502#, 4503#, URSP3100#, 3300#, 3400#, 3600#"
+    },
+    {
+      "course_code": "URSP3400",
+      "prefix_inferred": true,
+      "evidence": "DSPS3340, GRMD2401#, 2403#, 2501#, 3203#, 3404#, 4401#, 4502#, 4503#, URSP3100#, 3300#, 3400#, 3600#"
+    },
+    {
+      "course_code": "URSP3600",
+      "prefix_inferred": true,
+      "evidence": "DSPS3340, GRMD2401#, 2403#, 2501#, 3203#, 3404#, 4401#, 4502#, 4503#, URSP3100#, 3300#, 3400#, 3600#"
+    },
+    {
+      "course_code": "DSPS1001",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: DSPS1001 and 1 Faculty Package course"
+    },
+    {
+      "course_code": "DSPS1003",
+      "prefix_inferred": false,
+      "evidence": "Major Required: DSPS1003"
+    },
+    {
+      "course_code": "DSPS1004",
+      "prefix_inferred": false,
+      "evidence": "Major Required: DSPS1004"
+    },
+    {
+      "course_code": "DSPS3801",
+      "prefix_inferred": false,
+      "evidence": "Major Required: DSPS3801"
+    },
+    {
+      "course_code": "DSPS4801",
+      "prefix_inferred": false,
+      "evidence": "Major Required: DSPS4801"
+    },
+    {
+      "course_code": "DSPS4802",
+      "prefix_inferred": false,
+      "evidence": "Major Required: DSPS4802"
+    },
+    {
+      "course_code": "DSPS1001",
+      "prefix_inferred": false,
+      "evidence": "DSPS1001, 1003"
+    },
+    {
+      "course_code": "DSPS1003",
+      "prefix_inferred": true,
+      "evidence": "DSPS1001, 1003"
+    },
+    {
+      "course_code": "DSPS1004",
+      "prefix_inferred": false,
+      "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+    },
+    {
+      "course_code": "DSPS2102",
+      "prefix_inferred": true,
+      "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+    },
+    {
+      "course_code": "DSPS2104",
+      "prefix_inferred": true,
+      "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+    },
+    {
+      "course_code": "DSPS2201",
+      "prefix_inferred": true,
+      "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+    },
+    {
+      "course_code": "DSPS2202",
+      "prefix_inferred": true,
+      "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+    },
+    {
+      "course_code": "DSPS2301",
+      "prefix_inferred": true,
+      "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+    },
+    {
+      "course_code": "DSPS2320",
+      "prefix_inferred": true,
+      "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+    },
+    {
+      "course_code": "DSPS2501",
+      "prefix_inferred": true,
+      "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+    },
+    {
+      "course_code": "DSPS2520",
+      "prefix_inferred": true,
+      "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+    },
+    {
+      "course_code": "DSPS2730",
+      "prefix_inferred": true,
+      "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+    },
+    {
+      "course_code": "DSPS2830",
+      "prefix_inferred": true,
+      "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+    },
+    {
+      "course_code": "DSPS3190",
+      "prefix_inferred": true,
+      "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+    },
+    {
+      "course_code": "DSPS3202",
+      "prefix_inferred": true,
+      "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+    },
+    {
+      "course_code": "DSPS3310",
+      "prefix_inferred": true,
+      "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+    },
+    {
+      "course_code": "DSPS3320",
+      "prefix_inferred": true,
+      "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+    },
+    {
+      "course_code": "DSPS3330",
+      "prefix_inferred": true,
+      "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+    },
+    {
+      "course_code": "DSPS3340",
+      "prefix_inferred": true,
+      "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+    },
+    {
+      "course_code": "DSPS3350",
+      "prefix_inferred": true,
+      "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+    },
+    {
+      "course_code": "DSPS3501",
+      "prefix_inferred": true,
+      "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+    },
+    {
+      "course_code": "DSPS3790",
+      "prefix_inferred": true,
+      "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+    },
+    {
+      "course_code": "DSPS3791",
+      "prefix_inferred": true,
+      "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+    },
+    {
+      "course_code": "DSPS3802",
+      "prefix_inferred": true,
+      "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+    },
+    {
+      "course_code": "DSPS3803",
+      "prefix_inferred": true,
+      "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+    },
+    {
+      "course_code": "DSPS4203",
+      "prefix_inferred": true,
+      "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+    },
+    {
+      "course_code": "DSPS4310",
+      "prefix_inferred": true,
+      "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+    },
+    {
+      "course_code": "DSPS4803",
+      "prefix_inferred": true,
+      "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+    },
+    {
+      "course_code": "DSPS4804",
+      "prefix_inferred": true,
+      "evidence": "DSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804"
+    },
+    {
+      "course_code": "DSPS1001",
+      "prefix_inferred": false,
+      "evidence": "DSPS1001"
+    },
+    {
+      "course_code": "DSPS1002",
+      "prefix_inferred": false,
+      "evidence": "DSPS1002"
+    },
+    {
+      "course_code": "DSPS1003",
+      "prefix_inferred": false,
+      "evidence": "DSPS1003"
+    },
+    {
+      "course_code": "DSPS1004",
+      "prefix_inferred": false,
+      "evidence": "DSPS1004"
+    },
+    {
+      "course_code": "DSPS2101",
+      "prefix_inferred": false,
+      "evidence": "DSPS2101"
+    },
+    {
+      "course_code": "DSPS2102",
+      "prefix_inferred": false,
+      "evidence": "DSPS2102"
+    },
+    {
+      "course_code": "DSPS2104",
+      "prefix_inferred": false,
+      "evidence": "DSPS2104"
+    },
+    {
+      "course_code": "DSPS2201",
+      "prefix_inferred": false,
+      "evidence": "DSPS2201"
+    },
+    {
+      "course_code": "DSPS2202",
+      "prefix_inferred": false,
+      "evidence": "DSPS2202"
+    },
+    {
+      "course_code": "DSPS2301",
+      "prefix_inferred": false,
+      "evidence": "DSPS2301"
+    },
+    {
+      "course_code": "DSPS2320",
+      "prefix_inferred": false,
+      "evidence": "DSPS2320"
+    },
+    {
+      "course_code": "DSPS2501",
+      "prefix_inferred": false,
+      "evidence": "DSPS2501"
+    },
+    {
+      "course_code": "DSPS2520",
+      "prefix_inferred": false,
+      "evidence": "DSPS2520"
+    },
+    {
+      "course_code": "DSPS2730",
+      "prefix_inferred": false,
+      "evidence": "DSPS2730"
+    },
+    {
+      "course_code": "DSPS2830",
+      "prefix_inferred": false,
+      "evidence": "DSPS2830"
+    },
+    {
+      "course_code": "DSPS3190",
+      "prefix_inferred": false,
+      "evidence": "DSPS3190"
+    },
+    {
+      "course_code": "DSPS3202",
+      "prefix_inferred": false,
+      "evidence": "DSPS3202"
+    },
+    {
+      "course_code": "DSPS3310",
+      "prefix_inferred": false,
+      "evidence": "DSPS3310"
+    },
+    {
+      "course_code": "DSPS3320",
+      "prefix_inferred": false,
+      "evidence": "DSPS3320"
+    },
+    {
+      "course_code": "DSPS3330",
+      "prefix_inferred": false,
+      "evidence": "DSPS3330"
+    },
+    {
+      "course_code": "DSPS3340",
+      "prefix_inferred": false,
+      "evidence": "DSPS3340"
+    },
+    {
+      "course_code": "DSPS3350",
+      "prefix_inferred": false,
+      "evidence": "DSPS3350"
+    },
+    {
+      "course_code": "DSPS3501",
+      "prefix_inferred": false,
+      "evidence": "DSPS3501"
+    },
+    {
+      "course_code": "DSPS3790",
+      "prefix_inferred": false,
+      "evidence": "DSPS3790"
+    },
+    {
+      "course_code": "DSPS3791",
+      "prefix_inferred": false,
+      "evidence": "DSPS3791"
+    },
+    {
+      "course_code": "DSPS3801",
+      "prefix_inferred": false,
+      "evidence": "DSPS3801"
+    },
+    {
+      "course_code": "DSPS3802",
+      "prefix_inferred": false,
+      "evidence": "DSPS3802"
+    },
+    {
+      "course_code": "DSPS3803",
+      "prefix_inferred": false,
+      "evidence": "DSPS3803"
+    },
+    {
+      "course_code": "DSPS4203",
+      "prefix_inferred": false,
+      "evidence": "DSPS4203"
+    },
+    {
+      "course_code": "DSPS4310",
+      "prefix_inferred": false,
+      "evidence": "DSPS4310"
+    },
+    {
+      "course_code": "DSPS4801",
+      "prefix_inferred": false,
+      "evidence": "DSPS4801"
+    },
+    {
+      "course_code": "DSPS4802",
+      "prefix_inferred": false,
+      "evidence": "DSPS4802"
+    },
+    {
+      "course_code": "DSPS4803",
+      "prefix_inferred": false,
+      "evidence": "DSPS4803"
+    },
+    {
+      "course_code": "DSPS4804",
+      "prefix_inferred": false,
+      "evidence": "DSPS4804"
+    }
+  ],
+  "course_code_aliases": [],
+  "source": {
+    "system": "CUHK CUSIS Browse Program Information",
+    "url": "https://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/tt_dsp_acad_prog.aspx",
+    "source_text_file": "data/cuhk/2024/programmes/B_S_Sc_in_Data_Science_and_Policy_Studies__Faculty_of_Social_Science.txt",
+    "reused_duplicate_entry": false,
+    "reused_from_faculty": null
+  },
+  "raw_text": "\n\nBrowse Program Information\n\n\n\n\n\n\nAcademic Program:\tB.S.Sc. in Data Science and Policy Studies\nAcademic Year:\t2024\nLanguage:\t\nEnglish\nSimplified Chinese\nTraditional Chinese\n\n\n\nLearning Outcomes\nStudy Scheme\n \n\n\t\n\nData Science and Policy Studies\n\nApplicable to students admitted in 2024-25\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\nMajor Programme Requirement\n\n \n\n\n\n\nStudents are required to complete a minimum of 72 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nFaculty Package:\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\nDSPS1001 and any two courses, offered by two different Programmes/Departments/Schools, chosen from the following:\n\nARCH1001, 1002, 1003, COMM1110, 1120, 1150, 1500,  ECON1210, 1220, 2011, GLSD1001, GPAD1020, 1076, 1077, GRMD1302, 1401, 1402, PSYC1000, 1630, SOCI1001, 1201, SOSC1001, 1002, 1003, SOWK1001, 1113, 1114, URSP1001, 1002\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nRequired Courses:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nDSPS1003, 1004, 3801, 4801 (capstone course), 4802 (capstone course)\n\n\t\n\n15\n\n\n\n\n(b)\n\n\t\n\nResident Study Overseas:\n\nStudents are required to study overseas for one academic term in a partner institution and complete at least 9 units of courses related to Data Science and Policy Studies approved by the Programme Director. Students who are unable to obtain the required units from partner institutions must make up the shortfall by completing appropriate courses at CUHK, subject to the approval of the Programme Director.\n\n\t\n\n9\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nElective Courses[a]:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nMethods and Tools\n\nAny seven courses from the following:\n\nCOMM3650#, DSPS2102, 2104, 2201, 2202, 2520, 2730, 2830, 3190, 3202, 3330, 3350, 3790, 3791, 3802, ECON2121#, 3121#, GRMD2105#, SOCI4201#\n\n\t\n\n21\n\n\n\n\n(b)\n\n\t\n\nPolicy Applications\n\nAny six courses from any of the following areas:\n\n\t\n\n18\n\n \n\n\n\n\n(i)\n\n\t\n\nPolicy Science and Public Governance\n\nDSPS2301, 2320, 2501, 3320, 3501, 3803, 4310, GPAD2065#, 2085#, 2090#, 2095#, 2160#, 2170#\n\n\t\n\n \n\n\n\n\n(ii)\n\n\t\n\nGlobal Relationship\n\nDSPS3310, GLSD2401#, 2501#, SOCI3241#\n\n\t\n\n \n\n\n\n\n(iii)\n\n\t\n\nHuman Resources\n\nPSYC3360#, SOCI3102#, 3227#\n\n\t\n\n \n\n\n\n\n(iv)\n\n\t\n\nSocial Problems, Deviance, Law and Order\n\nECON3630#, PSYC3370#, SOCI2216#, 3002#, 3204#\n\n\t\n\n \n\n\n\n\n(v)\n\n\t\n\nSustainable Smart Cities\n\nDSPS3340, GRMD2401#, 2403#, 2501#, 3203#, 3404#, 4401#, 4502#, 4503#, URSP3100#, 3300#, 3400#, 3600#\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n72\n\n\n\n\nExplanatory Notes:\n\n\n\n\n1.\n\n\t\n\nDSPS courses at 2000 and above level as well as those labeled as # will be included in the calculation of Major GPA for honours classification.\n\n\n\n\n2.\n\n\t\n\nStudents are responsible for the extra costs incurred in relation to the overseas resident study.\n\n\n\n\n[a]\n\n\t\n\nAmong the non-DSPS courses, students can only choose up to three courses under the same subject area.\n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\nRecommended Course Pattern\n\n\t\n\nUnits\n\n\n\n\nFirst Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nFaculty Package: DSPS1001 and 1 Faculty Package course\n\n\t\n\n6\n\n\n\n\nMajor Required: DSPS1003\n\n\t\n\n3\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nFaculty Package: 1 course\n\n\t\n\n3\n\n\n\n\nMajor Required: DSPS1004\n\n\t\n\n3\n\n\n\n\nMajor Elective(s):\n\n\t\n\n \n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required:\n\n\t\n\n \n\n\n\n\nMajor Elective(s): 1-3 course(s)\n\n\t\n\n3-9\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required:\n\n\t\n\n \n\n\n\n\nMajor Elective(s): 1-3 course(s)\n\n\t\n\n3-9\n\n\n\n\nThird Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nCompulsory Resident Study Overseas\n\n\t\n\n9\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: DSPS3801\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): 1-3 course(s)\n\n\t\n\n3-9\n\n\n\n\nFourth Year of Attendance\n\n\t\n\n1st term\n\n\t\n\n \n\n\n\n\nMajor Required: DSPS4801\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): 1-3 course(s)\n\n\t\n\n3-9\n\n\n\n\n2nd term\n\n\t\n\n \n\n\n\n\nMajor Required: DSPS4802\n\n\t\n\n3\n\n\n\n\nMajor Elective(s): 1-3 course(s)\n\n\t\n\n3-9\n\n\n\n\nTotal (including Faculty Package):\n\n\t\n\n72\n\n\t\n\n \n\n\n\n\n \n\nMinor Programme Title\n\nData Science and Policy Studies\n\n \n\n\n\n\n \n\nMinor Programme Requirement\n\n \n\n\t\n\n \n\n\n\n\nStudents are required to complete a minimum of 18 units of courses as follows:\n\n\n\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nRequired Courses:\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nDSPS1001, 1003            \n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nElective Courses:\n\n\t\n\n12\n\n\n\n\n \n\n\t\n\n12 units from the following, including a minimum of 6 units of courses at 3000 or above level:\n\nDSPS1004, 2102, 2104, 2201, 2202, 2301, 2320, 2501, 2520, 2730, 2830, 3190, 3202, 3310, 3320, 3330, 3340, 3350, 3501, 3790, 3791, 3802, 3803, 4203, 4310, 4803, 4804\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n18\n\n\n\n\n \n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\n\n\nCourse List\n\n \n\n\n\n\nCourse Code\n\n\t\n\nCourse Title\n\n\t\n\nUnit(s)\n\n\n\n\nDSPS1001\n\n\t\n\nIntroduction to Policy Sciences\n\n\t\n\n3\n\n\n\n\nDSPS1002\n\n\t\n\nData Science and Public Policy\n\n\t\n\n3\n\n\n\n\nDSPS1003\n\n\t\n\nFoundation of Data Science\n\n\t\n\n3\n\n\n\n\nDSPS1004\n\n\t\n\nStatistics for Data Science and Policy Studies\n\n\t\n\n3\n\n\n\n\nDSPS2101\n\n\t\n\nResearch Methods for Policy Studies\n\n\t\n\n3\n\n\n\n\nDSPS2102\n\n\t\n\nIntroduction to Data Science Applications in Public Policy and Political Studies\n\n\t\n\n3\n\n\n\n\nDSPS2104\n\n\t\n\nAdvanced Programming for Data Science\n\n\t\n\n3\n\n\n\n\nDSPS2201\n\n\t\n\nData Preprocessing for Data Analytics\n\n\t\n\n3\n\n\n\n\nDSPS2202\n\n\t\n\nDatabase Systems for Data Science\n\n\t\n\n3\n\n\n\n\nDSPS2301\n\n\t\n\nPolicy Analysis and Design Thinking\n\n\t\n\n3\n\n\n\n\nDSPS2320\n\n\t\n\nAI Governance and Public Policy\n\n\t\n\n3\n\n\n\n\nDSPS2501\n\n\t\n\nManaging Technology and Policy Innovation\n\n\t\n\n3\n\n\n\n\nDSPS2520\n\n\t\n\nData Science Project Management\n\n\t\n\n3\n\n\n\n\nDSPS2730\n\n\t\n\nLinear Algebra for Data Science\n\n\t\n\n3\n\n\n\n\nDSPS2830\n\n\t\n\nCalculus for Data Science\n\n\t\n\n3\n\n\n\n\nDSPS3190\n\n\t\n\nBig Data Analytics for Public Policy\n\n\t\n\n3\n\n\n\n\nDSPS3202\n\n\t\n\nMachine Learning for Public Policy\n\n\t\n\n3\n\n\n\n\nDSPS3310\n\n\t\n\nCollaborative Governance in a Global Context\n\n\t\n\n3\n\n\n\n\nDSPS3320\n\n\t\n\nData Science and Regulation\n\n\t\n\n3\n\n\n\n\nDSPS3330\n\n\t\n\nExtended Reality (XR) for Data Visualization and Policy Narratives\n\n\t\n\n3\n\n\n\n\nDSPS3340\n\n\t\n\nSmart Cities and Internet of Things\n\n\t\n\n3\n\n\n\n\nDSPS3350\n\n\t\n\nComputer Simulation for Policymaking\n\n\t\n\n3\n\n\n\n\nDSPS3501\n\n\t\n\nPolicy Leadership and Entrepreneurship Workshop\n\n\t\n\n3\n\n\n\n\nDSPS3790\n\n\t\n\nSocial Network Analysis for Public Policy\n\n\t\n\n3\n\n\n\n\nDSPS3791\n\n\t\n\nNatural Language Processing for Public Policy\n\n\t\n\n3\n\n\n\n\nDSPS3801\n\n\t\n\nInternship\n\n\t\n\n3\n\n\n\n\nDSPS3802\n\n\t\n\nAdvanced Data Visualization\n\n\t\n\n3\n\n\n\n\nDSPS3803\n\n\t\n\nAI for Social Good\n\n\t\n\n3\n\n\n\n\nDSPS4203\n\n\t\n\nAdvanced Applications of Data Science in Public Policy\n\n\t\n\n3\n\n\n\n\nDSPS4310\n\n\t\n\nData, Evidence and Public Policy\n\n\t\n\n3\n\n\n\n\nDSPS4801\n\n\t\n\nGraduation Capstone Project I\n\n\t\n\n3\n\n\n\n\nDSPS4802\n\n\t\n\nGraduation Capstone Project II\n\n\t\n\n3\n\n\n\n\nDSPS4803\n\n\t\n\nSelected Topics in Data Science and Policy Studies III\n\n\t\n\n3\n\n\n\n\nDSPS4804\n\n\t\n\nSelected Topics in Data Science and Policy Studies IV\n\n\t\n\n3\n\n\t\n\n \n\n\n\t\t\t\n\n \n\n\n \n\nStudy Scheme\n\n\nLearning Outcomes\n \n\n\t\n\n \n\n1.          Major Programme:\n\nUpon completion of their studies, students will have developed:\n\n(1)\n\n\t\n\ncompetency in knowledge of policy-making, data analytics, machine learning, Internet of Things (IoT), artificial intelligence, information and communication technologies (ICT), statistics, engineering and relevant fields appropriate to the degree discipline;\n\n\n\n\n(2)\n\n\t\n\nintellectual and professional capacities to generate actionable social knowledge for deriving data-driven and evidence-based decisions with policy impacts;\n\n\n\n\n(3)\n\n\t\n\nthe ability to use big data, computer, statistical and ICT technologies to conduct research and analysis, and to interpret results with understandings of their process, limitations and implications;\n\n\n\n\n(4)\n\n\t\n\nthe ability to integrate and apply knowledge from an interdisciplinary and transdisciplinary approach to design and implement policy solutions;\n\n\n\n\n(5)\n\n\t\n\nthe ability to combine analytical power with design thinking, creativity and innovation;\n\n\n\n\n(6)\n\n\t\n\nthe ability to understand the technological, institutional and human dimensions of the impact of technologies and innovation on organizations and society;\n\n\n\n\n(7)\n\n\t\n\nthe ability to understand professional and ethical responsibilities and social, economic, political, legal, and regulatory impacts of big data and policy change and innovation;\n\n\n\n\n(8)\n\n\t\n\nthe ability to communicate data analysis, findings, and policy decisions to major stakeholders;\n\n\n\n\n(9)\n\n\t\n\nthe ability to lead and work in teams in a global and collaborative context;\n\n\n\n\n(10)\n\n\t\n\nthe understanding of entrepreneurship and citizenship;\n\n\n\n\n(11)\n\n\t\n\nan international perspective and a critical global mind-set; and\n\n\n\n\n(12)\n\n\t\n\nthe ability of co-learning, co-creation of knowledge, and life-long learning.\n\n\n\n\n \n\n\t\n\n \n\n2.          Minor Programme:\n\nUpon completion of the Minor Programme, students will have demonstrated an understanding of fundamental issues related to policy studies and acquired basic skills in data science.  They will also have a sufficient understanding of how to make informed and good policy decisions based on data science and communicate such decisions to different stakeholders.  As data-driven and evidence-based policymaking can be broadly applied to different sectors to solve complex social problems, the Minor Programme can synergize with students’ major studies to enhance their competitiveness in career development.\n\n \n\n \n\n \n\n\n"
+}

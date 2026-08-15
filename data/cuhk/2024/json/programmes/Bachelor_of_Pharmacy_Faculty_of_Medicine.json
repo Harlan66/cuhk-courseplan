@@ -1,0 +1,1297 @@
+{
+  "programme_id": "Bachelor_of_Pharmacy__Faculty_of_Medicine",
+  "academic_program": "Bachelor of Pharmacy",
+  "faculty": "Faculty of Medicine",
+  "academic_year": 2024,
+  "admission_cohort": "2024-25",
+  "requirement_summary": {
+    "minimum_units_as_printed": "a minimum of 75 units",
+    "sections": [
+      {
+        "number": 1,
+        "title": "Faculty Package",
+        "units_as_printed": "10",
+        "course_mentions": [
+          {
+            "course_code": "MEDF1011",
+            "prefix_inferred": false,
+            "evidence": "MEDF1011[a], 1012[a], 1021, 1031 and 1041"
+          },
+          {
+            "course_code": "MEDF1012",
+            "prefix_inferred": true,
+            "evidence": "MEDF1011[a], 1012[a], 1021, 1031 and 1041"
+          },
+          {
+            "course_code": "MEDF1021",
+            "prefix_inferred": true,
+            "evidence": "MEDF1011[a], 1012[a], 1021, 1031 and 1041"
+          },
+          {
+            "course_code": "MEDF1031",
+            "prefix_inferred": true,
+            "evidence": "MEDF1011[a], 1012[a], 1021, 1031 and 1041"
+          },
+          {
+            "course_code": "MEDF1041",
+            "prefix_inferred": true,
+            "evidence": "MEDF1011[a], 1012[a], 1021, 1031 and 1041"
+          }
+        ],
+        "raw_text": "10\nMEDF1011[a], 1012[a], 1021, 1031 and 1041"
+      },
+      {
+        "number": 2,
+        "title": "Required Courses",
+        "units_as_printed": "57",
+        "course_mentions": [
+          {
+            "course_code": "PHAR1000",
+            "prefix_inferred": false,
+            "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+          },
+          {
+            "course_code": "PHAR1004",
+            "prefix_inferred": true,
+            "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+          },
+          {
+            "course_code": "PHAR1110",
+            "prefix_inferred": true,
+            "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+          },
+          {
+            "course_code": "PHAR1423",
+            "prefix_inferred": true,
+            "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+          },
+          {
+            "course_code": "PHAR1433",
+            "prefix_inferred": true,
+            "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+          },
+          {
+            "course_code": "PHAR1434",
+            "prefix_inferred": true,
+            "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+          },
+          {
+            "course_code": "PHAR1440",
+            "prefix_inferred": true,
+            "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+          },
+          {
+            "course_code": "PHAR2110",
+            "prefix_inferred": true,
+            "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+          },
+          {
+            "course_code": "PHAR2131",
+            "prefix_inferred": true,
+            "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+          },
+          {
+            "course_code": "PHAR2211",
+            "prefix_inferred": true,
+            "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+          },
+          {
+            "course_code": "PHAR2212",
+            "prefix_inferred": true,
+            "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+          },
+          {
+            "course_code": "PHAR2213",
+            "prefix_inferred": true,
+            "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+          },
+          {
+            "course_code": "PHAR2220",
+            "prefix_inferred": true,
+            "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+          },
+          {
+            "course_code": "PHAR2313",
+            "prefix_inferred": true,
+            "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+          },
+          {
+            "course_code": "PHAR2320",
+            "prefix_inferred": true,
+            "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+          },
+          {
+            "course_code": "PHAR2330",
+            "prefix_inferred": true,
+            "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+          },
+          {
+            "course_code": "PHAR2410",
+            "prefix_inferred": true,
+            "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+          },
+          {
+            "course_code": "PHAR2520",
+            "prefix_inferred": true,
+            "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+          },
+          {
+            "course_code": "PHAR3330",
+            "prefix_inferred": true,
+            "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+          },
+          {
+            "course_code": "PHAR3413",
+            "prefix_inferred": true,
+            "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+          },
+          {
+            "course_code": "PHAR3414",
+            "prefix_inferred": true,
+            "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+          },
+          {
+            "course_code": "PHAR3415",
+            "prefix_inferred": true,
+            "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+          },
+          {
+            "course_code": "PHAR3420",
+            "prefix_inferred": true,
+            "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+          },
+          {
+            "course_code": "PHAR3510",
+            "prefix_inferred": true,
+            "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+          },
+          {
+            "course_code": "PHAR3812",
+            "prefix_inferred": true,
+            "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+          }
+        ],
+        "raw_text": "57\nPHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+      },
+      {
+        "number": 3,
+        "title": "Elective Courses",
+        "units_as_printed": "6",
+        "course_mentions": [
+          {
+            "course_code": "PHAR4201",
+            "prefix_inferred": false,
+            "evidence": "PHAR4201, 4301"
+          },
+          {
+            "course_code": "PHAR4301",
+            "prefix_inferred": true,
+            "evidence": "PHAR4201, 4301"
+          },
+          {
+            "course_code": "PHAR4204",
+            "prefix_inferred": false,
+            "evidence": "PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+          },
+          {
+            "course_code": "PHAR4205",
+            "prefix_inferred": true,
+            "evidence": "PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+          },
+          {
+            "course_code": "PHAR4302",
+            "prefix_inferred": true,
+            "evidence": "PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+          },
+          {
+            "course_code": "PHAR4303",
+            "prefix_inferred": true,
+            "evidence": "PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+          },
+          {
+            "course_code": "PHAR4304",
+            "prefix_inferred": true,
+            "evidence": "PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+          },
+          {
+            "course_code": "PHAR4305",
+            "prefix_inferred": true,
+            "evidence": "PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+          },
+          {
+            "course_code": "PHAR4306",
+            "prefix_inferred": true,
+            "evidence": "PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+          },
+          {
+            "course_code": "PHAR4307",
+            "prefix_inferred": true,
+            "evidence": "PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+          },
+          {
+            "course_code": "PHAR4308",
+            "prefix_inferred": true,
+            "evidence": "PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+          },
+          {
+            "course_code": "PHAR4309",
+            "prefix_inferred": true,
+            "evidence": "PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+          },
+          {
+            "course_code": "PHAR4310",
+            "prefix_inferred": true,
+            "evidence": "PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+          },
+          {
+            "course_code": "PHAR4350",
+            "prefix_inferred": true,
+            "evidence": "PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+          },
+          {
+            "course_code": "PHAR4401",
+            "prefix_inferred": true,
+            "evidence": "PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+          },
+          {
+            "course_code": "PHAR4402",
+            "prefix_inferred": true,
+            "evidence": "PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+          },
+          {
+            "course_code": "PHAR4403",
+            "prefix_inferred": true,
+            "evidence": "PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+          },
+          {
+            "course_code": "PHAR4501",
+            "prefix_inferred": true,
+            "evidence": "PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+          },
+          {
+            "course_code": "PHAR4601",
+            "prefix_inferred": true,
+            "evidence": "PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+          },
+          {
+            "course_code": "PHAR4901",
+            "prefix_inferred": true,
+            "evidence": "PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+          },
+          {
+            "course_code": "PHAR4911",
+            "prefix_inferred": false,
+            "evidence": "PHAR4911, 4912"
+          },
+          {
+            "course_code": "PHAR4912",
+            "prefix_inferred": true,
+            "evidence": "PHAR4911, 4912"
+          },
+          {
+            "course_code": "PHAR2710",
+            "prefix_inferred": false,
+            "evidence": "PHAR2710, 2711, 2712"
+          },
+          {
+            "course_code": "PHAR2711",
+            "prefix_inferred": true,
+            "evidence": "PHAR2710, 2711, 2712"
+          },
+          {
+            "course_code": "PHAR2712",
+            "prefix_inferred": true,
+            "evidence": "PHAR2710, 2711, 2712"
+          }
+        ],
+        "raw_text": "(a)\nStudents are required to complete 6 units of capstone courses from one of the Areas of Concentration.\n6\nArea of Concentration: Pharmacy Clerkship\n(i)\nPHAR4201, 4301\n(ii)\n2 units of courses chosen from the following[b]:\nPHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901\nArea of Concentration: Research\n(i)\nPHAR4911, 4912\n(b)\nAt least 2 units of courses chosen from the following[c]:\n2\nPHAR2710, 2711, 2712\nTotal:\n75\nExplanatory Notes:"
+      }
+    ]
+  },
+  "all_course_mentions": [
+    {
+      "course_code": "MEDF1011",
+      "prefix_inferred": false,
+      "evidence": "MEDF1011[a], 1012[a], 1021, 1031 and 1041"
+    },
+    {
+      "course_code": "MEDF1012",
+      "prefix_inferred": true,
+      "evidence": "MEDF1011[a], 1012[a], 1021, 1031 and 1041"
+    },
+    {
+      "course_code": "MEDF1021",
+      "prefix_inferred": true,
+      "evidence": "MEDF1011[a], 1012[a], 1021, 1031 and 1041"
+    },
+    {
+      "course_code": "MEDF1031",
+      "prefix_inferred": true,
+      "evidence": "MEDF1011[a], 1012[a], 1021, 1031 and 1041"
+    },
+    {
+      "course_code": "MEDF1041",
+      "prefix_inferred": true,
+      "evidence": "MEDF1011[a], 1012[a], 1021, 1031 and 1041"
+    },
+    {
+      "course_code": "PHAR1000",
+      "prefix_inferred": false,
+      "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+    },
+    {
+      "course_code": "PHAR1004",
+      "prefix_inferred": true,
+      "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+    },
+    {
+      "course_code": "PHAR1110",
+      "prefix_inferred": true,
+      "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+    },
+    {
+      "course_code": "PHAR1423",
+      "prefix_inferred": true,
+      "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+    },
+    {
+      "course_code": "PHAR1433",
+      "prefix_inferred": true,
+      "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+    },
+    {
+      "course_code": "PHAR1434",
+      "prefix_inferred": true,
+      "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+    },
+    {
+      "course_code": "PHAR1440",
+      "prefix_inferred": true,
+      "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+    },
+    {
+      "course_code": "PHAR2110",
+      "prefix_inferred": true,
+      "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+    },
+    {
+      "course_code": "PHAR2131",
+      "prefix_inferred": true,
+      "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+    },
+    {
+      "course_code": "PHAR2211",
+      "prefix_inferred": true,
+      "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+    },
+    {
+      "course_code": "PHAR2212",
+      "prefix_inferred": true,
+      "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+    },
+    {
+      "course_code": "PHAR2213",
+      "prefix_inferred": true,
+      "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+    },
+    {
+      "course_code": "PHAR2220",
+      "prefix_inferred": true,
+      "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+    },
+    {
+      "course_code": "PHAR2313",
+      "prefix_inferred": true,
+      "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+    },
+    {
+      "course_code": "PHAR2320",
+      "prefix_inferred": true,
+      "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+    },
+    {
+      "course_code": "PHAR2330",
+      "prefix_inferred": true,
+      "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+    },
+    {
+      "course_code": "PHAR2410",
+      "prefix_inferred": true,
+      "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+    },
+    {
+      "course_code": "PHAR2520",
+      "prefix_inferred": true,
+      "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+    },
+    {
+      "course_code": "PHAR3330",
+      "prefix_inferred": true,
+      "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+    },
+    {
+      "course_code": "PHAR3413",
+      "prefix_inferred": true,
+      "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+    },
+    {
+      "course_code": "PHAR3414",
+      "prefix_inferred": true,
+      "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+    },
+    {
+      "course_code": "PHAR3415",
+      "prefix_inferred": true,
+      "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+    },
+    {
+      "course_code": "PHAR3420",
+      "prefix_inferred": true,
+      "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+    },
+    {
+      "course_code": "PHAR3510",
+      "prefix_inferred": true,
+      "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+    },
+    {
+      "course_code": "PHAR3812",
+      "prefix_inferred": true,
+      "evidence": "PHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812"
+    },
+    {
+      "course_code": "PHAR4201",
+      "prefix_inferred": false,
+      "evidence": "PHAR4201, 4301"
+    },
+    {
+      "course_code": "PHAR4301",
+      "prefix_inferred": true,
+      "evidence": "PHAR4201, 4301"
+    },
+    {
+      "course_code": "PHAR4204",
+      "prefix_inferred": false,
+      "evidence": "PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+    },
+    {
+      "course_code": "PHAR4205",
+      "prefix_inferred": true,
+      "evidence": "PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+    },
+    {
+      "course_code": "PHAR4302",
+      "prefix_inferred": true,
+      "evidence": "PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+    },
+    {
+      "course_code": "PHAR4303",
+      "prefix_inferred": true,
+      "evidence": "PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+    },
+    {
+      "course_code": "PHAR4304",
+      "prefix_inferred": true,
+      "evidence": "PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+    },
+    {
+      "course_code": "PHAR4305",
+      "prefix_inferred": true,
+      "evidence": "PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+    },
+    {
+      "course_code": "PHAR4306",
+      "prefix_inferred": true,
+      "evidence": "PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+    },
+    {
+      "course_code": "PHAR4307",
+      "prefix_inferred": true,
+      "evidence": "PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+    },
+    {
+      "course_code": "PHAR4308",
+      "prefix_inferred": true,
+      "evidence": "PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+    },
+    {
+      "course_code": "PHAR4309",
+      "prefix_inferred": true,
+      "evidence": "PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+    },
+    {
+      "course_code": "PHAR4310",
+      "prefix_inferred": true,
+      "evidence": "PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+    },
+    {
+      "course_code": "PHAR4350",
+      "prefix_inferred": true,
+      "evidence": "PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+    },
+    {
+      "course_code": "PHAR4401",
+      "prefix_inferred": true,
+      "evidence": "PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+    },
+    {
+      "course_code": "PHAR4402",
+      "prefix_inferred": true,
+      "evidence": "PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+    },
+    {
+      "course_code": "PHAR4403",
+      "prefix_inferred": true,
+      "evidence": "PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+    },
+    {
+      "course_code": "PHAR4501",
+      "prefix_inferred": true,
+      "evidence": "PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+    },
+    {
+      "course_code": "PHAR4601",
+      "prefix_inferred": true,
+      "evidence": "PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+    },
+    {
+      "course_code": "PHAR4901",
+      "prefix_inferred": true,
+      "evidence": "PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+    },
+    {
+      "course_code": "PHAR4911",
+      "prefix_inferred": false,
+      "evidence": "PHAR4911, 4912"
+    },
+    {
+      "course_code": "PHAR4912",
+      "prefix_inferred": true,
+      "evidence": "PHAR4911, 4912"
+    },
+    {
+      "course_code": "PHAR2710",
+      "prefix_inferred": false,
+      "evidence": "PHAR2710, 2711, 2712"
+    },
+    {
+      "course_code": "PHAR2711",
+      "prefix_inferred": true,
+      "evidence": "PHAR2710, 2711, 2712"
+    },
+    {
+      "course_code": "PHAR2712",
+      "prefix_inferred": true,
+      "evidence": "PHAR2710, 2711, 2712"
+    },
+    {
+      "course_code": "PHAR2018",
+      "prefix_inferred": false,
+      "evidence": "Students are encouraged to take 1–5 units of free elective courses from PHAR2018, 3603, 3604 and 3605 in the summer session to gain experience in pharmacy practice. However, these free elective courses shall not be counted towards the calculation of Major GPA for honours classification."
+    },
+    {
+      "course_code": "PHAR3603",
+      "prefix_inferred": true,
+      "evidence": "Students are encouraged to take 1–5 units of free elective courses from PHAR2018, 3603, 3604 and 3605 in the summer session to gain experience in pharmacy practice. However, these free elective courses shall not be counted towards the calculation of Major GPA for honours classification."
+    },
+    {
+      "course_code": "PHAR3604",
+      "prefix_inferred": true,
+      "evidence": "Students are encouraged to take 1–5 units of free elective courses from PHAR2018, 3603, 3604 and 3605 in the summer session to gain experience in pharmacy practice. However, these free elective courses shall not be counted towards the calculation of Major GPA for honours classification."
+    },
+    {
+      "course_code": "PHAR3605",
+      "prefix_inferred": true,
+      "evidence": "Students are encouraged to take 1–5 units of free elective courses from PHAR2018, 3603, 3604 and 3605 in the summer session to gain experience in pharmacy practice. However, these free elective courses shall not be counted towards the calculation of Major GPA for honours classification."
+    },
+    {
+      "course_code": "PHAR3603",
+      "prefix_inferred": false,
+      "evidence": "Students must obtain Grade \"C+\" or above in the following courses, including PHAR3603, 3604, 3605, 3812, 4201, 4204, 4205, 4301, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901 and 4912, in order to fulfill Major Programme Requirement. Those who obtain Grade \"C\" or below may repeat the same course or take a substitute course to fulfill the Major Programme Requirement in the subsequent year."
+    },
+    {
+      "course_code": "PHAR3604",
+      "prefix_inferred": true,
+      "evidence": "Students must obtain Grade \"C+\" or above in the following courses, including PHAR3603, 3604, 3605, 3812, 4201, 4204, 4205, 4301, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901 and 4912, in order to fulfill Major Programme Requirement. Those who obtain Grade \"C\" or below may repeat the same course or take a substitute course to fulfill the Major Programme Requirement in the subsequent year."
+    },
+    {
+      "course_code": "PHAR3605",
+      "prefix_inferred": true,
+      "evidence": "Students must obtain Grade \"C+\" or above in the following courses, including PHAR3603, 3604, 3605, 3812, 4201, 4204, 4205, 4301, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901 and 4912, in order to fulfill Major Programme Requirement. Those who obtain Grade \"C\" or below may repeat the same course or take a substitute course to fulfill the Major Programme Requirement in the subsequent year."
+    },
+    {
+      "course_code": "PHAR3812",
+      "prefix_inferred": true,
+      "evidence": "Students must obtain Grade \"C+\" or above in the following courses, including PHAR3603, 3604, 3605, 3812, 4201, 4204, 4205, 4301, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901 and 4912, in order to fulfill Major Programme Requirement. Those who obtain Grade \"C\" or below may repeat the same course or take a substitute course to fulfill the Major Programme Requirement in the subsequent year."
+    },
+    {
+      "course_code": "PHAR4201",
+      "prefix_inferred": true,
+      "evidence": "Students must obtain Grade \"C+\" or above in the following courses, including PHAR3603, 3604, 3605, 3812, 4201, 4204, 4205, 4301, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901 and 4912, in order to fulfill Major Programme Requirement. Those who obtain Grade \"C\" or below may repeat the same course or take a substitute course to fulfill the Major Programme Requirement in the subsequent year."
+    },
+    {
+      "course_code": "PHAR4204",
+      "prefix_inferred": true,
+      "evidence": "Students must obtain Grade \"C+\" or above in the following courses, including PHAR3603, 3604, 3605, 3812, 4201, 4204, 4205, 4301, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901 and 4912, in order to fulfill Major Programme Requirement. Those who obtain Grade \"C\" or below may repeat the same course or take a substitute course to fulfill the Major Programme Requirement in the subsequent year."
+    },
+    {
+      "course_code": "PHAR4205",
+      "prefix_inferred": true,
+      "evidence": "Students must obtain Grade \"C+\" or above in the following courses, including PHAR3603, 3604, 3605, 3812, 4201, 4204, 4205, 4301, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901 and 4912, in order to fulfill Major Programme Requirement. Those who obtain Grade \"C\" or below may repeat the same course or take a substitute course to fulfill the Major Programme Requirement in the subsequent year."
+    },
+    {
+      "course_code": "PHAR4301",
+      "prefix_inferred": true,
+      "evidence": "Students must obtain Grade \"C+\" or above in the following courses, including PHAR3603, 3604, 3605, 3812, 4201, 4204, 4205, 4301, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901 and 4912, in order to fulfill Major Programme Requirement. Those who obtain Grade \"C\" or below may repeat the same course or take a substitute course to fulfill the Major Programme Requirement in the subsequent year."
+    },
+    {
+      "course_code": "PHAR4302",
+      "prefix_inferred": true,
+      "evidence": "Students must obtain Grade \"C+\" or above in the following courses, including PHAR3603, 3604, 3605, 3812, 4201, 4204, 4205, 4301, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901 and 4912, in order to fulfill Major Programme Requirement. Those who obtain Grade \"C\" or below may repeat the same course or take a substitute course to fulfill the Major Programme Requirement in the subsequent year."
+    },
+    {
+      "course_code": "PHAR4303",
+      "prefix_inferred": true,
+      "evidence": "Students must obtain Grade \"C+\" or above in the following courses, including PHAR3603, 3604, 3605, 3812, 4201, 4204, 4205, 4301, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901 and 4912, in order to fulfill Major Programme Requirement. Those who obtain Grade \"C\" or below may repeat the same course or take a substitute course to fulfill the Major Programme Requirement in the subsequent year."
+    },
+    {
+      "course_code": "PHAR4304",
+      "prefix_inferred": true,
+      "evidence": "Students must obtain Grade \"C+\" or above in the following courses, including PHAR3603, 3604, 3605, 3812, 4201, 4204, 4205, 4301, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901 and 4912, in order to fulfill Major Programme Requirement. Those who obtain Grade \"C\" or below may repeat the same course or take a substitute course to fulfill the Major Programme Requirement in the subsequent year."
+    },
+    {
+      "course_code": "PHAR4305",
+      "prefix_inferred": true,
+      "evidence": "Students must obtain Grade \"C+\" or above in the following courses, including PHAR3603, 3604, 3605, 3812, 4201, 4204, 4205, 4301, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901 and 4912, in order to fulfill Major Programme Requirement. Those who obtain Grade \"C\" or below may repeat the same course or take a substitute course to fulfill the Major Programme Requirement in the subsequent year."
+    },
+    {
+      "course_code": "PHAR4306",
+      "prefix_inferred": true,
+      "evidence": "Students must obtain Grade \"C+\" or above in the following courses, including PHAR3603, 3604, 3605, 3812, 4201, 4204, 4205, 4301, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901 and 4912, in order to fulfill Major Programme Requirement. Those who obtain Grade \"C\" or below may repeat the same course or take a substitute course to fulfill the Major Programme Requirement in the subsequent year."
+    },
+    {
+      "course_code": "PHAR4307",
+      "prefix_inferred": true,
+      "evidence": "Students must obtain Grade \"C+\" or above in the following courses, including PHAR3603, 3604, 3605, 3812, 4201, 4204, 4205, 4301, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901 and 4912, in order to fulfill Major Programme Requirement. Those who obtain Grade \"C\" or below may repeat the same course or take a substitute course to fulfill the Major Programme Requirement in the subsequent year."
+    },
+    {
+      "course_code": "PHAR4308",
+      "prefix_inferred": true,
+      "evidence": "Students must obtain Grade \"C+\" or above in the following courses, including PHAR3603, 3604, 3605, 3812, 4201, 4204, 4205, 4301, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901 and 4912, in order to fulfill Major Programme Requirement. Those who obtain Grade \"C\" or below may repeat the same course or take a substitute course to fulfill the Major Programme Requirement in the subsequent year."
+    },
+    {
+      "course_code": "PHAR4309",
+      "prefix_inferred": true,
+      "evidence": "Students must obtain Grade \"C+\" or above in the following courses, including PHAR3603, 3604, 3605, 3812, 4201, 4204, 4205, 4301, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901 and 4912, in order to fulfill Major Programme Requirement. Those who obtain Grade \"C\" or below may repeat the same course or take a substitute course to fulfill the Major Programme Requirement in the subsequent year."
+    },
+    {
+      "course_code": "PHAR4310",
+      "prefix_inferred": true,
+      "evidence": "Students must obtain Grade \"C+\" or above in the following courses, including PHAR3603, 3604, 3605, 3812, 4201, 4204, 4205, 4301, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901 and 4912, in order to fulfill Major Programme Requirement. Those who obtain Grade \"C\" or below may repeat the same course or take a substitute course to fulfill the Major Programme Requirement in the subsequent year."
+    },
+    {
+      "course_code": "PHAR4350",
+      "prefix_inferred": true,
+      "evidence": "Students must obtain Grade \"C+\" or above in the following courses, including PHAR3603, 3604, 3605, 3812, 4201, 4204, 4205, 4301, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901 and 4912, in order to fulfill Major Programme Requirement. Those who obtain Grade \"C\" or below may repeat the same course or take a substitute course to fulfill the Major Programme Requirement in the subsequent year."
+    },
+    {
+      "course_code": "PHAR4401",
+      "prefix_inferred": true,
+      "evidence": "Students must obtain Grade \"C+\" or above in the following courses, including PHAR3603, 3604, 3605, 3812, 4201, 4204, 4205, 4301, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901 and 4912, in order to fulfill Major Programme Requirement. Those who obtain Grade \"C\" or below may repeat the same course or take a substitute course to fulfill the Major Programme Requirement in the subsequent year."
+    },
+    {
+      "course_code": "PHAR4402",
+      "prefix_inferred": true,
+      "evidence": "Students must obtain Grade \"C+\" or above in the following courses, including PHAR3603, 3604, 3605, 3812, 4201, 4204, 4205, 4301, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901 and 4912, in order to fulfill Major Programme Requirement. Those who obtain Grade \"C\" or below may repeat the same course or take a substitute course to fulfill the Major Programme Requirement in the subsequent year."
+    },
+    {
+      "course_code": "PHAR4403",
+      "prefix_inferred": true,
+      "evidence": "Students must obtain Grade \"C+\" or above in the following courses, including PHAR3603, 3604, 3605, 3812, 4201, 4204, 4205, 4301, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901 and 4912, in order to fulfill Major Programme Requirement. Those who obtain Grade \"C\" or below may repeat the same course or take a substitute course to fulfill the Major Programme Requirement in the subsequent year."
+    },
+    {
+      "course_code": "PHAR4501",
+      "prefix_inferred": true,
+      "evidence": "Students must obtain Grade \"C+\" or above in the following courses, including PHAR3603, 3604, 3605, 3812, 4201, 4204, 4205, 4301, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901 and 4912, in order to fulfill Major Programme Requirement. Those who obtain Grade \"C\" or below may repeat the same course or take a substitute course to fulfill the Major Programme Requirement in the subsequent year."
+    },
+    {
+      "course_code": "PHAR4601",
+      "prefix_inferred": true,
+      "evidence": "Students must obtain Grade \"C+\" or above in the following courses, including PHAR3603, 3604, 3605, 3812, 4201, 4204, 4205, 4301, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901 and 4912, in order to fulfill Major Programme Requirement. Those who obtain Grade \"C\" or below may repeat the same course or take a substitute course to fulfill the Major Programme Requirement in the subsequent year."
+    },
+    {
+      "course_code": "PHAR4901",
+      "prefix_inferred": true,
+      "evidence": "Students must obtain Grade \"C+\" or above in the following courses, including PHAR3603, 3604, 3605, 3812, 4201, 4204, 4205, 4301, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901 and 4912, in order to fulfill Major Programme Requirement. Those who obtain Grade \"C\" or below may repeat the same course or take a substitute course to fulfill the Major Programme Requirement in the subsequent year."
+    },
+    {
+      "course_code": "PHAR4912",
+      "prefix_inferred": true,
+      "evidence": "Students must obtain Grade \"C+\" or above in the following courses, including PHAR3603, 3604, 3605, 3812, 4201, 4204, 4205, 4301, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901 and 4912, in order to fulfill Major Programme Requirement. Those who obtain Grade \"C\" or below may repeat the same course or take a substitute course to fulfill the Major Programme Requirement in the subsequent year."
+    },
+    {
+      "course_code": "MEDF1011",
+      "prefix_inferred": false,
+      "evidence": "Students obtained a total score of at least 38 in 6 HKDSE subjects, including at least 5* in English, Biology and Chemistry, are eligible to apply for course and unit exemptions for MEDF1011 and MEDF1012, to be granted by the Board of the Faculty of Medicine on a case-by-case basis on behalf of the Senate. Students who have been granted such exemptions are still required to fulfill the overall unit requirement of the Major Programme."
+    },
+    {
+      "course_code": "MEDF1012",
+      "prefix_inferred": false,
+      "evidence": "Students obtained a total score of at least 38 in 6 HKDSE subjects, including at least 5* in English, Biology and Chemistry, are eligible to apply for course and unit exemptions for MEDF1011 and MEDF1012, to be granted by the Board of the Faculty of Medicine on a case-by-case basis on behalf of the Senate. Students who have been granted such exemptions are still required to fulfill the overall unit requirement of the Major Programme."
+    },
+    {
+      "course_code": "MEDF1011",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: MEDF1011, 1021, 1041"
+    },
+    {
+      "course_code": "MEDF1021",
+      "prefix_inferred": true,
+      "evidence": "Faculty Package: MEDF1011, 1021, 1041"
+    },
+    {
+      "course_code": "MEDF1041",
+      "prefix_inferred": true,
+      "evidence": "Faculty Package: MEDF1011, 1021, 1041"
+    },
+    {
+      "course_code": "PHAR1000",
+      "prefix_inferred": false,
+      "evidence": "Major Required: PHAR1000"
+    },
+    {
+      "course_code": "MEDF1012",
+      "prefix_inferred": false,
+      "evidence": "Faculty Package: MEDF1012, 1031"
+    },
+    {
+      "course_code": "MEDF1031",
+      "prefix_inferred": true,
+      "evidence": "Faculty Package: MEDF1012, 1031"
+    },
+    {
+      "course_code": "PHAR1110",
+      "prefix_inferred": false,
+      "evidence": "Major Required: PHAR1110, 1440"
+    },
+    {
+      "course_code": "PHAR1440",
+      "prefix_inferred": true,
+      "evidence": "Major Required: PHAR1110, 1440"
+    },
+    {
+      "course_code": "PHAR1423",
+      "prefix_inferred": false,
+      "evidence": "Major Required: PHAR1423, 1433, 2131, 2211, 2313"
+    },
+    {
+      "course_code": "PHAR1433",
+      "prefix_inferred": true,
+      "evidence": "Major Required: PHAR1423, 1433, 2131, 2211, 2313"
+    },
+    {
+      "course_code": "PHAR2131",
+      "prefix_inferred": true,
+      "evidence": "Major Required: PHAR1423, 1433, 2131, 2211, 2313"
+    },
+    {
+      "course_code": "PHAR2211",
+      "prefix_inferred": true,
+      "evidence": "Major Required: PHAR1423, 1433, 2131, 2211, 2313"
+    },
+    {
+      "course_code": "PHAR2313",
+      "prefix_inferred": true,
+      "evidence": "Major Required: PHAR1423, 1433, 2131, 2211, 2313"
+    },
+    {
+      "course_code": "PHAR1434",
+      "prefix_inferred": false,
+      "evidence": "Major Required: PHAR1434, 2212, 2410, 2520"
+    },
+    {
+      "course_code": "PHAR2212",
+      "prefix_inferred": true,
+      "evidence": "Major Required: PHAR1434, 2212, 2410, 2520"
+    },
+    {
+      "course_code": "PHAR2410",
+      "prefix_inferred": true,
+      "evidence": "Major Required: PHAR1434, 2212, 2410, 2520"
+    },
+    {
+      "course_code": "PHAR2520",
+      "prefix_inferred": true,
+      "evidence": "Major Required: PHAR1434, 2212, 2410, 2520"
+    },
+    {
+      "course_code": "PHAR2710",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): PHAR2710 (if applicable)"
+    },
+    {
+      "course_code": "PHAR2110",
+      "prefix_inferred": false,
+      "evidence": "Major Required: PHAR2110, 2213, 2320, 3413"
+    },
+    {
+      "course_code": "PHAR2213",
+      "prefix_inferred": true,
+      "evidence": "Major Required: PHAR2110, 2213, 2320, 3413"
+    },
+    {
+      "course_code": "PHAR2320",
+      "prefix_inferred": true,
+      "evidence": "Major Required: PHAR2110, 2213, 2320, 3413"
+    },
+    {
+      "course_code": "PHAR3413",
+      "prefix_inferred": true,
+      "evidence": "Major Required: PHAR2110, 2213, 2320, 3413"
+    },
+    {
+      "course_code": "PHAR2220",
+      "prefix_inferred": false,
+      "evidence": "Major Required: PHAR2220, 2330, 3414, 3812"
+    },
+    {
+      "course_code": "PHAR2330",
+      "prefix_inferred": true,
+      "evidence": "Major Required: PHAR2220, 2330, 3414, 3812"
+    },
+    {
+      "course_code": "PHAR3414",
+      "prefix_inferred": true,
+      "evidence": "Major Required: PHAR2220, 2330, 3414, 3812"
+    },
+    {
+      "course_code": "PHAR3812",
+      "prefix_inferred": true,
+      "evidence": "Major Required: PHAR2220, 2330, 3414, 3812"
+    },
+    {
+      "course_code": "PHAR2710",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): 1 course from PHAR2710, 2711, 2712 (if applicable)"
+    },
+    {
+      "course_code": "PHAR2711",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 1 course from PHAR2710, 2711, 2712 (if applicable)"
+    },
+    {
+      "course_code": "PHAR2712",
+      "prefix_inferred": true,
+      "evidence": "Major Elective(s): 1 course from PHAR2710, 2711, 2712 (if applicable)"
+    },
+    {
+      "course_code": "PHAR3330",
+      "prefix_inferred": false,
+      "evidence": "Major Required: PHAR3330, 3415, 3510"
+    },
+    {
+      "course_code": "PHAR3415",
+      "prefix_inferred": true,
+      "evidence": "Major Required: PHAR3330, 3415, 3510"
+    },
+    {
+      "course_code": "PHAR3510",
+      "prefix_inferred": true,
+      "evidence": "Major Required: PHAR3330, 3415, 3510"
+    },
+    {
+      "course_code": "PHAR4911",
+      "prefix_inferred": false,
+      "evidence": "Major Elective(s): PHAR4911 (for Area of Concentration: Research)"
+    },
+    {
+      "course_code": "PHAR1004",
+      "prefix_inferred": false,
+      "evidence": "Major Required: PHAR1004, 3420"
+    },
+    {
+      "course_code": "PHAR3420",
+      "prefix_inferred": true,
+      "evidence": "Major Required: PHAR1004, 3420"
+    },
+    {
+      "course_code": "PHAR4201",
+      "prefix_inferred": false,
+      "evidence": "PHAR4201, 4301 and 2 units of courses chosen from the following: PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+    },
+    {
+      "course_code": "PHAR4301",
+      "prefix_inferred": true,
+      "evidence": "PHAR4201, 4301 and 2 units of courses chosen from the following: PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+    },
+    {
+      "course_code": "PHAR4204",
+      "prefix_inferred": false,
+      "evidence": "PHAR4201, 4301 and 2 units of courses chosen from the following: PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+    },
+    {
+      "course_code": "PHAR4205",
+      "prefix_inferred": true,
+      "evidence": "PHAR4201, 4301 and 2 units of courses chosen from the following: PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+    },
+    {
+      "course_code": "PHAR4302",
+      "prefix_inferred": true,
+      "evidence": "PHAR4201, 4301 and 2 units of courses chosen from the following: PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+    },
+    {
+      "course_code": "PHAR4303",
+      "prefix_inferred": true,
+      "evidence": "PHAR4201, 4301 and 2 units of courses chosen from the following: PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+    },
+    {
+      "course_code": "PHAR4304",
+      "prefix_inferred": true,
+      "evidence": "PHAR4201, 4301 and 2 units of courses chosen from the following: PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+    },
+    {
+      "course_code": "PHAR4305",
+      "prefix_inferred": true,
+      "evidence": "PHAR4201, 4301 and 2 units of courses chosen from the following: PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+    },
+    {
+      "course_code": "PHAR4306",
+      "prefix_inferred": true,
+      "evidence": "PHAR4201, 4301 and 2 units of courses chosen from the following: PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+    },
+    {
+      "course_code": "PHAR4307",
+      "prefix_inferred": true,
+      "evidence": "PHAR4201, 4301 and 2 units of courses chosen from the following: PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+    },
+    {
+      "course_code": "PHAR4308",
+      "prefix_inferred": true,
+      "evidence": "PHAR4201, 4301 and 2 units of courses chosen from the following: PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+    },
+    {
+      "course_code": "PHAR4309",
+      "prefix_inferred": true,
+      "evidence": "PHAR4201, 4301 and 2 units of courses chosen from the following: PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+    },
+    {
+      "course_code": "PHAR4310",
+      "prefix_inferred": true,
+      "evidence": "PHAR4201, 4301 and 2 units of courses chosen from the following: PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+    },
+    {
+      "course_code": "PHAR4350",
+      "prefix_inferred": true,
+      "evidence": "PHAR4201, 4301 and 2 units of courses chosen from the following: PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+    },
+    {
+      "course_code": "PHAR4401",
+      "prefix_inferred": true,
+      "evidence": "PHAR4201, 4301 and 2 units of courses chosen from the following: PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+    },
+    {
+      "course_code": "PHAR4402",
+      "prefix_inferred": true,
+      "evidence": "PHAR4201, 4301 and 2 units of courses chosen from the following: PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+    },
+    {
+      "course_code": "PHAR4403",
+      "prefix_inferred": true,
+      "evidence": "PHAR4201, 4301 and 2 units of courses chosen from the following: PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+    },
+    {
+      "course_code": "PHAR4501",
+      "prefix_inferred": true,
+      "evidence": "PHAR4201, 4301 and 2 units of courses chosen from the following: PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+    },
+    {
+      "course_code": "PHAR4601",
+      "prefix_inferred": true,
+      "evidence": "PHAR4201, 4301 and 2 units of courses chosen from the following: PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+    },
+    {
+      "course_code": "PHAR4901",
+      "prefix_inferred": true,
+      "evidence": "PHAR4201, 4301 and 2 units of courses chosen from the following: PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901"
+    },
+    {
+      "course_code": "PHAR4912",
+      "prefix_inferred": false,
+      "evidence": "PHAR4912"
+    },
+    {
+      "course_code": "PHAR1000",
+      "prefix_inferred": false,
+      "evidence": "PHAR1000"
+    },
+    {
+      "course_code": "PHAR1004",
+      "prefix_inferred": false,
+      "evidence": "PHAR1004"
+    },
+    {
+      "course_code": "PHAR1110",
+      "prefix_inferred": false,
+      "evidence": "PHAR1110"
+    },
+    {
+      "course_code": "PHAR1423",
+      "prefix_inferred": false,
+      "evidence": "PHAR1423"
+    },
+    {
+      "course_code": "PHAR1433",
+      "prefix_inferred": false,
+      "evidence": "PHAR1433"
+    },
+    {
+      "course_code": "PHAR1434",
+      "prefix_inferred": false,
+      "evidence": "PHAR1434"
+    },
+    {
+      "course_code": "PHAR1440",
+      "prefix_inferred": false,
+      "evidence": "PHAR1440"
+    },
+    {
+      "course_code": "PHAR2018",
+      "prefix_inferred": false,
+      "evidence": "PHAR2018"
+    },
+    {
+      "course_code": "PHAR2110",
+      "prefix_inferred": false,
+      "evidence": "PHAR2110"
+    },
+    {
+      "course_code": "PHAR2131",
+      "prefix_inferred": false,
+      "evidence": "PHAR2131"
+    },
+    {
+      "course_code": "PHAR2211",
+      "prefix_inferred": false,
+      "evidence": "PHAR2211"
+    },
+    {
+      "course_code": "PHAR2212",
+      "prefix_inferred": false,
+      "evidence": "PHAR2212"
+    },
+    {
+      "course_code": "PHAR2213",
+      "prefix_inferred": false,
+      "evidence": "PHAR2213"
+    },
+    {
+      "course_code": "PHAR2220",
+      "prefix_inferred": false,
+      "evidence": "PHAR2220"
+    },
+    {
+      "course_code": "PHAR2313",
+      "prefix_inferred": false,
+      "evidence": "PHAR2313"
+    },
+    {
+      "course_code": "PHAR2320",
+      "prefix_inferred": false,
+      "evidence": "PHAR2320"
+    },
+    {
+      "course_code": "PHAR2330",
+      "prefix_inferred": false,
+      "evidence": "PHAR2330"
+    },
+    {
+      "course_code": "PHAR2410",
+      "prefix_inferred": false,
+      "evidence": "PHAR2410"
+    },
+    {
+      "course_code": "PHAR2520",
+      "prefix_inferred": false,
+      "evidence": "PHAR2520"
+    },
+    {
+      "course_code": "PHAR2710",
+      "prefix_inferred": false,
+      "evidence": "PHAR2710"
+    },
+    {
+      "course_code": "PHAR2711",
+      "prefix_inferred": false,
+      "evidence": "PHAR2711"
+    },
+    {
+      "course_code": "PHAR2712",
+      "prefix_inferred": false,
+      "evidence": "PHAR2712"
+    },
+    {
+      "course_code": "PHAR3330",
+      "prefix_inferred": false,
+      "evidence": "PHAR3330"
+    },
+    {
+      "course_code": "PHAR3413",
+      "prefix_inferred": false,
+      "evidence": "PHAR3413"
+    },
+    {
+      "course_code": "PHAR3414",
+      "prefix_inferred": false,
+      "evidence": "PHAR3414"
+    },
+    {
+      "course_code": "PHAR3415",
+      "prefix_inferred": false,
+      "evidence": "PHAR3415"
+    },
+    {
+      "course_code": "PHAR3420",
+      "prefix_inferred": false,
+      "evidence": "PHAR3420"
+    },
+    {
+      "course_code": "PHAR3510",
+      "prefix_inferred": false,
+      "evidence": "PHAR3510"
+    },
+    {
+      "course_code": "PHAR3603",
+      "prefix_inferred": false,
+      "evidence": "PHAR3603"
+    },
+    {
+      "course_code": "PHAR3604",
+      "prefix_inferred": false,
+      "evidence": "PHAR3604"
+    },
+    {
+      "course_code": "PHAR3605",
+      "prefix_inferred": false,
+      "evidence": "PHAR3605"
+    },
+    {
+      "course_code": "PHAR3812",
+      "prefix_inferred": false,
+      "evidence": "PHAR3812"
+    },
+    {
+      "course_code": "PHAR4201",
+      "prefix_inferred": false,
+      "evidence": "PHAR4201"
+    },
+    {
+      "course_code": "PHAR4204",
+      "prefix_inferred": false,
+      "evidence": "PHAR4204"
+    },
+    {
+      "course_code": "PHAR4205",
+      "prefix_inferred": false,
+      "evidence": "PHAR4205"
+    },
+    {
+      "course_code": "PHAR4301",
+      "prefix_inferred": false,
+      "evidence": "PHAR4301"
+    },
+    {
+      "course_code": "PHAR4302",
+      "prefix_inferred": false,
+      "evidence": "PHAR4302"
+    },
+    {
+      "course_code": "PHAR4303",
+      "prefix_inferred": false,
+      "evidence": "PHAR4303"
+    },
+    {
+      "course_code": "PHAR4304",
+      "prefix_inferred": false,
+      "evidence": "PHAR4304"
+    },
+    {
+      "course_code": "PHAR4305",
+      "prefix_inferred": false,
+      "evidence": "PHAR4305"
+    },
+    {
+      "course_code": "PHAR4306",
+      "prefix_inferred": false,
+      "evidence": "PHAR4306"
+    },
+    {
+      "course_code": "PHAR4307",
+      "prefix_inferred": false,
+      "evidence": "PHAR4307"
+    },
+    {
+      "course_code": "PHAR4308",
+      "prefix_inferred": false,
+      "evidence": "PHAR4308"
+    },
+    {
+      "course_code": "PHAR4309",
+      "prefix_inferred": false,
+      "evidence": "PHAR4309"
+    },
+    {
+      "course_code": "PHAR4310",
+      "prefix_inferred": false,
+      "evidence": "PHAR4310"
+    },
+    {
+      "course_code": "PHAR4350",
+      "prefix_inferred": false,
+      "evidence": "PHAR4350"
+    },
+    {
+      "course_code": "PHAR4401",
+      "prefix_inferred": false,
+      "evidence": "PHAR4401"
+    },
+    {
+      "course_code": "PHAR4402",
+      "prefix_inferred": false,
+      "evidence": "PHAR4402"
+    },
+    {
+      "course_code": "PHAR4403",
+      "prefix_inferred": false,
+      "evidence": "PHAR4403"
+    },
+    {
+      "course_code": "PHAR4501",
+      "prefix_inferred": false,
+      "evidence": "PHAR4501"
+    },
+    {
+      "course_code": "PHAR4601",
+      "prefix_inferred": false,
+      "evidence": "PHAR4601"
+    },
+    {
+      "course_code": "PHAR4901",
+      "prefix_inferred": false,
+      "evidence": "PHAR4901"
+    },
+    {
+      "course_code": "PHAR4911",
+      "prefix_inferred": false,
+      "evidence": "PHAR4911"
+    }
+  ],
+  "course_code_aliases": [],
+  "source": {
+    "system": "CUHK CUSIS Browse Program Information",
+    "url": "https://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/tt_dsp_acad_prog.aspx",
+    "source_text_file": "data/cuhk/2024/programmes/Bachelor_of_Pharmacy__Faculty_of_Medicine.txt",
+    "reused_duplicate_entry": false,
+    "reused_from_faculty": null
+  },
+  "raw_text": "\n\nBrowse Program Information\n\n\n\n\n\n\nAcademic Program:\tBachelor of Pharmacy\nAcademic Year:\t2024\nLanguage:\t\nEnglish\nSimplified Chinese\nTraditional Chinese\n\n\n\nLearning Outcomes\nStudy Scheme\n \n\n\t\n\nPharmacy\n\nApplicable to students admitted in 2024-25\n\n\n\n\n \n\n\n\n\n \n\nMajor Programme Requirement\n\n \n\n\t\n\n \n\n\n\n\nStudents are required to complete a minimum of 75 units of courses as follows:\n\n\n\n\n \n\n\t\n\n \n\n\t\n\nUnits\n\n\n\n\n1.\n\n\t\n\nFaculty Package:\n\n\t\n\n10\n\n\n\n\n \n\n\t\n\nMEDF1011[a], 1012[a], 1021, 1031 and 1041\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n2.\n\n\t\n\nRequired Courses:\n\n\t\n\n57\n\n\n\n\n \n\n\t\n\nPHAR1000#, 1004, 1110, 1423, 1433, 1434, 1440, 2110, 2131, 2211, 2212, 2213, 2220, 2313, 2320, 2330, 2410, 2520, 3330, 3413, 3414, 3415, 3420, 3510, 3812\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n3.\n\n\t\n\nElective Courses:\n\n\t\n\n \n\n\n\n\n(a)\n\n\t\n\nStudents are required to complete 6 units of capstone courses from one of the Areas of Concentration.\n\n\t\n\n6\n\n\n\n\n \n\n\t\n\nArea of Concentration: Pharmacy Clerkship\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(i)\n\n\t\n\nPHAR4201, 4301\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(ii)\n\n\t\n\n2 units of courses chosen from the following[b]:\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\nPHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nArea of Concentration: Research\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n(i)\n\n\t\n\nPHAR4911, 4912\n\n\t\n\n \n\n\n\n\n \n\n\t\n\n \n\n\t\n\n \n\n\n\n\n(b)\n\n\t\n\nAt least 2 units of courses chosen from the following[c]:\n\n\t\n\n2\n\n\n\n\n \n\n\t\n\nPHAR2710, 2711, 2712\n\n\t\n\n \n\n\n\n\n \n\n\t\n\nTotal:\n\n\t\n\n75\n\n\n\n\n \n\n\n\n\nExplanatory Notes:\n\n\n\n\n1.\n\n\t\n\nPHAR courses at 2000 and above level as well as those labeled as # will be included in the calculation of Major GPA for honours classification.\n\n\n\n\n2.\n\n\t\n\nStudents are encouraged to take 1–5 units of free elective courses from PHAR2018, 3603, 3604 and 3605 in the summer session to gain experience in pharmacy practice.  However, these free elective courses shall not be counted towards the calculation of Major GPA for honours classification.\n\n\n\n\n3.\n\n\t\n\nStudents must obtain Grade \"C+\" or above in the following courses, including PHAR3603, 3604, 3605, 3812, 4201, 4204, 4205, 4301, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901 and 4912, in order to fulfill Major Programme Requirement. Those who obtain Grade \"C\" or below may repeat the same course or take a substitute course to fulfill the Major Programme Requirement in the subsequent year.\n\n\n\n\n4.\n\n\t\n\nStudents are required to declare the Area of Concentration in June of the year immediately before their final year of attendance.\n\n\n\n\n[a]\n\n\t\n\nStudents obtained a total score of at least 38 in 6 HKDSE subjects, including at least 5* in English, Biology and Chemistry, are eligible to apply for course and unit exemptions for MEDF1011 and MEDF1012, to be granted by the Board of the Faculty of Medicine on a case-by-case basis on behalf of the Senate.  Students who have been granted such exemptions are still required to fulfill the overall unit requirement of the Major Programme.\n\n\n\n\n[b]\n\n\t\n\nOnly a number of Pharmacy Clerkship courses will be offered in each academic year in accordance with resources available in that particular academic year.\n\n\n\n\n[c]\n\n\t\n\nStudents are encouraged to take two major elective courses. If students take more than 1 Major Elective Course, the surplus course(s) shall also be counted towards the calculation of Major GPA for honours classification.\n\n \n\n\n\n\n \n\n\n\n\n \n\n\t\n\nRecommended Course Pattern\n\n\t\n\nUnits\n\n\n\n\nFirst Year of\n\nAttendance\n\n\t\n\n1st term\n\nFaculty Package: MEDF1011, 1021, 1041\n\nMajor Required: PHAR1000\n\nMajor Elective(s):\n\n\t\n\n \n\n5\n\n2\n\n \n\n\n\n\n2nd term\n\nFaculty Package: MEDF1012, 1031\n\nMajor Required: PHAR1110, 1440\n\nMajor Elective(s):\n\n\t\n\n \n\n5\n\n3\n\n \n\n\n\n\nSecond Year of Attendance\n\n\t\n\n1st term\n\nMajor Required: PHAR1423, 1433, 2131, 2211, 2313\n\nMajor Elective(s):\n\n\t\n\n \n\n11\n\n \n\n\n\n\n2nd term\n\nMajor Required: PHAR1434, 2212, 2410, 2520\n\nMajor Elective(s): PHAR2710 (if applicable)\n\n\t\n\n \n\n9\n\n0-2\n\n\n\n\nThird Year of Attendance\n\n\t\n\n1st term\n\nMajor Required: PHAR2110, 2213, 2320, 3413\n\nMajor Elective(s):\n\n\t\n\n \n\n11\n\n \n\n\n\n\n2nd term\n\nMajor Required: PHAR2220, 2330, 3414, 3812\n\nMajor Elective(s): 1 course from PHAR2710, 2711, 2712 (if applicable)\n\n\t\n\n \n\n9\n\n0-2\n\n\n\n\nFourth Year of Attendance\n\n\t\n\n1st term\n\nMajor Required: PHAR3330, 3415, 3510\n\nMajor Elective(s): PHAR4911 (for Area of Concentration: Research)\n\n\t\n\n \n\n9\n\n\n\n\n2nd term\n\nMajor Required: PHAR1004, 3420\n\nMajor Elective(s):\n\nArea of Concentration: Pharmacy Clerkship\n\nPHAR4201, 4301 and 2 units of courses chosen from the following: PHAR4204, 4205, 4302, 4303, 4304, 4305, 4306, 4307, 4308, 4309, 4310, 4350, 4401, 4402, 4403, 4501, 4601, 4901\n\nor\n\nArea of Concentration: Research\n\nPHAR4912\n\n\t\n\n \n\n3\n\n6\n\n \n\n \n\n \n\n \n\n\n\n\nTotal (including Faculty Package):\n\n\t\n\n75\n\n\n\n\n \n\n\n\n\nCourse List\n\n\n\n\nCourse Code\n\n\t\n\nCourse Title\n\n\t\n\nUnit(s)\n\n\n\n\nPHAR1000\n\n\t\n\nIntroduction to Pharmacy\n\n\t\n\n2\n\n\n\n\nPHAR1004\n\n\t\n\nPersonal Development in Pharmacy\n\n\t\n\n1\n\n\n\n\nPHAR1110\n\n\t\n\nFundamentals of Pharmaceutical Chemistry\n\n\t\n\n2\n\n\n\n\nPHAR1423\n\n\t\n\nBiochemistry and Molecular Biology\n\n\t\n\n2\n\n\n\n\nPHAR1433\n\n\t\n\nAnatomy and Physiology I\n\n\t\n\n2\n\n\n\n\nPHAR1434\n\n\t\n\nAnatomy and Physiology II\n\n\t\n\n2\n\n\n\n\nPHAR1440\n\n\t\n\nClinical Microbiology and Infection Control\n\n\t\n\n1\n\n\n\n\nPHAR2018\n\n\t\n\nInter-professional Learning for Medication Safety\n\n\t\n\n1\n\n\n\n\nPHAR2110\n\n\t\n\nMedicinal Chemistry and Drug Design\n\n\t\n\n3\n\n\n\n\nPHAR2131\n\n\t\n\nPharmaceutical Analysis\n\n\t\n\n2\n\n\n\n\nPHAR2211\n\n\t\n\nDosage Form Science I\n\n\t\n\n2\n\n\n\n\nPHAR2212\n\n\t\n\nDosage Form Science II \n\n\t\n\n2\n\n\n\n\nPHAR2213\n\n\t\n\nPharmaceutical Product Development and Manufacturing\n\n\t\n\n3\n\n\n\n\nPHAR2220\n\n\t\n\nBiopharmaceutics and Pharmacokinetics\n\n\t\n\n2\n\n\n\n\nPHAR2313\n\n\t\n\nPrinciples of Pharmaceutical Dispensing\n\n\t\n\n3\n\n\n\n\nPHAR2320\n\n\t\n\nPharmacy Law\n\n\t\n\n2\n\n\n\n\nPHAR2330\n\n\t\n\nContemporary Pharmacy Practice\n\n\t\n\n2\n\n\n\n\nPHAR2410\n\n\t\n\nPharmacology and Therapeutics I\n\n\t\n\n3\n\n\n\n\nPHAR2520\n\n\t\n\nFundamentals of Herbal Medicines\n\n\t\n\n2\n\n\n\n\nPHAR2710\n\n\t\n\nPharmaceutical Research Methods\n\n\t\n\n2\n\n\n\n\nPHAR2711\n\n\t\n\nHealthcare Management and Pharmaceutical Marketing\n\n\t\n\n2\n\n\n\n\nPHAR2712\n\n\t\n\nHealth System Management\n\n\t\n\n2\n\n\n\n\nPHAR3330\n\n\t\n\nCommunity Pharmacy Practice\n\n\t\n\n3\n\n\n\n\nPHAR3413\n\n\t\n\nPharmacology and Therapeutics II\n\n\t\n\n3\n\n\n\n\nPHAR3414\n\n\t\n\nPharmacology and Therapeutics III\n\n\t\n\n3\n\n\n\n\nPHAR3415\n\n\t\n\nPharmacology and Therapeutics IV\n\n\t\n\n3\n\n\n\n\nPHAR3420\n\n\t\n\nPharmacogenomics and Pharmaceutical Biotechnology\n\n\t\n\n2\n\n\n\n\nPHAR3510\n\n\t\n\nComplementary and Alternative Medicine\n\n\t\n\n3\n\n\n\n\nPHAR3603\n\n\t\n\nInternational Pharmacy Practice\n\n\t\n\n2\n\n\n\n\nPHAR3604\n\n\t\n\nCommunity Pharmacy Summer Clerkship\n\n\t\n\n1\n\n\n\n\nPHAR3605\n\n\t\n\nHospital Pharmacy Summer Clerkship\n\n\t\n\n1\n\n\n\n\nPHAR3812\n\n\t\n\nClinical Assessment and Monitoring\n\n\t\n\n2\n\n\n\n\nPHAR4201\n\n\t\n\nCommunity Pharmacy Clerkship\n\n\t\n\n2\n\n\n\n\nPHAR4204\n\n\t\n\nPharmacy Clerkship: Community- based Practice\n\n\t\n\n2\n\n\n\n\nPHAR4205\n\n\t\n\nPharmacy Management and Administration Clerkship\n\n\t\n\n2\n\n\n\n\nPHAR4301\n\n\t\n\nHospital Pharmacy Clerkship\n\n\t\n\n2\n\n\n\n\nPHAR4302\n\n\t\n\nClinical Pharmacy Clerkship: Cardiology\n\n\t\n\n2\n\n\n\n\nPHAR4303\n\n\t\n\nClinical Pharmacy Clerkship: Infectious Diseases\n\n\t\n\n2\n\n\n\n\nPHAR4304\n\n\t\n\nClinical Pharmacy Clerkship: Psychiatry\n\n\t\n\n2\n\n\n\n\nPHAR4305\n\n\t\n\nClinical Pharmacy Clerkship: Oncology\n\n\t\n\n2\n\n\n\n\nPHAR4306\n\n\t\n\nHospital Pharmacy Experience in Chinese Mainland\n\n\t\n\n2\n\n\n\n\nPHAR4307\n\n\t\n\nClinical Pharmacy Clerkship: Paediatrics\n\n\t\n\n2\n\n\n\n\nPHAR4308\n\n\t\n\nClinical Pharmacy Clerkship: Emergency Medicine/Critical Care\n\n\t\n\n2\n\n\n\n\nPHAR4309\n\n\t\n\nClinical Pharmacy Clerkship: Nephrology\n\n\t\n\n2\n\n\n\n\nPHAR4310\n\n\t\n\nClinical Pharmacy Clerkship: Geriatrics\n\n\t\n\n2\n\n\n\n\nPHAR4350\n\n\t\n\nClinical Trial Centre Clerkship\n\n\t\n\n2\n\n\n\n\nPHAR4401\n\n\t\n\nIndustrial Pharmacy Clerkship: Multi-national Company\n\n\t\n\n2\n\n\n\n\nPHAR4402\n\n\t\n\nIndustrial Pharmacy Clerkship: Local Manufacturer\n\n\t\n\n2\n\n\n\n\nPHAR4403\n\n\t\n\nPharmacogenomics and Personalized Medicine Clerkship\n\n\t\n\n2\n\n\n\n\nPHAR4501\n\n\t\n\nTCM Clerkship\n\n\t\n\n2\n\n\n\n\nPHAR4601\n\n\t\n\nDrug Information Clerkship\n\n\t\n\n2\n\n\n\n\nPHAR4901\n\n\t\n\nPharmacy Research Experience Clerkship\n\n\t\n\n2\n\n\n\n\nPHAR4911\n\n\t\n\nResearch Project I\n\n\t\n\n0\n\n\n\n\nPHAR4912\n\n\t\n\nResearch Project II\n\n\t\n\n6\n\n\n\n\n \n\n \n\n\n \n\nStudy Scheme\n\n\nLearning Outcomes\n \n\n\t\n\n1.         Major Programme:\n\nUpon the completion of the Pharmacy programme, the graduate is:\n\n \n\n(1)  Professional knowledge and application (K/S)\n\n-         prepared with scientific and professional knowledge and skills for contemporary pharmaceutical practice;\n\n-         equipped with qualitative and quantitative/statistical analysis skills, and be able to collect, interpret and manage scientific and clinical data;\n\n-         able to adopt a systematic approach in analyzing and solving problems in the manufacture and quality assurance of pharmaceutical products;\n\n \n\n(2)  Professional attitude and conduct (S/V)\n\n-         able to accept responsibility for his/her own actions and decisions;\n\n-         able to apply relevant ethical and legal principles in the practice of pharmacy;\n\n-         able to uphold the professional code of conduct;\n\n \n\n(3)  Professional communication (S)\n\n-         able to communicate effectively with patients, peers, other health professionals and the public;\n\n-         confident and competent in counselling patients and clients on prescription, non-prescription drugs and consumer health products;\n\n \n\n(4)  Information evaluation and decision-making (K/S)\n\n-         able to retrieve and critically evaluate medical/pharmaceutical literature;\n\n-         able to identify and appropriately utilize drug information resources to assist with patient-specific drug therapy monitoring;\n\n-         confident in making decisions on patients’ drug therapy and recommending appropriate treatment; and\n\n \n\n(5)  Continuing education and lifelong learning (K/S/V)\n\n-         able to build upon his/her knowledge and skills and engage in lifelong continuing education and professional development.\n\n \n\nK = Knowledge outcomes S = Skills outcomes V = Values and attitudes outcomes\n\n \n\n \n\n\n"
+}

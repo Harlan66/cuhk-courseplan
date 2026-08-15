@@ -1,0 +1,221 @@
+	Data Language:  
+English
+Simplified Chinese
+Traditional Chinese
+	
+														
+	
+Groupbox
+
+			
+	
+Teaching Timetable
+
+	
+Class Detail
+
+	
+ 
+
+
+	
+
+
+	
+
+	
+ACCT 2111 - B   Introductory Financial Accounting
+
+
+	
+CUHK | 2026-27 Term 1 | Lecture
+
+	
+
+
+	
+Class Details
+
+				
+	
+								
+	
+
+	
+Status
+
+		
+Open
+
+	
+Class Number
+
+	
+7071
+
+	
+Session
+
+	
+Regular Academic Session
+
+	
+1
+
+	
+Units
+
+	
+3 units
+
+	
+Instruction Mode
+
+	
+In Person
+
+	
+P
+
+		
+Lecture Required
+
+	
+Class Components
+
+	
+<table class="PSTEXT"><tr><td>Lecture Required</td></tr></table>
+		
+				
+	
+Course ID
+
+		
+001083
+
+	
+Offer Nbr
+
+	
+1
+
+	
+Career
+	
+Undergraduate
+
+	
+UG
+
+	
+Dates
+
+	
+2026/8/1 - 2026/12/31
+
+	
+Grading
+	
+Graded
+
+		
+GRD
+
+	
+Campus
+	
+Main Campus
+
+	
+MAIN
+
+
+
+
+	
+Meeting Information
+
+
+Days & Times	Room	Instructor	Meeting Dates
+
+Mo 12:30 - 15:15
+	
+Li Koon Chun Hall LT1
+	
+Professor Janja BRENDEL
+	
+9/7, 9/14, 9/21, 9/28, 10/5, 10/12
+
+
+Mo 12:30 - 15:15
+	
+Li Koon Chun Hall LT1
+	
+Professor Janja BRENDEL
+	
+10/26, 11/2, 11/9, 11/16, 11/23, 11/30
+
+
+	
+Enrollment Information
+
+					
+	
+Not for students who have taken ACCT1111
+
+	
+Enrollment Requirements
+
+	
+			
+	
+Class Attributes
+		
+English only
+
+
+
+
+	
+Class Availability
+
+						
+	
+Class Capacity
+	
+130
+	
+Wait List Capacity
+	
+999
+
+	
+Enrollment Total
+	
+57
+	
+Wait List Total
+	
+7
+
+	
+Available Seats
+	
+73
+
+
+	
+Description
+
+	
+	
+This course is designed to provide students with a comprehensive understanding of financial accounting principles, practices and its underlying theories. In this course, we will emphasize on basic financial accounting concepts and principles, and discuss how to measure a company's net income, assets, liabilities and shareholders' equity using Generally Accepted Accounting Principles (GAAP).
+
+
+	
+	
+	
+Return to Teaching Timetable
+
+
+
